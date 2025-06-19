@@ -209,47 +209,16 @@ export default function Hero() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.3 }}
           >
-            <div className="grid grid-cols-2 gap-4">
-              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
-                <Image
-                  src={getImageUrl("brands/Mitsubishi-Electric.png")}
-                  alt="Mitsubishi Electric"
-                  width={150}
-                  height={150}
-                  className="object-contain"
-                  priority
-                />
-              </div>
-              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
-                <Image
-                  src={getImageUrl("brands/LS.webp")}
-                  alt="LS Industrial"
-                  width={150}
-                  height={150}
-                  className="object-contain"
-                  priority
-                />
-              </div>
-              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
-                <Image
-                  src={getImageUrl("brands/Noark.jpg")}
-                  alt="Noark"
-                  width={150}
-                  height={150}
-                  className="object-contain"
-                  priority
-                />
-              </div>
-              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
-                <Image
-                  src={getImageUrl("brands/Erico.jpg")}
-                  alt="Erico"
-                  width={150}
-                  height={150}
-                  className="object-contain"
-                  priority
-                />
-              </div>
+            <div className="relative w-full h-[500px] rounded-2xl overflow-hidden shadow-2xl">
+              <Image
+                src={getImageUrl("hero/hero-image.jpg")}
+                alt="Industrial Automation Equipment"
+                fill
+                className="object-cover"
+                priority
+                quality={90}
+              />
+              <div className="absolute inset-0 bg-gradient-to-r from-black/20 to-transparent" />
             </div>
           </motion.div>
         </div>
