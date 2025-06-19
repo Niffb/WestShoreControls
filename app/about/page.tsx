@@ -216,7 +216,7 @@ export default function AboutPage() {
             {[
               {
                 name: "TMEIC",
-                logo: getImageUrl("TMEIC_logo.svg"),
+                logo: getImageUrl("brands/TMEIC_logo.svg"),
                 type: "VAR (Value-Added Reseller)",
                 since: "2019",
                 badge: "Technology Partner",
@@ -226,7 +226,7 @@ export default function AboutPage() {
               },
               {
                 name: "Mitsubishi Electric",
-                logo: getImageUrl("Mitsubishi-Electric.png"),
+                logo: getImageUrl("brands/Mitsubishi-Electric.webp"),
                 type: "Authorized Distributor",
                 since: "2010",
                 badge: "Diamond Partner",
@@ -236,7 +236,7 @@ export default function AboutPage() {
               },
               {
                 name: "Noark",
-                logo: getImageUrl("Noark.jpg"),
+                logo: getImageUrl("brands/Noark.webp"),
                 type: "Stocking Distributor",
                 since: "2014",
                 badge: "Certified Partner",
@@ -256,7 +256,7 @@ export default function AboutPage() {
               },
               {
                 name: "Erico",
-                logo: getImageUrl("Erico.jpg"),
+                logo: getImageUrl("brands/Erico.webp"),
                 type: "Stocking Distributor",
                 since: "2015",
                 badge: "Premium Partner",
@@ -276,7 +276,7 @@ export default function AboutPage() {
               },
               {
                 name: "Klemsan",
-                logo: getImageUrl("klemsan-logo.png"),
+                logo: getImageUrl("brands/klemsan-logo.webp"),
                 type: "Stocking Distributor",
                 since: "2017",
                 badge: "Technology Partner",
@@ -286,7 +286,7 @@ export default function AboutPage() {
               },
               {
                 name: "Elsteel",
-                logo: getImageUrl("Elsteel.png"),
+                logo: getImageUrl("brands/Elsteel.webp"),
                 type: "Stocking Distributor",
                 since: "2018",
                 badge: "Approved Partner",

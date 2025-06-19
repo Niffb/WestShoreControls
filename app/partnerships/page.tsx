@@ -75,7 +75,7 @@ export default function PartnershipsPage() {
   const partners = [
     {
       name: "Mitsubishi Electric",
-      logo: getImageUrl("Mitsubishi-Electric.png"),
+      logo: getImageUrl("brands/Mitsubishi-Electric.webp"),
       type: "Authorized Distributor",
       since: "2010",
       badge: "Diamond Partner",
@@ -87,7 +87,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Erico",
-      logo: getImageUrl("Erico.jpg"), 
+      logo: getImageUrl("brands/Erico.webp"), 
       type: "Stocking Distributor",
       since: "2015",
       badge: "Premium Partner",
@@ -111,7 +111,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Noark",
-      logo: getImageUrl("Noark.jpg"),
+      logo: getImageUrl("brands/Noark.webp"),
       type: "Stocking Distributor",
       since: "2014", 
       badge: "Certified Partner",
@@ -123,7 +123,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Klemsan",
-      logo: getImageUrl("klemsan-logo.png"),
+      logo: getImageUrl("brands/klemsan-logo.webp"),
       type: "Stocking Distributor",
       since: "2017",
       badge: "Technology Partner",
@@ -147,7 +147,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Elsteel", 
-      logo: getImageUrl("Elsteel.png"),
+      logo: getImageUrl("brands/Elsteel.webp"),
       type: "Stocking Distributor",
       since: "2018",
       badge: "Approved Partner",
@@ -159,7 +159,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "TMEIC",
-      logo: getImageUrl("TMEIC_logo.svg"),
+      logo: getImageUrl("brands/TMEIC_logo.svg"),
       type: "VAR (Value-Added Reseller)",
       since: "2019",
       badge: "Technology Partner",
@@ -278,28 +278,28 @@ export default function PartnershipsPage() {
                      {/* Partner Logos Preview */}
            <div className="flex flex-wrap justify-center items-center gap-6 opacity-60">
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("Mitsubishi-Electric.png")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Mitsubishi-Electric.webp")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("Erico.jpg")} alt="Erico" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Erico.webp")} alt="Erico" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("Noark.jpg")} alt="Noark" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Noark.webp")} alt="Noark" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("klemsan-logo.png")} alt="Klemsan" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/klemsan-logo.webp")} alt="Klemsan" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("Elsteel.png")} alt="Elsteel" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Elsteel.webp")} alt="Elsteel" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
              </div>
            </div>
         </div>

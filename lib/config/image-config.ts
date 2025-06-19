@@ -3,9 +3,9 @@ export const IMAGE_BASE_URL = '/images'
 
 // Essential images that should stay local for critical page loading
 export const LOCAL_IMAGES = [
-  'westlogo.jpg',
-  'hero-background.png',
-  'placeholder.jpg',
+  'brands/westlogo.webp',
+  'brands/hero-background.webp',
+  'products/placeholder.jpg',
   'PC Picture LPM.avif'
 ]
 
@@ -16,7 +16,7 @@ const IMAGE_EXTENSIONS = ['.webp', '.jpg', '.jpeg', '.png', '.avif', '.svg']
 export const getImageUrl = (imagePath: string): string => {
   // Handle empty or invalid paths
   if (!imagePath || imagePath === '') {
-    return `${IMAGE_BASE_URL}/westlogo.jpg` // Use local public fallback
+    return `${IMAGE_BASE_URL}/brands/westlogo.webp` // Use local public fallback
   }
 
   // Remove leading slash if present
@@ -86,7 +86,7 @@ export const getOptimizedImageUrl = (imagePath: string) => {
 // Helper function to get fallback image URL if primary fails
 export const getFallbackImageUrl = (originalPath: string): string => {
   if (!originalPath || originalPath === '') {
-    return `${IMAGE_BASE_URL}/westlogo.jpg` // Use local public fallback
+    return `${IMAGE_BASE_URL}/brands/westlogo.webp` // Use local public fallback
   }
 
   const cleanPath = originalPath.startsWith('/') ? originalPath.slice(1) : originalPath
@@ -126,17 +126,23 @@ export const getFallbackImageUrl = (originalPath: string): string => {
   }
   
   // Return placeholder if all else fails
-  return `${IMAGE_BASE_URL}/westlogo.jpg`
+  return `${IMAGE_BASE_URL}/brands/westlogo.webp`
 }
 
 // Helper function to preload critical images
 export const preloadCriticalImages = () => {
   const criticalImages = [
-    'westlogo.jpg',
-    'hero-background.png',
-    'brands/Noark.jpg',
+    'brands/westlogo.webp',
+    'brands/hero-background.webp',
+    'brands/Noark.webp',
     'brands/LS.webp',
-    'brands/Mitsubishi-Electric.png'
+    'brands/Mitsubishi-Electric.webp',
+    'brands/MitsubishiLogo.webp',
+    'brands/TMEIC_logo.svg',
+    'brands/Erico.webp',
+    'brands/Katko.webp',
+    'brands/klemsan-logo.webp',
+    'brands/Elsteel.webp'
   ]
 
   criticalImages.forEach(src => {

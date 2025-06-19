@@ -101,7 +101,7 @@ export default function Header() {
                   transition={{ duration: 0.2 }}
                 >
                   <Image
-                    src={getImageUrl("westlogo.jpg")}
+                    src={getImageUrl("brands/westlogo.webp")}
                     alt="Westshore Controls"
                     fill
                     className="object-contain"

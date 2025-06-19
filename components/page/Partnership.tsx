@@ -56,11 +56,11 @@ export default function Partnership() {
             <div className="flex justify-center mb-6">
               <div className="relative w-64 h-20">
                 <Image
-                  src={getImageUrl("MitsubishiLogo.png")}
+                  src={getImageUrl("brands/MitsubishiLogo.webp")}
                   alt="Mitsubishi Electric"
-                  width={120}
-                  height={40}
-                  className="object-contain filter brightness-90 group-hover:brightness-100 transition-all duration-300"
+                  width={150}
+                  height={60}
+                  className="object-contain max-h-16 w-auto"
                 />
               </div>
             </div>
@@ -85,11 +85,11 @@ export default function Partnership() {
             <div className="flex justify-center mb-6">
               <div className="relative w-48 h-20">
                 <Image
-                  src={getImageUrl("DiamondPartnerLogo.png")}
-                  alt="Diamond Partner Program"
-                  width={150}
-                  height={50}
-                  className="object-contain filter brightness-90 group-hover:brightness-100 transition-all duration-300"
+                  src={getImageUrl("brands/DiamondPartnerLogo.webp")}
+                  alt="Diamond Partner"
+                  width={80}
+                  height={80}
+                  className="object-contain"
                 />
               </div>
             </div>

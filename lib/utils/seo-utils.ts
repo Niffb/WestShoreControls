@@ -6,8 +6,8 @@ export const SITE_CONFIG = {
   description: 'VAR (Value-Added Reseller) for TMEIC products and authorized distributor of Erico, Elsteel, Katko, and LS product lines. Delivering throughout the United States, Canada and Globally.',
   company: 'Westshore Controls Ltd.',
   foundingYear: '1999',
-  logo: '/images/westlogo.jpg',
-  ogImage: '/images/hero-background.png',
+  logo: '/images/brands/westlogo.webp',
+  ogImage: '/images/brands/hero-background.webp',
   twitterHandle: '@westshorecontrols',
   linkedinUrl: 'https://www.linkedin.com/company/westshore-controls'
 }
