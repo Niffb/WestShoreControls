@@ -1,14 +1,14 @@
 'use client'
 
-import { motion } from 'framer-motion'
+import { motion, Variants } from 'framer-motion'
 
 // Enhanced shimmer effect
-const shimmerVariants = {
+const shimmerVariants: Variants = {
   animate: {
     backgroundPosition: ['200% 0', '-200% 0'],
     transition: {
       duration: 1.5,
-      ease: 'linear',
+      ease: [0.4, 0, 0.6, 1],
       repeat: Infinity,
     },
   },
