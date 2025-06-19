@@ -75,7 +75,7 @@ export default function PartnershipsPage() {
   const partners = [
     {
       name: "Mitsubishi Electric",
-      logo: getImageUrl("brands/Mitsubishi-Electric.png"),
+      logo: getImageUrl("Mitsubishi-Electric.png"),
       type: "Authorized Distributor",
       since: "2010",
       badge: "Diamond Partner",
@@ -87,7 +87,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Erico",
-      logo: getImageUrl("brands/Erico.jpg"), 
+      logo: getImageUrl("Erico.jpg"), 
       type: "Stocking Distributor",
       since: "2015",
       badge: "Premium Partner",
@@ -99,7 +99,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "LS Industrial",
-      logo: getImageUrl("brands/LS.webp"),
+      logo: getImageUrl("LS.webp"),
       type: "Stocking Distributor", 
       since: "2012",
       badge: "Strategic Partner",
@@ -111,60 +111,60 @@ export default function PartnershipsPage() {
     },
     {
       name: "Noark",
-      logo: getImageUrl("brands/Noark.jpg"),
+      logo: getImageUrl("Noark.jpg"),
       type: "Stocking Distributor",
       since: "2014", 
       badge: "Certified Partner",
       description: "High-quality electrical components including contactors, circuit breakers, and motor protection devices for industrial applications.",
-      specialties: ["IEC Contactors", "Thermal Overload Relays", "Manual Motor Starters", "Circuit Breakers", "Supplementary Protectors"],
+      specialties: ["IEC Contactors", "Thermal Overload Relays", "Manual Motor Starters", "Circuit Breakers"],
       website: "https://www.noark-electric.com",
       color: "orange",
       gradient: "from-orange-500 to-orange-600"
     },
     {
       name: "Klemsan",
-      logo: getImageUrl("brands/klemsan-logo.png"),
+      logo: getImageUrl("klemsan-logo.png"),
       type: "Stocking Distributor",
       since: "2017",
       badge: "Technology Partner",
-      description: "Turkish manufacturer specializing in terminal blocks, industrial automation components, and electrical connection solutions for industrial applications.",
-      specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties", "Marking Solutions", "Automation Components"],
-      website: "https://www.klemsan.com.tr",
+      description: "Turkish manufacturer specializing in terminal blocks, industrial automation components, and electrical connection solutions.",
+      specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties", "Marking Solutions"],
+      website: "https://www.klemsan.com",
       color: "blue",
       gradient: "from-blue-500 to-blue-600"
     },
     {
       name: "Katko",
-      logo: getImageUrl("brands/Katko.webp"),
+      logo: getImageUrl("Katko.webp"),
       type: "Stocking Distributor",
       since: "2016",
       badge: "Trusted Partner",
       description: "UL Listed manual motor controllers and industrial control solutions designed for safety and reliability in demanding environments.",
-      specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches", "Industrial Controls", "Motor Protection"],
+      specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches", "Industrial Controls"],
       website: "https://www.katko.fi",
       color: "purple",
       gradient: "from-purple-500 to-purple-600"
     },
     {
       name: "Elsteel", 
-      logo: getImageUrl("brands/Elsteel.png"),
+      logo: getImageUrl("Elsteel.png"),
       type: "Stocking Distributor",
       since: "2018",
       badge: "Approved Partner",
       description: "Specialized electrical steel and industrial metal solutions for electrical infrastructure and industrial applications.",
-      specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication", "Electrical Infrastructure", "Metal Processing"],
-      website: "#",
+      specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication", "Electrical Infrastructure"],
+      website: "https://www.elsteel.com",
       color: "slate",
       gradient: "from-slate-500 to-slate-600"
     },
     {
       name: "TMEIC",
-      logo: getImageUrl("brands/TMEIC_logo.svg"),
+      logo: getImageUrl("TMEIC_logo.svg"),
       type: "VAR (Value-Added Reseller)",
       since: "2019",
       badge: "Technology Partner",
       description: "Leading manufacturer of high-power electrical and industrial systems including generators, drives, motors, PV inverters, and advanced control systems.",
-      specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors", "Controllers", "Software Solutions"],
+      specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors"],
       website: "https://www.tmeic.com",
       color: "indigo",
       gradient: "from-indigo-500 to-indigo-600"
@@ -278,28 +278,28 @@ export default function PartnershipsPage() {
                      {/* Partner Logos Preview */}
            <div className="flex flex-wrap justify-center items-center gap-6 opacity-60">
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Mitsubishi-Electric.png")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("Mitsubishi-Electric.png")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Erico.jpg")} alt="Erico" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("Erico.jpg")} alt="Erico" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Noark.jpg")} alt="Noark" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("Noark.jpg")} alt="Noark" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/klemsan-logo.png")} alt="Klemsan" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("klemsan-logo.png")} alt="Klemsan" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Elsteel.png")} alt="Elsteel" width={64} height={48} className="object-contain" style={{ width: 'auto', height: 'auto' }} />
+               <Image src={getImageUrl("Elsteel.png")} alt="Elsteel" width={64} height={48} className="object-contain" style={{ width: 'auto', height: 'auto' }} />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
              </div>
            </div>
         </div>

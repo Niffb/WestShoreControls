@@ -8,37 +8,37 @@ export default function PartnershipsHero() {
   const partnerships = [
     {
       name: 'Mitsubishi Electric',
-      logo: getImageUrl('brands/Mitsubishi-Electric.png'),
+      logo: getImageUrl('Mitsubishi-Electric.png'),
       alt: 'Mitsubishi Electric Logo'
     },
     {
       name: 'LS Industrial',
-      logo: getImageUrl('brands/LS.webp'),
+      logo: getImageUrl('LS.webp'),
       alt: 'LS Industrial Logo'
     },
     {
       name: 'Erico',
-      logo: getImageUrl('brands/Erico.jpg'),
+      logo: getImageUrl('Erico.jpg'),
       alt: 'Erico Logo'
     },
     {
       name: 'Noark',
-      logo: getImageUrl('brands/Noark.jpg'),
+      logo: getImageUrl('Noark.jpg'),
       alt: 'Noark Logo'
     },
     {
       name: 'Katko',
-      logo: getImageUrl('brands/Katko.webp'),
+      logo: getImageUrl('Katko.webp'),
               alt: 'Katko Logo'
       },
       {
         name: 'Elsteel',
-        logo: getImageUrl('brands/Elsteel.png'),
+        logo: getImageUrl('Elsteel.png'),
         alt: 'Elsteel Logo'
       },
       {
         name: 'Klemsan',
-      logo: getImageUrl('brands/klemsan-logo.png'),
+      logo: getImageUrl('klemsan-logo.png'),
       alt: 'Klemsan Logo'
     }
   ]

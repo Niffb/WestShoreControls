@@ -216,7 +216,7 @@ export default function AboutPage() {
             {[
               {
                 name: "TMEIC",
-                logo: getImageUrl("brands/TMEIC_logo.svg"),
+                logo: getImageUrl("TMEIC_logo.svg"),
                 type: "VAR (Value-Added Reseller)",
                 since: "2019",
                 badge: "Technology Partner",
@@ -226,7 +226,7 @@ export default function AboutPage() {
               },
               {
                 name: "Mitsubishi Electric",
-                logo: getImageUrl("brands/Mitsubishi-Electric.png"),
+                logo: getImageUrl("Mitsubishi-Electric.png"),
                 type: "Authorized Distributor",
                 since: "2010",
                 badge: "Diamond Partner",
@@ -236,7 +236,7 @@ export default function AboutPage() {
               },
               {
                 name: "Noark",
-                logo: getImageUrl("brands/Noark.jpg"),
+                logo: getImageUrl("Noark.jpg"),
                 type: "Stocking Distributor",
                 since: "2014",
                 badge: "Certified Partner",
@@ -246,7 +246,7 @@ export default function AboutPage() {
               },
               {
                 name: "LS Industrial",
-                logo: getImageUrl("brands/LS.webp"),
+                logo: getImageUrl("LS.webp"),
                 type: "Stocking Distributor",
                 since: "2012",
                 badge: "Strategic Partner",
@@ -256,7 +256,7 @@ export default function AboutPage() {
               },
               {
                 name: "Erico",
-                logo: getImageUrl("brands/Erico.jpg"),
+                logo: getImageUrl("Erico.jpg"),
                 type: "Stocking Distributor",
                 since: "2015",
                 badge: "Premium Partner",
@@ -266,7 +266,7 @@ export default function AboutPage() {
               },
               {
                 name: "Katko",
-                logo: getImageUrl("brands/Katko.webp"),
+                logo: getImageUrl("Katko.webp"),
                 type: "Stocking Distributor",
                 since: "2016",
                 badge: "Trusted Partner",
@@ -276,7 +276,7 @@ export default function AboutPage() {
               },
               {
                 name: "Klemsan",
-                logo: getImageUrl("brands/klemsan-logo.png"),
+                logo: getImageUrl("klemsan-logo.png"),
                 type: "Stocking Distributor",
                 since: "2017",
                 badge: "Technology Partner",
@@ -286,7 +286,7 @@ export default function AboutPage() {
               },
               {
                 name: "Elsteel",
-                logo: getImageUrl("brands/Elsteel.png"),
+                logo: getImageUrl("Elsteel.png"),
                 type: "Stocking Distributor",
                 since: "2018",
                 badge: "Approved Partner",

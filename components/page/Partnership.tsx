@@ -56,7 +56,7 @@ export default function Partnership() {
             <div className="flex justify-center mb-6">
               <div className="relative w-64 h-20">
                 <Image
-                  src={getImageUrl("brands/MitsubishiLogo.png")}
+                  src={getImageUrl("MitsubishiLogo.png")}
                   alt="Mitsubishi Electric"
                   width={120}
                   height={40}
@@ -85,7 +85,7 @@ export default function Partnership() {
             <div className="flex justify-center mb-6">
               <div className="relative w-48 h-20">
                 <Image
-                  src={getImageUrl("brands/DiamondPartnerLogo.png")}
+                  src={getImageUrl("DiamondPartnerLogo.png")}
                   alt="Diamond Partner Program"
                   width={150}
                   height={50}

@@ -175,7 +175,7 @@ export default function Hero() {
     <section className="relative min-h-screen overflow-hidden">
       <div className="absolute inset-0">
         <Image
-          src={getImageUrl("brands/hero-background.png")}
+          src={getImageUrl("hero-background.png")}
           alt="Hero Background"
           fill
           priority
@@ -211,7 +211,7 @@ export default function Hero() {
           >
             <div className="relative w-full h-[500px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src={getImageUrl("products/general/slider_city_slider_city_b0dab23a.webp")}
+                src={getImageUrl("hero-background.png")}
                 alt="Industrial Automation Equipment"
                 fill
                 className="object-cover"

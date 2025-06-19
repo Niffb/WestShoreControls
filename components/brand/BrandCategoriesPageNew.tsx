@@ -28,37 +28,37 @@ import { getImageUrl } from '@/lib/config/image-config'
 const brands = [
   {
     name: 'LS Industrial',
-    logo: getImageUrl('brands/LS.webp'),
+    logo: getImageUrl('LS.webp'),
     description: 'Complete Industrial Automation Solutions - Full Range of VFDs, PLCs, Contactors & Control Systems',
     categories: ['Variable Frequency Drives', 'Programmable Logic Controllers', 'Contactors', 'Circuit Breakers', 'Overload Relays', 'Softstarters', 'I/O Modules', 'Human Machine Interface']
   },
   {
     name: 'ERICO',
-    logo: getImageUrl('brands/Erico.jpg'),
+    logo: getImageUrl('Erico.jpg'),
     description: 'Complete Electrical Connection & Protection Product Line',
     categories: ['Flexible Conductors', 'Busbars', 'Cable Management']
   },
   {
     name: 'Katko',
-    logo: getImageUrl('brands/Katko.webp'),
+    logo: getImageUrl('Katko.webp'),
     description: 'Complete Range of Enclosed Isolators & Safety Switches',
     categories: ['Enclosed Isolators', 'Load Break Switches', 'Switch Fuses', 'UL/CSA Listed', 'Connectors', 'Installation Enclosures', 'Accessories']
   },
   {
     name: 'Klemsan',
-    logo: getImageUrl('brands/klemsan-logo.png'),
+    logo: getImageUrl('klemsan-logo.png'),
     description: 'Full Product Line of Terminal Blocks & Connection Solutions',
     categories: ['Screw Terminals', 'Quick Release', 'Spring Terminals', 'Plug Terminals', 'Other Terminals', 'End Stops', 'Power Sources', 'Intermediate Relays', 'Automation', 'Climate', 'Cam Switches', 'Control Buttons', 'Junction Boxes', 'Thermal Printers', 'Cable Channels', 'Tools and Accessories']
   },
   {
     name: 'TMEIC',
-    logo: getImageUrl('brands/TMEIC_logo.svg'),
+    logo: getImageUrl('TMEIC_logo.svg'),
     description: 'Complete Range of High Power Drives & Industrial Systems',
     categories: ['Variable Frequency Drives', 'DC Drives', 'PV Inverters', 'Energy Storage', 'Motors', 'Controllers', 'Software']
   },
   {
     name: 'Mitsubishi',
-    logo: getImageUrl('brands/MitsubishiLogo.png'),
+    logo: getImageUrl('MitsubishiLogo.png'),
     description: 'Complete Factory Automation & Electric Controls Product Line',
     categories: [
       'Controllers', 
@@ -76,13 +76,13 @@ const brands = [
   },
   {
     name: 'Noark',
-    logo: getImageUrl('brands/Noark.jpg'),
+    logo: getImageUrl('Noark.jpg'),
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
     categories: ['Circuit Protection', 'Motor Circuit Protectors', 'Miniature Circuit Breakers', 'Molded Case Switches', 'Surge Protective Device', 'Power Circuit Breakers', 'DIN Rail Fuse Holders and Fuses', 'Enclosed Breakers']
   },
   {
     name: 'Elsteel',
-    logo: getImageUrl('brands/Elsteel.png'),
+    logo: getImageUrl('Elsteel.png'),
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     categories: ['Modular Enclosures', 'Plug and Power', 'Enclosures', 'Special Enclosures', 'Super Frame']
   }

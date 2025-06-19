@@ -20,56 +20,56 @@ import { getImageUrl } from '@/lib/config/image-config'
 const brands = [
   {
     name: 'Mitsubishi',
-    logo: getImageUrl('brands/MitsubishiLogo.png'),
+    logo: getImageUrl('MitsubishiLogo.png'),
     description: 'Complete Factory Automation & Electric Controls Product Line',
     website: 'https://www.mitsubishielectric.com',
     categories: ['Controllers', 'Variable Frequency Drives', 'Motors', 'Circuit Breakers', 'Contactors', 'Overload Relays']
   },
   {
     name: 'TMEIC',
-    logo: getImageUrl('brands/TMEIC_logo.svg'),
+    logo: getImageUrl('TMEIC_logo.svg'),
     description: 'Full Range of High Power Drives & Industrial Systems',
     website: 'https://www.tmeic.com',
     categories: ['Variable Frequency Drives', 'Motors', 'DC Drives']
   },
   {
     name: 'LS Industrial',
-    logo: getImageUrl('brands/LS.webp'),
+    logo: getImageUrl('LS.webp'),
     description: 'Complete Variable Frequency Drives & Motor Controls Product Line',
     website: 'https://www.lsis.com',
     categories: ['Variable Frequency Drives', 'Contactors', 'Controllers', 'Motors']
   },
   {
     name: 'ERICO',
-    logo: getImageUrl('brands/Erico.jpg'),
+    logo: getImageUrl('Erico.jpg'),
     description: 'Full Line of Electrical Connection & Protection Products',
     website: 'https://www.erico.com',
         categories: ['Flexible Conductors', 'Busbars', 'Cable Management']
   },
   {
     name: 'Katko',
-    logo: getImageUrl('brands/Katko.webp'),
+    logo: getImageUrl('Katko.webp'),
     description: 'Complete Range of Enclosed Isolators & Safety Switches',
     website: 'https://www.katko.fi',
     categories: ['Enclosed Isolators']
   },
   {
     name: 'Klemsan',
-    logo: getImageUrl('brands/klemsan-logo.png'),
+    logo: getImageUrl('klemsan-logo.png'),
     description: 'Full Product Line of Terminal Blocks & Connection Solutions',
     website: 'https://www.klemsan.com',
     categories: ['Terminal Blocks', 'Accessories', 'Marking Solutions', 'Electronic Terminals', 'Terminal Marking']
   },
   {
     name: 'Noark',
-    logo: getImageUrl('brands/Noark.jpg'),
+    logo: getImageUrl('Noark.jpg'),
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
     website: 'https://www.noark-electric.com', 
     categories: ['Circuit Protection', 'Motor Circuit Protectors', 'Miniature Circuit Breakers', 'Surge Protective Device', 'Power Circuit Breakers', 'Molded Case Switches', 'DIN Rail Fuse Holders and Fuses', 'Enclosed Breakers']
   },
   {
     name: 'Elsteel',
-    logo: getImageUrl('brands/Elsteel.png'),
+    logo: getImageUrl('Elsteel.png'),
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     website: 'https://www.elsteel.com',
     categories: ['Enclosures', 'Distribution Blocks', 'Power Blocks and Terminals']
