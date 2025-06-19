@@ -27,7 +27,7 @@ const brands = [
   },
   {
     name: 'TMEIC',
-    logo: getImageUrl('brands/TMEIC_logo.svg'),
+    logo: getImageUrl('TMEIC_logo.svg'),
     description: 'Full Range of High Power Drives & Industrial Systems',
     website: 'https://www.tmeic.com',
     categories: ['Variable Frequency Drives', 'Motors', 'DC Drives']

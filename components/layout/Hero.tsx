@@ -173,18 +173,7 @@ export default function Hero() {
 
   return (
     <section className="relative min-h-screen overflow-hidden">
-      <div className="absolute inset-0">
-        <Image
-          src={getImageUrl("brands/hero-background.webp")}
-          alt="Hero Background"
-          fill
-          priority
-          className="object-cover"
-          quality={90}
-        />
-        <div className="absolute inset-0 bg-gradient-to-br from-slate-50/90 via-white/80 to-red-900/5" />
-      </div>
-      
+      {/* Removed background image, keeping only gradient background */}
       <Background isWindows={isWindows} />
       
       <FloatingElements isWindows={isWindows} />

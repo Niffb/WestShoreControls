@@ -159,7 +159,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "TMEIC",
-      logo: getImageUrl("brands/TMEIC_logo.svg"),
+      logo: getImageUrl("TMEIC_logo.svg"),
       type: "VAR (Value-Added Reseller)",
       since: "2019",
       badge: "Technology Partner",
@@ -299,7 +299,7 @@ export default function PartnershipsPage() {
                <Image src={getImageUrl("brands/Elsteel.webp")} alt="Elsteel" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
              </div>
            </div>
         </div>

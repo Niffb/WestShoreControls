@@ -216,7 +216,7 @@ export default function AboutPage() {
             {[
               {
                 name: "TMEIC",
-                logo: getImageUrl("brands/TMEIC_logo.svg"),
+                logo: getImageUrl("TMEIC_logo.svg"),
                 type: "VAR (Value-Added Reseller)",
                 since: "2019",
                 badge: "Technology Partner",

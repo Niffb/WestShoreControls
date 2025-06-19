@@ -138,7 +138,7 @@ export const preloadCriticalImages = () => {
     'brands/LS.webp',
     'brands/Mitsubishi-Electric.webp',
     'brands/MitsubishiLogo.webp',
-    'brands/TMEIC_logo.svg',
+    'TMEIC_logo.svg',
     'brands/Erico.webp',
     'brands/Katko.webp',
     'brands/klemsan-logo.webp',
