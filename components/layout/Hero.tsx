@@ -173,6 +173,17 @@ export default function Hero() {
 
   return (
     <section className="relative min-h-screen overflow-hidden">
+      <div className="absolute inset-0">
+        <Image
+          src={getImageUrl("brands/hero-background.png")}
+          alt="Hero Background"
+          fill
+          priority
+          className="object-cover"
+          quality={90}
+        />
+        <div className="absolute inset-0 bg-gradient-to-br from-slate-50/90 via-white/80 to-red-900/5" />
+      </div>
       
       <Background isWindows={isWindows} />
       
@@ -198,64 +209,47 @@ export default function Hero() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.3 }}
           >
-            <div className="relative">
-              {/* Main Image Container */}
-              <motion.div 
-                className="relative w-full h-[280px] lg:h-[350px] rounded-3xl overflow-hidden shadow-2xl transition-transform duration-500"
-                whileHover={!isWindows ? { 
-                  scale: 1.02,
-                  boxShadow: '0 30px 60px rgba(0,0,0,0.2)'
-                } : {}}
-              >
+            <div className="grid grid-cols-2 gap-4">
+              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
                 <Image
+                  src={getImageUrl("brands/Mitsubishi-Electric.png")}
+                  alt="Mitsubishi Electric"
+                  width={150}
+                  height={150}
+                  className="object-contain"
                   priority
-                  src="/images/hero-background.png"
-                  alt="Industrial electrical components and automation products"
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 40vw"
-                  className="object-cover"
-                  quality={90}
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/10 via-transparent to-primary-500/5" />
-              </motion.div>
-              
-              {/* Floating Quality Card */}
-              <motion.div 
-                className="absolute -left-6 top-12 bg-white/95 backdrop-blur-sm rounded-2xl p-4 shadow-lg border border-gray-200 cursor-pointer"
-                initial={{ rotate: -6, opacity: 0 }}
-                animate={{ rotate: -6, opacity: 1 }}
-                whileHover={!isWindows ? { rotate: 0, scale: 1.05, boxShadow: '0 15px 30px rgba(0,0,0,0.15)' } : {}}
-                transition={{ delay: 2 }}
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-primary-100 rounded-lg flex items-center justify-center">
-                    <ShieldCheckIcon className="w-5 h-5 text-primary-600" />
-                  </div>
-                  <div>
-                    <div className="font-semibold text-gray-900 text-sm">Quality Certified</div>
-                    <div className="text-xs text-gray-600">Industrial Grade</div>
-                  </div>
-                </div>
-              </motion.div>
-              
-              {/* Floating Shipping Card */}
-              <motion.div 
-                className="absolute -right-8 bottom-16 bg-white/95 backdrop-blur-sm rounded-2xl p-4 shadow-lg border border-gray-200 cursor-pointer"
-                initial={{ rotate: 6, opacity: 0 }}
-                animate={{ rotate: 6, opacity: 1 }}
-                whileHover={!isWindows ? { rotate: 0, scale: 1.05, boxShadow: '0 15px 30px rgba(0,0,0,0.15)' } : {}}
-                transition={{ delay: 2.2 }}
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-accent-green/10 rounded-lg flex items-center justify-center">
-                    <TruckIcon className="w-5 h-5 text-accent-green" />
-                  </div>
-                  <div>
-                    <div className="font-semibold text-gray-900 text-sm">Same Day Ship</div>
-                    <div className="text-xs text-gray-600">Orders by 3 PM</div>
-                  </div>
-                </div>
-              </motion.div>
+              </div>
+              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
+                <Image
+                  src={getImageUrl("brands/LS.webp")}
+                  alt="LS Industrial"
+                  width={150}
+                  height={150}
+                  className="object-contain"
+                  priority
+                />
+              </div>
+              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
+                <Image
+                  src={getImageUrl("brands/Noark.jpg")}
+                  alt="Noark"
+                  width={150}
+                  height={150}
+                  className="object-contain"
+                  priority
+                />
+              </div>
+              <div className="aspect-square bg-white rounded-2xl shadow-lg p-4 flex items-center justify-center">
+                <Image
+                  src={getImageUrl("brands/Erico.jpg")}
+                  alt="Erico"
+                  width={150}
+                  height={150}
+                  className="object-contain"
+                  priority
+                />
+              </div>
             </div>
           </motion.div>
         </div>

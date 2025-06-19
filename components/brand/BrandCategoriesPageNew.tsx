@@ -266,13 +266,13 @@ const getCategoryImage = (category: string, brand?: string) => {
   // Use TMEIC-specific images for TMEIC brand categories
   if (brand === 'TMEIC') {
     const tmeicImageMap: { [key: string]: string } = {
-      'Variable Frequency Drives': '/images/tmeic/TMdrive-10/TMdrive-10-angle.png',
-      'DC Drives': '/images/tmeic/TMdrive-DC/product-dcdrives-tmdc.png',
-      'PV Inverters': '/images/tmeic/SOLAR_WARE_2220/pv-inverter-2550-2220-solar-ware.png',
-      'Energy Storage': '/images/tmeic/Energy_Storage/solarware_universal_pcs.png',
-      'Motors': '/images/tmeic/21-FII_Series_Motors/product-motor-21-FII_1.png',
-      'Controllers': '/images/tmeic/Innovation_Series_Controller/product-controller-innovation-series.png',
-      'Software': '/images/tmeic/TMdrive-Navigator/product-software-tmdrive-navigator.png'
+      'Variable Frequency Drives': 'tmeic/TMdrive-10/TMdrive-10-angle.png',
+      'DC Drives': 'tmeic/TMdrive-DC/product-dcdrives-tmdc.png',
+      'PV Inverters': 'tmeic/SOLAR_WARE_2220/pv-inverter-2550-2220-solar-ware.png',
+      'Energy Storage': 'tmeic/Energy_Storage/solarware_universal_pcs.png',
+      'Motors': 'tmeic/21-FII_Series_Motors/product-motor-21-FII_1.png',
+      'Controllers': 'tmeic/Innovation_Series_Controller/product-controller-innovation-series.png',
+      'Software': 'tmeic/TMdrive-Navigator/product-software-tmdrive-navigator.png'
     }
     
     if (tmeicImageMap[category]) {
@@ -283,17 +283,17 @@ const getCategoryImage = (category: string, brand?: string) => {
   // Use Mitsubishi-specific images for Mitsubishi brand categories
   if (brand === 'Mitsubishi') {
     const mitsubishiImageMap: { [key: string]: string } = {
-      'Controllers': '/images/Mitsu%20Images/Melsec%20Q%20Picture.avif',
-      'Variable Frequency Drives': '/images/Mitsu%20Images/Melsevo%20PC%20Picture.avif',
-      'Human Machine Interface': '/images/Mitsu%20Images/pc_pic_got.avif',
-      'SCADA Systems': '/images/Mitsu%20Images/PC%20SCADA%20Image.avif',
-      'Robotics': '/images/Mitsu%20Images/PC%20Robots.avif',
-      'Circuit Breakers': '/images/Mitsu%20Images/HV%20Breakers%20Contactors.avif',
-      'Contactors': '/images/Mitsu%20Images/Mitsubishi%20Electric%20Contactors.avif',
-      'Overload Relays': '/images/Mitsu%20Images/pc_pic_relays.avif',
-      'Field Devices': '/images/Mitsu%20Images/PC%20Picture%20Devices.avif',
-      'Energy Management': '/images/Mitsu%20Images/Ecomonitor%20Pro%20Image.avif',
-      'Low Power Motors': '/images/Mitsu Images/PC Picture LPM.avif'
+      'Controllers': 'Mitsu Images/Melsec Q Picture.avif',
+      'Variable Frequency Drives': 'Mitsu Images/Melsevo PC Picture.avif',
+      'Human Machine Interface': 'Mitsu Images/pc_pic_got.avif',
+      'SCADA Systems': 'Mitsu Images/PC SCADA Image.avif',
+      'Robotics': 'Mitsu Images/PC Robots.avif',
+      'Circuit Breakers': 'Mitsu Images/HV Breakers Contactors.avif',
+      'Contactors': 'Mitsu Images/Mitsubishi Electric Contactors.avif',
+      'Overload Relays': 'Mitsu Images/pc_pic_relays.avif',
+      'Field Devices': 'Mitsu Images/PC Picture Devices.avif',
+      'Energy Management': 'Mitsu Images/Ecomonitor Pro Image.avif',
+      'Low Power Motors': 'Mitsu Images/PC Picture LPM.avif'
     }
     
     if (mitsubishiImageMap[category]) {
@@ -383,52 +383,51 @@ const getCategoryImage = (category: string, brand?: string) => {
 
   // Default images for other brands
   const imageMap: { [key: string]: string } = {
-    'Contactors': '/images/products/contactors/IEC-contactors-Ex9CS-Mini-NR_IEC-contactors-Ex9CS-_IEC-contactors-Ex9CS-Mini-NR_5e300640.jpg',
-    'Variable Frequency Drives': '/images/products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
-    'DIN Rail Miniature Circuit Breakers': '/images/products/circuit_breakers/susol-circuit-breakers-product-info_susol-circuit-breakers-product-info_58961ab2.jpg',
-    'Circuit Breakers': '/images/products/circuit_breakers/air_circuit_breakers_air_circuit_breakers_air-circuit-breakers_36dc9a41.jpg',
-    'Pilot Devices': '/images/products/pilot_devices/Ex9PB_22mm_pushbuttons_specifications_Ex9PB_22mm_pushbuttons_specifications_fff32144.jpg',
-    'Manual Motor Controllers': '/images/products/contactors/manual-motor-starters-Ex9SN_manual-motor-starters-_manual-motor-starters-Ex9SN1-300x300_b4553354.jpg',
-    'Motor Starters': '/images/products/contactors/manual-motor-starters-Ex9SN_manual-motor-starters-_manual-motor-starters-Ex9SN1-300x300_b4553354.jpg',
+    'Contactors': 'products/contactors/IEC-contactors-Ex9CS-Mini-NR_IEC-contactors-Ex9CS-_IEC-contactors-Ex9CS-Mini-NR_5e300640.jpg',
+    'Variable Frequency Drives': 'products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
+    'DIN Rail Miniature Circuit Breakers': 'products/circuit_breakers/susol-circuit-breakers-product-info_susol-circuit-breakers-product-info_58961ab2.jpg',
+    'Circuit Breakers': 'products/circuit_breakers/air_circuit_breakers_air_circuit_breakers_air-circuit-breakers_36dc9a41.jpg',
+    'Pilot Devices': 'products/pilot_devices/Ex9PB_22mm_pushbuttons_specifications_Ex9PB_22mm_pushbuttons_specifications_fff32144.jpg',
+    'Manual Motor Controllers': 'products/contactors/manual-motor-starters-Ex9SN_manual-motor-starters-_manual-motor-starters-Ex9SN1-300x300_b4553354.jpg',
+    'Motor Starters': 'products/contactors/manual-motor-starters-Ex9SN_manual-motor-starters-_manual-motor-starters-Ex9SN1-300x300_b4553354.jpg',
     'Flexible Conductors': 'products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg',
     'Busbars': 'products/erico/TCB_threaded_busbar_TCB_threaded_busbar_TCB_threaded_busbar-350x360_52c7809c.jpg',
-    'Terminal Blocks': '/images/products/klemsan/OPK_EKI_112010N.webp',
-    'Overload Relays': '/images/products/noark/Thermal_Overload_Relays_Ex9RD_Ex9RD-thermal-overload-relays-300x300_486a7e7a.jpg',
-    'Motor Circuit Protectors': '/images/categories/Motor Circuit Protectors/Motor Circuit Protectors Stock Images.avif',
-    'Miniature Circuit Breakers': '/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif',
-    'Molded Case Switches': '/images/categories/Molded Case Switches/Molded Case Switches Ex9MD Series (1).avif',
-    'Surge Protective Device': '/images/categories/Surge Protection Device/Surge Protective Devices.avif',
-    'Power Circuit Breakers': '/images/categories/Power Curcuit /Power Circuit Breakers NOARK.avif',
-    'DIN Rail Fuse Holders and Fuses': '/images/categories/DIN Rail Fuse Holders and Fuses/DIN Rail Fuse Holders and Fuses.avif',
-    'Enclosed Breakers': '/images/categories/enclosed breakers/Enclosed Breakers.avif',
-    'Circuit Protection': '/images/categories/Motor Circuit Protectors/Motor Circuit Protectors Stock Images.avif',
-    'Controllers': '/images/products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
-    'Motors': '/images/products/motors/AC-motors-Ex9IE3_motor_AC-motors-Ex9IE3_motor_26e75140.jpg',
-
+    'Terminal Blocks': 'products/klemsan/OPK_EKI_112010N.webp',
+    'Overload Relays': 'products/noark/Thermal_Overload_Relays_Ex9RD_Ex9RD-thermal-overload-relays-300x300_486a7e7a.jpg',
+    'Motor Circuit Protectors': 'categories/Motor Circuit Protectors/Motor Circuit Protectors Stock Images.avif',
+    'Miniature Circuit Breakers': 'categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif',
+    'Molded Case Switches': 'categories/Molded Case Switches/Molded Case Switches Ex9MD Series (1).avif',
+    'Surge Protective Device': 'categories/Surge Protection Device/Surge Protective Devices.avif',
+    'Power Circuit Breakers': 'categories/Power Curcuit /Power Circuit Breakers NOARK.avif',
+    'DIN Rail Fuse Holders and Fuses': 'categories/DIN Rail Fuse Holders and Fuses/DIN Rail Fuse Holders and Fuses.avif',
+    'Enclosed Breakers': 'categories/enclosed breakers/Enclosed Breakers.avif',
+    'Circuit Protection': 'categories/Motor Circuit Protectors/Motor Circuit Protectors Stock Images.avif',
+    'Controllers': 'products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
+    'Motors': 'products/motors/AC-motors-Ex9IE3_motor_AC-motors-Ex9IE3_motor_26e75140.jpg',
     'Cable Management': 'products/erico/FGBS_FGBS_FGBS-300x300_2cd174d2.jpg',
-    'Marking Solutions': '/images/products/klemsan/marking-systems-klippon-connect_marking-systems-klippon-connect_marking-systems-klippon-connect_0f427544.jpg',
-    'Electronic Terminals': '/images/products/klemsan/OPK_EKI_112010N.webp',
-    'Terminal Marking': '/images/products/klemsan/marking-systems-klippon-connect_marking-systems-klippon-connect_marking-systems-klippon-connect_0f427544.jpg',
-    'DC Drives': '/images/products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
-    'Enclosures': '/images/products/enclosures/fully-welded-ip69k.jpg',
+    'Marking Solutions': 'products/klemsan/marking-systems-klippon-connect_marking-systems-klippon-connect_marking-systems-klippon-connect_0f427544.jpg',
+    'Electronic Terminals': 'products/klemsan/OPK_EKI_112010N.webp',
+    'Terminal Marking': 'products/klemsan/marking-systems-klippon-connect_marking-systems-klippon-connect_marking-systems-klippon-connect_0f427544.jpg',
+    'DC Drives': 'products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
+    'Enclosures': 'products/enclosures/fully-welded-ip69k.jpg',
     'Distribution Blocks': 'products/erico/BD-40A_BD-40A_BD-40A-300x300_36e975cb.jpg',
     'Power Blocks and Terminals': 'products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.jpg',
     'Busbar Supports': 'products/erico/UBS_Universal_Busbar_Supports_UBS_Universal_Busbar_UBS-300x300_3b919330.jpg',
     'Connecting Clamps': 'products/erico/FC_erico_flexibar_clamp_FC_erico_flexibar_clamp_FC_erico_flexibar_clamp-350x360_8175290c.jpg',
     'Power Terminals': 'products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.jpg',
     'Insulators': 'products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg',
-    'Load Break Switches': '/images/products/katko/load-break-switches/LoadSafe Product Image.png',
-    'Switch Fuses': '/images/products/katko/switch-fuses/FuseSafe Product Image.png',
-    'Enclosed Isolators': '/images/products/katko/enclosed-isolators/IsoSafe Product Image.png',
-    'UL/CSA Listed': '/images/products/katko/ul-csa-listed/UL Listed Product Image.png',
-    'Connectors': '/images/products/katko/connectors/ConnectSafe Product Image.png',
-    'Installation Enclosures': '/images/products/katko/installation-enclosures/KATKO Product Range.png',
-    'Accessories': '/images/products/katko/accessories/KATKO Accessories.png',
-    'Plug and Power': '/images/products/plug-power/plug-power-reloaded.jpg',
-    'Special Enclosures': '/images/products/special-enclosures/custom-made.jpg',
-    'Super Frame': '/images/products/super-frame/19-inch-super-frame.jpg',
+    'Load Break Switches': 'products/katko/load-break-switches/LoadSafe Product Image.png',
+    'Switch Fuses': 'products/katko/switch-fuses/FuseSafe Product Image.png',
+    'Enclosed Isolators': 'products/katko/enclosed-isolators/IsoSafe Product Image.png',
+    'UL/CSA Listed': 'products/katko/ul-csa-listed/UL Listed Product Image.png',
+    'Connectors': 'products/katko/connectors/ConnectSafe Product Image.png',
+    'Installation Enclosures': 'products/katko/installation-enclosures/KATKO Product Range.png',
+    'Accessories': 'products/katko/accessories/KATKO Accessories.png',
+    'Plug and Power': 'products/plug-power/plug-power-reloaded.jpg',
+    'Special Enclosures': 'products/special-enclosures/custom-made.jpg',
+    'Super Frame': 'products/super-frame/19-inch-super-frame.jpg',
   }
-  return imageMap[category] || '/images/products/placeholder.jpg'
+  return imageMap[category] || 'products/placeholder.jpg'
 }
 
 // Animated background particles

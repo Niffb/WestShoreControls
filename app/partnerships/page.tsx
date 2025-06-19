@@ -278,22 +278,22 @@ export default function PartnershipsPage() {
                      {/* Partner Logos Preview */}
            <div className="flex flex-wrap justify-center items-center gap-6 opacity-60">
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("/images/Mitsubishi-Electric.png")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Mitsubishi-Electric.png")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("/images/Erico.jpg")} alt="Erico" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Erico.jpg")} alt="Erico" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("/images/LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("/images/Noark.jpg")} alt="Noark" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Noark.jpg")} alt="Noark" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("/images/klemsan-logo.png")} alt="Klemsan" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/klemsan-logo.png")} alt="Klemsan" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("/images/Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
                <Image src={getImageUrl("brands/Elsteel.png")} alt="Elsteel" width={64} height={48} className="object-contain" style={{ width: 'auto', height: 'auto' }} />
