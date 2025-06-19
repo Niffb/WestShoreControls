@@ -58,7 +58,7 @@ export const getImageUrl = (imagePath: string): string => {
     }
   }
   
-  // Return GitHub CDN URL with optimized headers
+  // Return final URL with optimized path
   return `${IMAGE_BASE_URL}/${processedPath}`
 }
 
@@ -113,10 +113,10 @@ export const getFallbackImageUrl = (originalPath: string): string => {
     extensionsToTry = ['.webp', '.avif', '.jpg', '.png', '.jpeg']
   }
   
+  // Return the first path that exists
   for (const ext of extensionsToTry) {
-    if (!relativePath.toLowerCase().endsWith(ext)) {
-      return `${IMAGE_BASE_URL}/${basePath}${ext}`
-    }
+    const fullPath = `${IMAGE_BASE_URL}/${basePath}${ext}`
+    return fullPath
   }
   
   // Return placeholder if all else fails
@@ -126,11 +126,11 @@ export const getFallbackImageUrl = (originalPath: string): string => {
 // Helper function to preload critical images
 export const preloadCriticalImages = () => {
   const criticalImages = [
-    '/images/westlogo.jpg',
-    '/images/hero-background.png',
-    '/assets/images/brands/Noark.jpg',
-    '/assets/images/brands/LS.webp',
-    '/assets/images/brands/Mitsubishi-Electric.png'
+    `${IMAGE_BASE_URL}/westlogo.jpg`,
+    `${IMAGE_BASE_URL}/hero-background.png`,
+    `${IMAGE_BASE_URL}/brands/Noark.jpg`,
+    `${IMAGE_BASE_URL}/brands/LS.webp`,
+    `${IMAGE_BASE_URL}/brands/Mitsubishi-Electric.png`
   ]
 
   criticalImages.forEach(src => {

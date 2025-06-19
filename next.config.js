@@ -19,26 +19,14 @@ const nextConfig = {
   },
   
   images: {
-    // Enable image optimization for Cloud Run
-    unoptimized: false,
-    formats: ['image/avif', 'image/webp'],
+    disableStaticImages: false, // Enable static image imports
+    unoptimized: false, // Keep optimization enabled
+    domains: ['localhost', 'westshorecontrols.com'],
+    remotePatterns: [],
     minimumCacheTTL: 31536000, // 1 year
+    formats: ['image/webp', 'image/avif'],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
-        port: '',
-        pathname: '/**',
-      },
-      {
-        protocol: 'https',
-        hostname: 'raw.githubusercontent.com',
-        port: '',
-        pathname: '/**',
-      },
-    ],
   },
   
   // Experimental features for better performance (compatible with Next.js 14)
