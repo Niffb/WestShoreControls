@@ -1,23 +1,0 @@
-B1N
-• 10kA at 240Vac • 0.5A to 63A • Available in 1, 2 & 3-pole
-
-B1H
-• 10kA at 480Y/277Vac • 0.5A to 32A • Available in 1, 2 & 3-pole
-
-B1NQ
-• 10kA at 120/240Vac • 0.5A to 63A • Available in 1 & 2-pole
-
-B1D
-• 10kA at 250Vdc • 0.5A to 63A • Available in 1 and 2-pole
-
-B1B
-• 10kA at 500Vdc/2-pole & 1000Vdc/4-pole • 25A to 63A • Available in 2 & 4-pole
-
-B1E
-• Up to 125A • 5kA at 480Y/277Vac and 10kA at 240Vac • 10kA at 220Vdc (B1E 80~125A 2-Pole) • Available in 1,2, 3 and 4-pole
-
-Ex9BP
-• 10 – 63A • 6kA at 600Vdc • Available in 2 & 4-pole
-
-
-

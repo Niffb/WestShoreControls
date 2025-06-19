@@ -1,8 +1,0 @@
-Manual Motor Starters – Meta-MEC MMS Series
-Rating : 32, 63, 100 AF
-Direct connection with Susol MC9 ~ 95A, Metasol MC40~100A and mini MC 6~16A
-Breaking current : max 100kA 415 VAC, 1cu=100% 1cs
-Rated current Adjustable
-Motor protection overload, short circuit, phase fault protection
-Accessories: AX, AL, SHT, UVT, PB, MMS, +MT
-Certificate: CE, UL, KEMA, CCC, GOST, Safety
