@@ -296,7 +296,7 @@ export default function PartnershipsPage() {
                <Image src={getImageUrl("Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("Elsteel.png")} alt="Elsteel" width={64} height={48} className="object-contain" style={{ width: 'auto', height: 'auto' }} />
+               <Image src={getImageUrl("Elsteel.png")} alt="Elsteel" width={64} height={48} className="object-contain" />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
                <Image src={getImageUrl("TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />

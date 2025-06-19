@@ -325,7 +325,6 @@ export default function BrandSelection() {
                         width={120}
                         height={60}
                         className="max-w-full max-h-20 object-contain group-hover:scale-110 transition-transform duration-300"
-                        style={{ width: 'auto', height: 'auto' }}
                       />
                     </div>
 

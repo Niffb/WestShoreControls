@@ -621,8 +621,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                   alt={`${brandData.name} logo`}
                   width={120}
                   height={40}
-                  className="max-w-[120px] max-h-10 object-contain"
-                  style={{ width: 'auto', height: 'auto' }}
+                  className="max-w-full max-h-20 object-contain group-hover:scale-110 transition-transform duration-300"
                 />
               </div>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900">
