@@ -1,5 +1,5 @@
 // Image hosting configuration - using local assets
-export const IMAGE_BASE_URL = '/assets/images'
+export const IMAGE_BASE_URL = '/images'
 
 // Essential images that should stay local for critical page loading
 export const LOCAL_IMAGES = [
@@ -16,13 +16,13 @@ const IMAGE_EXTENSIONS = ['.webp', '.jpg', '.jpeg', '.png', '.avif', '.svg']
 export const getImageUrl = (imagePath: string): string => {
   // Handle empty or invalid paths
   if (!imagePath || imagePath === '') {
-    return `${IMAGE_BASE_URL}/brands/westlogo.jpg` // Use public fallback
+    return `${IMAGE_BASE_URL}/westlogo.jpg` // Use local public fallback
   }
 
   // Remove leading slash if present
   const cleanPath = imagePath.startsWith('/') ? imagePath.slice(1) : imagePath
   
-  // Handle hardcoded /images/ paths - convert to assets/images
+  // Handle hardcoded /images/ paths - normalize to relative paths
   if (cleanPath.startsWith('images/') || imagePath.startsWith('/images/')) {
     const finalPath = cleanPath.replace(/^(\/)?images\//, '')
     return `${IMAGE_BASE_URL}/${finalPath}`
@@ -86,12 +86,12 @@ export const getOptimizedImageUrl = (imagePath: string) => {
 // Helper function to get fallback image URL if primary fails
 export const getFallbackImageUrl = (originalPath: string): string => {
   if (!originalPath || originalPath === '') {
-    return `${IMAGE_BASE_URL}/brands/westlogo.jpg` // Use public fallback
+    return `${IMAGE_BASE_URL}/westlogo.jpg` // Use local public fallback
   }
 
   const cleanPath = originalPath.startsWith('/') ? originalPath.slice(1) : originalPath
   
-  // Handle hardcoded /images/ paths - convert to assets/images
+  // Handle hardcoded /images/ paths - normalize to relative paths
   if (cleanPath.startsWith('images/') || originalPath.startsWith('/images/')) {
     const finalPath = cleanPath.replace(/^(\/)?images\//, '')
     return `${IMAGE_BASE_URL}/${finalPath}`
@@ -126,14 +126,14 @@ export const getFallbackImageUrl = (originalPath: string): string => {
   }
   
   // Return placeholder if all else fails
-  return `${IMAGE_BASE_URL}/brands/westlogo.jpg`
+  return `${IMAGE_BASE_URL}/westlogo.jpg`
 }
 
 // Helper function to preload critical images
 export const preloadCriticalImages = () => {
   const criticalImages = [
-    'brands/westlogo.jpg',
-    'brands/hero-background.png',
+    'westlogo.jpg',
+    'hero-background.png',
     'brands/Noark.jpg',
     'brands/LS.webp',
     'brands/Mitsubishi-Electric.png'
