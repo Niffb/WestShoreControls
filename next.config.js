@@ -12,6 +12,9 @@ const nextConfig = {
   // Compression and optimization
   compress: true,
   
+  // Disable static exports since we're using server
+  distDir: '.next',
+  
   images: {
     disableStaticImages: false, // Enable static image imports
     unoptimized: true, // Disable optimization to prevent 400 errors in Google Cloud
@@ -29,6 +32,10 @@ const nextConfig = {
       {
         source: '/assets/:path*',
         destination: '/assets/:path*',
+      },
+      {
+        source: '/_next/static/:path*',
+        destination: '/_next/static/:path*',
       },
     ]
   },
@@ -54,10 +61,19 @@ const nextConfig = {
           },
         ],
       },
+      {
+        source: '/_next/static/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
     ]
   },
   
-  // Experimental features for better performance (compatible with Next.js 14)
+  // Experimental features for better performance
   experimental: {
     scrollRestoration: true,
     // Enable Server Components
@@ -92,17 +108,6 @@ const nextConfig = {
           },
         },
       }
-    }
-
-    // Add bundle analyzer if enabled
-    if (process.env.ANALYZE === 'true') {
-      const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer')
-      config.plugins.push(
-        new BundleAnalyzerPlugin({
-          analyzerMode: 'static',
-          openAnalyzer: false,
-        })
-      )
     }
 
     return config

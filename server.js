@@ -42,13 +42,39 @@ app.prepare().then(() => {
       const parsedUrl = parse(req.url, true);
       const { pathname } = parsedUrl;
 
+      // Handle Next.js static files
+      if (pathname.startsWith('/_next/')) {
+        // Try both standalone and development paths
+        const nextStaticPath = join(__dirname, pathname);
+        const devStaticPath = join(__dirname, '.next', pathname.replace(/^\/_next\//, ''));
+        
+        let filePath = existsSync(nextStaticPath) ? nextStaticPath : devStaticPath;
+        
+        console.log(`[Next.js Static] Request: ${pathname} -> File: ${filePath}`);
+        
+        if (existsSync(filePath)) {
+          const fileBuffer = readFileSync(filePath);
+          const mimeType = getMimeType(filePath);
+          
+          console.log(`[Next.js Static] Serving: ${pathname} (${mimeType})`);
+          
+          res.setHeader('Content-Type', mimeType);
+          res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
+          
+          return res.end(fileBuffer);
+        }
+      }
+
       // Handle static files from public directory (including assets)
       if (pathname.startsWith('/assets/') || pathname.startsWith('/images/') || 
           pathname.startsWith('/favicon') || pathname.match(/\.(js|css|png|jpg|jpeg|gif|svg|webp|avif|ico|woff|woff2|ttf|otf)$/)) {
         
-        const filePath = join(__dirname, 'public', pathname);
+        // Try both /public and root paths
+        const publicPath = join(__dirname, 'public', pathname);
+        const rootPath = join(__dirname, pathname.replace(/^\/public\//, ''));
         
-        // Debug logging for static file requests
+        let filePath = existsSync(publicPath) ? publicPath : rootPath;
+        
         console.log(`[Static] Request: ${pathname} -> File: ${filePath}`);
         
         if (existsSync(filePath)) {
@@ -57,7 +83,6 @@ app.prepare().then(() => {
           
           console.log(`[Static] Serving: ${pathname} (${mimeType})`);
           
-          // Set appropriate headers
           res.setHeader('Content-Type', mimeType);
           res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
           
