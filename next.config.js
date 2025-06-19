@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  distDir: 'out',
-  trailingSlash: true,
+  output: 'standalone',
   
   // Asset prefix for static exports
   assetPrefix: '',
@@ -15,13 +13,8 @@ const nextConfig = {
   compress: true,
   
   images: {
-    // Static exports require unoptimized images since Next.js Image Optimization API
-    // is not available in static mode. However, we can still benefit from:
-    // - Proper image sizing and responsive images
-    // - Lazy loading (built into next/image)
-    // - WebP/AVIF format serving (when available)
-    // - Priority loading for above-the-fold images
-    unoptimized: true,
+    // Enable image optimization for Cloud Run
+    unoptimized: false,
     formats: ['image/avif', 'image/webp'],
     minimumCacheTTL: 31536000, // 1 year
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048],
