@@ -1,45 +1,44 @@
 'use client'
 
-
-
 import Image from 'next/image'
 import { motion } from 'framer-motion'
+import { getImageUrl } from '@/lib/config/image-config'
 
 export default function PartnershipsHero() {
   const partnerships = [
     {
       name: 'Mitsubishi Electric',
-      logo: '/images/Mitsubishi-Electric.png',
+      logo: getImageUrl('brands/Mitsubishi-Electric.png'),
       alt: 'Mitsubishi Electric Logo'
     },
     {
       name: 'LS Industrial',
-      logo: '/images/LS.webp',
+      logo: getImageUrl('brands/LS.webp'),
       alt: 'LS Industrial Logo'
     },
     {
       name: 'Erico',
-      logo: '/images/Erico.jpg',
+      logo: getImageUrl('brands/Erico.jpg'),
       alt: 'Erico Logo'
     },
     {
       name: 'Noark',
-      logo: '/images/Noark.jpg',
+      logo: getImageUrl('brands/Noark.jpg'),
       alt: 'Noark Logo'
     },
     {
       name: 'Katko',
-      logo: '/images/Katko.webp',
+      logo: getImageUrl('brands/Katko.webp'),
               alt: 'Katko Logo'
       },
       {
         name: 'Elsteel',
-        logo: '/images/Elsteel.png',
+        logo: getImageUrl('brands/Elsteel.png'),
         alt: 'Elsteel Logo'
       },
       {
         name: 'Klemsan',
-      logo: '/images/klemsan-logo.png',
+      logo: getImageUrl('brands/klemsan-logo.png'),
       alt: 'Klemsan Logo'
     }
   ]

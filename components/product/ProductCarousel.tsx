@@ -36,7 +36,7 @@ export default function ProductCarousel() {
 
   const handleImageError = (productId: string, imgElement: HTMLImageElement) => {
     console.error('Failed to load carousel image:', imgElement.src)
-    imgElement.src = '/images/products/placeholder.jpg'
+            imgElement.src = getImageUrl('products/placeholder.jpg')
   }
 
   return (
@@ -96,7 +96,7 @@ export default function ProductCarousel() {
                     </div>
                   )}
                   
-                  {product.images[0] && product.images[0] !== "/images/products/placeholder.jpg" ? (
+                  {product.images[0] && product.images[0] !== "products/placeholder.jpg" ? (
                     <div className="w-full h-full relative">
                       <Image
                         src={getImageUrl(product.images[0])}

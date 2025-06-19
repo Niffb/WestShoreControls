@@ -75,7 +75,7 @@ export default function PartnershipsPage() {
   const partners = [
     {
       name: "Mitsubishi Electric",
-      logo: "/images/Mitsubishi-Electric.png",
+      logo: getImageUrl("brands/Mitsubishi-Electric.png"),
       type: "Authorized Distributor",
       since: "2010",
       badge: "Diamond Partner",
@@ -87,7 +87,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Erico",
-      logo: "/images/Erico.jpg", 
+      logo: getImageUrl("brands/Erico.jpg"), 
       type: "Stocking Distributor",
       since: "2015",
       badge: "Premium Partner",
@@ -99,7 +99,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "LS Industrial",
-      logo: "/images/LS.webp",
+      logo: getImageUrl("brands/LS.webp"),
       type: "Stocking Distributor", 
       since: "2012",
       badge: "Strategic Partner",
@@ -111,7 +111,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Noark",
-      logo: "/images/Noark.jpg",
+      logo: getImageUrl("brands/Noark.jpg"),
       type: "Stocking Distributor",
       since: "2014", 
       badge: "Certified Partner",
@@ -123,7 +123,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Klemsan",
-      logo: "/images/klemsan-logo.png",
+      logo: getImageUrl("brands/klemsan-logo.png"),
       type: "Stocking Distributor",
       since: "2017",
       badge: "Technology Partner",
@@ -135,7 +135,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Katko",
-      logo: "/images/Katko.webp",
+      logo: getImageUrl("brands/Katko.webp"),
       type: "Stocking Distributor",
       since: "2016",
       badge: "Trusted Partner",
@@ -159,7 +159,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "TMEIC",
-      logo: "/images/TMEIC_logo.svg",
+      logo: getImageUrl("brands/TMEIC_logo.svg"),
       type: "VAR (Value-Added Reseller)",
       since: "2019",
       badge: "Technology Partner",
@@ -299,7 +299,7 @@ export default function PartnershipsPage() {
                <Image src={getImageUrl("brands/Elsteel.png")} alt="Elsteel" width={64} height={48} className="object-contain" style={{ width: 'auto', height: 'auto' }} />
              </div>
              <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("/images/TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
+               <Image src={getImageUrl("brands/TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
              </div>
            </div>
         </div>

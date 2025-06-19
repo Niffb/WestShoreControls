@@ -211,7 +211,7 @@ export default function Hero() {
           >
             <div className="relative w-full h-[500px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src={getImageUrl("hero/hero-image.jpg")}
+                src={getImageUrl("hero-image.jpg")}
                 alt="Industrial Automation Equipment"
                 fill
                 className="object-cover"

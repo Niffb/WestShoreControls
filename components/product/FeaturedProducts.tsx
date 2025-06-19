@@ -149,7 +149,7 @@ export default function FeaturedProducts() {
                 >
                   {/* Product Image */}
                   <div className="relative h-64 bg-gray-100 overflow-hidden">
-                    {product.images[0] && product.images[0] !== "/images/products/placeholder.jpg" ? (
+                    {product.images[0] && product.images[0] !== "products/placeholder.jpg" ? (
                       <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center transition-all duration-500 group-hover:from-primary-50 group-hover:to-primary-100">
                         <img
                           src={getImageUrl(product.images[0])}
@@ -157,7 +157,7 @@ export default function FeaturedProducts() {
                           className="w-full h-full object-contain p-4 transform group-hover:scale-110 transition-transform duration-500"
                           onError={(e) => {
                             console.error('Failed to load image:', getImageUrl(product.images[0]));
-                            (e.target as HTMLImageElement).src = '/images/products/placeholder.jpg';
+                            (e.target as HTMLImageElement).src = getImageUrl('products/placeholder.jpg');
                           }}
                           onLoad={() => {}}
                         />

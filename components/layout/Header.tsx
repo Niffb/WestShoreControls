@@ -6,6 +6,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Bars3Icon, XMarkIcon, PhoneIcon, MapPinIcon } from '@heroicons/react/24/outline'
 import { motion, AnimatePresence } from 'framer-motion'
+import { getImageUrl } from '@/lib/config/image-config'
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -100,7 +101,7 @@ export default function Header() {
                   transition={{ duration: 0.2 }}
                 >
                   <Image
-                    src="/images/westlogo.jpg"
+                    src={getImageUrl("westlogo.jpg")}
                     alt="Westshore Controls"
                     fill
                     className="object-contain"
