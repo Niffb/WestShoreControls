@@ -91,6 +91,7 @@ dist
 # Allow images but ignore other public files
 public/*
 !public/images/
+!public/assets/
 
 # Storybook build outputs
 .out

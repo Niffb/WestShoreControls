@@ -1,0 +1,4 @@
+Surge Protective Device
+Surge protective device, referred to as SPD, is suitable for AC 50/60Hz system with rated voltage not exceeding 600V.
+
+The main function is to suppress transient overvoltages and discharge surge energy, so as to ensure the safety of electrical system and equipment. The devices are UL1449 recognized components for installation on load side of service entry equipment in commercial and residential applications or OEM distribution equipment in industrial applications.
