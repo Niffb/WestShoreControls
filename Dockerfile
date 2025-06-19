@@ -22,7 +22,6 @@ FROM node:18-alpine AS runner
 WORKDIR /app
 
 # Copy necessary files from builder
-COPY --from=builder /app/next.config.js ./
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
@@ -33,5 +32,5 @@ ENV PORT=8080
 
 EXPOSE 8080
 
-# Start the application
+# Start the application using the standalone server.js
 CMD ["node", "server.js"] 
