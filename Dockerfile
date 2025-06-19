@@ -25,12 +25,14 @@ WORKDIR /app
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
+COPY --from=builder /app/server.js ./
 
 # Set environment variables
 ENV NODE_ENV=production
 ENV PORT=8080
+ENV HOSTNAME=0.0.0.0
 
 EXPOSE 8080
 
-# Start the application using the standalone server.js
+# Start the application using the custom server
 CMD ["node", "server.js"] 

@@ -12,6 +12,12 @@ const nextConfig = {
   // Compression and optimization
   compress: true,
   
+  // Server configuration
+  server: {
+    port: parseInt(process.env.PORT, 10) || 8080,
+    host: '0.0.0.0'
+  },
+  
   images: {
     // Enable image optimization for Cloud Run
     unoptimized: false,
