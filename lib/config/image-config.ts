@@ -16,16 +16,15 @@ const IMAGE_EXTENSIONS = ['.webp', '.jpg', '.jpeg', '.png', '.avif', '.svg']
 export const getImageUrl = (imagePath: string): string => {
   // Handle empty or invalid paths
   if (!imagePath || imagePath === '') {
-    return `${IMAGE_BASE_URL}/products/placeholder.jpg`
+    return '/images/westlogo.jpg' // Use public fallback
   }
 
   // Remove leading slash if present
   const cleanPath = imagePath.startsWith('/') ? imagePath.slice(1) : imagePath
   
-  // Handle hardcoded /images/ paths - redirect them to assets/images
-  if (cleanPath.startsWith('images/')) {
-    const assetsPath = cleanPath.replace('images/', '')
-    return `${IMAGE_BASE_URL}/${assetsPath}`
+  // Handle hardcoded /images/ paths - keep them as is for public directory
+  if (cleanPath.startsWith('images/') || imagePath.startsWith('/images/')) {
+    return imagePath.startsWith('/') ? imagePath : `/${cleanPath}`
   }
   
   // Remove 'assets/images/' prefix if present (for backward compatibility)
@@ -79,15 +78,14 @@ export const getOptimizedImageUrl = (imagePath: string) => {
 // Helper function to get fallback image URL if primary fails
 export const getFallbackImageUrl = (originalPath: string): string => {
   if (!originalPath || originalPath === '') {
-    return `${IMAGE_BASE_URL}/products/placeholder.jpg`
+    return '/images/westlogo.jpg' // Use public fallback
   }
 
   const cleanPath = originalPath.startsWith('/') ? originalPath.slice(1) : originalPath
   
-  // Handle hardcoded /images/ paths - redirect them to assets/images
-  if (cleanPath.startsWith('images/')) {
-    const assetsPath = cleanPath.replace('images/', '')
-    return `${IMAGE_BASE_URL}/${assetsPath}`
+  // Handle hardcoded /images/ paths - keep them as is
+  if (cleanPath.startsWith('images/') || originalPath.startsWith('/images/')) {
+    return originalPath.startsWith('/') ? originalPath : `/${cleanPath}`
   }
   
   // Handle assets/images prefix
@@ -113,24 +111,23 @@ export const getFallbackImageUrl = (originalPath: string): string => {
     extensionsToTry = ['.webp', '.avif', '.jpg', '.png', '.jpeg']
   }
   
-  // Return the first path that exists
+  // Return the first path with fallback to public directory
   for (const ext of extensionsToTry) {
-    const fullPath = `${IMAGE_BASE_URL}/${basePath}${ext}`
-    return fullPath
+    return `/images/${basePath}${ext}` // Fallback to public/images
   }
   
   // Return placeholder if all else fails
-  return `${IMAGE_BASE_URL}/products/placeholder.jpg`
+  return '/images/westlogo.jpg'
 }
 
 // Helper function to preload critical images
 export const preloadCriticalImages = () => {
   const criticalImages = [
-    `${IMAGE_BASE_URL}/westlogo.jpg`,
-    `${IMAGE_BASE_URL}/hero-background.png`,
-    `${IMAGE_BASE_URL}/brands/Noark.jpg`,
-    `${IMAGE_BASE_URL}/brands/LS.webp`,
-    `${IMAGE_BASE_URL}/brands/Mitsubishi-Electric.png`
+    '/images/westlogo.jpg', // Use public paths for critical images
+    '/images/hero-background.png',
+    '/images/Noark.jpg',
+    '/images/LS.webp',
+    '/images/Mitsubishi-Electric.png'
   ]
 
   criticalImages.forEach(src => {

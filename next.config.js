@@ -20,7 +20,7 @@ const nextConfig = {
   
   images: {
     disableStaticImages: false, // Enable static image imports
-    unoptimized: false, // Keep optimization enabled
+    unoptimized: true, // Disable optimization to prevent 400 errors in Google Cloud
     domains: ['localhost', 'westshorecontrols.com'],
     remotePatterns: [],
     minimumCacheTTL: 31536000, // 1 year

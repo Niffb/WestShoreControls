@@ -115,9 +115,23 @@ export default function OptimizedImage({
   // Handle image error
   const handleError = useCallback(() => {
     console.warn(`Failed to load image: ${getCurrentSrc()}`)
+    
+    // Try fallback formats
+    if (currentFormat === 'webp') {
+      setCurrentFormat('jpg')
+      return
+    } else if (currentFormat === 'jpg') {
+      setCurrentFormat('png')
+      return
+    } else if (currentFormat === 'png') {
+      setCurrentFormat('fallback')
+      return
+    }
+    
+    // If all formats fail, set error state
     setHasError(true)
     onError?.()
-  }, [getCurrentSrc, onError])
+  }, [getCurrentSrc, onError, currentFormat])
 
   // Generate blur placeholder
   const generateBlurDataURL = (w: number = 10, h: number = 10) => {
