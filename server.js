@@ -1,5 +1,7 @@
 const { createServer } = require('http');
 const { parse } = require('url');
+const { join } = require('path');
+const { readFileSync, existsSync } = require('fs');
 const next = require('next');
 
 const dev = process.env.NODE_ENV !== 'production';
@@ -10,10 +12,64 @@ const port = parseInt(process.env.PORT, 10) || 8080;
 const app = next({ dev, hostname, port });
 const handle = app.getRequestHandler();
 
+// Utility function to get MIME type
+function getMimeType(filePath) {
+  const ext = filePath.split('.').pop().toLowerCase();
+  const mimeTypes = {
+    'js': 'application/javascript',
+    'css': 'text/css',
+    'html': 'text/html',
+    'json': 'application/json',
+    'png': 'image/png',
+    'jpg': 'image/jpeg',
+    'jpeg': 'image/jpeg',
+    'gif': 'image/gif',
+    'svg': 'image/svg+xml',
+    'webp': 'image/webp',
+    'avif': 'image/avif',
+    'ico': 'image/x-icon',
+    'woff': 'font/woff',
+    'woff2': 'font/woff2',
+    'ttf': 'font/ttf',
+    'otf': 'font/otf'
+  };
+  return mimeTypes[ext] || 'application/octet-stream';
+}
+
 app.prepare().then(() => {
   createServer(async (req, res) => {
     try {
       const parsedUrl = parse(req.url, true);
+      const { pathname } = parsedUrl;
+
+      // Handle static files from public directory (including assets)
+      if (pathname.startsWith('/assets/') || pathname.startsWith('/images/') || 
+          pathname.startsWith('/favicon') || pathname.match(/\.(js|css|png|jpg|jpeg|gif|svg|webp|avif|ico|woff|woff2|ttf|otf)$/)) {
+        
+        const filePath = join(__dirname, 'public', pathname);
+        
+        // Debug logging for static file requests
+        console.log(`[Static] Request: ${pathname} -> File: ${filePath}`);
+        
+        if (existsSync(filePath)) {
+          const fileBuffer = readFileSync(filePath);
+          const mimeType = getMimeType(filePath);
+          
+          console.log(`[Static] Serving: ${pathname} (${mimeType})`);
+          
+          // Set appropriate headers
+          res.setHeader('Content-Type', mimeType);
+          res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
+          
+          return res.end(fileBuffer);
+        } else {
+          console.log(`[Static] File not found: ${filePath}`);
+          res.statusCode = 404;
+          return res.end('File not found');
+        }
+      }
+
+      // Fall back to Next.js handler
       await handle(req, res, parsedUrl);
     } catch (err) {
       console.error('Error occurred handling', req.url, err);

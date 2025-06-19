@@ -24,7 +24,11 @@ export const getImageUrl = (imagePath: string): string => {
   
   // Handle hardcoded /images/ paths - keep them as is for public directory
   if (cleanPath.startsWith('images/') || imagePath.startsWith('/images/')) {
-    return imagePath.startsWith('/') ? imagePath : `/${cleanPath}`
+    const finalPath = imagePath.startsWith('/') ? imagePath : `/${cleanPath}`
+    if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
+      console.log(`[getImageUrl] Using public path: ${finalPath}`)
+    }
+    return finalPath
   }
   
   // Remove 'assets/images/' prefix if present (for backward compatibility)
@@ -58,7 +62,14 @@ export const getImageUrl = (imagePath: string): string => {
   }
   
   // Return final URL with optimized path
-  return `${IMAGE_BASE_URL}/${processedPath}`
+  const finalUrl = `${IMAGE_BASE_URL}/${processedPath}`
+  
+  // Debug logging for development
+  if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
+    console.log(`[getImageUrl] Input: ${imagePath}, Output: ${finalUrl}`)
+  }
+  
+  return finalUrl
 }
 
 // Helper function to get multiple format options for manual optimization

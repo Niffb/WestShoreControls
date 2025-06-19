@@ -12,12 +12,6 @@ const nextConfig = {
   // Compression and optimization
   compress: true,
   
-  // Server configuration
-  server: {
-    port: parseInt(process.env.PORT, 10) || 8080,
-    host: '0.0.0.0'
-  },
-  
   images: {
     disableStaticImages: false, // Enable static image imports
     unoptimized: true, // Disable optimization to prevent 400 errors in Google Cloud
@@ -27,6 +21,40 @@ const nextConfig = {
     formats: ['image/webp', 'image/avif'],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
+  },
+  
+  // Static file serving configuration
+  async rewrites() {
+    return [
+      {
+        source: '/assets/:path*',
+        destination: '/assets/:path*',
+      },
+    ]
+  },
+
+  // Headers for better caching
+  async headers() {
+    return [
+      {
+        source: '/assets/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      {
+        source: '/images/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+    ]
   },
   
   // Experimental features for better performance (compatible with Next.js 14)
