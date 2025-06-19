@@ -1,0 +1,43 @@
+stages:
+  - build
+  - deploy
+
+variables:
+  NODE_VERSION: "18"
+
+# Cache node modules between jobs
+cache:
+  paths:
+    - node_modules/
+    - .next/cache/
+
+build:
+  stage: build
+  image: node:${NODE_VERSION}
+  before_script:
+    - npm ci --cache .npm --prefer-offline
+  script:
+    - npm run build
+  artifacts:
+    paths:
+      - out/
+    expire_in: 1 hour
+  only:
+    - production
+    - main
+
+deploy_to_azure:
+  stage: deploy
+  image: mcr.microsoft.com/azure-cli:latest
+  dependencies:
+    - build
+  before_script:
+    - apk add --no-cache nodejs npm
+  script:
+    # Install Azure Static Web Apps CLI
+    - npm install -g @azure/static-web-apps-cli
+    # Deploy to Azure Static Web Apps
+    - swa deploy ./out --env production --deployment-token $AZURE_STATIC_WEB_APPS_API_TOKEN
+  only:
+    - production
+    - main 

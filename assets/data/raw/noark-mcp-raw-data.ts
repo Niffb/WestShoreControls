@@ -1,0 +1,5576 @@
+export const rawMCPData = [
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM1N100T3L",
+    "name": "E01-XNM1N100T3LEnclosed breaker - M1 frame - 3P3d - 100A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM1N100T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-XNM1N100T3L_0.jpg",
+      "m1n/images/E01-XNM1N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:24:48",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N150T22L",
+    "name": "M1N150T22LMCCB - 1102167 - UL489 - M1 frame - 2P2d - 150A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102167",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N150T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N150T22L_0.jpg",
+      "m1n/images/M1N150T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:24:53",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N50T2",
+    "name": "M1N50T2MCCB - 1100125 - UL489 - M1 frame - 3P2d - 50A rated - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 50A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100125",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N50T2_0.jpg",
+      "m1n/images/M1N50T2_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:24:58",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N35T1",
+    "name": "M1N35T1MCCB - 1102212 - UL489 - M1 frame - 1P1d - 35A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 35A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102212",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N35T1_0.jpg",
+      "m1n/images/M1N35T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:04",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N25T22",
+    "name": "M1N25T22MCCB - 1102253 - UL489 - M1 frame - 2P2d - 25A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 25A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102253",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N25T22_0.jpg",
+      "m1n/images/M1N25T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:09",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N35T1L",
+    "name": "M1N35T1LMCCB - 1102227 - UL489 - M1 frame - 1P1d - 35A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 35A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102227",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N35T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N35T1L_0.jpg",
+      "m1n/images/M1N35T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:14",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N20T22",
+    "name": "M1N20T22MCCB - 1102252 - UL489 - M1 frame - 2P2d - 20A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 20A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102252",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N20T22_0.jpg",
+      "m1n/images/M1N20T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:19",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-1AM1N150T3L",
+    "name": "E3R-1AM1N150T3LEnclosed breaker - M1 frame - 3P3d - 150A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R1AM1N150T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-1AM1N150T3L_0.jpg",
+      "m1n/images/E3R-1AM1N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:23",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N60T22L",
+    "name": "M1N60T22LMCCB - 1102298 - UL489 - M1 frame - 2P2d - 60A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102298",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N60T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N60T22L_0.jpg",
+      "m1n/images/M1N60T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:28",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N25T1L",
+    "name": "M1N25T1LMCCB - 1102225 - UL489 - M1 frame - 1P1d - 25A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 25A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102225",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N25T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N25T1L_0.jpg",
+      "m1n/images/M1N25T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:34",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N125T3",
+    "name": "M1N125T3MCCB - 1102160 - UL489 - M1 frame - 3P3d - 125A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102160",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N125T3_0.jpg",
+      "m1n/images/M1N125T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:39",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T1",
+    "name": "M1N30T1MCCB - 1102211 - UL489 - M1 frame - 1P1d - 30A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 30A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102211",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T1_0.jpg",
+      "m1n/images/M1N30T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:43",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM1N30T3L",
+    "name": "E3R-XNM1N30T3LEnclosed breaker - M1 frame - 3P3d - 30A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM1N30T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-XNM1N30T3L_0.jpg",
+      "m1n/images/E3R-XNM1N30T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:49",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N90T1L",
+    "name": "M1N90T1LMCCB - 1102234 - UL489 - M1 frame - 1P1d - 90A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 90A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102234",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N90T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N90T1L_0.jpg",
+      "m1n/images/M1N90T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:53",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-1AM1N100T3L",
+    "name": "E12-1AM1N100T3LEnclosed breaker - M1 frame - 3P3d - 100A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 12 - equivalent to E121AM1N100T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-1AM1N100T3L_0.jpg",
+      "m1n/images/E12-1AM1N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:25:58",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N50T1",
+    "name": "M1N50T1MCCB - 1102215 - UL489 - M1 frame - 1P1d - 50A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 50A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102215",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N50T1_0.jpg",
+      "m1n/images/M1N50T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:03",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T3L",
+    "name": "M1N30T3LMCCB - 1100043 - UL489 - M1 frame - 3P3d - 30A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100043",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N30T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T3L_0.jpg",
+      "m1n/images/M1N30T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:07",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N80T3",
+    "name": "M1N80T3MCCB - 1100024 - UL489 - M1 frame - 3P3d - 80A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 80A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100024",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N80T3_0.jpg",
+      "m1n/images/M1N80T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:11",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N60T1",
+    "name": "M1N60T1MCCB - 1102216 - UL489 - M1 frame - 1P1d - 60A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 60A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102216",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N60T1_0.jpg",
+      "m1n/images/M1N60T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:16",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM1N30T3L",
+    "name": "E01-XNM1N30T3LEnclosed breaker - M1 frame - 3P3d - 30A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM1N30T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-XNM1N30T3L_0.jpg",
+      "m1n/images/E01-XNM1N30T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:20",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N90T22",
+    "name": "M1N90T22MCCB - 1102262 - UL489 - M1 frame - 2P2d - 90A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 90A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102262",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N90T22_0.jpg",
+      "m1n/images/M1N90T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:26",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N35T22L",
+    "name": "M1N35T22LMCCB - 1102294 - UL489 - M1 frame - 2P2d - 35A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 35A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102294",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N35T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N35T22L_0.jpg",
+      "m1n/images/M1N35T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:31",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N45T1",
+    "name": "M1N45T1MCCB - 1102214 - UL489 - M1 frame - 1P1d - 45A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 45A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102214",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N45T1_0.jpg",
+      "m1n/images/M1N45T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:36",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N50T1L",
+    "name": "M1N50T1LMCCB - 1102230 - UL489 - M1 frame - 1P1d - 50A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 50A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102230",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N50T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N50T1L_0.jpg",
+      "m1n/images/M1N50T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:42",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T2L",
+    "name": "M1N30T2LMCCB - 1100147 - UL489 - M1 frame - 3P2d - 30A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100147",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N30T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T2L_0.jpg",
+      "m1n/images/M1N30T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:47",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N40T3",
+    "name": "M1N40T3MCCB - 1100019 - UL489 - M1 frame - 3P3d - 40A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 40A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100019",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N40T3_0.jpg",
+      "m1n/images/M1N40T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:51",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N20T3",
+    "name": "M1N20T3MCCB - 1100015 - UL489 - M1 frame - 3P3d - 20A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 20A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100015",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N20T3_0.jpg",
+      "m1n/images/M1N20T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:26:55",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N45T22",
+    "name": "M1N45T22MCCB - 1102257 - UL489 - M1 frame - 2P2d - 45A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 45A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102257",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N45T22_0.jpg",
+      "m1n/images/M1N45T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:00",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N40T3L",
+    "name": "M1N40T3LMCCB - 1100045 - UL489 - M1 frame - 3P3d - 40A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 40A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100045",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N40T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N40T3L_0.jpg",
+      "m1n/images/M1N40T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:05",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N15T3L",
+    "name": "M1N15T3LMCCB - 1100040 - UL489 - M1 frame - 3P3d - 15A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 15A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100040",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N15T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N15T3L_0.jpg",
+      "m1n/images/M1N15T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:10",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-1AM1N150T3L",
+    "name": "E01-1AM1N150T3LEnclosed breaker - M1 frame - 3P3d - 150A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E011AM1N150T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-1AM1N150T3L_0.jpg",
+      "m1n/images/E01-1AM1N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:14",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N80T1L",
+    "name": "M1N80T1LMCCB - 1102233 - UL489 - M1 frame - 1P1d - 80A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 80A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102233",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N80T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N80T1L_0.jpg",
+      "m1n/images/M1N80T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:19",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N70T3L",
+    "name": "M1N70T3LMCCB - 1100049 - UL489 - M1 frame - 3P3d - 70A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 70A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100049",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N70T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N70T3L_0.jpg",
+      "m1n/images/M1N70T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:23",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N15T22",
+    "name": "M1N15T22MCCB - 1102251 - UL489 - M1 frame - 2P2d - 15A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 15A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102251",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N15T22_0.jpg",
+      "m1n/images/M1N15T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:28",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T3L",
+    "name": "M1N100T3LMCCB - 1100052 - UL489 - M1 frame - 3P3d - 100A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100052",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N100T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T3L_0.jpg",
+      "m1n/images/M1N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:33",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM1N150T3L",
+    "name": "E12-XNM1N150T3LEnclosed breaker - M1 frame - 3P3d - 150A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM1N150T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-XNM1N150T3L_0.jpg",
+      "m1n/images/E12-XNM1N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:39",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N50T3L",
+    "name": "M1N50T3LMCCB - 1100047 - UL489 - M1 frame - 3P3d - 50A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 50A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100047",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N50T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N50T3L_0.jpg",
+      "m1n/images/M1N50T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:43",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N40T22",
+    "name": "M1N40T22MCCB - 1102256 - UL489 - M1 frame - 2P2d - 40A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 40A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102256",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N40T22_0.jpg",
+      "m1n/images/M1N40T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:47",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N20T1L",
+    "name": "M1N20T1LMCCB - 1102224 - UL489 - M1 frame - 1P1d - 20A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 20A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102224",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N20T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N20T1L_0.jpg",
+      "m1n/images/M1N20T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:52",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM1N60T3L",
+    "name": "E3R-XNM1N60T3LEnclosed breaker - M1 frame - 3P3d - 60A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM1N60T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-XNM1N60T3L_0.jpg",
+      "m1n/images/E3R-XNM1N60T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:27:55",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-1AM1N30T3L",
+    "name": "E01-1AM1N30T3LEnclosed breaker - M1 frame - 3P3d - 30A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - NEMA 1 - equivalent to E011AM1N30T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-1AM1N30T3L_0.jpg",
+      "m1n/images/E01-1AM1N30T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:00",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N60T3",
+    "name": "M1N60T3MCCB - 1100022 - UL489 - M1 frame - 3P3d - 60A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100022",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N60T3_0.jpg",
+      "m1n/images/M1N60T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:05",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N70T22",
+    "name": "M1N70T22MCCB - 1102260 - UL489 - M1 frame - 2P2d - 70A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 70A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102260",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N70T22_0.jpg",
+      "m1n/images/M1N70T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:10",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T3",
+    "name": "M1N100T3MCCB - 1100026 - UL489 - M1 frame - 3P3d - 100A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100026",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T3_0.jpg",
+      "m1n/images/M1N100T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:15",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-1AM1N150T3L",
+    "name": "E12-1AM1N150T3LEnclosed breaker - M1 frame - 3P3d - 150A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E121AM1N150T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-1AM1N150T3L_0.jpg",
+      "m1n/images/E12-1AM1N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:21",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N25T1",
+    "name": "M1N25T1MCCB - 1102210 - UL489 - M1 frame - 1P1d - 25A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 25A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102210",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N25T1_0.jpg",
+      "m1n/images/M1N25T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:25",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-1AM1N30T3L",
+    "name": "E3R-1AM1N30T3LEnclosed breaker - M1 frame - 3P3d - 30A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - NEMA 3R - equivalent to E3R1AM1N30T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-1AM1N30T3L_0.jpg",
+      "m1n/images/E3R-1AM1N30T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:30",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N15T3",
+    "name": "M1N15T3MCCB - 1100014 - UL489 - M1 frame - 3P3d - 15A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 15A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100014",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N15T3_0.jpg",
+      "m1n/images/M1N15T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:35",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM1N60T3L",
+    "name": "E01-XNM1N60T3LEnclosed breaker - M1 frame - 3P3d - 60A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM1N60T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-XNM1N60T3L_0.jpg",
+      "m1n/images/E01-XNM1N60T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:40",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N15T1",
+    "name": "M1N15T1MCCB - 1102208 - UL489 - M1 frame - 1P1d - 15A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 15A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102208",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N15T1_0.jpg",
+      "m1n/images/M1N15T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:44",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM1N150T3L",
+    "name": "E01-XNM1N150T3LEnclosed breaker - M1 frame - 3P3d - 150A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM1N150T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-XNM1N150T3L_0.jpg",
+      "m1n/images/E01-XNM1N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:48",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM1N100T3L",
+    "name": "E3R-XNM1N100T3LEnclosed breaker - M1 frame - 3P3d - 100A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM1N100T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-XNM1N100T3L_0.jpg",
+      "m1n/images/E3R-XNM1N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:53",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N125T1L",
+    "name": "M1N125T1LMCCB - 1102236 - UL489 - M1 frame - 1P1d - 125A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 125A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102236",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N125T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N125T1L_0.jpg",
+      "m1n/images/M1N125T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:28:59",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM1N150T3L",
+    "name": "E3R-XNM1N150T3LEnclosed breaker - M1 frame - 3P3d - 150A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM1N150T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-XNM1N150T3L_0.jpg",
+      "m1n/images/E3R-XNM1N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:04",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-1AM1N100T3L",
+    "name": "E01-1AM1N100T3LEnclosed breaker - M1 frame - 3P3d - 100A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 1 - equivalent to E011AM1N100T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-1AM1N100T3L_0.jpg",
+      "m1n/images/E01-1AM1N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:09",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N35T3L",
+    "name": "M1N35T3LMCCB - 1100044 - UL489 - M1 frame - 3P3d - 35A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 35A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100044",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N35T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N35T3L_0.jpg",
+      "m1n/images/M1N35T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:13",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N150T3",
+    "name": "M1N150T3MCCB - 1102161 - UL489 - M1 frame - 3P3d - 150A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102161",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N150T3_0.jpg",
+      "m1n/images/M1N150T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:17",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N50T22",
+    "name": "M1N50T22MCCB - 1102258 - UL489 - M1 frame - 2P2d - 50A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 50A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102258",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N50T22_0.jpg",
+      "m1n/images/M1N50T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:22",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N60T22",
+    "name": "M1N60T22MCCB - 1102259 - UL489 - M1 frame - 2P2d - 60A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102259",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N60T22_0.jpg",
+      "m1n/images/M1N60T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:27",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N150T1",
+    "name": "M1N150T1MCCB - 1102222 - UL489 - M1 frame - 1P1d - 150A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 150A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102222",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N150T1_0.jpg",
+      "m1n/images/M1N150T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:32",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T22L",
+    "name": "M1N100T22LMCCB - 1102302 - UL489 - M1 frame - 2P2d - 100A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102302",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N100T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T22L_0.jpg",
+      "m1n/images/M1N100T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:37",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T1",
+    "name": "M1N100T1MCCB - 1102220 - UL489 - M1 frame - 1P1d - 100A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 100A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102220",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T1_0.jpg",
+      "m1n/images/M1N100T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:42",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N70T1L",
+    "name": "M1N70T1LMCCB - 1102232 - UL489 - M1 frame - 1P1d - 70A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 70A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102232",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N70T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N70T1L_0.jpg",
+      "m1n/images/M1N70T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:47",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N15T1L",
+    "name": "M1N15T1LMCCB - 1102223 - UL489 - M1 frame - 1P1d - 15A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 15A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102223",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N15T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N15T1L_0.jpg",
+      "m1n/images/M1N15T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:51",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T22",
+    "name": "M1N30T22MCCB - 1102254 - UL489 - M1 frame - 2P2d - 30A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102254",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T22_0.jpg",
+      "m1n/images/M1N30T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:29:56",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N25T3",
+    "name": "M1N25T3MCCB - 1100016 - UL489 - M1 frame - 3P3d - 25A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 25A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100016",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N25T3_0.jpg",
+      "m1n/images/M1N25T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:02",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N35T22",
+    "name": "M1N35T22MCCB - 1102255 - UL489 - M1 frame - 2P2d - 35A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 35A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102255",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N35T22_0.jpg",
+      "m1n/images/M1N35T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:06",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N150T3L",
+    "name": "M1N150T3LMCCB - 1102173 - UL489 - M1 frame - 3P3d - 150A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102173",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N150T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N150T3L_0.jpg",
+      "m1n/images/M1N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:11",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N90T3",
+    "name": "M1N90T3MCCB - 1100025 - UL489 - M1 frame - 3P3d - 90A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 90A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100025",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N90T3_0.jpg",
+      "m1n/images/M1N90T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:15",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T2",
+    "name": "M1N30T2MCCB - 1100121 - UL489 - M1 frame - 3P2d - 30A rated - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100121",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T2_0.jpg",
+      "m1n/images/M1N30T2_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:20",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N80T2L",
+    "name": "M1N80T2LMCCB - 1100154 - UL489 - M1 frame - 3P2d - 80A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 80A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100154",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N80T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N80T2L_0.jpg",
+      "m1n/images/M1N80T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:26",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N45T3",
+    "name": "M1N45T3MCCB - 1100020 - UL489 - M1 frame - 3P3d - 45A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 45A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100020",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N45T3_0.jpg",
+      "m1n/images/M1N45T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:31",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T22L",
+    "name": "M1N30T22LMCCB - 1102293 - UL489 - M1 frame - 2P2d - 30A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102293",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N30T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T22L_0.jpg",
+      "m1n/images/M1N30T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:37",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N15T22L",
+    "name": "M1N15T22LMCCB - 1102290 - UL489 - M1 frame - 2P2d - 15A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 15A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102290",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N15T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N15T22L_0.jpg",
+      "m1n/images/M1N15T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:41",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T1L",
+    "name": "M1N100T1LMCCB - 1102235 - UL489 - M1 frame - 1P1d - 100A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 100A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102235",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N100T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T1L_0.jpg",
+      "m1n/images/M1N100T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:47",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N20T1",
+    "name": "M1N20T1MCCB - 1102209 - UL489 - M1 frame - 1P1d - 20A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 20A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102209",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N20T1_0.jpg",
+      "m1n/images/M1N20T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:52",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N50T22L",
+    "name": "M1N50T22LMCCB - 1102297 - UL489 - M1 frame - 2P2d - 50A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 50A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102297",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N50T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N50T22L_0.jpg",
+      "m1n/images/M1N50T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:30:57",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N40T1L",
+    "name": "M1N40T1LMCCB - 1102228 - UL489 - M1 frame - 1P1d - 40A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 40A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102228",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N40T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N40T1L_0.jpg",
+      "m1n/images/M1N40T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:02",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N80T22L",
+    "name": "M1N80T22LMCCB - 1102300 - UL489 - M1 frame - 2P2d - 80A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 80A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102300",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N80T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N80T22L_0.jpg",
+      "m1n/images/M1N80T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:05",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM1N30T3L",
+    "name": "E12-XNM1N30T3LEnclosed breaker - M1 frame - 3P3d - 30A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM1N30T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-XNM1N30T3L_0.jpg",
+      "m1n/images/E12-XNM1N30T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:11",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM1N60T3L",
+    "name": "E12-XNM1N60T3LEnclosed breaker - M1 frame - 3P3d - 60A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM1N60T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-XNM1N60T3L_0.jpg",
+      "m1n/images/E12-XNM1N60T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:16",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N20T22L",
+    "name": "M1N20T22LMCCB - 1102291 - UL489 - M1 frame - 2P2d - 20A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 20A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102291",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N20T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N20T22L_0.jpg",
+      "m1n/images/M1N20T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:20",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T3",
+    "name": "M1N30T3MCCB - 1100017 - UL489 - M1 frame - 3P3d - 30A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100017",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T3_0.jpg",
+      "m1n/images/M1N30T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:27",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N20T3L",
+    "name": "M1N20T3LMCCB - 1100041 - UL489 - M1 frame - 3P3d - 20A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 20A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100041",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N20T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N20T3L_0.jpg",
+      "m1n/images/M1N20T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:32",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N70T1",
+    "name": "M1N70T1MCCB - 1102217 - UL489 - M1 frame - 1P1d - 70A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 70A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102217",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N70T1_0.jpg",
+      "m1n/images/M1N70T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:36",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N30T1L",
+    "name": "M1N30T1LMCCB - 1102226 - UL489 - M1 frame - 1P1d - 30A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 30A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102226",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N30T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N30T1L_0.jpg",
+      "m1n/images/M1N30T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:41",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N125T22L",
+    "name": "M1N125T22LMCCB - 1102166 - UL489 - M1 frame - 2P2d - 125A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102166",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N125T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N125T22L_0.jpg",
+      "m1n/images/M1N125T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:45",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N45T1L",
+    "name": "M1N45T1LMCCB - 1102229 - UL489 - M1 frame - 1P1d - 45A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 45A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102229",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N45T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N45T1L_0.jpg",
+      "m1n/images/M1N45T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:50",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-1AM1N100T3L",
+    "name": "E3R-1AM1N100T3LEnclosed breaker - M1 frame - 3P3d - 100A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 3R - equivalent to E3R1AM1N100T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-1AM1N100T3L_0.jpg",
+      "m1n/images/E3R-1AM1N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:31:55",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T2L",
+    "name": "M1N100T2LMCCB - 1100156 - UL489 - M1 frame - 3P2d - 100A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100156",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N100T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T2L_0.jpg",
+      "m1n/images/M1N100T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:01",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-1AM1N60T3L",
+    "name": "E3R-1AM1N60T3LEnclosed breaker - M1 frame - 3P3d - 60A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 3R - equivalent to E3R1AM1N60T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E3R-1AM1N60T3L_0.jpg",
+      "m1n/images/E3R-1AM1N60T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:05",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N15T2L",
+    "name": "M1N15T2LMCCB - 1100144 - UL489 - M1 frame - 3P2d - 15A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 15A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100144",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N15T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N15T2L_0.jpg",
+      "m1n/images/M1N15T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:10",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N90T22L",
+    "name": "M1N90T22LMCCB - 1102301 - UL489 - M1 frame - 2P2d - 90A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 90A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102301",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N90T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N90T22L_0.jpg",
+      "m1n/images/M1N90T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:15",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N125T3L",
+    "name": "M1N125T3LMCCB - 1102172 - UL489 - M1 frame - 3P3d - 125A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102172",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N125T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N125T3L_0.jpg",
+      "m1n/images/M1N125T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:21",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N90T1",
+    "name": "M1N90T1MCCB - 1102219 - UL489 - M1 frame - 1P1d - 90A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 90A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102219",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N90T1_0.jpg",
+      "m1n/images/M1N90T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:27",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N80T1",
+    "name": "M1N80T1MCCB - 1102218 - UL489 - M1 frame - 1P1d - 80A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 80A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102218",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N80T1_0.jpg",
+      "m1n/images/M1N80T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:32",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N45T22L",
+    "name": "M1N45T22LMCCB - 1102296 - UL489 - M1 frame - 2P2d - 45A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 45A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102296",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N45T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N45T22L_0.jpg",
+      "m1n/images/M1N45T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:38",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-1AM1N60T3L",
+    "name": "E01-1AM1N60T3LEnclosed breaker - M1 frame - 3P3d - 60A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 1 - equivalent to E011AM1N60T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E01-1AM1N60T3L_0.jpg",
+      "m1n/images/E01-1AM1N60T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:43",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N80T22",
+    "name": "M1N80T22MCCB - 1102261 - UL489 - M1 frame - 2P2d - 80A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 80A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102261",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N80T22_0.jpg",
+      "m1n/images/M1N80T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:47",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-1AM1N30T3L",
+    "name": "E12-1AM1N30T3LEnclosed breaker - M1 frame - 3P3d - 30A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 30A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - NEMA 12 - equivalent to E121AM1N30T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-1AM1N30T3L_0.jpg",
+      "m1n/images/E12-1AM1N30T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:53",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N50T3",
+    "name": "M1N50T3MCCB - 1100021 - UL489 - M1 frame - 3P3d - 50A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 50A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100021",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N50T3_0.jpg",
+      "m1n/images/M1N50T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:32:57",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N25T3L",
+    "name": "M1N25T3LMCCB - 1100042 - UL489 - M1 frame - 3P3d - 25A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 25A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100042",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N25T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N25T3L_0.jpg",
+      "m1n/images/M1N25T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:02",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N40T22L",
+    "name": "M1N40T22LMCCB - 1102295 - UL489 - M1 frame - 2P2d - 40A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 40A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102295",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N40T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N40T22L_0.jpg",
+      "m1n/images/M1N40T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:07",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM1N100T3L",
+    "name": "E12-XNM1N100T3LEnclosed breaker - M1 frame - 3P3d - 100A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM1N100T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-XNM1N100T3L_0.jpg",
+      "m1n/images/E12-XNM1N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:12",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N150T22",
+    "name": "M1N150T22MCCB - 1102155 - UL489 - M1 frame - 2P2d - 150A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102155",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N150T22_0.jpg",
+      "m1n/images/M1N150T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:18",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N125T22",
+    "name": "M1N125T22MCCB - 1102154 - UL489 - M1 frame - 2P2d - 125A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102154",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N125T22_0.jpg",
+      "m1n/images/M1N125T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:22",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T2",
+    "name": "M1N100T2MCCB - 1100130 - UL489 - M1 frame - 3P2d - 100A rated - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100130",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T2_0.jpg",
+      "m1n/images/M1N100T2_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:27",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N45T3L",
+    "name": "M1N45T3LMCCB - 1100046 - UL489 - M1 frame - 3P3d - 45A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 45A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100046",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N45T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N45T3L_0.jpg",
+      "m1n/images/M1N45T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:31",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N60T3L",
+    "name": "M1N60T3LMCCB - 1100048 - UL489 - M1 frame - 3P3d - 60A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100048",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N60T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N60T3L_0.jpg",
+      "m1n/images/M1N60T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:36",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N35T3",
+    "name": "M1N35T3MCCB - 1100018 - UL489 - M1 frame - 3P3d - 35A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 35A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1100018",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N35T3_0.jpg",
+      "m1n/images/M1N35T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:41",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N70T3",
+    "name": "M1N70T3MCCB - 1100023 - UL489 - M1 frame - 3P3d - 70A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 70A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100023",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N70T3_0.jpg",
+      "m1n/images/M1N70T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:47",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N60T2",
+    "name": "M1N60T2MCCB - 1100126 - UL489 - M1 frame - 3P2d - 60A rated - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles in 3-poles case (3P2d) - Rated current 60A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100126",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N60T2_0.jpg",
+      "m1n/images/M1N60T2_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:53",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N80T3L",
+    "name": "M1N80T3LMCCB - 1100050 - UL489 - M1 frame - 3P3d - 80A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 80A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100050",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N80T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N80T3L_0.jpg",
+      "m1n/images/M1N80T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:33:58",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N125T1",
+    "name": "M1N125T1MCCB - 1102221 - UL489 - M1 frame - 1P1d - 125A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 125A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102221",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N125T1_0.jpg",
+      "m1n/images/M1N125T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:04",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N70T22L",
+    "name": "M1N70T22LMCCB - 1102299 - UL489 - M1 frame - 2P2d - 70A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 70A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102299",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N70T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N70T22L_0.jpg",
+      "m1n/images/M1N70T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:08",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N100T22",
+    "name": "M1N100T22MCCB - 1102263 - UL489 - M1 frame - 2P2d - 100A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1102263",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N100T22_0.jpg",
+      "m1n/images/M1N100T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:14",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-1AM1N60T3L",
+    "name": "E12-1AM1N60T3LEnclosed breaker - M1 frame - 3P3d - 60A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 60A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - NEMA 12 - equivalent to E121AM1N60T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/E12-1AM1N60T3L_0.jpg",
+      "m1n/images/E12-1AM1N60T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:18",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N60T1L",
+    "name": "M1N60T1LMCCB - 1102231 - UL489 - M1 frame - 1P1d - 60A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 60A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102231",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N60T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N60T1L_0.jpg",
+      "m1n/images/M1N60T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:24",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N90T3L",
+    "name": "M1N90T3LMCCB - 1100051 - UL489 - M1 frame - 3P3d - 90A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 3-poles (3P3d) - Rated current 90A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/FM (Adjustable Thermal / Fixed Magnetic)) trip unit - equivalent to 1100051",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N90T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N90T3L_0.jpg",
+      "m1n/images/M1N90T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:29",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N25T22L",
+    "name": "M1N25T22LMCCB - 1102292 - UL489 - M1 frame - 2P2d - 25A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 2-poles (2P2d) - Rated current 25A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102292",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N25T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N25T22L_0.jpg",
+      "m1n/images/M1N25T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:35",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N150T1L",
+    "name": "M1N150T1LMCCB - 1102237 - UL489 - M1 frame - 1P1d - 150A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 150A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102237",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M1N150T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N150T1L_0.jpg",
+      "m1n/images/M1N150T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:40",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M1N40T1",
+    "name": "M1N40T1MCCB - 1102213 - UL489 - M1 frame - 1P1d - 40A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M1 series) - 1-pole (1P1d) - Rated current 40A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102213",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m1n/images/M1N40T1_0.jpg",
+      "m1n/images/M1N40T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:34:45",
+    "series": "m1n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N175T1",
+    "name": "M2N175T1MCCB - 1102319 - UL489 - M2 frame - 1P1d - 175A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 175A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102319",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N175T1_0.jpg",
+      "m2n/images/M2N175T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:10",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N125T3L",
+    "name": "M2N125T3LMCCB - 1100228 - UL489 - M2 frame - 3P3d - 125A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100228",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N125T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N125T3L_0.jpg",
+      "m2n/images/M2N125T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:16",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N175T22L",
+    "name": "M2N175T22LMCCB - 1102354 - UL489 - M2 frame - 2P2d - 175A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102354",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N175T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N175T22L_0.jpg",
+      "m2n/images/M2N175T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:22",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-2AM2N225T3L",
+    "name": "E01-2AM2N225T3LEnclosed breaker - M2 frame - 3P3d - 225A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E012AM2N225T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-2AM2N225T3L_0.jpg",
+      "m2n/images/E01-2AM2N225T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:27",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N150T22L",
+    "name": "M2N150T22LMCCB - 1102353 - UL489 - M2 frame - 2P2d - 150A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102353",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N150T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N150T22L_0.jpg",
+      "m2n/images/M2N150T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:31",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T22L",
+    "name": "M2N250T22LMCCB - 1102357 - UL489 - M2 frame - 2P2d - 250A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102357",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N250T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T22L_0.jpg",
+      "m2n/images/M2N250T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:37",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T1",
+    "name": "M2N250T1MCCB - 1102322 - UL489 - M2 frame - 1P1d - 250A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 250A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102322",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T1_0.jpg",
+      "m2n/images/M2N250T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:42",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T3L",
+    "name": "M2N250T3LMCCB - 1101959 - UL489 - M2 frame - 3P3d - 250A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101959",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N250T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T3L_0.jpg",
+      "m2n/images/M2N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:47",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM2N200T3L",
+    "name": "E12-XNM2N200T3LEnclosed breaker - M2 frame - 3P3d - 200A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM2N200T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-XNM2N200T3L_0.jpg",
+      "m2n/images/E12-XNM2N200T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:52",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N150T22",
+    "name": "M2N150T22MCCB - 1102346 - UL489 - M2 frame - 2P2d - 150A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102346",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N150T22_0.jpg",
+      "m2n/images/M2N150T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:39:58",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-2AM2N200T3L",
+    "name": "E3R-2AM2N200T3LEnclosed breaker - M2 frame - 3P3d - 200A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R2AM2N200T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-2AM2N200T3L_0.jpg",
+      "m2n/images/E3R-2AM2N200T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:02",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM2N225T3L",
+    "name": "E12-XNM2N225T3LEnclosed breaker - M2 frame - 3P3d - 225A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM2N225T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-XNM2N225T3L_0.jpg",
+      "m2n/images/E12-XNM2N225T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:07",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N200T3",
+    "name": "M2N200T3MCCB - 1100219 - UL489 - M2 frame - 3P3d - 200A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100219",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N200T3_0.jpg",
+      "m2n/images/M2N200T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:11",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N200T1L",
+    "name": "M2N200T1LMCCB - 1102327 - UL489 - M2 frame - 1P1d - 200A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 200A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102327",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N200T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N200T1L_0.jpg",
+      "m2n/images/M2N200T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:16",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N125T1",
+    "name": "M2N125T1MCCB - 1102317 - UL489 - M2 frame - 1P1d - 125A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 125A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102317",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N125T1_0.jpg",
+      "m2n/images/M2N125T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:19",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N175T22",
+    "name": "M2N175T22MCCB - 1102347 - UL489 - M2 frame - 2P2d - 175A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102347",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N175T22_0.jpg",
+      "m2n/images/M2N175T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:25",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N225T22",
+    "name": "M2N225T22MCCB - 1102349 - UL489 - M2 frame - 2P2d - 225A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102349",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N225T22_0.jpg",
+      "m2n/images/M2N225T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:29",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM2N175T3L",
+    "name": "E3R-XNM2N175T3LEnclosed breaker - M2 frame - 3P3d - 175A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM2N175T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-XNM2N175T3L_0.jpg",
+      "m2n/images/E3R-XNM2N175T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:34",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N225T1",
+    "name": "M2N225T1MCCB - 1102321 - UL489 - M2 frame - 1P1d - 225A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 225A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102321",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N225T1_0.jpg",
+      "m2n/images/M2N225T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:39",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T2",
+    "name": "M2N250T2MCCB - 1101968 - UL489 - M2 frame - 3P2d - 250A rated - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles in 3-poles case (3P2d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101968",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T2_0.jpg",
+      "m2n/images/M2N250T2_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:44",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N200T22",
+    "name": "M2N200T22MCCB - 1102348 - UL489 - M2 frame - 2P2d - 200A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102348",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N200T22_0.jpg",
+      "m2n/images/M2N200T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:50",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-2AM2N200T3L",
+    "name": "E12-2AM2N200T3LEnclosed breaker - M2 frame - 3P3d - 200A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E122AM2N200T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-2AM2N200T3L_0.jpg",
+      "m2n/images/E12-2AM2N200T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:40:55",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T22",
+    "name": "M2N250T22MCCB - 1102350 - UL489 - M2 frame - 2P2d - 250A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102350",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T22_0.jpg",
+      "m2n/images/M2N250T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:00",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-2AM2N250T3L",
+    "name": "E01-2AM2N250T3LEnclosed breaker - M2 frame - 3P3d - 250A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E012AM2N250T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-2AM2N250T3L_0.jpg",
+      "m2n/images/E01-2AM2N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:04",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-2AM2N250T3L",
+    "name": "E3R-2AM2N250T3LEnclosed breaker - M2 frame - 3P3d - 250A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R2AM2N250T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-2AM2N250T3L_0.jpg",
+      "m2n/images/E3R-2AM2N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:08",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N150T3L",
+    "name": "M2N150T3LMCCB - 1100229 - UL489 - M2 frame - 3P3d - 150A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100229",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N150T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N150T3L_0.jpg",
+      "m2n/images/M2N150T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:11",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N100T22L",
+    "name": "M2N100T22LMCCB - 1102351 - UL489 - M2 frame - 2P2d - 100A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102351",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N100T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N100T22L_0.jpg",
+      "m2n/images/M2N100T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:17",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N225T1L",
+    "name": "M2N225T1LMCCB - 1102328 - UL489 - M2 frame - 1P1d - 225A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 225A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102328",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N225T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N225T1L_0.jpg",
+      "m2n/images/M2N225T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:23",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM2N175T3L",
+    "name": "E12-XNM2N175T3LEnclosed breaker - M2 frame - 3P3d - 175A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM2N175T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-XNM2N175T3L_0.jpg",
+      "m2n/images/E12-XNM2N175T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:28",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N225T22L",
+    "name": "M2N225T22LMCCB - 1102356 - UL489 - M2 frame - 2P2d - 225A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102356",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N225T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N225T22L_0.jpg",
+      "m2n/images/M2N225T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:33",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N125T1L",
+    "name": "M2N125T1LMCCB - 1102324 - UL489 - M2 frame - 1P1d - 125A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 125A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102324",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N125T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N125T1L_0.jpg",
+      "m2n/images/M2N125T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:37",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM2N175T3L",
+    "name": "E01-XNM2N175T3LEnclosed breaker - M2 frame - 3P3d - 175A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM2N175T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-XNM2N175T3L_0.jpg",
+      "m2n/images/E01-XNM2N175T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:42",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N150T1",
+    "name": "M2N150T1MCCB - 1102318 - UL489 - M2 frame - 1P1d - 150A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 150A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102318",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N150T1_0.jpg",
+      "m2n/images/M2N150T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:46",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-2AM2N175T3L",
+    "name": "E01-2AM2N175T3LEnclosed breaker - M2 frame - 3P3d - 175A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E012AM2N175T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-2AM2N175T3L_0.jpg",
+      "m2n/images/E01-2AM2N175T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:53",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N200T2L",
+    "name": "M2N200T2LMCCB - 1100279 - UL489 - M2 frame - 3P2d - 200A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles in 3-poles case (3P2d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100279",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N200T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N200T2L_0.jpg",
+      "m2n/images/M2N200T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:41:58",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N100T1",
+    "name": "M2N100T1MCCB - 1102316 - UL489 - M2 frame - 1P1d - 100A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 100A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102316",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N100T1_0.jpg",
+      "m2n/images/M2N100T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:03",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N175T3",
+    "name": "M2N175T3MCCB - 1100218 - UL489 - M2 frame - 3P3d - 175A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100218",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N175T3_0.jpg",
+      "m2n/images/M2N175T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:08",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N125T22",
+    "name": "M2N125T22MCCB - 1102345 - UL489 - M2 frame - 2P2d - 125A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102345",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N125T22_0.jpg",
+      "m2n/images/M2N125T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:12",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM2N200T3L",
+    "name": "E01-XNM2N200T3LEnclosed breaker - M2 frame - 3P3d - 200A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM2N200T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-XNM2N200T3L_0.jpg",
+      "m2n/images/E01-XNM2N200T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:16",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-2AM2N225T3L",
+    "name": "E3R-2AM2N225T3LEnclosed breaker - M2 frame - 3P3d - 225A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R2AM2N225T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-2AM2N225T3L_0.jpg",
+      "m2n/images/E3R-2AM2N225T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:22",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-2AM2N200T3L",
+    "name": "E01-2AM2N200T3LEnclosed breaker - M2 frame - 3P3d - 200A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E012AM2N200T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-2AM2N200T3L_0.jpg",
+      "m2n/images/E01-2AM2N200T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:27",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T2L",
+    "name": "M2N250T2LMCCB - 1101971 - UL489 - M2 frame - 3P2d - 250A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles in 3-poles case (3P2d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101971",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N250T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T2L_0.jpg",
+      "m2n/images/M2N250T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:33",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N125T22L",
+    "name": "M2N125T22LMCCB - 1102352 - UL489 - M2 frame - 2P2d - 125A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102352",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N125T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N125T22L_0.jpg",
+      "m2n/images/M2N125T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:37",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N200T22L",
+    "name": "M2N200T22LMCCB - 1102355 - UL489 - M2 frame - 2P2d - 200A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102355",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N200T22L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N200T22L_0.jpg",
+      "m2n/images/M2N200T22L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:42",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N100T3L",
+    "name": "M2N100T3LMCCB - 1100227 - UL489 - M2 frame - 3P3d - 100A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100227",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N100T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N100T3L_0.jpg",
+      "m2n/images/M2N100T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:47",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N175T3L",
+    "name": "M2N175T3LMCCB - 1100230 - UL489 - M2 frame - 3P3d - 175A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100230",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N175T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N175T3L_0.jpg",
+      "m2n/images/M2N175T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:51",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM2N225T3L",
+    "name": "E3R-XNM2N225T3LEnclosed breaker - M2 frame - 3P3d - 225A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM2N225T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-XNM2N225T3L_0.jpg",
+      "m2n/images/E3R-XNM2N225T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:42:57",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-2AM2N175T3L",
+    "name": "E3R-2AM2N175T3LEnclosed breaker - M2 frame - 3P3d - 175A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R2AM2N175T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-2AM2N175T3L_0.jpg",
+      "m2n/images/E3R-2AM2N175T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:01",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N100T3",
+    "name": "M2N100T3MCCB - 1100215 - UL489 - M2 frame - 3P3d - 100A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100215",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N100T3_0.jpg",
+      "m2n/images/M2N100T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:08",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-2AM2N175T3L",
+    "name": "E12-2AM2N175T3LEnclosed breaker - M2 frame - 3P3d - 175A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E122AM2N175T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-2AM2N175T3L_0.jpg",
+      "m2n/images/E12-2AM2N175T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:13",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM2N225T3L",
+    "name": "E01-XNM2N225T3LEnclosed breaker - M2 frame - 3P3d - 225A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM2N225T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-XNM2N225T3L_0.jpg",
+      "m2n/images/E01-XNM2N225T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:18",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N200T3L",
+    "name": "M2N200T3LMCCB - 1100231 - UL489 - M2 frame - 3P3d - 200A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100231",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N200T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N200T3L_0.jpg",
+      "m2n/images/M2N200T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:23",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM2N250T3L",
+    "name": "E3R-XNM2N250T3LEnclosed breaker - M2 frame - 3P3d - 250A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM2N250T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-XNM2N250T3L_0.jpg",
+      "m2n/images/E3R-XNM2N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:28",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N150T1L",
+    "name": "M2N150T1LMCCB - 1102325 - UL489 - M2 frame - 1P1d - 150A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 150A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102325",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N150T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N150T1L_0.jpg",
+      "m2n/images/M2N150T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:33",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T3",
+    "name": "M2N250T3MCCB - 1101956 - UL489 - M2 frame - 3P3d - 250A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101956",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T3_0.jpg",
+      "m2n/images/M2N250T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:38",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N175T1L",
+    "name": "M2N175T1LMCCB - 1102326 - UL489 - M2 frame - 1P1d - 175A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 175A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102326",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N175T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N175T1L_0.jpg",
+      "m2n/images/M2N175T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:44",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N250T1L",
+    "name": "M2N250T1LMCCB - 1102329 - UL489 - M2 frame - 1P1d - 250A rated - lug connections - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 250A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102329",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N250T1L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N250T1L_0.jpg",
+      "m2n/images/M2N250T1L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:48",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N100T22",
+    "name": "M2N100T22MCCB - 1102344 - UL489 - M2 frame - 2P2d - 100A rated - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 100A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102344",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N100T22_0.jpg",
+      "m2n/images/M2N100T22_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:43:54",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N125T3",
+    "name": "M2N125T3MCCB - 1100216 - UL489 - M2 frame - 3P3d - 125A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 125A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100216",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N125T3_0.jpg",
+      "m2n/images/M2N125T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:00",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N200T1",
+    "name": "M2N200T1MCCB - 1102320 - UL489 - M2 frame - 1P1d - 200A rated - 250Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 200A - Interrupting capacity 10kA (480Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102320",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N200T1_0.jpg",
+      "m2n/images/M2N200T1_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:06",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM2N250T3L",
+    "name": "E01-XNM2N250T3LEnclosed breaker - M2 frame - 3P3d - 250A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM2N250T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E01-XNM2N250T3L_0.jpg",
+      "m2n/images/E01-XNM2N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:10",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-2AM2N250T3L",
+    "name": "E12-2AM2N250T3LEnclosed breaker - M2 frame - 3P3d - 250A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E122AM2N250T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-2AM2N250T3L_0.jpg",
+      "m2n/images/E12-2AM2N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:15",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM2N250T3L",
+    "name": "E12-XNM2N250T3LEnclosed breaker - M2 frame - 3P3d - 250A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM2N250T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-XNM2N250T3L_0.jpg",
+      "m2n/images/E12-XNM2N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:20",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-2AM2N225T3L",
+    "name": "E12-2AM2N225T3LEnclosed breaker - M2 frame - 3P3d - 225A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Neutral pole with 100% protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E122AM2N225T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E12-2AM2N225T3L_0.jpg",
+      "m2n/images/E12-2AM2N225T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:25",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM2N200T3L",
+    "name": "E3R-XNM2N200T3LEnclosed breaker - M2 frame - 3P3d - 200A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM2N200T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/E3R-XNM2N200T3L_0.jpg",
+      "m2n/images/E3R-XNM2N200T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:30",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N150T3",
+    "name": "M2N150T3MCCB - 1100217 - UL489 - M2 frame - 3P3d - 150A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100217",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N150T3_0.jpg",
+      "m2n/images/M2N150T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:34",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N150T2L",
+    "name": "M2N150T2LMCCB - 1100277 - UL489 - M2 frame - 3P2d - 150A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles in 3-poles case (3P2d) - Rated current 150A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100277",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N150T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N150T2L_0.jpg",
+      "m2n/images/M2N150T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:39",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N225T3",
+    "name": "M2N225T3MCCB - 1100220 - UL489 - M2 frame - 3P3d - 225A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100220",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N225T3_0.jpg",
+      "m2n/images/M2N225T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:45",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M2N225T3L",
+    "name": "M2N225T3LMCCB - 1100232 - UL489 - M2 frame - 3P3d - 225A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100232",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M2N225T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m2n/images/M2N225T3L_0.jpg",
+      "m2n/images/M2N225T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:44:50",
+    "series": "m2n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N400T3L",
+    "name": "M3N400T3LMCCB - 1100374 - UL489 - M3 frame - 3P3d - 400A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100374",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M3N400T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N400T3L_0.jpg",
+      "m3n/images/M3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:12",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N400T2L",
+    "name": "M3N400T2LMCCB - 1100324 - UL489 - M3 frame - 3P2d - 400A rated - lug connections - 500Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100324",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M3N400T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N400T2L_0.jpg",
+      "m3n/images/M3N400T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:17",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-3AM3N350T3L",
+    "name": "E3R-3AM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R3AM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-3AM3N350T3L_0.jpg",
+      "m3n/images/E3R-3AM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:22",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N350T3",
+    "name": "M3N350T3MCCB - 1100363 - UL489 - M3 frame - 3P3d - 350A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 25kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100363",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N350T3_0.jpg",
+      "m3n/images/M3N350T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:26",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-3BM3N350T3L",
+    "name": "E12-3BM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E123BM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E12-3BM3N350T3L_0.jpg",
+      "m3n/images/E12-3BM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:31",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-3AM3N350T3L",
+    "name": "E01-3AM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E013AM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-3AM3N350T3L_0.jpg",
+      "m3n/images/E01-3AM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:37",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM3N350T3L",
+    "name": "E3R-XNM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-XNM3N350T3L_0.jpg",
+      "m3n/images/E3R-XNM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:43",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N250T3",
+    "name": "M3N250T3MCCB - 1100361 - UL489 - M3 frame - 3P3d - 250A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 25kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100361",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N250T3_0.jpg",
+      "m3n/images/M3N250T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:48",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM3N350T3L",
+    "name": "E12-XNM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E12-XNM3N350T3L_0.jpg",
+      "m3n/images/E12-XNM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:53",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM3N300T3L",
+    "name": "E01-XNM3N300T3LEnclosed breaker - M3 frame - 3P3d - 300A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM3N300T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-XNM3N300T3L_0.jpg",
+      "m3n/images/E01-XNM3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:48:57",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-3AM3N300T3L",
+    "name": "E01-3AM3N300T3LEnclosed breaker - M3 frame - 3P3d - 300A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E013AM3N300T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-3AM3N300T3L_0.jpg",
+      "m3n/images/E01-3AM3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:01",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-3BM3N300T3L",
+    "name": "E01-3BM3N300T3LEnclosed breaker - M3 frame - 3P3d - 300A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E013BM3N300T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-3BM3N300T3L_0.jpg",
+      "m3n/images/E01-3BM3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:06",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-3AM3N400T3L",
+    "name": "E01-3AM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E013AM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-3AM3N400T3L_0.jpg",
+      "m3n/images/E01-3AM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:12",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-3BM3N300T3L",
+    "name": "E12-3BM3N300T3LEnclosed breaker - M3 frame - 3P3d - 300A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E123BM3N300T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E12-3BM3N300T3L_0.jpg",
+      "m3n/images/E12-3BM3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:17",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N350T3L",
+    "name": "M3N350T3LMCCB - 1100373 - UL489 - M3 frame - 3P3d - 350A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100373",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M3N350T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N350T3L_0.jpg",
+      "m3n/images/M3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:22",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM3N350T3L",
+    "name": "E01-XNM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-XNM3N350T3L_0.jpg",
+      "m3n/images/E01-XNM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:27",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N400T3",
+    "name": "M3N400T3MCCB - 1100364 - UL489 - M3 frame - 3P3d - 400A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 25kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100364",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N400T3_0.jpg",
+      "m3n/images/M3N400T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:32",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM3N400T3L",
+    "name": "E01-XNM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-XNM3N400T3L_0.jpg",
+      "m3n/images/E01-XNM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:37",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM3N400T3L",
+    "name": "E3R-XNM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-XNM3N400T3L_0.jpg",
+      "m3n/images/E3R-XNM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:42",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM3N300T3L",
+    "name": "E12-XNM3N300T3LEnclosed breaker - M3 frame - 3P3d - 300A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM3N300T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E12-XNM3N300T3L_0.jpg",
+      "m3n/images/E12-XNM3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:47",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM3N400T3L",
+    "name": "E12-XNM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E12-XNM3N400T3L_0.jpg",
+      "m3n/images/E12-XNM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:53",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-3BM3N350T3L",
+    "name": "E3R-3BM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R3BM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-3BM3N350T3L_0.jpg",
+      "m3n/images/E3R-3BM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:49:57",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM3N300T3L",
+    "name": "E3R-XNM3N300T3LEnclosed breaker - M3 frame - 3P3d - 300A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM3N300T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-XNM3N300T3L_0.jpg",
+      "m3n/images/E3R-XNM3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:01",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-3BM3N350T3L",
+    "name": "E01-3BM3N350T3LEnclosed breaker - M3 frame - 3P3d - 350A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E013BM3N350T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-3BM3N350T3L_0.jpg",
+      "m3n/images/E01-3BM3N350T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:06",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-3BM3N400T3L",
+    "name": "E3R-3BM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R3BM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-3BM3N400T3L_0.jpg",
+      "m3n/images/E3R-3BM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:11",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-3BM3N400T3L",
+    "name": "E12-3BM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E123BM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E12-3BM3N400T3L_0.jpg",
+      "m3n/images/E12-3BM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:17",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-3AM3N400T3L",
+    "name": "E3R-3AM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R3AM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-3AM3N400T3L_0.jpg",
+      "m3n/images/E3R-3AM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:21",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-3BM3N300T3L",
+    "name": "E3R-3BM3N300T3LEnclosed breaker - M3 frame - 3P3d - 300A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R3BM3N300T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E3R-3BM3N300T3L_0.jpg",
+      "m3n/images/E3R-3BM3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:27",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-3BM3N400T3L",
+    "name": "E01-3BM3N400T3LEnclosed breaker - M3 frame - 3P3d - 400A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Neutral pole with 100% protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E013BM3N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/E01-3BM3N400T3L_0.jpg",
+      "m3n/images/E01-3BM3N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:32",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N250T3L",
+    "name": "M3N250T3LMCCB - 1100371 - UL489 - M3 frame - 3P3d - 250A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100371",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M3N250T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N250T3L_0.jpg",
+      "m3n/images/M3N250T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:37",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N300T3L",
+    "name": "M3N300T3LMCCB - 1100372 - UL489 - M3 frame - 3P3d - 300A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100372",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M3N300T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N300T3L_0.jpg",
+      "m3n/images/M3N300T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:42",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M3N300T3",
+    "name": "M3N300T3MCCB - 1100362 - UL489 - M3 frame - 3P3d - 300A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 25kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100362",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m3n/images/M3N300T3_0.jpg",
+      "m3n/images/M3N300T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:50:47",
+    "series": "m3n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-4BM4N500T3L",
+    "name": "E01-4BM4N500T3LEnclosed breaker - M4 frame - 3P3d - 500A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E014BM4N500T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E01-4BM4N500T3L_0.jpg",
+      "m4n/images/E01-4BM4N500T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:24",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N600T3L",
+    "name": "M4N600T3LMCCB - 1100416 - UL489 - M4 frame - 3P3d - 600A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100416",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M4N600T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N600T3L_0.jpg",
+      "m4n/images/M4N600T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:30",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-4BM4N600T3L",
+    "name": "E01-4BM4N600T3LEnclosed breaker - M4 frame - 3P3d - 600A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E014BM4N600T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E01-4BM4N600T3L_0.jpg",
+      "m4n/images/E01-4BM4N600T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:34",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM4N600T3L",
+    "name": "E12-XNM4N600T3LEnclosed breaker - M4 frame - 3P3d - 600A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM4N600T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E12-XNM4N600T3L_0.jpg",
+      "m4n/images/E12-XNM4N600T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:39",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-4BM4N400T3L",
+    "name": "E01-4BM4N400T3LEnclosed breaker - M4 frame - 3P3d - 400A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E014BM4N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E01-4BM4N400T3L_0.jpg",
+      "m4n/images/E01-4BM4N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:44",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-4BM4N400T3L",
+    "name": "E3R-4BM4N400T3LEnclosed breaker - M4 frame - 3P3d - 400A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R4BM4N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E3R-4BM4N400T3L_0.jpg",
+      "m4n/images/E3R-4BM4N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:50",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N500T2L",
+    "name": "M4N500T2LMCCB - 1100439 - UL489 - M4 frame - 3P2d - 500A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100439",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M4N500T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N500T2L_0.jpg",
+      "m4n/images/M4N500T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:55",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM4N600T3L",
+    "name": "E3R-XNM4N600T3LEnclosed breaker - M4 frame - 3P3d - 600A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM4N600T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E3R-XNM4N600T3L_0.jpg",
+      "m4n/images/E3R-XNM4N600T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:55:59",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N400T3",
+    "name": "M4N400T3MCCB - 1100408 - UL489 - M4 frame - 3P3d - 400A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100408",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N400T3_0.jpg",
+      "m4n/images/M4N400T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:06",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-4BM4N500T3L",
+    "name": "E12-4BM4N500T3LEnclosed breaker - M4 frame - 3P3d - 500A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E124BM4N500T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E12-4BM4N500T3L_0.jpg",
+      "m4n/images/E12-4BM4N500T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:11",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N400T2L",
+    "name": "M4N400T2LMCCB - 1100438 - UL489 - M4 frame - 3P2d - 400A rated - lug connections - 600Vac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100438",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M4N400T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N400T2L_0.jpg",
+      "m4n/images/M4N400T2L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:16",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-4BM4N600T3L",
+    "name": "E3R-4BM4N600T3LEnclosed breaker - M4 frame - 3P3d - 600A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R4BM4N600T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E3R-4BM4N600T3L_0.jpg",
+      "m4n/images/E3R-4BM4N600T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:21",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM4N400T3L",
+    "name": "E12-XNM4N400T3LEnclosed breaker - M4 frame - 3P3d - 400A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM4N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E12-XNM4N400T3L_0.jpg",
+      "m4n/images/E12-XNM4N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:26",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-4BM4N600T3L",
+    "name": "E12-4BM4N600T3LEnclosed breaker - M4 frame - 3P3d - 600A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E124BM4N600T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E12-4BM4N600T3L_0.jpg",
+      "m4n/images/E12-4BM4N600T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:30",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N500T3L",
+    "name": "M4N500T3LMCCB - 1100415 - UL489 - M4 frame - 3P3d - 500A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100415",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M4N500T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N500T3L_0.jpg",
+      "m4n/images/M4N500T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:33",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM4N400T3L",
+    "name": "E3R-XNM4N400T3LEnclosed breaker - M4 frame - 3P3d - 400A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM4N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E3R-XNM4N400T3L_0.jpg",
+      "m4n/images/E3R-XNM4N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:38",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N500T3",
+    "name": "M4N500T3MCCB - 1100409 - UL489 - M4 frame - 3P3d - 500A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100409",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N500T3_0.jpg",
+      "m4n/images/M4N500T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:43",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-XNM4N500T3L",
+    "name": "E3R-XNM4N500T3LEnclosed breaker - M4 frame - 3P3d - 500A rated - 3-wires - 600Vdc/ac - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3RXNM4N500T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E3R-XNM4N500T3L_0.jpg",
+      "m4n/images/E3R-XNM4N500T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:47",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E12-XNM4N500T3L",
+    "name": "E12-XNM4N500T3LEnclosed breaker - M4 frame - 3P3d - 500A rated - 3-wires - 600Vdc/ac - NEMA 12",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 12 - equivalent to E12XNM4N500T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E12-XNM4N500T3L_0.jpg",
+      "m4n/images/E12-XNM4N500T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:52",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N400T3L",
+    "name": "M4N400T3LMCCB - 1100414 - UL489 - M4 frame - 3P3d - 400A rated - lug connections - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100414",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M4N400T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N400T3L_0.jpg",
+      "m4n/images/M4N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:56:58",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM4N600T3L",
+    "name": "E01-XNM4N600T3LEnclosed breaker - M4 frame - 3P3d - 600A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM4N600T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E01-XNM4N600T3L_0.jpg",
+      "m4n/images/E01-XNM4N600T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:57:02",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E3R-4BM4N500T3L",
+    "name": "E3R-4BM4N500T3LEnclosed breaker - M4 frame - 3P3d - 500A rated - 4-wires - 600Vdc/ac - 100% neutral protection - NEMA 3R",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (4-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 3R - equivalent to E3R4BM4N500T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E3R-4BM4N500T3L_0.jpg",
+      "m4n/images/E3R-4BM4N500T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:57:08",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/M4N600T3",
+    "name": "M4N600T3MCCB - 1100410 - UL489 - M4 frame - 3P3d - 600A rated - 600Vdc/ac",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100410",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/M4N600T3_0.jpg",
+      "m4n/images/M4N600T3_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:57:14",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM4N500T3L",
+    "name": "E01-XNM4N500T3LEnclosed breaker - M4 frame - 3P3d - 500A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM4N500T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E01-XNM4N500T3L_0.jpg",
+      "m4n/images/E01-XNM4N500T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:57:19",
+    "series": "m4n"
+  },
+  {
+    "url": "https://products.na.noark-electric.com/products/E01-XNM4N400T3L",
+    "name": "E01-XNM4N400T3LEnclosed breaker - M4 frame - 3P3d - 400A rated - 3-wires - 600Vdc/ac - NEMA 1",
+    "description": "Enclosed Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides (3-wires) - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - NEMA 1 - equivalent to E01XNM4N400T3L",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU"
+    },
+    "images": [
+      "m4n/images/E01-XNM4N400T3L_0.jpg",
+      "m4n/images/E01-XNM4N400T3L_1.jpg"
+    ],
+    "scraped_at": "2025-06-14 21:57:23",
+    "series": "m4n"
+  },
+  {
+    "name": "M5N700T4MCCB - 1102041 - UL489 - M5 frame - 4P4d - 700A rated - 600Vdc/ac - without neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N700T4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102041",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897.jpg",
+        "local_path": "images/image_1897.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTcvODMwYmU2MDMtZDlkNy00OTVlLWE0ZjYtOTI5MGI0N2QwOGEyL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=ef883b7a031fcc98",
+        "filename": "image_3834.jpg",
+        "local_path": "images/image_3834.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:03:31.115741",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N700T4CMCCB - 1102059 - UL489 - M5 frame - 4P4d - 700A rated - 600Vdc/ac - 100% neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N700T4C",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102059",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_0.jpg",
+        "local_path": "images/image_1897_0.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTcvMTZmZjNlYTQtZGE5Ny00MjU3LWIzMzAtMDdmMTg2OTcyNjA4L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=54f3e45da2a794a2",
+        "filename": "image_1428.jpg",
+        "local_path": "images/image_1428.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:03:34.730008",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T2MCCB - 1102006 - UL489 - M5 frame - 3P2d - 800A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M5N800T2",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102006",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_1.jpg",
+        "local_path": "images/image_1897_1.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTYvOWZlYWI0YTAtZmNlNi00NWZiLWE3MDMtMzM3ZGM3ODNjNmE0L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=ef667d11b8686263",
+        "filename": "image_6007.jpg",
+        "local_path": "images/image_6007.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:03:39.178830",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T4MCCB - 1102040 - UL489 - M5 frame - 4P4d - 600A rated - 600Vdc/ac - without neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N600T4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102040",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_2.jpg",
+        "local_path": "images/image_1897_2.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTkvY2RmNGU1NjItOGU2OC00NmFmLWJiYTYtODBlNDBkZmI3NzI4L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=582e895a2ce5a5b4",
+        "filename": "image_3962.jpg",
+        "local_path": "images/image_3962.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:03:43.737752",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N700T2MCCB - 1102005 - UL489 - M5 frame - 3P2d - 700A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M5N700T2",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102005",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_3.jpg",
+        "local_path": "images/image_1897_3.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTgvZTY1NjZlNmMtMWM3Yi00Yzk2LTlhOTYtZTE0Y2QyNWUzMDMzL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=80e7a8c6080fc30f",
+        "filename": "image_8996.jpg",
+        "local_path": "images/image_8996.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:03:48.914851",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T3MCCB - 1102024 - UL489 - M5 frame - 3P3d - 800A rated - 600Vdc/ac",
+    "url": "https://products.na.noark-electric.com/products/M5N800T3",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102024",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_4.jpg",
+        "local_path": "images/image_1897_4.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTUvZmNiNWYwNzYtNGRiZi00MTYyLTliZWQtMTRlNmU5NTk4MzZlL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=676233940071b5c3",
+        "filename": "image_8538.jpg",
+        "local_path": "images/image_8538.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:03:53.295604",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T4MCCB - 1102042 - UL489 - M5 frame - 4P4d - 800A rated - 600Vdc/ac - without neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N800T4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102042",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_5.jpg",
+        "local_path": "images/image_1897_5.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTQvZTYwOGViN2MtN2Q0Ni00MjE1LThhOGQtZTE5ZjBjMjQ4OGVhL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=93f6245736053f48",
+        "filename": "image_9558.jpg",
+        "local_path": "images/image_9558.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:03:57.708685",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T2MCCB - 1102004 - UL489 - M5 frame - 3P2d - 600A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M5N600T2",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102004",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_6.jpg",
+        "local_path": "images/image_1897_6.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMjAvZDBlYzY2YzAtNWM5NS00ZTIxLWEwYWUtZjlmMzg2MDUwNjZlL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=46ebf79875fc7686",
+        "filename": "image_9164.jpg",
+        "local_path": "images/image_9164.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:01.463360",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T3MCCB - 1102022 - UL489 - M5 frame - 3P3d - 600A rated - 600Vdc/ac",
+    "url": "https://products.na.noark-electric.com/products/M5N600T3",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102022",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_7.jpg",
+        "local_path": "images/image_1897_7.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMjAvMDM3MGE5MDYtNjcwYy00OWZjLWE0MjQtYjUxYTY5NmEzY2RmL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=bc9f71a71ed0e847",
+        "filename": "image_7756.jpg",
+        "local_path": "images/image_7756.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:05.934264",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N700T3MCCB - 1102023 - UL489 - M5 frame - 3P3d - 700A rated - 600Vdc/ac",
+    "url": "https://products.na.noark-electric.com/products/M5N700T3",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102023",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_8.jpg",
+        "local_path": "images/image_1897_8.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTgvODIyYjhmNDktOGVlOS00ZDEyLWE5NDItMWIxZTM5ZGQwYWY1L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=e37f24031d371036",
+        "filename": "image_2150.jpg",
+        "local_path": "images/image_2150.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:10.402119",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T3LMCCB - 1102031 - UL489 - M5 frame - 3P3d - 600A rated - lug connections - 600Vdc/ac",
+    "url": "https://products.na.noark-electric.com/products/M5N600T3L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102031",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N600T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_9.jpg",
+        "local_path": "images/image_1897_9.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMjAvZTNmZWQzZjAtMDY5My00NDI3LTliMDMtNjE5NTdhZTdkMWRiL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=3cf7e70d41a94f47",
+        "filename": "image_4541.jpg",
+        "local_path": "images/image_4541.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:14.239888",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N700T3LMCCB - 1102032 - UL489 - M5 frame - 3P3d - 700A rated - lug connections - 600Vdc/ac",
+    "url": "https://products.na.noark-electric.com/products/M5N700T3L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102032",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N700T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTcvMjgwMDQ3NTQtZmMyYi00YWU3LWFmOWItYzI0YjFiZmQ5MjVjL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=b8cacb44ce0b5cfd",
+        "filename": "image_1664.jpg",
+        "local_path": "images/image_1664.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_10.jpg",
+        "local_path": "images/image_1897_10.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:18.685302",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T3LMCCB - 1102033 - UL489 - M5 frame - 3P3d - 800A rated - lug connections - 600Vdc/ac",
+    "url": "https://products.na.noark-electric.com/products/M5N800T3L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102033",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N800T3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_11.jpg",
+        "local_path": "images/image_1897_11.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTUvOThmY2I5MTAtMDI5Yy00NjkwLTgxNDMtZGUyOTYwMWYyNThiL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=0d5ed8eb08c68e6d",
+        "filename": "image_4959.jpg",
+        "local_path": "images/image_4959.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:22.476250",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T4LMCCB - 1102051 - UL489 - M5 frame - 4P4d - 800A rated - lug connections - 600Vdc/ac - without neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N800T4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102051",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N800T4L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_12.jpg",
+        "local_path": "images/image_1897_12.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTQvNmM3YjQ0MGYtNjZlOC00ODVhLWEzNTAtZWIyMDY0OGZjNjM0L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=3dea14748ae2e0f9",
+        "filename": "image_3149.jpg",
+        "local_path": "images/image_3149.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:27.194536",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T4CMCCB - 1102058 - UL489 - M5 frame - 4P4d - 600A rated - 600Vdc/ac - 100% neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N600T4C",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102058",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_13.jpg",
+        "local_path": "images/image_1897_13.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTkvYmZiMWQzY2EtNzU4My00MjYzLTljOGMtNDU1OWNjN2IzYWVkL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=522eccf212c75913",
+        "filename": "image_6173.jpg",
+        "local_path": "images/image_6173.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:30.843160",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T4CMCCB - 1102060 - UL489 - M5 frame - 4P4d - 800A rated - 600Vdc/ac - 100% neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N800T4C",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102060",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTQvNWU1MzZiYzctZTUxZC00YTliLTk2ZWMtMzU3MDVlNjI0M2U2L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=1a5c6a2e882968a5",
+        "filename": "image_1120.jpg",
+        "local_path": "images/image_1120.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_14.jpg",
+        "local_path": "images/image_1897_14.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:34.507939",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T4LMCCB - 1102049 - UL489 - M5 frame - 4P4d - 600A rated - lug connections - 600Vdc/ac - without neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N600T4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102049",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N600T4L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTkvNzkxOTMxMWYtNTlhOC00NzNjLWIyYWEtNTlkNTMxNDljMzlmL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=7fb8d622a71afa25",
+        "filename": "image_5384.jpg",
+        "local_path": "images/image_5384.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_15.jpg",
+        "local_path": "images/image_1897_15.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:39.290497",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N700T4LMCCB - 1102050 - UL489 - M5 frame - 4P4d - 700A rated - lug connections - 600Vdc/ac - without neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N700T4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102050",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N700T4L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_16.jpg",
+        "local_path": "images/image_1897_16.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTYvYWI3NTUxMmItODVjYS00ZjY3LTlmZTYtMmExMWQ3NjU1YWM1L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=2bcf4329aa5525cc",
+        "filename": "image_2735.jpg",
+        "local_path": "images/image_2735.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:43.739434",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T2LMCCB - 1102013 - UL489 - M5 frame - 3P2d - 600A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M5N600T2L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102013",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N600T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_17.jpg",
+        "local_path": "images/image_1897_17.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMjAvZDcxNDM3YTctZWZkNS00ZDg3LWEyZmQtODU1ZjdjYjgzZWI1L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=ab006be7e64efc41",
+        "filename": "image_4842.jpg",
+        "local_path": "images/image_4842.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:48.210111",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N700T2LMCCB - 1102014 - UL489 - M5 frame - 3P2d - 700A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M5N700T2L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102014",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N700T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_18.jpg",
+        "local_path": "images/image_1897_18.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTgvNzU1YmZiZjQtNDBhZi00YWVhLWFiNzQtYzBkMjQzMGQ1OTUyL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=c48905d198e28705",
+        "filename": "image_5649.jpg",
+        "local_path": "images/image_5649.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:53.188011",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T2LMCCB - 1102015 - UL489 - M5 frame - 3P2d - 800A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M5N800T2L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102015",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N800T2L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_19.jpg",
+        "local_path": "images/image_1897_19.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTUvOGJlY2JiNzAtMmZjZS00YzA4LWFkNDctZWM0NDNmOGE2MWE1L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=6566bb775728eb16",
+        "filename": "image_4385.jpg",
+        "local_path": "images/image_4385.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:04:56.864617",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N700T4LCMCCB - 1102068 - UL489 - M5 frame - 4P4d - 700A rated - lug connections - 600Vdc/ac - 100% neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N700T4LC",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102068",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N700T4LC - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_20.jpg",
+        "local_path": "images/image_1897_20.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTYvYmYxM2U5MzYtNTFkZi00MjBkLTljMTQtYTUzYjE1Y2M2ZTY3L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=9f644260092ac67e",
+        "filename": "image_1994.jpg",
+        "local_path": "images/image_1994.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:05:00.540927",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N800T4LCMCCB - 1102069 - UL489 - M5 frame - 4P4d - 800A rated - lug connections - 600Vdc/ac - 100% neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N800T4LC",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102069",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N800T4LC - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_21.jpg",
+        "local_path": "images/image_1897_21.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTMvODM0NTQ0NmMtMDY4Yi00OTgwLWI2OGUtNGFhMjcyYzJlNWQyL001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=e94f9961d0855846",
+        "filename": "image_3455.jpg",
+        "local_path": "images/image_3455.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:05:04.228792",
+    "series": "m5n"
+  },
+  {
+    "name": "M5N600T4LCMCCB - 1102067 - UL489 - M5 frame - 4P4d - 600A rated - lug connections - 600Vdc/ac - 100% neutral protection",
+    "url": "https://products.na.noark-electric.com/products/M5N600T4LC",
+    "description": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole with 100% protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102067",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M5N600T4LC - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_1897_22.jpg",
+        "local_path": "images/image_1897_22.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMTgvMjNlYjViMTYtMDllOS00YWMwLTk5ODUtNzlkZTBmNjgyYmQ0L001LmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=d8370cd1bc5c3e36",
+        "filename": "image_876.jpg",
+        "local_path": "images/image_876.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:05:08.760943",
+    "series": "m5n"
+  },
+  {
+    "name": "M6N1000E3MCCB - 1101839 - 80% rated - UL489 - M6 frame - 3P3d - 1000A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101839",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDYvZGE5Y2JjNTctOTQwNS00N2JhLTliZTctZTBjNDRiZTljMzU0L002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=74bdeeca5fda37d8",
+        "filename": "image_8545.jpg",
+        "local_path": "images/image_8545.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988.jpg",
+        "local_path": "images/image_9988.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:22.594166",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E3FMCCB - 1101899 - 100% rated - UL489 - M6 frame - 3P3d - 1000A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101899",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDUvYTMyYWU0Y2ItNmY0ZS00N2FhLWJhZDMtMDg2ZjM4N2VhOGU4L002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=8d3e2c2774a0c5bf",
+        "filename": "image_9809.jpg",
+        "local_path": "images/image_9809.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_0.jpg",
+        "local_path": "images/image_9988_0.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:26.224610",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3MCCB - 1101840 - 80% rated - UL489 - M6 frame - 3P3d - 1200A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101840",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_1.jpg",
+        "local_path": "images/image_9988_1.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDMvZTZhMGI4Y2UtNWVkYS00YjdhLTk3ZWItN2NlZWNmZDdmYzk1L002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=16374735979d7f98",
+        "filename": "image_431.jpg",
+        "local_path": "images/image_431.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:29.876409",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3MCCB - 1101838 - 80% rated - UL489 - M6 frame - 3P3d - 800A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101838",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDAvMzI2YWI3N2ItOWM2MS00ZTllLWI4YjctNzQzYWQ4ZTZhOGRmL002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=cb4d9061e4099c08",
+        "filename": "image_6450.jpg",
+        "local_path": "images/image_6450.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_2.jpg",
+        "local_path": "images/image_9988_2.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:34.411425",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E3LFMCCB - 1101905 - 100% rated - UL489 - M6 frame - 3P3d - 1000A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101905",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1000E3LF - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_3.jpg",
+        "local_path": "images/image_9988_3.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDUvNjM1NTFhMTUtNmFhMy00NjUzLTkwMGEtOWM5MTA1NmI1Mjg3L002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=862f9c047c892fa6",
+        "filename": "image_5438.jpg",
+        "local_path": "images/image_5438.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:38.768828",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E4MCCB - 1101851 - 80% rated - UL489 - M6 frame - 4P4d - 1000A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101851",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_4.jpg",
+        "local_path": "images/image_9988_4.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDQvYjkzYzBmMjYtYjEzYy00NTJmLThjNTQtZDRjNjA1NDczYjRmL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=be6f4971ed8a6294",
+        "filename": "image_14.jpg",
+        "local_path": "images/image_14.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:42.477317",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E4MCCB - 1101850 - 80% rated - UL489 - M6 frame - 4P4d - 800A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101850",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_5.jpg",
+        "local_path": "images/image_9988_5.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMzgvNDA1ODEyNWQtZjJiZS00Y2ZkLThlNjItYmVkNjIwNGMyMjRkL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=4233c892bf5c5642",
+        "filename": "image_8878.jpg",
+        "local_path": "images/image_8878.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:46.940886",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3LMCCB - 1101844 - 80% rated - UL489 - M6 frame - 3P3d - 800A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101844",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N800E3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMzkvZDc1MDQ4ZjctODEyZi00NWI1LThhYTQtNjI2NjcwYjRlNGVlL002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=6c65d648f746f3e7",
+        "filename": "image_3329.jpg",
+        "local_path": "images/image_3329.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_6.jpg",
+        "local_path": "images/image_9988_6.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:51.308199",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E4MCCB - 1101852 - 80% rated - UL489 - M6 frame - 4P4d - 1200A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101852",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_7.jpg",
+        "local_path": "images/image_9988_7.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDEvODRlN2IxNGQtZTQ2MC00NTI1LTg1ZTktNmI3OGIxNjJlNDNhL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=14eb0782115c5c8b",
+        "filename": "image_8759.jpg",
+        "local_path": "images/image_8759.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:08:55.852957",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E4LMCCB - 1101856 - 80% rated - UL489 - M6 frame - 4P4d - 800A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101856",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N800E4L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_8.jpg",
+        "local_path": "images/image_9988_8.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMzcvZmFmZDBiNmUtOGVmMy00NzVmLWJmNzItMGI1MzdmNTBkZTg3L002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=669ae70c925a765d",
+        "filename": "image_5965.jpg",
+        "local_path": "images/image_5965.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:00.403337",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3FMCCB - 1101898 - 100% rated - UL489 - M6 frame - 3P3d - 800A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101898",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMzkvYjk4NmFiYTAtY2E0MS00ZTJhLTg2YmMtOWUwYTY5NjRmN2UyL002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=e7ba0f667405e543",
+        "filename": "image_2113.jpg",
+        "local_path": "images/image_2113.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_9.jpg",
+        "local_path": "images/image_9988_9.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:05.322735",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E4FMCCB - 1101910 - 100% rated - UL489 - M6 frame - 4P4d - 800A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E4F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101910",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMzcvNTM0NzEzYjQtMjEzMy00ZDJkLTg1ZDItNmRkODBjZmJiZjlmL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=83b3c33f796a6ee6",
+        "filename": "image_1401.jpg",
+        "local_path": "images/image_1401.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_10.jpg",
+        "local_path": "images/image_9988_10.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:09.193557",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E4LFMCCB - 1101916 - 100% rated - UL489 - M6 frame - 4P4d - 800A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E4LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101916",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N800E4LF - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMzcvZmU1YzkwMGYtYzUyNS00YmFlLTlhZWQtMzU3MjQ4NjI1ZWFjL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=b65ca23c4c6cec11",
+        "filename": "image_8146.jpg",
+        "local_path": "images/image_8146.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_11.jpg",
+        "local_path": "images/image_9988_11.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:13.781967",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E3LMCCB - 1101845 - 80% rated - UL489 - M6 frame - 3P3d - 1000A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101845",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1000E3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDUvZDQ3NTNjMTktNzUwNC00ZDNiLWI5MTctN2U3OGNmNmQxMjA3L002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=47201dc21a536b2e",
+        "filename": "image_7872.jpg",
+        "local_path": "images/image_7872.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_12.jpg",
+        "local_path": "images/image_9988_12.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:18.400676",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3LMCCB - 1101846 - 80% rated - UL489 - M6 frame - 3P3d - 1200A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101846",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1200E3L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_13.jpg",
+        "local_path": "images/image_9988_13.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDIvMjQ2MmFhOTQtM2VmOS00MGM2LThkYzQtYjBhYTljYTE4NThmL002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=22e890367f27778f",
+        "filename": "image_3748.jpg",
+        "local_path": "images/image_3748.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:22.029718",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E4LMCCB - 1101857 - 80% rated - UL489 - M6 frame - 4P4d - 1000A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101857",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1000E4L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDMvZTg3ZWJkNmItMTMyOC00YTYwLTk5MmYtYjNhMjkxZmQyOWFjL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=ab52a7e7eb39dafc",
+        "filename": "image_1300.jpg",
+        "local_path": "images/image_1300.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_14.jpg",
+        "local_path": "images/image_9988_14.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:25.651803",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E4LMCCB - 1101858 - 80% rated - UL489 - M6 frame - 4P4d - 1200A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101858",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1200E4L - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDAvYzE1MjFhNjItYTY3MS00OWE4LWIyZmMtYjNkYTdjNjFmMDVhL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=797db9cc466a7785",
+        "filename": "image_3305.jpg",
+        "local_path": "images/image_3305.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_15.jpg",
+        "local_path": "images/image_9988_15.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:30.065714",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3FMCCB - 1101900 - 100% rated - UL489 - M6 frame - 3P3d - 1200A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101900",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDIvNDc1NjYxMGQtZjYxOC00ZDg2LTkzY2ItYTgxNWNiMjM4MGVmL002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=54bcc4d0c78ead49",
+        "filename": "image_6123.jpg",
+        "local_path": "images/image_6123.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_16.jpg",
+        "local_path": "images/image_9988_16.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:34.698504",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3LFMCCB - 1101904 - 100% rated - UL489 - M6 frame - 3P3d - 800A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101904",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N800E3LF - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvMzkvZWEyNWUwMTUtMzMzYi00YmMwLTljMmEtMjk0NDY2YjY5OGE0L002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=8039e36e0bf52e55",
+        "filename": "image_8970.jpg",
+        "local_path": "images/image_8970.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_17.jpg",
+        "local_path": "images/image_9988_17.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:39.075038",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E4FMCCB - 1101911 - 100% rated - UL489 - M6 frame - 4P4d - 1000A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E4F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101911",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDQvMWZkNjM2NGMtZjE3OC00ZTcwLWI4MWYtNDA3OTcyNGEzZjdiL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=c39f7689d61d4ab5",
+        "filename": "image_8594.jpg",
+        "local_path": "images/image_8594.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_18.jpg",
+        "local_path": "images/image_9988_18.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:43.515711",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E4FMCCB - 1101912 - 100% rated - UL489 - M6 frame - 4P4d - 1200A rated - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E4F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Term. nut kit (for fixed busb. connection) on both line and load sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101912",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_19.jpg",
+        "local_path": "images/image_9988_19.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDEvMTc3ZGRjYWYtN2U2MC00NTU4LWExYWQtZGRiODE0NGQ3MjUzL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=3e15f73342ab0844",
+        "filename": "image_4006.jpg",
+        "local_path": "images/image_4006.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:47.293228",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3W4MCCB - 1103034 - 80% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 800A rated - busbar connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3W4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103034",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzMvZjdiODQ0YjAtMGY1Ni00NTgwLWJjZjItY2Y0Zjc1MjYzMjk0L002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=7814a6835e0bd095",
+        "filename": "image_2971.jpg",
+        "local_path": "images/image_2971.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_20.jpg",
+        "local_path": "images/image_9988_20.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:51.621673",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E4LFMCCB - 1101917 - 100% rated - UL489 - M6 frame - 4P4d - 1000A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E4LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1000A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101917",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1000E4LF - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_21.jpg",
+        "local_path": "images/image_9988_21.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDMvYTRhM2VkMzMtZTU2Ny00ZjAzLTk1ZWUtZWUwZjQ0N2E3MjhlL002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=2107865f3dafb84a",
+        "filename": "image_6567.jpg",
+        "local_path": "images/image_6567.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:55.333975",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3LFMCCB - 1101906 - 100% rated - UL489 - M6 frame - 3P3d - 1200A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101906",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1200E3LF - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_22.jpg",
+        "local_path": "images/image_9988_22.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDIvMjk3YTU0YmYtNjFkOC00ZjM2LTk2NjctZjQwMTM0OWM4ZGE5L002LTNQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=31112641a6c5e1c7",
+        "filename": "image_5767.jpg",
+        "local_path": "images/image_5767.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:09:58.965093",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E4LFMCCB - 1101918 - 100% rated - UL489 - M6 frame - 4P4d - 1200A rated - lug connections - 600Vac",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E4LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 series) - 4-poles (4P4d) - Rated current 1200A - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1101918",
+    "specifications": {
+      "Name": "Last Update",
+      "E-PLAN - NOARK - M6N1200E4LF - Part details": "28 Apr 2025",
+      "NOARK - MCCB Ex9 series-M - Datasheet.pdf": "08 Oct 2024",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDMvMjMvMDcvMjYvNDAvYWM1NjRjYzctNjQxMC00NTAzLTlmN2YtODQ5MzYxNTI2YzI2L002LTRQLmpwZyJdLFsicCIsInRodW1iIiwiNDAweDQwMFx1MDAzZSJdXQ?sha=6fdb85317c264731",
+        "filename": "image_7625.jpg",
+        "local_path": "images/image_7625.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_23.jpg",
+        "local_path": "images/image_9988_23.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:03.710694",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E3W4MCCB - 1103035 - 80% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1000A rated - busbar connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3W4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103035",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_24.jpg",
+        "local_path": "images/image_9988_24.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzIvOTBjOTdmNGItMzg4Mi00ZmViLWIxODgtMjY3ODgxODAwNGNjL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=cf8ad40d95aa127f",
+        "filename": "image_503.jpg",
+        "local_path": "images/image_503.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:13.524123",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3W4MCCB - 1103036 - 80% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1200A rated - busbar connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3W4",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103036",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzIvYjZiOWFhZWQtNGE2OC00MDg2LWIwZGItMmNmNjA0OWU3NjA2L002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=d718ff48dd21eb80",
+        "filename": "image_9644.jpg",
+        "local_path": "images/image_9644.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_25.jpg",
+        "local_path": "images/image_9988_25.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:17.876116",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3W4LMCCB - 1103040 - 80% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 800A rated - lug connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3W4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103040",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_26.jpg",
+        "local_path": "images/image_9988_26.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzMvMzQwYjg4YzgtMmNhNS00NmNlLWI3MWQtOGIxMWVkMTU3ZjIyL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=e7ea0e6c2c6aafe3",
+        "filename": "image_8917.jpg",
+        "local_path": "images/image_8917.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:22.190778",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3W4FMCCB - 1103194 - 100% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 800A rated - busbar connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3W4F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103194",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzMvNTJjMDljZTItMWNiYy00YjM2LThlNTktNDE0NTk0YTBmMDhiL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=d8786a1d90f30155",
+        "filename": "image_6267.jpg",
+        "local_path": "images/image_6267.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_27.jpg",
+        "local_path": "images/image_9988_27.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:25.816762",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E3W4LMCCB - 1103041 - 80% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1000A rated - lug connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3W4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103041",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzEvMzJjYTA4NmUtMWVlZC00MjhjLTk4ZGQtNDc0ZGZlYTVhYmNiL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=23e0701b53b4f34a",
+        "filename": "image_2552.jpg",
+        "local_path": "images/image_2552.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_28.jpg",
+        "local_path": "images/image_9988_28.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:30.238802",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E3W4FMCCB - 1103195 - 100% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1000A rated - busbar connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3W4F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103195",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_29.jpg",
+        "local_path": "images/image_9988_29.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzIvMjFkMjA0YWEtZDc1OS00ODg1LThlNWQtMGI4NTc3ZDQ0ZmJiL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=b734a4b2529aceca",
+        "filename": "image_8670.jpg",
+        "local_path": "images/image_8670.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:34.113808",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3W4LMCCB - 1103042 - 80% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1200A rated - lug connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3W4L",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103042",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzIvMGI0OGJlNDQtNjM3Yi00ODU0LWI0YjEtMjJmMjk0MzEyZDQ0L002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=9a0052137eb9f90e",
+        "filename": "image_9081.jpg",
+        "local_path": "images/image_9081.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_30.jpg",
+        "local_path": "images/image_9988_30.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:37.728087",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3W4FMCCB - 1103196 - 100% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1200A rated - busbar connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3W4F",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103196",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_31.jpg",
+        "local_path": "images/image_9988_31.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzIvOTYwODJhYjYtODVhNS00NTQxLWFiZTgtZjQ3ODNlNzkxN2JlL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=5dbf51c7772f7baf",
+        "filename": "image_2231.jpg",
+        "local_path": "images/image_2231.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:41.591009",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N800E3W4LFMCCB - 1103200 - 100% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 800A rated - lug connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N800E3W4LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103200",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzMvNThhYmJkNDAtNzRjNC00ZmRkLThlZTItMGQ3YmFhNDMzMmE4L002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=1bb0373cfe3981a7",
+        "filename": "image_4832.jpg",
+        "local_path": "images/image_4832.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_32.jpg",
+        "local_path": "images/image_9988_32.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:45.640487",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1000E3W4LFMCCB - 1103201 - 100% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1000A rated - lug connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1000E3W4LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103201",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzEvMGNjZDBmZjgtODg4Ny00MWRlLWExNDctNDdhMTY0MmFlYzQwL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=360b389df35101fd",
+        "filename": "image_8938.jpg",
+        "local_path": "images/image_8938.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_33.jpg",
+        "local_path": "images/image_9988_33.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:49.888160",
+    "series": "m6n"
+  },
+  {
+    "name": "M6N1200E3W4LFMCCB - 1103202 - 100% rated - UL489 - 3P3d - 4-wire 3-phase (Wye) - 1200A rated - lug connections - 42kA",
+    "url": "https://products.na.noark-electric.com/products/M6N1200E3W4LF",
+    "description": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103202",
+    "specifications": {
+      "Name": "Last Update",
+      "NOARK - Neutral current sensor M6 3P4W MCCB - Datasheet.pdf": "27 May 2025",
+      "Picture": "Compatible SKU",
+      "See entire series of this product": "Electrical protection >  Circuit breakers >  AC Moulded Case Circuit Breakers (MCCBs)"
+    },
+    "images": [
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMTEvMTkvMTQvMzUvMDAvOGYxZjkxOGUtYTNlZi00OTUyLTliYzQtMjU0NGI0M2JhMGFjL05PQVJLIGxvZ28gZ3JheS5wbmciXSxbInAiLCJ0aHVtYiIsIjI4NXgiXV0?sha=4b505fec984e2724",
+        "filename": "image_9988_34.jpg",
+        "local_path": "images/image_9988_34.jpg"
+      },
+      {
+        "url": "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjUvMDUvMjgvMTEvMDQvMzIvMDQ3MDdkMjctNDJmYi00YzhiLTlhNDctOGRkMWJlY2FlNWMyL002LTNQNFcuanBnIl0sWyJwIiwidGh1bWIiLCI0MDB4NDAwXHUwMDNlIl1d?sha=a8e20206849068db",
+        "filename": "image_5396.jpg",
+        "local_path": "images/image_5396.jpg"
+      }
+    ],
+    "scraped_at": "2025-06-14T22:10:53.530807",
+    "series": "m6n"
+  }
+];
