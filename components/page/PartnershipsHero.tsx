@@ -7,6 +7,11 @@ import { getImageUrl } from '@/lib/config/image-config'
 export default function PartnershipsHero() {
   const partnerships = [
     {
+      name: 'TMEIC',
+      logo: getImageUrl('TMEIC_logo.svg'),
+      alt: 'TMEIC Logo'
+    },
+    {
       name: 'Mitsubishi Electric',
       logo: getImageUrl('brands/Mitsubishi-Electric.webp'),
       alt: 'Mitsubishi Electric Logo'
@@ -74,7 +79,7 @@ export default function PartnershipsHero() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-6 sm:gap-8 items-center justify-items-center"
+          className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-8 gap-6 sm:gap-8 items-center justify-items-center"
         >
           {partnerships.map((partner, index) => (
             <motion.div
