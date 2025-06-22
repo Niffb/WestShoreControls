@@ -2,7 +2,7 @@ import { Suspense } from 'react'
 import dynamic from 'next/dynamic'
 import { Metadata } from 'next'
 import Hero from '@/components/layout/Hero'
-import { BrandSelectionSkeleton, PageHeaderSkeleton, ProductGridSkeleton } from '@/components/ui/LoadingSkeletons'
+import { BrandSelectionSkeleton, PageHeaderSkeleton } from '@/components/ui/LoadingSkeletons'
 
 // Lazy load non-critical components for better initial page load
 const PartnershipsHero = dynamic(() => import('@/components/page/PartnershipsHero'), {
@@ -10,10 +10,7 @@ const PartnershipsHero = dynamic(() => import('@/components/page/PartnershipsHer
   ssr: true
 })
 
-const Categories = dynamic(() => import('@/components/product/Categories'), {
-  loading: () => <ProductGridSkeleton count={6} />,
-  ssr: true
-})
+
 
 const BrandSelection = dynamic(() => import('@/components/brand/BrandSelection'), {
   loading: () => <BrandSelectionSkeleton />,
@@ -127,10 +124,6 @@ export default function Home() {
       {/* Lazy-loaded sections with loading states */}
       <Suspense fallback={<PageHeaderSkeleton />}>
         <PartnershipsHero />
-      </Suspense>
-      
-      <Suspense fallback={<ProductGridSkeleton count={6} />}>
-        <Categories />
       </Suspense>
       
       <section id="brands">
