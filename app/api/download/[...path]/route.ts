@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import path from 'path'
 import fs from 'fs'
-import { createReadStream } from 'fs'
 
 export async function GET(
   request: NextRequest,
@@ -14,7 +13,6 @@ export async function GET(
     
     console.log(`Download request for: ${filePath}`)
     console.log(`Full path: ${fullPath}`)
-    console.log(`Working directory: ${process.cwd()}`)
     
     // Security check: ensure path is within downloads directory
     const publicDownloadsPath = path.join(process.cwd(), 'public', 'downloads')
@@ -26,7 +24,7 @@ export async function GET(
       return new NextResponse('Forbidden', { status: 403 })
     }
     
-    // Check if file exists using async operations for better cloud compatibility
+    // Check if file exists
     let fileStats
     try {
       fileStats = await fs.promises.stat(fullPath)
@@ -50,26 +48,76 @@ export async function GET(
     // Get filename for download
     const filename = path.basename(fullPath)
     
-    // Use buffer method for all files for reliability
-    // In production with sufficient memory, this is more reliable than streaming
-    
-    // For smaller files or fallback, read into buffer
     try {
-      const fileBuffer = await fs.promises.readFile(fullPath)
-      console.log(`File read successfully: ${fileBuffer.length} bytes`)
+      // Use the new Node.js filehandle.readableWebStream for better streaming
+      // This prevents corruption and is more memory efficient
+      const fileHandle = await fs.promises.open(fullPath, 'r')
       
-      return new NextResponse(fileBuffer, {
+      // Create a ReadableStream from the file handle
+      const stream = fileHandle.readableWebStream({ type: "bytes" })
+      
+      // Ensure proper cleanup
+      const transformedStream = new ReadableStream({
+        start(controller) {
+          const reader = stream.getReader()
+          
+          function pump() {
+            return reader.read().then(({ done, value }) => {
+              if (done) {
+                fileHandle.close()
+                controller.close()
+                return
+              }
+              controller.enqueue(value)
+              return pump()
+            }).catch(error => {
+              fileHandle.close()
+              controller.error(error)
+            })
+          }
+          
+          return pump()
+        },
+        cancel() {
+          fileHandle.close()
+        }
+      })
+      
+      return new NextResponse(transformedStream, {
         status: 200,
         headers: {
           'Content-Type': contentType,
           'Content-Disposition': `attachment; filename="${filename}"`,
-          'Content-Length': fileBuffer.length.toString(),
+          'Content-Length': fileStats.size.toString(),
           'Cache-Control': 'public, max-age=3600',
+          // Add headers to prevent corruption
+          'Accept-Ranges': 'bytes',
+          'X-Content-Type-Options': 'nosniff',
         },
       })
-    } catch (readError) {
-      console.error('Error reading file:', readError)
-      return new NextResponse('Error reading file', { status: 500 })
+    } catch (streamError) {
+      console.error('Error creating stream, falling back to buffer method:', streamError)
+      
+      // Fallback to buffer method for compatibility
+      try {
+        const fileBuffer = await fs.promises.readFile(fullPath)
+        console.log(`File read successfully via buffer: ${fileBuffer.length} bytes`)
+        
+        return new NextResponse(fileBuffer, {
+          status: 200,
+          headers: {
+            'Content-Type': contentType,
+            'Content-Disposition': `attachment; filename="${filename}"`,
+            'Content-Length': fileBuffer.length.toString(),
+            'Cache-Control': 'public, max-age=3600',
+            'Accept-Ranges': 'bytes',
+            'X-Content-Type-Options': 'nosniff',
+          },
+        })
+      } catch (readError) {
+        console.error('Error reading file with buffer method:', readError)
+        return new NextResponse('Error reading file', { status: 500 })
+      }
     }
     
   } catch (error) {
