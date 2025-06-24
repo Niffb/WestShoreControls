@@ -88,10 +88,11 @@ dist
 # Gatsby files
 .cache/
 
-# Allow images but ignore other public files
+# Allow images and downloads but ignore other public files
 public/*
 !public/images/
 !public/assets/
+!public/downloads/
 
 # Storybook build outputs
 .out
