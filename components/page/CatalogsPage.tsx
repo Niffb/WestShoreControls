@@ -63,6 +63,9 @@ export default function CatalogsPageComponent() {
   }
 
   const catalogs: CatalogBrand[] = [
+    // LS Industrial catalog temporarily disabled - incorrect content (showing Mitsubishi)
+    // Will be re-enabled once correct catalog is provided
+    /*
     {
       brand: "LS Industrial",
       logo: getImageUrl("LS.webp"),
@@ -80,6 +83,7 @@ export default function CatalogsPageComponent() {
         }
       ]
     },
+    */
     {
       brand: "Noark",
       logo: getImageUrl("brands/Noark.webp"),

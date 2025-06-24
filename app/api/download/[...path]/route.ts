@@ -50,50 +50,8 @@ export async function GET(
     // Get filename for download
     const filename = path.basename(fullPath)
     
-    // For very large files (>100MB), try streaming, otherwise use buffer for reliability
-    if (fileStats.size > 100 * 1024 * 1024) { // 100MB threshold
-      console.log('Using streaming for very large file')
-      
-      try {
-        // Create a readable stream for the file
-        const fileStream = createReadStream(fullPath)
-        
-        // Convert the readable stream to a ReadableStream for the Response
-        const readableStream = new ReadableStream({
-          start(controller) {
-            fileStream.on('data', (chunk: Buffer) => {
-              controller.enqueue(new Uint8Array(chunk))
-            })
-            
-            fileStream.on('end', () => {
-              controller.close()
-            })
-            
-            fileStream.on('error', (error) => {
-              console.error('Stream error:', error)
-              controller.error(error)
-            })
-          },
-          cancel() {
-            fileStream.destroy()
-          }
-        })
-        
-        return new NextResponse(readableStream, {
-          status: 200,
-          headers: {
-            'Content-Type': contentType,
-            'Content-Disposition': `attachment; filename="${filename}"`,
-            'Content-Length': fileStats.size.toString(),
-            'Cache-Control': 'public, max-age=3600',
-            'Accept-Ranges': 'bytes',
-          },
-        })
-      } catch (streamError) {
-        console.error('Streaming error, falling back to buffer:', streamError)
-        // Fall back to buffer method if streaming fails
-      }
-    }
+    // Use buffer method for all files for reliability
+    // In production with sufficient memory, this is more reliable than streaming
     
     // For smaller files or fallback, read into buffer
     try {
