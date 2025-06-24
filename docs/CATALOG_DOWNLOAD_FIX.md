@@ -9,6 +9,11 @@ When users clicked the download button on the catalogs page, they were downloadi
 - File system access problems in Cloud Run containers
 - Streaming download failures
 
+**🚨 PRODUCTION ISSUE DISCOVERED (June 2025):**
+- Downloads worked perfectly in local development but returned 404 errors in production
+- Root cause: PDF files were excluded from Git repository due to `.gitignore` configuration
+- Files weren't included in Docker builds, causing missing files in production environment
+
 ## Root Cause
 - Direct links to PDF files in the `/public/downloads/` directory were not being served with proper headers
 - Browsers were receiving the HTML page response instead of the PDF file
@@ -139,6 +144,67 @@ All catalog files are properly located in `/public/downloads/catalogs/`:
 10. ✅ **NEW: Production monitoring** with health checks
 
 ## Troubleshooting
+
+### 🆕 Production Issue: Files Missing from Deployment (RESOLVED)
+
+**Problem**: Downloads work locally but return 404 errors on hosted site.
+
+**Root Cause**: 
+The `.gitignore` file was configured to exclude all `public/*` files except `images/` and `assets/`:
+```
+# Allow images but ignore other public files  
+public/*
+!public/images/
+!public/assets/
+```
+
+This meant the `public/downloads/` directory and all PDF files were:
+1. ❌ Not tracked by Git
+2. ❌ Not included in the repository 
+3. ❌ Missing from Docker builds
+4. ❌ Unavailable in production environment
+
+**Solution Applied**:
+1. **Updated `.gitignore** to include downloads directory:
+   ```
+   # Allow images and downloads but ignore other public files
+   public/*
+   !public/images/
+   !public/assets/
+   !public/downloads/
+   ```
+
+2. **Set up Git Large File Storage (LFS)** for large PDFs:
+   ```bash
+   brew install git-lfs
+   git lfs install
+   git lfs track "*.pdf"
+   ```
+
+3. **Added all PDF files to repository**:
+   - All 12 catalog files now tracked in Git
+   - Large files (>100MB) handled by Git LFS
+   - Files included in Docker builds and deployments
+
+**Verification Steps**:
+- ✅ Health check endpoint: `/api/download/health` shows files exist
+- ✅ Direct API test: Files download correctly
+- ✅ Production deployment includes all catalog files
+
+**Files Included** (with Git LFS for large files):
+- `2025-les-product-catalogue.pdf` (141 MB) - **Git LFS**
+- `katko-product-catalogue-2021.pdf` (41 MB) 
+- `elsteel-techno-module-light-brochure.pdf` (37 MB)
+- `elsteel-19-super-frame-brochure.pdf` (20 MB)
+- `elsteel-box-brochure.pdf` (13 MB)
+- `automation-klemsan.pdf` (12 MB)
+- And 6 additional smaller catalog files
+
+**For Future Reference**:
+- Always verify that required files are tracked in Git
+- Use health check endpoint to diagnose missing files in production
+- Consider Git LFS for files >100MB (GitHub's limit)
+- Test downloads in production environment after deployment
 
 If downloads still fail on Google Cloud:
 
