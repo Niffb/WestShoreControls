@@ -27,8 +27,32 @@ interface CatalogBrand {
 export default function CatalogsPageComponent() {
   const [downloadedFiles, setDownloadedFiles] = useState<Set<string>>(new Set())
 
-  const handleDownload = (downloadUrl: string) => {
-    setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
+  const handleDownload = async (downloadUrl: string, filename: string) => {
+    try {
+      // First, try to fetch the file to check if it's available
+      const response = await fetch(downloadUrl, { method: 'HEAD' })
+      
+      if (!response.ok) {
+        console.error('Download failed:', response.status, response.statusText)
+        
+        // If API route fails, try direct file access as fallback
+        const directUrl = downloadUrl.replace('/api/download/', '/downloads/')
+        const directResponse = await fetch(directUrl, { method: 'HEAD' })
+        
+        if (directResponse.ok) {
+          // Use direct download as fallback
+          window.open(directUrl, '_blank')
+        } else {
+          alert(`Sorry, the file "${filename}" is currently unavailable. Please try again later or contact support.`)
+          return
+        }
+      }
+      
+      setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
+    } catch (error) {
+      console.error('Download error:', error)
+      alert(`Sorry, there was an error downloading "${filename}". Please try again later.`)
+    }
   }
 
   const catalogs: CatalogBrand[] = [
@@ -290,7 +314,10 @@ export default function CatalogsPageComponent() {
                           <a
                             href={catalog.downloadUrl}
                             download
-                            onClick={() => handleDownload(catalog.downloadUrl)}
+                            onClick={(e) => {
+                              e.preventDefault()
+                              handleDownload(catalog.downloadUrl, catalog.title)
+                            }}
                             className={`flex-1 inline-flex items-center justify-center space-x-2 px-4 py-3 bg-gradient-to-r ${brand.gradient} text-white font-medium rounded-lg hover:opacity-90 transition-all duration-200 group-hover/card:shadow-lg ${isDownloaded(catalog.downloadUrl) ? 'opacity-75' : ''}`}
                           >
                             {isDownloaded(catalog.downloadUrl) ? (

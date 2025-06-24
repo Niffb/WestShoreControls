@@ -5,6 +5,9 @@ const nextConfig = {
   // Asset prefix for static exports
   assetPrefix: '',
   
+  // Ensure proper trailing slash handling
+  trailingSlash: false,
+  
   // Performance optimizations
   swcMinify: true,
   poweredByHeader: false,
@@ -80,6 +83,23 @@ const nextConfig = {
           {
             key: 'Content-Security-Policy',
             value: "default-src 'self'",
+          },
+          {
+            key: 'X-Content-Type-Options',
+            value: 'nosniff',
+          },
+          {
+            key: 'X-Frame-Options',
+            value: 'DENY',
+          },
+        ],
+      },
+      {
+        source: '/downloads/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=86400',
           },
         ],
       },
