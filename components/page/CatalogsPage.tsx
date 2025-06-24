@@ -42,13 +42,28 @@ export default function CatalogsPageComponent() {
         if (directResponse.ok) {
           // Use direct download as fallback
           window.open(directUrl, '_blank')
+          setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
         } else {
           alert(`Sorry, the file "${filename}" is currently unavailable. Please try again later or contact support.`)
           return
         }
+      } else {
+        // File is available via API route, trigger the download
+        // Extract the actual filename from the URL
+        const actualFilename = downloadUrl.split('/').pop() || filename
+        
+        // Create a temporary link element to trigger download
+        const link = document.createElement('a')
+        link.href = downloadUrl
+        link.download = actualFilename
+        link.style.display = 'none'
+        document.body.appendChild(link)
+        link.click()
+        document.body.removeChild(link)
+        
+        // Mark as downloaded
+        setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
       }
-      
-      setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
     } catch (error) {
       console.error('Download error:', error)
       alert(`Sorry, there was an error downloading "${filename}". Please try again later.`)
