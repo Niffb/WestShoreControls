@@ -2,9 +2,10 @@
 
 import Link from 'next/link'
 import Image from 'next/image'
-import { ArrowDownTrayIcon, DocumentTextIcon, FolderIcon, GlobeAltIcon, CheckCircleIcon } from '@heroicons/react/24/outline'
+import { DocumentTextIcon, FolderIcon, GlobeAltIcon } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
 import { useState } from 'react'
+import { DownloadButton } from '@/components/ui'
 
 interface Catalog {
   title: string
@@ -27,39 +28,9 @@ interface CatalogBrand {
 export default function CatalogsPageComponent() {
   const [downloadedFiles, setDownloadedFiles] = useState<Set<string>>(new Set())
 
-  const handleDownload = async (downloadUrl: string, filename: string) => {
-    try {
-      // First, try to fetch the file to check if it's available
-      const response = await fetch(downloadUrl, { method: 'HEAD' })
-      
-      if (!response.ok) {
-        console.error('Download failed:', response.status, response.statusText)
-        
-        // If API route fails, try direct file access as fallback
-        const directUrl = downloadUrl.replace('/api/download/', '/downloads/')
-        const directResponse = await fetch(directUrl, { method: 'HEAD' })
-        
-        if (directResponse.ok) {
-          // Use direct download as fallback
-          window.open(directUrl, '_blank')
-          setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
-        } else {
-          alert(`Sorry, the file "${filename}" is currently unavailable. Please try again later or contact support.`)
-          return
-        }
-      } else {
-        // File is available via API route, trigger the download
-        // For large files or compatibility, use window.open instead of programmatic link
-        // This allows the browser to handle the download naturally
-        window.open(downloadUrl, '_blank')
-        
-        // Mark as downloaded
-        setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
-      }
-    } catch (error) {
-      console.error('Download error:', error)
-      alert(`Sorry, there was an error downloading "${filename}". Please try again later.`)
-    }
+  // Simple download tracking for UI state
+  const handleDownloadComplete = (downloadUrl: string) => {
+    setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
   }
 
   const catalogs: CatalogBrand[] = [
@@ -97,7 +68,7 @@ export default function CatalogsPageComponent() {
           description: "Complete range of circuit breakers, contactors, motor protection devices, and electrical components with technical specifications and application guides.",
           size: "6.5 MB",
           pages: 120,
-          downloadUrl: "/api/download/catalogs/noark-product-catalogue.pdf"
+          downloadUrl: "/downloads/catalogs/noark-product-catalogue.pdf"
         }
       ]
     },
@@ -114,14 +85,14 @@ export default function CatalogsPageComponent() {
           description: "Comprehensive range of industrial automation components including relays, power supplies, terminal blocks, and control system accessories.",
           size: "12 MB",
           pages: 200,
-          downloadUrl: "/api/download/catalogs/automation-klemsan.pdf"
+          downloadUrl: "/downloads/catalogs/automation-klemsan.pdf"
         },
         {
           title: "Accessories & Connection Solutions",
           description: "Terminal blocks, connection accessories, marking systems, and installation tools with technical specifications and application examples.",
           size: "6.8 MB",
           pages: 150,
-          downloadUrl: "/api/download/catalogs/klemsan-accessories.pdf"
+          downloadUrl: "/downloads/catalogs/klemsan-accessories.pdf"
         }
       ]
     },
@@ -138,7 +109,7 @@ export default function CatalogsPageComponent() {
           description: "Complete range of enclosed isolating switches, motor controls, and safety disconnect switches with UL certifications and installation procedures.",
           size: "41 MB",
           pages: 300,
-          downloadUrl: "/api/download/catalogs/katko-product-catalogue-2021.pdf"
+          downloadUrl: "/downloads/catalogs/katko-product-catalogue-2021.pdf"
         }
       ]
     },
@@ -155,49 +126,49 @@ export default function CatalogsPageComponent() {
           description: "Comprehensive guide to Elsteel's 19\" Super Frame cabinets designed for high-tech requirements in telecommunications, data communication, and UPS applications.",
           size: "19.5 MB",
           pages: 48,
-          downloadUrl: "/api/download/catalogs/elsteel-19-super-frame-brochure.pdf"
+          downloadUrl: "/downloads/catalogs/elsteel-19-super-frame-brochure.pdf"
         },
         {
           title: "Box Brochure",
           description: "Complete range of mild steel and stainless steel boxes including terminal boxes, custom made enclosures, and special size solutions for various applications.",
           size: "12.9 MB",
           pages: 32,
-          downloadUrl: "/api/download/catalogs/elsteel-box-brochure.pdf"
+          downloadUrl: "/downloads/catalogs/elsteel-box-brochure.pdf"
         },
         {
           title: "Special Enclosures",
           description: "Custom made enclosures and special size solutions manufactured according to your specific needs and requirements with flexible manufacturing processes.",
           size: "1.1 MB",
           pages: 8,
-          downloadUrl: "/api/download/catalogs/elsteel-special-enclosures.pdf"
+          downloadUrl: "/downloads/catalogs/elsteel-special-enclosures.pdf"
         },
         {
           title: "Marine Simulator Brochure",
           description: "Specialized marine simulation equipment and enclosures designed for maritime applications with high durability and corrosion resistance.",
           size: "9.2 MB",
           pages: 24,
-          downloadUrl: "/api/download/catalogs/elsteel-marine-simulator-brochure.pdf"
+          downloadUrl: "/downloads/catalogs/elsteel-marine-simulator-brochure.pdf"
         },
         {
           title: "Plug & Power Solutions",
           description: "Comprehensive plug and power distribution solutions including modular systems and flexible power distribution equipment for industrial applications.",
           size: "6.9 MB",
           pages: 20,
-          downloadUrl: "/api/download/catalogs/elsteel-plug-and-power.pdf"
+          downloadUrl: "/downloads/catalogs/elsteel-plug-and-power.pdf"
         },
         {
           title: "Techno Module Brochure",
           description: "Elsteel's original 200mm grid solution offering flexibility, reliability, and safety for panel builders and consultants worldwide.",
           size: "7.3 MB",
           pages: 28,
-          downloadUrl: "/api/download/catalogs/elsteel-techno-module-brochure.pdf"
+          downloadUrl: "/downloads/catalogs/elsteel-techno-module-brochure.pdf"
         },
         {
           title: "Techno Module Light Brochure",
           description: "Compact version of Techno Module designed with the same flexibility and reliability for projects requiring smaller panels and space-efficient solutions.",
           size: "37.1 MB",
           pages: 64,
-          downloadUrl: "/api/download/catalogs/elsteel-techno-module-light-brochure.pdf"
+          downloadUrl: "/downloads/catalogs/elsteel-techno-module-light-brochure.pdf"
         }
       ]
     }
@@ -255,7 +226,7 @@ export default function CatalogsPageComponent() {
                 <span>Technical Specifications</span>
               </div>
               <div className="flex items-center space-x-2">
-                <ArrowDownTrayIcon className="h-5 w-5" />
+                <DocumentTextIcon className="h-5 w-5" />
                 <span>Instant Downloads</span>
               </div>
               <div className="flex items-center space-x-2">
@@ -322,22 +293,14 @@ export default function CatalogsPageComponent() {
                         </p>
                         
                         <div className="flex items-center space-x-3">
-                          <a
-                            href={catalog.downloadUrl}
-                            download
-                            onClick={(e) => {
-                              e.preventDefault()
-                              handleDownload(catalog.downloadUrl, catalog.title)
-                            }}
-                            className={`flex-1 inline-flex items-center justify-center space-x-2 px-4 py-3 bg-gradient-to-r ${brand.gradient} text-white font-medium rounded-lg hover:opacity-90 transition-all duration-200 group-hover/card:shadow-lg ${isDownloaded(catalog.downloadUrl) ? 'opacity-75' : ''}`}
-                          >
-                            {isDownloaded(catalog.downloadUrl) ? (
-                              <CheckCircleIcon className="h-5 w-5" />
-                            ) : (
-                              <ArrowDownTrayIcon className="h-5 w-5" />
-                            )}
-                            <span>{isDownloaded(catalog.downloadUrl) ? 'Downloaded' : 'Download Catalog'}</span>
-                          </a>
+                          <DownloadButton
+                            downloadUrl={catalog.downloadUrl}
+                            filename={catalog.title}
+                            fileSize={catalog.size}
+                            variant="gradient"
+                            className="flex-1"
+                            onDownloadComplete={() => handleDownloadComplete(catalog.downloadUrl)}
+                          />
                         </div>
                       </div>
                     </div>

@@ -1,6 +1,7 @@
 export { default as Breadcrumb } from './Breadcrumb';
 export { default as SEOAnalytics } from './SEOAnalytics';
 export { default as ContactCard } from './ContactCard';
+export { default as DownloadButton } from './DownloadButton';
 export { default as MobileScrollToTop } from './MobileScrollToTop';
 export { default as ScrollProgress } from './ScrollProgress';
 
