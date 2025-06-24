@@ -50,9 +50,9 @@ export async function GET(
     // Get filename for download
     const filename = path.basename(fullPath)
     
-    // For large files, use streaming to prevent memory issues
-    if (fileStats.size > 10 * 1024 * 1024) { // 10MB threshold
-      console.log('Using streaming for large file')
+    // For very large files (>100MB), try streaming, otherwise use buffer for reliability
+    if (fileStats.size > 100 * 1024 * 1024) { // 100MB threshold
+      console.log('Using streaming for very large file')
       
       try {
         // Create a readable stream for the file
@@ -73,6 +73,9 @@ export async function GET(
               console.error('Stream error:', error)
               controller.error(error)
             })
+          },
+          cancel() {
+            fileStream.destroy()
           }
         })
         

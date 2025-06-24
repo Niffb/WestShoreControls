@@ -49,17 +49,9 @@ export default function CatalogsPageComponent() {
         }
       } else {
         // File is available via API route, trigger the download
-        // Extract the actual filename from the URL
-        const actualFilename = downloadUrl.split('/').pop() || filename
-        
-        // Create a temporary link element to trigger download
-        const link = document.createElement('a')
-        link.href = downloadUrl
-        link.download = actualFilename
-        link.style.display = 'none'
-        document.body.appendChild(link)
-        link.click()
-        document.body.removeChild(link)
+        // For large files or compatibility, use window.open instead of programmatic link
+        // This allows the browser to handle the download naturally
+        window.open(downloadUrl, '_blank')
         
         // Mark as downloaded
         setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
