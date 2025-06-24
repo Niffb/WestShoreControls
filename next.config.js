@@ -70,6 +70,19 @@ const nextConfig = {
           },
         ],
       },
+      {
+        source: '/api/download/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=3600',
+          },
+          {
+            key: 'Content-Security-Policy',
+            value: "default-src 'self'",
+          },
+        ],
+      },
     ]
   },
   

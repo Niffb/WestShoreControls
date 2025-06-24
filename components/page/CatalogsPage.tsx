@@ -45,7 +45,7 @@ export default function CatalogsPageComponent() {
           description: "Complete range of industrial automation products including contactors, circuit breakers, motor starters, and control systems with technical specifications and wiring diagrams.",
           size: "141 MB",
           pages: 800,
-          downloadUrl: "/downloads/catalogs/2025-les-product-catalogue.pdf"
+          downloadUrl: "/api/download/catalogs/2025-les-product-catalogue.pdf"
         }
       ]
     },
@@ -62,7 +62,7 @@ export default function CatalogsPageComponent() {
           description: "Complete range of circuit breakers, contactors, motor protection devices, and electrical components with technical specifications and application guides.",
           size: "6.5 MB",
           pages: 120,
-          downloadUrl: "/downloads/catalogs/noark-product-catalogue.pdf"
+          downloadUrl: "/api/download/catalogs/noark-product-catalogue.pdf"
         }
       ]
     },
@@ -79,14 +79,14 @@ export default function CatalogsPageComponent() {
           description: "Comprehensive range of industrial automation components including relays, power supplies, terminal blocks, and control system accessories.",
           size: "12 MB",
           pages: 200,
-          downloadUrl: "/downloads/catalogs/automation-klemsan.pdf"
+          downloadUrl: "/api/download/catalogs/automation-klemsan.pdf"
         },
         {
           title: "Accessories & Connection Solutions",
           description: "Terminal blocks, connection accessories, marking systems, and installation tools with technical specifications and application examples.",
           size: "6.8 MB",
           pages: 150,
-          downloadUrl: "/downloads/catalogs/klemsan-accessories.pdf"
+          downloadUrl: "/api/download/catalogs/klemsan-accessories.pdf"
         }
       ]
     },
@@ -103,7 +103,7 @@ export default function CatalogsPageComponent() {
           description: "Complete range of enclosed isolating switches, motor controls, and safety disconnect switches with UL certifications and installation procedures.",
           size: "41 MB",
           pages: 300,
-          downloadUrl: "/downloads/catalogs/katko-product-catalogue-2021.pdf"
+          downloadUrl: "/api/download/catalogs/katko-product-catalogue-2021.pdf"
         }
       ]
     },
@@ -120,49 +120,49 @@ export default function CatalogsPageComponent() {
           description: "Comprehensive guide to Elsteel's 19\" Super Frame cabinets designed for high-tech requirements in telecommunications, data communication, and UPS applications.",
           size: "19.5 MB",
           pages: 48,
-          downloadUrl: "/downloads/catalogs/elsteel-19-super-frame-brochure.pdf"
+          downloadUrl: "/api/download/catalogs/elsteel-19-super-frame-brochure.pdf"
         },
         {
           title: "Box Brochure",
           description: "Complete range of mild steel and stainless steel boxes including terminal boxes, custom made enclosures, and special size solutions for various applications.",
           size: "12.9 MB",
           pages: 32,
-          downloadUrl: "/downloads/catalogs/elsteel-box-brochure.pdf"
+          downloadUrl: "/api/download/catalogs/elsteel-box-brochure.pdf"
         },
         {
           title: "Special Enclosures",
           description: "Custom made enclosures and special size solutions manufactured according to your specific needs and requirements with flexible manufacturing processes.",
           size: "1.1 MB",
           pages: 8,
-          downloadUrl: "/downloads/catalogs/elsteel-special-enclosures.pdf"
+          downloadUrl: "/api/download/catalogs/elsteel-special-enclosures.pdf"
         },
         {
           title: "Marine Simulator Brochure",
           description: "Specialized marine simulation equipment and enclosures designed for maritime applications with high durability and corrosion resistance.",
           size: "9.2 MB",
           pages: 24,
-          downloadUrl: "/downloads/catalogs/elsteel-marine-simulator-brochure.pdf"
+          downloadUrl: "/api/download/catalogs/elsteel-marine-simulator-brochure.pdf"
         },
         {
           title: "Plug & Power Solutions",
           description: "Comprehensive plug and power distribution solutions including modular systems and flexible power distribution equipment for industrial applications.",
           size: "6.9 MB",
           pages: 20,
-          downloadUrl: "/downloads/catalogs/elsteel-plug-and-power.pdf"
+          downloadUrl: "/api/download/catalogs/elsteel-plug-and-power.pdf"
         },
         {
           title: "Techno Module Brochure",
           description: "Elsteel's original 200mm grid solution offering flexibility, reliability, and safety for panel builders and consultants worldwide.",
           size: "7.3 MB",
           pages: 28,
-          downloadUrl: "/downloads/catalogs/elsteel-techno-module-brochure.pdf"
+          downloadUrl: "/api/download/catalogs/elsteel-techno-module-brochure.pdf"
         },
         {
           title: "Techno Module Light Brochure",
           description: "Compact version of Techno Module designed with the same flexibility and reliability for projects requiring smaller panels and space-efficient solutions.",
           size: "37.1 MB",
           pages: 64,
-          downloadUrl: "/downloads/catalogs/elsteel-techno-module-light-brochure.pdf"
+          downloadUrl: "/api/download/catalogs/elsteel-techno-module-light-brochure.pdf"
         }
       ]
     }
