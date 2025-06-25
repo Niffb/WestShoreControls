@@ -40,9 +40,25 @@ export default function CatalogsPageComponent() {
           pages: 400,
           downloadUrl: "/downloads/catalogs/ls-industrial-factory-automation-catalog-2024.pdf"
         }
+            ]
+    },
+    {
+      brand: "Mitsubishi Electric",
+      logo: getImageUrl("brands/MitsubishiLogo.webp"),
+      description: "Leading manufacturer of factory automation, drive systems, and industrial equipment solutions.",
+      catalogCount: 1,
+      color: "red",
+      gradient: "from-red-500 to-red-600",
+      catalogs: [
+        {
+          title: "LES Product Catalogue 2025",
+          description: "Comprehensive product catalog featuring Mitsubishi Electric's complete range of industrial automation solutions, motor drives, PLCs, and control systems with detailed technical specifications.",
+          size: "34 MB",
+          pages: 800,
+          downloadUrl: "/downloads/catalogs/mitsubishi-les-product-catalogue-2025.pdf"
+        }
       ]
     },
-
     {
       brand: "Noark",
       logo: getImageUrl("brands/Noark.webp"),
