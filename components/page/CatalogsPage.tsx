@@ -26,6 +26,24 @@ interface CatalogBrand {
 export default function CatalogsPageComponent() {
   const catalogs: CatalogBrand[] = [
     {
+      brand: "LS Industrial",
+      logo: getImageUrl("brands/LS.webp"),
+      description: "Comprehensive industrial automation solutions including contactors, circuit breakers, and drives.",
+      catalogCount: 1,
+      color: "green",
+      gradient: "from-green-500 to-green-600",
+      catalogs: [
+        {
+          title: "Factory Automation Catalog 2024",
+          description: "Complete range of industrial automation products including contactors, circuit breakers, motor starters, and control systems with technical specifications and wiring diagrams.",
+          size: "9.5 MB",
+          pages: 400,
+          downloadUrl: "/downloads/catalogs/ls-industrial-factory-automation-catalog-2024.pdf"
+        }
+      ]
+    },
+
+    {
       brand: "Noark",
       logo: getImageUrl("brands/Noark.webp"),
       description: "High-quality electrical components including contactors, circuit breakers, and motor protection devices.",
@@ -146,7 +164,7 @@ export default function CatalogsPageComponent() {
 
   const getColorClasses = (color: string) => {
     const colorMap = {
-      red: "border-primary-200 hover:border-primary-300 hover:shadow-primary-100",
+      red: "border-red-200 hover:border-red-300 hover:shadow-red-100",
       blue: "border-blue-200 hover:border-blue-300 hover:shadow-blue-100",
       green: "border-green-200 hover:border-green-300 hover:shadow-green-100",
       orange: "border-orange-200 hover:border-orange-300 hover:shadow-orange-100",
@@ -159,7 +177,7 @@ export default function CatalogsPageComponent() {
 
   const getBadgeClasses = (color: string) => {
     const colorMap = {
-      red: "bg-primary-50 text-primary-700 border-primary-200",
+      red: "bg-red-50 text-red-700 border-red-200",
       blue: "bg-blue-50 text-blue-700 border-blue-200",
       green: "bg-green-50 text-green-700 border-green-200",
       orange: "bg-orange-50 text-orange-700 border-orange-200",
