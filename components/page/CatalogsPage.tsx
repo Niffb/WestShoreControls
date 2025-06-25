@@ -1,11 +1,9 @@
 'use client'
 
-import Link from 'next/link'
 import Image from 'next/image'
-import { DocumentTextIcon, FolderIcon, GlobeAltIcon } from '@heroicons/react/24/outline'
+import Link from 'next/link'
+import { DocumentTextIcon, FolderIcon, GlobeAltIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
-import { useState } from 'react'
-import { DownloadButton } from '@/components/ui'
 
 interface Catalog {
   title: string
@@ -26,35 +24,7 @@ interface CatalogBrand {
 }
 
 export default function CatalogsPageComponent() {
-  const [downloadedFiles, setDownloadedFiles] = useState<Set<string>>(new Set())
-
-  // Simple download tracking for UI state
-  const handleDownloadComplete = (downloadUrl: string) => {
-    setDownloadedFiles(prev => new Set(prev).add(downloadUrl))
-  }
-
   const catalogs: CatalogBrand[] = [
-    // LS Industrial catalog temporarily disabled - incorrect content (showing Mitsubishi)
-    // Will be re-enabled once correct catalog is provided
-    /*
-    {
-      brand: "LS Industrial",
-      logo: getImageUrl("LS.webp"),
-      description: "Comprehensive industrial automation solutions including contactors, circuit breakers, and drives.",
-      catalogCount: 1,
-      color: "green",
-      gradient: "from-green-500 to-green-600",
-      catalogs: [
-        {
-          title: "2025 LES Product Catalogue",
-          description: "Complete range of industrial automation products including contactors, circuit breakers, motor starters, and control systems with technical specifications and wiring diagrams.",
-          size: "141 MB",
-          pages: 800,
-          downloadUrl: "/api/download/catalogs/2025-les-product-catalogue.pdf"
-        }
-      ]
-    },
-    */
     {
       brand: "Noark",
       logo: getImageUrl("brands/Noark.webp"),
@@ -200,8 +170,6 @@ export default function CatalogsPageComponent() {
     return colorMap[color as keyof typeof colorMap] || "bg-primary-50 text-primary-700 border-primary-200"
   }
 
-  const isDownloaded = (downloadUrl: string) => downloadedFiles.has(downloadUrl)
-
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-red-50">
       {/* Hero Section */}
@@ -293,14 +261,14 @@ export default function CatalogsPageComponent() {
                         </p>
                         
                         <div className="flex items-center space-x-3">
-                          <DownloadButton
-                            downloadUrl={catalog.downloadUrl}
-                            filename={catalog.title}
-                            fileSize={catalog.size}
-                            variant="gradient"
-                            className="flex-1"
-                            onDownloadComplete={() => handleDownloadComplete(catalog.downloadUrl)}
-                          />
+                          <a
+                            href={catalog.downloadUrl}
+                            download={`${catalog.title}.pdf`}
+                            className="flex-1 inline-flex items-center justify-center space-x-2 px-4 py-3 bg-gradient-to-r from-primary-600 to-primary-500 hover:from-primary-700 hover:to-primary-600 text-white font-medium rounded-lg transition-all duration-200 hover:shadow-lg transform hover:-translate-y-0.5"
+                          >
+                            <ArrowDownTrayIcon className="h-5 w-5" />
+                            <span>Download ({catalog.size})</span>
+                          </a>
                         </div>
                       </div>
                     </div>
