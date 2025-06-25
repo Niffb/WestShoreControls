@@ -53,9 +53,9 @@ export default function CatalogsPageComponent() {
         {
           title: "LES Product Catalogue 2025",
           description: "Comprehensive product catalog featuring Mitsubishi Electric's complete range of industrial automation solutions, motor drives, PLCs, and control systems with detailed technical specifications.",
-          size: "57 MB",
-          pages: 800,
-          downloadUrl: "/downloads/catalogs/mitsubishi-les-product-catalogue-2025.pdf"
+          size: "Online",
+          pages: 438,
+          downloadUrl: "https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1"
         }
       ]
     },
@@ -297,11 +297,14 @@ export default function CatalogsPageComponent() {
                         <div className="flex items-center space-x-3">
                           <a
                             href={catalog.downloadUrl}
-                            download={`${catalog.title}.pdf`}
+                            {...(catalog.downloadUrl.startsWith('http') 
+                              ? { target: '_blank', rel: 'noopener noreferrer' } 
+                              : { download: `${catalog.title}.pdf` }
+                            )}
                             className="flex-1 inline-flex items-center justify-center space-x-2 px-4 py-3 bg-gradient-to-r from-primary-600 to-primary-500 hover:from-primary-700 hover:to-primary-600 text-white font-medium rounded-lg transition-all duration-200 hover:shadow-lg transform hover:-translate-y-0.5"
                           >
                             <ArrowDownTrayIcon className="h-5 w-5" />
-                            <span>Download ({catalog.size})</span>
+                            <span>{catalog.downloadUrl.startsWith('http') ? 'View Catalog' : `Download (${catalog.size})`}</span>
                           </a>
                         </div>
                       </div>
