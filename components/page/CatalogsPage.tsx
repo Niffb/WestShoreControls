@@ -53,7 +53,7 @@ export default function CatalogsPageComponent() {
         {
           title: "LES Product Catalogue 2025",
           description: "Comprehensive product catalog featuring Mitsubishi Electric's complete range of industrial automation solutions, motor drives, PLCs, and control systems with detailed technical specifications.",
-          size: "34 MB",
+          size: "57 MB",
           pages: 800,
           downloadUrl: "/downloads/catalogs/mitsubishi-les-product-catalogue-2025.pdf"
         }
