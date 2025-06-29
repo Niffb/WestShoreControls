@@ -275,7 +275,7 @@ export const mitsubishiProducts: Product[] = [
     badge: "Premium",
     specs: [
       "Input voltage range: 200-240VAC (3-phase) or 380-500VAC (3-phase)",
-      "Power range: 0.4kW to 160kW",
+      "Power range: 0.4kW to 280kW",
       "Advanced motor control with Real Sensorless Vector Control",
       "Built-in Ethernet/IP and Modbus RTU communication",
       "Extended conformal coating for harsh environments",
@@ -292,15 +292,222 @@ export const mitsubishiProducts: Product[] = [
     ],
     downloads: [
       {
-        name: "FR-A800 Series for Cranes",
-        url: "/downloads/FR-A800-Series-for-Cranes.pdf",
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
         type: "pdf"
       },
       {
-        name: "FR-A800 for Roll to Roll Applications",
-        url: "/downloads/FR-A800-for-Roll-to-Roll.pdf",
+        name: "FR-A800 Plus Series Installation Guide",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-installation.pdf",
+        type: "pdf"
+      },
+      {
+        name: "FR-A800 Plus Series Programming Manual",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-programming.pdf",
+        type: "pdf"
+      },
+      {
+        name: "FR-A800 Plus Series Technical Guide",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-technical.pdf",
         type: "pdf"
       }
+    ]
+  },
+
+  // Drive Products - A800 Series Inverters - Specific Models
+  {
+    id: 50014,
+    name: "FR-A820-00046-1-60 A800 Plus Series Inverter",
+    model: "FR-A820-00046-1-60",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz",
+    rating: 4.9,
+    reviews: 15,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 200-240VAC (3-phase)",
+      "Power: 400W / 0.4kW / 1/2HP",
+      "Current: 3A (ND Normal Duty)",
+      "Frequency: 0.2-590Hz",
+      "Conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port",
+      "Conformal coating protection"
+    ],
+    downloads: [
+      {
+        name: "FR-A820-00046-1-60 Datasheet",
+        url: "/downloads/mitsubishi/drives/fr-a820-00046-1-60-datasheet.pdf",
+        type: "pdf"
+      },
+      {
+        name: "FR-A800 Plus Series Technical Guide",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-technical.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50015,
+    name: "FR-A820-00046-1-N6 A800 Plus Series Inverter",
+    model: "FR-A820-00046-1-N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 12,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 200-240VAC (3-phase)",
+      "Power: 400W / 0.4kW / 1/2HP",
+      "Current: 3A (ND Normal Duty)",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ]
+  },
+  {
+    id: 50016,
+    name: "FR-A840-00023-1-60 A800 Plus Series Inverter",
+    model: "FR-A840-00023-1-60",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 1.5A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 18,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 400W / 0.4kW / 1/2HP",
+      "Current: 1.5A (ND Normal Duty)",
+      "Conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ]
+  },
+  {
+    id: 50017,
+    name: "FR-A840-00038-1-60 A800 Plus Series Inverter",
+    model: "FR-A840-00038-1-60",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 14,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 750W / 0.75kW / 1HP",
+      "Current: 2.5A (ND Normal Duty)",
+      "Conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ]
+  },
+  {
+    id: 50018,
+    name: "FR-A840-02160-1-U6 A800 Plus Series Inverter",
+    model: "FR-A840-02160-1-U6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 75kW / 100HP - 144A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 22,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 75kW / 100HP",
+      "Current: 144A (ND Normal Duty)",
+      "Conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ]
+  },
+  {
+    id: 50019,
+    name: "FR-A840-04320-1-06 A800 Plus Series Inverter",
+    model: "FR-A840-04320-1-06",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 160kW / 250HP - 325A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 16,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 160kW / 250HP",
+      "Current: 325A (ND Normal Duty)",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ]
+  },
+  {
+    id: 50020,
+    name: "FR-A840-06830-1-06 A800 Plus Series Inverter",
+    model: "FR-A840-06830-1-06",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 280kW / 400HP - 547A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 10,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 280kW / 400HP",
+      "Current: 547A (ND Normal Duty)",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
     ]
   },
 
