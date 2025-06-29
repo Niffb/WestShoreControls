@@ -259,9 +259,54 @@ export const mitsubishiProducts: Product[] = [
     ]
   },
 
-  // Industrial Robots
+  // Drive Products - A800 Series Inverters
   {
     id: 50010,
+    name: "FREQROL-A800 Plus Series Inverter",
+    model: "FR-A800 Plus",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "The FREQROL-A800 Plus Series inverters represent Mitsubishi Electric's premium line of variable frequency drives, offering advanced motor control, enhanced energy savings, and superior system integration capabilities. These drives support various industrial applications with features like extended conformal coating, Ethernet connectivity, and high-precision motor control.",
+    price: null,
+    rating: 4.9,
+    reviews: 85,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "Premium",
+    specs: [
+      "Input voltage range: 200-240VAC (3-phase) or 380-500VAC (3-phase)",
+      "Power range: 0.4kW to 160kW",
+      "Advanced motor control with Real Sensorless Vector Control",
+      "Built-in Ethernet/IP and Modbus RTU communication",
+      "Extended conformal coating for harsh environments",
+      "High-speed response with 1ms or less sampling",
+      "Multiple control modes including V/F, Advanced Magnetic Flux Vector Control"
+    ],
+    features: [
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection features",
+      "Integrated PLC functionality",
+      "USB programming port",
+      "Supports various motor types including PM motors",
+      "Extended life design with 10-year maintenance free operation"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Series for Cranes",
+        url: "/downloads/FR-A800-Series-for-Cranes.pdf",
+        type: "pdf"
+      },
+      {
+        name: "FR-A800 for Roll to Roll Applications",
+        url: "/downloads/FR-A800-for-Roll-to-Roll.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+
+  // Industrial Robots
+  {
+    id: 50011,
     name: "MELFA Industrial Robot",
     model: "MELFA",
     brand: "Mitsubishi",
@@ -290,7 +335,7 @@ export const mitsubishiProducts: Product[] = [
 
   // Edge Computing
   {
-    id: 50011,
+    id: 50012,
     name: "MELIPC Industrial Computer",
     model: "MELIPC",
     brand: "Mitsubishi",
@@ -318,7 +363,7 @@ export const mitsubishiProducts: Product[] = [
 
   // Human Machine Interfaces
   {
-    id: 50012,
+    id: 50013,
     name: "GOT Human-Machine Interface",
     model: "GOT",
     brand: "Mitsubishi",

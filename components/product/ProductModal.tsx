@@ -10,7 +10,9 @@ import {
   ExclamationTriangleIcon,
   ClipboardDocumentListIcon,
   InformationCircleIcon,
-  TagIcon
+  TagIcon,
+  ArrowDownTrayIcon,
+  DocumentIcon
 } from '@heroicons/react/24/outline'
 import { getImageUrl, getFallbackImageUrl } from '@/lib/config/image-config'
 
@@ -312,6 +314,31 @@ export default function ProductModal({ product, isOpen, onClose, getProductImage
                       <div className="bg-gray-50 rounded-xl p-4 space-y-2">
                         {renderSpecifications()}
                       </div>
+
+                      {/* Downloads Section */}
+                      {product.downloads && product.downloads.length > 0 && (
+                        <div className="mt-6">
+                          <h3 className="text-lg font-semibold text-gray-900 mb-3 flex items-center gap-2">
+                            <ArrowDownTrayIcon className="h-5 w-5 text-blue-500" />
+                            Downloads
+                          </h3>
+                          <div className="bg-gray-50 rounded-xl p-4 space-y-2">
+                            {product.downloads.map((download, index) => (
+                              <a
+                                key={index}
+                                href={download.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="flex items-center gap-3 p-3 bg-white rounded-lg hover:bg-blue-50 transition-colors border border-gray-200 hover:border-blue-200"
+                              >
+                                <DocumentIcon className="h-5 w-5 text-blue-500" />
+                                <span className="text-sm text-gray-700 hover:text-blue-700">{download.name}</span>
+                                <ArrowDownTrayIcon className="h-4 w-4 text-gray-400 ml-auto" />
+                              </a>
+                            ))}
+                          </div>
+                        </div>
+                      )}
                     </div>
                   </div>
 

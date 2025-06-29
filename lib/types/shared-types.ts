@@ -16,4 +16,9 @@ export interface Product {
   specs?: string[]
   url?: string
   features?: string[]
+  downloads?: {
+    name: string
+    url: string
+    type: 'pdf' | 'doc' | 'other'
+  }[]
 } 
