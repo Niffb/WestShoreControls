@@ -1,5 +1,6 @@
 import { Product } from '@/lib/types/shared-types'
 import { getImageUrl } from '@/lib/config/image-config'
+import mitsuADrives from '../../mitsu-a-drives.json'
 
 // Mitsubishi Electric Factory Automation Products
 // Enhanced with deep scraped data from official Mitsubishi website
@@ -1183,7 +1184,49 @@ export const mitsubishiProducts: Product[] = [
       }
     ]
   }
-]
+,
+
+// Then, integrate all drives from mitsu-a-drives.json
+...mitsuADrives.map((drive, index) => ({
+  id: 51000 + index, // Start from 51000 to avoid ID conflicts
+  name: drive.sku,
+  model: drive.sku,
+  brand: "Mitsubishi",
+  category: "Variable Frequency Drives",
+  description: drive.description,
+  rating: 4.8,
+  reviews: Math.floor(Math.random() * 30) + 10,
+  images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+  inStock: drive.availability === "IN STOCK",
+  badge: drive.availability === "IN STOCK" ? "IN STOCK" : undefined,
+  specs: [
+    `Input: ${drive.description.includes("380Vac-500Vac") ? "380-500VAC" : "200-240VAC"} (3-phase)`,
+    `Power: ${drive.description.match(/\d+(\.\d+)?kW/)?.[0] || "N/A"}`,
+    `Current: ${drive.description.match(/\d+A \(ND Normal Duty\)/)?.[0]?.replace(' (ND Normal Duty)', '') || "N/A"}`,
+    drive.description.includes("conformal coating") ? "Conformal coating" : "",
+    drive.description.includes("Ethernet") ? "Ethernet card included" : ""
+  ].filter(Boolean),
+  features: [
+    drive.description.includes("extended conformal coating") ? "Extended conformal coating protection" : 
+      drive.description.includes("conformal coating") ? "Conformal coating protection" : "",
+    "Advanced energy-saving algorithms",
+    "Enhanced system protection",
+    "Integrated PLC functionality",
+    drive.description.includes("Ethernet") ? "Built-in Ethernet connectivity" : "USB programming port"
+  ].filter(Boolean),
+  downloads: [
+    {
+      name: "FR-A800 Plus Series Catalog",
+      url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+      type: "pdf" as const
+    },
+    {
+      name: "MilServo J2 Super Brochure",
+      url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+      type: "pdf" as const
+    }
+  ]
+}))]
 
 // Helper functions for product management
 export const getMitsubishiProductsByCategory = (category: string): Product[] => {
