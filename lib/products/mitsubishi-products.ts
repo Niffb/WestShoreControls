@@ -311,6 +311,11 @@ export const mitsubishiProducts: Product[] = [
         name: "FR-A800 Plus Series Technical Guide",
         url: "/downloads/mitsubishi/drives/fr-a800-plus-technical.pdf",
         type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
       }
     ]
   },
@@ -351,6 +356,11 @@ export const mitsubishiProducts: Product[] = [
       {
         name: "FR-A800 Plus Series Technical Guide",
         url: "/downloads/mitsubishi/drives/fr-a800-plus-technical.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
         type: "pdf"
       }
     ]
