@@ -3,24 +3,7 @@
 // Created on: 2025-01-27
 // Updated: 2025-01-27 - Fixed image paths to reference actual available images from GitHub CDN
 
-export interface Product {
-  id: number
-  name: string
-  model?: string
-  brand: string
-  category: string
-  description: string
-  price?: number
-  originalPrice?: number
-  rating: number
-  reviews: number
-  images: string[]
-  badge?: string
-  inStock: boolean
-  specs?: string[]
-  url?: string
-  features?: string[]
-}
+import { Product } from '@/lib/types/shared-types'
 
 export const lsIndustrialProducts: Product[] = [
   // XGT Series PLC Controllers
