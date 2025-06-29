@@ -93,6 +93,11 @@ public/*
 !public/images/
 !public/assets/
 !public/downloads/
+!public/favicon.ico
+!public/favicon.svg
+!public/manifest.json
+!public/robots.txt
+!public/apple-touch-icon.png
 
 # Storybook build outputs
 .out

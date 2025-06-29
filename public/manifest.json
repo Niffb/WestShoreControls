@@ -1,0 +1,31 @@
+{
+  "name": "Westshore Controls",
+  "short_name": "Westshore",
+  "description": "VAR (Value-Added Reseller) for TMEIC products and authorized distributor of Erico, Elsteel, Katko, and LS product lines.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ef4444",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/brands/westlogo.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    }
+  ]
+} 
