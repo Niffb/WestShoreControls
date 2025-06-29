@@ -37,6 +37,11 @@ export default function ProductModal({ product, isOpen, onClose, getProductImage
       return getProductImage(product)
     }
     
+    // Special handling for A800 drives
+    if (product.name?.includes("A800")) {
+      return getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")
+    }
+    
     // Otherwise, handle internally
     if (imageError) {
       return getFallbackImageUrl(product.images?.[0] || 'products/placeholder.jpg')
@@ -193,17 +198,9 @@ export default function ProductModal({ product, isOpen, onClose, getProductImage
                       priority
                       onError={handleImageError}
                     />
-                    {product.badge && (
+                    {product.badge && product.category !== "Variable Frequency Drives" && (
                       <div className="absolute top-4 left-4 bg-red-600 text-white px-3 py-1 rounded-full text-sm font-medium shadow-lg">
                         {product.badge}
-                      </div>
-                    )}
-                    {!product.inStock && (
-                      <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
-                        <div className="bg-white text-gray-900 px-6 py-3 rounded-xl font-semibold shadow-lg flex items-center gap-2">
-                          <ExclamationTriangleIcon className="h-5 w-5 text-orange-500" />
-                          Out of Stock
-                        </div>
                       </div>
                     )}
                   </div>

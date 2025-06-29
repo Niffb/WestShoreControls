@@ -193,13 +193,6 @@ const ProductCard = memo(({
                 <div className="w-6 h-6 bg-gray-400 rounded"></div>
               </div>
             )}
-            
-            {/* Stock status indicator */}
-            <div className="absolute -top-1 -right-1">
-              <div className={`w-3 h-3 rounded-full border-2 border-white ${
-                product.inStock ? 'bg-green-500' : 'bg-red-500'
-              }`} />
-            </div>
           </div>
 
           {/* Product Info */}
@@ -247,7 +240,7 @@ const ProductCard = memo(({
         )}
         
         {/* Badge */}
-        {product.badge && (
+        {product.badge && product.category !== "Variable Frequency Drives" && (
           <div className="absolute top-3 left-3 z-10">
             <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800">
               {product.badge}
@@ -255,21 +248,10 @@ const ProductCard = memo(({
           </div>
         )}
 
-        {/* Stock status */}
-        <div className="absolute top-3 right-3 z-10">
-          <span className={`inline-flex items-center px-2 py-1 rounded-full text-xs font-medium ${
-            product.inStock 
-              ? 'bg-green-100 text-green-800' 
-              : 'bg-red-100 text-red-800'
-          }`}>
-            {product.inStock ? 'In Stock' : 'Out of Stock'}
-          </span>
-        </div>
-
         {/* Lazy load images only when in view */}
         {inView && product.images[0] && !imageError ? (
           <Image
-            src={getImageUrl(product.images[0])}
+            src={product.name?.includes("A800") ? getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg") : getImageUrl(product.images[0])}
             alt={`${product.name} - ${product.brand}`}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"

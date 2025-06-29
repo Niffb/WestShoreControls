@@ -152,7 +152,7 @@ export default function FeaturedProducts() {
                     {product.images[0] && product.images[0] !== "products/placeholder.jpg" ? (
                       <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center transition-all duration-500 group-hover:from-primary-50 group-hover:to-primary-100">
                         <img
-                          src={getImageUrl(product.images[0])}
+                          src={product.name.includes("A800") ? getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg") : getImageUrl(product.images[0])}
                           alt={product.name}
                           className="w-full h-full object-contain p-4 transform group-hover:scale-110 transition-transform duration-500"
                           onError={(e) => {
@@ -185,14 +185,6 @@ export default function FeaturedProducts() {
                       )}
                     </button>
 
-                    {/* Stock Status */}
-                    {!product.inStock && (
-                      <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center animate-fade-in">
-                        <span className="bg-white text-gray-900 px-4 py-2 rounded-lg font-semibold">
-                          Out of Stock
-                        </span>
-                      </div>
-                    )}
                   </div>
 
                   {/* Product Info */}
