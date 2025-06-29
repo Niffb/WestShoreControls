@@ -1,4 +1,4 @@
-import { Product } from './products'
+import { Product } from '@/lib/types/shared-types'
 
 // TMEIC Products based on scraped data
 // Organized by main categories: Variable Frequency Drives, PV Inverters, Energy Storage, Motors, Controllers

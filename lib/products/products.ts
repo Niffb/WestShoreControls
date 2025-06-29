@@ -1,3 +1,4 @@
+import { Product } from '@/lib/types/shared-types'
 import { klemsanProducts } from './klemsan-products'
 import { mitsubishiProducts } from './mitsubishi-products'
 import { tmeicProducts } from './tmeic-products'
@@ -13,26 +14,6 @@ import { noarkSPDProducts } from './noark-spd-products'
 import { noarkSwitchesProducts } from './noark-switches-products'
 import { noarkEnclosedBreakersProducts } from './noark-enclosed-breakers-products'
 import { noarkFuseHoldersProducts } from './noark-fuse-holders-products'
-
-// Product interface
-export interface Product {
-  id: number
-  name: string
-  model?: string
-  brand: string
-  category: string
-  description: string
-  price?: number
-  originalPrice?: number
-  rating: number
-  reviews: number
-  images: string[]
-  badge?: string
-  inStock: boolean
-  specs?: string[]
-  url?: string
-  features?: string[]
-}
 
 // Generate random realistic prices based on product type
 const generatePrice = (category: string, name: string): { price: number; originalPrice?: number } => {
@@ -599,7 +580,7 @@ export const getProductsByBrandEnhanced = (brand: string): Product[] => {
 }
 
 // Filtered products that exclude items with "Product found on" descriptions, category page URLs, and generic descriptions
-export const cleanProducts = allProducts.filter(product => {
+export const cleanProducts: Product[] = allProducts.filter(product => {
   // Remove products with generic placeholder descriptions
   if (product.description.match(/^High-quality .* from .*/)) {
     return false

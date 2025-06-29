@@ -1,4 +1,4 @@
-import { Product } from './products'
+import { Product } from '@/lib/types/shared-types'
 import { getImageUrl } from '@/lib/config/image-config'
 
 // Mitsubishi Electric Factory Automation Products

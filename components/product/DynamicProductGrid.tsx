@@ -14,21 +14,7 @@ import {
   imagePreloader,
   createMemoizedFilter
 } from '@/lib/utils/performance-utils'
-
-interface Product {
-  id: number
-  name: string
-  brand: string
-  category: string
-  description: string
-  rating: number
-  images: string[]
-  inStock: boolean
-  badge?: string
-  specs?: string[]
-  model?: string
-  url?: string
-}
+import { Product } from '@/lib/types/shared-types'
 
 interface DynamicProductGridProps {
   products: Product[]
