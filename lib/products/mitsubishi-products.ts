@@ -378,6 +378,18 @@ export const mitsubishiProducts: Product[] = [
       "Enhanced system protection",
       "Integrated PLC functionality",
       "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
     ]
   },
   {
@@ -404,6 +416,18 @@ export const mitsubishiProducts: Product[] = [
       "Enhanced system protection",
       "Integrated PLC functionality",
       "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
     ]
   },
   {
@@ -413,23 +437,36 @@ export const mitsubishiProducts: Product[] = [
     brand: "Mitsubishi",
     category: "Variable Frequency Drives",
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
-    rating: 4.9,
-    reviews: 14,
+    rating: 4.7,
+    reviews: 16,
     images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
       "Power: 750W / 0.75kW / 1HP",
       "Current: 2.5A (ND Normal Duty)",
+      "Frequency: 0.2-590Hz",
       "Conformal coating",
       "FM terminal (PTO output)"
     ],
     features: [
-      "Conformal coating protection",
       "Advanced energy-saving algorithms",
       "Enhanced system protection",
       "Integrated PLC functionality",
-      "USB programming port"
+      "USB programming port",
+      "Conformal coating protection"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
     ]
   },
   {
@@ -456,6 +493,18 @@ export const mitsubishiProducts: Product[] = [
       "Enhanced system protection",
       "Integrated PLC functionality",
       "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
     ]
   },
   {
@@ -482,6 +531,18 @@ export const mitsubishiProducts: Product[] = [
       "Enhanced system protection",
       "Integrated PLC functionality",
       "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
     ]
   },
   {
@@ -508,6 +569,18 @@ export const mitsubishiProducts: Product[] = [
       "Enhanced system protection",
       "Integrated PLC functionality",
       "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
     ]
   },
 
@@ -593,6 +666,521 @@ export const mitsubishiProducts: Product[] = [
       "Real-time monitoring",
       "Touch screen technology",
       "Process visualization"
+    ]
+  },
+
+  // Added A800 Series Inverters from mitsu-a-drives.json
+  {
+    id: 50050,
+    name: "FR-A820-00046-2-60 A800 Plus Series Inverter",
+    model: "FR-A820-00046-2-60",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + CA term (0-20mA) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz",
+    rating: 4.8,
+    reviews: 16,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 200-240VAC (3-phase)",
+      "Power: 400W / 0.4kW / 1/2HP",
+      "Current: 3A (ND Normal Duty)",
+      "Frequency: 0.2-590Hz",
+      "Conformal coating",
+      "CA terminal (0-20mA)"
+    ],
+    features: [
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port",
+      "Conformal coating protection"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50051,
+    name: "FR-A820-00046-E1N6 A800 Plus Series Inverter",
+    model: "FR-A820-00046-E1N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 22,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 200-240VAC (3-phase)",
+      "Power: 400W / 0.4kW / 1/2HP",
+      "Current: 3A (ND Normal Duty)",
+      "Ethernet card included",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Built-in Ethernet connectivity",
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50052,
+    name: "FR-A820-00077-1-60 A800 Plus Series Inverter",
+    model: "FR-A820-00077-1-60",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz",
+    rating: 4.7,
+    reviews: 18,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 200-240VAC (3-phase)",
+      "Power: 750W / 0.75kW / 1HP",
+      "Current: 5A (ND Normal Duty)",
+      "Frequency: 0.2-590Hz",
+      "Conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port",
+      "Conformal coating protection"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50053,
+    name: "FR-A820-00077-1-N6 A800 Plus Series Inverter",
+    model: "FR-A820-00077-1-N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty)",
+    rating: 4.8,
+    reviews: 19,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 200-240VAC (3-phase)",
+      "Power: 750W / 0.75kW / 1HP",
+      "Current: 5A (ND Normal Duty)",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50054,
+    name: "FR-A820-00077-E1N6 A800 Plus Series Inverter",
+    model: "FR-A820-00077-E1N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 21,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 200-240VAC (3-phase)",
+      "Power: 750W / 0.75kW / 1HP",
+      "Current: 5A (ND Normal Duty)",
+      "Ethernet card included",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Built-in Ethernet connectivity",
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50055,
+    name: "FR-A840-00023-1-N6 A800 Plus Series Inverter",
+    model: "FR-A840-00023-1-N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 1.5A (ND Normal Duty)",
+    rating: 4.8,
+    reviews: 17,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 400W / 0.4kW / 1/2HP",
+      "Current: 1.5A (ND Normal Duty)",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50056,
+    name: "FR-A840-00023-E1N6 A800 Plus Series Inverter",
+    model: "FR-A840-00023-E1N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 1.5A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 23,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 400W / 0.4kW / 1/2HP",
+      "Current: 1.5A (ND Normal Duty)",
+      "Ethernet card included",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Built-in Ethernet connectivity",
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50057,
+    name: "FR-A840-00038-1-60 A800 Plus Series Inverter",
+    model: "FR-A840-00038-1-60",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty) - frequency (output) 0.2-590Hz",
+    rating: 4.7,
+    reviews: 16,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 750W / 0.75kW / 1HP",
+      "Current: 2.5A (ND Normal Duty)",
+      "Frequency: 0.2-590Hz",
+      "Conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port",
+      "Conformal coating protection"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50058,
+    name: "FR-A840-00038-1-N6 A800 Plus Series Inverter",
+    model: "FR-A840-00038-1-N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
+    rating: 4.8,
+    reviews: 18,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 750W / 0.75kW / 1HP",
+      "Current: 2.5A (ND Normal Duty)",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50059,
+    name: "FR-A840-00038-E1N6 A800 Plus Series Inverter",
+    model: "FR-A840-00038-E1N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 22,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 750W / 0.75kW / 1HP",
+      "Current: 2.5A (ND Normal Duty)",
+      "Ethernet card included",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Built-in Ethernet connectivity",
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50060,
+    name: "FR-A840-00052-1-60 A800 Plus Series Inverter",
+    model: "FR-A840-00052-1-60",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 1.5kW / 2HP - 4A (ND Normal Duty) - frequency (output) 0.2-590Hz",
+    rating: 4.8,
+    reviews: 19,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 1.5kW / 2HP",
+      "Current: 4A (ND Normal Duty)",
+      "Frequency: 0.2-590Hz",
+      "Conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port",
+      "Conformal coating protection"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50061,
+    name: "FR-A840-00052-1-N6 A800 Plus Series Inverter",
+    model: "FR-A840-00052-1-N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 1.5kW / 2HP - 4A (ND Normal Duty)",
+    rating: 4.8,
+    reviews: 20,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 1.5kW / 2HP",
+      "Current: 4A (ND Normal Duty)",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality",
+      "USB programming port"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  {
+    id: 50062,
+    name: "FR-A840-00052-E1N6 A800 Plus Series Inverter",
+    model: "FR-A840-00052-E1N6",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 1.5kW / 2HP - 4A (ND Normal Duty)",
+    rating: 4.9,
+    reviews: 25,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    inStock: true,
+    badge: "IN STOCK",
+    specs: [
+      "Input: 380-500VAC (3-phase)",
+      "Power: 1.5kW / 2HP",
+      "Current: 4A (ND Normal Duty)",
+      "Ethernet card included",
+      "Extended conformal coating",
+      "FM terminal (PTO output)"
+    ],
+    features: [
+      "Built-in Ethernet connectivity",
+      "Extended conformal coating protection",
+      "Advanced energy-saving algorithms",
+      "Enhanced system protection",
+      "Integrated PLC functionality"
+    ],
+    downloads: [
+      {
+        name: "FR-A800 Plus Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
+        type: "pdf"
+      },
+      {
+        name: "MilServo J2 Super Brochure",
+        url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
+        type: "pdf"
+      }
     ]
   }
 ]
