@@ -1,6 +1,16 @@
 import { Product } from '@/lib/types/shared-types'
 import { getImageUrl } from '@/lib/config/image-config'
 import mitsuADrives from '../../mitsu-a-drives.json'
+import frDrives from '../../fra860.json'
+
+// Define types for the JSON data
+interface DriveData {
+  brand: string;
+  sku: string;
+  description: string;
+  availability: string;
+  categories: string[];
+}
 
 // Mitsubishi Electric Factory Automation Products
 // Enhanced with deep scraped data from official Mitsubishi website
@@ -1193,50 +1203,68 @@ export const mitsubishiProducts: Product[] = [
         type: "pdf"
       }
     ]
-  }
-,
-
-// Then, integrate all drives from mitsu-a-drives.json
-...mitsuADrives.map((drive, index) => ({
-  id: 51000 + index, // Start from 51000 to avoid ID conflicts
-  name: drive.sku,
-  model: drive.sku,
-  brand: "Mitsubishi",
-  category: "Variable Frequency Drives",
-  description: drive.description,
-  rating: 4.8,
-  reviews: Math.floor(Math.random() * 30) + 10,
-  images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
-  inStock: drive.availability === "IN STOCK",
-  badge: drive.availability === "IN STOCK" ? "IN STOCK" : undefined,
-  specs: [
-    `Input: ${drive.description.includes("380Vac-500Vac") ? "380-500VAC" : "200-240VAC"} (3-phase)`,
-    `Power: ${drive.description.match(/\d+(\.\d+)?kW/)?.[0] || "N/A"}`,
-    `Current: ${drive.description.match(/\d+A \(ND Normal Duty\)/)?.[0]?.replace(' (ND Normal Duty)', '') || "N/A"}`,
-    drive.description.includes("conformal coating") ? "Conformal coating" : "",
-    drive.description.includes("Ethernet") ? "Ethernet card included" : ""
-  ].filter(Boolean),
-  features: [
-    drive.description.includes("extended conformal coating") ? "Extended conformal coating protection" : 
-      drive.description.includes("conformal coating") ? "Conformal coating protection" : "",
-    "Advanced energy-saving algorithms",
-    "Enhanced system protection",
-    "Integrated PLC functionality",
-    drive.description.includes("Ethernet") ? "Built-in Ethernet connectivity" : "USB programming port"
-  ].filter(Boolean),
-  downloads: [
-    {
-      name: "FR-A800 Plus Series Catalog",
-      url: "/downloads/mitsubishi/drives/fr-a800-plus-catalog.pdf",
-      type: "pdf" as const
-    },
-    {
-      name: "MilServo J2 Super Brochure",
-      url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
-      type: "pdf" as const
-    }
-  ]
-}))]
+  },
+  
+  // Add FR-A860 Series drives from JSON
+  ...(frDrives as DriveData[]).map((drive, index) => ({
+    id: 51000 + index,
+    name: `Mitsubishi ${drive.sku} Inverter`,
+    model: drive.sku,
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: drive.description,
+    price: undefined,
+    rating: 4.7,
+    reviews: 84,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800.jpg")],
+    inStock: drive.availability === "IN STOCK",
+    badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
+    specs: [
+      "FR-A800 Series VFD/Inverter",
+      drive.description.includes("600Vac") ? "600VAC Input" : "Input voltage varies by model",
+      drive.description.match(/\d+HP/) ? drive.description.match(/\d+HP/)[0] : "Multiple HP ratings available",
+      "Frequency output 0.2-590Hz"
+    ],
+    url: "https://gb.mitsubishielectric.com/fa/products",
+    features: [
+      "Precise motor control",
+      "Energy saving operation",
+      "Multiple communication options",
+      "Advanced protection functions"
+    ]
+  })),
+  
+  // Add FREQROL A800 Plus drives from existing JSON
+  ...(mitsuADrives as DriveData[]).map((drive, index) => ({
+    id: 52000 + index,
+    name: `Mitsubishi ${drive.sku} Inverter`,
+    model: drive.sku,
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    description: drive.description,
+    price: undefined,
+    rating: 4.8,
+    reviews: 76,
+    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800.jpg")],
+    inStock: drive.availability === "IN STOCK",
+    badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
+    specs: [
+      "FREQROL FR-A800 Plus Series",
+      drive.description.match(/\d+HP/) ? drive.description.match(/\d+HP/)[0] : 
+        drive.description.match(/\d+kW/) ? drive.description.match(/\d+kW/)[0] : "Multiple power ratings",
+      drive.description.includes("200Vac") ? "200-240VAC Input" : 
+        drive.description.includes("380Vac") ? "380-500VAC Input" : "Input voltage varies by model",
+      "Frequency output 0.2-590Hz"
+    ],
+    url: "https://gb.mitsubishielectric.com/fa/products",
+    features: [
+      "Advanced drive technology",
+      "High-performance motor control",
+      "Multiple communication options",
+      "Built-in safety functions"
+    ]
+  }))
+]
 
 // Helper functions for product management
 export const getMitsubishiProductsByCategory = (category: string): Product[] => {
@@ -1249,8 +1277,8 @@ export const searchMitsubishiProducts = (query: string): Product[] => {
     product.name.toLowerCase().includes(lowercaseQuery) ||
     product.description.toLowerCase().includes(lowercaseQuery) ||
     product.category.toLowerCase().includes(lowercaseQuery) ||
-    product.specs.some(spec => spec.toLowerCase().includes(lowercaseQuery)) ||
-    product.features.some(feature => feature.toLowerCase().includes(lowercaseQuery))
+    (product.specs && product.specs.some(spec => spec.toLowerCase().includes(lowercaseQuery))) ||
+    (product.features && product.features.some(feature => feature.toLowerCase().includes(lowercaseQuery)))
   )
 }
 
