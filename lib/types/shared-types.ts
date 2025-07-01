@@ -1,10 +1,12 @@
 // Shared types used across multiple product files
+
 export interface Product {
   id: number
   name: string
   model?: string
   brand: string
   category: string
+  subcategory?: string
   description: string
   price?: number
   originalPrice?: number

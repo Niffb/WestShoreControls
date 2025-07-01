@@ -20,10 +20,11 @@ const frfDriveProducts: Product[] = frFDrives.map((drive, index) => ({
   model: drive.model,
   brand: "Mitsubishi",
   category: "Variable Frequency Drives",
+  subcategory: "FR-F800 Series Inverters",
   description: drive.description || "Mitsubishi FR-F800 Series Variable Frequency Drive",
   rating: 4.8,
   reviews: Math.floor(Math.random() * 20) + 5,
-  images: [getImageUrl("mitsubishi/mitsubishi-electric-FA-f800.jpg")],
+  images: [getImageUrl("assets/images/products/mitsubishi/mitsubishi-electric-FA-f800.jpg")],
   inStock: drive.availability === "IN STOCK",
   specs: [
     "FREQROL FR-F800 Series",
@@ -346,6 +347,7 @@ export const mitsubishiProducts: Product[] = [
     model: "FR-A800 Plus",
     brand: "Mitsubishi",
     category: "Variable Frequency Drives",
+    subcategory: "FR-A800 Plus Series Inverters",
     description: "The FREQROL-A800 Plus Series inverters represent Mitsubishi Electric's premium line of variable frequency drives, offering advanced motor control, enhanced energy savings, and superior system integration capabilities. These drives support various industrial applications with features like extended conformal coating, Ethernet connectivity, and high-precision motor control.",
     price: null,
     rating: 4.9,
@@ -406,6 +408,7 @@ export const mitsubishiProducts: Product[] = [
     model: "FR-A820-00046-1-60",
     brand: "Mitsubishi",
     category: "Variable Frequency Drives",
+    subcategory: "FR-A800 Plus Series Inverters",
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 15,
@@ -450,6 +453,7 @@ export const mitsubishiProducts: Product[] = [
     model: "FR-A820-00046-1-N6",
     brand: "Mitsubishi",
     category: "Variable Frequency Drives",
+    subcategory: "FR-A800 Plus Series Inverters",
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 12,
@@ -488,6 +492,7 @@ export const mitsubishiProducts: Product[] = [
     model: "FR-A840-00023-1-60",
     brand: "Mitsubishi",
     category: "Variable Frequency Drives",
+    subcategory: "FR-A800 Plus Series Inverters",
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 1.5A (ND Normal Duty)",
     rating: 4.9,
     reviews: 18,
@@ -526,6 +531,7 @@ export const mitsubishiProducts: Product[] = [
     model: "FR-A840-00038-1-60",
     brand: "Mitsubishi",
     category: "Variable Frequency Drives",
+    subcategory: "FR-A800 Plus Series Inverters",
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
     rating: 4.7,
     reviews: 16,
@@ -1341,6 +1347,27 @@ export const mitsubishiProducts: Product[] = [
 // Helper functions for product management
 export const getMitsubishiProductsByCategory = (category: string): Product[] => {
   return mitsubishiProducts.filter(product => product.category === category)
+}
+
+export const getMitsubishiProductsByCategoryAndSubcategory = (category: string, subcategory: string): Product[] => {
+  return mitsubishiProducts.filter((product) => 
+    product.category === category && 
+    product.subcategory === subcategory
+  )
+}
+
+export const getMitsubishiSubcategoriesByCategory = (category: string): string[] => {
+  const subcategories = new Set<string>()
+  
+  mitsubishiProducts
+    .filter(product => product.category === category && product.subcategory)
+    .forEach(product => {
+      if (product.subcategory) {
+        subcategories.add(product.subcategory)
+      }
+    })
+    
+  return Array.from(subcategories)
 }
 
 export const searchMitsubishiProducts = (query: string): Product[] => {
