@@ -14,6 +14,11 @@ const MitsubishiDrivesSection: React.FC = () => {
       type: "pdf" as const
     },
     {
+      name: "FR-F800 Series Catalog",
+      url: "/downloads/mitsubishi/drives/fr-f800-catalog.pdf",
+      type: "pdf" as const
+    },
+    {
       name: "MilServo J2 Super Brochure",
       url: "/downloads/mitsubishi/drives/MilServo-J2-Super-Brochure.pdf",
       type: "pdf" as const
@@ -38,6 +43,24 @@ const MitsubishiDrivesSection: React.FC = () => {
         offering advanced motor control, enhanced energy savings, and superior system 
         integration capabilities for various industrial applications.
       </p>
+      
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-12">
+        <div className="bg-slate-50 p-6 rounded-lg shadow-sm">
+          <h3 className="text-xl font-semibold mb-3">FR-A800 Series</h3>
+          <p className="text-gray-700">
+            The premium inverter with advanced functionality and enhanced drive control capability.
+            Ideal for precise motion control and applications requiring high-performance drives.
+          </p>
+        </div>
+        <div className="bg-slate-50 p-6 rounded-lg shadow-sm">
+          <h3 className="text-xl font-semibold mb-3">FR-F800 Series</h3>
+          <p className="text-gray-700">
+            Designed specifically for fan, pump, and HVAC applications with exceptional 
+            energy-saving features and optimized performance for fluid flow control.
+            These drives excel in applications where continuous, efficient operation is critical.
+          </p>
+        </div>
+      </div>
       
       <DynamicProductGrid products={mitsubishiDrives} />
       

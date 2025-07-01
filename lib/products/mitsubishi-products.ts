@@ -1,7 +1,8 @@
 import { Product } from '@/lib/types/shared-types'
 import { getImageUrl } from '@/lib/config/image-config'
-import mitsuADrives from '../../mitsu-a-drives.json'
-import frDrives from '../../fra860.json'
+import mitsuADrives from '@/lib/data/mitsu-a-drives.json'
+import frDrives from '@/lib/data/fra860.json'
+import frFDrives from '@/lib/data/fr-f.json'
 
 // Define types for the JSON data
 interface DriveData {
@@ -11,6 +12,39 @@ interface DriveData {
   availability: string;
   categories: string[];
 }
+
+// FR-F drives mapping from the imported JSON data
+const frfDriveProducts: Product[] = frFDrives.map((drive, index) => ({
+  id: 51000 + index, // Starting from 51000 to avoid ID conflicts
+  name: `${drive.model} FR-F800 Series Inverter`,
+  model: drive.model,
+  brand: "Mitsubishi",
+  category: "Variable Frequency Drives",
+  description: drive.description || "Mitsubishi FR-F800 Series Variable Frequency Drive",
+  rating: 4.8,
+  reviews: Math.floor(Math.random() * 20) + 5,
+  images: [getImageUrl("mitsubishi/mitsubishi-electric-FA-f800.jpg")],
+  inStock: drive.availability === "IN STOCK",
+  specs: [
+    "FREQROL FR-F800 Series",
+    "Optimized for fans, pumps and compressors",
+    "High energy savings",
+    "Robust design for industrial environments"
+  ],
+  features: [
+    "Energy optimization algorithms",
+    "Advanced environmental resistance",
+    "Modbus RTU/Ethernet communication",
+    "Wide output frequency range (0.2-590Hz)"
+  ],
+  downloads: [
+    {
+      name: "FR-F800 Series Catalog",
+      url: "/downloads/mitsubishi/drives/fr-f800-catalog.pdf",
+      type: "pdf"
+    }
+  ]
+}));
 
 // Mitsubishi Electric Factory Automation Products
 // Enhanced with deep scraped data from official Mitsubishi website
@@ -1251,7 +1285,7 @@ export const mitsubishiProducts: Product[] = [
     price: undefined,
     rating: 4.7,
     reviews: 84,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800.jpg")],
+    images: [getImageUrl("assets/images/products/mitsubishi/mitsubishi-electric-FA-a800.webp")],
     inStock: drive.availability === "IN STOCK",
     badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
     specs: [
@@ -1280,7 +1314,7 @@ export const mitsubishiProducts: Product[] = [
     price: undefined,
     rating: 4.8,
     reviews: 76,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800.jpg")],
+    images: [getImageUrl("assets/images/products/mitsubishi/mitsubishi-electric-FA-a800.webp")],
     inStock: drive.availability === "IN STOCK",
     badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
     specs: [
@@ -1298,7 +1332,10 @@ export const mitsubishiProducts: Product[] = [
       "Multiple communication options",
       "Built-in safety functions"
     ]
-  }))
+  })),
+
+  // Add FR-F drives from frFDrives JSON
+  ...frfDriveProducts
 ]
 
 // Helper functions for product management
