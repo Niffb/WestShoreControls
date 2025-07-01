@@ -145,6 +145,40 @@ export const mitsubishiProducts: Product[] = [
     ]
   },
 
+  {
+    id: 50007,
+    name: "MELSEC-A Series AnS/QnAS",
+    model: "AnS/QnAS",
+    brand: "Mitsubishi",
+    category: "Controllers",
+    description: "The MELSEC-A series AnS/QnAS programmable controllers provide reliable control solutions with compact design and proven performance for various industrial applications.",
+    price: 1250,
+    rating: 4.5,
+    reviews: 95,
+    images: [getImageUrl("mitsubishi/controllers/melsec-a-series.webp")],
+    inStock: true,
+    specs: [
+      "Compact design",
+      "Reliable performance",
+      "Industrial automation control",
+      "Legacy system compatibility"
+    ],
+    url: "https://gb.mitsubishielectric.com/fa/products/cnt/plc",
+    features: [
+      "Proven reliability",
+      "Compatible with existing systems",
+      "Simple operation",
+      "Cost-effective control solution"
+    ],
+    downloads: [
+      {
+        name: "MELSEC-A Series - AnS-QnAS - Catalog",
+        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMTAvMDcvMTgvMDFlODk2N2ItMWU2Ny00NzgyLTk0ZjktNzhlMmI4Y2M5ZWQxL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBNRUxTRUMtQSUyMHNlcmllcyUyMC0lMjBBblMtUW5BUyUyMC0lMjBDYXRhbG9nLnBkZiJdXQ?sha=bb98a8752073672e",
+        type: "pdf"
+      }
+    ]
+  },
+
   // Controllers - Simple Application Controllers
   {
     id: 50005,
@@ -338,7 +372,7 @@ export const mitsubishiProducts: Product[] = [
     model: "FR-A820-00046-1-60",
     brand: "Mitsubishi",
     category: "Variable Frequency Drives",
-    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz",
+    description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 15,
     images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
