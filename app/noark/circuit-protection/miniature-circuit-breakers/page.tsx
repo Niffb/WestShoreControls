@@ -8,14 +8,18 @@ import { noarkMCBProducts } from '@/lib/products/noark-mcb-products';
 // Metadata for SEO
 export const metadata: Metadata = {
   title: 'NOARK Miniature Circuit Breakers | West Shore Controls',
-  description: 'Explore NOARK\'s range of high-quality Miniature Circuit Breakers (MCBs) including the B1N series. Reliable protection for electrical installations with multiple configurations.',
-  keywords: 'NOARK, Miniature Circuit Breakers, MCB, B1N Series, circuit protection, electrical equipment',
+  description: 'Explore NOARK\'s range of high-quality Miniature Circuit Breakers (MCBs) including the B1N and B1H series. Reliable protection for electrical installations with multiple configurations.',
+  keywords: 'NOARK, Miniature Circuit Breakers, MCB, B1N Series, B1H Series, circuit protection, electrical equipment',
 };
 
 export default function NoarkMCBPage() {
   // Count the number of B1N products for display
   const b1nProductCount = noarkMCBProducts.filter(product => 
     product.model && product.model.startsWith('B1N')).length;
+  
+  // Count the number of B1H products for display
+  const b1hProductCount = noarkMCBProducts.filter(product => 
+    product.model && product.model.startsWith('B1H')).length;
 
   const subcategories = [
     {
@@ -28,6 +32,19 @@ export default function NoarkMCBPage() {
         'Multiple pole configurations (1P, 2P, 3P)',
         'B, C, and D trip curves',
         '10kA interrupting rating',
+        'Box lug and ring tongue connections',
+      ],
+    },
+    {
+      name: 'B1H Series',
+      description: 'B1H series Miniature Circuit Breakers (MCB) - UL 489 compliant with multiple pole configurations and trip curve options.',
+      image: '/assets/images/categories/Miniature Circuit Breakers/B1H Series Breakers.avif',
+      url: '/noark/circuit-protection/miniature-circuit-breakers/b1h',
+      productCount: b1hProductCount,
+      features: [
+        'Multiple pole configurations (1P, 2P, 3P)',
+        'B, C, and D trip curves',
+        '10kA interrupting rating (480Y/277Vac)',
         'Box lug and ring tongue connections',
       ],
     },

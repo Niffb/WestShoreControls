@@ -3,6 +3,8 @@ import { Product } from '@/lib/types/shared-types';
 // Manually import B1N data to ensure compatibility with Next.js server components
 // Instead of dynamic file reading, we'll import a JSON file directly
 import b1nJsonData from '@/lib/data/noark/B1n.json';
+// Import B1H data
+import b1hJsonData from '@/lib/data/noark/B1h.json';
 
 // Convert B1N data to Product format
 const convertB1NDataToProduct = () => {
@@ -40,6 +42,46 @@ const convertB1NDataToProduct = () => {
     });
   } catch (error) {
     console.error("Error converting B1N data:", error);
+    return [];
+  }
+};
+
+// Convert B1H data to Product format
+const convertB1HDataToProduct = () => {
+  try {
+    // Convert B1H data to Product format
+    return (b1hJsonData as any[]).map((item: any, index: number) => {
+      const id = 7000 + index;
+      const model = item.model;
+      const name = `${model} - ${item.rated_current} ${item.poles} ${item.trip_curve} MCB`;
+      
+      return {
+        id,
+        name,
+        description: `${item.description} - ${item.series} - ${item.poles} - ${item.rated_current} - ${item.trip_curve} - ${item.rated_voltage} - ${item.interrupting_rating} - ${item.connections} - ${item.mounting}`,
+        category: 'Miniature Circuit Breakers',
+        brand: item.brand,
+        model,
+        rating: 4.6,
+        reviews: Math.floor(Math.random() * 20) + 5, // Random number of reviews between 5 and 24
+        specs: [
+          `Series: ${item.series}`,
+          `Current Rating: ${item.rated_current}`,
+          `Pole Configuration: ${item.poles}`,
+          `Trip Characteristic: ${item.trip_curve}`,
+          `Voltage Rating: ${item.rated_voltage}`,
+          `Interrupting Rating: ${item.interrupting_rating}`,
+          `Connections: ${item.connections}`,
+          `Mounting: ${item.mounting}`,
+          item.equivalent_to ? `Equivalent to: ${item.equivalent_to}` : null,
+        ].filter(Boolean),
+        images: ['/assets/images/categories/Miniature Circuit Breakers/B1H Series Breakers.avif'],
+        url: `/noark/circuit-protection/miniature-circuit-breakers/b1h/${model.toLowerCase()}`,
+        inStock: true
+      };
+    });
+  } catch (error) {
+    console.error("Error converting B1H data:", error);
     return [];
   }
 };
@@ -536,9 +578,11 @@ const noarkMCBData: Product[] = [
 // Export the products
 // Convert B1N products from the JSON data
 const b1nProducts = convertB1NDataToProduct();
+// Convert B1H products from the JSON data
+const b1hProducts = convertB1HDataToProduct();
 
-// Combine existing MCB products with B1N products
-export const noarkMCBProducts: Product[] = [...noarkMCBData, ...b1nProducts];
+// Combine existing MCB products with B1N and B1H products
+export const noarkMCBProducts: Product[] = [...noarkMCBData, ...b1nProducts, ...b1hProducts];
 
 // Series information
 export const mcbSeries = [

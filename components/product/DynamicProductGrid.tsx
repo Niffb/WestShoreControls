@@ -19,7 +19,7 @@ import { Product } from '@/lib/types/shared-types'
 interface DynamicProductGridProps {
   products: Product[]
   onProductClick?: (product: Product) => void
-  viewMode?: 'grid' | 'list'
+  viewMode?: 'grid' | 'list' | 'table'
   initialLoadCount?: number
   loadIncrement?: number
   enableVirtualScroll?: boolean
@@ -115,7 +115,7 @@ const ProductCard = memo(({
 }: { 
   product: Product
   onClick?: (product: Product) => void
-  viewMode?: 'grid' | 'list'
+  viewMode?: 'grid' | 'list' | 'table'
   index: number
 }) => {
   const [imageLoaded, setImageLoaded] = useState(false)
@@ -155,6 +155,77 @@ const ProductCard = memo(({
         delay: Math.min(index * 0.05, 0.3) // Cap delay at 300ms
       }
     }
+  }
+
+  if (viewMode === 'table') {
+    return (
+      <motion.tr
+        ref={ref}
+        variants={itemVariants}
+        initial="hidden"
+        animate={inView ? "visible" : "hidden"}
+        className="border-b border-gray-200 hover:bg-gray-50 transition-colors duration-150 cursor-pointer"
+        onClick={handleClick}
+      >
+        <td className="p-3">
+          <div className="flex items-center">
+            {/* Small product image */}
+            <div className="relative w-10 h-10 mr-3 bg-gray-100 rounded-md overflow-hidden flex-shrink-0">
+              {inView && product.images[0] && !imageError ? (
+                <Image
+                  src={getImageUrl(product.images[0])}
+                  alt={product.name}
+                  fill
+                  sizes="40px"
+                  className={`object-contain transition-opacity duration-300 ${
+                    imageLoaded ? 'opacity-100' : 'opacity-0'
+                  }`}
+                  onLoad={handleImageLoad}
+                  onError={handleImageError}
+                  loading={index < 20 ? 'eager' : 'lazy'}
+                />
+              ) : (
+                <div className="w-full h-full bg-gray-200"></div>
+              )}
+            </div>
+            
+            {/* Product model/name */}
+            <div>
+              <p className="font-medium text-gray-900">{product.model}</p>
+              <p className="text-xs text-gray-500 truncate">{product.brand}</p>
+            </div>
+          </div>
+        </td>
+        
+        {/* Rating */}
+        <td className="p-3">
+          <div className="flex items-center">
+            <StarSolidIcon className="h-4 w-4 text-yellow-400 mr-1" />
+            <span className="text-sm text-gray-600">{product.rating}</span>
+          </div>
+        </td>
+        
+        {/* Specs (hidden on mobile) */}
+        <td className="p-3 hidden md:table-cell">
+          <p className="text-sm text-gray-600 line-clamp-1">
+            {product.specs?.slice(0, 2).join(' • ')}
+          </p>
+        </td>
+        
+        {/* Status */}
+        <td className="p-3 hidden lg:table-cell">
+          {product.inStock ? (
+            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
+              In Stock
+            </span>
+          ) : (
+            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-red-100 text-red-800">
+              Out of Stock
+            </span>
+          )}
+        </td>
+      </motion.tr>
+    );
   }
 
   if (viewMode === 'list') {
@@ -251,7 +322,7 @@ const ProductCard = memo(({
         {/* Lazy load images only when in view */}
         {inView && product.images[0] && !imageError ? (
           <Image
-            src={product.name?.includes("A800") ? getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg") : getImageUrl(product.images[0])}
+            src={product.name?.includes("A800") ? getImageUrl("assets/images/products/mitsubishi/mitsubishi-electric-FA-a800.webp") : getImageUrl(product.images[0])}
             alt={`${product.name} - ${product.brand}`}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
@@ -326,29 +397,48 @@ const ProductCard = memo(({
 ProductCard.displayName = 'ProductCard'
 
 // Loading skeleton component
-const ProductCardSkeleton = ({ viewMode }: { viewMode: 'grid' | 'list' }) => {
+const ProductCardSkeleton = ({ viewMode }: { viewMode: 'grid' | 'list' | 'table' }) => {
   if (viewMode === 'list') {
     return (
       <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-100">
         <div className="flex items-center space-x-4">
-          <div className="w-16 h-16 bg-gray-200 rounded-lg animate-pulse" />
+          <div className="relative w-16 h-16 bg-gray-200 rounded-lg overflow-hidden flex-shrink-0 animate-pulse"></div>
           <div className="flex-1">
-            <div className="h-4 bg-gray-200 rounded animate-pulse mb-2" />
-            <div className="h-3 bg-gray-200 rounded animate-pulse mb-2 w-3/4" />
-            <div className="h-3 bg-gray-200 rounded animate-pulse w-1/2" />
+            <div className="h-4 bg-gray-200 rounded w-3/4 mb-2 animate-pulse"></div>
+            <div className="h-3 bg-gray-200 rounded w-1/2 mb-2 animate-pulse"></div>
+            <div className="h-3 bg-gray-200 rounded w-full animate-pulse"></div>
           </div>
         </div>
       </div>
     )
   }
+  
+  if (viewMode === 'table') {
+    return (
+      <tr className="border-b border-gray-200">
+        <td className="p-3">
+          <div className="h-4 bg-gray-200 rounded w-3/4 animate-pulse"></div>
+        </td>
+        <td className="p-3">
+          <div className="h-4 bg-gray-200 rounded w-1/2 animate-pulse"></div>
+        </td>
+        <td className="p-3 hidden md:table-cell">
+          <div className="h-4 bg-gray-200 rounded w-full animate-pulse"></div>
+        </td>
+        <td className="p-3 hidden lg:table-cell">
+          <div className="h-4 bg-gray-200 rounded w-1/4 animate-pulse"></div>
+        </td>
+      </tr>
+    )
+  }
 
   return (
     <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100">
-      <div className="h-48 bg-gray-200 animate-pulse" />
+      <div className="h-48 bg-gray-200 animate-pulse"></div>
       <div className="p-4">
-        <div className="h-4 bg-gray-200 rounded animate-pulse mb-2" />
-        <div className="h-3 bg-gray-200 rounded animate-pulse mb-2 w-3/4" />
-        <div className="h-3 bg-gray-200 rounded animate-pulse w-1/2" />
+        <div className="h-5 bg-gray-200 rounded w-3/4 mb-3 animate-pulse"></div>
+        <div className="h-4 bg-gray-200 rounded w-1/2 mb-3 animate-pulse"></div>
+        <div className="h-4 bg-gray-200 rounded w-5/6 animate-pulse"></div>
       </div>
     </div>
   )
@@ -364,59 +454,28 @@ export default function DynamicProductGrid({
   enableVirtualScroll = false,
   enableProgressiveLoading = true
 }: DynamicProductGridProps) {
-  const { startMeasure } = usePerformanceMonitor()
+  // Performance monitoring
+  usePerformanceMonitor()
   
-  // Progressive loading
-  const {
-    visibleItems,
-    hasMore,
-    isLoading,
-    loadMoreRef,
-    displayCount,
+  // Progressive loading setup
+  const { 
+    visibleItems, 
+    hasMore, 
+    isLoading, 
+    loadMoreRef, 
+    displayCount, 
     totalCount,
     loadProgress
   } = useProgressiveLoading(products, {
     initialCount: initialLoadCount,
     increment: loadIncrement,
-    threshold: 0.3
+    threshold: 0.1
   })
-
-  const productsToShow = enableProgressiveLoading ? visibleItems : products
-
-  // Memoize grid layout
-  const gridClassName = useMemo(() => {
-    if (viewMode === 'list') {
-      return 'space-y-4'
-    }
-    return 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6'
-  }, [viewMode])
-
-  // Performance monitoring
-  useEffect(() => {
-    const endMeasure = startMeasure('product-grid-render')
-    return endMeasure
-  }, [productsToShow.length, startMeasure])
-
-  if (products.length === 0) {
-    return (
-      <div className="text-center py-12">
-        <div className="mx-auto h-12 w-12 text-gray-400">
-          <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2 2v-5m16 0h-2M4 13h2m0 0V9a2 2 0 012-2h2m0 0V6a2 2 0 012-2h2m0 0V4" />
-          </svg>
-        </div>
-        <h3 className="mt-2 text-sm font-medium text-gray-900">No products found</h3>
-        <p className="mt-1 text-sm text-gray-500">
-          Try adjusting your search or filter criteria.
-        </p>
-      </div>
-    )
-  }
 
   return (
     <div className="space-y-6">
       {/* Progress indicator */}
-      {enableProgressiveLoading && hasMore && (
+      {enableProgressiveLoading && hasMore && viewMode !== 'table' && (
         <div className="bg-white rounded-lg p-4 border border-gray-200">
           <div className="flex justify-between items-center mb-2">
             <span className="text-sm text-gray-600">
@@ -435,48 +494,86 @@ export default function DynamicProductGrid({
         </div>
       )}
 
-      {/* Product Grid */}
-      <div className={gridClassName}>
-        <AnimatePresence>
-          {productsToShow.map((product, index) => (
-            <ProductCard
-              key={`${product.id}-${product.name}`}
-              product={product}
-              onClick={onProductClick}
-              viewMode={viewMode}
-              index={index}
-            />
-          ))}
-        </AnimatePresence>
-        
-        {/* Loading skeletons */}
-        {isLoading && (
-          <>
-            {Array.from({ length: Math.min(loadIncrement, 4) }).map((_, index) => (
-              <ProductCardSkeleton 
-                key={`skeleton-${index}`} 
+      {/* Table View */}
+      {viewMode === 'table' ? (
+        <div className="bg-white rounded-lg shadow-sm overflow-hidden">
+          <div className="overflow-x-auto">
+            <table className="min-w-full divide-y divide-gray-200">
+              <thead className="bg-gray-50">
+                <tr>
+                  <th scope="col" className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Product
+                  </th>
+                  <th scope="col" className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Rating
+                  </th>
+                  <th scope="col" className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider hidden md:table-cell">
+                    Specifications
+                  </th>
+                  <th scope="col" className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider hidden lg:table-cell">
+                    Status
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="bg-white divide-y divide-gray-200">
+                <AnimatePresence>
+                  {visibleItems.map((product, index) => (
+                    <ProductCard 
+                      key={product.id} 
+                      product={product} 
+                      onClick={onProductClick} 
+                      viewMode="table"
+                      index={index}
+                    />
+                  ))}
+
+                  {/* Loading skeletons */}
+                  {isLoading && 
+                    Array.from({ length: 3 }).map((_, idx) => (
+                      <ProductCardSkeleton key={`skeleton-${idx}`} viewMode="table" />
+                    ))
+                  }
+                </AnimatePresence>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      ) : (
+        <div className={`grid grid-cols-1 ${viewMode === 'grid' ? 'sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4' : ''} gap-4`}>
+          <AnimatePresence>
+            {visibleItems.map((product, index) => (
+              <ProductCard 
+                key={product.id} 
+                product={product} 
+                onClick={onProductClick} 
                 viewMode={viewMode}
+                index={index}
               />
             ))}
-          </>
-        )}
-      </div>
-
-      {/* Load more trigger */}
-      {enableProgressiveLoading && hasMore && (
-        <div ref={loadMoreRef} className="flex justify-center py-8">
-          {isLoading ? (
-            <div className="flex items-center space-x-2 text-gray-500">
-              <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-primary-600"></div>
-              <span>Loading more products...</span>
-            </div>
-          ) : (
-            <div className="text-gray-400 text-sm">
-              Scroll down to load more products
-            </div>
-          )}
+            
+            {/* Loading skeletons */}
+            {isLoading && 
+              Array.from({ length: 3 }).map((_, idx) => (
+                <ProductCardSkeleton key={`skeleton-${idx}`} viewMode={viewMode} />
+              ))
+            }
+          </AnimatePresence>
         </div>
       )}
+
+      {/* Load more trigger */}
+      <div ref={loadMoreRef} className="flex justify-center py-8">
+        {isLoading ? (
+          <div className="flex items-center space-x-2 text-gray-500">
+            <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-primary-600"></div>
+            <span>Loading more products...</span>
+          </div>
+        ) : hasMore ? (
+          <div className="text-gray-400 text-sm">
+            Scroll down to load more products
+          </div>
+        ) : null}
+      </div>
     </div>
-  )
+  );
 } 
