@@ -290,5 +290,5 @@ export const noarkB1NProducts: Product[] = [
   }
 ];
 
-// Export the products
+// Export as both named export and default
 export default noarkB1NProducts; 
