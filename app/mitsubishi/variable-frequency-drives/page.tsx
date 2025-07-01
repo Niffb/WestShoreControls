@@ -11,7 +11,7 @@ const vfdCategories = [
     name: 'FR-A800 Plus Series Inverters',
     slug: 'a800-series',
     description: 'Premium inverters with advanced features and high performance for demanding applications',
-    image: '/images/products/mitsubishi/drives/mitsubishi-electric-FA-a800.webp',
+    image: 'https://cdn.kyklo.co/media/W1siZiIsIjIwMTkvMDUvMjkvMTIvNTAvNDUvMTg4NDI2NzMtMjQ2ZS00OTM2LTk4N2YtMWEwNjBlZGJjNWJmL21pdHN1YmlzaGktZWxlY3RyaWMtRkEtYTgwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQwMHg0MDBcdTAwM2UiXV0.png',
     features: [
       'Advanced energy-saving algorithms',
       'Enhanced system protection features',
@@ -23,7 +23,7 @@ const vfdCategories = [
     name: 'FR-F800 Series Inverters',
     slug: 'f800-series',
     description: 'Specialized for fan and pump applications with optimized energy efficiency',
-    image: '/images/products/mitsubishi/drives/mitsubishi-electric-FA-f800.webp',
+    image: 'https://cdn.kyklo.co/media/W1siZiIsIjIwMTkvMDUvMjkvMTIvNDIvMDAvODI1MjE3Y2QtYzMzZS00Y2YwLTkwMzUtNDZiMGUxNWQ0ZThiL21pdHN1YmlzaGktZWxlY3RyaWMtRkEtZjgwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQwMHg0MDBcdTAwM2UiXV0.png',
     features: [
       'Optimized for HVAC applications',
       'Energy-saving functions',
