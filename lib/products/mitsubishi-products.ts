@@ -214,36 +214,6 @@ export const mitsubishiProducts: Product[] = [
     ]
   },
 
-  // Controllers - CNCs
-  {
-    id: 50007,
-    name: "CNC - Computerized Numerical Controller",
-    model: "CNC",
-    brand: "Mitsubishi",
-    category: "Controllers",
-    description: "CNCs are the core of machine tool systems, which are commonly called the 'mother machine' in the manufacturing industry. Mitsubishi Electric's CNCs are equipped with the latest CPU and high-speed optic servo network, to provide high-speed and high-precision machining.",
-    price: 8500,
-    originalPrice: 9200,
-    rating: 4.9,
-    reviews: 54,
-    images: [getImageUrl("mitsubishi/controllers/cnc-controller.webp")],
-    inStock: true,
-    badge: "Sale",
-    specs: [
-      "Latest CPU technology",
-      "High-speed optic servo network",
-      "High-speed machining",
-      "High-precision control"
-    ],
-    url: "https://gb.mitsubishielectric.com/fa/products/cnt",
-    features: [
-      "Advanced CPU performance",
-      "Optical servo network",
-      "Precision machining control",
-      "Industrial productivity enhancement"
-    ]
-  },
-
   // Drive Products - AC Servos (MELSERVO)
   {
     id: 50008,
