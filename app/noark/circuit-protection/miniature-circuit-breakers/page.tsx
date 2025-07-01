@@ -13,17 +13,34 @@ export const metadata: Metadata = {
 };
 
 export default function NoarkMCBPage() {
+  // Count the number of B1N products for display
+  const b1nProductCount = noarkMCBProducts.filter(product => 
+    product.model && product.model.startsWith('B1N')).length;
+
   const subcategories = [
     {
       name: 'B1N Series',
       description: 'B1N series Miniature Circuit Breakers (MCB) - UL 489 compliant with multiple pole configurations and trip curve options.',
       image: '/assets/images/categories/Miniature Circuit Breakers/B1N Series Breakers.avif',
       url: '/noark/circuit-protection/miniature-circuit-breakers/b1n',
+      productCount: b1nProductCount,
       features: [
         'Multiple pole configurations (1P, 2P, 3P)',
         'B, C, and D trip curves',
         '10kA interrupting rating',
         'Box lug and ring tongue connections',
+      ],
+    },
+    {
+      name: 'Ex9BN Series',
+      description: 'Ex9BN series Miniature Circuit Breakers (MCB) - IEC 60898 compliant with multiple pole configurations and trip curve options.',
+      image: '/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif',
+      url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn',
+      features: [
+        'Multiple pole configurations (1P, 2P, 3P)',
+        'B, C, and D trip curves',
+        '6kA interrupting rating',
+        'DIN rail mounting',
       ],
     },
     // Add more subcategories as they become available
@@ -79,9 +96,16 @@ export default function NoarkMCBPage() {
               
               {/* Content */}
               <div className="p-6">
-                <h3 className="text-xl font-semibold text-gray-900 mb-2 group-hover:text-primary-600">
-                  {subcategory.name}
-                </h3>
+                <div className="flex justify-between items-center mb-2">
+                  <h3 className="text-xl font-semibold text-gray-900 group-hover:text-primary-600">
+                    {subcategory.name}
+                  </h3>
+                  {subcategory.productCount && (
+                    <span className="bg-primary-100 text-primary-800 text-xs px-2 py-1 rounded-full">
+                      {subcategory.productCount} products
+                    </span>
+                  )}
+                </div>
                 <p className="text-gray-600 mb-4">
                   {subcategory.description}
                 </p>
