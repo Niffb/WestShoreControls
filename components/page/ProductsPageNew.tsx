@@ -159,6 +159,15 @@ export default function ProductsPageNew({ selectedBrand, selectedCategory }: Pro
       let productsToFilter = cleanProducts
       if (selectedBrand === 'Mitsubishi') {
         productsToFilter = mitsubishiProducts
+        console.log('Filtering Mitsubishi products for category:', selectedCategory)
+        console.log('Total Mitsubishi products:', mitsubishiProducts.length)
+        
+        // Debug: check what products have the FR-F800 subcategory
+        const f800Products = mitsubishiProducts.filter(p => p.subcategory === 'FR-F800 Series Inverters')
+        console.log('Products with FR-F800 Series Inverters subcategory:', f800Products.length)
+        
+        const a800Products = mitsubishiProducts.filter(p => p.subcategory === 'FR-A800 Plus Series Inverters')
+        console.log('Products with FR-A800 Plus Series Inverters subcategory:', a800Products.length)
       } else if (selectedBrand === 'TMEIC') {
         productsToFilter = tmeicProducts
       } else if (selectedBrand === 'Katko') {
@@ -339,6 +348,8 @@ export default function ProductsPageNew({ selectedBrand, selectedCategory }: Pro
         
         const matchesCategory = selectedCategory === 'All Products' || 
           product.category === selectedCategory ||
+          // Check subcategory field if present
+          (product.subcategory && product.subcategory === selectedCategory) ||
           // Special handling for Noark Circuit Protection - show all MCP products
           (selectedBrand === 'Noark' && selectedCategory === 'Circuit Protection' && product.category === 'Motor-Circuit Protectors') ||
           // Special handling for Noark Motor Circuit Protectors - show all MCP products
