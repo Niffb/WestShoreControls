@@ -41,6 +41,13 @@ export const mitsubishiProducts: Product[] = [
       "Programmable automation controllers",
       "Various application support",
       "Scalable system architecture"
+    ],
+    downloads: [
+      {
+        name: "Melsec IQ-F and IQ-R Motion Controllers - Brochure",
+        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMDkvNTYvNTcvNWZkODJjODktZTEwNS00YmYwLThjZjAtZWQyYjUyNzM3YjIyL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBpUS1SJTIwYW5kJTIwaVEtRiUyMG1vdGlvbiUyMGNvbnRyb2xsZXJzJTIwLSUyMEJyb2NodXJlLnBkZiJdXQ?sha=0d8a7173c805e1dd",
+        type: "pdf"
+      }
     ]
   },
 
@@ -123,6 +130,18 @@ export const mitsubishiProducts: Product[] = [
       "Motion control integration",
       "IOT connectivity",
       "Easy implementation"
+    ],
+    downloads: [
+      {
+        name: "MELSEC iQ-F Series - Catalog",
+        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMTAvMDIvMjIvMDEwMmFmZGEtYTE4OS00MDFlLWI5MGYtN2IwZTZiNTlkMGQyL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBNRUxTRUMlMjBpUS1GJTIwU2VyaWVzJTIwLSUyMENhdGFsb2cucGRmIl1d?sha=659258f6c58dbc77",
+        type: "pdf"
+      },
+      {
+        name: "Melsec IQ-F and IQ-R Motion Controllers - Brochure",
+        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMDkvNTYvNTcvNWZkODJjODktZTEwNS00YmYwLThjZjAtZWQyYjUyNzM3YjIyL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBpUS1SJTIwYW5kJTIwaVEtRiUyMG1vdGlvbiUyMGNvbnRyb2xsZXJzJTIwLSUyMEJyb2NodXJlLnBkZiJdXQ?sha=0d8a7173c805e1dd",
+        type: "pdf"
+      }
     ]
   },
 
@@ -180,6 +199,18 @@ export const mitsubishiProducts: Product[] = [
       "SSCNET communication",
       "Synchronous control capability",
       "Advanced servo integration"
+    ],
+    downloads: [
+      {
+        name: "Motion Controller with SSCNET - Safety FA Solutions",
+        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMTAvMDkvMzkvZjIxNDFiYmQtNWY0NS00MWU4LThlYzUtNjAzNDFmNjQ1YWRiL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBNRUxTRUMtUVMtV1MlMjAtJTIwU2FmZXR5JTIwRkElMjBzb2x1dGlvbnMlMjAtJTIwQ2F0YWxvZy5wZGYiXV0?sha=3363e034b16929f8",
+        type: "pdf"
+      },
+      {
+        name: "Melsec IQ-F and IQ-R Motion Controllers - Brochure",
+        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMDkvNTYvNTcvNWZkODJjODktZTEwNS00YmYwLThjZjAtZWQyYjUyNzM3YjIyL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBpUS1SJTIwYW5kJTIwaVEtRiUyMG1vdGlvbiUyMGNvbnRyb2xsZXJzJTIwLSUyMEJyb2NodXJlLnBkZiJdXQ?sha=0d8a7173c805e1dd",
+        type: "pdf"
+      }
     ]
   },
 
