@@ -14,6 +14,24 @@ import { noarkSPDProducts } from './noark-spd-products'
 import { noarkSwitchesProducts } from './noark-switches-products'
 import { noarkEnclosedBreakersProducts } from './noark-enclosed-breakers-products'
 import { noarkFuseHoldersProducts } from './noark-fuse-holders-products'
+import { noarkB1NProducts } from './noark-b1n-products'
+
+// Convert PCBProducts to Product format
+const mappedPCBProducts: Product[] = pcbProducts.map((pcb, index) => ({
+  id: 6000 + index, // Assign numeric IDs starting from 6000
+  name: pcb.name,
+  model: pcb.model,
+  brand: pcb.brand,
+  category: pcb.category,
+  description: pcb.description,
+  rating: pcb.rating,
+  reviews: pcb.reviews,
+  images: pcb.images,
+  inStock: pcb.inStock,
+  specs: Object.entries(pcb.specifications).map(([key, value]) => `${key}: ${value}`),
+  url: pcb.url,
+  features: pcb.features
+}));
 
 // Generate random realistic prices based on product type
 const generatePrice = (category: string, name: string): { price: number; originalPrice?: number } => {
@@ -73,6 +91,18 @@ const generateRating = (): number => {
 const generateReviews = (): number => {
   return Math.floor(Math.random() * 200) + 15 // 15-215 reviews
 }
+
+// Combine all Noark products
+const allNoarkProducts: Product[] = [
+  ...noarkMCBProducts,
+  ...noarkMCPProducts,
+  ...noarkB1NProducts,
+  ...mappedPCBProducts,
+  ...noarkSPDProducts,
+  ...noarkSwitchesProducts,
+  ...noarkEnclosedBreakersProducts,
+  ...noarkFuseHoldersProducts,
+];
 
 // All products from CSV data - now empty, ready for new efficient method
 export const allProducts: Product[] = [
@@ -480,11 +510,12 @@ export const getAllProductsIncludingMitsubishi = (): Product[] => {
     ...lsIndustrialProducts,
     ...noarkMCBProducts,
     ...noarkMCPProducts,
-    // ...pcbProducts, // TODO: Fix PCBProduct interface compatibility
+    ...mappedPCBProducts,
     ...noarkSPDProducts,
     ...noarkSwitchesProducts,
     ...noarkEnclosedBreakersProducts,
-    ...noarkFuseHoldersProducts
+    ...noarkFuseHoldersProducts,
+    ...noarkB1NProducts
   ]
 }
 
@@ -561,22 +592,33 @@ export const getProductsByCategory = (category: string): Product[] => {
 
 // Get products by brand with Mitsubishi, TMEIC, Katko, Erico, LS Industrial, and Noark support
 export const getProductsByBrandEnhanced = (brand: string): Product[] => {
-  if (brand === 'All Brands') return getAllProductsIncludingMitsubishi()
-  if (brand === 'Mitsubishi') return mitsubishiProducts
-  if (brand === 'TMEIC') return tmeicProducts
-  if (brand === 'Katko') return [...cleanProducts.filter(product => product.brand === brand), ...getAllKatkoProducts()]
-  if (brand === 'ERICO') return ericoProducts
-  if (brand === 'LS Industrial') return lsIndustrialProducts
-  if (brand === 'Noark') return [
-    ...noarkMCBProducts,
-    ...noarkMCPProducts,
-    // ...pcbProducts, // TODO: Fix PCBProduct interface compatibility
-    ...noarkSPDProducts,
-    ...noarkSwitchesProducts,
-    ...noarkEnclosedBreakersProducts,
-    ...noarkFuseHoldersProducts
-  ]
-  return cleanProducts.filter(product => product.brand === brand)
+  switch (brand.toLowerCase()) {
+    case 'mitsubishi':
+      return mitsubishiProducts
+    case 'tmeic':
+      return tmeicProducts
+    case 'katko':
+      return getAllKatkoProducts()
+    case 'noark':
+      return [
+        ...noarkMCBProducts,
+        ...noarkMCPProducts, 
+        ...mappedPCBProducts,
+        ...noarkSPDProducts,
+        ...noarkSwitchesProducts,
+        ...noarkEnclosedBreakersProducts,
+        ...noarkFuseHoldersProducts,
+        ...noarkB1NProducts
+      ]
+    case 'klemsan':
+      return klemsanProducts
+    case 'erico':
+      return ericoProducts
+    case 'ls industrial':
+      return lsIndustrialProducts
+    default:
+      return []
+  }
 }
 
 // Filtered products that exclude items with "Product found on" descriptions, category page URLs, and generic descriptions
@@ -624,17 +666,34 @@ export const cleanProductsWithMitsubishi = [
   ...lsIndustrialProducts,
   ...noarkMCBProducts,
   ...noarkMCPProducts,
-  // ...pcbProducts, // TODO: Fix PCBProduct interface compatibility
+  ...mappedPCBProducts,
   ...noarkSPDProducts,
   ...noarkSwitchesProducts,
   ...noarkEnclosedBreakersProducts,
-  ...noarkFuseHoldersProducts
+  ...noarkFuseHoldersProducts,
+  ...noarkB1NProducts
 ]
 
 // Updated search function to include Mitsubishi
 export const searchProductsEnhanced = (query: string): Product[] => {
+  const searchProducts = [
+    ...mitsubishiProducts,
+    ...tmeicProducts,
+    ...noarkMCBProducts,
+    ...noarkMCPProducts,
+    ...mappedPCBProducts,
+    ...noarkSPDProducts,
+    ...noarkSwitchesProducts,
+    ...noarkEnclosedBreakersProducts,
+    ...noarkFuseHoldersProducts,
+    ...noarkB1NProducts,
+    ...klemsanProducts,
+    ...ericoProducts,
+    ...lsIndustrialProducts
+  ]
+  
   const lowercaseQuery = query.toLowerCase()
-  return cleanProductsWithMitsubishi.filter(product => 
+  return searchProducts.filter(product => 
     product.name.toLowerCase().includes(lowercaseQuery) ||
     product.description.toLowerCase().includes(lowercaseQuery) ||
     product.brand.toLowerCase().includes(lowercaseQuery) ||

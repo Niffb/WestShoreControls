@@ -34,6 +34,7 @@ import { noarkSwitchesProducts } from '@/lib/products/noark-switches-products'
 import { noarkSPDProducts } from '@/lib/products/noark-spd-products'
 import { noarkFuseHoldersProducts } from '@/lib/products/noark-fuse-holders-products'
 import { noarkEnclosedBreakersProducts } from '@/lib/products/noark-enclosed-breakers-products'
+import { noarkB1NProducts } from '@/lib/products/noark-b1n-products'
 import { klemsanProducts } from '@/lib/products/klemsan-products'
 import { ericoProducts } from '@/lib/products/erico-products'
 import { lsIndustrialProducts } from '@/lib/products/ls-industrial-products'
@@ -214,7 +215,8 @@ export default function ProductsPageNew({ selectedBrand, selectedCategory }: Pro
             specs: (product as any).specifications ? Object.entries((product as any).specifications).map(([key, value]) => `${key}: ${value}`) : []
           }))
         } else if (selectedCategory === 'Miniature Circuit Breakers') {
-          productsToFilter = noarkMCBProducts.map((product, index) => ({
+          // Combine both MCB and B1N products
+          const mcbProducts = noarkMCBProducts.map((product, index) => ({
             id: typeof product.id === 'number' ? product.id : parseInt(String(product.id).replace(/\D/g, '')) || index + 4000,
             name: product.name,
             model: product.model || '',
@@ -229,6 +231,24 @@ export default function ProductsPageNew({ selectedBrand, selectedCategory }: Pro
             url: product.url || `/noark/circuit-protection/miniature-circuit-breakers`,
             specs: product.specs || []
           }));
+          
+          const b1nProducts = noarkB1NProducts.map((product, index) => ({
+            id: typeof product.id === 'number' ? product.id : parseInt(String(product.id).replace(/\D/g, '')) || index + 5000,
+            name: product.name,
+            model: product.model || '',
+            brand: 'Noark',
+            category: product.category,
+            description: product.description,
+            rating: product.rating || 4.5,
+            reviews: product.reviews || 0,
+            images: product.images || ['placeholder.jpg'],
+            inStock: product.inStock !== false,
+            badge: undefined,
+            url: product.url || `/noark/circuit-protection/miniature-circuit-breakers/b1n`,
+            specs: product.specs || []
+          }));
+          
+          productsToFilter = [...mcbProducts, ...b1nProducts];
         } else if (selectedCategory === 'Molded Case Switches') {
           productsToFilter = noarkSwitchesProducts.map((product, index) => ({
             id: typeof product.id === 'number' ? product.id : parseInt(String(product.id).replace(/\D/g, '')) || index + 3000,

@@ -2,60 +2,103 @@ import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://westshorecontrols.com'
+  const currentDate = new Date().toISOString()
   
-  // Define the valid brands
+  // Valid brands for dynamic routes
   const validBrands = [
     'mitsubishi',
-    'noark',
-    'ls-industrial',
     'tmeic',
-    'erico',
     'katko',
+    'noark',
     'klemsan',
-    'elsteel',
-    'westshore-controls'
+    'erico',
+    'ls-industrial'
   ]
-
-  // Define brand categories for more detailed sitemap
+  
+  // Brand-to-categories mapping
   const brandCategories: { [key: string]: string[] } = {
-    'mitsubishi': ['automation', 'drives', 'plc', 'hmi'],
-    'noark': ['contactors', 'circuit-breakers', 'motor-protection', 'switchboards'],
-    'ls-industrial': ['contactors', 'circuit-breakers', 'motor-starters', 'drives'],
-    'tmeic': ['drives', 'inverters', 'generators', 'motors'],
-    'erico': ['grounding', 'bonding', 'conductors', 'busbars'],
-    'katko': ['motor-controllers', 'safety-switches', 'controls'],
-    'klemsan': ['terminal-blocks', 'connectors', 'automation'],
-    'elsteel': ['electrical-steel', 'metals', 'fabrication'],
-    'westshore-controls': ['all-products']
+    'mitsubishi': [
+      'variable-frequency-drives',
+      'controllers',
+      'software',
+      'power-sources',
+    ],
+    'tmeic': [
+      'variable-frequency-drives',
+      'pv-inverters',
+      'energy-storage',
+      'motors',
+      'controllers',
+      'software'
+    ],
+    'katko': [
+      'enclosed-isolators',
+      'switch-fuses',
+      'cam-switches'
+    ],
+    'noark': [
+      'circuit-protection',
+      'industrial-controls',
+      'special-applications',
+      'switchboards',
+      'power-transmission-distribution'
+    ],
+    'klemsan': [
+      'terminal-blocks',
+      'electrical-accessories',
+      'automation'
+    ],
+    'erico': [
+      'flexible-conductors',
+      'busbars',
+      'cable-management'
+    ],
+    'ls-industrial': [
+      'industrial-controls',
+      'circuit-protection',
+      'human-machine-interface',
+      'power-transmission-distribution'
+    ]
   }
-
-  const currentDate = new Date().toISOString()
+  
+  // Add subcategories for specific categories
+  const categorySubcategories: { [key: string]: { [key: string]: string[] } } = {
+    'noark': {
+      'circuit-protection': [
+        'miniature-circuit-breakers',
+        'molded-case-circuit-breakers-mccbs',
+        'motor-circuit-protectors-mcps',
+        'enclosed-breakers',
+        'din-rail-fuse-holders-and-fuses',
+        'surge-protective-device'
+      ]
+    }
+  }
+  
+  // Add third-level routes for specific subcategories
+  const subcategoryRoutes: { [key: string]: { [key: string]: { [key: string]: string[] } } } = {
+    'noark': {
+      'circuit-protection': {
+        'miniature-circuit-breakers': [
+          'b1n'
+        ]
+      }
+    }
+  }
 
   // Static pages
   const staticPages = [
     {
-      url: baseUrl,
+      url: `${baseUrl}/`,
       lastModified: currentDate,
       changeFrequency: 'daily' as const,
-      priority: 1,
+      priority: 1.0,
     },
     {
-      url: `${baseUrl}/about/`,
+      url: `${baseUrl}/products/`,
       lastModified: currentDate,
-      changeFrequency: 'monthly' as const,
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/partnerships/`,
-      lastModified: currentDate,
-      changeFrequency: 'monthly' as const,
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/contact/`,
-      lastModified: currentDate,
-      changeFrequency: 'monthly' as const,
-      priority: 0.7,
+      changeFrequency: 'daily' as const,
+      priority: 0.9,
     },
     {
       url: `${baseUrl}/brands/`,
@@ -66,9 +109,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: `${baseUrl}/catalogs/`,
       lastModified: currentDate,
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/about/`,
+      lastModified: currentDate,
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/contact/`,
+      lastModified: currentDate,
       changeFrequency: 'monthly' as const,
       priority: 0.8,
-    }
+    },
+    {
+      url: `${baseUrl}/partnerships/`,
+      lastModified: currentDate,
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
   ]
 
   // Dynamic brand pages
@@ -88,10 +149,38 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     }))
   )
+  
+  // Dynamic subcategory pages
+  const subcategoryPages = Object.entries(categorySubcategories).flatMap(([brand, categories]) =>
+    Object.entries(categories).flatMap(([category, subcategories]) =>
+      subcategories.map(subcategory => ({
+        url: `${baseUrl}/${brand}/${category}/${subcategory}/`,
+        lastModified: currentDate,
+        changeFrequency: 'weekly' as const,
+        priority: 0.6,
+      }))
+    )
+  )
+  
+  // Third-level routes (e.g., noark/circuit-protection/miniature-circuit-breakers/b1n)
+  const thirdLevelPages = Object.entries(subcategoryRoutes).flatMap(([brand, categories]) =>
+    Object.entries(categories).flatMap(([category, subcategories]) =>
+      Object.entries(subcategories).flatMap(([subcategory, routes]) =>
+        routes.map(route => ({
+          url: `${baseUrl}/${brand}/${category}/${subcategory}/${route}/`,
+          lastModified: currentDate,
+          changeFrequency: 'weekly' as const,
+          priority: 0.5,
+        }))
+      )
+    )
+  )
 
   return [
     ...staticPages,
     ...brandPages,
-    ...brandCategoryPages
+    ...brandCategoryPages,
+    ...subcategoryPages,
+    ...thirdLevelPages
   ]
 } 
