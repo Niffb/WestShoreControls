@@ -61,7 +61,7 @@ export const mitsubishiProducts: Product[] = [
     price: 3850,
     rating: 4.9,
     reviews: 156,
-    images: [getImageUrl("mitsubishi/controllers/melsec-iq-r-series.webp")],
+    images: [getImageUrl("mitsubishi/controllers/melsec-iq-r-series.png")],
     inStock: true,
     badge: "Featured",
     specs: [
@@ -190,7 +190,7 @@ export const mitsubishiProducts: Product[] = [
     price: 1250,
     rating: 4.5,
     reviews: 95,
-    images: [getImageUrl("mitsubishi/controllers/melsec-a-series.webp")],
+    images: [getImageUrl("mitsubishi/controllers/melsec-a-series.png")],
     inStock: true,
     specs: [
       "Compact design",
