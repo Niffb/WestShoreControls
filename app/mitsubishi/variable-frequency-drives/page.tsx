@@ -1,39 +1,57 @@
 'use client';
 
 import Link from 'next/link';
+import { useState, useEffect } from 'react';
 import { ArrowLeftIcon } from '@heroicons/react/24/solid';
 import { motion } from 'framer-motion';
-import Image from 'next/image';
 
 // Main VFD categories to display as cards
 const vfdCategories = [
   {
+    id: 'a800',
     name: 'FR-A800 Plus Series Inverters',
     slug: 'a800-series',
     description: 'Premium inverters with advanced features and high performance for demanding applications',
-    image: 'https://cdn.kyklo.co/media/W1siZiIsIjIwMTkvMDUvMjkvMTIvNTAvNDUvMTg4NDI2NzMtMjQ2ZS00OTM2LTk4N2YtMWEwNjBlZGJjNWJmL21pdHN1YmlzaGktZWxlY3RyaWMtRkEtYTgwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQwMHg0MDBcdTAwM2UiXV0.png',
+    image: '/a800.png',
     features: [
       'Advanced energy-saving algorithms',
-      'Enhanced system protection features',
       'Integrated PLC functionality',
+      'Enhanced system protection features',
       'Extended life design'
     ]
   },
   {
+    id: 'f800',
     name: 'FR-F800 Series Inverters',
     slug: 'f800-series',
     description: 'Specialized for fan and pump applications with optimized energy efficiency',
-    image: 'https://cdn.kyklo.co/media/W1siZiIsIjIwMTkvMDUvMjkvMTIvNDIvMDAvODI1MjE3Y2QtYzMzZS00Y2YwLTkwMzUtNDZiMGUxNWQ0ZThiL21pdHN1YmlzaGktZWxlY3RyaWMtRkEtZjgwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQwMHg0MDBcdTAwM2UiXV0.png',
+    image: '/f800.png',
     features: [
       'Optimized for HVAC applications',
-      'Energy-saving functions',
       'Advanced PID control',
+      'Energy-saving functions',
       'Long life design'
     ]
   }
 ];
 
-export default function MitsubishiVFDPage() {
+export default function VariableFrequencyDrivesPage() {
+  const [isClient, setIsClient] = useState(false);
+
+  // Debug: Check if images load properly
+  useEffect(() => {
+    setIsClient(true);
+    console.log('VFD Categories images paths:', vfdCategories.map(cat => cat.image));
+    
+    // Test image loading
+    vfdCategories.forEach(cat => {
+      const img = new Image();
+      img.onload = () => console.log(`Image loaded successfully: ${cat.image}`);
+      img.onerror = () => console.error(`Failed to load image: ${cat.image}`);
+      img.src = cat.image;
+    });
+  }, []);
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5 relative">
       {/* Hero Section */}
@@ -117,11 +135,15 @@ export default function MitsubishiVFDPage() {
               >
                 <Link href={`/mitsubishi/variable-frequency-drives/${category.slug}`} className="block h-full">
                   <div className="relative h-64 overflow-hidden bg-gray-100">
-                    <Image
+                    <img
                       src={category.image}
-                      fill
                       alt={category.name}
-                      className="object-contain p-6"
+                      className="w-full h-full object-contain p-6"
+                      style={{ border: '1px solid red' }}
+                      onError={(e) => {
+                        console.error(`Error loading image: ${category.image}`);
+                        e.currentTarget.src = '/images/brands/westlogo.webp'; // Fallback
+                      }}
                     />
                   </div>
                   <div className="p-6">
