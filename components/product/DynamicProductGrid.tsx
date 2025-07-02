@@ -322,7 +322,7 @@ const ProductCard = memo(({
         {/* Lazy load images only when in view */}
         {inView && product.images[0] && !imageError ? (
           <Image
-            src={product.name?.includes("A800") ? getImageUrl("/W1siZiIsIjIwMTkvMDUvMjkvMTIvNTAvNDUvMTg4NDI2NzMtMjQ2ZS00OTM2LTk4N2YtMWEwNjBlZGJjNWJmL21pdHN1YmlzaGktZWxlY3RyaWMtRkEtYTgwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQwMHg0MDBcdTAwM2UiXV0.png") : getImageUrl(product.images[0])}
+            src={product.name?.includes("A800") ? getImageUrl("/images/drives/a800.png") : getImageUrl(product.images[0])}
             alt={`${product.name} - ${product.brand}`}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"

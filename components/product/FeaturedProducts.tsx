@@ -152,7 +152,7 @@ export default function FeaturedProducts() {
                     {product.images[0] && product.images[0] !== "products/placeholder.jpg" ? (
                       <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center transition-all duration-500 group-hover:from-primary-50 group-hover:to-primary-100">
                         <img
-                          src={product.name.includes("A800") ? getImageUrl("/W1siZiIsIjIwMTkvMDUvMjkvMTIvNTAvNDUvMTg4NDI2NzMtMjQ2ZS00OTM2LTk4N2YtMWEwNjBlZGJjNWJmL21pdHN1YmlzaGktZWxlY3RyaWMtRkEtYTgwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQwMHg0MDBcdTAwM2UiXV0.png") : getImageUrl(product.images[0])}
+                          src={product.name.includes("A800") ? getImageUrl("/images/drives/a800.png") : getImageUrl(product.images[0])}
                           alt={product.name}
                           className="w-full h-full object-contain p-4 transform group-hover:scale-110 transition-transform duration-500"
                           onError={(e) => {

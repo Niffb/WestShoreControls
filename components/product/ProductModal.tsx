@@ -39,7 +39,7 @@ export default function ProductModal({ product, isOpen, onClose, getProductImage
     
     // Special handling for A800 drives
     if (product.name?.includes("A800")) {
-      return getImageUrl("/W1siZiIsIjIwMTkvMDUvMjkvMTIvNTAvNDUvMTg4NDI2NzMtMjQ2ZS00OTM2LTk4N2YtMWEwNjBlZGJjNWJmL21pdHN1YmlzaGktZWxlY3RyaWMtRkEtYTgwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQwMHg0MDBcdTAwM2UiXV0.png")
+      return getImageUrl("/images/drives/a800.png")
     }
     
     // Otherwise, handle internally
