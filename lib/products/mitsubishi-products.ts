@@ -24,7 +24,7 @@ const frfDriveProducts: Product[] = frFDrives.map((drive, index) => ({
   description: drive.description || "Mitsubishi FR-F800 Series Variable Frequency Drive",
   rating: 4.8,
   reviews: Math.floor(Math.random() * 20) + 5,
-  images: [getImageUrl("assets/images/products/mitsubishi/mitsubishi-electric-FA-f800.jpg")],
+  images: [getImageUrl("mitsubishi/mitsubishi-electric-FA-f800.jpg")],
   inStock: drive.availability === "IN STOCK",
   specs: [
     "FREQROL FR-F800 Series",
