@@ -6,6 +6,9 @@ import b1nJsonData from '@/lib/data/noark/B1n.json';
 // Import B1H data
 import b1hJsonData from '@/lib/data/noark/B1h.json';
 
+// Import the B1NQ products
+import { noarkB1NQProducts } from './noark-b1nq-products';
+
 // Convert B1N data to Product format
 const convertB1NDataToProduct = () => {
   try {
@@ -51,7 +54,7 @@ const convertB1NDataToProduct = () => {
       };
     });
   } catch (error) {
-    console.error("Error converting B1N data:", error);
+    console.error('Error processing B1N data:', error);
     return [];
   }
 };
@@ -59,12 +62,11 @@ const convertB1NDataToProduct = () => {
 // Convert B1H data to Product format
 const convertB1HDataToProduct = () => {
   try {
-    // Convert B1H data to Product format
     return (b1hJsonData as any[]).map((item: any, index: number) => {
-      const id = 7000 + index;
+      const id = 6500 + index;
       const model = item.model;
       const name = `${model} - ${item.rated_current} ${item.poles} ${item.trip_curve} MCB`;
-      
+
       return {
         id,
         name,
@@ -72,7 +74,7 @@ const convertB1HDataToProduct = () => {
         category: 'Miniature Circuit Breakers',
         brand: item.brand,
         model,
-        rating: 4.6,
+        rating: 4.7,
         reviews: Math.floor(Math.random() * 20) + 5, // Random number of reviews between 5 and 24
         specs: [
           `Series: ${item.series}`,
@@ -91,508 +93,85 @@ const convertB1HDataToProduct = () => {
       };
     });
   } catch (error) {
-    console.error("Error converting B1H data:", error);
+    console.error('Error processing B1H data:', error);
     return [];
   }
 };
 
-// Noark Miniature Circuit Breakers (MCBs) - Typically 15A-125A range
+// Convert B1N and B1H data to product arrays
+const b1nProducts = convertB1NDataToProduct();
+const b1hProducts = convertB1HDataToProduct();
+
+// Main MCB Products
 const noarkMCBData: Product[] = [
-  // Ex9BN Series - Standard Miniature Circuit Breakers
+  // B1N Series Main Entry
   {
-    id: 4001,
-    name: 'Ex9BN-15A-1P-C - MCB 15A 1-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 15A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
+    id: 6100,
+    name: 'B1N Series Miniature Circuit Breakers',
+    description: 'B1N series Miniature Circuit Breakers (MCB) - UL 489 compliant. Available in 1-pole, 2-pole, and 3-pole configurations with B-curve, C-curve, and D-curve trip characteristics.',
     category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-15A-1P-C',
-    rating: 4.6,
-    reviews: 23,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 15A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-15a-1p-c',
-    inStock: true
-  },
-  {
-    id: 4002,
-    name: 'Ex9BN-20A-1P-C - MCB 20A 1-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 20A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-20A-1P-C',
-    rating: 4.6,
-    reviews: 18,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 20A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (1).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-20a-1p-c',
-    inStock: true
-  },
-  {
-    id: 4003,
-    name: 'Ex9BN-25A-1P-C - MCB 25A 1-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 25A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-25A-1P-C',
-    rating: 4.6,
-    reviews: 31,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 25A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (2).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-25a-1p-c',
-    inStock: true
-  },
-  {
-    id: 4004,
-    name: 'Ex9BN-32A-1P-C - MCB 32A 1-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 32A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-32A-1P-C',
-    rating: 4.6,
-    reviews: 27,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 32A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (3).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-32a-1p-c',
-    inStock: true
-  },
-  {
-    id: 4005,
-    name: 'Ex9BN-40A-1P-C - MCB 40A 1-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 40A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-40A-1P-C',
-    rating: 4.6,
-    reviews: 35,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 40A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (4).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-40a-1p-c',
-    inStock: true
-  },
-  {
-    id: 4006,
-    name: 'Ex9BN-50A-1P-C - MCB 50A 1-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 50A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-50A-1P-C',
-    rating: 4.6,
-    reviews: 42,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 50A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (5).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-50a-1p-c',
-    inStock: true
-  },
-  {
-    id: 4007,
-    name: 'Ex9BN-63A-1P-C - MCB 63A 1-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 63A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-63A-1P-C',
-    rating: 4.6,
-    reviews: 38,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 63A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (6).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-63a-1p-c',
-    inStock: true
-  },
-  // 2-Pole variants
-  {
-    id: 4008,
-    name: 'Ex9BN-15A-2P-C - MCB 15A 2-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 2-pole - 15A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-15A-2P-C',
-    rating: 4.6,
-    reviews: 29,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 15A',
-      'Pole Configuration: 2-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-15a-2p-c',
-    inStock: true
-  },
-  {
-    id: 4009,
-    name: 'Ex9BN-20A-2P-C - MCB 20A 2-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 2-pole - 20A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-20A-2P-C',
-    rating: 4.6,
-    reviews: 33,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 20A',
-      'Pole Configuration: 2-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (1).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-20a-2p-c',
-    inStock: true
-  },
-  {
-    id: 4010,
-    name: 'Ex9BN-25A-2P-C - MCB 25A 2-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 2-pole - 25A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-25A-2P-C',
-    rating: 4.6,
-    reviews: 26,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 25A',
-      'Pole Configuration: 2-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (2).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-25a-2p-c',
-    inStock: true
-  },
-  {
-    id: 4011,
-    name: 'Ex9BN-32A-2P-C - MCB 32A 2-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 2-pole - 32A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-32A-2P-C',
-    rating: 4.6,
-    reviews: 31,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 32A',
-      'Pole Configuration: 2-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (3).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-32a-2p-c',
-    inStock: true
-  },
-  // 3-Pole variants
-  {
-    id: 4012,
-    name: 'Ex9BN-15A-3P-C - MCB 15A 3-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 3-pole - 15A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-15A-3P-C',
-    rating: 4.6,
-    reviews: 44,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 15A',
-      'Pole Configuration: 3-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (4).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-15a-3p-c',
-    inStock: true
-  },
-  {
-    id: 4013,
-    name: 'Ex9BN-20A-3P-C - MCB 20A 3-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 3-pole - 20A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-20A-3P-C',
-    rating: 4.6,
-    reviews: 37,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 20A',
-      'Pole Configuration: 3-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (5).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-20a-3p-c',
-    inStock: true
-  },
-  {
-    id: 4014,
-    name: 'Ex9BN-25A-3P-C - MCB 25A 3-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 3-pole - 25A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-25A-3P-C',
-    rating: 4.6,
-    reviews: 52,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 25A',
-      'Pole Configuration: 3-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (6).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-25a-3p-c',
-    inStock: true
-  },
-  {
-    id: 4015,
-    name: 'Ex9BN-32A-3P-C - MCB 32A 3-Pole Type C',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 3-pole - 32A rated - Type C characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-32A-3P-C',
-    rating: 4.6,
+    brand: 'NOARK',
+    model: 'B1N Series',
+    rating: 4.8,
     reviews: 48,
     specs: [
-      'Series: Ex9BN',
-      'Current Rating: 32A',
-      'Pole Configuration: 3-Pole',
-      'Trip Characteristic: Type C',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
+      'Series: B1N',
+      'Standard: UL 489',
+      'Trip Curves: B, C, D',
+      'Poles: 1P, 2P, 3P',
+      'Rated Voltage: 240Vac (1P), 240Vac/125Vdc (2P), 240Vac (3P)',
+      'Interrupting Rating: 10kA',
+      'Connection Types: Box Lug, Ring Tongue',
+      'Mounting: DIN Rail (35mm)'
     ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-32a-3p-c',
-    inStock: true
+    images: ['/assets/images/categories/Miniature Circuit Breakers/B1N Series Breakers.avif'],
+    url: '/noark/circuit-protection/miniature-circuit-breakers/b1n',
+    inStock: true,
+    features: [
+      'UL 489 Compliant',
+      'Multiple pole configurations',
+      'Three trip curve options (B, C, D)',
+      'High interrupting capacity (10kA)',
+      'Box lug or ring tongue connection options',
+      'DIN rail mounting capability'
+    ]
   },
-  // Type B variants (sensitive to small overloads)
+  // B1H Series Main Entry
   {
-    id: 4016,
-    name: 'Ex9BN-15A-1P-B - MCB 15A 1-Pole Type B',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 15A rated - Type B characteristic - 240/415V AC - DIN rail mounting - UL Listed',
+    id: 6101,
+    name: 'B1H Series Miniature Circuit Breakers',
+    description: 'B1H series Miniature Circuit Breakers (MCB) - UL 1077 compliant. Available in 1-pole, 2-pole, and 3-pole configurations with B-curve, C-curve, and D-curve trip characteristics.',
     category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-15A-1P-B',
-    rating: 4.6,
-    reviews: 19,
+    brand: 'NOARK',
+    model: 'B1H Series',
+    rating: 4.7,
+    reviews: 35,
     specs: [
-      'Series: Ex9BN',
-      'Current Rating: 15A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type B',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
+      'Series: B1H',
+      'Standard: UL 1077',
+      'Trip Curves: B, C, D',
+      'Poles: 1P, 2P, 3P',
+      'Rated Voltage: 240Vac/60Vdc (1P), 415Vac/125Vdc (2P), 415Vac/125Vdc (3P)',
+      'Interrupting Rating: 6kA',
+      'Connection Types: Tunnel terminal',
+      'Mounting: DIN Rail (35mm)'
     ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (1).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-15a-1p-b',
-    inStock: true
-  },
-  {
-    id: 4017,
-    name: 'Ex9BN-20A-1P-B - MCB 20A 1-Pole Type B',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 20A rated - Type B characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-20A-1P-B',
-    rating: 4.6,
-    reviews: 24,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 20A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type B',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (2).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-20a-1p-b',
-    inStock: true
-  },
-  // Type D variants (for high inrush current applications)
-  {
-    id: 4018,
-    name: 'Ex9BN-15A-1P-D - MCB 15A 1-Pole Type D',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 15A rated - Type D characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-15A-1P-D',
-    rating: 4.6,
-    reviews: 16,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 15A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type D',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (3).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-15a-1p-d',
-    inStock: true
-  },
-  {
-    id: 4019,
-    name: 'Ex9BN-20A-1P-D - MCB 20A 1-Pole Type D',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 20A rated - Type D characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-20A-1P-D',
-    rating: 4.6,
-    reviews: 21,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 20A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type D',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (4).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-20a-1p-d',
-    inStock: true
-  },
-  {
-    id: 4020,
-    name: 'Ex9BN-25A-1P-D - MCB 25A 1-Pole Type D',
-    description: 'Miniature Circuit Breaker - Ex9BN Series - 1-pole - 25A rated - Type D characteristic - 240/415V AC - DIN rail mounting - UL Listed',
-    category: 'Miniature Circuit Breakers',
-    brand: 'Noark',
-    model: 'Ex9BN-25A-1P-D',
-    rating: 4.6,
-    reviews: 28,
-    specs: [
-      'Series: Ex9BN',
-      'Current Rating: 25A',
-      'Pole Configuration: 1-Pole',
-      'Trip Characteristic: Type D',
-      'Voltage Rating: 240/415V AC',
-      'Breaking Capacity: 6kA',
-      'Standards: UL 489, IEC 60898',
-      'Mounting: DIN Rail',
-      'Type: Miniature Circuit Breaker'
-    ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers (5).avif'],
-    url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bn/ex9bn-25a-1p-d',
-    inStock: true
+    images: ['/assets/images/categories/Miniature Circuit Breakers/B1H Series Breakers.avif'],
+    url: '/noark/circuit-protection/miniature-circuit-breakers/b1h',
+    inStock: true,
+    features: [
+      'UL 1077 Compliant',
+      'Multiple pole configurations',
+      'Three trip curve options (B, C, D)',
+      'High interrupting capacity (6kA)',
+      'Tunnel terminal connections',
+      'DIN rail mounting capability'
+    ]
   }
 ];
 
-// Export the products
-// Convert B1N products from the JSON data
-const b1nProducts = convertB1NDataToProduct();
-// Convert B1H products from the JSON data
-const b1hProducts = convertB1HDataToProduct();
-
-// Combine existing MCB products with B1N and B1H products
-export const noarkMCBProducts: Product[] = [...noarkMCBData, ...b1nProducts, ...b1hProducts];
+// Combine existing MCB products with B1N, B1H, and B1NQ products
+export const noarkMCBProducts: Product[] = [...noarkMCBData, ...b1nProducts, ...b1hProducts, ...noarkB1NQProducts];
 
 // Series information
 export const mcbSeries = [

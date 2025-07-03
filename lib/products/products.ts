@@ -15,6 +15,8 @@ import { noarkSwitchesProducts } from './noark-switches-products'
 import { noarkEnclosedBreakersProducts } from './noark-enclosed-breakers-products'
 import { noarkFuseHoldersProducts } from './noark-fuse-holders-products'
 import { noarkB1NProducts } from './noark-b1n-products'
+import { noarkB1HProducts } from './noark-b1h-products'
+import { noarkB1NQProducts } from './noark-b1nq-products'
 
 // Convert PCBProducts to Product format
 const mappedPCBProducts: Product[] = pcbProducts.map((pcb, index) => ({
@@ -515,7 +517,9 @@ export const getAllProductsIncludingMitsubishi = (): Product[] => {
     ...noarkSwitchesProducts,
     ...noarkEnclosedBreakersProducts,
     ...noarkFuseHoldersProducts,
-    ...noarkB1NProducts
+    ...noarkB1NProducts,
+    ...noarkB1HProducts,
+    ...noarkB1NQProducts
   ]
 }
 
@@ -608,7 +612,9 @@ export const getProductsByBrandEnhanced = (brand: string): Product[] => {
         ...noarkSwitchesProducts,
         ...noarkEnclosedBreakersProducts,
         ...noarkFuseHoldersProducts,
-        ...noarkB1NProducts
+        ...noarkB1NProducts,
+        ...noarkB1HProducts,
+        ...noarkB1NQProducts
       ]
     case 'klemsan':
       return klemsanProducts
@@ -671,7 +677,9 @@ export const cleanProductsWithMitsubishi = [
   ...noarkSwitchesProducts,
   ...noarkEnclosedBreakersProducts,
   ...noarkFuseHoldersProducts,
-  ...noarkB1NProducts
+  ...noarkB1NProducts,
+  ...noarkB1HProducts,
+  ...noarkB1NQProducts
 ]
 
 // Updated search function to include Mitsubishi
@@ -687,6 +695,8 @@ export const searchProductsEnhanced = (query: string): Product[] => {
     ...noarkEnclosedBreakersProducts,
     ...noarkFuseHoldersProducts,
     ...noarkB1NProducts,
+    ...noarkB1HProducts,
+    ...noarkB1NQProducts,
     ...klemsanProducts,
     ...ericoProducts,
     ...lsIndustrialProducts
