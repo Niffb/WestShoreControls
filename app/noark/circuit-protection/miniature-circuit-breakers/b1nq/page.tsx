@@ -1,7 +1,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import { noarkB1NQProducts } from '@/lib/products/noark-b1nq-products';
-import DynamicProductGrid from '@/components/product/DynamicProductGrid';
+import ProductGrid from '../ProductGrid';
 
 export const metadata: Metadata = {
   title: 'NOARK B1NQ Series Miniature Circuit Breakers | West Shore Controls',
@@ -58,8 +58,8 @@ const B1NQProductsPage: React.FC = () => {
       </div>
       
       <div className="mb-8">
-        <h2 className="text-2xl font-bold mb-4">B1NQ Series Product Range</h2>
-        <DynamicProductGrid products={individualProducts} />
+        <h2 className="text-2xl font-bold mb-4">B1NQ Series Product Range ({individualProducts.length} products)</h2>
+        <ProductGrid products={individualProducts} />
       </div>
       
       <div className="bg-gray-50 p-6 rounded-lg">

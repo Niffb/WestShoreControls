@@ -19,6 +19,7 @@ import DynamicProductGrid from '@/components/product/DynamicProductGrid';
 import ProductModal from '@/components/product/ProductModal';
 import { noarkB1NProducts } from '@/lib/products/noark-b1n-products';
 import { Product } from '@/lib/types/shared-types';
+import ProductGrid from '../ProductGrid';
 
 // Parameter options for filter
 const filterOptions = {
@@ -335,96 +336,23 @@ export default function NoarkB1NPage() {
           </div>
         </div>
         
-        {/* Product Display */}
-        <div className="mb-12">
-          <div className="flex justify-between items-center mb-4">
-            <h2 className="text-xl font-bold text-gray-900">
-              Results 
-              <span className="ml-2 text-base font-medium text-gray-500">
-                ({filteredProducts.length} products)
-              </span>
-            </h2>
-          </div>
+        {/* Products Display */}
+        <div className="mb-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">B1N Series Products ({filteredProducts.length})</h2>
           
-          {/* Display products based on view mode */}
-          {viewMode === 'table' ? (
-            <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-200">
-              <div className="overflow-x-auto">
-                <table className="min-w-full divide-y divide-gray-200">
-                  <thead className="bg-gray-50">
-                    <tr>
-                      <th scope="col" className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Model</th>
-                      <th scope="col" className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Current Rating</th>
-                      <th scope="col" className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Poles</th>
-                      <th scope="col" className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Trip Curve</th>
-                      <th scope="col" className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Connections</th>
-                      <th scope="col" className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
-                    </tr>
-                  </thead>
-                  <tbody className="bg-white divide-y divide-gray-200">
-                    {filteredProducts.map((product) => {
-                      // Extract specifications for table
-                      const poleSpec = product.specs?.find(s => s.includes("Pole Configuration:"))?.split(": ")[1] || '';
-                      const currentSpec = product.specs?.find(s => s.includes("Current Rating:"))?.split(": ")[1] || '';
-                      const tripSpec = product.specs?.find(s => s.includes("Trip Characteristic:"))?.split(": ")[1] || '';
-                      const connSpec = product.specs?.find(s => s.includes("Connections:"))?.split(": ")[1] || '';
-                      
-                      return (
-                        <tr key={product.id} className="hover:bg-gray-50 cursor-pointer" onClick={() => handleProductClick(product)}>
-                          <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-primary-700">{product.model}</td>
-                          <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{currentSpec}</td>
-                          <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{poleSpec}</td>
-                          <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{tripSpec}</td>
-                          <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                            {connSpec === 'ring tongue connections' ? 'Ring Tongue' : 'Box Lug'}
-                          </td>
-                          <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                            <button 
-                              className="text-primary-600 hover:text-primary-800"
-                              onClick={(e) => {
-                                e.stopPropagation();
-                                handleProductClick(product);
-                              }}
-                            >
-                              View Details
-                            </button>
-                          </td>
-                        </tr>
-                      );
-                    })}
-                  </tbody>
-                </table>
-              </div>
-            </div>
+          {/* Show results or no results message */}
+          {filteredProducts.length > 0 ? (
+            <ProductGrid products={filteredProducts} />
           ) : (
-            <Suspense fallback={<div className="text-center py-8">Loading products...</div>}>
-              <DynamicProductGrid 
-                products={filteredProducts} 
-                onProductClick={handleProductClick}
-                viewMode={viewMode}
-              />
-            </Suspense>
-          )}
-          
-          {filteredProducts.length === 0 && (
-            <div className="text-center py-12 bg-white rounded-xl shadow-sm">
-              <div className="mx-auto h-12 w-12 text-gray-400">
-                <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M12 14h.01M12 21a9 9 0 110-18 9 9 0 010 18z" />
-                </svg>
-              </div>
-              <h3 className="mt-2 text-sm font-medium text-gray-900">No products found</h3>
-              <p className="mt-1 text-sm text-gray-500">
-                Try adjusting your search or filter criteria.
-              </p>
-              <div className="mt-6">
-                <button
-                  onClick={clearFilters}
-                  className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-primary-700 bg-primary-100 hover:bg-primary-200"
-                >
-                  Clear all filters
-                </button>
-              </div>
+            <div className="bg-white rounded-lg shadow-sm p-8 text-center">
+              <h3 className="text-lg font-medium text-gray-900 mb-1">No products match your filter criteria</h3>
+              <p className="text-gray-600 mb-4">Try adjusting your filters or search terms to see more products.</p>
+              <button
+                onClick={clearFilters}
+                className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-primary-600 hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500"
+              >
+                Clear all filters
+              </button>
             </div>
           )}
         </div>
