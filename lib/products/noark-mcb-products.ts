@@ -15,6 +15,16 @@ const convertB1NDataToProduct = () => {
       const model = item.model;
       const name = `${model} - ${item.rated_current} ${item.poles} ${item.trip_curve} MCB`;
       
+      // Determine the image path based on model name
+      let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1N Series Breakers.avif';
+      
+      // Use specific images for B1N products with 1Q or 2Q in their name
+      if (model.includes('1Q')) {
+        imagePath = '/B1NQ+1P.jpg';
+      } else if (model.includes('2Q')) {
+        imagePath = '/B1NQ+2P.jpg';
+      }
+      
       return {
         id,
         name,
@@ -35,7 +45,7 @@ const convertB1NDataToProduct = () => {
           `Mounting: ${item.mounting}`,
           item.equivalent_to ? `Equivalent to: ${item.equivalent_to}` : null,
         ].filter(Boolean),
-        images: ['/assets/images/categories/Miniature Circuit Breakers/B1N Series Breakers.avif'],
+        images: [imagePath],
         url: `/noark/circuit-protection/miniature-circuit-breakers/b1n/${model.toLowerCase()}`,
         inStock: true
       };
