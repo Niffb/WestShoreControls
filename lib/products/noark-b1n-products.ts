@@ -6,14 +6,16 @@ const convertB1NDataToProduct = (data: any, index: number): Product => {
   const model = data.model;
   const name = `${model} - ${data.rated_current} ${data.poles} ${data.trip_curve} MCB`;
   
-  // Determine the image path based on model name
+  // Determine the image path based on poles configuration
   let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1N Series Breakers.avif';
   
-  // Use specific images for B1N products with 1Q or 2Q in their name
-  if (model.includes('1Q')) {
-    imagePath = '/B1NQ+1P.jpg';
-  } else if (model.includes('2Q')) {
-    imagePath = '/B1NQ+2P.jpg';
+  // Use specific images based on pole count
+  if (data.poles.includes('1-pole') || data.poles.includes('1P')) {
+    imagePath = '/noark 1 pole.jpg';
+  } else if (data.poles.includes('2-pole') || data.poles.includes('2P')) {
+    imagePath = '/noark 2 pole.jpg';
+  } else if (data.poles.includes('3-pole') || data.poles.includes('3P')) {
+    imagePath = '/noark 3 pole.jpg';
   }
   
   return {
@@ -96,7 +98,7 @@ export const noarkB1NProducts: Product[] = [
       'Mounting: DIN rail mounting (35mm width)',
       'Equivalent to: 1000191'
     ],
-    images: ['/assets/images/categories/Miniature Circuit Breakers/B1N 3P.avif'],
+    images: ['/noark 3 pole.jpg'],
     url: '/noark/circuit-protection/miniature-circuit-breakers/b1n/b1n3d30',
     inStock: true
   },

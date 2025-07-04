@@ -14,14 +14,16 @@ const convertB1NQDataToProduct = (data: any, index: number): Product => {
   // Format name based on model details
   const name = `${model} - ${ratedCurrent}A ${poles} ${tripCurve}-Curve MCB`;
   
-  // Determine the image path based on model name
+  // Determine the image path based on poles
   let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1NQ Series Breakers.avif';
   
-  // Use specific images for B1NQ products with 1P or 2P
-  if (model.includes('1')) {
-    imagePath = '/B1NQ+1P.jpg';
-  } else if (model.includes('2')) {
-    imagePath = '/B1NQ+2P.jpg';
+  // Use specific images for B1NQ products based on pole count
+  if (poles === '1P') {
+    imagePath = '/noark 1 pole.jpg';
+  } else if (poles === '2P') {
+    imagePath = '/noark 2 pole.jpg';
+  } else if (poles === '3P') {
+    imagePath = '/noark 3 pole.jpg';
   }
   
   // Extract description details
@@ -73,7 +75,7 @@ export const mainB1NQProduct: Product = {
     'Connection Types: Box Lug, Quick Plug-in (T models)',
     'Mounting: DIN Rail (35mm)'
   ],
-  images: ['/B1NQ+1P.jpg', '/B1NQ+2P.jpg'],
+  images: ['/noark 1 pole.jpg', '/noark 2 pole.jpg'],
   url: '/noark/circuit-protection/miniature-circuit-breakers/b1nq',
   inStock: true,
   features: [
@@ -87,7 +89,8 @@ export const mainB1NQProduct: Product = {
 };
 
 // Process all B1NQ products from the imported JSON file
-const b1nqProducts = b1nqJsonData.map(convertB1NQDataToProduct);
+// Ensure b1nqJsonData is treated as an array
+const b1nqProducts = Array.isArray(b1nqJsonData) ? b1nqJsonData.map(convertB1NQDataToProduct) : [];
 
 // Combine the main product entry with all individual products
 export const noarkB1NQProducts: Product[] = [mainB1NQProduct, ...b1nqProducts];

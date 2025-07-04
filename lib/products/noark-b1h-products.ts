@@ -12,6 +12,18 @@ export const convertB1HDataToProduct = () => {
       const model = item.model;
       const name = `${model} - ${item.rated_current} ${item.poles} ${item.trip_curve} MCB`;
       
+      // Determine the image path based on poles configuration
+      let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1H Series Breakers.avif';
+      
+      // Use specific images based on pole count
+      if (item.poles.includes('1-pole') || item.poles.includes('1P')) {
+        imagePath = '/noark 1 pole.jpg';
+      } else if (item.poles.includes('2-pole') || item.poles.includes('2P')) {
+        imagePath = '/noark 2 pole.jpg';
+      } else if (item.poles.includes('3-pole') || item.poles.includes('3P')) {
+        imagePath = '/noark 3 pole.jpg';
+      }
+      
       return {
         id,
         name,
@@ -32,7 +44,7 @@ export const convertB1HDataToProduct = () => {
           `Mounting: ${item.mounting}`,
           item.equivalent_to ? `Equivalent to: ${item.equivalent_to}` : null,
         ].filter(Boolean),
-        images: ['/assets/images/categories/Miniature Circuit Breakers/B1H Series Breakers.avif'],
+        images: [imagePath],
         url: `/noark/circuit-protection/miniature-circuit-breakers/b1h/${model.toLowerCase()}`,
         inStock: true
       };
