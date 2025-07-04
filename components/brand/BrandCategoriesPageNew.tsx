@@ -572,6 +572,36 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
       .replace(/[()]/g, '') // Remove parentheses
   }
 
+  // Function to check if a category has subcategories
+  const hasSubcategories = (brandName: string, categoryName: string) => {
+    if (brandName === 'Mitsubishi' && categoryName === 'Variable Frequency Drives') {
+      return true
+    }
+    if (brandName === 'Noark' && categoryName === 'Circuit Protection') {
+      return true
+    }
+    // Add more conditions for other brands and categories with subcategories
+    return false
+  }
+  
+  // Function to get subcategories for a category
+  const getSubcategories = (brandName: string, categoryName: string) => {
+    if (brandName === 'Mitsubishi' && categoryName === 'Variable Frequency Drives') {
+      return [
+        { name: 'A800 Series', slug: 'a800-series' },
+        { name: 'F800 Series', slug: 'f800-series' },
+        { name: 'D700 Series', slug: 'd700-series' },
+        { name: 'E700 Series', slug: 'e700-series' },
+        { name: 'FR-A800', slug: 'fr-a800' },
+        { name: 'FR-F800', slug: 'fr-f800' },
+        { name: 'FR-E700', slug: 'fr-e700' },
+        { name: 'FR-D700', slug: 'fr-d700' }
+      ]
+    }
+    // Add more conditions for other brands and categories
+    return []
+  }
+
   return (
     <>
       <FloatingParticles />
@@ -698,7 +728,11 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                   className="perspective-1000"
                 >
                   <Link
-                    href={productCount === 0 ? '/contact' : `/${brandSlug}/${getCategorySlug(category)}`}
+                    href={hasSubcategories(selectedBrand, category) 
+                      ? `/${brandSlug}/${getCategorySlug(category)}` 
+                      : productCount === 0 
+                        ? '/contact' 
+                        : `/${brandSlug}/${getCategorySlug(category)}`}
                     className="group relative bg-white rounded-3xl border border-gray-200/60 overflow-hidden hover:shadow-2xl hover:shadow-red-500/10 transition-all duration-500 cursor-pointer block touch-manipulation h-full backdrop-blur-sm"
                   >
                     {/* Subtle hover gradient that doesn't interfere with white blend */}
@@ -734,7 +768,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                       {/* Product count badge */}
                       <div className="absolute bottom-4 left-4 z-20">
                         <div className="bg-white/90 backdrop-blur-md px-3 py-1 rounded-full shadow-lg border border-white/30">
-                          <span className="text-xs font-semibold text-gray-700">{productCount === 0 ? 'Please Call To Inquire' : productCount} Items</span>
+                          <span className="text-xs font-semibold text-gray-700">{productCount === 0 ? 'Please call regarding products' : productCount} Items</span>
                         </div>
                       </div>
                     </div>
@@ -750,7 +784,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                           <div className="flex items-center">
                             <div className="w-2 h-2 bg-red-500 rounded-full mr-2"></div>
                             <p className="text-sm font-medium text-gray-600">
-                              {productCount === 0 ? 'Please Call To Inquire' : `${productCount} ${selectedBrand === 'Klemsan' ? 'Models' : 'Products'} Available`}
+                              {productCount === 0 ? 'Please call regarding products' : `${productCount} ${selectedBrand === 'Klemsan' ? 'Models' : 'Products'} Available`}
                             </p>
                           </div>
                         </div>

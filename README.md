@@ -32,13 +32,42 @@ npm run dev
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Utility Scripts
+
+The project includes several utility scripts to help with development:
+
+- `compress-images.sh` - Compresses and converts JPG/PNG images to WebP format
+- `organize-files.sh` - Helps organize various file types into the correct directories
+- `generate-favicon.js` - Generates favicon files from source image
+
+To run these scripts:
+
+```bash
+# Compress and optimize images
+chmod +x compress-images.sh
+./compress-images.sh
+
+# Organize files in the root directory
+chmod +x organize-files.sh
+./organize-files.sh
+```
+
 ## Project Structure
 
 - `/app` - Next.js app router pages and layouts
 - `/components` - Reusable React components
-- `/lib` - Utility functions and product data
-- `/public` - Static assets and images
-- `/scripts` - Build and deployment scripts
+- `/lib` - Utility functions, product data, and configuration
+  - `/lib/data` - JSON data files for products
+  - `/lib/products` - Product definitions and utility functions
+  - `/lib/types` - TypeScript type definitions
+  - `/lib/utils` - Utility functions for performance and SEO
+  - `/lib/config` - Configuration files
+- `/public` - Static assets served at root
+  - `/public/images` - Public images (logos, icons)
+  - `/public/documents` - PDF files (brochures, datasheets, manuals)
+- `/assets` - Source assets (processed during build)
+  - `/assets/images` - Source images by category
+- `/docs` - Project documentation files
 
 ## Features
 

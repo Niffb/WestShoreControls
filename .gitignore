@@ -93,6 +93,7 @@ public/*
 !public/images/
 !public/assets/
 !public/downloads/
+!public/documents/
 !public/favicon.ico
 !public/favicon.svg
 !public/manifest.json
@@ -214,3 +215,13 @@ dist
 .Trashes
 ehthumbs.db
 Thumbs.db .git-rewrite/
+
+# Raw data files
+lib/data/raw/
+
+# Lighthouse reports
+lighthouse-report.html
+
+# Large vendor PDF files
+vendor-pdfs/
+*-original.pdf

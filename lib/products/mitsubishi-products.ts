@@ -14,38 +14,44 @@ interface DriveData {
 }
 
 // FR-F drives mapping from the imported JSON data
-const frfDriveProducts: Product[] = frFDrives.map((drive, index) => ({
-  id: 51000 + index, // Starting from 51000 to avoid ID conflicts
-  name: `${drive.model} FR-F800 Series Inverter`,
-  model: drive.model,
-  brand: "Mitsubishi",
-  category: "Variable Frequency Drives",
-  subcategory: "FR-F800 Series Inverters",
-  description: drive.description || "Mitsubishi FR-F800 Series Variable Frequency Drive",
-  rating: 4.8,
-  reviews: Math.floor(Math.random() * 20) + 5,
-  images: [getImageUrl("mitsubishi/mitsubishi-electric-FA-f800.jpg")],
-  inStock: drive.availability === "IN STOCK",
-  specs: [
-    "FREQROL FR-F800 Series",
-    "Optimized for fans, pumps and compressors",
-    "High energy savings",
-    "Robust design for industrial environments"
-  ],
-  features: [
-    "Energy optimization algorithms",
-    "Advanced environmental resistance",
-    "Modbus RTU/Ethernet communication",
-    "Wide output frequency range (0.2-590Hz)"
-  ],
-  downloads: [
-    {
-      name: "FR-F800 Series Catalog",
-      url: "/downloads/mitsubishi/drives/fr-f800-catalog.pdf",
-      type: "pdf"
-    }
-  ]
-}));
+const frfDriveProducts: Product[] = frFDrives.map((drive, index) => {
+  // Check if this is an FR-F900 drive by model number
+  const isF900Drive = drive.model.includes("FR-F9") || drive.model.toLowerCase().includes("f900");
+  
+  return {
+    id: 51000 + index, // Starting from 51000 to avoid ID conflicts
+    name: `${drive.model} ${isF900Drive ? 'FR-F900' : 'FR-F800'} Series Inverter`,
+    model: drive.model,
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    subcategory: "FR-F800 Series Inverters",
+    description: drive.description || `Mitsubishi ${isF900Drive ? 'FR-F900' : 'FR-F800'} Series Variable Frequency Drive`,
+    rating: 4.8,
+    reviews: Math.floor(Math.random() * 20) + 5,
+    // Use the new image for F900 drives, otherwise use the standard F800 image
+    images: [isF900Drive ? "/Users/nathanielbareham/Downloads/westshorecontrols-production/mitsubishi-electric-FA-f800 (1).jpg" : getImageUrl("mitsubishi/mitsubishi-electric-FA-f800.jpg")],
+    inStock: drive.availability === "IN STOCK",
+    specs: [
+      `FREQROL ${isF900Drive ? 'FR-F900' : 'FR-F800'} Series`,
+      "Optimized for fans, pumps and compressors",
+      "High energy savings",
+      "Robust design for industrial environments"
+    ],
+    features: [
+      "Energy optimization algorithms",
+      "Advanced environmental resistance",
+      "Modbus RTU/Ethernet communication",
+      "Wide output frequency range (0.2-590Hz)"
+    ],
+    downloads: [
+      {
+        name: "FR-F800 Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-f800-catalog.pdf",
+        type: "pdf"
+      }
+    ]
+  };
+});
 
 // Mitsubishi Electric Factory Automation Products
 // Enhanced with deep scraped data from official Mitsubishi website
@@ -80,7 +86,7 @@ export const mitsubishiProducts: Product[] = [
     downloads: [
       {
         name: "Melsec IQ-F and IQ-R Motion Controllers - Brochure",
-        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMDkvNTYvNTcvNWZkODJjODktZTEwNS00YmYwLThjZjAtZWQyYjUyNzM3YjIyL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBpUS1SJTIwYW5kJTIwaVEtRiUyMG1vdGlvbiUyMGNvbnRyb2xsZXJzJTIwLSUyMEJyb2NodXJlLnBkZiJdXQ?sha=0d8a7173c805e1dd",
+        url: "https://cdn.kyklo.co/assets/W1siZiIsIjIwMjQvMDIvMTEvMDkvNTYvNTcvNWZkODJjODktZTEwNS00YmYwLThjZjAtZWQyYjUyNzM3YjIyL01pdHN1YmlzaGklMjBFbGVjdHJpYyUyMC0lMjBNRUxTRUMlMjBpUS1GJTIwU2VyaWVzJTIwLSUyMENhdGFsb2cucGRmIl1d?sha=0d8a7173c805e1dd",
         type: "pdf"
       }
     ]

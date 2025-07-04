@@ -1,7 +1,7 @@
 import { Product } from '@/lib/types/shared-types';
 
 // Import the B1NQ JSON data from the proper location
-import b1nqJsonData from '@/lib/data/noark/B1nq.json';
+import b1nqJsonData from '@/lib/data/noark/b1nq.json';
 
 // Helper function to convert B1NQ JSON data to Product format
 const convertB1NQDataToProduct = (data: any, index: number): Product => {

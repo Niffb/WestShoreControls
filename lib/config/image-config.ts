@@ -1,6 +1,9 @@
 // Image hosting configuration - using local assets
 export const IMAGE_BASE_URL = '/images'
 
+// Additional paths for specific image categories
+export const ASSETS_IMAGE_PATH = '/assets/images'
+
 // Essential images that should stay local for critical page loading
 export const LOCAL_IMAGES = [
   'brands/westlogo.webp',
@@ -22,17 +25,21 @@ export const getImageUrl = (imagePath: string): string => {
   // Remove leading slash if present
   const cleanPath = imagePath.startsWith('/') ? imagePath.slice(1) : imagePath
   
+  // Check if this is an assets image
+  if (cleanPath.startsWith('assets/images/')) {
+    // Keep assets path structure intact
+    return `/${cleanPath}`
+  }
+  
   // Handle hardcoded /images/ paths - normalize to relative paths
   if (cleanPath.startsWith('images/') || imagePath.startsWith('/images/')) {
     const finalPath = cleanPath.replace(/^(\/)?images\//, '')
     return `${IMAGE_BASE_URL}/${finalPath}`
   }
   
-  // Remove 'assets/images/' prefix if present (for backward compatibility)
-  const relativePath = cleanPath.startsWith('assets/images/') 
-    ? cleanPath.replace('assets/images/', '') 
-    : cleanPath
-
+  // Handle legacy paths (for backward compatibility)
+  const relativePath = cleanPath
+  
   // Handle legacy category paths
   let processedPath = relativePath
   if (processedPath.includes('categories/images/categories/')) {

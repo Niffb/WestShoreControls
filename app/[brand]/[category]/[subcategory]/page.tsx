@@ -5,13 +5,15 @@ import ProductsPageNew from '@/components/page/ProductsPageNew'
 // Define the valid brands
 const validBrands = [
   'noark',
-  'klemsan'
+  'klemsan',
+  'mitsubishi'
 ]
 
 // Map URL slugs to display names
 const brandDisplayNames: { [key: string]: string } = {
   'noark': 'Noark',
-  'klemsan': 'Klemsan'
+  'klemsan': 'Klemsan',
+  'mitsubishi': 'Mitsubishi'
 }
 
 interface Props {
@@ -39,6 +41,11 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
   
   // Handle Klemsan routing - support terminal-blocks, electrical-accessories, and automation categories
   if (brandSlug === 'klemsan' && !['terminal-blocks', 'electrical-accessories', 'automation'].includes(categorySlug)) {
+    notFound()
+  }
+
+  // Handle Mitsubishi routing - support variable-frequency-drives with subcategories
+  if (brandSlug === 'mitsubishi' && !['variable-frequency-drives', 'controllers', 'human-machine-interface', 'circuit-breakers'].includes(categorySlug)) {
     notFound()
   }
 
@@ -102,7 +109,16 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     'cable-channels': 'Cable Channels',
     'tools-and-accessories': 'Tools and Accessories',
     // Klemsan Automation subcategories
-    'automation': 'Automation'
+    'automation': 'Automation',
+    // Mitsubishi VFD subcategories
+    'a800-series': 'A800 Series',
+    'f800-series': 'F800 Series',
+    'd700-series': 'D700 Series',
+    'e700-series': 'E700 Series',
+    'fr-a800': 'FR-A800',
+    'fr-f800': 'FR-F800',
+    'fr-e700': 'FR-E700',
+    'fr-d700': 'FR-D700'
   }
   
   // Get proper subcategory name from mapping
@@ -178,7 +194,16 @@ export async function generateStaticParams() {
     { brand: 'klemsan', category: 'electrical-accessories', subcategory: 'cable-channels' },
     { brand: 'klemsan', category: 'electrical-accessories', subcategory: 'tools-and-accessories' },
     // Klemsan Automation subcategories
-    { brand: 'klemsan', category: 'automation', subcategory: 'automation' }
+    { brand: 'klemsan', category: 'automation', subcategory: 'automation' },
+    // Mitsubishi VFD subcategories
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'a800-series' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'f800-series' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'd700-series' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'e700-series' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-a800' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-f800' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-e700' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-d700' }
   ]
   
   return params

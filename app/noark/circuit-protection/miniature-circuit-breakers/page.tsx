@@ -8,8 +8,8 @@ import { noarkMCBProducts } from '@/lib/products/noark-mcb-products';
 // Metadata for SEO
 export const metadata: Metadata = {
   title: 'NOARK Miniature Circuit Breakers | West Shore Controls',
-  description: 'Explore NOARK\'s range of high-quality Miniature Circuit Breakers (MCBs) including the B1N and B1H series. Reliable protection for electrical installations with multiple configurations.',
-  keywords: 'NOARK, Miniature Circuit Breakers, MCB, B1N Series, B1H Series, circuit protection, electrical equipment',
+  description: 'Explore NOARK\'s range of high-quality Miniature Circuit Breakers (MCBs) including the B1N, B1H, B1NQ, B1D and B1E series. Reliable protection for electrical installations with multiple configurations.',
+  keywords: 'NOARK, Miniature Circuit Breakers, MCB, B1N Series, B1H Series, B1D Series, B1NQ Series, B1E Series, circuit protection, electrical equipment',
 };
 
 export default function NoarkMCBPage() {
@@ -20,6 +20,22 @@ export default function NoarkMCBPage() {
   // Count the number of B1H products for display
   const b1hProductCount = noarkMCBProducts.filter(product => 
     product.model && product.model.startsWith('B1H')).length;
+    
+  // Count the number of B1NQ products for display
+  const b1nqProductCount = noarkMCBProducts.filter(product => 
+    product.model && product.model.startsWith('B1NQ')).length;
+    
+  // Count the number of B1D products for display
+  const b1dProductCount = noarkMCBProducts.filter(product => 
+    product.model && product.model.startsWith('B1D')).length;
+    
+  // Count the number of B1E products for display
+  const b1eProductCount = noarkMCBProducts.filter(product => 
+    product.model && product.model.startsWith('B1E')).length;
+    
+  // Count the number of Ex9BP products for display
+  const ex9bpProductCount = noarkMCBProducts.filter(product => 
+    product.model && product.model.startsWith('Ex9BP')).length;
 
   const subcategories = [
     {
@@ -49,6 +65,34 @@ export default function NoarkMCBPage() {
       ],
     },
     {
+      name: 'B1D Series',
+      description: 'B1D series DC Miniature Circuit Breakers (MCB) - UL 489 compliant designed specifically for solar and battery applications.',
+      image: '/assets/images/categories/Miniature Circuit Breakers/B1D Series Breakers.avif',
+      url: '/noark/circuit-protection/miniature-circuit-breakers/b1d',
+      productCount: b1dProductCount,
+      features: [
+        'DC circuit protection for solar/battery applications',
+        'Multiple pole configurations (1P, 2P)',
+        'C and D trip curves',
+        '10kA interrupting rating (125Vdc/250Vdc)',
+        'Box lug and ring tongue connections',
+      ],
+    },
+    {
+      name: 'B1E Series',
+      description: 'B1E series Miniature Circuit Breakers (MCB) - UL 489 compliant high-current breakers for large commercial and industrial applications.',
+      image: '/assets/images/categories/Miniature Circuit Breakers/B1E Series Breakers.avif',
+      url: '/noark/circuit-protection/miniature-circuit-breakers/b1e',
+      productCount: b1eProductCount,
+      features: [
+        'High current ratings up to 125A',
+        'Multiple pole configurations (1P, 2P, 3P, 4P)',
+        'B, C, and D trip curves',
+        '5kA at 480Y/277Vac and 10kA at 240Vac',
+        'Box lug connections for secure wiring',
+      ],
+    },
+    {
       name: 'Ex9BN Series',
       description: 'Ex9BN series Miniature Circuit Breakers (MCB) - IEC 60898 compliant with multiple pole configurations and trip curve options.',
       image: '/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif',
@@ -58,6 +102,33 @@ export default function NoarkMCBPage() {
         'B, C, and D trip curves',
         '6kA interrupting rating',
         'DIN rail mounting',
+      ],
+    },
+    {
+      name: 'Ex9BP Series',
+      description: 'Ex9BP series Miniature Circuit Breakers (MCB) - UL 1077 compliant DC circuit breakers for high voltage applications.',
+      image: '/assets/images/categories/Miniature Circuit Breakers/Miniature Circuit Breakers.avif',
+      url: '/noark/circuit-protection/miniature-circuit-breakers/ex9bp',
+      productCount: ex9bpProductCount,
+      features: [
+        '2-pole and 4-pole configurations',
+        'C-curve trip characteristics',
+        '6kA interrupting rating (300Vdc/600Vdc)',
+        'DIN rail mounting (35mm width)',
+      ],
+    },
+    {
+      name: 'B1NQ Series',
+      description: 'B1NQ series Miniature Circuit Breakers (MCB) - UL 489 compliant with 1-pole and 2-pole configurations and various trip curves.',
+      image: '/B1NQ+1P.jpg',
+      url: '/noark/circuit-protection/miniature-circuit-breakers/b1nq',
+      productCount: b1nqProductCount,
+      features: [
+        '1-pole and 2-pole configurations',
+        'B, C, and D trip curves',
+        '10kA interrupting rating (120Vac/240Vac)',
+        'Box lug and quick plug-in connections (T models)',
+        'DIN rail mounting (35mm width)',
       ],
     },
     // Add more subcategories as they become available
@@ -172,6 +243,8 @@ export default function NoarkMCBPage() {
               <li><strong>Residential:</strong> Protection for lighting circuits, power outlets, and home appliances</li>
               <li><strong>Commercial:</strong> Office buildings, retail spaces, and small businesses</li>
               <li><strong>Industrial:</strong> Factory automation, control panels, and machine protection</li>
+              <li><strong>Renewable Energy:</strong> Solar power systems and battery storage applications (B1D Series)</li>
+              <li><strong>Heavy Commercial:</strong> Large equipment, industrial machinery, and high-current loads (B1E Series)</li>
             </ul>
             
             <h3>Key Benefits</h3>
@@ -181,6 +254,7 @@ export default function NoarkMCBPage() {
               <li><strong>Standards Compliance:</strong> Meets UL 489 and international safety standards</li>
               <li><strong>Easy Installation:</strong> DIN rail mounting for simple setup and replacement</li>
               <li><strong>Durable Construction:</strong> Designed for long service life in demanding environments</li>
+              <li><strong>Application Specific:</strong> Specialized series for AC, DC, and high current applications</li>
             </ul>
           </div>
         </div>
