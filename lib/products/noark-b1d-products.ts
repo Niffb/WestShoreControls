@@ -1,7 +1,7 @@
 import { Product } from '@/lib/types/shared-types';
 
 // Import B1D data
-import b1dJsonData from '@/lib/data/noark/B1d.json';
+import b1dJsonData from '@/lib/data/noark/b1d.json';
 
 // Convert B1D data to Product format
 const convertB1DDataToProduct = () => {
