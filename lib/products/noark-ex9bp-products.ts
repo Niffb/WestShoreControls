@@ -1,8 +1,8 @@
 import { Product } from '@/lib/types/shared-types';
 
 // Import Ex9BP data from the JSON file
-// Since the JSON is in the root directory, we need to import it directly
-import ex9bpJsonData from '../../ex9bp.json';
+// Import from the correct location in lib/data/noark
+import ex9bpJsonData from '@/lib/data/noark/ex9bp.json';
 
 // Convert Ex9BP data to Product format
 const convertEx9BPDataToProduct = () => {
