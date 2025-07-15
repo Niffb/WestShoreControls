@@ -18,6 +18,18 @@ const nextConfig = {
   // Disable static exports since we're using server
   distDir: '.next',
   
+  // Optimize for large data sets
+  experimental: {
+    largePageDataBytes: 128 * 1024, // 128KB
+    workerThreads: false,
+    cpus: 1,
+  },
+  
+  // Increase timeout for serverless functions
+  serverRuntimeConfig: {
+    maxDuration: 30, // 30 seconds
+  },
+  
   images: {
     disableStaticImages: false, // Enable static image imports
     unoptimized: true, // Disable optimization to prevent 400 errors in Google Cloud

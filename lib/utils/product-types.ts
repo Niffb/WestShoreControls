@@ -14,6 +14,32 @@ export interface ProductType {
   featured: boolean
 }
 
+// Cache for product data to prevent repeated expensive operations
+let productCache: Product[] | null = null
+let cacheTimestamp: number = 0
+const CACHE_DURATION = 5 * 60 * 1000 // 5 minutes
+
+// Lazy load products with caching
+function getProductsWithCache(): Product[] {
+  const now = Date.now()
+  
+  // Return cached data if still valid
+  if (productCache && (now - cacheTimestamp) < CACHE_DURATION) {
+    return productCache
+  }
+  
+  try {
+    // Load products and cache them
+    productCache = getAllProductsIncludingMitsubishi()
+    cacheTimestamp = now
+    return productCache
+  } catch (error) {
+    console.error('Error loading products:', error)
+    // Return empty array if loading fails
+    return []
+  }
+}
+
 // Main product types that exist across brands
 export const productTypes: ProductType[] = [
   {
@@ -105,56 +131,23 @@ export const productTypes: ProductType[] = [
     featured: true
   },
   {
-    id: 'flexible-conductors',
-    name: 'Flexible Conductors',
-    description: 'Flexible copper braids and conductors for electrical connections',
-    icon: 'WireIcon',
-    slug: 'flexible-conductors',
-    category: 'Flexible Conductors',
+    id: 'magnetic-contactor',
+    name: 'Magnetic Contactors',
+    description: 'Electromagnetic switches for motor control applications',
+    icon: 'MagnetIcon',
+    slug: 'magnetic-contactor',
+    category: 'Magnetic Contactor',
     count: 0,
     brands: [],
-    featured: false
+    featured: true
   },
   {
-    id: 'enclosed-isolators',
-    name: 'Enclosed Isolators',
-    description: 'Safety switches and isolators for electrical system protection',
-    icon: 'LockClosedIcon',
-    slug: 'enclosed-isolators',
-    category: 'Enclosed Isolators',
-    count: 0,
-    brands: [],
-    featured: false
-  },
-  {
-    id: 'busbars',
-    name: 'Busbars',
-    description: 'Metallic strips for electrical power distribution',
-    icon: 'RectangleStackIcon',
-    slug: 'busbars',
-    category: 'Busbars',
-    count: 0,
-    brands: [],
-    featured: false
-  },
-  {
-    id: 'power-distribution',
-    name: 'Power Distribution',
-    description: 'Equipment for distributing electrical power in industrial applications',
-    icon: 'CircuitBoardIcon',
-    slug: 'power-distribution',
-    category: 'Power Distribution',
-    count: 0,
-    brands: [],
-    featured: false
-  },
-  {
-    id: 'surge-protective-devices',
-    name: 'Surge Protective Devices',
-    description: 'Devices that protect electrical systems from voltage spikes',
-    icon: 'ShieldExclamationIcon',
-    slug: 'surge-protective-devices',
-    category: 'Surge Protective Device',
+    id: 'manual-motor-starters',
+    name: 'Manual Motor Starters',
+    description: 'Manual switches for starting and stopping motors',
+    icon: 'HandIcon',
+    slug: 'manual-motor-starters',
+    category: 'Manual Motor Starters',
     count: 0,
     brands: [],
     featured: false
@@ -162,8 +155,8 @@ export const productTypes: ProductType[] = [
   {
     id: 'push-buttons',
     name: 'Push Buttons',
-    description: 'Manual control switches for industrial applications',
-    icon: 'HandRaisedIcon',
+    description: 'Control switches activated by manual pressure',
+    icon: 'ButtonIcon',
     slug: 'push-buttons',
     category: 'Push Buttons',
     count: 0,
@@ -173,7 +166,7 @@ export const productTypes: ProductType[] = [
   {
     id: 'led-indicators',
     name: 'LED Indicators',
-    description: 'Visual indication devices for status monitoring',
+    description: 'Visual status indicators for control panels and equipment',
     icon: 'LightBulbIcon',
     slug: 'led-indicators',
     category: 'LED Indicators',
@@ -182,12 +175,23 @@ export const productTypes: ProductType[] = [
     featured: false
   },
   {
-    id: 'manual-motor-starters',
-    name: 'Manual Motor Starters',
-    description: 'Manual control devices for starting and stopping motors',
-    icon: 'PlayIcon',
-    slug: 'manual-motor-starters',
-    category: 'Manual Motor Starters',
+    id: 'power-distribution',
+    name: 'Power Distribution',
+    description: 'Components for distributing electrical power in systems',
+    icon: 'DistributionIcon',
+    slug: 'power-distribution',
+    category: 'Power Distribution',
+    count: 0,
+    brands: [],
+    featured: false
+  },
+  {
+    id: 'cables-accessories',
+    name: 'Cables & Accessories',
+    description: 'Electrical cables and connection accessories',
+    icon: 'CableIcon',
+    slug: 'cables-accessories',
+    category: 'Cables & Accessories',
     count: 0,
     brands: [],
     featured: false
@@ -196,7 +200,7 @@ export const productTypes: ProductType[] = [
     id: 'servo-motors',
     name: 'Servo Motors',
     description: 'Precision motors for accurate position and speed control',
-    icon: 'ArrowPathIcon',
+    icon: 'MotorIcon',
     slug: 'servo-motors',
     category: 'Servo Motors',
     count: 0,
@@ -213,73 +217,78 @@ export const productTypes: ProductType[] = [
     count: 0,
     brands: [],
     featured: false
-  },
-  {
-    id: 'cables-accessories',
-    name: 'Cables & Accessories',
-    description: 'Electrical cables and connection accessories',
-    icon: 'CableIcon',
-    slug: 'cables-accessories',
-    category: 'Cables & Accessories',
-    count: 0,
-    brands: [],
-    featured: false
   }
 ]
 
-// Get all products aggregated by type
+// Get all products aggregated by type with optimization
 export function getProductsByType(productType: string): Product[] {
-  const allProducts = getAllProductsIncludingMitsubishi()
-  
-  // Find the product type configuration
-  const typeConfig = productTypes.find(type => type.slug === productType)
-  if (!typeConfig) return []
-  
-  // Filter products by category
-  return allProducts.filter(product => {
-    // Direct category match
-    if (product.category === typeConfig.category) return true
+  try {
+    const allProducts = getProductsWithCache()
     
-    // Handle special cases and alternative category names
-    switch (typeConfig.slug) {
-      case 'circuit-breakers':
-        return product.category === 'Circuit Breakers' || 
-               product.category === 'Miniature Circuit Breakers' ||
-               product.category === 'Motor-Circuit Protectors' ||
-               product.category === 'Air Circuit Breakers' ||
-               product.category === 'Power Circuit Breakers'
+    // Find the product type configuration
+    const typeConfig = productTypes.find(type => type.slug === productType)
+    if (!typeConfig) return []
+    
+    // Filter products by category with optimized filtering
+    const filteredProducts = allProducts.filter(product => {
+      // Direct category match
+      if (product.category === typeConfig.category) return true
       
-      case 'variable-frequency-drives':
-        return product.category === 'Variable Frequency Drives' ||
-               (product as any).subcategory?.includes('Series Inverters')
-      
-      case 'contactors':
-        return product.category === 'Contactors' ||
-               product.category === 'Magnetic Contactor'
-      
-      case 'terminal-blocks':
-        return product.category === 'Terminal Blocks' ||
-               product.category === 'Screw Terminals' ||
-               product.category === 'Spring Terminals' ||
-               product.category === 'Plug Terminals' ||
-               product.category === 'Other Terminals'
-      
-      default:
-        return false
-    }
-  })
+      // Handle special cases and alternative category names
+      switch (typeConfig.slug) {
+        case 'circuit-breakers':
+          return product.category === 'Circuit Breakers' || 
+                 product.category === 'Miniature Circuit Breakers' ||
+                 product.category === 'Motor-Circuit Protectors' ||
+                 product.category === 'Air Circuit Breakers' ||
+                 product.category === 'Power Circuit Breakers'
+        
+        case 'variable-frequency-drives':
+          return product.category === 'Variable Frequency Drives' ||
+                 (product as any).subcategory?.includes('Series Inverters')
+        
+        case 'contactors':
+          return product.category === 'Contactors' ||
+                 product.category === 'Magnetic Contactor'
+        
+        case 'terminal-blocks':
+          return product.category === 'Terminal Blocks' ||
+                 product.category === 'Screw Terminals' ||
+                 product.category === 'Spring Terminals' ||
+                 product.category === 'Plug Terminals' ||
+                 product.category === 'Other Terminals'
+        
+        default:
+          return false
+      }
+    })
+    
+    return filteredProducts
+  } catch (error) {
+    console.error('Error filtering products by type:', error)
+    return []
+  }
 }
 
 // Get product type with updated counts and brands
 export function getProductTypeWithStats(productType: ProductType): ProductType {
-  const products = getProductsByType(productType.slug)
-  const brandSet = new Set(products.map(p => p.brand))
-  const brands = Array.from(brandSet)
-  
-  return {
-    ...productType,
-    count: products.length,
-    brands: brands.sort()
+  try {
+    const products = getProductsByType(productType.slug)
+    const brandSet = new Set(products.map(p => p.brand))
+    const brands = Array.from(brandSet)
+    
+    return {
+      ...productType,
+      count: products.length,
+      brands: brands.sort()
+    }
+  } catch (error) {
+    console.error('Error getting product type stats:', error)
+    return {
+      ...productType,
+      count: 0,
+      brands: []
+    }
   }
 }
 
@@ -316,4 +325,10 @@ export function getProductTypeBreadcrumbs(productTypeSlug: string) {
     { name: 'Product Types', href: '/product-types' },
     { name: productType?.name || 'Product Type', href: `/product-types/${productTypeSlug}` }
   ]
+}
+
+// Clear cache function for manual cache invalidation
+export function clearProductCache() {
+  productCache = null
+  cacheTimestamp = 0
 } 

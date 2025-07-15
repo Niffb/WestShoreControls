@@ -20,37 +20,53 @@ interface Props {
 
 // Generate metadata for each product type page
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const productType = productTypes.find(type => type.slug === params.type)
-  
-  if (!productType) {
-    return {
-      title: 'Product Type Not Found - Westshore Controls',
-      description: 'The requested product type was not found. Browse our available product types.'
+  try {
+    const productType = productTypes.find(type => type.slug === params.type)
+    
+    if (!productType) {
+      return {
+        title: 'Product Type Not Found - Westshore Controls',
+        description: 'The requested product type was not found. Browse our available product types.'
+      }
     }
-  }
 
-  const typeWithStats = getProductTypeWithStats(productType)
-  
-  return {
-    title: `${productType.name} | Westshore Controls - All Brands`,
-    description: `${productType.description} Browse ${typeWithStats.count} products from ${typeWithStats.brands.join(', ')} and other leading manufacturers.`,
-    keywords: `${productType.name.toLowerCase()}, ${typeWithStats.brands.join(', ').toLowerCase()}, industrial equipment, electrical products`,
-    openGraph: {
-      title: `${productType.name} | Westshore Controls`,
-      description: productType.description,
-      type: 'website',
-      url: `https://westshorecontrols.com/product-types/${params.type}/`,
-    },
-    alternates: {
-      canonical: `/product-types/${params.type}/`,
-    },
+    const typeWithStats = getProductTypeWithStats(productType)
+    
+    return {
+      title: `${productType.name} | Westshore Controls - All Brands`,
+      description: `${productType.description} Browse ${typeWithStats.count} products from ${typeWithStats.brands.join(', ')} and other leading manufacturers.`,
+      keywords: `${productType.name.toLowerCase()}, ${typeWithStats.brands.join(', ').toLowerCase()}, industrial equipment, electrical products`,
+      openGraph: {
+        title: `${productType.name} | Westshore Controls`,
+        description: productType.description,
+        type: 'website',
+        url: `https://westshorecontrols.com/product-types/${params.type}/`,
+      },
+      alternates: {
+        canonical: `/product-types/${params.type}/`,
+      },
+    }
+  } catch (error) {
+    console.error('Error generating metadata for product type:', error)
+    return {
+      title: 'Product Type - Westshore Controls',
+      description: 'Browse our electrical and industrial products by type.'
+    }
   }
 }
 
 // Custom ProductTypePageNew component that uses ProductsPageNew but with type-specific filtering
 function ProductTypePageNew({ productType }: { productType: string }) {
-  const products = getProductsByType(productType)
-  const typeConfig = productTypes.find(type => type.slug === productType)
+  let products = []
+  let typeConfig = null
+  
+  try {
+    products = getProductsByType(productType)
+    typeConfig = productTypes.find(type => type.slug === productType)
+  } catch (error) {
+    console.error('Error loading products for type:', productType, error)
+    products = []
+  }
   
   if (!typeConfig || products.length === 0) {
     return (
@@ -119,31 +135,31 @@ function ProductTypePageNew({ productType }: { productType: string }) {
                 <div className="text-3xl font-bold text-red-600">{products.length}</div>
                 <div className="text-sm text-gray-600">Products Available</div>
               </div>
-                             <div className="text-center">
-                 <div className="text-3xl font-bold text-red-600">
-                   {Array.from(new Set(products.map(p => p.brand))).length}
-                 </div>
-                 <div className="text-sm text-gray-600">Brands</div>
-               </div>
+              <div className="text-center">
+                <div className="text-3xl font-bold text-red-600">
+                  {Array.from(new Set(products.map(p => p.brand))).length}
+                </div>
+                <div className="text-sm text-gray-600">Brands</div>
+              </div>
             </div>
           </div>
 
           {/* Brand Filter Pills */}
-                     <div className="mb-8">
-             <div className="flex flex-wrap justify-center gap-2">
-               {Array.from(new Set(products.map(p => p.brand))).sort().map((brand) => (
-                 <span
-                   key={brand}
-                   className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-800 hover:bg-gray-200 transition-colors cursor-pointer"
-                 >
-                   {brand}
-                   <span className="ml-2 text-xs bg-gray-300 text-gray-700 px-2 py-0.5 rounded-full">
-                     {products.filter(p => p.brand === brand).length}
-                   </span>
-                 </span>
-               ))}
-             </div>
-           </div>
+          <div className="mb-8">
+            <div className="flex flex-wrap justify-center gap-2">
+              {Array.from(new Set(products.map(p => p.brand))).sort().map((brand) => (
+                <span
+                  key={brand}
+                  className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-800 hover:bg-gray-200 transition-colors cursor-pointer"
+                >
+                  {brand}
+                  <span className="ml-2 text-xs bg-gray-300 text-gray-700 px-2 py-0.5 rounded-full">
+                    {products.filter(p => p.brand === brand).length}
+                  </span>
+                </span>
+              ))}
+            </div>
+          </div>
         </div>
       </div>
 
@@ -185,23 +201,23 @@ function ProductTypePageNew({ productType }: { productType: string }) {
                   {product.description}
                 </p>
                 
-                                  <div className="flex items-center">
-                    <div className="flex items-center">
-                      {[...Array(5)].map((_, i) => (
-                        <svg
-                          key={i}
-                          className={`h-4 w-4 ${i < Math.floor(product.rating) ? 'text-yellow-400' : 'text-gray-300'}`}
-                          fill="currentColor"
-                          viewBox="0 0 20 20"
-                        >
-                          <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                        </svg>
-                      ))}
-                    </div>
-                    <span className="ml-2 text-sm text-gray-600">
-                      {product.rating} ({product.reviews})
-                    </span>
+                <div className="flex items-center">
+                  <div className="flex items-center">
+                    {[...Array(5)].map((_, i) => (
+                      <svg
+                        key={i}
+                        className={`h-4 w-4 ${i < Math.floor(product.rating) ? 'text-yellow-400' : 'text-gray-300'}`}
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                      >
+                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                      </svg>
+                    ))}
                   </div>
+                  <span className="ml-2 text-sm text-gray-600">
+                    {product.rating} ({product.reviews})
+                  </span>
+                </div>
                 
                 <div className="mt-4">
                   <Link 
@@ -238,21 +254,23 @@ function ProductTypePageNew({ productType }: { productType: string }) {
                 <Link
                   key={type.id}
                   href={`/product-types/${type.slug}`}
-                  className="group flex items-center p-4 bg-white rounded-lg shadow hover:shadow-md transition-all duration-200 border border-gray-100 hover:border-red-200"
+                  className="group bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 p-6 border border-gray-100"
                 >
-                  <div className="flex-1 min-w-0">
-                    <h3 className="text-lg font-medium text-gray-900 group-hover:text-red-600 transition-colors">
+                  <div className="text-center">
+                    <div className="text-red-600 mb-4">
+                      <div className="w-12 h-12 mx-auto bg-red-100 rounded-lg flex items-center justify-center">
+                        <span className="text-2xl">⚡</span>
+                      </div>
+                    </div>
+                    <h3 className="text-lg font-semibold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">
                       {type.name}
                     </h3>
-                    <p className="text-sm text-gray-600 mt-1">
+                    <p className="text-sm text-gray-600 mb-4">
                       {type.description}
                     </p>
-                  </div>
-                  
-                  <div className="text-gray-400 group-hover:text-red-600 transition-colors ml-4">
-                    <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-                    </svg>
+                    <div className="text-sm text-red-600 font-medium">
+                      Explore Products →
+                    </div>
                   </div>
                 </Link>
               ))}
@@ -263,27 +281,57 @@ function ProductTypePageNew({ productType }: { productType: string }) {
   )
 }
 
+// Main page component with error boundary
 export default function ProductTypePage({ params }: Props) {
-  const productType = productTypes.find(type => type.slug === params.type)
-  
-  if (!productType) {
-    notFound()
-  }
-
-  return (
-    <Suspense fallback={
-      <div className="min-h-screen pt-24 flex items-center justify-center">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-red-600"></div>
+  try {
+    return (
+      <Suspense fallback={
+        <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5 pt-24">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center py-16">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-red-600 mx-auto mb-4"></div>
+              <p className="text-gray-600">Loading products...</p>
+            </div>
+          </div>
+        </div>
+      }>
+        <ProductTypePageNew productType={params.type} />
+      </Suspense>
+    )
+  } catch (error) {
+    console.error('Error rendering product type page:', error)
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5 pt-24">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center py-16">
+            <h1 className="text-4xl font-bold text-gray-900 mb-4">
+              Something went wrong
+            </h1>
+            <p className="text-lg text-gray-600 mb-8">
+              We're having trouble loading this product type. Please try again later.
+            </p>
+            <Link 
+              href="/product-types"
+              className="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors"
+            >
+              <ArrowLeftIcon className="h-5 w-5 mr-2" />
+              Browse All Product Types
+            </Link>
+          </div>
+        </div>
       </div>
-    }>
-      <ProductTypePageNew productType={params.type} />
-    </Suspense>
-  )
+    )
+  }
 }
 
 // Generate static params for all product types
 export async function generateStaticParams() {
-  return productTypes.map((type) => ({
-    type: type.slug,
-  }))
+  try {
+    return productTypes.map((type) => ({
+      type: type.slug,
+    }))
+  } catch (error) {
+    console.error('Error generating static params:', error)
+    return []
+  }
 } 
