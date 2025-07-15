@@ -2,12 +2,14 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { Suspense } from 'react'
 import Link from 'next/link'
-import { ArrowLeftIcon } from '@heroicons/react/24/outline'
+import { ArrowLeftIcon, ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
 import { 
-  getProductsByType, 
+  getPaginatedProductsByType,
   getProductTypeWithStats, 
   productTypes, 
-  getProductTypeBreadcrumbs 
+  getProductTypeBreadcrumbs,
+  shouldUsePagination,
+  getProductCountByType
 } from '@/lib/utils/product-types'
 import ProductsPageNew from '@/components/page/ProductsPageNew'
 import { ProductImage } from '@/components/ui/OptimizedImage'
@@ -15,6 +17,9 @@ import { ProductImage } from '@/components/ui/OptimizedImage'
 interface Props {
   params: {
     type: string
+  }
+  searchParams: {
+    page?: string
   }
 }
 
@@ -55,18 +60,143 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-// Custom ProductTypePageNew component that uses ProductsPageNew but with type-specific filtering
-function ProductTypePageNew({ productType }: { productType: string }) {
-  let products = []
+// Pagination component
+function Pagination({ 
+  currentPage, 
+  totalPages, 
+  hasNext, 
+  hasPrev, 
+  productType 
+}: {
+  currentPage: number
+  totalPages: number
+  hasNext: boolean
+  hasPrev: boolean
+  productType: string
+}) {
+  const getPageUrl = (page: number) => `/product-types/${productType}?page=${page}`
+  
+  // Generate page numbers to show
+  const getPageNumbers = () => {
+    const pages = []
+    const maxVisible = 5
+    
+    if (totalPages <= maxVisible) {
+      for (let i = 1; i <= totalPages; i++) {
+        pages.push(i)
+      }
+    } else {
+      const start = Math.max(1, currentPage - 2)
+      const end = Math.min(totalPages, start + maxVisible - 1)
+      
+      if (start > 1) {
+        pages.push(1)
+        if (start > 2) pages.push('...')
+      }
+      
+      for (let i = start; i <= end; i++) {
+        pages.push(i)
+      }
+      
+      if (end < totalPages) {
+        if (end < totalPages - 1) pages.push('...')
+        pages.push(totalPages)
+      }
+    }
+    
+    return pages
+  }
+
+  if (totalPages <= 1) return null
+
+  return (
+    <div className="flex items-center justify-center space-x-2 mt-8">
+      {/* Previous button */}
+      <Link
+        href={getPageUrl(currentPage - 1)}
+        className={`flex items-center px-3 py-2 rounded-md text-sm font-medium ${
+          hasPrev
+            ? 'text-gray-700 bg-white border border-gray-300 hover:bg-gray-50'
+            : 'text-gray-400 bg-gray-100 border border-gray-200 cursor-not-allowed'
+        }`}
+        {...(!hasPrev && { 'aria-disabled': true })}
+      >
+        <ChevronLeftIcon className="h-4 w-4 mr-1" />
+        Previous
+      </Link>
+
+      {/* Page numbers */}
+      <div className="flex space-x-1">
+        {getPageNumbers().map((page, index) => (
+          <span key={index}>
+            {page === '...' ? (
+              <span className="px-3 py-2 text-gray-500">...</span>
+            ) : (
+              <Link
+                href={getPageUrl(page as number)}
+                className={`px-3 py-2 rounded-md text-sm font-medium ${
+                  page === currentPage
+                    ? 'text-white bg-red-600 border border-red-600'
+                    : 'text-gray-700 bg-white border border-gray-300 hover:bg-gray-50'
+                }`}
+              >
+                {page}
+              </Link>
+            )}
+          </span>
+        ))}
+      </div>
+
+      {/* Next button */}
+      <Link
+        href={getPageUrl(currentPage + 1)}
+        className={`flex items-center px-3 py-2 rounded-md text-sm font-medium ${
+          hasNext
+            ? 'text-gray-700 bg-white border border-gray-300 hover:bg-gray-50'
+            : 'text-gray-400 bg-gray-100 border border-gray-200 cursor-not-allowed'
+        }`}
+        {...(!hasNext && { 'aria-disabled': true })}
+      >
+        Next
+        <ChevronRightIcon className="h-4 w-4 ml-1" />
+      </Link>
+    </div>
+  )
+}
+
+// Custom ProductTypePageNew component that uses pagination for large categories
+function ProductTypePageNew({ productType, currentPage }: { productType: string; currentPage: number }) {
+  let paginatedResult = { items: [], pagination: { page: 1, limit: 24, total: 0, totalPages: 0, hasNext: false, hasPrev: false } }
   let typeConfig = null
+  let usePagination = false
   
   try {
-    products = getProductsByType(productType)
     typeConfig = productTypes.find(type => type.slug === productType)
+    usePagination = shouldUsePagination(productType)
+    
+    if (usePagination) {
+      paginatedResult = getPaginatedProductsByType(productType, currentPage, 24)
+    } else {
+      // For smaller categories, get all products
+      const allProducts = getPaginatedProductsByType(productType, 1, 1000).items
+      paginatedResult = {
+        items: allProducts,
+        pagination: {
+          page: 1,
+          limit: allProducts.length,
+          total: allProducts.length,
+          totalPages: 1,
+          hasNext: false,
+          hasPrev: false
+        }
+      }
+    }
   } catch (error) {
     console.error('Error loading products for type:', productType, error)
-    products = []
+    paginatedResult = { items: [], pagination: { page: 1, limit: 24, total: 0, totalPages: 0, hasNext: false, hasPrev: false } }
   }
+  
+  const { items: products, pagination } = paginatedResult
   
   if (!typeConfig || products.length === 0) {
     return (
@@ -132,7 +262,7 @@ function ProductTypePageNew({ productType }: { productType: string }) {
             {/* Stats */}
             <div className="mt-8 flex justify-center space-x-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-red-600">{products.length}</div>
+                <div className="text-3xl font-bold text-red-600">{pagination.total}</div>
                 <div className="text-sm text-gray-600">Products Available</div>
               </div>
               <div className="text-center">
@@ -141,6 +271,14 @@ function ProductTypePageNew({ productType }: { productType: string }) {
                 </div>
                 <div className="text-sm text-gray-600">Brands</div>
               </div>
+              {usePagination && (
+                <div className="text-center">
+                  <div className="text-3xl font-bold text-red-600">
+                    {pagination.page} of {pagination.totalPages}
+                  </div>
+                  <div className="text-sm text-gray-600">Pages</div>
+                </div>
+              )}
             </div>
           </div>
 
@@ -160,10 +298,19 @@ function ProductTypePageNew({ productType }: { productType: string }) {
               ))}
             </div>
           </div>
+
+          {/* Pagination info for large categories */}
+          {usePagination && (
+            <div className="text-center mb-6">
+              <p className="text-sm text-gray-600">
+                Showing {((pagination.page - 1) * pagination.limit) + 1} to {Math.min(pagination.page * pagination.limit, pagination.total)} of {pagination.total} products
+              </p>
+            </div>
+          )}
         </div>
       </div>
 
-      {/* Products Grid - Use existing ProductsPageNew component */}
+      {/* Products Grid */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {products.map((product) => (
@@ -234,6 +381,17 @@ function ProductTypePageNew({ productType }: { productType: string }) {
             </div>
           ))}
         </div>
+
+        {/* Pagination */}
+        {usePagination && (
+          <Pagination
+            currentPage={pagination.page}
+            totalPages={pagination.totalPages}
+            hasNext={pagination.hasNext}
+            hasPrev={pagination.hasPrev}
+            productType={productType}
+          />
+        )}
       </div>
 
       {/* Related Product Types */}
@@ -282,7 +440,9 @@ function ProductTypePageNew({ productType }: { productType: string }) {
 }
 
 // Main page component with error boundary
-export default function ProductTypePage({ params }: Props) {
+export default function ProductTypePage({ params, searchParams }: Props) {
+  const currentPage = parseInt(searchParams.page || '1', 10)
+  
   try {
     return (
       <Suspense fallback={
@@ -295,7 +455,7 @@ export default function ProductTypePage({ params }: Props) {
           </div>
         </div>
       }>
-        <ProductTypePageNew productType={params.type} />
+        <ProductTypePageNew productType={params.type} currentPage={currentPage} />
       </Suspense>
     )
   } catch (error) {

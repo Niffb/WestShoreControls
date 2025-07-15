@@ -14,6 +14,19 @@ export interface ProductType {
   featured: boolean
 }
 
+// Pagination interface
+export interface PaginatedResult<T> {
+  items: T[]
+  pagination: {
+    page: number
+    limit: number
+    total: number
+    totalPages: number
+    hasNext: boolean
+    hasPrev: boolean
+  }
+}
+
 // Cache for product data to prevent repeated expensive operations
 let productCache: Product[] | null = null
 let cacheTimestamp: number = 0
@@ -270,6 +283,56 @@ export function getProductsByType(productType: string): Product[] {
   }
 }
 
+// Get paginated products by type
+export function getPaginatedProductsByType(
+  productType: string, 
+  page: number = 1, 
+  limit: number = 24
+): PaginatedResult<Product> {
+  try {
+    const allProducts = getProductsByType(productType)
+    const total = allProducts.length
+    const totalPages = Math.ceil(total / limit)
+    const offset = (page - 1) * limit
+    const items = allProducts.slice(offset, offset + limit)
+    
+    return {
+      items,
+      pagination: {
+        page,
+        limit,
+        total,
+        totalPages,
+        hasNext: page < totalPages,
+        hasPrev: page > 1
+      }
+    }
+  } catch (error) {
+    console.error('Error getting paginated products:', error)
+    return {
+      items: [],
+      pagination: {
+        page: 1,
+        limit,
+        total: 0,
+        totalPages: 0,
+        hasNext: false,
+        hasPrev: false
+      }
+    }
+  }
+}
+
+// Get product count by type (for statistics)
+export function getProductCountByType(productType: string): number {
+  try {
+    return getProductsByType(productType).length
+  } catch (error) {
+    console.error('Error getting product count:', error)
+    return 0
+  }
+}
+
 // Get product type with updated counts and brands
 export function getProductTypeWithStats(productType: ProductType): ProductType {
   try {
@@ -331,4 +394,10 @@ export function getProductTypeBreadcrumbs(productTypeSlug: string) {
 export function clearProductCache() {
   productCache = null
   cacheTimestamp = 0
+}
+
+// Helper function to determine if a category needs pagination
+export function shouldUsePagination(productType: string): boolean {
+  const count = getProductCountByType(productType)
+  return count > 50 // Use pagination for categories with more than 50 products
 } 
