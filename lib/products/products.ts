@@ -26,6 +26,9 @@ import { allenbradleyScrapedProducts } from './scraped/allen-bradley-scraped-pro
 import { nventScrapedProducts } from './scraped/nvent-scraped-products'
 import { unknownScrapedProducts } from './scraped/unknown-scraped-products'
 
+// Import all newly converted scraped products
+import { allScrapedProducts } from './scraped/all-scraped-products'
+
 // Convert PCBProducts to Product format
 const mappedPCBProducts: Product[] = pcbProducts.map((pcb, index) => ({
   id: 6000 + index, // Assign numeric IDs starting from 6000
@@ -507,12 +510,14 @@ export const allProducts: Product[] = [
   },
   // Klemsan Products (imported from klemsan-products.ts)
   ...klemsanProducts,
-  // Scraped Products
+  // Scraped Products (original)
   ...mitsubishiScrapedProducts,
   ...noarkScrapedProducts,
   ...schneiderelectricScrapedProducts,
   ...allenbradleyScrapedProducts,
   ...nventScrapedProducts,
+  // All newly converted scraped products (10,621 products)
+  ...allScrapedProducts,
   // Note: unknownScrapedProducts excluded until brands are properly identified
 ]
 
@@ -614,6 +619,84 @@ export const productBrands: string[] = [
   "Schneider Electric",
   "Allen Bradley",
   "nVent",
+  "General Electric",
+  "ABB",
+  "Siemens",
+  "Eaton",
+  "Square D",
+  "Cutler Hammer",
+  "Westinghouse",
+  "Fuji Electric",
+  "Omron",
+  "Honeywell",
+  "Emerson",
+  "Danfoss",
+  "Yaskawa",
+  "Delta",
+  "Lenze",
+  "SEW",
+  "Nord",
+  "Bonfiglioli",
+  "Leroy Somer",
+  "WEG",
+  "Teco",
+  "Baldor",
+  "Marathon",
+  "Leeson",
+  "Dayton",
+  "Grainger",
+  "McMaster",
+  "Automation Direct",
+  "Phoenix Contact",
+  "Weidmuller",
+  "Pepperl Fuchs",
+  "Turck",
+  "Balluff",
+  "Sick",
+  "Keyence",
+  "Banner",
+  "Cognex",
+  "Datalogic",
+  "Leuze",
+  "Wenglor",
+  "Contrinex",
+  "Baumer",
+  "IFM",
+  "Pilz",
+  "Murr",
+  "Harting",
+  "Molex",
+  "TE Connectivity",
+  "Amphenol",
+  "Belden",
+  "Panduit",
+  "Legrand",
+  "Wieland",
+  "Wago",
+  "Beckhoff",
+  "B&R",
+  "Lapp",
+  "Igus",
+  "Rittal",
+  "Hoffman",
+  "Hammond",
+  "Saginaw",
+  "Stahlin",
+  "Fibox",
+  "Bud",
+  "Polycase",
+  "OKW",
+  "Pactec",
+  "Serpac",
+  "Takachi",
+  "Teko",
+  "Rolec",
+  "Rose",
+  "New Age",
+  "Spelsberg",
+  "Gewiss",
+  "Hensel",
+  "Schroff"
 ]
 
 // Get featured products (first 8 products)
@@ -627,8 +710,20 @@ export const getProductsByCategory = (category: string): Product[] => {
   return cleanProducts.filter(product => product.category === category)
 }
 
-// Get products by brand with Mitsubishi, TMEIC, Katko, Erico, LS Industrial, and Noark support
+// Get products by brand with enhanced support for all brands
 export const getProductsByBrandEnhanced = (brand: string): Product[] => {
+  // Filter all products by brand for comprehensive support
+  const allProductsList = getAllProductsIncludingMitsubishi()
+  const filteredByBrand = allProductsList.filter(product => 
+    product.brand.toLowerCase() === brand.toLowerCase()
+  )
+  
+  // Return filtered products, or fallback to specific brand logic
+  if (filteredByBrand.length > 0) {
+    return filteredByBrand
+  }
+  
+  // Fallback to original brand-specific logic
   switch (brand.toLowerCase()) {
     case 'mitsubishi':
       return [...mitsubishiProducts, ...mitsubishiScrapedProducts]
