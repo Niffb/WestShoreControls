@@ -95,7 +95,8 @@ const ActionButtons = ({ isWindows }: { isWindows: boolean }) => (
     animate={{ opacity: 1, y: 0 }}
     transition={{ delay: 1.0, duration: 0.6 }}
   >
-    <motion.button 
+    <motion.a
+      href="/contact"
       className="group relative overflow-hidden bg-primary-500 hover:bg-primary-600 text-white font-semibold px-8 py-4 rounded-lg transition-all duration-300 transform hover:scale-105 hover:shadow-lg flex items-center justify-center min-h-[56px] touch-manipulation"
       whileHover={!isWindows ? { scale: 1.05 } : {}}
       whileTap={!isWindows ? { scale: 0.95 } : {}}
@@ -104,17 +105,18 @@ const ActionButtons = ({ isWindows }: { isWindows: boolean }) => (
         Contact Our Team
         <ArrowRightIcon className="ml-2 h-5 w-5 transform group-hover:translate-x-1 transition-transform duration-300" />
       </span>
-    </motion.button>
-    <motion.button 
+    </motion.a>
+    <motion.a
+      href="/product-types"
       className="group relative overflow-hidden bg-white hover:bg-gray-50 text-gray-700 font-semibold px-8 py-4 rounded-lg border-2 border-gray-300 hover:border-primary-500 transition-all duration-300 transform hover:scale-105 flex items-center justify-center min-h-[56px] touch-manipulation"
       whileHover={!isWindows ? { scale: 1.05 } : {}}
       whileTap={!isWindows ? { scale: 0.95 } : {}}
     >
       <span className="relative flex items-center justify-center">
-        View All Products
+        Browse by Product Type
         <ShoppingCartIcon className="ml-2 h-5 w-5 transform group-hover:translate-x-1 transition-transform duration-300" />
       </span>
-    </motion.button>
+    </motion.a>
   </motion.div>
 )
 

@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next'
+import { productTypes } from '@/lib/utils/product-types'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://westshorecontrols.com'
@@ -107,6 +108,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/product-types/`,
+      lastModified: currentDate,
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/catalogs/`,
       lastModified: currentDate,
       changeFrequency: 'weekly' as const,
@@ -176,11 +183,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     )
   )
 
+  // Product type pages
+  const productTypePages = productTypes.map(type => ({
+    url: `${baseUrl}/product-types/${type.slug}/`,
+    lastModified: currentDate,
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
+
   return [
     ...staticPages,
     ...brandPages,
     ...brandCategoryPages,
     ...subcategoryPages,
-    ...thirdLevelPages
+    ...thirdLevelPages,
+    ...productTypePages
   ]
 } 
