@@ -1,5 +1,5 @@
 import { Product } from '@/lib/types/shared-types';
-import b1hJsonData from '@/lib/data/noark/b1h.json';
+import b1hJsonData from '@/lib/data/noark/B1h.json';
 
 const convertB1HDataToProduct = (item: any, index: number): Product => {
   const id = 7000 + index;
