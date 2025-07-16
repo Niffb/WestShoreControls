@@ -1,0 +1,50 @@
+{
+  "scraping_summary": {
+    "total_categories": 10,
+    "total_products": 10614,
+    "scraped_at": "2025-07-15 10:55:56",
+    "source_website": "https://lowcostcontrols.com"
+  },
+  "categories": {
+    "other_products": {
+      "name": "Other Products",
+      "product_count": 4177
+    },
+    "power_distribution": {
+      "name": "Power Distribution",
+      "product_count": 277
+    },
+    "contactors": {
+      "name": "Contactors",
+      "product_count": 2648
+    },
+    "drives_vfds": {
+      "name": "Drives Vfds",
+      "product_count": 254
+    },
+    "circuit_breakers": {
+      "name": "Circuit Breakers",
+      "product_count": 1597
+    },
+    "overload_relays": {
+      "name": "Overload Relays",
+      "product_count": 445
+    },
+    "plcs": {
+      "name": "Plcs",
+      "product_count": 786
+    },
+    "led_indicators": {
+      "name": "Led Indicators",
+      "product_count": 30
+    },
+    "servo_motors": {
+      "name": "Servo Motors",
+      "product_count": 300
+    },
+    "push_buttons": {
+      "name": "Push Buttons",
+      "product_count": 100
+    }
+  }
+}

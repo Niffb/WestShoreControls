@@ -1,0 +1,4482 @@
+[
+  {
+    "brand": "NOARK",
+    "model": "B1E4P80",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "80A",
+    "curve": "P-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm width)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4P125",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "125A",
+    "curve": "P-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm width)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4P100",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "100A",
+    "curve": "P-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm width)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C7",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "7A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3P125",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "125A",
+    "curve": "P-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm width)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1P80",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "80A",
+    "curve": "P-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (110Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1C6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "C-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1P125",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "125A",
+    "curve": "P-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (110Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2B8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "B-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2C10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "C-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2P80",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "80A",
+    "curve": "P-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Vac) / 10kA (220Vdc)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2D8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "D-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2P100",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "100A",
+    "curve": "P-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Vac) / 10kA (220Vdc)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2P125",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "125A",
+    "curve": "P-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Vac) / 10kA (220Vdc)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E2P80",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "80A",
+    "curve": "P-curve",
+    "poles": "2-poles (2P)",
+    "interrupting_rating": "5kA (480Vac) / 10kA (220Vdc)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "6A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E1B16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "B-curve",
+    "poles": "1-pole (1P)",
+    "interrupting_rating": "5kA (277Vac) / 10kA (60Vdc)",
+    "rated_voltage": "277Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B60",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "60A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3B63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "B-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C2",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "2A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C50",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "50A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3C8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "C-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E3D35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "D-curve",
+    "poles": "3-poles (3P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4B63",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "63A",
+    "curve": "B-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C1",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C1.6",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "1.6A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C13",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "13A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C20",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "20A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C25",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "25A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C3",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "3A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C30",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "30A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C32",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "32A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C35",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "35A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C4",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "4A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C40",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "40A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C5",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "5A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4C8",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "8A",
+    "curve": "C-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D10",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "10A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D15",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "15A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  },
+  {
+    "brand": "NOARK",
+    "model": "B1E4D16",
+    "description": "Miniature Circuit Breaker (MCB) / supplementary protector - UL 1077 - NOARK (B1E series)",
+    "rated_current": "16A",
+    "curve": "D-curve",
+    "poles": "4-poles (4P)",
+    "interrupting_rating": "5kA (480Y/277Vac)",
+    "rated_voltage": "480Vac / 125Vdc",
+    "connections": "box lug connections",
+    "mounting": "DIN rail mounting (35mm)",
+    "availability": "Contact for availability",
+    "categories": [
+      "Electrical components",
+      "Electrical circuits protection",
+      "Circuit Breakers (CB)",
+      "Miniature Circuit Breakers (MCB)",
+      "DIN rail type MCBs"
+    ]
+  }
+]

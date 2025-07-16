@@ -1,0 +1,14 @@
+# This directory will contain product catalogs and documentation PDFs for download
+
+## Directory Structure:
+- mitsubishi/
+- erico/
+- ls-industrial/
+- noark/
+- klemsan/
+- katko/
+- tmeic/
+- elsteel/
+
+## Note:
+PDF files should be added to respective brand directories for actual download functionality. 
