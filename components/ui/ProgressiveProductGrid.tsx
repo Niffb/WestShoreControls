@@ -139,20 +139,12 @@ const ProductGridItem = ({ product }: { product: Product }) => {
           {product.description}
         </p>
         
-        {product.price && (
-          <div className="flex items-center justify-between mb-3">
-            <div className="flex items-center space-x-2">
-              <span className="text-lg font-bold text-gray-900">${product.price}</span>
-              {product.originalPrice && (
-                <span className="text-sm text-gray-500 line-through">${product.originalPrice}</span>
-              )}
+        {product.rating && (
+          <div className="flex items-center justify-end mb-3">
+            <div className="flex items-center">
+              <span className="text-yellow-400">★</span>
+              <span className="text-sm text-gray-600 ml-1">{product.rating}</span>
             </div>
-            {product.rating && (
-              <div className="flex items-center">
-                <span className="text-yellow-400">★</span>
-                <span className="text-sm text-gray-600 ml-1">{product.rating}</span>
-              </div>
-            )}
           </div>
         )}
         
