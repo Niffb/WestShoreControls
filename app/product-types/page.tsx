@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
+import { Suspense } from 'react'
 import { 
   BoltIcon, 
   CpuChipIcon, 
@@ -57,28 +58,38 @@ const iconMap: { [key: string]: any } = {
   'BatteryIcon': Battery0Icon,
 }
 
-export default function ProductTypesPage() {
-  const featuredTypes = getFeaturedProductTypes()
-  const allTypes = getAllProductTypes()
+// Loading skeleton component
+function ProductTypesSkeleton() {
+  return (
+    <div className="animate-pulse">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-16">
+        {Array.from({ length: 8 }).map((_, i) => (
+          <div key={i} className="bg-white rounded-xl shadow-lg p-6 border border-gray-100">
+            <div className="flex items-center justify-between mb-4">
+              <div className="p-3 bg-gray-200 rounded-lg w-12 h-12"></div>
+              <div className="text-right">
+                <div className="h-4 bg-gray-200 rounded w-8 mb-1"></div>
+                <div className="h-3 bg-gray-200 rounded w-12"></div>
+              </div>
+            </div>
+            <div className="h-5 bg-gray-200 rounded w-3/4 mb-2"></div>
+            <div className="h-4 bg-gray-200 rounded w-full mb-2"></div>
+            <div className="h-4 bg-gray-200 rounded w-2/3"></div>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+// Main content component
+async function ProductTypesContent() {
+  const featuredTypes = await getFeaturedProductTypes()
+  const allTypes = await getAllProductTypes()
   const otherTypes = allTypes.filter(type => !type.featured)
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
-      {/* Hero Section */}
-      <div className="pt-24 pb-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl lg:text-6xl">
-              Browse by <span className="text-red-600">Product Type</span>
-            </h1>
-            <p className="mt-6 text-xl text-gray-600 max-w-3xl mx-auto">
-              Find products by type across all brands. Search for specific product categories 
-              without needing to know the exact manufacturer.
-            </p>
-          </div>
-        </div>
-      </div>
-
+    <>
       {/* Featured Product Types */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
         <div className="mb-12">
@@ -114,20 +125,23 @@ export default function ProductTypesPage() {
                     {type.description}
                   </p>
                   
-                  <div className="flex flex-wrap gap-1">
-                    {type.brands.slice(0, 3).map((brand) => (
-                      <span
-                        key={brand}
-                        className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-800"
-                      >
-                        {brand}
-                      </span>
-                    ))}
-                    {type.brands.length > 3 && (
-                      <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
-                        +{type.brands.length - 3} more
-                      </span>
-                    )}
+                  <div className="flex items-center justify-between">
+                    <div className="flex flex-wrap gap-1">
+                      {type.brands.slice(0, 3).map((brand) => (
+                        <span key={brand} className="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded">
+                          {brand}
+                        </span>
+                      ))}
+                      {type.brands.length > 3 && (
+                        <span className="text-xs text-gray-500">+{type.brands.length - 3} more</span>
+                      )}
+                    </div>
+                    
+                    <div className="text-red-600 group-hover:text-red-700 transition-colors">
+                      <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+                      </svg>
+                    </div>
                   </div>
                 </div>
               </Link>
@@ -177,6 +191,32 @@ export default function ProductTypesPage() {
           </>
         )}
       </div>
+    </>
+  )
+}
+
+export default function ProductTypesPage() {
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
+      {/* Hero Section */}
+      <div className="pt-24 pb-12">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center">
+            <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl lg:text-6xl">
+              Browse by <span className="text-red-600">Product Type</span>
+            </h1>
+            <p className="mt-6 text-xl text-gray-600 max-w-3xl mx-auto">
+              Find products by type across all brands. Search for specific product categories 
+              without needing to know the exact manufacturer.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      {/* Content with Suspense */}
+      <Suspense fallback={<ProductTypesSkeleton />}>
+        <ProductTypesContent />
+      </Suspense>
 
       {/* Benefits Section */}
       <div className="bg-white/60 backdrop-blur-sm py-16">
@@ -213,9 +253,9 @@ export default function ProductTypesPage() {
               <div className="mx-auto h-12 w-12 bg-red-100 rounded-lg flex items-center justify-center mb-4">
                 <ShieldCheckIcon className="h-6 w-6 text-red-600" />
               </div>
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">Complete Selection</h3>
+              <h3 className="text-lg font-semibold text-gray-900 mb-2">Quality Assurance</h3>
               <p className="text-gray-600">
-                Access our entire inventory of each product type from all authorized brands and manufacturers.
+                All products are sourced from trusted manufacturers and meet industry standards.
               </p>
             </div>
           </div>

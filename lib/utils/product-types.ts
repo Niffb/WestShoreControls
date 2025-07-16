@@ -1,5 +1,6 @@
 import { Product } from '@/lib/types/shared-types'
 import { getAllProductsIncludingMitsubishi, productCategories } from '@/lib/products/products'
+import { searchIndex, initializeSearchIndex, filterProductsByType } from '@/lib/utils/search-index'
 
 // Product type configuration with icons and descriptions
 export interface ProductType {
@@ -27,31 +28,262 @@ export interface PaginatedResult<T> {
   }
 }
 
-// Cache for product data to prevent repeated expensive operations
-let productCache: Product[] | null = null
-let cacheTimestamp: number = 0
-const CACHE_DURATION = 5 * 60 * 1000 // 5 minutes
+// Enhanced caching with multiple cache layers
+interface CacheEntry<T> {
+  data: T
+  timestamp: number
+  ttl: number
+  size: number
+}
 
-// Lazy load products with caching
-function getProductsWithCache(): Product[] {
-  const now = Date.now()
-  
-  // Return cached data if still valid
-  if (productCache && (now - cacheTimestamp) < CACHE_DURATION) {
-    return productCache
+class ProductCache {
+  private cache = new Map<string, CacheEntry<any>>()
+  private readonly maxSize = 100 * 1024 * 1024 // 100MB cache limit
+  private readonly defaultTTL = 10 * 60 * 1000 // 10 minutes for product data
+  private readonly statsTTL = 5 * 60 * 1000 // 5 minutes for stats
+  private currentSize = 0
+
+  set<T>(key: string, data: T, ttl?: number): void {
+    const serialized = JSON.stringify(data)
+    const size = serialized.length * 2 // Rough estimate of memory usage
+    
+    // Clean up if we're approaching cache limit
+    if (this.currentSize + size > this.maxSize) {
+      this.cleanup()
+    }
+    
+    // Remove old entry if exists
+    if (this.cache.has(key)) {
+      this.currentSize -= this.cache.get(key)!.size
+    }
+    
+    this.cache.set(key, {
+      data,
+      timestamp: Date.now(),
+      ttl: ttl || this.defaultTTL,
+      size
+    })
+    
+    this.currentSize += size
   }
-  
-  try {
-    // Load products and cache them
-    productCache = getAllProductsIncludingMitsubishi()
-    cacheTimestamp = now
-    return productCache
-  } catch (error) {
-    console.error('Error loading products:', error)
-    // Return empty array if loading fails
-    return []
+
+  get<T>(key: string): T | null {
+    const entry = this.cache.get(key)
+    if (!entry) return null
+
+    if (Date.now() - entry.timestamp > entry.ttl) {
+      this.delete(key)
+      return null
+    }
+
+    return entry.data as T
+  }
+
+  delete(key: string): void {
+    const entry = this.cache.get(key)
+    if (entry) {
+      this.currentSize -= entry.size
+      this.cache.delete(key)
+    }
+  }
+
+  cleanup(): void {
+    const now = Date.now()
+    const entries = Array.from(this.cache.entries())
+    
+    // Remove expired entries first
+    for (const [key, entry] of entries) {
+      if (now - entry.timestamp > entry.ttl) {
+        this.delete(key)
+      }
+    }
+    
+    // If still over limit, remove oldest entries
+    if (this.currentSize > this.maxSize * 0.8) {
+      const sortedEntries = entries
+        .filter(([key]) => this.cache.has(key))
+        .sort(([, a], [, b]) => a.timestamp - b.timestamp)
+      
+      for (const [key] of sortedEntries) {
+        this.delete(key)
+        if (this.currentSize < this.maxSize * 0.6) break
+      }
+    }
+  }
+
+  clear(): void {
+    this.cache.clear()
+    this.currentSize = 0
+  }
+
+  getStats() {
+    return {
+      size: this.currentSize,
+      entries: this.cache.size,
+      maxSize: this.maxSize
+    }
   }
 }
+
+// Global cache instance
+const productCache = new ProductCache()
+
+// Lazy loading with progressive data fetching
+class ProductLoader {
+  private loadingPromises = new Map<string, Promise<Product[]>>()
+  private isFullyLoaded = false
+  private loadedBrands = new Set<string>()
+
+  async loadAllProducts(): Promise<Product[]> {
+    const cacheKey = 'all-products'
+    const cached = productCache.get<Product[]>(cacheKey)
+    if (cached) return cached
+
+    // Check if we have a loading promise in progress
+    if (this.loadingPromises.has(cacheKey)) {
+      return this.loadingPromises.get(cacheKey)!
+    }
+
+    const loadingPromise = this.performFullLoad()
+    this.loadingPromises.set(cacheKey, loadingPromise)
+
+    try {
+      const products = await loadingPromise
+      productCache.set(cacheKey, products)
+      this.isFullyLoaded = true
+      return products
+    } finally {
+      this.loadingPromises.delete(cacheKey)
+    }
+  }
+
+  private async performFullLoad(): Promise<Product[]> {
+    // Use a performance monitor to track loading time
+    const startTime = performance.now()
+    
+    try {
+      const products = getAllProductsIncludingMitsubishi()
+      
+      const loadTime = performance.now() - startTime
+      if (loadTime > 1000) {
+        console.warn(`Slow product loading detected: ${loadTime.toFixed(2)}ms`)
+      }
+      
+      return products
+    } catch (error) {
+      console.error('Error loading products:', error)
+      return []
+    }
+  }
+
+  async loadProductsByType(productType: string): Promise<Product[]> {
+    const cacheKey = `products-by-type-${productType}`
+    const cached = productCache.get<Product[]>(cacheKey)
+    if (cached) return cached
+
+    if (this.loadingPromises.has(cacheKey)) {
+      return this.loadingPromises.get(cacheKey)!
+    }
+
+    const loadingPromise = this.performTypeLoad(productType)
+    this.loadingPromises.set(cacheKey, loadingPromise)
+
+    try {
+      const products = await loadingPromise
+      productCache.set(cacheKey, products)
+      return products
+    } finally {
+      this.loadingPromises.delete(cacheKey)
+    }
+  }
+
+  private async performTypeLoad(productType: string): Promise<Product[]> {
+    const allProducts = await this.loadAllProducts()
+    
+    // Initialize search index if not already done
+    if (!searchIndex.isIndexValid()) {
+      initializeSearchIndex(allProducts)
+    }
+    
+    // Find the product type configuration
+    const typeConfig = productTypes.find(type => type.slug === productType)
+    if (!typeConfig) return []
+    
+    // Use optimized filtering with search index
+    let filteredProducts = filterProductsByType(allProducts, typeConfig.category)
+    
+    // Handle special cases with additional filtering
+    if (filteredProducts.length === 0) {
+      switch (typeConfig.slug) {
+        case 'circuit-breakers':
+          filteredProducts = allProducts.filter(product => 
+            product.category === 'Circuit Breakers' || 
+            product.category === 'Miniature Circuit Breakers' ||
+            product.category === 'Motor-Circuit Protectors' ||
+            product.category === 'Air Circuit Breakers' ||
+            product.category === 'Power Circuit Breakers'
+          )
+          break
+        
+        case 'variable-frequency-drives':
+          filteredProducts = allProducts.filter(product => 
+            product.category === 'Variable Frequency Drives' ||
+            (product as any).subcategory?.includes('Series Inverters')
+          )
+          break
+        
+        case 'contactors':
+          filteredProducts = allProducts.filter(product => 
+            product.category === 'Contactors' ||
+            product.category === 'Magnetic Contactor'
+          )
+          break
+        
+        case 'terminal-blocks':
+          filteredProducts = allProducts.filter(product => 
+            product.category === 'Terminal Blocks' ||
+            product.category === 'Screw Terminals' ||
+            product.category === 'Spring Terminals' ||
+            product.category === 'Plug Terminals' ||
+            product.category === 'Other Terminals'
+          )
+          break
+        
+        default:
+          filteredProducts = []
+      }
+    }
+    
+    return filteredProducts
+  }
+
+  clearCache(): void {
+    productCache.clear()
+    this.loadingPromises.clear()
+    this.isFullyLoaded = false
+    this.loadedBrands.clear()
+    
+    // Clear search index as well
+    searchIndex.clearIndex()
+  }
+
+  // Memory management - cleanup old data
+  performMemoryCleanup(): void {
+    // Clear old cache entries
+    productCache.cleanup()
+    
+    // Clear loading promises that might be stuck
+    this.loadingPromises.clear()
+    
+    // Force garbage collection hint (if available)
+    if (typeof global !== 'undefined' && global.gc) {
+      global.gc()
+    }
+  }
+}
+
+// Global loader instance
+const productLoader = new ProductLoader()
 
 // Main product types that exist across brands
 export const productTypes: ProductType[] = [
@@ -233,74 +465,40 @@ export const productTypes: ProductType[] = [
   }
 ]
 
-// Get all products aggregated by type with optimization
-export function getProductsByType(productType: string): Product[] {
+// Enhanced product loading with lazy loading
+export async function getProductsByType(productType: string): Promise<Product[]> {
   try {
-    const allProducts = getProductsWithCache()
-    
-    // Find the product type configuration
-    const typeConfig = productTypes.find(type => type.slug === productType)
-    if (!typeConfig) return []
-    
-    // Filter products by category with optimized filtering
-    const filteredProducts = allProducts.filter(product => {
-      // Direct category match
-      if (product.category === typeConfig.category) return true
-      
-      // Handle special cases and alternative category names
-      switch (typeConfig.slug) {
-        case 'circuit-breakers':
-          return product.category === 'Circuit Breakers' || 
-                 product.category === 'Miniature Circuit Breakers' ||
-                 product.category === 'Motor-Circuit Protectors' ||
-                 product.category === 'Air Circuit Breakers' ||
-                 product.category === 'Power Circuit Breakers'
-        
-        case 'variable-frequency-drives':
-          return product.category === 'Variable Frequency Drives' ||
-                 (product as any).subcategory?.includes('Series Inverters')
-        
-        case 'contactors':
-          return product.category === 'Contactors' ||
-                 product.category === 'Magnetic Contactor'
-        
-        case 'terminal-blocks':
-          return product.category === 'Terminal Blocks' ||
-                 product.category === 'Screw Terminals' ||
-                 product.category === 'Spring Terminals' ||
-                 product.category === 'Plug Terminals' ||
-                 product.category === 'Other Terminals'
-        
-        default:
-          return false
-      }
-    })
-    
-    return filteredProducts
+    return await productLoader.loadProductsByType(productType)
   } catch (error) {
-    console.error('Error filtering products by type:', error)
+    console.error('Error loading products by type:', error)
     return []
   }
 }
 
-// Get paginated products by type
-export function getPaginatedProductsByType(
+// Optimized pagination with streaming
+export async function getPaginatedProductsByType(
   productType: string, 
   page: number = 1, 
   limit: number = 24
-): PaginatedResult<Product> {
+): Promise<PaginatedResult<Product>> {
   try {
-    const allProducts = getProductsByType(productType)
+    // Use smaller limits for very large categories
+    const usePagination = shouldUsePaginationSync(productType)
+    const adjustedLimit = usePagination ? Math.min(limit, 48) : limit
+    
+    const allProducts = await productLoader.loadProductsByType(productType)
     const total = allProducts.length
-    const totalPages = Math.ceil(total / limit)
-    const offset = (page - 1) * limit
-    const items = allProducts.slice(offset, offset + limit)
+    const totalPages = Math.ceil(total / adjustedLimit)
+    const offset = (page - 1) * adjustedLimit
+    
+    // Only slice the data we need for this page
+    const items = allProducts.slice(offset, offset + adjustedLimit)
     
     return {
       items,
       pagination: {
         page,
-        limit,
+        limit: adjustedLimit,
         total,
         totalPages,
         hasNext: page < totalPages,
@@ -323,28 +521,42 @@ export function getPaginatedProductsByType(
   }
 }
 
-// Get product count by type (for statistics)
-export function getProductCountByType(productType: string): number {
+// Optimized count function with caching
+export async function getProductCountByType(productType: string): Promise<number> {
+  const cacheKey = `count-${productType}`
+  const cached = productCache.get<number>(cacheKey)
+  if (cached !== null) return cached
+
   try {
-    return getProductsByType(productType).length
+    const products = await productLoader.loadProductsByType(productType)
+    const count = products.length
+    productCache.set(cacheKey, count, productCache['statsTTL'])
+    return count
   } catch (error) {
     console.error('Error getting product count:', error)
     return 0
   }
 }
 
-// Get product type with updated counts and brands
-export function getProductTypeWithStats(productType: ProductType): ProductType {
+// Enhanced product type with statistics
+export async function getProductTypeWithStats(productType: ProductType): Promise<ProductType> {
+  const cacheKey = `stats-${productType.slug}`
+  const cached = productCache.get<ProductType>(cacheKey)
+  if (cached) return cached
+
   try {
-    const products = getProductsByType(productType.slug)
+    const products = await productLoader.loadProductsByType(productType.slug)
     const brandSet = new Set(products.map(p => p.brand))
     const brands = Array.from(brandSet)
     
-    return {
+    const result = {
       ...productType,
       count: products.length,
       brands: brands.sort()
     }
+    
+    productCache.set(cacheKey, result, productCache['statsTTL'])
+    return result
   } catch (error) {
     console.error('Error getting product type stats:', error)
     return {
@@ -355,28 +567,79 @@ export function getProductTypeWithStats(productType: ProductType): ProductType {
   }
 }
 
-// Get all product types with updated statistics
-export function getAllProductTypesWithStats(): ProductType[] {
-  return productTypes.map(getProductTypeWithStats)
+// Optimized functions for getting all product types
+export async function getAllProductTypesWithStats(): Promise<ProductType[]> {
+  const cacheKey = 'all-product-types-stats'
+  const cached = productCache.get<ProductType[]>(cacheKey)
+  if (cached) return cached
+
+  try {
+    const results = await Promise.all(
+      productTypes.map(type => getProductTypeWithStats(type))
+    )
+    
+    productCache.set(cacheKey, results, productCache['statsTTL'])
+    return results
+  } catch (error) {
+    console.error('Error getting all product types with stats:', error)
+    return productTypes.map(type => ({ ...type, count: 0, brands: [] }))
+  }
 }
 
-// Get featured product types
-export function getFeaturedProductTypes(): ProductType[] {
-  return getAllProductTypesWithStats().filter(type => type.featured && type.count > 0)
+export async function getFeaturedProductTypes(): Promise<ProductType[]> {
+  const allTypes = await getAllProductTypesWithStats()
+  return allTypes.filter(type => type.featured && type.count > 0)
 }
 
-// Get all product types (including non-featured)
-export function getAllProductTypes(): ProductType[] {
-  return getAllProductTypesWithStats().filter(type => type.count > 0)
+export async function getAllProductTypes(): Promise<ProductType[]> {
+  const allTypes = await getAllProductTypesWithStats()
+  return allTypes.filter(type => type.count > 0)
 }
 
-// Convert product type name to URL slug
-export function getProductTypeSlug(typeName: string): string {
-  return typeName
-    .toLowerCase()
-    .replace(/\s*&\s*/g, '-')
-    .replace(/\s+/g, '-')
-    .replace(/[()]/g, '')
+// Enhanced pagination detection with more aggressive thresholds
+export async function shouldUsePagination(productType: string): Promise<boolean> {
+  // Use more aggressive pagination for performance
+  const thresholds = {
+    'circuit-breakers': 30,        // Very large category
+    'variable-frequency-drives': 40, // Large category
+    'contactors': 35,              // Large category
+    'miniature-circuit-breakers': 25, // Large category
+    'motor-circuit-protectors': 30,   // Large category
+    'overload-relays': 40,         // Medium category
+    'default': 50                  // Default threshold
+  }
+  
+  try {
+    const count = await getProductCountByType(productType)
+    const threshold = thresholds[productType] || thresholds.default
+    return count > threshold
+  } catch (error) {
+    return true // Default to pagination on error
+  }
+}
+
+// Synchronous version for immediate use
+export function shouldUsePaginationSync(productType: string): boolean {
+  const thresholds = {
+    'circuit-breakers': 30,
+    'variable-frequency-drives': 40,
+    'contactors': 35,
+    'miniature-circuit-breakers': 25,
+    'motor-circuit-protectors': 30,
+    'overload-relays': 40,
+    'default': 50
+  }
+  
+  // Check cache first
+  const cacheKey = `count-${productType}`
+  const cachedCount = productCache.get<number>(cacheKey)
+  if (cachedCount !== null) {
+    const threshold = thresholds[productType] || thresholds.default
+    return cachedCount > threshold
+  }
+  
+  // Default to pagination for unknown categories
+  return true
 }
 
 // Get breadcrumb data for product type pages
@@ -390,14 +653,77 @@ export function getProductTypeBreadcrumbs(productTypeSlug: string) {
   ]
 }
 
-// Clear cache function for manual cache invalidation
-export function clearProductCache() {
-  productCache = null
-  cacheTimestamp = 0
+// Convert product type name to URL slug
+export function getProductTypeSlug(typeName: string): string {
+  return typeName
+    .toLowerCase()
+    .replace(/\s*&\s*/g, '-')
+    .replace(/\s+/g, '-')
+    .replace(/[()]/g, '')
 }
 
-// Helper function to determine if a category needs pagination
-export function shouldUsePagination(productType: string): boolean {
-  const count = getProductCountByType(productType)
-  return count > 50 // Use pagination for categories with more than 50 products
+// Cache management utilities
+export function clearProductCache(): void {
+  productLoader.clearCache()
+}
+
+export function getProductCacheStats() {
+  return productCache.getStats()
+}
+
+// Preload critical product types
+export async function preloadCriticalTypes(): Promise<void> {
+  const criticalTypes = [
+    'variable-frequency-drives',
+    'circuit-breakers',
+    'contactors',
+    'miniature-circuit-breakers'
+  ]
+  
+  // Load in parallel but don't await to avoid blocking
+  criticalTypes.forEach(type => {
+    productLoader.loadProductsByType(type).catch(error => {
+      console.warn(`Failed to preload ${type}:`, error)
+    })
+  })
+}
+
+// Background cache warming and memory management
+if (typeof window !== 'undefined') {
+  // Only run in browser
+  setTimeout(() => {
+    preloadCriticalTypes().catch(console.error)
+  }, 1000)
+  
+  // Periodic memory cleanup (every 10 minutes)
+  setInterval(() => {
+    productLoader.performMemoryCleanup()
+  }, 10 * 60 * 1000)
+  
+  // Memory pressure handling
+  if ('memory' in performance) {
+    const checkMemoryPressure = () => {
+      const memInfo = (performance as any).memory
+      if (memInfo) {
+        const usedRatio = memInfo.usedJSHeapSize / memInfo.totalJSHeapSize
+        if (usedRatio > 0.8) {
+          console.warn('High memory usage detected, performing cleanup')
+          productLoader.performMemoryCleanup()
+        }
+      }
+    }
+    
+    // Check memory pressure every 2 minutes
+    setInterval(checkMemoryPressure, 2 * 60 * 1000)
+  }
+  
+  // Handle page visibility changes for memory management
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) {
+      // Page is hidden, perform cleanup
+      setTimeout(() => {
+        productLoader.performMemoryCleanup()
+      }, 5000) // Wait 5 seconds before cleanup
+    }
+  })
 } 

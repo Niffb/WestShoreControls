@@ -486,9 +486,105 @@ export const lsIndustrialProducts: Product[] = [
     ]
   },
 
-  // LS Industrial Softstarters
+  // Starvert S100 Series
   {
     id: 5016,
+    name: "Starvert S100 Series",
+    model: "S100",
+    brand: "LS Industrial",
+    category: "Variable Frequency Drives",
+    description: "NEMA 4X (IP66) rated variable frequency drives designed for harsh environments with waterproof enclosure, robust construction, and reliable outdoor operation.",
+    price: 1250,
+    rating: 4.8,
+    reviews: 142,
+    images: [
+      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+    ],
+    inStock: true,
+    badge: "NEMA 4X",
+    specs: [
+      "NEMA 4X (IP66) rated",
+      "Harsh environment operation",
+      "Waterproof enclosure",
+      "Outdoor applications"
+    ],
+    features: [
+      "Weatherproof design",
+      "Harsh environment rated",
+      "Corrosion resistant",
+      "Wide temperature range",
+      "Dust and water protection",
+      "Reliable outdoor operation"
+    ]
+  },
+
+  // Starvert H100 Series
+  {
+    id: 5017,
+    name: "Starvert H100 Series",
+    model: "H100",
+    brand: "LS Industrial",
+    category: "Variable Frequency Drives",
+    description: "HVAC optimized variable frequency drives with specialized features for heating, ventilation, and air conditioning applications including energy-saving algorithms.",
+    price: 875,
+    rating: 4.7,
+    reviews: 198,
+    images: [
+      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+    ],
+    inStock: true,
+    badge: "HVAC Optimized",
+    specs: [
+      "HVAC optimization",
+      "Energy-saving algorithms",
+      "Specialized HVAC features",
+      "Building automation ready"
+    ],
+    features: [
+      "HVAC optimization",
+      "Energy efficiency",
+      "Sleep/wake function",
+      "Fire mode operation",
+      "BMS integration",
+      "Auto restart"
+    ]
+  },
+
+  // Starvert C100 Series
+  {
+    id: 5018,
+    name: "Starvert C100 Series",
+    model: "C100",
+    brand: "LS Industrial",
+    category: "Variable Frequency Drives",
+    description: "Compact variable frequency drives with space-saving design, essential control features, and cost-effective solution for standard motor control applications.",
+    price: 625,
+    rating: 4.5,
+    reviews: 176,
+    images: [
+      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+    ],
+    inStock: true,
+    badge: "Compact",
+    specs: [
+      "Space-saving design",
+      "Essential control features",
+      "Cost-effective solution",
+      "Standard motor control"
+    ],
+    features: [
+      "Compact footprint",
+      "Essential features",
+      "Cost effective",
+      "Easy installation",
+      "Simple operation",
+      "Reliable performance"
+    ]
+  },
+
+  // LS Industrial Softstarters
+  {
+    id: 5019,
     name: "LS Industrial Softstarters",
     model: "Softstarter Series",
     brand: "LS Industrial",
@@ -519,7 +615,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // SMART IO Series
   {
-    id: 5017,
+    id: 5020,
     name: "SMART IO Series",
     model: "SMART IO",
     brand: "LS Industrial",
@@ -551,7 +647,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // Optidrive PCE Series
   {
-    id: 5018,
+    id: 5021,
     name: "Optidrive PCE Series",
     model: "PCE",
     brand: "LS Industrial",
@@ -583,7 +679,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // Optidrive P2 Series
   {
-    id: 5019,
+    id: 5022,
     name: "Optidrive P2 Series",
     model: "P2",
     brand: "LS Industrial",
@@ -614,7 +710,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // Optidrive HVAC Series
   {
-    id: 5020,
+    id: 5023,
     name: "Optidrive HVAC Series",
     model: "HVAC",
     brand: "LS Industrial",
@@ -646,7 +742,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // Optidrive HVAC Eco Series
   {
-    id: 5021,
+    id: 5024,
     name: "Optidrive HVAC Eco Series",
     model: "HVAC Eco",
     brand: "LS Industrial",
@@ -678,7 +774,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // Optidrive E2 Series
   {
-    id: 5022,
+    id: 5025,
     name: "Optidrive E2 Series",
     model: "E2",
     brand: "LS Industrial",
@@ -710,7 +806,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // Optidrive E2 Single Phase
   {
-    id: 5023,
+    id: 5029,
     name: "Optidrive E2 Single Phase",
     model: "E2 Single Phase",
     brand: "LS Industrial",
@@ -742,7 +838,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // Programmable Logic Controls & HMI
   {
-    id: 5024,
+    id: 5030,
     name: "PLC & HMI Systems",
     model: "PLC-HMI",
     brand: "LS Industrial",
@@ -775,7 +871,7 @@ export const lsIndustrialProducts: Product[] = [
 
   // General Overload Relays
   {
-    id: 5025,
+    id: 5028,
     name: "LS Industrial Overload Relays",
     model: "OR Series",
     brand: "LS Industrial",
