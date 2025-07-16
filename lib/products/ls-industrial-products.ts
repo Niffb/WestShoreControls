@@ -51,7 +51,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 234,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg",
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif",
       "products/ls_industrial/medium_voltage_VFD_medium_voltage_VFD_medium-voltage-vfd-300x300_28da3219.jpg"
     ],
     inStock: true,
@@ -149,7 +149,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 142,
     images: [
-      "products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg"
+      "assets/images/products/ls_industrial/circuit_breakers/LS_Circuit_Breakers_ac8c6d15-6d04-4783-bd21-b3ad48834527_medium.avif"
     ],
     inStock: true,
     badge: "High Performance",
@@ -181,7 +181,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 98,
     images: [
-      "products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg"
+      "assets/images/products/ls_industrial/circuit_breakers/susol_ute-uts_medium.avif"
     ],
     inStock: true,
     badge: "UL Listed",
@@ -213,7 +213,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.9,
     reviews: 67,
     images: [
-      "products/ls_industrial/air_circuit_breakers_air_circuit_breakers_air-circuit-breakers-300x300_35876d55.jpg"
+      "assets/images/products/ls_industrial/circuit_breakers/LS_Air_Circuit_Breakers_300x300_07663745-438a-490f-a641-fa5af3574e74_medium.avif"
     ],
     inStock: true,
     badge: "High Capacity",
@@ -245,7 +245,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.6,
     reviews: 178,
     images: [
-      "products/ls_industrial/LS_starvert_iV5_LS_starvert_iV5_iV5-300x300_a5496187.jpg"
+      "assets/images/products/ls_industrial/LS_starvert_iV5_LS_starvert_iV5_iV5-300x300_a5496187.jpg"
     ],
     inStock: true,
     specs: [
@@ -276,7 +276,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 134,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/Starvert_S100_medium.avif"
     ],
     inStock: true,
     badge: "High Performance",
@@ -308,7 +308,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 165,
     images: [
-      "products/ls_industrial/Starvert_iP5A_LS_Starvert_iP5A_LS_iP5A-300x300_af011ef2.jpg"
+      "assets/images/products/ls_industrial/Starvert_iP5A_medium.avif"
     ],
     inStock: true,
     badge: "Pump & Fan Optimized",
@@ -340,7 +340,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 223,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/Stavert_iS5_medium.avif"
     ],
     inStock: true,
     specs: [
@@ -371,7 +371,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 89,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/Stavert_H100_medium.avif"
     ],
     inStock: true,
     badge: "Heavy Duty",
@@ -403,7 +403,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.4,
     reviews: 267,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "Economy",
@@ -435,7 +435,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.6,
     reviews: 145,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/Starvert_C100_9c6865c5-524b-4222-bf20-e6f81559794b_medium.avif"
     ],
     inStock: true,
     specs: [
@@ -466,7 +466,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 198,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/Starvert_iC5_medium.avif"
     ],
     inStock: true,
     badge: "Compact",
@@ -561,7 +561,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 98,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "Performance",
@@ -593,7 +593,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.6,
     reviews: 187,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     specs: [
@@ -624,7 +624,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 143,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "HVAC Optimized",
@@ -656,7 +656,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 167,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "Eco",
@@ -688,7 +688,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.4,
     reviews: 234,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "Economy",
@@ -720,7 +720,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 145,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "Single Phase",

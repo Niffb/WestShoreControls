@@ -9,11 +9,11 @@ const convertB1HDataToProduct = (item: any, index: number): Product => {
   let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1H Series Breakers.avif';
   
   if (item.poles.includes('1-pole') || item.poles.includes('1P')) {
-    imagePath = '/noark 1 pole.jpg';
+    imagePath = 'assets/images/products/noark/circuit_breakers/Noark_MCB_medium.avif';
   } else if (item.poles.includes('2-pole') || item.poles.includes('2P')) {
-    imagePath = '/noark 2 pole.jpg';
+    imagePath = 'assets/images/products/noark/circuit_breakers/Noark_MCB_e0490812-66e8-43f8-b876-7742ba3fae49_medium.avif';
   } else if (item.poles.includes('3-pole') || item.poles.includes('3P')) {
-    imagePath = '/noark 3 pole.jpg';
+    imagePath = 'assets/images/products/noark/circuit_breakers/Noark_MCB_medium.avif';
   }
 
   return {

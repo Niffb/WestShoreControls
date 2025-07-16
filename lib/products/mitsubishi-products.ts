@@ -28,8 +28,8 @@ const frfDriveProducts: Product[] = frFDrives.map((drive, index) => {
     description: drive.description || `Mitsubishi ${isF900Drive ? 'FR-F900' : 'FR-F800'} Series Variable Frequency Drive`,
     rating: 4.8,
     reviews: Math.floor(Math.random() * 20) + 5,
-    // Use the new image for F900 drives, otherwise use the standard F800 image
-    images: [isF900Drive ? "/Users/nathanielbareham/Downloads/westshorecontrols-production/mitsubishi-electric-FA-f800 (1).jpg" : getImageUrl("mitsubishi/mitsubishi-electric-FA-f800.jpg")],
+    // Use the correct relative image paths for both F900 and F800 drives
+    images: [isF900Drive ? "assets/images/products/mitsubishi/mitsubishi-electric-FA-f800.webp" : "assets/images/products/mitsubishi/drives/Mitsubishi_F800_Series_300x300_019b1561-110c-4fb4-a377-1493b5180803_medium.avif"],
     inStock: drive.availability === "IN STOCK",
     specs: [
       `FREQROL ${isF900Drive ? 'FR-F900' : 'FR-F800'} Series`,
@@ -300,7 +300,7 @@ export const mitsubishiProducts: Product[] = [
     price: 1850,
     rating: 4.8,
     reviews: 156,
-    images: [getImageUrl("mitsubishi/drives/melservo-ac-servo.webp")],
+    images: ["assets/images/products/mitsubishi/servo-motors/Mitsubishi_MELSERVO_J5_medium.avif"],
     inStock: true,
     badge: "Popular",
     specs: [
@@ -329,7 +329,7 @@ export const mitsubishiProducts: Product[] = [
     price: 945,
     rating: 4.6,
     reviews: 203,
-    images: [getImageUrl("mitsubishi/drives/freqrol-inverter.webp")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_D700_Series_300x300_72a55542-e148-4d3c-aa1b-ef4bcddb54fd_medium.avif"],
     inStock: true,
     specs: [
       "Three-phase induction motor control",
@@ -358,7 +358,7 @@ export const mitsubishiProducts: Product[] = [
     price: null,
     rating: 4.9,
     reviews: 85,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "Premium",
     specs: [
@@ -418,7 +418,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 15,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 200-240VAC (3-phase)",
@@ -463,7 +463,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 12,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 200-240VAC (3-phase)",
@@ -502,7 +502,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 1.5A (ND Normal Duty)",
     rating: 4.9,
     reviews: 18,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
@@ -541,7 +541,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
     rating: 4.7,
     reviews: 16,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
@@ -580,7 +580,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 75kW / 100HP - 144A (ND Normal Duty)",
     rating: 4.9,
     reviews: 22,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
@@ -618,7 +618,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 160kW / 250HP - 325A (ND Normal Duty)",
     rating: 4.9,
     reviews: 16,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
@@ -656,7 +656,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 280kW / 400HP - 547A (ND Normal Duty)",
     rating: 4.9,
     reviews: 10,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
@@ -781,7 +781,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + CA term (0-20mA) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz",
     rating: 4.8,
     reviews: 16,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 200-240VAC (3-phase)",
@@ -820,7 +820,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 22,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -860,7 +860,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz",
     rating: 4.7,
     reviews: 18,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 200-240VAC (3-phase)",
@@ -899,7 +899,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty)",
     rating: 4.8,
     reviews: 19,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -938,7 +938,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty)",
     rating: 4.9,
     reviews: 21,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -978,7 +978,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 1.5A (ND Normal Duty)",
     rating: 4.8,
     reviews: 17,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1017,7 +1017,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 1.5A (ND Normal Duty)",
     rating: 4.9,
     reviews: 23,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1057,7 +1057,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty) - frequency (output) 0.2-590Hz",
     rating: 4.7,
     reviews: 16,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
@@ -1096,7 +1096,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
     rating: 4.8,
     reviews: 18,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1135,7 +1135,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
     rating: 4.9,
     reviews: 22,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1175,7 +1175,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 1.5kW / 2HP - 4A (ND Normal Duty) - frequency (output) 0.2-590Hz",
     rating: 4.8,
     reviews: 19,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1215,7 +1215,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 1.5kW / 2HP - 4A (ND Normal Duty)",
     rating: 4.8,
     reviews: 20,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1254,7 +1254,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 1.5kW / 2HP - 4A (ND Normal Duty)",
     rating: 4.9,
     reviews: 25,
-    images: [getImageUrl("mitsubishi/drives/mitsubishi-electric-FA-a800plus.jpg")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1297,7 +1297,7 @@ export const mitsubishiProducts: Product[] = [
     price: undefined,
     rating: 4.7,
     reviews: 84,
-    images: [getImageUrl("assets/images/products/mitsubishi/mitsubishi-electric-FA-a800.webp")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: drive.availability === "IN STOCK",
     badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
     specs: [
@@ -1326,7 +1326,7 @@ export const mitsubishiProducts: Product[] = [
     price: undefined,
     rating: 4.8,
     reviews: 76,
-    images: [getImageUrl("assets/images/products/mitsubishi/mitsubishi-electric-FA-a800.webp")],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
     inStock: drive.availability === "IN STOCK",
     badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
     specs: [

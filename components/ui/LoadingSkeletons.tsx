@@ -222,4 +222,86 @@ export function PerformanceDashboardSkeleton() {
   )
 }
 
+// Page skeleton for general page loading
+export function PageSkeleton() {
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
+      {/* Header skeleton */}
+      <div className="bg-white/80 backdrop-blur-sm border-b border-gray-200 pt-24 pb-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="h-12 w-96 bg-gray-200 rounded animate-pulse mx-auto mb-4"></div>
+          <div className="h-6 w-2/3 bg-gray-200 rounded animate-pulse mx-auto"></div>
+        </div>
+      </div>
+
+      {/* Content skeleton */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="space-y-8">
+          {[...Array(3)].map((_, i) => (
+            <div key={i} className="bg-white rounded-lg shadow-sm p-6">
+              <div className="h-6 w-48 bg-gray-200 rounded animate-pulse mb-4"></div>
+              <ContentSkeleton lines={4} />
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}
+
+// Page header skeleton for hero sections
+export function PageHeaderSkeleton() {
+  return (
+    <div className="bg-white/80 backdrop-blur-sm border-b border-gray-200 pt-24 pb-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        {/* Title skeleton */}
+        <div className="h-12 w-96 bg-gray-200 rounded animate-pulse mx-auto mb-4"></div>
+        
+        {/* Subtitle skeleton */}
+        <div className="space-y-2 mb-8">
+          <div className="h-6 w-full max-w-2xl bg-gray-200 rounded animate-pulse mx-auto"></div>
+          <div className="h-6 w-2/3 bg-gray-200 rounded animate-pulse mx-auto"></div>
+        </div>
+        
+        {/* CTA buttons skeleton */}
+        <div className="flex justify-center space-x-4">
+          <div className="h-12 w-32 bg-gray-200 rounded-lg animate-pulse"></div>
+          <div className="h-12 w-28 bg-gray-200 rounded-lg animate-pulse"></div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+// Brand selection skeleton for homepage
+export function BrandSelectionSkeleton() {
+  return (
+    <div className="py-16 bg-gradient-to-br from-slate-50 via-white to-red-900/5">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Section header skeleton */}
+        <div className="text-center mb-12">
+          <div className="h-10 w-64 bg-gray-200 rounded animate-pulse mx-auto mb-4"></div>
+          <div className="h-6 w-96 bg-gray-200 rounded animate-pulse mx-auto"></div>
+        </div>
+        
+        {/* Brand grid skeleton */}
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
+          {[...Array(12)].map((_, i) => (
+            <div key={i} className="bg-white rounded-xl shadow-lg p-6 hover:shadow-xl transition-shadow">
+              {/* Brand logo skeleton */}
+              <div className="w-full h-16 bg-gray-200 rounded animate-pulse mb-4"></div>
+              
+              {/* Brand name skeleton */}
+              <div className="h-5 w-3/4 bg-gray-200 rounded animate-pulse mx-auto mb-2"></div>
+              
+              {/* Product count skeleton */}
+              <div className="h-4 w-1/2 bg-gray-200 rounded animate-pulse mx-auto"></div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default LoadingSkeleton 
