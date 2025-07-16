@@ -147,6 +147,66 @@ export function PaginationSkeleton() {
   )
 }
 
+// Filter bar skeleton for search/filter interfaces
+export function FilterBarSkeleton() {
+  return (
+    <div className="bg-white rounded-lg shadow-sm p-4 mb-6">
+      <div className="flex flex-wrap items-center gap-4">
+        {/* Search bar skeleton */}
+        <div className="flex-1 min-w-64">
+          <div className="h-10 bg-gray-200 rounded-md animate-pulse"></div>
+        </div>
+        
+        {/* Filter dropdowns skeleton */}
+        <div className="flex gap-2">
+          {[...Array(3)].map((_, i) => (
+            <div key={i} className="h-10 w-32 bg-gray-200 rounded-md animate-pulse"></div>
+          ))}
+        </div>
+        
+        {/* Sort dropdown skeleton */}
+        <div className="h-10 w-24 bg-gray-200 rounded-md animate-pulse"></div>
+      </div>
+    </div>
+  )
+}
+
+// Hero section skeleton
+export function HeroSkeleton() {
+  return (
+    <div className="bg-gradient-to-br from-slate-50 via-white to-red-900/5 py-20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="text-center">
+          {/* Main title skeleton */}
+          <div className="h-16 w-full max-w-4xl bg-gray-200 rounded animate-pulse mx-auto mb-6"></div>
+          
+          {/* Subtitle skeleton */}
+          <div className="space-y-3 mb-8">
+            <div className="h-6 w-full max-w-3xl bg-gray-200 rounded animate-pulse mx-auto"></div>
+            <div className="h-6 w-2/3 bg-gray-200 rounded animate-pulse mx-auto"></div>
+          </div>
+          
+          {/* CTA buttons skeleton */}
+          <div className="flex flex-col sm:flex-row justify-center gap-4 mb-12">
+            <div className="h-12 w-40 bg-gray-200 rounded-lg animate-pulse"></div>
+            <div className="h-12 w-36 bg-gray-200 rounded-lg animate-pulse"></div>
+          </div>
+          
+          {/* Stats skeleton */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto">
+            {[...Array(3)].map((_, i) => (
+              <div key={i} className="text-center">
+                <div className="h-10 w-20 bg-gray-200 rounded animate-pulse mx-auto mb-2"></div>
+                <div className="h-5 w-24 bg-gray-200 rounded animate-pulse mx-auto"></div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 // Generic content skeleton
 export function ContentSkeleton({ 
   lines = 3, 
