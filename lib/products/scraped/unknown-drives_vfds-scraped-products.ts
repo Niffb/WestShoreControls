@@ -16,7 +16,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_iC5_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_iC5_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_iC5_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_iC5_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 8,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Stavert_H100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 8,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 8,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_iG5A_e972cb1c-e133-493e-99ad-39997d662be8_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3724,7 +3724,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3742,7 +3742,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3760,7 +3760,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3958,7 +3958,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4012,7 +4012,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4030,7 +4030,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4048,7 +4048,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4066,7 +4066,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4084,7 +4084,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4102,7 +4102,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4120,7 +4120,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4138,7 +4138,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4156,7 +4156,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4174,7 +4174,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4192,7 +4192,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4210,7 +4210,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4228,7 +4228,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4246,7 +4246,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4264,7 +4264,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4282,7 +4282,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4300,7 +4300,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4318,7 +4318,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4336,7 +4336,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 8,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4354,7 +4354,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4372,7 +4372,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4390,7 +4390,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4408,7 +4408,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4426,7 +4426,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4444,7 +4444,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4462,7 +4462,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4480,7 +4480,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4498,7 +4498,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4516,7 +4516,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 8,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4534,7 +4534,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4552,7 +4552,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4570,7 +4570,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4588,7 +4588,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4606,7 +4606,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4624,7 +4624,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4642,7 +4642,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4660,7 +4660,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4678,7 +4678,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4696,7 +4696,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4714,7 +4714,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4840,7 +4840,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4858,7 +4858,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4876,7 +4876,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4894,7 +4894,7 @@ export const unknownDrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "LS VFDs/Starvert_S100_medium.avif"
     ],
     "inStock": true,
     "specs": [],

@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { Product } from '@/lib/types/shared-types';
+import ProductModal from '@/components/product/ProductModal';
 
 interface ProductGridProps {
   products: Product[];
@@ -10,6 +11,8 @@ interface ProductGridProps {
 
 export default function ProductGrid({ products }: ProductGridProps) {
   const [currentPage, setCurrentPage] = useState(1);
+  const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const productsPerPage = 12;
   
   // Calculate pagination
@@ -21,6 +24,18 @@ export default function ProductGrid({ products }: ProductGridProps) {
   // Change page
   const paginate = (pageNumber: number) => setCurrentPage(pageNumber);
   
+  // Handle view details click
+  const handleViewDetails = (product: Product) => {
+    setSelectedProduct(product);
+    setIsModalOpen(true);
+  };
+
+  // Close modal
+  const handleCloseModal = () => {
+    setIsModalOpen(false);
+    setSelectedProduct(null);
+  };
+  
   return (
     <div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-8">
@@ -30,15 +45,15 @@ export default function ProductGrid({ products }: ProductGridProps) {
               <h3 className="text-lg font-semibold text-gray-900 mb-1">{product.name}</h3>
               <p className="text-sm text-gray-600 mb-4">{product.description.substring(0, 100)}...</p>
               <div className="mt-4">
-                <Link 
-                  href={product.url || '#'} 
-                  className="text-primary-600 hover:text-primary-800 font-medium text-sm flex items-center"
+                <button 
+                  onClick={() => handleViewDetails(product)}
+                  className="text-primary-600 hover:text-primary-800 font-medium text-sm flex items-center transition-colors duration-200"
                 >
                   View Details
                   <svg className="ml-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
                   </svg>
-                </Link>
+                </button>
               </div>
             </div>
           </div>
@@ -118,6 +133,14 @@ export default function ProductGrid({ products }: ProductGridProps) {
       <div className="text-center text-sm text-gray-600 mt-2">
         Showing {indexOfFirstProduct + 1}-{Math.min(indexOfLastProduct, products.length)} of {products.length} products
       </div>
+
+      {selectedProduct && (
+        <ProductModal
+          product={selectedProduct}
+          isOpen={isModalOpen}
+          onClose={handleCloseModal}
+        />
+      )}
     </div>
   );
 } 

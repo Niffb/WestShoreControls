@@ -28,8 +28,8 @@ const frfDriveProducts: Product[] = frFDrives.map((drive, index) => {
     description: drive.description || `Mitsubishi ${isF900Drive ? 'FR-F900' : 'FR-F800'} Series Variable Frequency Drive`,
     rating: 4.8,
     reviews: Math.floor(Math.random() * 20) + 5,
-    // Use the correct relative image paths for both F900 and F800 drives
-    images: [isF900Drive ? "assets/images/products/mitsubishi/mitsubishi-electric-FA-f800.webp" : "assets/images/products/mitsubishi/drives/Mitsubishi_F800_Series_300x300_019b1561-110c-4fb4-a377-1493b5180803_medium.avif"],
+    // Use the correct image paths from the new directory
+    images: [isF900Drive ? "assets/images/products/mitsubishi/drives/Mitsubishi_F800_Series_300x300_019b1561-110c-4fb4-a377-1493b5180803_medium.avif" : "assets/images/products/mitsubishi/drives/Mitsubishi_F800_Series_300x300_019b1561-110c-4fb4-a377-1493b5180803_medium.avif"],
     inStock: drive.availability === "IN STOCK",
     specs: [
       `FREQROL ${isF900Drive ? 'FR-F900' : 'FR-F800'} Series`,
@@ -300,7 +300,7 @@ export const mitsubishiProducts: Product[] = [
     price: 1850,
     rating: 4.8,
     reviews: 156,
-    images: ["assets/images/products/mitsubishi/servo-motors/Mitsubishi_MELSERVO_J5_medium.avif"],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_MELSERVO_J5_c13c0765-fe2f-48f8-8e08-da6ed872f9b7_medium.avif"],
     inStock: true,
     badge: "Popular",
     specs: [
@@ -463,7 +463,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 12,
-    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_4940b6a3-54e2-4ed9-92d1-ad5e0749b307_medium.avif"],
     inStock: true,
     specs: [
       "Input: 200-240VAC (3-phase)",
@@ -541,7 +541,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 380Vac-500Vac (3-phase/3P) - 750W / 0.75kW / 1HP - 2.5A (ND Normal Duty)",
     rating: 4.7,
     reviews: 16,
-    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_4940b6a3-54e2-4ed9-92d1-ad5e0749b307_medium.avif"],
     inStock: true,
     specs: [
       "Input: 380-500VAC (3-phase)",
@@ -820,7 +820,7 @@ export const mitsubishiProducts: Product[] = [
     description: "Variable Speed/Frequency Drive (VSD/VFD) / Inverter with Ethernet card + extended conformal coating + FM term. (PTO output) - Mitsubishi Electric (FREQROL FR-A800 Plus series) - input 200Vac-240Vac (3-phase/3P) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty)",
     rating: 4.9,
     reviews: 22,
-    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_E800_VFD_medium.avif"],
     inStock: true,
     badge: "IN STOCK",
     specs: [
@@ -1286,6 +1286,123 @@ export const mitsubishiProducts: Product[] = [
     ]
   },
   
+  // Drive Products - E800 Series Inverters
+  {
+    id: 50062,
+    name: "FR-E800 Series Inverter",
+    model: "FR-E800",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    subcategory: "FR-E800 Series Inverters",
+    description: "The FREQROL-E800 Series inverters offer excellent performance for general-purpose applications with user-friendly operation, compact design, and reliable motor control for various industrial applications.",
+    price: 650,
+    rating: 4.6,
+    reviews: 89,
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_E800_VFD_medium.avif"],
+    inStock: true,
+    badge: "Compact",
+    specs: [
+      "Compact design",
+      "User-friendly operation",
+      "General-purpose applications",
+      "Reliable motor control",
+      "Multiple control modes"
+    ],
+    features: [
+      "Easy programming and setup",
+      "Compact footprint",
+      "Cost-effective solution",
+      "Reliable performance",
+      "Multiple protection functions",
+      "Communication ready"
+    ],
+    downloads: [
+      {
+        name: "FR-E800 Series Catalog",
+        url: "/downloads/mitsubishi/drives/fr-e800-catalog.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  
+  // Drive Products - MELSERVO J4 Series
+  {
+    id: 50063,
+    name: "MELSERVO J4 AC Servo System",
+    model: "MELSERVO-J4",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    subcategory: "MELSERVO Servo Systems",
+    description: "The MELSERVO-J4 series offers high-performance AC servo systems with advanced motion control capabilities, precise positioning, and excellent responsiveness for demanding automation applications.",
+    price: 2150,
+    rating: 4.8,
+    reviews: 67,
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_MELSERVO_J4_medium.avif"],
+    inStock: true,
+    badge: "High Performance",
+    specs: [
+      "High-performance AC servo",
+      "Advanced motion control",
+      "Precise positioning",
+      "Excellent responsiveness",
+      "Industrial automation ready"
+    ],
+    features: [
+      "Advanced motion algorithms",
+      "High-speed response",
+      "Precise positioning control",
+      "Multiple feedback options",
+      "Network communication",
+      "Easy commissioning"
+    ],
+    downloads: [
+      {
+        name: "MELSERVO J4 Series Catalog",
+        url: "/downloads/mitsubishi/drives/melservo-j4-catalog.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  
+  // Drive Products - MELSERVO JN Series
+  {
+    id: 50064,
+    name: "MELSERVO JN AC Servo System",
+    model: "MELSERVO-JN",
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    subcategory: "MELSERVO Servo Systems",
+    description: "The MELSERVO-JN series provides cost-effective AC servo solutions with reliable performance, easy setup, and versatile application support for various industrial automation needs.",
+    price: 1850,
+    rating: 4.7,
+    reviews: 54,
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_MELSERVO_JN_medium.avif"],
+    inStock: true,
+    badge: "Cost Effective",
+    specs: [
+      "Cost-effective servo solution",
+      "Reliable performance",
+      "Easy setup and configuration",
+      "Versatile applications",
+      "Compact design"
+    ],
+    features: [
+      "Simple commissioning",
+      "Reliable operation",
+      "Compact servo amplifier",
+      "Multiple motor options",
+      "Basic positioning functions",
+      "Communication interfaces"
+    ],
+    downloads: [
+      {
+        name: "MELSERVO JN Series Catalog",
+        url: "/downloads/mitsubishi/drives/melservo-jn-catalog.pdf",
+        type: "pdf"
+      }
+    ]
+  },
+  
   // Add FR-A860 Series drives from JSON
   ...(frDrives as DriveData[]).map((drive, index) => ({
     id: 51000 + index,
@@ -1297,7 +1414,7 @@ export const mitsubishiProducts: Product[] = [
     price: undefined,
     rating: 4.7,
     reviews: 84,
-    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
+    images: [index % 2 === 0 ? "assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif" : "assets/images/products/mitsubishi/drives/Mitsubishi_A800_4940b6a3-54e2-4ed9-92d1-ad5e0749b307_medium.avif"],
     inStock: drive.availability === "IN STOCK",
     badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
     specs: [
@@ -1326,7 +1443,9 @@ export const mitsubishiProducts: Product[] = [
     price: undefined,
     rating: 4.8,
     reviews: 76,
-    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif"],
+    images: [index % 3 === 0 ? "assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif" : 
+             index % 3 === 1 ? "assets/images/products/mitsubishi/drives/Mitsubishi_A800_4940b6a3-54e2-4ed9-92d1-ad5e0749b307_medium.avif" : 
+             "assets/images/products/mitsubishi/drives/Mitsubishi_E800_VFD_medium.avif"],
     inStock: drive.availability === "IN STOCK",
     badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
     specs: [

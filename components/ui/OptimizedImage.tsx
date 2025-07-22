@@ -48,7 +48,16 @@ export default function OptimizedImage({
 }: OptimizedImageProps) {
   const [isLoaded, setIsLoaded] = useState(false)
   const [hasError, setHasError] = useState(false)
-  const [currentFormat, setCurrentFormat] = useState<'webp' | 'avif' | 'jpg' | 'png' | 'fallback'>('webp')
+  // Detect the original format from the src and start with that
+  const getInitialFormat = (src: string): 'webp' | 'avif' | 'jpg' | 'png' | 'fallback' => {
+    if (src.toLowerCase().includes('.avif')) return 'avif'
+    if (src.toLowerCase().includes('.webp')) return 'webp'
+    if (src.toLowerCase().includes('.jpg') || src.toLowerCase().includes('.jpeg')) return 'jpg'
+    if (src.toLowerCase().includes('.png')) return 'png'
+    return 'webp' // default fallback
+  }
+  
+  const [currentFormat, setCurrentFormat] = useState<'webp' | 'avif' | 'jpg' | 'png' | 'fallback'>(() => getInitialFormat(src))
   const imageRef = useRef<HTMLDivElement>(null)
   const { startMeasure } = usePerformanceMonitor()
 
@@ -83,7 +92,7 @@ export default function OptimizedImage({
     const shouldLoad = !lazy || priority || inView
     
     if (shouldLoad && src && !getCurrentSrc()) {
-      // Try fallback formats in order: webp -> jpg -> png -> fallback
+      // Try fallback formats in order: avif -> webp -> jpg -> png -> fallback
       switch (currentFormat) {
         case 'avif':
           setCurrentFormat('webp')
@@ -116,8 +125,11 @@ export default function OptimizedImage({
   const handleError = useCallback(() => {
     console.warn(`Failed to load image: ${getCurrentSrc()}`)
     
-    // Try fallback formats
-    if (currentFormat === 'webp') {
+    // Try fallback formats based on current format
+    if (currentFormat === 'avif') {
+      setCurrentFormat('webp')
+      return
+    } else if (currentFormat === 'webp') {
       setCurrentFormat('jpg')
       return
     } else if (currentFormat === 'jpg') {

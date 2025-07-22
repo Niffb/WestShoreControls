@@ -2,18 +2,14 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { Suspense } from 'react'
 import Link from 'next/link'
-import { ArrowLeftIcon, ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
+import { ArrowLeftIcon } from '@heroicons/react/24/outline'
 import { 
   getPaginatedProductsByType,
   getProductTypeWithStats, 
   productTypes, 
-  getProductTypeBreadcrumbs,
-  shouldUsePaginationSync,
-  getProductCountByType
+  shouldUsePaginationSync
 } from '@/lib/utils/product-types'
-import ProductsPageNew from '@/components/page/ProductsPageNew'
-import { ProductImage } from '@/components/ui/OptimizedImage'
-import ProgressiveProductGrid from '@/components/ui/ProgressiveProductGrid'
+import { ProductTypeDetailPage } from '@/components/page'
 
 interface Props {
   params: {
@@ -59,110 +55,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: 'Browse our electrical and industrial products by type.'
     }
   }
-}
-
-// Pagination component
-function Pagination({ 
-  currentPage, 
-  totalPages, 
-  hasNext, 
-  hasPrev, 
-  productType 
-}: {
-  currentPage: number
-  totalPages: number
-  hasNext: boolean
-  hasPrev: boolean
-  productType: string
-}) {
-  const getPageUrl = (page: number) => `/product-types/${productType}?page=${page}`
-  
-  // Generate page numbers to show
-  const getPageNumbers = () => {
-    const pages = []
-    const maxVisible = 5
-    
-    if (totalPages <= maxVisible) {
-      for (let i = 1; i <= totalPages; i++) {
-        pages.push(i)
-      }
-    } else {
-      const start = Math.max(1, currentPage - 2)
-      const end = Math.min(totalPages, start + maxVisible - 1)
-      
-      if (start > 1) {
-        pages.push(1)
-        if (start > 2) pages.push('...')
-      }
-      
-      for (let i = start; i <= end; i++) {
-        pages.push(i)
-      }
-      
-      if (end < totalPages) {
-        if (end < totalPages - 1) pages.push('...')
-        pages.push(totalPages)
-      }
-    }
-    
-    return pages
-  }
-
-  if (totalPages <= 1) return null
-
-  return (
-    <div className="flex items-center justify-center space-x-2 mt-8">
-      {/* Previous button */}
-      <Link
-        href={getPageUrl(currentPage - 1)}
-        className={`flex items-center px-3 py-2 rounded-md text-sm font-medium ${
-          hasPrev
-            ? 'text-gray-700 bg-white border border-gray-300 hover:bg-gray-50'
-            : 'text-gray-400 bg-gray-100 border border-gray-200 cursor-not-allowed'
-        }`}
-        {...(!hasPrev && { 'aria-disabled': true })}
-      >
-        <ChevronLeftIcon className="h-4 w-4 mr-1" />
-        Previous
-      </Link>
-
-      {/* Page numbers */}
-      <div className="flex space-x-1">
-        {getPageNumbers().map((page, index) => (
-          <span key={index}>
-            {page === '...' ? (
-              <span className="px-3 py-2 text-gray-500">...</span>
-            ) : (
-              <Link
-                href={getPageUrl(page as number)}
-                className={`px-3 py-2 rounded-md text-sm font-medium ${
-                  page === currentPage
-                    ? 'text-white bg-red-600 border border-red-600'
-                    : 'text-gray-700 bg-white border border-gray-300 hover:bg-gray-50'
-                }`}
-              >
-                {page}
-              </Link>
-            )}
-          </span>
-        ))}
-      </div>
-
-      {/* Next button */}
-      <Link
-        href={getPageUrl(currentPage + 1)}
-        className={`flex items-center px-3 py-2 rounded-md text-sm font-medium ${
-          hasNext
-            ? 'text-gray-700 bg-white border border-gray-300 hover:bg-gray-50'
-            : 'text-gray-400 bg-gray-100 border border-gray-200 cursor-not-allowed'
-        }`}
-        {...(!hasNext && { 'aria-disabled': true })}
-      >
-        Next
-        <ChevronRightIcon className="h-4 w-4 ml-1" />
-      </Link>
-    </div>
-  )
 }
 
 // Loading skeleton for product grid
@@ -242,208 +134,15 @@ async function ProductTypePageNew({ productType, currentPage }: { productType: s
     )
   }
 
+  const typeWithStats = await getProductTypeWithStats(typeConfig)
+
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
-      {/* Breadcrumb Navigation */}
-      <div className="bg-white/80 backdrop-blur-sm border-b border-gray-200 pt-24 pb-4">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <nav className="flex items-center space-x-2 text-sm">
-            <Link 
-              href="/" 
-              className="text-gray-500 hover:text-red-600 transition-colors"
-            >
-              Home
-            </Link>
-            <span className="text-gray-400">/</span>
-            <Link 
-              href="/product-types"
-              className="text-gray-500 hover:text-red-600 transition-colors flex items-center"
-            >
-              <ArrowLeftIcon className="h-4 w-4 mr-1" />
-              Product Types
-            </Link>
-            <span className="text-gray-400">/</span>
-            <span className="text-red-600 font-medium">{typeConfig.name}</span>
-          </nav>
-        </div>
-      </div>
-
-      {/* Hero Section */}
-      <div className="py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-8">
-            <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl">
-              {typeConfig.name}
-            </h1>
-            <p className="mt-4 text-xl text-gray-600 max-w-3xl mx-auto">
-              {typeConfig.description}
-            </p>
-            
-            {/* Stats */}
-            <div className="mt-8 flex justify-center space-x-8">
-              <div className="text-center">
-                <div className="text-3xl font-bold text-red-600">{pagination.total}</div>
-                <div className="text-sm text-gray-600">Products Available</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-red-600">
-                  {Array.from(new Set(products.map(p => p.brand))).length}
-                </div>
-                <div className="text-sm text-gray-600">Brands</div>
-              </div>
-              {usePagination && (
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-red-600">
-                    {pagination.page} of {pagination.totalPages}
-                  </div>
-                  <div className="text-sm text-gray-600">Pages</div>
-                </div>
-              )}
-            </div>
-          </div>
-
-          {/* Brand Filter Pills */}
-          <div className="mb-8">
-            <h3 className="text-lg font-semibold text-gray-900 mb-4">Available Brands</h3>
-            <div className="flex flex-wrap gap-2">
-              {Array.from(new Set(products.map(p => p.brand)))
-                .sort()
-                .map((brand) => (
-                  <span
-                    key={brand}
-                    className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-red-100 text-red-800"
-                  >
-                    {brand}
-                  </span>
-                ))}
-            </div>
-          </div>
-
-          {/* Product Grid with Progressive Loading */}
-          {usePagination ? (
-            // Use traditional pagination for very large categories
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {products.map((product) => (
-                <div
-                  key={product.id}
-                  className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden"
-                >
-                  <div className="aspect-square bg-gray-100 relative">
-                    <ProductImage
-                      src={product.images?.[0] || '/images/placeholder.jpg'}
-                      alt={product.name}
-                      className="w-full h-full object-cover"
-                    />
-                    {product.badge && (
-                      <div className="absolute top-2 left-2 bg-red-600 text-white px-2 py-1 rounded text-xs font-medium">
-                        {product.badge}
-                      </div>
-                    )}
-                  </div>
-                  
-                  <div className="p-4">
-                    <div className="flex items-center justify-between mb-2">
-                      <span className="text-sm font-medium text-red-600">{product.brand}</span>
-                      <span className="text-sm text-gray-500">{product.category}</span>
-                    </div>
-                    
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2 line-clamp-2">
-                      {product.name}
-                    </h3>
-                    
-                    <p className="text-sm text-gray-600 mb-3 line-clamp-2">
-                      {product.description}
-                    </p>
-                    
-                    {product.rating && (
-                      <div className="flex items-center justify-end mb-3">
-                        <div className="flex items-center">
-                          <span className="text-yellow-400">★</span>
-                          <span className="text-sm text-gray-600 ml-1">{product.rating}</span>
-                        </div>
-                      </div>
-                    )}
-                    
-                    <div className="mt-4">
-                      <Link 
-                        href={product.url || '#'} 
-                        className="w-full inline-flex items-center justify-center px-4 py-2 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors"
-                      >
-                        View Details
-                        <svg className="ml-2 h-4 w-4" fill="currentColor" viewBox="0 0 20 20">
-                          <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-                        </svg>
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          ) : (
-            // Use progressive loading for smaller categories
-            <ProgressiveProductGrid
-              products={products}
-              initialCount={12}
-              incrementCount={8}
-              maxCount={100}
-            />
-          )}
-
-          {/* Pagination */}
-          {usePagination && (
-            <Pagination
-              currentPage={pagination.page}
-              totalPages={pagination.totalPages}
-              hasNext={pagination.hasNext}
-              hasPrev={pagination.hasPrev}
-              productType={productType}
-            />
-          )}
-        </div>
-
-        {/* Related Product Types */}
-        <div className="bg-white/60 backdrop-blur-sm mt-16 py-16">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-12">
-              <h2 className="text-3xl font-bold text-gray-900">Related Product Types</h2>
-              <p className="mt-4 text-lg text-gray-600">
-                You might also be interested in these product categories
-              </p>
-            </div>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {productTypes
-                .filter(type => type.slug !== productType && type.featured)
-                .slice(0, 6)
-                .map((type) => (
-                  <Link
-                    key={type.id}
-                    href={`/product-types/${type.slug}`}
-                    className="group bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 p-6 border border-gray-100"
-                  >
-                    <div className="text-center">
-                      <div className="text-red-600 mb-4">
-                        <div className="w-12 h-12 mx-auto bg-red-100 rounded-lg flex items-center justify-center">
-                          <span className="text-2xl">⚡</span>
-                        </div>
-                      </div>
-                      <h3 className="text-lg font-semibold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">
-                        {type.name}
-                      </h3>
-                      <p className="text-sm text-gray-600 mb-4">
-                        {type.description}
-                      </p>
-                      <div className="text-sm text-red-600 font-medium">
-                        Explore Products →
-                      </div>
-                    </div>
-                  </Link>
-                ))}
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <ProductTypeDetailPage
+      productType={typeWithStats}
+      products={products}
+      usePagination={usePagination}
+      pagination={pagination}
+    />
   )
 }
 

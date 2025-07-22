@@ -9,7 +9,7 @@ import { lsIndustrialProducts } from './ls-industrial-products'
 // Import Noark products
 import { noarkMCBProducts } from './noark-mcb-products'
 import { noarkMCPProducts } from './noark-mcp-products'
-import { pcbProducts } from './noark-pcb-products'
+import { allPCBProducts as pcbProducts } from './noark-pcb-products'
 import { noarkSPDProducts } from './noark-spd-products'
 import { noarkSwitchesProducts } from './noark-switches-products'
 import { noarkEnclosedBreakersProducts } from './noark-enclosed-breakers-products'

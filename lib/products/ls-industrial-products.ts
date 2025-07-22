@@ -51,7 +51,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 234,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif",
+      "images/products/ls_industrial/vfd_series/LS_Starvert_iE5_-_VFD_medium.avif",
       "products/ls_industrial/medium_voltage_VFD_medium_voltage_VFD_medium-voltage-vfd-300x300_28da3219.jpg"
     ],
     inStock: true,
@@ -276,7 +276,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 134,
     images: [
-      "assets/images/products/ls_industrial/Starvert_S100_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/Starvert_iS7_medium.avif"
     ],
     inStock: true,
     badge: "High Performance",
@@ -308,7 +308,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 165,
     images: [
-      "assets/images/products/ls_industrial/Starvert_iP5A_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/Starvert_iP5A_medium.avif"
     ],
     inStock: true,
     badge: "Pump & Fan Optimized",
@@ -340,7 +340,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 223,
     images: [
-      "assets/images/products/ls_industrial/Stavert_iS5_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/Stavert_iS5_medium.avif"
     ],
     inStock: true,
     specs: [
@@ -371,7 +371,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 89,
     images: [
-      "assets/images/products/ls_industrial/Stavert_H100_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/Stavert_H100_medium.avif"
     ],
     inStock: true,
     badge: "Heavy Duty",
@@ -403,7 +403,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.4,
     reviews: 267,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "Economy",
@@ -435,7 +435,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.6,
     reviews: 145,
     images: [
-      "assets/images/products/ls_industrial/Starvert_C100_9c6865c5-524b-4222-bf20-e6f81559794b_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/Starvert_iG5A_e972cb1c-e133-493e-99ad-39997d662be8_medium.avif"
     ],
     inStock: true,
     specs: [
@@ -466,7 +466,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 198,
     images: [
-      "assets/images/products/ls_industrial/Starvert_iC5_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/Starvert_iC5_medium.avif"
     ],
     inStock: true,
     badge: "Compact",
@@ -498,7 +498,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 142,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/vfd_series/Starvert_S100_medium.avif"
     ],
     inStock: true,
     badge: "NEMA 4X",
@@ -530,7 +530,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 198,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/vfd_series/Stavert_H100_medium.avif"
     ],
     inStock: true,
     badge: "HVAC Optimized",
@@ -562,7 +562,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 176,
     images: [
-      "products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg"
+      "assets/images/products/ls_industrial/vfd_series/Starvert_C100_9c6865c5-524b-4222-bf20-e6f81559794b_medium.avif"
     ],
     inStock: true,
     badge: "Compact",
@@ -657,7 +657,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 98,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
+      "assets/images/products/vfd/optidrive_p2_features_p2-features-300x300_e00e9892.jpg"
     ],
     inStock: true,
     badge: "Performance",
@@ -689,7 +689,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.6,
     reviews: 187,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
+      "assets/images/products/vfd/optidrive_p2_features_p2-features-300x300_e00e9892.jpg"
     ],
     inStock: true,
     specs: [
@@ -720,7 +720,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 143,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
+      "assets/images/products/vfd/optidrive_HVAC_optidrive_HVAC_HVAC-300x300_ccd80402.jpg"
     ],
     inStock: true,
     badge: "HVAC Optimized",
@@ -752,7 +752,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 167,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
+      "assets/images/products/vfd/optidrive_eco_optidrive_eco_HVAC-eco-300x300_d1ff95cc.jpg"
     ],
     inStock: true,
     badge: "Eco",
@@ -784,7 +784,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.4,
     reviews: 234,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/LS_Starvert_iE5_-_VFD_medium.avif"
     ],
     inStock: true,
     badge: "Economy",
@@ -816,7 +816,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 145,
     images: [
-      "assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif"
+      "assets/images/products/ls_industrial/vfd_series/Stavert_iS5_medium.avif"
     ],
     inStock: true,
     badge: "Single Phase",

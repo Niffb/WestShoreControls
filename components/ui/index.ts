@@ -16,4 +16,8 @@ export {
 } from './LoadingSkeletons';
 
 // Optimized image components
-export { default as OptimizedImage, ProductImage, HeroImage } from './OptimizedImage'; 
+export { default as OptimizedImage, ProductImage, HeroImage } from './OptimizedImage';
+
+// Search components
+export { default as ProductTypeSearch } from './ProductTypeSearch';
+export { default as ProductSearch } from './ProductSearch'; 

@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { useProgressiveLoader } from '@/lib/utils/performance-utils'
 import { ProductImage } from '@/components/ui/OptimizedImage'
 import { Product } from '@/lib/types/shared-types'
+import ProductModal from '@/components/product/ProductModal'
 
 interface ProgressiveProductGridProps {
   products: Product[]
@@ -21,6 +22,9 @@ export default function ProgressiveProductGrid({
   maxCount,
   className = ''
 }: ProgressiveProductGridProps) {
+  const [selectedProduct, setSelectedProduct] = useState<Product | null>(null)
+  const [isModalOpen, setIsModalOpen] = useState(false)
+  
   const {
     visibleItems,
     hasMore,
@@ -37,35 +41,53 @@ export default function ProgressiveProductGrid({
     loadThreshold: 0.8
   })
 
+  // Handle view details click
+  const handleViewDetails = useCallback((product: Product) => {
+    setSelectedProduct(product)
+    setIsModalOpen(true)
+  }, [])
+
+  // Close modal
+  const handleCloseModal = useCallback(() => {
+    setIsModalOpen(false)
+    setSelectedProduct(null)
+  }, [])
+
   // Memoize the grid items to prevent unnecessary re-renders
   const gridItems = useMemo(() => {
     return visibleItems.map((product) => (
-      <ProductGridItem key={product.id} product={product} />
+      <ProductGridItem 
+        key={product.id} 
+        product={product} 
+        onViewDetails={handleViewDetails}
+      />
     ))
-  }, [visibleItems])
+  }, [visibleItems, handleViewDetails])
 
   return (
     <div className={`space-y-6 ${className}`}>
       {/* Progress indicator for large datasets */}
       {totalCount > initialCount && (
-        <div className="flex items-center justify-between text-sm text-gray-600 mb-4">
-          <span>
-            Showing {displayCount} of {totalCount} products
-          </span>
-          <div className="flex items-center space-x-2">
-            <div className="w-32 bg-gray-200 rounded-full h-2">
-              <div 
-                className="bg-red-600 h-2 rounded-full transition-all duration-300"
-                style={{ width: `${loadProgress}%` }}
-              />
-            </div>
-            <span>{Math.round(loadProgress)}%</span>
+        <div className="bg-white rounded-lg p-4 border border-gray-200">
+          <div className="flex justify-between items-center mb-2">
+            <span className="text-sm text-gray-600">
+              Showing {displayCount} of {totalCount} products
+            </span>
+            <span className="text-sm font-medium text-red-600">
+              {Math.round(loadProgress)}%
+            </span>
+          </div>
+          <div className="w-full bg-gray-200 rounded-full h-2">
+            <div 
+              className="bg-red-600 h-2 rounded-full transition-all duration-300"
+              style={{ width: `${loadProgress}%` }}
+            />
           </div>
         </div>
       )}
 
-      {/* Product Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      {/* Product grid */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {gridItems}
       </div>
 
@@ -99,12 +121,21 @@ export default function ProgressiveProductGrid({
           <p>All {totalCount} products loaded</p>
         </div>
       )}
+
+      {/* Product Modal */}
+      {selectedProduct && (
+        <ProductModal
+          product={selectedProduct}
+          isOpen={isModalOpen}
+          onClose={handleCloseModal}
+        />
+      )}
     </div>
   )
 }
 
 // Memoized product grid item component
-const ProductGridItem = ({ product }: { product: Product }) => {
+const ProductGridItem = ({ product, onViewDetails }: { product: Product; onViewDetails: (product: Product) => void }) => {
   return (
     <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden">
       <div className="aspect-square bg-gray-100 relative">
@@ -168,15 +199,15 @@ const ProductGridItem = ({ product }: { product: Product }) => {
         )}
         
         <div className="mt-4">
-          <Link 
-            href={product.url || '#'} 
+          <button 
+            onClick={() => onViewDetails(product)}
             className="w-full inline-flex items-center justify-center px-4 py-2 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
           >
             View Details
             <svg className="ml-2 h-4 w-4" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
             </svg>
-          </Link>
+          </button>
         </div>
       </div>
     </div>
