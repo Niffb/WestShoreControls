@@ -6,6 +6,7 @@ import { useProgressiveLoader } from '@/lib/utils/performance-utils'
 import { ProductImage } from '@/components/ui/OptimizedImage'
 import { Product } from '@/lib/types/shared-types'
 import ProductModal from '@/components/product/ProductModal'
+import { getImageUrl } from '@/lib/config/image-config'
 
 interface ProgressiveProductGridProps {
   products: Product[]
@@ -140,7 +141,7 @@ const ProductGridItem = ({ product, onViewDetails }: { product: Product; onViewD
     <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden">
       <div className="aspect-square bg-gray-100 relative">
         <ProductImage
-          src={product.images?.[0] || '/images/placeholder.jpg'}
+          src={getImageUrl(product.images?.[0] || 'products/placeholder.jpg')}
           alt={product.name}
           className="w-full h-full object-cover"
         />

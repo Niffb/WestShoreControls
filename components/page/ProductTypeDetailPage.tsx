@@ -8,6 +8,7 @@ import { ProductType } from '@/lib/utils/product-types'
 import { ProductImage } from '@/components/ui/OptimizedImage'
 import ProgressiveProductGrid from '@/components/ui/ProgressiveProductGrid'
 import { useDebounce } from '@/lib/utils/performance-utils'
+import { getImageUrl } from '@/lib/config/image-config'
 
 interface ProductTypeDetailPageProps {
   productType: ProductType
@@ -211,7 +212,7 @@ export default function ProductTypeDetailPage({
     >
       <div className="aspect-square bg-gray-100 relative">
         <ProductImage
-          src={product.images?.[0] || '/images/placeholder.jpg'}
+          src={getImageUrl(product.images?.[0] || 'products/placeholder.jpg')}
           alt={product.name}
           className="w-full h-full object-cover"
         />
