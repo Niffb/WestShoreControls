@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useCallback, useMemo } from 'react'
+import { useState, useCallback, useMemo, useEffect } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { ArrowLeftIcon, ChevronLeftIcon, ChevronRightIcon, MagnifyingGlassIcon, XMarkIcon, FunnelIcon } from '@heroicons/react/24/outline'
@@ -238,6 +238,15 @@ export default function ProductTypeDetailPage({
   const [selectedBrands, setSelectedBrands] = useState<string[]>([])
   const [showFilters, setShowFilters] = useState(false)
 
+  // Debug logging for search term changes
+  useEffect(() => {
+    console.log('ProductTypeDetailPage: Search term changed:', searchTerm)
+  }, [searchTerm])
+
+  useEffect(() => {
+    console.log('ProductTypeDetailPage: Debounced search term changed:', debouncedSearchTerm)
+  }, [debouncedSearchTerm])
+
   // Get unique brands and categories from products
   const { allBrands, allCategories } = useMemo(() => {
     const brandSet = new Set<string>()
@@ -256,11 +265,19 @@ export default function ProductTypeDetailPage({
 
   // Filter products based on search query and selected filters - using same logic as brand pages
   const filteredProducts = useMemo(() => {
+    console.log('ProductTypeDetailPage: Filtering products...', {
+      initialProducts: initialProducts.length,
+      debouncedSearchTerm,
+      selectedBrands: selectedBrands.length
+    })
+    
     let filtered = initialProducts
 
     // Apply search query filter - same logic as ProductsPageNew
     if (debouncedSearchTerm.trim()) {
       const query = debouncedSearchTerm.toLowerCase().trim()
+      console.log('ProductTypeDetailPage: Applying search filter for:', query)
+      
       filtered = filtered.filter(product => {
         const matchesSearch = 
           product.name.toLowerCase().includes(query) ||
@@ -273,15 +290,22 @@ export default function ProductTypeDetailPage({
         
         return matchesSearch
       })
+      
+      console.log('ProductTypeDetailPage: Search filtered to', filtered.length, 'products')
     }
 
     // Apply brand filter
     if (selectedBrands.length > 0) {
+      console.log('ProductTypeDetailPage: Applying brand filter for:', selectedBrands)
+      
       filtered = filtered.filter(product => 
         product.brand && selectedBrands.includes(product.brand)
       )
+      
+      console.log('ProductTypeDetailPage: Brand filtered to', filtered.length, 'products')
     }
 
+    console.log('ProductTypeDetailPage: Final filtered products:', filtered.length)
     return filtered
   }, [initialProducts, debouncedSearchTerm, selectedBrands])
 
