@@ -2,13 +2,14 @@
 
 import { useState, useCallback, useMemo } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { ArrowLeftIcon, ChevronLeftIcon, ChevronRightIcon, MagnifyingGlassIcon, XMarkIcon, FunnelIcon } from '@heroicons/react/24/outline'
 import { Product } from '@/lib/types/shared-types'
 import { ProductType } from '@/lib/utils/product-types'
-import { ProductImage } from '@/components/ui/OptimizedImage'
 import ProgressiveProductGrid from '@/components/ui/ProgressiveProductGrid'
-import { useDebounce } from '@/lib/utils/performance-utils'
+import { useDebouncedSearch } from '@/lib/utils/performance-utils'
 import { getImageUrl } from '@/lib/config/image-config'
+import { resolveProductImage } from '@/lib/utils/intelligent-image-resolver'
 
 interface ProductTypeDetailPageProps {
   productType: ProductType
@@ -128,97 +129,61 @@ function Pagination({
   )
 }
 
-export default function ProductTypeDetailPage({
-  productType,
-  products: initialProducts,
-  usePagination,
-  pagination
-}: ProductTypeDetailPageProps) {
-  const [searchQuery, setSearchQuery] = useState('')
-  const [selectedBrands, setSelectedBrands] = useState<string[]>([])
-  const [showFilters, setShowFilters] = useState(false)
+// Product Card Component
+function ProductCard({ product }: { product: Product }) {
+  const [imageLoaded, setImageLoaded] = useState(false)
+  const [imageError, setImageError] = useState(false)
+  
+  const resolvedImagePath = resolveProductImage(product)
+  const finalImageUrl = getImageUrl(resolvedImagePath)
 
-  // Use debounced search for better performance
-  const debouncedSearchQuery = useDebounce(searchQuery, 300)
+  const handleImageLoad = useCallback(() => {
+    setImageLoaded(true)
+  }, [])
 
-  // Get unique brands and categories from products
-  const { allBrands, allCategories } = useMemo(() => {
-    const brandSet = new Set<string>()
-    const categorySet = new Set<string>()
-    
-    initialProducts.forEach(product => {
-      if (product.brand) brandSet.add(product.brand)
-      if (product.category) categorySet.add(product.category)
-    })
-    
-    return {
-      allBrands: Array.from(brandSet).sort(),
-      allCategories: Array.from(categorySet).sort()
-    }
-  }, [initialProducts])
+  const handleImageError = useCallback(() => {
+    setImageError(true)
+    setImageLoaded(true)
+  }, [])
 
-  // Filter products based on search query and selected filters
-  const filteredProducts = useMemo(() => {
-    let filtered = initialProducts
-
-    // Apply search query filter
-    if (debouncedSearchQuery.trim()) {
-      const query = debouncedSearchQuery.toLowerCase().trim()
-      filtered = filtered.filter(product => {
-        const searchableText = [
-          product.name,
-          product.description,
-          product.brand,
-          product.category,
-          product.model,
-          ...(product.specs || []),
-          ...(product.features || [])
-        ].join(' ').toLowerCase()
-        
-        return searchableText.includes(query)
-      })
-    }
-
-    // Apply brand filter
-    if (selectedBrands.length > 0) {
-      filtered = filtered.filter(product => 
-        product.brand && selectedBrands.includes(product.brand)
-      )
-    }
-
-    return filtered
-  }, [initialProducts, debouncedSearchQuery, selectedBrands])
-
-  const handleBrandToggle = (brand: string) => {
-    setSelectedBrands(prev => 
-      prev.includes(brand) 
-        ? prev.filter(b => b !== brand)
-        : [...prev, brand]
-    )
-  }
-
-  const clearAllFilters = () => {
-    setSearchQuery('')
-    setSelectedBrands([])
-    setShowFilters(false)
-  }
-
-  const hasActiveFilters = searchQuery.trim() || selectedBrands.length > 0
-
-  const renderProductCard = (product: Product) => (
-    <div
-      key={product.id}
-      className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden"
-    >
+  return (
+    <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden group">
       <div className="aspect-square bg-gray-100 relative">
-        <ProductImage
-          src={getImageUrl(product.images?.[0] || 'products/placeholder.jpg')}
-          alt={product.name}
-          className="w-full h-full object-cover"
-        />
+        {/* Loading skeleton */}
+        {!imageLoaded && (
+          <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse flex items-center justify-center">
+            <div className="w-12 h-12 bg-gray-400 rounded-lg opacity-50"></div>
+          </div>
+        )}
+        
+        {/* Badge */}
         {product.badge && (
-          <div className="absolute top-2 left-2 bg-red-600 text-white px-2 py-1 rounded text-xs font-medium">
-            {product.badge}
+          <div className="absolute top-2 left-2 z-10">
+            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-red-600 text-white shadow-lg">
+              {product.badge}
+            </span>
+          </div>
+        )}
+
+        {/* Product Image */}
+        {!imageError ? (
+          <img
+            src={finalImageUrl}
+            alt={`${product.name} - ${product.brand}`}
+            className={`w-full h-full object-contain p-4 group-hover:scale-105 transition-all duration-300 ${
+              imageLoaded ? 'opacity-100' : 'opacity-0'
+            }`}
+            onLoad={handleImageLoad}
+            onError={handleImageError}
+            loading="lazy"
+          />
+        ) : (
+          <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
+            <div className="text-gray-500 text-center">
+              <div className="w-12 h-12 bg-gray-400 rounded-lg mx-auto mb-2"></div>
+              <p className="text-xs font-medium">{product.category}</p>
+              <p className="text-xs text-gray-400 mt-1">{product.brand}</p>
+            </div>
           </div>
         )}
       </div>
@@ -260,6 +225,81 @@ export default function ProductTypeDetailPage({
       </div>
     </div>
   )
+}
+
+export default function ProductTypeDetailPage({
+  productType,
+  products: initialProducts,
+  usePagination,
+  pagination
+}: ProductTypeDetailPageProps) {
+  // Use the same debounced search logic as the working brand pages
+  const { searchTerm, debouncedSearchTerm, setSearchTerm } = useDebouncedSearch('', 300)
+  const [selectedBrands, setSelectedBrands] = useState<string[]>([])
+  const [showFilters, setShowFilters] = useState(false)
+
+  // Get unique brands and categories from products
+  const { allBrands, allCategories } = useMemo(() => {
+    const brandSet = new Set<string>()
+    const categorySet = new Set<string>()
+    
+    initialProducts.forEach(product => {
+      if (product.brand) brandSet.add(product.brand)
+      if (product.category) categorySet.add(product.category)
+    })
+    
+    return {
+      allBrands: Array.from(brandSet).sort(),
+      allCategories: Array.from(categorySet).sort()
+    }
+  }, [initialProducts])
+
+  // Filter products based on search query and selected filters - using same logic as brand pages
+  const filteredProducts = useMemo(() => {
+    let filtered = initialProducts
+
+    // Apply search query filter - same logic as ProductsPageNew
+    if (debouncedSearchTerm.trim()) {
+      const query = debouncedSearchTerm.toLowerCase().trim()
+      filtered = filtered.filter(product => {
+        const matchesSearch = 
+          product.name.toLowerCase().includes(query) ||
+          product.description.toLowerCase().includes(query) ||
+          product.category.toLowerCase().includes(query) ||
+          product.brand.toLowerCase().includes(query) ||
+          (product.model && product.model.toLowerCase().includes(query)) ||
+          (product.specs && product.specs.some(spec => spec.toLowerCase().includes(query))) ||
+          (product.features && product.features.some(feature => feature.toLowerCase().includes(query)))
+        
+        return matchesSearch
+      })
+    }
+
+    // Apply brand filter
+    if (selectedBrands.length > 0) {
+      filtered = filtered.filter(product => 
+        product.brand && selectedBrands.includes(product.brand)
+      )
+    }
+
+    return filtered
+  }, [initialProducts, debouncedSearchTerm, selectedBrands])
+
+  const handleBrandToggle = (brand: string) => {
+    setSelectedBrands(prev => 
+      prev.includes(brand) 
+        ? prev.filter(b => b !== brand)
+        : [...prev, brand]
+    )
+  }
+
+  const clearAllFilters = () => {
+    setSearchTerm('')
+    setSelectedBrands([])
+    setShowFilters(false)
+  }
+
+  const hasActiveFilters = searchTerm.trim() || selectedBrands.length > 0
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
@@ -329,14 +369,14 @@ export default function ProductTypeDetailPage({
                 <MagnifyingGlassIcon className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" />
                 <input
                   type="text"
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
+                  value={searchTerm}
+                  onChange={(e) => setSearchTerm(e.target.value)}
                   placeholder={`Search ${productType.name.toLowerCase()}...`}
                   className="w-full pl-10 pr-12 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500 text-gray-900 placeholder-gray-500"
                 />
-                {searchQuery && (
+                {searchTerm && (
                   <button
-                    onClick={() => setSearchQuery('')}
+                    onClick={() => setSearchTerm('')}
                     className="absolute right-10 top-1/2 transform -translate-y-1/2 p-1 hover:bg-gray-100 rounded-full"
                   >
                     <XMarkIcon className="h-4 w-4 text-gray-400" />
@@ -395,11 +435,11 @@ export default function ProductTypeDetailPage({
               <div className="mb-4 flex flex-wrap items-center gap-2">
                 <span className="text-sm text-gray-600">Active filters:</span>
                 
-                {searchQuery && (
+                {searchTerm && (
                   <span className="inline-flex items-center px-2 py-1 bg-blue-100 text-blue-800 text-sm rounded-full">
-                    Search: "{searchQuery}"
+                    Search: "{searchTerm}"
                     <button
-                      onClick={() => setSearchQuery('')}
+                      onClick={() => setSearchTerm('')}
                       className="ml-1 p-0.5 hover:bg-blue-200 rounded-full"
                     >
                       <XMarkIcon className="h-3 w-3" />
@@ -457,7 +497,9 @@ export default function ProductTypeDetailPage({
             // Use traditional pagination for very large categories
             <>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-                {filteredProducts.map((product) => renderProductCard(product))}
+                {filteredProducts.map((product) => (
+                  <ProductCard key={product.id} product={product} />
+                ))}
               </div>
 
               {/* Pagination */}

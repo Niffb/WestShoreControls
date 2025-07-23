@@ -3,10 +3,10 @@
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import Link from 'next/link'
 import { useProgressiveLoader } from '@/lib/utils/performance-utils'
-import { ProductImage } from '@/components/ui/OptimizedImage'
 import { Product } from '@/lib/types/shared-types'
 import ProductModal from '@/components/product/ProductModal'
 import { getImageUrl } from '@/lib/config/image-config'
+import { resolveProductImage } from '@/lib/utils/intelligent-image-resolver'
 
 interface ProgressiveProductGridProps {
   products: Product[]
@@ -137,19 +137,62 @@ export default function ProgressiveProductGrid({
 
 // Memoized product grid item component
 const ProductGridItem = ({ product, onViewDetails }: { product: Product; onViewDetails: (product: Product) => void }) => {
+  const [imageLoaded, setImageLoaded] = useState(false)
+  const [imageError, setImageError] = useState(false)
+  
+  const resolvedImagePath = resolveProductImage(product)
+  const finalImageUrl = getImageUrl(resolvedImagePath)
+
+  const handleImageLoad = useCallback(() => {
+    setImageLoaded(true)
+  }, [])
+
+  const handleImageError = useCallback(() => {
+    setImageError(true)
+    setImageLoaded(true)
+  }, [])
+
   return (
     <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden">
       <div className="aspect-square bg-gray-100 relative">
-        <ProductImage
-          src={getImageUrl(product.images?.[0] || 'products/placeholder.jpg')}
-          alt={product.name}
-          className="w-full h-full object-cover"
-        />
-        {product.badge && (
-          <div className="absolute top-2 left-2 bg-red-600 text-white px-2 py-1 rounded text-xs font-medium">
-            {product.badge}
+        {/* Loading skeleton */}
+        {!imageLoaded && (
+          <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse flex items-center justify-center">
+            <div className="w-12 h-12 bg-gray-400 rounded-lg opacity-50"></div>
           </div>
         )}
+        
+        {/* Badge */}
+        {product.badge && (
+          <div className="absolute top-2 left-2 z-10">
+            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-red-600 text-white shadow-lg">
+              {product.badge}
+            </span>
+          </div>
+        )}
+
+        {/* Product Image */}
+        {!imageError ? (
+          <img
+            src={finalImageUrl}
+            alt={`${product.name} - ${product.brand}`}
+            className={`w-full h-full object-contain p-4 group-hover:scale-105 transition-all duration-300 ${
+              imageLoaded ? 'opacity-100' : 'opacity-0'
+            }`}
+            onLoad={handleImageLoad}
+            onError={handleImageError}
+            loading="lazy"
+          />
+        ) : (
+          <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
+            <div className="text-gray-500 text-center">
+              <div className="w-12 h-12 bg-gray-400 rounded-lg mx-auto mb-2"></div>
+              <p className="text-xs font-medium">{product.category}</p>
+              <p className="text-xs text-gray-400 mt-1">{product.brand}</p>
+            </div>
+          </div>
+        )}
+        
         {!product.inStock && (
           <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
             <span className="text-white font-medium">Out of Stock</span>

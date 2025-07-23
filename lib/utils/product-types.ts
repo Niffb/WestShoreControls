@@ -213,7 +213,7 @@ class ProductLoader {
     let filteredProducts = filterProductsByType(allProducts, typeConfig.category)
     
     // Handle special cases with additional filtering
-    if (filteredProducts.length === 0) {
+    if (filteredProducts.length === 0 || typeConfig.slug === 'variable-frequency-drives') {
       switch (typeConfig.slug) {
         case 'circuit-breakers':
           filteredProducts = allProducts.filter(product => 
@@ -226,10 +226,70 @@ class ProductLoader {
           break
         
         case 'variable-frequency-drives':
-          filteredProducts = allProducts.filter(product => 
-            product.category === 'Variable Frequency Drives' ||
-            (product as any).subcategory?.includes('Series Inverters')
-          )
+          // More precise filtering for VFDs to exclude non-VFD products
+          console.log('Filtering VFD products from', allProducts.length, 'total products')
+          
+          filteredProducts = allProducts.filter(product => {
+            const category = product.category?.toLowerCase() || ''
+            const name = product.name?.toLowerCase() || ''
+            const description = product.description?.toLowerCase() || ''
+            
+            // Include if category is exactly "Variable Frequency Drives"
+            if (product.category === 'Variable Frequency Drives') {
+              return true
+            }
+            
+            // Include if subcategory contains "Series Inverters" (for Mitsubishi drives)
+            if ((product as any).subcategory?.includes('Series Inverters')) {
+              return true
+            }
+            
+            // Exclude products that are clearly not VFDs
+            const nonVfdCategories = [
+              'controllers', 'controller', 'plc', 'programmable logic',
+              'hmi', 'human machine interface',
+              'robots', 'robot', 'robotics',
+              'computing', 'computer', 'industrial computer',
+              'servo motors', 'servo motor', 'servo',
+              'circuit breakers', 'circuit breaker',
+              'contactors', 'contactor',
+              'overload relays', 'overload relay',
+              'terminal blocks', 'terminal block',
+              'switches', 'switch',
+              'sensors', 'sensor',
+              'cables', 'cable',
+              'enclosures', 'enclosure'
+            ]
+            
+            // Check if this product belongs to non-VFD categories
+            const isNonVfd = nonVfdCategories.some(nonVfdCat => 
+              category.includes(nonVfdCat) ||
+              name.includes(nonVfdCat) ||
+              description.includes(nonVfdCat)
+            )
+            
+            if (isNonVfd) {
+              return false
+            }
+            
+            // Include if name/description contains VFD-related terms
+            const vfdTerms = [
+              'variable frequency drive', 'vfd', 'inverter', 'drive',
+              'frequency drive', 'ac drive', 'motor drive',
+              'freqrol', 'starvert', 'tmdrive'
+            ]
+            
+            const isVfd = vfdTerms.some(vfdTerm => 
+              category.includes(vfdTerm) ||
+              name.includes(vfdTerm) ||
+              description.includes(vfdTerm)
+            )
+            
+            return isVfd
+          })
+          
+          console.log('Filtered to', filteredProducts.length, 'VFD products')
+          console.log('Sample VFD products:', filteredProducts.slice(0, 5).map(p => ({ name: p.name, category: p.category, brand: p.brand })))
           break
         
         case 'contactors':

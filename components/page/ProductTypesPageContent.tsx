@@ -25,7 +25,7 @@ import {
   FunnelIcon
 } from '@heroicons/react/24/outline'
 import { ProductType } from '@/lib/utils/product-types'
-import { useDebounce } from '@/lib/utils/performance-utils'
+import { useDebouncedSearch } from '@/lib/utils/performance-utils'
 
 // Icon mapping
 const iconMap: { [key: string]: any } = {
@@ -57,15 +57,13 @@ export default function ProductTypesPageContent({
   featuredTypes, 
   otherTypes 
 }: ProductTypesPageContentProps) {
-  const [searchQuery, setSearchQuery] = useState('')
+  // Use the same debounced search logic as the working brand pages
+  const { searchTerm, debouncedSearchTerm, setSearchTerm } = useDebouncedSearch('', 300)
   const [selectedBrands, setSelectedBrands] = useState<string[]>([])
   const [showFilters, setShowFilters] = useState(false)
 
   // Combine all types for search
   const allTypes = [...featuredTypes, ...otherTypes]
-  
-  // Use debounced search for better performance
-  const debouncedSearchQuery = useDebounce(searchQuery, 300)
 
   // Get unique brands from all product types
   const allBrands = useMemo(() => {
@@ -87,8 +85,8 @@ export default function ProductTypesPageContent({
     let filtered = [...allTypes]
 
     // Apply search query filter
-    if (debouncedSearchQuery.trim()) {
-      const query = debouncedSearchQuery.toLowerCase().trim()
+    if (debouncedSearchTerm.trim()) {
+      const query = debouncedSearchTerm.toLowerCase().trim()
       filtered = filtered.filter(type => {
         return (
           type.name?.toLowerCase().includes(query) ||
@@ -107,7 +105,7 @@ export default function ProductTypesPageContent({
     }
 
     return filtered
-  }, [allTypes, debouncedSearchQuery, selectedBrands])
+  }, [allTypes, debouncedSearchTerm, selectedBrands])
 
   const searchActive = filteredProductTypes.length !== allTypes.length
 
@@ -124,12 +122,12 @@ export default function ProductTypesPageContent({
   }
 
   const clearAllFilters = () => {
-    setSearchQuery('')
+    setSearchTerm('')
     setSelectedBrands([])
     setShowFilters(false)
   }
 
-  const hasActiveFilters = searchQuery.trim() || selectedBrands.length > 0
+  const hasActiveFilters = searchTerm.trim() || selectedBrands.length > 0
 
   const renderProductTypeCard = (type: ProductType, featured: boolean = false) => {
     const IconComponent = iconMap[type.icon] || CogIcon
@@ -221,14 +219,14 @@ export default function ProductTypesPageContent({
             <MagnifyingGlassIcon className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" />
             <input
               type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
               placeholder="Search product types..."
               className="w-full pl-10 pr-12 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500 text-gray-900 placeholder-gray-500"
             />
-            {searchQuery && (
+            {searchTerm && (
               <button
-                onClick={() => setSearchQuery('')}
+                onClick={() => setSearchTerm('')}
                 className="absolute right-10 top-1/2 transform -translate-y-1/2 p-1 hover:bg-gray-100 rounded-full"
               >
                 <XMarkIcon className="h-4 w-4 text-gray-400" />
@@ -287,11 +285,11 @@ export default function ProductTypesPageContent({
           <div className="mb-4 flex flex-wrap items-center gap-2">
             <span className="text-sm text-gray-600">Active filters:</span>
             
-            {searchQuery && (
-              <span className="inline-flex items-center px-2 py-1 bg-blue-100 text-blue-800 text-sm rounded-full">
-                Search: "{searchQuery}"
+                      {searchTerm && (
+            <span className="inline-flex items-center px-2 py-1 bg-blue-100 text-blue-800 text-sm rounded-full">
+              Search: "{searchTerm}"
                 <button
-                  onClick={() => setSearchQuery('')}
+                  onClick={() => setSearchTerm('')}
                   className="ml-1 p-0.5 hover:bg-blue-200 rounded-full"
                 >
                   <XMarkIcon className="h-3 w-3" />

@@ -14,6 +14,7 @@ import {
   imagePreloader,
   createMemoizedFilter
 } from '@/lib/utils/performance-utils'
+import { resolveProductImage } from '@/lib/utils/intelligent-image-resolver'
 import { Product } from '@/lib/types/shared-types'
 
 interface DynamicProductGridProps {
@@ -127,12 +128,12 @@ const ProductCard = memo(({
     rootMargin: '50px'
   })
 
-  const { preloadNext } = useSmartImages(product.images)
+  const resolvedImagePath = resolveProductImage(product)
+  const finalImageUrl = getImageUrl(resolvedImagePath)
 
   const handleImageLoad = useCallback(() => {
     setImageLoaded(true)
-    preloadNext(1) // Preload next image when current loads
-  }, [preloadNext])
+  }, [])
 
   const handleImageError = useCallback(() => {
     setImageError(true)
@@ -171,9 +172,9 @@ const ProductCard = memo(({
           <div className="flex items-center">
             {/* Small product image */}
             <div className="relative w-10 h-10 mr-3 bg-gray-100 rounded-md overflow-hidden flex-shrink-0">
-              {inView && product.images[0] && !imageError ? (
+              {inView && !imageError ? (
                 <Image
-                  src={getImageUrl(product.images[0])}
+                  src={finalImageUrl}
                   alt={product.name}
                   fill
                   sizes="40px"
@@ -245,9 +246,9 @@ const ProductCard = memo(({
               <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse" />
             )}
             
-            {inView && product.images[0] && !imageError ? (
+            {inView && !imageError ? (
               <Image
-                src={getImageUrl(product.images[0])}
+                src={finalImageUrl}
                 alt={`${product.name} - ${product.brand}`}
                 fill
                 sizes="64px"
@@ -320,21 +321,16 @@ const ProductCard = memo(({
         )}
 
         {/* Lazy load images only when in view */}
-        {inView && product.images[0] && !imageError ? (
-          <Image
-            src={product.name?.includes("A800") ? getImageUrl("/images/drives/a800.png") : getImageUrl(product.images[0])}
+        {inView && !imageError ? (
+          <img
+            src={finalImageUrl}
             alt={`${product.name} - ${product.brand}`}
-            fill
-            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
-            className={`object-contain p-4 group-hover:scale-105 transition-all duration-300 ${
+            className={`w-full h-full object-contain p-4 group-hover:scale-105 transition-all duration-300 ${
               imageLoaded ? 'opacity-100' : 'opacity-0'
             }`}
             onLoad={handleImageLoad}
             onError={handleImageError}
-            priority={index < 8}
             loading={index < 8 ? 'eager' : 'lazy'}
-            placeholder="blur"
-            blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k="
           />
         ) : (
           <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">

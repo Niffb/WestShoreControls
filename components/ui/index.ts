@@ -18,6 +18,9 @@ export {
 // Optimized image components
 export { default as OptimizedImage, ProductImage, HeroImage } from './OptimizedImage';
 
+// Intelligent image components
+export { default as IntelligentProductImage, ProductCardImage, ProductListImage, ProductTableImage, ProductGalleryImage } from './IntelligentProductImage';
+
 // Search components
 export { default as ProductTypeSearch } from './ProductTypeSearch';
 export { default as ProductSearch } from './ProductSearch'; 
