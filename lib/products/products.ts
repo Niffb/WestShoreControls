@@ -22,7 +22,7 @@ import { noarkB1NQProducts } from './noark-b1nq-products'
 import { mitsubishiScrapedProducts } from './scraped/mitsubishi-scraped-products'
 import { noarkScrapedProducts } from './scraped/noark-scraped-products'
 import { schneiderelectricScrapedProducts } from './scraped/schneider-electric-scraped-products'
-import { allenbradleyScrapedProducts } from './scraped/allen-bradley-scraped-products'
+// import { allenbradleyScrapedProducts } from './scraped/allen-bradley-scraped-products' // REMOVED - Allen Bradley PLCs
 import { nventScrapedProducts } from './scraped/nvent-scraped-products'
 import { unknownScrapedProducts } from './scraped/unknown-scraped-products'
 
@@ -514,7 +514,7 @@ export const allProducts: Product[] = [
   ...mitsubishiScrapedProducts,
   ...noarkScrapedProducts,
   ...schneiderelectricScrapedProducts,
-  ...allenbradleyScrapedProducts,
+  // ...allenbradleyScrapedProducts, // REMOVED - Allen Bradley PLCs
   ...nventScrapedProducts,
   // All newly converted scraped products (10,621 products)
   ...allScrapedProducts,
@@ -754,7 +754,7 @@ export const getProductsByBrandEnhanced = (brand: string): Product[] => {
     case 'schneider electric':
       return schneiderelectricScrapedProducts
     case 'allen bradley':
-      return allenbradleyScrapedProducts
+      return [] // REMOVED - Allen Bradley PLCs
     case 'nvent':
       return nventScrapedProducts
     default:

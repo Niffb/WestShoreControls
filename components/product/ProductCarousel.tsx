@@ -36,7 +36,13 @@ export default function ProductCarousel() {
 
   const handleImageError = (productId: string, imgElement: HTMLImageElement) => {
     console.error('Failed to load carousel image:', imgElement.src)
-            imgElement.src = getImageUrl('products/placeholder.jpg')
+    // Use westlogo.jpg for Variable Frequency Drives, otherwise use placeholder
+    const product = featuredProducts.find(p => p.id.toString() === productId)
+    if (product?.category === 'Variable Frequency Drives') {
+      imgElement.src = '/images/westlogo.jpg'
+    } else {
+      imgElement.src = getImageUrl('products/placeholder.jpg')
+    }
   }
 
   return (
@@ -96,31 +102,25 @@ export default function ProductCarousel() {
                     </div>
                   )}
                   
-                  {product.images[0] && product.images[0] !== "products/placeholder.jpg" ? (
-                    <div className="w-full h-full relative">
-                      <Image
-                        src={getImageUrl(product.images[0])}
-                        alt={product.name}
-                        fill
-                        sizes="(max-width: 640px) 288px, 320px"
-                        className={`object-contain p-2 group-hover:scale-105 transition-transform duration-300 ${
-                          imageLoadStates[product.id.toString()] ? 'opacity-100' : 'opacity-0'
-                        }`}
-                        onLoad={() => handleImageLoad(product.id.toString())}
-                        onError={(e) => handleImageError(product.id.toString(), e.currentTarget)}
-                        priority={false} // Lazy load by default
-                        placeholder="blur"
-                        blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k="
-                      />
-                    </div>
-                  ) : (
-                    <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-                      <div className="text-gray-500 text-center">
-                        <div className="w-12 h-12 bg-gray-400 rounded-lg mx-auto mb-2"></div>
-                        <p className="text-xs">{product.category}</p>
-                      </div>
-                    </div>
-                  )}
+                  <div className="w-full h-full relative">
+                    <Image
+                      src={getImageUrl(product.images[0])}
+                      alt={product.name}
+                      fill
+                      sizes="(max-width: 640px) 288px, 320px"
+                      className={`object-contain p-2 group-hover:scale-105 ${
+                        // For VFD products using westlogo.jpg, no transitions - show immediately
+                        product.category === 'Variable Frequency Drives' 
+                          ? 'opacity-100' 
+                          : `transition-transform duration-300 ${imageLoadStates[product.id.toString()] ? 'opacity-100' : 'opacity-0'}`
+                      }`}
+                      onLoad={() => handleImageLoad(product.id.toString())}
+                      onError={(e) => handleImageError(product.id.toString(), e.currentTarget)}
+                      priority={false} // Lazy load by default
+                      placeholder="blur"
+                      blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k="
+                    />
+                  </div>
                 </div>
 
                 {/* Product Info */}

@@ -1,0 +1,116 @@
+{
+    "Batteries & Power": [
+      "MR J3BAT",
+      "MR BAT",
+      "A6BAT",
+      "Q6BAT"
+    ],
+    "Circuit Breakers": [
+      "KLK",
+      "B1E",
+      "M2S",
+      "M2N",
+      "M2H",
+      "ERH",
+      "RCP",
+      "B1H",
+      "SHT",
+      "UTE",
+      "NEH",
+      "ES",
+      "HM",
+      "LTC",
+      "AX",
+      "RTT",
+      "MIT",
+      "B1NQ"
+    ],
+    "Contactors": [
+      "EX9CMR",
+      "EX9CDS",
+      "EX9CDR",
+      "EX9CKT",
+      "MIT",
+      "UZ",
+      "APT",
+      "AJ"
+    ],
+    "Drives & VFDs": [
+      "FR",
+      "E8",
+      "SV",
+      "LSLV",
+      "MR"
+    ],
+    "LED Indicators": [
+      "ES50"
+    ],
+    "Manual Motor Starters": [
+      "MMS",
+      "ASNA, ASNB, ASNUV, ASNT",
+      "DRA",
+      "UVT",
+      "SHT",
+      "EX9S"
+    ],
+    "Other Products": [
+      "FR",
+      "ES50",
+      "VKA",
+      "FX",
+      "UAH, UAS",
+      "KU",
+      "PBC",
+      "UBS",
+      "CC",
+      "AP",
+      "AX",
+      "FBC",
+      "SB"
+    ],
+    "Overload Relays": [
+      "ISOTP",
+      "EX9R"
+    ],
+    "PLCs": [
+      "WS0",
+      "Q",
+      "NZ2WL",
+      "ST1",
+      "FX5, FX3"
+    ],
+    "Power Distribution": [
+      "ABS",
+      "CFBS, FBS, FBSS, UCFBS",
+      "PCB",
+      "UDJ, UD",
+      "FBC",
+      "SB",
+      "TR"
+    ],
+    "Push Buttons": [
+      "EX9PB",
+      "EX9PBC",
+      "EX9PBR",
+      "EX9PBS",
+      "EX9PBL",
+      "EX9PBW",
+      "ASNEB",
+      "EX9PBG",
+      "EX9PBA"
+    ],
+    "Servo Motors": [
+      "TM",
+      "HG",
+      "HF",
+      "SC",
+      "Q173DSVO",
+      "MRBRKS",
+      "MR",
+      "HK",
+      "J5",
+      "DG4SV2CB10",
+      "DG4SV1CB10",
+      "DG2BK1TB"
+    ]
+  }

@@ -270,7 +270,7 @@ export default function ContactPage() {
             </p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
             {/* Mike Marelic */}
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group">
               <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
@@ -314,6 +314,68 @@ export default function ContactPage() {
                   <EnvelopeIcon className="w-4 h-4" />
                   <a href="mailto:mjesty@westshorecontrols.com" className="text-green-600 hover:text-green-700 transition-colors break-all">
                     mjesty@westshorecontrols.com
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            {/* John Oldham */}
+            <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{animationDelay: '0.4s'}}>
+              <div className="w-20 h-20 bg-gradient-to-br from-purple-500 to-purple-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+                <span className="text-white font-bold text-xl group-hover:animate-pulse">JO</span>
+              </div>
+              <h4 className="text-xl font-semibold text-gray-900 mb-2">John Oldham</h4>
+              <p className="text-purple-600 font-medium mb-3">Sales</p>
+              <p className="text-gray-600 text-sm mb-4">Experienced sales professional providing expert guidance and support for industrial automation and electrical solutions.</p>
+              <div className="space-y-2">
+                <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                  <PhoneIcon className="w-4 h-4" />
+                  <a href="tel:+16043774977" className="text-purple-600 hover:text-purple-700 transition-colors">
+                    (+1) 604 377 4977
+                  </a>
+                </div>
+                <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                  <EnvelopeIcon className="w-4 h-4" />
+                  <a href="mailto:joldham@westshorecontrols.com" className="text-purple-600 hover:text-purple-700 transition-colors break-all">
+                    joldham@westshorecontrols.com
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Technical Service Team */}
+      <section className="py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16 animate-on-scroll">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Technical Service</h2>
+            <p className="text-gray-600 max-w-2xl mx-auto">
+              Our technical service team provides expert engineering support and consultation for complex automation projects
+            </p>
+          </div>
+
+          <div className="flex justify-center">
+            {/* Jose Torrecampo */}
+            <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group max-w-sm">
+              <div className="w-20 h-20 bg-gradient-to-br from-orange-500 to-orange-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+                <span className="text-white font-bold text-xl group-hover:animate-pulse">JT</span>
+              </div>
+              <h4 className="text-xl font-semibold text-gray-900 mb-2">Jose Torrecampo, FEC, P.Eng.</h4>
+              <p className="text-orange-600 font-medium mb-3">Principal Engineer</p>
+              <p className="text-gray-600 text-sm mb-4">Principal engineer providing technical consulting and engineering solutions for complex automation projects.</p>
+              <div className="space-y-2">
+                <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                  <PhoneIcon className="w-4 h-4" />
+                  <a href="tel:+16048050175" className="text-orange-600 hover:text-orange-700 transition-colors">
+                    (+1) 604 805 0175
+                  </a>
+                </div>
+                <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                  <EnvelopeIcon className="w-4 h-4" />
+                  <a href="mailto:jtorrecampo@westshorecontrols.com" className="text-orange-600 hover:text-orange-700 transition-colors break-all">
+                    jtorrecampo@westshorecontrols.com
                   </a>
                 </div>
               </div>

@@ -6,14 +6,22 @@ import ProductsPageNew from '@/components/page/ProductsPageNew'
 const validBrands = [
   'noark',
   'klemsan',
-  'mitsubishi'
+  'mitsubishi',
+  'ls-industrial',
+  'schneider-electric',
+  'abb',
+  'general-electric'
 ]
 
 // Map URL slugs to display names
 const brandDisplayNames: { [key: string]: string } = {
   'noark': 'Noark',
   'klemsan': 'Klemsan',
-  'mitsubishi': 'Mitsubishi'
+  'mitsubishi': 'Mitsubishi',
+  'ls-industrial': 'LS Industrial',
+  'schneider-electric': 'Schneider Electric',
+  'abb': 'ABB',
+  'general-electric': 'General Electric'
 }
 
 interface Props {
@@ -35,7 +43,7 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
   }
 
   // Handle Noark routing
-  if (brandSlug === 'noark' && !['circuit-protection', 'industrial-controls', 'special-applications', 'switchboards', 'power-transmission-distribution'].includes(categorySlug)) {
+  if (brandSlug === 'noark' && !['circuit-protection', 'industrial-controls', 'special-applications', 'switchboards', 'power-transmission-distribution', 'miniature-circuit-breakers', 'contactors', 'overload-relays', 'push-buttons', 'led-indicators'].includes(categorySlug)) {
     notFound()
   }
   
@@ -44,8 +52,28 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     notFound()
   }
 
-  // Handle Mitsubishi routing - support variable-frequency-drives with subcategories
-  if (brandSlug === 'mitsubishi' && !['variable-frequency-drives', 'controllers', 'human-machine-interface', 'circuit-breakers'].includes(categorySlug)) {
+  // Handle Mitsubishi routing - support all categories with subcategories
+  if (brandSlug === 'mitsubishi' && !['variable-frequency-drives', 'controllers', 'human-machine-interface', 'circuit-breakers', 'servo-motors', 'batteries-power'].includes(categorySlug)) {
+    notFound()
+  }
+  
+  // Handle LS Industrial routing
+  if (brandSlug === 'ls-industrial' && !['variable-frequency-drives', 'contactors', 'industrial-controls'].includes(categorySlug)) {
+    notFound()
+  }
+  
+  // Handle Schneider Electric routing
+  if (brandSlug === 'schneider-electric' && !['manual-motor-starters', 'servo-motors', 'overload-relays'].includes(categorySlug)) {
+    notFound()
+  }
+  
+  // Handle ABB routing
+  if (brandSlug === 'abb' && !['power-distribution'].includes(categorySlug)) {
+    notFound()
+  }
+  
+  // Handle General Electric routing
+  if (brandSlug === 'general-electric' && !['circuit-breakers', 'contactors', 'programmable-logic-controllers', 'power-distribution', 'overload-relays'].includes(categorySlug)) {
     notFound()
   }
 
@@ -113,12 +141,64 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     // Mitsubishi VFD subcategories
     'a800-series': 'A800 Series',
     'f800-series': 'F800 Series',
+    'e800-series': 'E800 Series',
     'd700-series': 'D700 Series',
     'e700-series': 'E700 Series',
     'fr-a800': 'FR-A800',
     'fr-f800': 'FR-F800',
     'fr-e700': 'FR-E700',
-    'fr-d700': 'FR-D700'
+    'fr-d700': 'FR-D700',
+    // Mitsubishi PLC subcategories
+    'melsec-q-series': 'MELSEC-Q Series',
+    'melsec-fx-series': 'MELSEC-FX Series',
+    'melsec-iq-r-series': 'MELSEC-iQ-R Series',
+    // Mitsubishi Servo Motor subcategories
+    'melservo-j5-series': 'MELSERVO-J5 Series',
+    'melservo-j4-series': 'MELSERVO-J4 Series',
+    'melservo-jn-series': 'MELSERVO-JN Series',
+    // Mitsubishi Batteries & Power subcategories
+    'mr-j3bat-series': 'MR-J3BAT Battery Units',
+    'power-supply-units': 'Power Supply Units',
+    // Noark MCB series subcategories
+    'b1n-series': 'B1N Series',
+    'b1h-series': 'B1H Series',
+    'b1e-series': 'B1E Series',
+    'b1d-series': 'B1D Series',
+    // Noark Contactor subcategories
+    'ex9c-series': 'Ex9C Series',
+    'ex9ck-series': 'Ex9CK Series',
+    'ex9cdr-series': 'Ex9CDR Series',
+    // Noark Overload Relay subcategories
+    'ex9r-series': 'Ex9R Series',
+    'thermal-overload-relays': 'Thermal Overload Relays',
+    // Noark Push Button subcategories
+    'ex9pb-series': 'Ex9PB Series',
+    '22mm-push-buttons': '22mm Push Buttons',
+    // Noark LED Indicator subcategories
+    'ex9il-series': 'Ex9IL Series',
+    '22mm-led-indicators': '22mm LED Indicators',
+    // LS Industrial VFD subcategories
+    'starvert-ie5-series': 'Starvert iE5 Series',
+    'starvert-ic5-series': 'Starvert iC5 Series',
+    'starvert-ig5a-series': 'Starvert iG5A Series',
+    // LS Industrial Contactor subcategories
+    'metasol-series': 'METASOL Series',
+    'mc-series': 'MC Series',
+    // Schneider Electric Manual Motor Starter subcategories
+    'gv2-series': 'GV2 Series',
+    'gv3-series': 'GV3 Series',
+    // Schneider Electric Servo Motor subcategories
+    'lexium-series': 'Lexium Series',
+    'bmh-series': 'BMH Series',
+    // ABB Power Distribution subcategories
+    'system-pro-m-compact': 'System Pro M Compact',
+    'distribution-boards': 'Distribution Boards',
+    // Motor Circuit Protectors subcategories
+    'motor-circuit-protectors-mcps': 'Motor Circuit Protectors (MCPs)',
+    // DIN Rail Fuse Holders subcategories
+    'din-rail-fuse-holders-and-fuses': 'DIN Rail Fuse Holders and Fuses',
+    // Surge Protective Device subcategories
+    'surge-protective-device': 'Surge Protective Device'
   }
   
   // Get proper subcategory name from mapping
@@ -198,12 +278,58 @@ export async function generateStaticParams() {
     // Mitsubishi VFD subcategories
     { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'a800-series' },
     { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'f800-series' },
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'e800-series' },
     { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'd700-series' },
     { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'e700-series' },
     { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-a800' },
     { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-f800' },
     { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-e700' },
-    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-d700' }
+    { brand: 'mitsubishi', category: 'variable-frequency-drives', subcategory: 'fr-d700' },
+    // Mitsubishi PLC subcategories
+    { brand: 'mitsubishi', category: 'controllers', subcategory: 'melsec-q-series' },
+    { brand: 'mitsubishi', category: 'controllers', subcategory: 'melsec-fx-series' },
+    { brand: 'mitsubishi', category: 'controllers', subcategory: 'melsec-iq-r-series' },
+    // Mitsubishi Servo Motor subcategories
+    { brand: 'mitsubishi', category: 'servo-motors', subcategory: 'melservo-j5-series' },
+    { brand: 'mitsubishi', category: 'servo-motors', subcategory: 'melservo-j4-series' },
+    { brand: 'mitsubishi', category: 'servo-motors', subcategory: 'melservo-jn-series' },
+    // Mitsubishi Batteries & Power subcategories
+    { brand: 'mitsubishi', category: 'batteries-power', subcategory: 'mr-j3bat-series' },
+    { brand: 'mitsubishi', category: 'batteries-power', subcategory: 'power-supply-units' },
+    // Noark MCB series subcategories
+    { brand: 'noark', category: 'miniature-circuit-breakers', subcategory: 'b1n-series' },
+    { brand: 'noark', category: 'miniature-circuit-breakers', subcategory: 'b1h-series' },
+    { brand: 'noark', category: 'miniature-circuit-breakers', subcategory: 'b1e-series' },
+    { brand: 'noark', category: 'miniature-circuit-breakers', subcategory: 'b1d-series' },
+    // Noark Contactor subcategories
+    { brand: 'noark', category: 'contactors', subcategory: 'ex9c-series' },
+    { brand: 'noark', category: 'contactors', subcategory: 'ex9ck-series' },
+    { brand: 'noark', category: 'contactors', subcategory: 'ex9cdr-series' },
+    // Noark Overload Relay subcategories
+    { brand: 'noark', category: 'overload-relays', subcategory: 'ex9r-series' },
+    { brand: 'noark', category: 'overload-relays', subcategory: 'thermal-overload-relays' },
+    // Noark Push Button subcategories
+    { brand: 'noark', category: 'push-buttons', subcategory: 'ex9pb-series' },
+    { brand: 'noark', category: 'push-buttons', subcategory: '22mm-push-buttons' },
+    // Noark LED Indicator subcategories
+    { brand: 'noark', category: 'led-indicators', subcategory: 'ex9il-series' },
+    { brand: 'noark', category: 'led-indicators', subcategory: '22mm-led-indicators' },
+    // LS Industrial VFD subcategories
+    { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'starvert-ie5-series' },
+    { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'starvert-ic5-series' },
+    { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'starvert-ig5a-series' },
+    // LS Industrial Contactor subcategories
+    { brand: 'ls-industrial', category: 'contactors', subcategory: 'metasol-series' },
+    { brand: 'ls-industrial', category: 'contactors', subcategory: 'mc-series' },
+    // Schneider Electric Manual Motor Starter subcategories
+    { brand: 'schneider-electric', category: 'manual-motor-starters', subcategory: 'gv2-series' },
+    { brand: 'schneider-electric', category: 'manual-motor-starters', subcategory: 'gv3-series' },
+    // Schneider Electric Servo Motor subcategories
+    { brand: 'schneider-electric', category: 'servo-motors', subcategory: 'lexium-series' },
+    { brand: 'schneider-electric', category: 'servo-motors', subcategory: 'bmh-series' },
+    // ABB Power Distribution subcategories
+    { brand: 'abb', category: 'power-distribution', subcategory: 'system-pro-m-compact' },
+    { brand: 'abb', category: 'power-distribution', subcategory: 'distribution-boards' }
   ]
   
   return params

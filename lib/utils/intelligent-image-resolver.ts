@@ -7,24 +7,124 @@ interface ImageConfig {
   fallbackImages: Record<string, string>
   brandFolders: Record<string, string>
   categoryMappings: Record<string, string[]>
+  seriesImageMappings: Record<string, string> // New mapping for series images
 }
 
 const imageConfig: ImageConfig = {
   baseUrl: 'assets/images/products',
   
-  // Fallback images for each category
+  // Series image mappings from scraped data to series images
+  seriesImageMappings: {
+    // Circuit Breakers
+    'B1E': 'assets/images/products/series/Circuit_Breakers_B1E_4bd83906.png',
+    'B1H': 'assets/images/products/series/Circuit_Breakers_B1H_a17e2295.png', 
+    'B1NQ': 'assets/images/products/series/Circuit_Breakers_B1NQ_8f9792b5.png',
+    'ERH': 'assets/images/products/series/Circuit_Breakers_ERH_450bce06.png',
+    'ES': 'assets/images/products/series/Circuit_Breakers_ES_012c2fb4.jpg',
+    'HM': 'assets/images/products/series/Circuit_Breakers_HM_5f7ef01e.jpg',
+    'KLK': 'assets/images/products/series/Circuit_Breakers_KLK_a13a6e2e.jpg',
+    'NEH': 'assets/images/products/series/Circuit_Breakers_NEH_3487381c.jpg',
+    'RTT': 'assets/images/products/series/Circuit_Breakers_RTT_1834d635.png',
+    'UTE': 'assets/images/products/series/Circuit_Breakers_UTE_f6920103.jpg',
+    
+    // Contactors
+    'EX9CDR': 'assets/images/products/series/Contactors_EX9CDR_65f2f730.png',
+    'EX9CDS': 'assets/images/products/series/Contactors_EX9CDS_c9b1dd61.png',
+    'EX9CKT': 'assets/images/products/series/Contactors_EX9CKT_c7e745f7.png',
+    'EX9CMR': 'assets/images/products/series/Contactors_EX9CMR_e46f91f1.png',
+    'MIT': 'assets/images/products/series/Contactors_MIT_4357f859.png',
+    'UZ': 'assets/images/products/series/Contactors_UZ_d49ea3cb.jpg',
+    
+    // Drives & VFDs
+    'E8': 'assets/images/products/series/Drives_&_VFDs_E8_32086962.jpg',
+    'FR': 'assets/images/products/series/Drives_&_VFDs_FR_225ad36d.jpg',
+    'LSLV': 'assets/images/products/series/Drives_&_VFDs_LSLV_abab3ef1.jpg',
+    'MR': 'assets/images/products/series/Drives_&_VFDs_MR_cac87e25.png',
+    'SV': 'assets/images/products/series/Drives_&_VFDs_SV_c2e8cac6.jpg',
+    
+    // LED Indicators
+    'ES50': 'assets/images/products/series/LED_Indicators_ES50_cf268077.jpg',
+    
+    // Manual Motor Starters
+    'ASNA': 'assets/images/products/series/Manual_Motor_Starters_ASNA,_ASNB,_ASNUV,_ASNT_4066cce8.jpg',
+    'ASNB': 'assets/images/products/series/Manual_Motor_Starters_ASNA,_ASNB,_ASNUV,_ASNT_4066cce8.jpg',
+    'ASNUV': 'assets/images/products/series/Manual_Motor_Starters_ASNA,_ASNB,_ASNUV,_ASNT_4066cce8.jpg',
+    'ASNT': 'assets/images/products/series/Manual_Motor_Starters_ASNA,_ASNB,_ASNUV,_ASNT_4066cce8.jpg',
+    'DRA': 'assets/images/products/series/Manual_Motor_Starters_DRA_e3bc65b4.jpg',
+    'MMS': 'assets/images/products/series/Manual_Motor_Starters_MMS_02da3a62.jpg',
+    'SHT': 'assets/images/products/series/Manual_Motor_Starters_SHT_f59cabdc.jpg',
+    'UVT': 'assets/images/products/series/Manual_Motor_Starters_UVT_4f663b1d.jpg',
+    
+    // Other Products
+    'KU': 'assets/images/products/series/Other_Products_KU_89abdf04.png',
+    'UAH': 'assets/images/products/series/Other_Products_UAH,_UAS_a5bbf984.jpg',
+    'UAS': 'assets/images/products/series/Other_Products_UAH,_UAS_a5bbf984.jpg',
+    'VKA': 'assets/images/products/series/Other_Products_VKA_371b9da0.png',
+    
+    // Overload Relays
+    'EX9R': 'assets/images/products/series/Overload_Relays_EX9R_419c8487.png',
+    'ISOTP': 'assets/images/products/series/Overload_Relays_ISOTP_2ee2ee9a.jpg',
+    
+    // PLCs
+    'FX5': 'assets/images/products/series/PLCs_FX5,_FX3_0caa970b.jpg',
+    'FX3': 'assets/images/products/series/PLCs_FX5,_FX3_0caa970b.jpg',
+    'WS0': 'assets/images/products/series/PLCs_WS0_1fa9bad4.png',
+    
+    // Power Distribution
+    'ABS': 'assets/images/products/series/Power_Distribution_ABS_b92f2d4d.jpg',
+    'CFBS': 'assets/images/products/series/Power_Distribution_CFBS,_FBS,_FBSS,_UCFBS_99838ef0.jpg',
+    'FBS': 'assets/images/products/series/Power_Distribution_CFBS,_FBS,_FBSS,_UCFBS_99838ef0.jpg',
+    'FBSS': 'assets/images/products/series/Power_Distribution_CFBS,_FBS,_FBSS,_UCFBS_99838ef0.jpg',
+    'UCFBS': 'assets/images/products/series/Power_Distribution_CFBS,_FBS,_FBSS,_UCFBS_99838ef0.jpg',
+    'FBC': 'assets/images/products/series/Power_Distribution_FBC_a19bac54.jpg',
+    'PCB': 'assets/images/products/series/Power_Distribution_PCB_4be2e429.jpg',
+    'SB': 'assets/images/products/series/Power_Distribution_SB_1615fcdd.jpg',
+    'UDJ': 'assets/images/products/series/Power_Distribution_UDJ,_UD_798c646b.jpg',
+    'UD': 'assets/images/products/series/Power_Distribution_UDJ,_UD_798c646b.jpg',
+    
+    // Push Buttons
+    'EX9PB': 'assets/images/products/series/Push_Buttons_EX9PB_55ae0d32.png',
+    'EX9PBA': 'assets/images/products/series/Push_Buttons_EX9PBA_dae27e21.png',
+    'EX9PBC': 'assets/images/products/series/Push_Buttons_EX9PBC_f22d7c33.png',
+    'EX9PBG': 'assets/images/products/series/Push_Buttons_EX9PBG_2e232237.png',
+    'EX9PBL': 'assets/images/products/series/Push_Buttons_EX9PBL_420e05c9.png',
+    'EX9PBR': 'assets/images/products/series/Push_Buttons_EX9PBR_6743c8b0.png',
+    'EX9PBS': 'assets/images/products/series/Push_Buttons_EX9PBS_e10eb321.png',
+    'EX9PBW': 'assets/images/products/series/Push_Buttons_EX9PBW_3d5d47cf.png',
+    'ASNEB': 'assets/images/products/series/Push_Buttons_ASNEB_31468f8b.jpg',
+    
+    // Servo Motors
+    'HF': 'assets/images/products/series/Servo_Motors_HF_a2068941.jpg',
+    'HK': 'assets/images/products/series/Servo_Motors_HK_ddfe5d94.png',
+    
+    // Batteries & Power
+    'MR_J3BAT': 'assets/images/products/series/Batteries_&_Power_MR_J3BAT_3f719844.jpg'
+  },
+  
+  // Fallback images for each category - updated to use series images where available
   fallbackImages: {
-    'Variable Frequency Drives': 'assets/images/products/mitsubishi/drives/Mitsubishi_A800_Series_300x300_f4449bac-61ee-47f0-8e3b-7aa6411acc03_medium.avif',
-    'Miniature Circuit Breakers': 'assets/images/products/noark/circuit_breakers/Noark_MCB_medium.avif',
+    'Variable Frequency Drives': 'images/westlogo.jpg',
+    'Drives & VFDs': 'assets/images/products/series/Drives_&_VFDs_FR_225ad36d.jpg',
+    'Circuit Breakers': 'assets/images/products/series/Circuit_Breakers_B1H_a17e2295.png',
+    'Miniature Circuit Breakers': 'assets/images/products/series/Circuit_Breakers_B1H_a17e2295.png',
     'Motor-Circuit Protectors': 'assets/images/products/noark/M1_molded_case_circuit_breakers_M1_molded_case_cir_M1-300x300_c777b548.jpg',
+    'Contactors': 'assets/images/products/series/Contactors_EX9CDR_65f2f730.png',
+    'Contactors and Relays': 'assets/images/products/series/Contactors_EX9CDR_65f2f730.png',
+    'Overload Relays': 'assets/images/products/series/Overload_Relays_EX9R_419c8487.png',
+    'Push Buttons': 'assets/images/products/series/Push_Buttons_EX9PBA_dae27e21.png',
+    'LED Indicators': 'assets/images/products/series/LED_Indicators_ES50_cf268077.jpg',
+    'Manual Motor Starters': 'assets/images/products/series/Manual_Motor_Starters_MMS_02da3a62.jpg',
+    'PLCs': 'assets/images/products/series/PLCs_FX5,_FX3_0caa970b.jpg',
+    'Programmable Logic Controllers': 'assets/images/products/series/PLCs_FX5,_FX3_0caa970b.jpg',
+    'Power Distribution': 'assets/images/products/series/Power_Distribution_ABS_b92f2d4d.jpg',
+    'Servo Motors': 'assets/images/products/series/Servo_Motors_HF_a2068941.jpg',
+    'Batteries & Power': 'assets/images/products/series/Batteries_&_Power_MR_J3BAT_3f719844.jpg',
+    'Other Products': 'assets/images/products/series/Other_Products_VKA_371b9da0.png',
     'Controllers': 'assets/images/products/mitsubishi/controllers/melsec-a-series.webp',
-    'Servo Motors': 'assets/images/products/mitsubishi/drives/Mitsubishi_MELSERVO_J5_medium.avif',
     'Enclosed Isolators': 'images/products/enclosed-isolators/KEM-Product-Range-Enclosed-Isolators.png',
     'Flexible Conductors': 'assets/images/products/erico/PBCR_braided_power_shunts_PBCR_braided_power_shunt_PBCR-power-shunt-350x360_d70d3343.jpg',
-    'Contactors and Relays': 'assets/images/products/ls_industrial/LS_Circuit_Breakers_ac8c6d15-6d04-4783-bd21-b3ad48834527_medium.avif',
     'Screw Terminals': 'products/klemsan/product_images/AVK_2,5_Red_304124.webp',
     'Quick Release': 'products/klemsan/product_images/PYK_4E_Beige_307220.webp',
-    'Circuit Breakers': 'assets/images/products/mitsubishi/drives/Mitsubishi_Air_Circuit_Breakers_300x300_7c5e0656-f177-4079-8cf8-7449f4f3ac18_medium.avif',
     'default': 'assets/images/products/placeholder.jpg'
   },
 
@@ -61,6 +161,19 @@ export class IntelligentImageResolver {
    * Main method to resolve the best image for a product
    */
   static resolveProductImage(product: Product, preferredIndex: number = 0): string {
+    // Special handling for Variable Frequency Drives - use westlogo.jpg directly
+    if (product.category === 'Variable Frequency Drives') {
+      return 'images/westlogo.jpg'
+    }
+
+    // Check if this is a scraped product with placeholder image - use series mapping
+    if (product.images && product.images.length > 0 && product.images[preferredIndex] === 'placeholder.jpg') {
+      const seriesImage = this.resolveSeriesImage(product)
+      if (seriesImage) {
+        return getImageUrl(seriesImage)
+      }
+    }
+
     // If product already has valid images, use them
     if (product.images && product.images.length > 0 && product.images[preferredIndex]) {
       const existingImage = product.images[preferredIndex]
@@ -77,6 +190,51 @@ export class IntelligentImageResolver {
 
     // Fall back to category-based image
     return getImageUrl(this.getCategoryFallback(product.category))
+  }
+
+  /**
+   * Resolve series image for scraped products based on model/name patterns
+   */
+  private static resolveSeriesImage(product: Product): string | null {
+    const model = product.model?.toUpperCase() || ''
+    const name = product.name?.toUpperCase() || ''
+    const description = product.description?.toUpperCase() || ''
+    
+    // Try exact model match first
+    if (model && imageConfig.seriesImageMappings[model]) {
+      return imageConfig.seriesImageMappings[model]
+    }
+    
+    // Try to find series pattern in name or model
+    for (const [series, imagePath] of Object.entries(imageConfig.seriesImageMappings)) {
+      const seriesUpper = series.toUpperCase()
+      
+      // Check if series appears in model, name, or description
+      if (model.includes(seriesUpper) || 
+          name.includes(seriesUpper) || 
+          description.includes(seriesUpper)) {
+        return imagePath
+      }
+      
+      // Handle special cases for compound series names
+      if (series.includes('_')) {
+        const seriesParts = series.split('_')
+        if (seriesParts.every(part => name.includes(part.toUpperCase()) || model.includes(part.toUpperCase()))) {
+          return imagePath
+        }
+      }
+      
+      // Handle dash variations (e.g., EX9-CDR vs EX9CDR)
+      const seriesWithDash = seriesUpper.replace(/([A-Z]+)(\d+)([A-Z]+)/, '$1$2-$3')
+      const seriesWithoutDash = seriesUpper.replace('-', '')
+      
+      if (name.includes(seriesWithDash) || name.includes(seriesWithoutDash) ||
+          model.includes(seriesWithDash) || model.includes(seriesWithoutDash)) {
+        return imagePath
+      }
+    }
+    
+    return null
   }
 
   /**
@@ -460,6 +618,11 @@ export class IntelligentImageResolver {
    * This uses known image files from the public/assets/images/products directory
    */
   private static imageExistsInAssets(path: string): boolean {
+    // Check if it's a series image
+    if (path.includes('series/')) {
+      return true // Series images are guaranteed to exist since we copied them
+    }
+    
     // Known images in public directory organized by brand
     const publicImages = [
       // Mitsubishi VFD images

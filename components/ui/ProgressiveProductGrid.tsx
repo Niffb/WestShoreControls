@@ -172,26 +172,19 @@ const ProductGridItem = ({ product, onViewDetails }: { product: Product; onViewD
         )}
 
         {/* Product Image */}
-        {!imageError ? (
-          <img
-            src={finalImageUrl}
-            alt={`${product.name} - ${product.brand}`}
-            className={`w-full h-full object-contain p-4 group-hover:scale-105 transition-all duration-300 ${
-              imageLoaded ? 'opacity-100' : 'opacity-0'
-            }`}
-            onLoad={handleImageLoad}
-            onError={handleImageError}
-            loading="lazy"
-          />
-        ) : (
-          <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-            <div className="text-gray-500 text-center">
-              <div className="w-12 h-12 bg-gray-400 rounded-lg mx-auto mb-2"></div>
-              <p className="text-xs font-medium">{product.category}</p>
-              <p className="text-xs text-gray-400 mt-1">{product.brand}</p>
-            </div>
-          </div>
-        )}
+        <img
+          src={finalImageUrl}
+          alt={`${product.name} - ${product.brand}`}
+          className={`w-full h-full object-contain p-4 group-hover:scale-105 ${
+            // For VFD products using westlogo.jpg, no transitions - show immediately
+            product.category === 'Variable Frequency Drives' 
+              ? 'opacity-100' 
+              : `transition-all duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
+          }`}
+          onLoad={handleImageLoad}
+          onError={handleImageError}
+          loading="lazy"
+        />
         
         {!product.inStock && (
           <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
@@ -214,14 +207,7 @@ const ProductGridItem = ({ product, onViewDetails }: { product: Product; onViewD
           {product.description}
         </p>
         
-        {product.rating && (
-          <div className="flex items-center justify-end mb-3">
-            <div className="flex items-center">
-              <span className="text-yellow-400">★</span>
-              <span className="text-sm text-gray-600 ml-1">{product.rating}</span>
-            </div>
-          </div>
-        )}
+
         
         {/* Product specs preview */}
         {product.specs && product.specs.length > 0 && (

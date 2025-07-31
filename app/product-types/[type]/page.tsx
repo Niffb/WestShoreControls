@@ -9,6 +9,7 @@ import {
   productTypes, 
   shouldUsePaginationSync
 } from '@/lib/utils/product-types'
+import { getVFDProductFamilies, getCircuitBreakerProductFamilies, getProductFamiliesForCategory } from '@/lib/utils/product-families'
 import { ProductTypeDetailPage } from '@/components/page'
 
 interface Props {
@@ -81,12 +82,42 @@ async function ProductTypePageNew({ productType, currentPage }: { productType: s
   let paginatedResult = { items: [], pagination: { page: 1, limit: 24, total: 0, totalPages: 0, hasNext: false, hasPrev: false } }
   let typeConfig = null
   let usePagination = false
+  let shouldShowFamilies = false
   
   try {
     typeConfig = productTypes.find(type => type.slug === productType)
     usePagination = shouldUsePaginationSync(productType)
     
-    if (usePagination) {
+    // Check if this product type should show families instead of individual products
+    // All product types should show families now
+    shouldShowFamilies = true
+    
+    if (shouldShowFamilies) {
+      // Get product families for this category
+      const categoryName = typeConfig?.category || ''
+      let families = []
+      
+      if (productType === 'variable-frequency-drives') {
+        families = getVFDProductFamilies()
+      } else {
+        // Use the general product families function for all other categories
+        families = getProductFamiliesForCategory(categoryName)
+      }
+      
+      console.log(`Loading ${families.length} product families for ${productType} (category: ${categoryName})`)
+      
+      paginatedResult = {
+        items: families,
+        pagination: {
+          page: 1,
+          limit: families.length,
+          total: families.length,
+          totalPages: 1,
+          hasNext: false,
+          hasPrev: false
+        }
+      }
+    } else if (usePagination) {
       paginatedResult = await getPaginatedProductsByType(productType, currentPage, 24)
     } else {
       // For smaller categories, get all products
@@ -134,7 +165,22 @@ async function ProductTypePageNew({ productType, currentPage }: { productType: s
     )
   }
 
-  const typeWithStats = await getProductTypeWithStats(typeConfig)
+  let typeWithStats = await getProductTypeWithStats(typeConfig)
+
+  // If showing families, update stats to reflect family data
+  if (shouldShowFamilies && products.length > 0) {
+    const totalModels = products.reduce((sum, family) => sum + (family.models?.length || 0), 0)
+    const brandSet = new Set(products.map(family => family.brand))
+    const familyBrands = Array.from(brandSet)
+    
+    typeWithStats = {
+      ...typeWithStats,
+      count: totalModels,
+      brands: familyBrands
+    }
+    
+    console.log(`Updated stats for ${productType}: ${totalModels} models across ${familyBrands.length} brands`)
+  }
 
   return (
     <ProductTypeDetailPage

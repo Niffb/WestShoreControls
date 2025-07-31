@@ -472,7 +472,9 @@ export default function AboutPage() {
                 <div className="space-y-2">
                   <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                     <PhoneIcon className="w-4 h-4" />
-                    <span>(+1) 604 817 0987</span>
+                    <a href="tel:+16048050175" className="text-green-600 hover:text-green-700 transition-colors">
+                      (+1) 604 805 0175
+                    </a>
                   </div>
                   <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                     <EnvelopeIcon className="w-4 h-4" />

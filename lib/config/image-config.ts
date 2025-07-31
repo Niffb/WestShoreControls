@@ -25,10 +25,32 @@ export const getImageUrl = (imagePath: string): string => {
   // Remove leading slash if present
   const cleanPath = imagePath.startsWith('/') ? imagePath.slice(1) : imagePath
   
+  // Handle specific problematic paths first
+  if (cleanPath === 'assets/images/products/westlogo.jpg' || cleanPath === 'westlogo.jpg') {
+    return `${IMAGE_BASE_URL}/westlogo.jpg`
+  }
+  
   // Check if this is an assets image
   if (cleanPath.startsWith('assets/images/')) {
     // Keep assets path structure intact
     return `/${cleanPath}`
+  }
+  
+  // Handle series_images paths (now in public directory)
+  if (cleanPath.startsWith('series_images/') || imagePath.startsWith('/series_images/')) {
+    const seriesPath = cleanPath.replace(/^(\/)?series_images\//, '')
+    // Check if path already has an extension
+    const hasExtension = IMAGE_EXTENSIONS.some(ext => seriesPath.toLowerCase().endsWith(ext))
+    if (hasExtension) {
+      return `/series_images/${seriesPath}`
+    }
+    
+    // If no extension, try common extensions for series images
+    // Most series images are JPG, but some are PNG
+    const extensionsToTry = ['.jpg', '.png', '.jpeg', '.webp', '.avif']
+    
+    // For now, return the path with .jpg extension as most series images are JPG
+    return `/series_images/${seriesPath}.jpg`
   }
   
   // Handle hardcoded /images/ paths - normalize to relative paths

@@ -574,32 +574,140 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
 
   // Function to check if a category has subcategories
   const hasSubcategories = (brandName: string, categoryName: string) => {
-    if (brandName === 'Mitsubishi' && categoryName === 'Variable Frequency Drives') {
-      return true
+    // Categories that have scraped families and should show subcategories
+    const categoriesWithSubcategories = {
+      'Mitsubishi': [
+        'Variable Frequency Drives',
+        'Programmable Logic Controllers', 
+        'Servo Motors',
+        'Cables & Accessories',
+        'Batteries & Power'
+      ],
+      'Noark': [
+        'Circuit Protection',
+        'Miniature Circuit Breakers',
+        'Circuit Breakers',
+        'Contactors',
+        'Overload Relays',
+        'Push Buttons',
+        'LED Indicators'
+      ],
+      'LS Industrial': [
+        'Variable Frequency Drives',
+        'Contactors',
+        'Magnetic Contactor'
+      ],
+      'Schneider Electric': [
+        'Manual Motor Starters',
+        'Servo Motors',
+        'Overload Relays'
+      ],
+      'ABB': [
+        'Power Distribution'
+      ],
+      'General Electric': [
+        'Circuit Breakers',
+        'Contactors',
+        'Programmable Logic Controllers',
+        'Power Distribution',
+        'Overload Relays'
+      ]
     }
-    if (brandName === 'Noark' && categoryName === 'Circuit Protection') {
-      return true
-    }
-    // Add more conditions for other brands and categories with subcategories
-    return false
+    
+    const brandCategories = categoriesWithSubcategories[brandName]
+    return brandCategories ? brandCategories.includes(categoryName) : false
   }
   
   // Function to get subcategories for a category
   const getSubcategories = (brandName: string, categoryName: string) => {
-    if (brandName === 'Mitsubishi' && categoryName === 'Variable Frequency Drives') {
-      return [
-        { name: 'A800 Series', slug: 'a800-series' },
-        { name: 'F800 Series', slug: 'f800-series' },
-        { name: 'D700 Series', slug: 'd700-series' },
-        { name: 'E700 Series', slug: 'e700-series' },
-        { name: 'FR-A800', slug: 'fr-a800' },
-        { name: 'FR-F800', slug: 'fr-f800' },
-        { name: 'FR-E700', slug: 'fr-e700' },
-        { name: 'FR-D700', slug: 'fr-d700' }
-      ]
+    // Define subcategories based on scraped families and product patterns
+    const subcategoryMappings: Record<string, Record<string, Array<{name: string, slug: string}>>> = {
+      'Mitsubishi': {
+        'Variable Frequency Drives': [
+          { name: 'A800 Series', slug: 'a800-series' },
+          { name: 'F800 Series', slug: 'f800-series' },
+          { name: 'E800 Series', slug: 'e800-series' },
+          { name: 'D700 Series', slug: 'd700-series' },
+          { name: 'E700 Series', slug: 'e700-series' }
+        ],
+        'Programmable Logic Controllers': [
+          { name: 'MELSEC-Q Series', slug: 'melsec-q-series' },
+          { name: 'MELSEC-FX Series', slug: 'melsec-fx-series' },
+          { name: 'MELSEC-iQ-R Series', slug: 'melsec-iq-r-series' }
+        ],
+        'Servo Motors': [
+          { name: 'MELSERVO-J5 Series', slug: 'melservo-j5-series' },
+          { name: 'MELSERVO-J4 Series', slug: 'melservo-j4-series' },
+          { name: 'MELSERVO-JN Series', slug: 'melservo-jn-series' }
+        ],
+        'Batteries & Power': [
+          { name: 'MR-J3BAT Battery Units', slug: 'mr-j3bat-series' },
+          { name: 'Power Supply Units', slug: 'power-supply-units' }
+        ]
+      },
+      'Noark': {
+        'Circuit Protection': [
+          { name: 'Miniature Circuit Breakers', slug: 'miniature-circuit-breakers' },
+          { name: 'Motor Circuit Protectors (MCPs)', slug: 'motor-circuit-protectors-mcps' },
+          { name: 'Enclosed Breakers', slug: 'enclosed-breakers' },
+          { name: 'DIN Rail Fuse Holders and Fuses', slug: 'din-rail-fuse-holders-and-fuses' },
+          { name: 'Surge Protective Device', slug: 'surge-protective-device' }
+        ],
+        'Miniature Circuit Breakers': [
+          { name: 'B1N Series', slug: 'b1n-series' },
+          { name: 'B1H Series', slug: 'b1h-series' },
+          { name: 'B1E Series', slug: 'b1e-series' },
+          { name: 'B1D Series', slug: 'b1d-series' }
+        ],
+        'Contactors': [
+          { name: 'Ex9C Series', slug: 'ex9c-series' },
+          { name: 'Ex9CK Series', slug: 'ex9ck-series' },
+          { name: 'Ex9CDR Series', slug: 'ex9cdr-series' }
+        ],
+        'Overload Relays': [
+          { name: 'Ex9R Series', slug: 'ex9r-series' },
+          { name: 'Thermal Overload Relays', slug: 'thermal-overload-relays' }
+        ],
+        'Push Buttons': [
+          { name: 'Ex9PB Series', slug: 'ex9pb-series' },
+          { name: '22mm Push Buttons', slug: '22mm-push-buttons' }
+        ],
+        'LED Indicators': [
+          { name: 'Ex9IL Series', slug: 'ex9il-series' },
+          { name: '22mm LED Indicators', slug: '22mm-led-indicators' }
+        ]
+      },
+      'LS Industrial': {
+        'Variable Frequency Drives': [
+          { name: 'Starvert iE5 Series', slug: 'starvert-ie5-series' },
+          { name: 'Starvert iC5 Series', slug: 'starvert-ic5-series' },
+          { name: 'Starvert iG5A Series', slug: 'starvert-ig5a-series' }
+        ],
+        'Contactors': [
+          { name: 'METASOL Series', slug: 'metasol-series' },
+          { name: 'MC Series', slug: 'mc-series' }
+        ]
+      },
+      'Schneider Electric': {
+        'Manual Motor Starters': [
+          { name: 'GV2 Series', slug: 'gv2-series' },
+          { name: 'GV3 Series', slug: 'gv3-series' }
+        ],
+        'Servo Motors': [
+          { name: 'Lexium Series', slug: 'lexium-series' },
+          { name: 'BMH Series', slug: 'bmh-series' }
+        ]
+      },
+      'ABB': {
+        'Power Distribution': [
+          { name: 'System Pro M Compact', slug: 'system-pro-m-compact' },
+          { name: 'Distribution Boards', slug: 'distribution-boards' }
+        ]
+      }
     }
-    // Add more conditions for other brands and categories
-    return []
+    
+    const brandSubcategories = subcategoryMappings[brandName]
+    return brandSubcategories ? (brandSubcategories[categoryName] || []) : []
   }
 
   return (

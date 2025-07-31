@@ -6,6 +6,7 @@ import Image from 'next/image'
 import { ArrowLeftIcon, ChevronLeftIcon, ChevronRightIcon, MagnifyingGlassIcon, XMarkIcon, FunnelIcon } from '@heroicons/react/24/outline'
 import { Product } from '@/lib/types/shared-types'
 import { ProductType } from '@/lib/utils/product-types'
+import { ProductFamily, getProductFamiliesForCategory, getProductFamilySlug } from '@/lib/utils/product-families'
 import ProgressiveProductGrid from '@/components/ui/ProgressiveProductGrid'
 import { useDebouncedSearch } from '@/lib/utils/performance-utils'
 import { getImageUrl } from '@/lib/config/image-config'
@@ -129,7 +130,97 @@ function Pagination({
   )
 }
 
-// Product Card Component
+// Product Family Card Component
+function ProductFamilyCard({ family }: { family: ProductFamily }) {
+  const [imageLoaded, setImageLoaded] = useState(false)
+  const [imageError, setImageError] = useState(false)
+  const [finalImageUrl, setFinalImageUrl] = useState(family.image)
+  
+  // Ensure consistent image URL between server and client
+  useEffect(() => {
+    setFinalImageUrl(getImageUrl(family.image))
+  }, [family.image])
+
+  const handleImageLoad = useCallback(() => {
+    setImageLoaded(true)
+  }, [])
+
+  const handleImageError = useCallback(() => {
+    setImageError(true)
+    setImageLoaded(true)
+  }, [])
+
+  const familySlug = getProductFamilySlug(family)
+
+  return (
+    <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden group">
+      <div className="aspect-square bg-gray-100 relative">
+        {/* Loading skeleton */}
+        {!imageLoaded && (
+          <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse flex items-center justify-center">
+            <div className="w-12 h-12 bg-gray-400 rounded-lg opacity-50"></div>
+          </div>
+        )}
+        
+        {/* Badge */}
+        {family.badge && (
+          <div className="absolute top-2 left-2 z-10">
+            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-red-600 text-white shadow-lg">
+              {family.badge}
+            </span>
+          </div>
+        )}
+
+        {/* Product Family Image */}
+        <img
+          src={finalImageUrl}
+          alt={`${family.name} - ${family.brand}`}
+          className={`w-full h-full object-contain p-4 group-hover:scale-105 transition-all duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`}
+          onLoad={handleImageLoad}
+          onError={handleImageError}
+          loading="lazy"
+        />
+      </div>
+      
+      <div className="p-4">
+        <div className="flex items-center justify-between mb-2">
+          <span className="text-sm font-medium text-red-600">{family.brand}</span>
+          <span className="text-xs text-gray-500 bg-gray-100 px-2 py-1 rounded-full">
+            {family.models.length} models
+          </span>
+        </div>
+        
+        <h3 className="text-lg font-semibold text-gray-900 mb-2 line-clamp-2">
+          {family.name}
+        </h3>
+        
+        <p className="text-sm text-gray-600 mb-3 line-clamp-2">
+          {family.description}
+        </p>
+        
+        <div className="flex items-center justify-end mb-3">
+          {family.inStock && (
+            <span className="text-xs text-green-600 font-medium">In Stock</span>
+          )}
+        </div>
+        
+        <div className="mt-4">
+          <Link 
+            href={`/product-families/${family.id}`}
+            className="w-full inline-flex items-center justify-center px-4 py-2 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors"
+          >
+            View Models & Specs
+            <svg className="ml-2 h-4 w-4" fill="currentColor" viewBox="0 0 20 20">
+              <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+            </svg>
+          </Link>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+// Product Card Component (for fallback when no families are available)
 function ProductCard({ product }: { product: Product }) {
   const [imageLoaded, setImageLoaded] = useState(false)
   const [imageError, setImageError] = useState(false)
@@ -166,26 +257,19 @@ function ProductCard({ product }: { product: Product }) {
         )}
 
         {/* Product Image */}
-        {!imageError ? (
-          <img
-            src={finalImageUrl}
-            alt={`${product.name} - ${product.brand}`}
-            className={`w-full h-full object-contain p-4 group-hover:scale-105 transition-all duration-300 ${
-              imageLoaded ? 'opacity-100' : 'opacity-0'
-            }`}
-            onLoad={handleImageLoad}
-            onError={handleImageError}
-            loading="lazy"
-          />
-        ) : (
-          <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-            <div className="text-gray-500 text-center">
-              <div className="w-12 h-12 bg-gray-400 rounded-lg mx-auto mb-2"></div>
-              <p className="text-xs font-medium">{product.category}</p>
-              <p className="text-xs text-gray-400 mt-1">{product.brand}</p>
-            </div>
-          </div>
-        )}
+        <img
+          src={finalImageUrl}
+          alt={`${product.name} - ${product.brand}`}
+          className={`w-full h-full object-contain p-4 group-hover:scale-105 ${
+            // For VFD products using westlogo.jpg, no transitions - show immediately
+            product.category === 'Variable Frequency Drives' 
+              ? 'opacity-100' 
+              : `transition-all duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
+          }`}
+          onLoad={handleImageLoad}
+          onError={handleImageError}
+          loading="lazy"
+        />
       </div>
       
       <div className="p-4">
@@ -202,14 +286,7 @@ function ProductCard({ product }: { product: Product }) {
           {product.description}
         </p>
         
-        {product.rating && (
-          <div className="flex items-center justify-end mb-3">
-            <div className="flex items-center">
-              <span className="text-yellow-400">★</span>
-              <span className="text-sm text-gray-600 ml-1">{product.rating}</span>
-            </div>
-          </div>
-        )}
+
         
         <div className="mt-4">
           <Link 
@@ -247,67 +324,161 @@ export default function ProductTypeDetailPage({
     console.log('ProductTypeDetailPage: Debounced search term changed:', debouncedSearchTerm)
   }, [debouncedSearchTerm])
 
-  // Get unique brands and categories from products
+  // Get product families - either from passed products (if they are families) or from category
+  const productFamilies = useMemo(() => {
+    // Check if the passed products are actually ProductFamily objects
+    const firstProduct = initialProducts[0]
+    const isProductFamily = firstProduct && 
+      typeof firstProduct === 'object' && 
+      'models' in firstProduct && 
+      Array.isArray((firstProduct as any).models) &&
+      'specs' in firstProduct &&
+      'features' in firstProduct &&
+      Array.isArray((firstProduct as any).specs) &&
+      Array.isArray((firstProduct as any).features)
+    
+    console.log('ProductTypeDetailPage: Checking if products are families:', {
+      hasFirstProduct: !!firstProduct,
+      hasModels: firstProduct && 'models' in firstProduct,
+      modelsIsArray: firstProduct && 'models' in firstProduct && Array.isArray((firstProduct as any).models),
+      hasSpecs: firstProduct && 'specs' in firstProduct,
+      hasFeatures: firstProduct && 'features' in firstProduct,
+      isProductFamily,
+      firstProductKeys: firstProduct ? Object.keys(firstProduct).slice(0, 10) : []
+    })
+    
+    if (isProductFamily) {
+      // Products are actually families, use them directly
+      console.log('ProductTypeDetailPage: Using passed products as families, count:', initialProducts.length)
+      return initialProducts as unknown as ProductFamily[]
+    } else {
+      // Products are individual products, get families from category
+      console.log('ProductTypeDetailPage: Getting families from category')
+      return getProductFamiliesForCategory(productType.category)
+    }
+  }, [initialProducts, productType.category])
+
+  // Determine whether to show families or individual products
+  // Show families if we have any families available
+  const shouldShowFamilies = productFamilies.length > 0
+
+  // Get unique brands and categories from products or families
   const { allBrands, allCategories } = useMemo(() => {
     const brandSet = new Set<string>()
     const categorySet = new Set<string>()
     
-    initialProducts.forEach(product => {
-      if (product.brand) brandSet.add(product.brand)
-      if (product.category) categorySet.add(product.category)
-    })
+    if (shouldShowFamilies) {
+      productFamilies.forEach(family => {
+        if (family.brand) brandSet.add(family.brand)
+        if (family.category) categorySet.add(family.category)
+      })
+    } else {
+      initialProducts.forEach(product => {
+        if (product.brand) brandSet.add(product.brand)
+        if (product.category) categorySet.add(product.category)
+      })
+    }
     
     return {
       allBrands: Array.from(brandSet).sort(),
       allCategories: Array.from(categorySet).sort()
     }
-  }, [initialProducts])
+  }, [initialProducts, productFamilies, shouldShowFamilies])
 
-  // Filter products based on search query and selected filters - using same logic as brand pages
-  const filteredProducts = useMemo(() => {
-    console.log('ProductTypeDetailPage: Filtering products...', {
-      initialProducts: initialProducts.length,
-      debouncedSearchTerm,
-      selectedBrands: selectedBrands.length
-    })
-    
-    let filtered = initialProducts
-
-    // Apply search query filter - same logic as ProductsPageNew
-    if (debouncedSearchTerm.trim()) {
-      const query = debouncedSearchTerm.toLowerCase().trim()
-      console.log('ProductTypeDetailPage: Applying search filter for:', query)
-      
-      filtered = filtered.filter(product => {
-        const matchesSearch = 
-          product.name.toLowerCase().includes(query) ||
-          product.description.toLowerCase().includes(query) ||
-          product.category.toLowerCase().includes(query) ||
-          product.brand.toLowerCase().includes(query) ||
-          (product.model && product.model.toLowerCase().includes(query)) ||
-          (product.specs && product.specs.some(spec => spec.toLowerCase().includes(query))) ||
-          (product.features && product.features.some(feature => feature.toLowerCase().includes(query)))
-        
-        return matchesSearch
+  // Filter products or families based on search query and selected filters
+  const filteredItems = useMemo(() => {
+    if (shouldShowFamilies) {
+      console.log('ProductTypeDetailPage: Filtering families...', {
+        productFamilies: productFamilies.length,
+        debouncedSearchTerm,
+        selectedBrands: selectedBrands.length
       })
       
-      console.log('ProductTypeDetailPage: Search filtered to', filtered.length, 'products')
-    }
+      let filtered = productFamilies
 
-    // Apply brand filter
-    if (selectedBrands.length > 0) {
-      console.log('ProductTypeDetailPage: Applying brand filter for:', selectedBrands)
-      
-      filtered = filtered.filter(product => 
-        product.brand && selectedBrands.includes(product.brand)
-      )
-      
-      console.log('ProductTypeDetailPage: Brand filtered to', filtered.length, 'products')
-    }
+      // Apply search query filter for families
+      if (debouncedSearchTerm.trim()) {
+        const query = debouncedSearchTerm.toLowerCase().trim()
+        console.log('ProductTypeDetailPage: Applying search filter for families:', query)
+        
+        filtered = filtered.filter(family => {
+          const matchesSearch = 
+            family.name.toLowerCase().includes(query) ||
+            family.description.toLowerCase().includes(query) ||
+            family.brand.toLowerCase().includes(query) ||
+            family.specs.some(spec => spec.toLowerCase().includes(query)) ||
+            family.features.some(feature => feature.toLowerCase().includes(query)) ||
+            family.models.some(model => 
+              model.name.toLowerCase().includes(query) ||
+              model.description.toLowerCase().includes(query) ||
+              (model.model && model.model.toLowerCase().includes(query))
+            )
+          
+          return matchesSearch
+        })
+        
+        console.log('ProductTypeDetailPage: Search filtered to', filtered.length, 'families')
+      }
 
-    console.log('ProductTypeDetailPage: Final filtered products:', filtered.length)
-    return filtered
-  }, [initialProducts, debouncedSearchTerm, selectedBrands])
+      // Apply brand filter for families
+      if (selectedBrands.length > 0) {
+        console.log('ProductTypeDetailPage: Applying brand filter for families:', selectedBrands)
+        
+        filtered = filtered.filter(family => 
+          family.brand && selectedBrands.includes(family.brand)
+        )
+        
+        console.log('ProductTypeDetailPage: Brand filtered to', filtered.length, 'families')
+      }
+
+      console.log('ProductTypeDetailPage: Final filtered families:', filtered.length)
+      return filtered
+    } else {
+      // Original product filtering logic
+      console.log('ProductTypeDetailPage: Filtering products...', {
+        initialProducts: initialProducts.length,
+        debouncedSearchTerm,
+        selectedBrands: selectedBrands.length
+      })
+      
+      let filtered = initialProducts
+
+      // Apply search query filter - same logic as ProductsPageNew
+      if (debouncedSearchTerm.trim()) {
+        const query = debouncedSearchTerm.toLowerCase().trim()
+        console.log('ProductTypeDetailPage: Applying search filter for:', query)
+        
+        filtered = filtered.filter(product => {
+          const matchesSearch = 
+            product.name.toLowerCase().includes(query) ||
+            product.description.toLowerCase().includes(query) ||
+            product.category.toLowerCase().includes(query) ||
+            product.brand.toLowerCase().includes(query) ||
+            (product.model && product.model.toLowerCase().includes(query)) ||
+            (product.specs && product.specs.some(spec => spec.toLowerCase().includes(query))) ||
+            (product.features && product.features.some(feature => feature.toLowerCase().includes(query)))
+          
+          return matchesSearch
+        })
+        
+        console.log('ProductTypeDetailPage: Search filtered to', filtered.length, 'products')
+      }
+
+      // Apply brand filter
+      if (selectedBrands.length > 0) {
+        console.log('ProductTypeDetailPage: Applying brand filter for:', selectedBrands)
+        
+        filtered = filtered.filter(product => 
+          product.brand && selectedBrands.includes(product.brand)
+        )
+        
+        console.log('ProductTypeDetailPage: Brand filtered to', filtered.length, 'products')
+      }
+
+      console.log('ProductTypeDetailPage: Final filtered products:', filtered.length)
+      return filtered
+    }
+  }, [initialProducts, productFamilies, shouldShowFamilies, debouncedSearchTerm, selectedBrands])
 
   const handleBrandToggle = (brand: string) => {
     setSelectedBrands(prev => 
@@ -365,16 +536,28 @@ export default function ProductTypeDetailPage({
             {/* Stats */}
             <div className="mt-8 flex justify-center space-x-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-red-600">{pagination?.total || initialProducts.length}</div>
-                <div className="text-sm text-gray-600">Products Available</div>
+                <div className="text-3xl font-bold text-red-600">
+                  {shouldShowFamilies 
+                    ? productFamilies.reduce((sum, family) => sum + family.models.length, 0)
+                    : pagination?.total || initialProducts.length
+                  }
+                </div>
+                <div className="text-sm text-gray-600">
+                  {shouldShowFamilies ? 'Models Available' : 'Products Available'}
+                </div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-red-600">
-                  {Array.from(new Set(initialProducts.map(p => p.brand))).length}
+                  {shouldShowFamilies 
+                    ? productFamilies.length
+                    : Array.from(new Set(initialProducts.map(p => p.brand))).length
+                  }
                 </div>
-                <div className="text-sm text-gray-600">Brands</div>
+                <div className="text-sm text-gray-600">
+                  {shouldShowFamilies ? 'Product Families' : 'Brands'}
+                </div>
               </div>
-              {usePagination && pagination && (
+              {usePagination && pagination && !shouldShowFamilies && (
                 <div className="text-center">
                   <div className="text-3xl font-bold text-red-600">
                     {pagination.page} of {pagination.totalPages}
@@ -490,11 +673,24 @@ export default function ProductTypeDetailPage({
 
             {/* Results Count */}
             <div className="mb-4 text-sm text-gray-600">
-              Showing {filteredProducts.length} of {initialProducts.length} products
-              {hasActiveFilters && (
-                <span className="ml-2 text-red-600">
-                  ({initialProducts.length - filteredProducts.length} filtered out)
-                </span>
+              {shouldShowFamilies ? (
+                <>
+                  Showing {filteredItems.length} of {productFamilies.length} product families
+                  {hasActiveFilters && (
+                    <span className="ml-2 text-red-600">
+                      ({productFamilies.length - filteredItems.length} filtered out)
+                    </span>
+                  )}
+                </>
+              ) : (
+                <>
+                  Showing {filteredItems.length} of {initialProducts.length} products
+                  {hasActiveFilters && (
+                    <span className="ml-2 text-red-600">
+                      ({initialProducts.length - filteredItems.length} filtered out)
+                    </span>
+                  )}
+                </>
               )}
             </div>
           </div>
@@ -503,25 +699,30 @@ export default function ProductTypeDetailPage({
           <div className="mb-8">
             <h3 className="text-lg font-semibold text-gray-900 mb-4">Available Brands</h3>
             <div className="flex flex-wrap gap-2">
-              {Array.from(new Set(initialProducts.map(p => p.brand)))
-                .sort()
-                .map((brand) => (
-                  <span
-                    key={brand}
-                    className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-red-100 text-red-800"
-                  >
-                    {brand}
-                  </span>
-                ))}
+              {allBrands.map((brand) => (
+                <span
+                  key={brand}
+                  className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-red-100 text-red-800"
+                >
+                  {brand}
+                </span>
+              ))}
             </div>
           </div>
 
-          {/* Product Grid */}
-          {usePagination ? (
+          {/* Product/Family Grid */}
+          {shouldShowFamilies ? (
+            // Show product families as cards
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+              {filteredItems.map((family) => (
+                <ProductFamilyCard key={family.id} family={family} />
+              ))}
+            </div>
+          ) : usePagination ? (
             // Use traditional pagination for very large categories
             <>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-                {filteredProducts.map((product) => (
+                {filteredItems.map((product) => (
                   <ProductCard key={product.id} product={product} />
                 ))}
               </div>
@@ -540,7 +741,7 @@ export default function ProductTypeDetailPage({
           ) : (
             // Use progressive loading for smaller categories
             <ProgressiveProductGrid
-              products={filteredProducts}
+              products={filteredItems as Product[]}
               initialCount={12}
               incrementCount={8}
               maxCount={100}
@@ -548,13 +749,13 @@ export default function ProductTypeDetailPage({
           )}
 
           {/* No Results Message */}
-          {filteredProducts.length === 0 && (
+          {filteredItems.length === 0 && (
             <div className="text-center py-12">
               <div className="text-gray-500 mb-4">
                 <svg className="h-12 w-12 mx-auto mb-4 opacity-50" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.47-.881-6.08-2.33" />
                 </svg>
-                <p className="text-lg">No products found</p>
+                <p className="text-lg">{shouldShowFamilies ? 'No product families found' : 'No products found'}</p>
                 <p className="text-sm">Try adjusting your search criteria</p>
               </div>
             </div>

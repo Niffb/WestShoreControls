@@ -1,7 +1,7 @@
 import { Product } from '@/lib/types/shared-types';
 
 // Import all scraped products from individual files
-import { allenbradleyScrapedProducts } from './allen-bradley-scraped-products';
+// import { allenbradleyScrapedProducts } from './allen-bradley-scraped-products'; // REMOVED - Allen Bradley PLCs
 import { bannerpower_distributionScrapedProducts } from './banner-power-distribution-scraped-products';
 import { brpower_distributionScrapedProducts } from './br-power-distribution-scraped-products';
 import { contrinexoverload_relaysScrapedProducts } from './contrinex-overload-relays-scraped-products';
@@ -9,21 +9,21 @@ import { datalogiccircuit_breakersScrapedProducts } from './datalogic-circuit-br
 import { datalogicled_indicatorsScrapedProducts } from './datalogic-led-indicators-scraped-products';
 import { datalogicother_productsScrapedProducts } from './datalogic-other-products-scraped-products';
 import { datalogicpower_distributionScrapedProducts } from './datalogic-power-distribution-scraped-products';
-import { deltadrives_vfdsScrapedProducts } from './delta-drives-vfds-scraped-products';
+// import { deltadrives_vfdsScrapedProducts } from './delta-drives-vfds-scraped-products'; // REMOVED - Delta VFDs
 import { generalelectriccables_accessoriesScrapedProducts } from './general-electric-cables-accessories-scraped-products';
 import { generalelectricCables_accessoriesScrapedProducts } from './general-electric-cables_accessories-scraped-products';
 import { generalelectriccircuit_breakersScrapedProducts } from './general-electric-circuit-breakers-scraped-products';
 import { generalelectricCircuit_breakersScrapedProducts } from './general-electric-circuit_breakers-scraped-products';
 import { generalelectriccontactorsScrapedProducts } from './general-electric-contactors-scraped-products';
-import { generalelectricdrives_vfdsScrapedProducts } from './general-electric-drives-vfds-scraped-products';
-import { generalelectricDrives_vfdsScrapedProducts } from './general-electric-drives_vfds-scraped-products';
+// import { generalelectricdrives_vfdsScrapedProducts } from './general-electric-drives-vfds-scraped-products'; // REMOVED - GE VFDs
+// import { generalelectricDrives_vfdsScrapedProducts } from './general-electric-drives_vfds-scraped-products'; // REMOVED - GE VFDs
 import { generalelectricmanual_motor_startersScrapedProducts } from './general-electric-manual-motor-starters-scraped-products';
 import { generalelectricManual_motor_startersScrapedProducts } from './general-electric-manual_motor_starters-scraped-products';
 import { generalelectricother_productsScrapedProducts } from './general-electric-other-products-scraped-products';
 import { generalelectricOther_productsScrapedProducts } from './general-electric-other_products-scraped-products';
 import { generalelectricoverload_relaysScrapedProducts } from './general-electric-overload-relays-scraped-products';
 import { generalelectricOverload_relaysScrapedProducts } from './general-electric-overload_relays-scraped-products';
-import { generalelectricplcsScrapedProducts } from './general-electric-plcs-scraped-products';
+// import { generalelectricplcsScrapedProducts } from './general-electric-plcs-scraped-products'; // REMOVED - GE PLCs
 import { generalelectricpower_distributionScrapedProducts } from './general-electric-power-distribution-scraped-products';
 import { generalelectricPower_distributionScrapedProducts } from './general-electric-power_distribution-scraped-products';
 import { hartingcircuit_breakersScrapedProducts } from './harting-circuit-breakers-scraped-products';
@@ -100,7 +100,7 @@ import { unknownScrapedProducts } from './unknown-scraped-products';
 // Total files: 94
 // Generated automatically by scripts/generate-all-scraped-products.js
 export const allScrapedProducts: Product[] = [
-  ...allenbradleyScrapedProducts,
+  // ...allenbradleyScrapedProducts, // REMOVED - Allen Bradley PLCs
   ...bannerpower_distributionScrapedProducts,
   ...brpower_distributionScrapedProducts,
   ...contrinexoverload_relaysScrapedProducts,
@@ -108,21 +108,21 @@ export const allScrapedProducts: Product[] = [
   ...datalogicled_indicatorsScrapedProducts,
   ...datalogicother_productsScrapedProducts,
   ...datalogicpower_distributionScrapedProducts,
-  ...deltadrives_vfdsScrapedProducts,
+  // ...deltadrives_vfdsScrapedProducts, // REMOVED - Delta VFDs
   ...generalelectriccables_accessoriesScrapedProducts,
   ...generalelectricCables_accessoriesScrapedProducts,
   ...generalelectriccircuit_breakersScrapedProducts,
   ...generalelectricCircuit_breakersScrapedProducts,
   ...generalelectriccontactorsScrapedProducts,
-  ...generalelectricdrives_vfdsScrapedProducts,
-  ...generalelectricDrives_vfdsScrapedProducts,
+  // ...generalelectricdrives_vfdsScrapedProducts, // REMOVED - GE VFDs
+  // ...generalelectricDrives_vfdsScrapedProducts, // REMOVED - GE VFDs
   ...generalelectricmanual_motor_startersScrapedProducts,
   ...generalelectricManual_motor_startersScrapedProducts,
   ...generalelectricother_productsScrapedProducts,
   ...generalelectricOther_productsScrapedProducts,
   ...generalelectricoverload_relaysScrapedProducts,
   ...generalelectricOverload_relaysScrapedProducts,
-  ...generalelectricplcsScrapedProducts,
+  // ...generalelectricplcsScrapedProducts, // REMOVED - GE PLCs
   ...generalelectricpower_distributionScrapedProducts,
   ...generalelectricPower_distributionScrapedProducts,
   ...hartingcircuit_breakersScrapedProducts,

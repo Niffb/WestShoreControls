@@ -149,27 +149,23 @@ export default function FeaturedProducts() {
                 >
                   {/* Product Image */}
                   <div className="relative h-64 bg-gray-100 overflow-hidden">
-                    {product.images[0] && product.images[0] !== "products/placeholder.jpg" ? (
-                      <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center transition-all duration-500 group-hover:from-primary-50 group-hover:to-primary-100">
-                        <img
-                          src={product.name.includes("A800") ? getImageUrl("/images/drives/a800.png") : getImageUrl(product.images[0])}
-                          alt={product.name}
-                          className="w-full h-full object-contain p-4 transform group-hover:scale-110 transition-transform duration-500"
-                          onError={(e) => {
-                            console.error('Failed to load image:', getImageUrl(product.images[0]));
-                            (e.target as HTMLImageElement).src = getImageUrl('products/placeholder.jpg');
-                          }}
-                          onLoad={() => {}}
-                        />
-                      </div>
-                    ) : (
-                      <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center transition-all duration-500 group-hover:from-primary-50 group-hover:to-primary-100">
-                        <div className="text-gray-500 text-center transform group-hover:scale-110 transition-transform duration-500">
-                          <div className="w-16 h-16 bg-gray-400 rounded-lg mx-auto mb-2 group-hover:bg-primary-400 transition-colors duration-500 group-hover:rotate-12"></div>
-                          <p className="text-sm group-hover:text-primary-600 transition-colors duration-300">{product.name}</p>
-                        </div>
-                      </div>
-                    )}
+                    <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center transition-all duration-500 group-hover:from-primary-50 group-hover:to-primary-100">
+                      <img
+                        src={product.name.includes("A800") ? getImageUrl("/images/drives/a800.png") : getImageUrl(product.images[0])}
+                        alt={product.name}
+                        className={`w-full h-full object-contain p-4 transform group-hover:scale-110 ${
+                          // For VFD products using westlogo.jpg, no transitions - show immediately
+                          product.category === 'Variable Frequency Drives' 
+                            ? 'opacity-100' 
+                            : 'opacity-100 transition-transform duration-500'
+                        }`}
+                        onError={(e) => {
+                          console.error('Failed to load image:', getImageUrl(product.images[0]));
+                          (e.target as HTMLImageElement).src = getImageUrl('products/placeholder.jpg');
+                        }}
+                        onLoad={() => {}}
+                      />
+                    </div>
                     
 
 

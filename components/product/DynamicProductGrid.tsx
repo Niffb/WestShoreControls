@@ -246,24 +246,23 @@ const ProductCard = memo(({
               <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse" />
             )}
             
-            {inView && !imageError ? (
+            {inView && (
               <Image
                 src={finalImageUrl}
                 alt={`${product.name} - ${product.brand}`}
                 fill
                 sizes="64px"
-                className={`object-contain transition-opacity duration-300 ${
-                  imageLoaded ? 'opacity-100' : 'opacity-0'
+                className={`object-contain ${
+                  // For VFD products using westlogo.jpg, no transitions - show immediately
+                  product.category === 'Variable Frequency Drives' 
+                    ? 'opacity-100' 
+                    : `transition-opacity duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
                 }`}
                 onLoad={handleImageLoad}
                 onError={handleImageError}
                 priority={index < 4}
                 loading={index < 4 ? 'eager' : 'lazy'}
               />
-            ) : (
-              <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-                <div className="w-6 h-6 bg-gray-400 rounded"></div>
-              </div>
             )}
           </div>
 
@@ -321,24 +320,20 @@ const ProductCard = memo(({
         )}
 
         {/* Lazy load images only when in view */}
-        {inView && !imageError ? (
+        {inView && (
           <img
             src={finalImageUrl}
             alt={`${product.name} - ${product.brand}`}
-            className={`w-full h-full object-contain p-4 group-hover:scale-105 transition-all duration-300 ${
-              imageLoaded ? 'opacity-100' : 'opacity-0'
+            className={`w-full h-full object-contain p-4 group-hover:scale-105 ${
+              // For VFD products using westlogo.jpg, no transitions - show immediately
+              product.category === 'Variable Frequency Drives' 
+                ? 'opacity-100' 
+                : `transition-all duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
             }`}
             onLoad={handleImageLoad}
             onError={handleImageError}
             loading={index < 8 ? 'eager' : 'lazy'}
           />
-        ) : (
-          <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-            <div className="text-gray-500 text-center">
-              <div className="w-12 h-12 bg-gray-400 rounded-lg mx-auto mb-2"></div>
-              <p className="text-xs font-medium">{product.category}</p>
-            </div>
-          </div>
         )}
       </div>
 
