@@ -510,11 +510,11 @@ export default function ProductTypeDetailPage({
             </Link>
             <span className="text-gray-400">/</span>
             <Link 
-              href="/product-types"
+              href="/products"
               className="text-gray-500 hover:text-red-600 transition-colors flex items-center"
             >
               <ArrowLeftIcon className="h-4 w-4 mr-1" />
-              Product Types
+              Products
             </Link>
             <span className="text-gray-400">/</span>
             <span className="text-red-600 font-medium">{productType.name}</span>

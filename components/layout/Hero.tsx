@@ -107,13 +107,13 @@ const ActionButtons = ({ isWindows }: { isWindows: boolean }) => (
       </span>
     </motion.a>
     <motion.a
-      href="/product-types"
+      href="/products"
       className="group relative overflow-hidden bg-white hover:bg-gray-50 text-gray-700 font-semibold px-8 py-4 rounded-lg border-2 border-gray-300 hover:border-primary-500 transition-all duration-300 transform hover:scale-105 flex items-center justify-center min-h-[56px] touch-manipulation"
       whileHover={!isWindows ? { scale: 1.05 } : {}}
       whileTap={!isWindows ? { scale: 0.95 } : {}}
     >
       <span className="relative flex items-center justify-center">
-        Browse by Product Type
+        Browse Products
         <ShoppingCartIcon className="ml-2 h-5 w-5 transform group-hover:translate-x-1 transition-transform duration-300" />
       </span>
     </motion.a>

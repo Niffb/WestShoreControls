@@ -64,11 +64,11 @@ function ProductFamilyDetail({ familyId }: { familyId: string }) {
               The requested product family could not be found.
             </p>
             <Link 
-              href="/product-types"
+              href="/products"
               className="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors"
             >
               <ArrowLeftIcon className="h-5 w-5 mr-2" />
-              Browse Product Types
+              Browse Products
             </Link>
           </div>
         </div>
@@ -101,18 +101,11 @@ function ProductFamilyDetail({ familyId }: { familyId: string }) {
             </Link>
             <span className="text-gray-400">/</span>
             <Link 
-              href="/product-types"
-              className="text-gray-500 hover:text-red-600 transition-colors"
-            >
-              Product Types
-            </Link>
-            <span className="text-gray-400">/</span>
-            <Link 
-              href={`/product-types/${family.category.toLowerCase().replace(/\s+/g, '-')}`}
+              href="/products"
               className="text-gray-500 hover:text-red-600 transition-colors flex items-center"
             >
               <ArrowLeftIcon className="h-4 w-4 mr-1" />
-              {family.category}
+              Products
             </Link>
             <span className="text-gray-400">/</span>
             <span className="text-red-600 font-medium">{family.name}</span>

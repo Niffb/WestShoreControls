@@ -99,6 +99,8 @@ async function ProductTypePageNew({ productType, currentPage }: { productType: s
       
       if (productType === 'variable-frequency-drives') {
         families = getVFDProductFamilies()
+      } else if (productType === 'circuit-breakers') {
+        families = getCircuitBreakerProductFamilies()
       } else {
         // Use the general product families function for all other categories
         families = getProductFamiliesForCategory(categoryName)
@@ -153,11 +155,11 @@ async function ProductTypePageNew({ productType, currentPage }: { productType: s
               We don't currently have any products in this category.
             </p>
             <Link 
-              href="/product-types"
+              href="/products"
               className="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors"
             >
               <ArrowLeftIcon className="h-5 w-5 mr-2" />
-              Browse All Product Types
+              Browse All Products
             </Link>
           </div>
         </div>
@@ -225,11 +227,11 @@ export default function ProductTypePage({ params, searchParams }: Props) {
               We're having trouble loading this product type. Please try again later.
             </p>
             <Link 
-              href="/product-types"
+              href="/products"
               className="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors"
             >
               <ArrowLeftIcon className="h-5 w-5 mr-2" />
-              Browse All Product Types
+              Browse All Products
             </Link>
           </div>
         </div>

@@ -757,7 +757,21 @@ export function getVFDProductFamilies(): ProductFamily[] {
 
 // Get product families for Circuit Breakers specifically
 export function getCircuitBreakerProductFamilies(): ProductFamily[] {
-  return getProductFamiliesForCategory('Miniature Circuit Breakers')
+  // Get families from all circuit breaker categories
+  const miniatureBreakers = getProductFamiliesForCategory('Miniature Circuit Breakers')
+  const powerBreakers = getProductFamiliesForCategory('Power Circuit Breakers') 
+  const airBreakers = getProductFamiliesForCategory('Air Circuit Breakers')
+  const motorCircuitProtectors = getProductFamiliesForCategory('Motor-Circuit Protectors')
+  
+  // Combine all circuit breaker families
+  const allCircuitBreakers = [
+    ...miniatureBreakers,
+    ...powerBreakers, 
+    ...airBreakers,
+    ...motorCircuitProtectors
+  ]
+  
+  return allCircuitBreakers.sort((a, b) => a.name.localeCompare(b.name))
 }
 
 // Convert a product family to a URL slug
