@@ -88,7 +88,7 @@ export default function About() {
           specialties: ['Variable Frequency Drives', 'Mining & Forestry Industries']
         },
         {
-          name: 'Jose Torrecampo',
+          name: 'Jose Torrecampo, FEC, P.Eng',
           position: 'Technical Service',
           phone: '(604) 817-0987',
           email: 'info@westshorecontrols.com',
@@ -536,7 +536,7 @@ export default function About() {
                     <span className="text-white font-bold text-xl">JT</span>
                   </motion.div>
                   
-                  <h5 className="text-xl font-bold text-gray-900 mb-2">Jose Torrecampo</h5>
+                  <h5 className="text-xl font-bold text-gray-900 mb-2">Jose Torrecampo, FEC, P.Eng</h5>
                   <div className="inline-block bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-medium mb-4">
                     Technical Service
                   </div>

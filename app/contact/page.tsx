@@ -362,7 +362,7 @@ export default function ContactPage() {
               <div className="w-20 h-20 bg-gradient-to-br from-orange-500 to-orange-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
                 <span className="text-white font-bold text-xl group-hover:animate-pulse">JT</span>
               </div>
-                              <h4 className="text-xl font-semibold text-gray-900 mb-2">Jose Torrecampo</h4>
+                              <h4 className="text-xl font-semibold text-gray-900 mb-2">Jose Torrecampo, FEC, P.Eng</h4>
                 <p className="text-orange-600 font-medium mb-3">Technical Service</p>
                 <p className="text-gray-600 text-sm mb-4">Technical service specialist providing technical consulting and engineering solutions for complex automation projects.</p>
               <div className="space-y-2">
