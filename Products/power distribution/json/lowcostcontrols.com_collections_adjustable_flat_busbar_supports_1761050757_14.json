@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_number": "ALP2000",
+      "description": "ERIFLEX Adjustable Flat Busbar Support Kit, 2m Aluminium, Width: 63 mm, Height: 29mm, 2 Pieces in a package, Part no: 504980",
+      "price": 455.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/AdjustableFlatBusbarSupportInsulator_8fcd6639-0e7a-4cb6-b084-fea9e5bbb200_large.jpg?v=1604831790"
+    },
+    {
+      "product_number": "AFBS-B600",
+      "description": "ERIFLEX Adjustable Flat Busbar Support Kit, Busbar Width: 30~80 mm, Busbar Thickness: 5 ~ 10 mm, 1 Pieces in a package, Part no: 504971",
+      "price": 258.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/AdjustableFlatBusbarSupportInsulator_8b917745-e2d0-4dfb-a244-69426b0c6390_large.jpg?v=1604831790"
+    },
+    {
+      "product_number": "SIALP-B",
+      "description": "ERIFLEX Adjustable Flat Busbar Support Insulator, Material: Glass Fibre Reinforced Polyamide, Busbar Width: 30 ~ 125 mm, Busbar Thickness: 5 ~ 10 mm, 12 Pieces in a package, Part no: 504991",
+      "price": 346.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/AdjustableFlatBusbarSupportInsulator_large.jpg?v=1604831783"
+    }
+  ]
+}

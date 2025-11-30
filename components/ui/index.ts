@@ -22,5 +22,8 @@ export { default as OptimizedImage, ProductImage, HeroImage } from './OptimizedI
 export { default as IntelligentProductImage, ProductCardImage, ProductListImage, ProductTableImage, ProductGalleryImage } from './IntelligentProductImage';
 
 // Search components
-export { default as ProductTypeSearch } from './ProductTypeSearch';
-export { default as ProductSearch } from './ProductSearch'; 
+export { default as ProductSearch } from './ProductSearch';
+
+// Pagination components
+export { default as PaginatedProductGrid } from './PaginatedProductGrid';
+export { default as ServerPaginatedProductGrid } from './ServerPaginatedProductGrid'; 

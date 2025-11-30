@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "BC30",
+      "description": "ERIFLEX BC Ribbed Steel Busbar Clamp, Material: Steel, Busbar Width: 30 mm, Screw Diameter: M6, 8 Piece in a package, Part no: 553200",
+      "price": 238.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_ad263c3c-99ef-4217-8cdb-d40edff8b65d_large.jpg?v=1604846930"
+    },
+    {
+      "product_number": "BC40",
+      "description": "ERIFLEX BC Ribbed Steel Busbar Clamp, Material: Steel, Busbar Width: 40 mm, Screw Diameter: M6, 8 Piece in a package, Part no: 553210",
+      "price": 290.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_259ede01-0b8d-42e5-b6ee-fce095bfdd2e_large.jpg?v=1604846928"
+    },
+    {
+      "product_number": "BC50",
+      "description": "ERIFLEX BC Ribbed Steel Busbar Clamp, Material: Steel, Busbar Width: 50 mm, Screw Diameter: M8, 8 Piece in a package, Part no: 553220",
+      "price": 351.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_a5ce5fd7-68a9-4011-995d-5321362a4556_large.jpg?v=1604846897"
+    },
+    {
+      "product_number": "BC63",
+      "description": "ERIFLEX BC Ribbed Steel Busbar Clamp, Material: Steel, Busbar Width: 63 mm, Screw Diameter: M8, 4 Piece in a package, Part no: 553230",
+      "price": 202.13,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_3b3e494e-8100-4a20-92b7-47200ba60a13_large.jpg?v=1604846890"
+    },
+    {
+      "product_number": "BC80",
+      "description": "ERIFLEX BC Ribbed Steel Busbar Clamp, Material: Steel, Busbar Width: 80 mm, Screw Diameter: M10, 4 Piece in a package, Part no: 553250",
+      "price": 286.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_810cf106-e70d-4966-866d-477dbeb0fa38_large.jpg?v=1604846881"
+    },
+    {
+      "product_number": "BC100",
+      "description": "ERIFLEX BC Ribbed Steel Busbar Clamp, Material: Steel, Busbar Width: 100 mm, Screw Diameter: M10, 4 Piece in a package, Part no: 553260",
+      "price": 379.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_large.jpg?v=1604846862"
+    }
+  ]
+}

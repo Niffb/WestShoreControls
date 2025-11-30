@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "product_number": "ZFX100M8MMBK",
+      "description": "ERIFLEX Spirflex Zipflex Sleeve, Material: Polypropylene, Color: Black, Diameter: 8 mm, 100 Meters in a package, Part no: 554880",
+      "price": 333.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Zipflex_Sleeve_large.jpg?v=1605161804"
+    },
+    {
+      "product_number": "ZFX50M15MMBK",
+      "description": "ERIFLEX Spirflex Zipflex Sleeve, Material: Polypropylene, Color: Black, Diameter: 15 mm, 50 Meters in a package, Part no: 554890",
+      "price": 200.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Zipflex_Sleeve_39462c41-230d-4fd2-b8cd-3178771bf421_large.jpg?v=1605161805"
+    },
+    {
+      "product_number": "ZFX30M20MMBK",
+      "description": "ERIFLEX Spirflex Zipflex Sleeve, Material: Polypropylene, Color: Black, Diameter: 20 mm, 30 Meters in a package, Part no: 554900",
+      "price": 159.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Zipflex_Sleeve_f62d2658-fdea-40de-9004-ae3111ed7015_large.jpg?v=1605161806"
+    },
+    {
+      "product_number": "ZFX20M25MMBK",
+      "description": "ERIFLEX Spirflex Zipflex Sleeve, Material: Polypropylene, Color: Black, Diameter: 25 mm, 20 Meters in a package, Part no: 554910",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Zipflex_Sleeve_80f15d12-de1f-444f-a6a8-5fd6f1c03c1a_large.jpg?v=1605161807"
+    }
+  ]
+}

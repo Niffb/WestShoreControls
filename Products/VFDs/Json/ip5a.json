@@ -1,0 +1,193 @@
+{
+    "products": [
+      {
+        "product_number": "SV055iP5A-2NE",
+        "description": "7.5HP LS Starvet iP5A Fan & Pump, Three Phase, 200-230V, 24A Variable Torque output.",
+        "price": 779.58,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV075iP5A-2NE",
+        "description": "10HP LS Starvet iP5A Fan & Pump, Three Phase, 200-230V, 32A Variable Torque output.",
+        "price": 818.62,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV110iP5A-2NE",
+        "description": "15HP LS Starvet iP5A Fan & Pump, Three Phase, 200-230V, 46A Variable Torque output.",
+        "price": 885.72,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV150iP5A-2NO",
+        "description": "20HP LS Starvet iP5A Fan & Pump, Three Phase, 200-230V, 60A Variable Torque output.",
+        "price": 1272.46,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV220iP5A-2NO",
+        "description": "30HP LS Starvet iP5A Fan & Pump, Three Phase, 200-230V, 88A Variable Torque output.",
+        "price": 1964.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV185iP5A-2NO",
+        "description": "25HP LS Starvet iP5A Fan & Pump, Three Phase, 200-230V, 74A Variable Torque output.",
+        "price": 1805.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV300iP5A-2NO",
+        "description": "40HP LS Starvet iP5A Fan & Pump, Three Phase, 200-230V, 115A Variable Torque output.",
+        "price": 2272.86,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV055iP5A-4",
+        "description": "7.5HP LS  iP5A Drive, Three Phase, 380-460V, 12A Variable Torque Output.",
+        "price": 779.58,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV110iP5A-4",
+        "description": "15HP LS  iP5A Drive, Three Phase, 380-460V, 24A Variable Torque Output.",
+        "price": 930.86,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV075iP5A-4",
+        "description": "10HP LS  iP5A Drive, Three Phase, 380-460V, 16A Variable Torque Output.",
+        "price": 818.62,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV150iP5A-4",
+        "description": "20HP LS  iP5A Drive, Three Phase, 380-460V, 30A Variable Torque Output.",
+        "price": 1305.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV185iP5A-4",
+        "description": "25HP LS  iP5A Drive, Three Phase, 380-460V, 39A Variable Torque Output.",
+        "price": 1647.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV220iP5A-4",
+        "description": "30HP LS  iP5A Drive, Three Phase, 380-460V, 45A Variable Torque Output.",
+        "price": 1886.12,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV300iP5A-4",
+        "description": "40HP LS  iP5A Drive, Three Phase, 380-460V, 61A Variable Torque Output.",
+        "price": 2255.78,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV370iP5A-4O",
+        "description": "50HP LS  iP5A Drive, Three Phase, 380-460V, 75A Variable Torque Output.",
+        "price": 2946.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV450iP5A-4O",
+        "description": "60HP LS  iP5A Drive, Three Phase, 380-460V, 91A Variable Torque Output.",
+        "price": 3736.86,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV550iP5A-4O",
+        "description": "75HP LS  iP5A Drive, Three Phase, 380-460V, 110A Variable Torque Output.",
+        "price": 4052.84,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV750iP5A-4O",
+        "description": "100HP LS  iP5A Drive, Three Phase, 380-460V, 152A Variable Torque Output.",
+        "price": 5176.46,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV1100iP5A-4O",
+        "description": "150HP LS  iP5A Drive, Three Phase, 380-460V, 223A Variable Torque Output.",
+        "price": 8538.78,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV900iP5A-4O",
+        "description": "125HP LS  iP5A Drive, Three Phase, 380-460V, 183A Variable Torque Output.",
+        "price": 6213.46,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV1320iP5A-4O",
+        "description": "175HP LS  iP5A Drive, Three Phase, 380-460V, 264A Variable Torque Output.",
+        "price": 10311.44,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV1600iP5A-4O",
+        "description": "215HP LS  iP5A Drive, Three Phase, 380-460V, 325A Variable Torque Output.",
+        "price": 11331.36,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV2200iP5A-4O",
+        "description": "300HP LS  iP5A Drive, Three Phase, 380-460V, 432A Variable Torque Output.",
+        "price": 14167.86,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV3150iP5A-4O",
+        "description": "400HP LS  iP5A Drive, Three Phase, 380-460V, 613A Variable Torque Output.",
+        "price": 29724.08,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV2800iP5A-4O",
+        "description": "350HP LS  iP5A Drive, Three Phase, 380-460V, 547A Variable Torque Output.",
+        "price": 19646.88,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV4500iP5A-4O",
+        "description": "600HP LS  iP5A Drive, Three Phase, 380-460V, 877A Variable Torque Output.",
+        "price": 36664.66,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      },
+      {
+        "product_number": "SV3750iP5A-4O",
+        "description": "500HP LS  iP5A Drive, Three Phase, 380-460V, 731A Variable Torque Output.",
+        "price": 36057.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iP5A_-200-230V_medium.avif"
+      }
+    ]
+  }

@@ -1,0 +1,130 @@
+{
+    "products": [
+      {
+        "product_number": "LSLV0001C100-1",
+        "description": "1/8HP LS Startvert C100 VFD, Single Phase, 200-240V, 0.8A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 280.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0002C100-1",
+        "description": "1/4HP LS Startvert C100 VFD, Single Phase, 200-240V, 1.4A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 280.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0004C100-1",
+        "description": "1/2HP LS Startvert C100 VFD, Single Phase, 200-240V, 2.5A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 305.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0015C100-1",
+        "description": "2HP LS Startvert C100 VFD, Single Phase, 200-240V, 8A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 340.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0008C100-1",
+        "description": "1HP LS Startvert C100 VFD, Single Phase, 200-240V, 5A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 329.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0022C100-1",
+        "description": "3HP LS Startvert C100 VFD, Single Phase, 200-240V, 11A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 374.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0004C100-2",
+        "description": "1/2HP LS Startvert C100 VFD, Three Phase, 200-240V, 2.5A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 300.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0008C100-2",
+        "description": "1HP LS Startvert C100 VFD, Three Phase, 200-240V, 5A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 316.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0022C100-2",
+        "description": "3HP LS Startvert C100 VFD, Three Phase, 200-240V, 11A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 350.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0015C100-2",
+        "description": "2HP LS Startvert C100 VFD, Three Phase, 200-240V, 8A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 339.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0037C100-2",
+        "description": "5HP LS Startvert C100 VFD, Three Phase, 200-240V, 16A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 428.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0004C100-4",
+        "description": "1/2HP LS Startvert C100 VFD, Three Phase, 380-480V, 1.3A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 315.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0015C100-4",
+        "description": "2HP LS Startvert C100 VFD, Three Phase, 380-480V, 4A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 345.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0008C100-4",
+        "description": "1HP LS Startvert C100 VFD, Three Phase, 380-480V, 2.5A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 331.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0022C100-4",
+        "description": "3HP LS Startvert C100 VFD, Three Phase, 380-480V, 5.5A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 364.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0037C100-4",
+        "description": "5HP LS Startvert C100 VFD, Three Phase, 380-480V, 8A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 412.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0055C100-4",
+        "description": "7.5HP LS Startvert C100 VFD, Three Phase, 380-480V, 12A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 588.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      },
+      {
+        "product_number": "LSLV0075C100-4",
+        "description": "10HP LS Startvert C100 VFD, Three Phase, 380-480V, 16A Constant Torque Output, Built-in RS485 MODBUS, Built-in Potentiometer.",
+        "price": 628.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV0022C100-1_large.webp"
+      }
+    ]
+  }

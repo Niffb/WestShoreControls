@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "product_number": "FLEXSM2MRC10X50",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 1245~1525A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 10, width : 50mm, Thickness: 1mm, 5 pieces in a box, Part no: 566810",
+      "price": 1107.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_fafcb38d-c766-4c21-b142-cff4cc77b13d_large.jpg?v=1604763894"
+    },
+    {
+      "product_number": "FLEXSM2MRC8X50",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 1050~1290A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 8, width : 50mm, Thickness: 1mm, 2 pieces in a box, Part no: 566800",
+      "price": 913.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_8fbdc3ba-79cb-4c42-b7f0-42d7a52661e7_large.jpg?v=1604764118"
+    },
+    {
+      "product_number": "FLEXSM2MRC5X50",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 830~1016A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 5, width : 50mm, Thickness: 1mm, 5 pieces in a box, Part no: 566780",
+      "price": 1766.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_a11d990c-26bb-496a-b34b-c406562131a2_large.jpg?v=1604763880"
+    },
+    {
+      "product_number": "FLEXSM2MRC10X40",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 1055~1295A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 10, width : 40mm, Thickness: 1mm, 5 pieces in a box, Part no: 566750",
+      "price": 2366.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_150ae916-5d20-498d-bb99-549d81431fe4_large.jpg?v=1604763875"
+    },
+    {
+      "product_number": "FLEXSM2MRC6X40",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 770~940A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 6, width : 40mm, Thickness: 1mm, 5 pieces in a box, Part no: 566730",
+      "price": 1658.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_17eac65d-841d-4751-81f8-92e681985047_large.jpg?v=1604763906"
+    },
+    {
+      "product_number": "FLEXSM2MRC5X40",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 680~832A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 5, width : 40mm, Thickness: 1mm, 5 pieces in a box, Part no: 566720",
+      "price": 1474.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_93c183cc-0227-467c-8fdd-e22ec624542f_large.jpg?v=1604763856"
+    },
+    {
+      "product_number": "FLEXSM2MRC6X32",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 640~783A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 6, width : 32mm, Thickness: 1mm, 5 pieces in a box, Part no: 566660",
+      "price": 1353.63,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_a38641e6-d882-4735-87dd-4416fe8c837f_large.jpg?v=1604763850"
+    },
+    {
+      "product_number": "FLEXSM2MRC8X32",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 770~943A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 8, width : 32mm, Thickness: 1mm, 5 pieces in a box, Part no: 566670",
+      "price": 1561.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_1a38a5b1-be78-409e-bd75-060bc9480d38_large.jpg?v=1604763854"
+    },
+    {
+      "product_number": "FLEXSM2MRC5X32",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 573~702A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 5, width : 32mm, Thickness: 1mm, 5 pieces in a box, Part no: 566650",
+      "price": 1172.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_dbef0b31-93d5-43d2-ab14-8751d34aaed1_large.jpg?v=1604763846"
+    },
+    {
+      "product_number": "FLEXSM2MRC4X32",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 490~600A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 4, width : 32mm, Thickness: 1mm, 5 pieces in a box, Part no: 566640",
+      "price": 1115.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_348ba56d-b9ec-4b05-b7f0-8d7f248b5735_large.jpg?v=1604763828"
+    },
+    {
+      "product_number": "FLEXSM2MRC3X32",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 430~525A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 3, width : 32mm, Thickness: 1mm, 5 pieces in a box, Part no: 566630",
+      "price": 943.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_d6738855-d450-4157-91d7-bd2be6e7142f_large.jpg?v=1604763819"
+    },
+    {
+      "product_number": "FLEXSM2MRC6X24",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 506~620A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 6, width : 24mm, Thickness: 1mm, 5 pieces in a box, Part no: 566590",
+      "price": 1040.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_a9c792d3-cdd3-4aa6-8abb-92d7ff4d738d_large.jpg?v=1604763812"
+    },
+    {
+      "product_number": "FLEXSM2MRC4X24",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 416~510A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 4, width : 24mm, Thickness: 1mm, 5 pieces in a box, Part no: 566570",
+      "price": 882.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_0917bd16-703b-4d2f-86e5-ec4ca6cb29ff_large.jpg?v=1604763804"
+    },
+    {
+      "product_number": "FLEXSM2MRC5X24",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 460~563A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 5, width : 24mm, Thickness: 1mm, 5 pieces in a box, Part no: 566580",
+      "price": 962.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_4d03471a-b098-4c99-a315-dba32ee95002_large.jpg?v=1604763811"
+    },
+    {
+      "product_number": "FLEXSM2MRC3X24",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 370~453A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 3, width : 24mm, Thickness: 1mm, 5 pieces in a box, Part no: 566560",
+      "price": 771.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_f08690fb-5d95-40f7-84b7-f3d591738b5d_large.jpg?v=1604763795"
+    },
+    {
+      "product_number": "FLEXSM2MRC2X24",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 340~416A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 2, width : 24mm, Thickness: 1mm, 5 pieces in a box, Part no: 566550",
+      "price": 693.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_6cd5c5bd-6990-487c-a402-8a04aa0550fc_large.jpg?v=1604763786"
+    },
+    {
+      "product_number": "FLEXSM2MRC5X20",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 376~460A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 5, width : 20mm, Thickness: 1mm, 5 pieces in a box, Part no: 566520",
+      "price": 833.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_59aa3d17-1e08-4bb9-af47-3649f8d66d52_large.jpg?v=1604763786"
+    },
+    {
+      "product_number": "FLEXSM2MRC3X20",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 323~395A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 3, width : 20mm, Thickness: 1mm, 5 pieces in a box, Part no: 566500",
+      "price": 792.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_e5b60416-e3c9-4774-aee6-ad95e75a42ae_large.jpg?v=1604763767"
+    },
+    {
+      "product_number": "FLEXSM2MRC4X20",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 360~440A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 4, width : 20mm, Thickness: 1mm, 5 pieces in a box, Part no: 566510",
+      "price": 749.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_2f8789ce-efb7-4417-823f-61183345564c_large.jpg?v=1604763905"
+    },
+    {
+      "product_number": "FLEXSM2MRC2X20",
+      "description": "ERIFLEX Flexibar, 2m Copper Silicone, Typical Application Current Rating: 246~300A, Nominal Voltage: 1000VAC/1500VDC, Conducting Layer Number: 2, width : 20mm, Thickness: 1mm, 5 pieces in a box, Part no: 566490",
+      "price": 578.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PH1977m_large.jpg?v=1604763757"
+    }
+  ]
+}

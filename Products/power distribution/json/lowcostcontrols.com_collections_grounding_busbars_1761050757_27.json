@@ -1,0 +1,340 @@
+{
+  "products": [
+    {
+      "product_number": "CB7X16",
+      "description": "(Package of 2 Pieces) ERIFLEX Universal Connecting Bar, Max Current Rating: 450A, Material: Brass, 7 Tunnels Connection, Conductor Size: 1.5 ~ 16 mm² Stranded, Ferrule Conductor Size: 1.5 ~ 16 mm², 10 Piece in a package, Part no: 553150",
+      "price": 191.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_a640d497-1b93-4e5d-9840-acd89d20d2cd_large.jpg?v=1605019862"
+    },
+    {
+      "product_number": "CB20X10AL",
+      "description": "(Package of 2 Pieces) ERIFLEX CB Connecting Bar, Max Current Rating: 640A, Material: Tinned Aluminum, 20 Tunnels Connection, Conductor Size: 1.5 ~ 6 mm² Stranded, Ferrule Conductor Size: 2.5 ~ 6 mm², 10 Piece in a package, Part no: 553153",
+      "price": 176.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_3c04593b-9340-47a9-8ab6-e46e8f42c1b6_large.jpg?v=1605019866"
+    },
+    {
+      "product_number": "CB14X10AL",
+      "description": "(Package of 2 Pieces) ERIFLEX CB Connecting Bar, Max Current Rating: 450A, Material: Tinned Aluminum, 14 Tunnels Connection, Conductor Size: 1.5 ~ 6 mm² Stranded, Ferrule Conductor Size: 2.5 ~ 6 mm², 10 Piece in a package, Part no: 553152",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_00ffd9fa-9169-49fd-8529-2aef2998aea1_large.jpg?v=1605019860"
+    },
+    {
+      "product_number": "CB32X10AL",
+      "description": "ERIFLEX CB Connecting Bar, Max Current Rating: 1020A, Material: Tinned Aluminum, 32 Tunnels Connection, Conductor Size: 1.5 ~ 6 mm² Stranded, Ferrule Conductor Size: 2.5 ~ 6 mm², 10 Piece in a package, Part no: 553151",
+      "price": 138.43,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_9f3fa2cd-ab11-4024-be2c-5889892556ef_large.jpg?v=1605019838"
+    },
+    {
+      "product_number": "EB20",
+      "description": "(Package of 4 Pieces) ERIFLEX EB-20 Earthing and Neutral Busbar, Max Current Rating: 250A, Material: Brass, 20 Tunnels Connection, Conductor Size: 16 ~ 35 mm² Stranded; 4 ~ 16 mm² Stranded; 2.5 ~ 6 mm² Stranded; 1.5 ~ 4 mm² Stranded, Ferrule Conductor Size: 10 ~ 35 mm²; 2.5 ~ 16 mm²; 1.5 ~ 6 mm²; 0.75 ~ 4 mm², 1 Piece in a package, Part no: 568662",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_6baa6fbd-417e-4b04-8e26-40ba22d94d2a_large.jpg?v=1605019828"
+    },
+    {
+      "product_number": "EB12",
+      "description": "ERIFLEX EB-12 Earthing and Neutral Busbar, Max Current Rating: 250A, Material: Brass, 12 Tunnels Connection, Conductor Size: 16 ~ 35 mm² Stranded; 4 ~ 16 mm² Stranded , Ferrule Conductor Size: 10 ~ 35 mm²;2.5 ~ 16 mm², 10 Piece in a package, Part no: 568610",
+      "price": 133.53,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_aadea9dc-5e40-4eea-9aca-48bd8fd61cd6_large.jpg?v=1605019842"
+    },
+    {
+      "product_number": "EB36",
+      "description": "ERIFLEX EB-36 Earthing and Neutral Busbar, Material: Brass, 36 Tunnels Connection, Conductor Size: 16 ~ 35 mm² Stranded; 4 ~ 16 mm² Stranded, Ferrule Conductor Size: 10 ~ 35 mm²; 2.5 ~ 16 mm², 10 Piece in a package, Part no: 568620",
+      "price": 710.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_faa61257-221b-4908-ba01-9957a3e5d02b_large.jpg?v=1605019817"
+    },
+    {
+      "product_number": "EB44",
+      "description": "(Package of 3 Pieces) ERIFLEX EB-44 Earthing and Neutral Busbar, Material: Brass, Max Current Rating: 250A, 44 Tunnels Connection, Conductor Size: 16 ~ 35 mm² Stranded; 4 ~ 16 mm² Stranded; 2.5 ~ 6 mm² Stranded; 1.5 ~ 4 mm² Stranded, Ferrule Conductor Size: 10 ~ 35 mm²; 2.5 ~ 16 mm²; 1.5 ~ 6 mm²; 0.75 ~ 4 mm², 1 Piece in a package, Part no: 568660",
+      "price": 169.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_50d840aa-2ac3-4e4e-90ac-e111a8d67f75_large.jpg?v=1605019815"
+    },
+    {
+      "product_number": "EB130",
+      "description": "ERIFLEX EB-130 Earthing and Neutral Busbar, Material: Nickel Plated Brass, Max Current Rating: 125A, 130 Tunnels Connection, Conductor Size: 1.5 ~ 25 mm² Stranded, 5 Piece in a package, Part no: 568673",
+      "price": 821.98,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_d386f8f5-67da-4d9d-bd7b-9f4bbdaa686e_large.jpg?v=1605019791"
+    },
+    {
+      "product_number": "EB60",
+      "description": "(Package of 3 Pieces) ERIFLEX EB-60 Earthing and Neutral Busbar, Material: Brass, Max Current Rating: 250A, 60 Tunnels Connection, Conductor Size: 16 ~ 35 mm² Stranded; 4 ~ 16 mm² Stranded; 1.5 ~ 4 mm² Stranded, Ferrule Conductor Size: 10 ~ 35 mm²; 2.5 ~ 16 mm²; 0.75 ~ 4 mm², 1 Piece in a package, Part no: 568661",
+      "price": 183.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_8d0f0f88-a24c-4f95-a323-ccb87274470f_large.jpg?v=1605019837"
+    },
+    {
+      "product_number": "EB2X130",
+      "description": "ERIFLEX EB-2X130 Earthing and Neutral Busbar, Material: Nickel Plated Brass, Max Current Rating: 200A, 260 Tunnels Connection, Conductor Size: 1.5 ~ 25 mm² Stranded, 1 Piece in a package, Part no: 568674",
+      "price": 257.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_efa7f922-be18-44d3-8ca4-5eb795614388_large.jpg?v=1605019942"
+    },
+    {
+      "product_number": "EB130SUP2",
+      "description": "(Package of 2 Pieces) ERIFLEX EB-130 Dual Neutral Busbar Support, Provides support for two EB-130 or EB-2X130 Earthing and Neutral Busbars, Material: Polyamide, 10 Piece in a package, Part no: 568675",
+      "price": 151.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_1d14cdae-decc-4f69-8bae-01b2fc398ed0_large.jpg?v=1605019772"
+    },
+    {
+      "product_number": "EB130CON35",
+      "description": "(Package of 3 Pieces) ERIFLEX EB-130 Main Terminal Clamp, For use with EB-130 or EB-2X130 Earthing and Neutral Busbars, Material: Nickel Plated Brass, Conductor Size: 6 ~ 35 mm² Stranded, Hole Size: 5.5MM, 10 Piece in a package, Part no: 568676",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_98bbb90e-0245-4e29-867f-a9334be38be0_large.jpg?v=1605019770"
+    },
+    {
+      "product_number": "EB130CON70",
+      "description": "(Package of 2 Pieces) ERIFLEX EB-130 Main Terminal Clamp, For use with EB-130 or EB-2X130 Earthing and Neutral Busbars, Material: Nickel Plated Brass, Conductor Size: 6 - 70 mm² Stranded, Hole Size: 5.5MM, 10 Piece in a package, Part no: 568677",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ade72323-0820-427f-beab-0cc92d494095_large.jpg?v=1605019757"
+    },
+    {
+      "product_number": "EB166",
+      "description": "(Package of 3 Pieces) ERIFLEX EB-142/166 Earthing and Neutral Busbar, Use to connect several earthing conductors, Material: Nickel Plated Brass, Max Current Rating: 40A, Number of Connections: 166, Conductor Size: 1.5 ~ 10 mm² Stranded, Hole Size: 5.5mm, 10 Piece in a package, Part no: 568667",
+      "price": 154.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_fb748654-99b9-4657-94e0-0e5efa75a510_large.jpg?v=1605019745"
+    },
+    {
+      "product_number": "EB142",
+      "description": "(Package of 2 Pieces) ERIFLEX EB-142/166 Earthing and Neutral Busbar, Use to connect several earthing conductors, Material: Nickel Plated Brass, Max Current Rating: 63A, Number of Connections: 142, Conductor Size: 1.5 ~ 16 mm² Stranded, Hole Size: 5.5mm, 10 Piece in a package, Part no: 568668",
+      "price": 156.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_292acafc-2a9c-4d12-b5f2-fd7ca9e4848d_large.jpg?v=1605019840"
+    },
+    {
+      "product_number": "EB142-166SUP1",
+      "description": "(Package of 12 Pieces) ERIFLEX EB-142/166 Single Neutral Busbar Support, Provides support for one EB-142 or EB-166 Earthing and Neutral Busbar, Material: Polyamide, 10 Piece in a package, Part no: 568669",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_15cd3bd4-9a36-4162-a3cf-7c08b54da650_large.jpg?v=1605019747"
+    },
+    {
+      "product_number": "EB142-166SUP2",
+      "description": "(Package of 6 Pieces) ERIFLEX EB-142/166 Dual Neutral Busbar Support, Provides support for two EB-142 or EB-166 Earthing & Neutral Busbars, Material: Polyamide, 10 Piece in a package, Part no: 568670",
+      "price": 154.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_d649c05d-e4ad-40cb-9d2e-54e8aab72713_large.jpg?v=1605019733"
+    },
+    {
+      "product_number": "EB142CON35",
+      "description": "(Package of 12 Pieces) ERIFLEX EB-142 Main Terminal Clamp, Material: Electrogalvanized Steel, Conductor Size: 6 ~ 35 mm² Stranded, Hole Size: 5.5mm, 10 Piece in a package, Part no: 568672",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_cc4c257d-c867-44d7-824e-6c8d4590d6d9_large.jpg?v=1605019712"
+    },
+    {
+      "product_number": "EB166CON25",
+      "description": "(Package of 24 Pieces) ERIFLEX EB-166 Main Terminal Clamp, Material: Electrogalvanized Steel, Conductor Size: 6 ~ 25 mm² Stranded, Hole Size: 4.5mm, 10 Piece in a package, Part no: 568671",
+      "price": 205.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_0c750306-2854-4d9e-9239-749dcb66e245_large.jpg?v=1605019706"
+    },
+    {
+      "product_number": "EB168",
+      "description": "ERIFLEX EB-168 Earthing and Neutral Busbar, Use to connect several earthing conductors, Material: Brass, Number of Connections: 166, Conductor Size: 1.5 ~ 4 mm² Stranded, Ferrule Conductor Size: 0.75 ~ 4 mm², Hole Size: 4.5mm, 10 Piece in a package, Part no: 568630",
+      "price": 873.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_1f55e13c-c569-4dec-ad5d-34e866a06dc9_large.jpg?v=1605019718"
+    },
+    {
+      "product_number": "EBC133-10X3X2000",
+      "description": "(Package of 3 Pieces) ERIFLEX EBC-133 Earthing and Neutral Busbar, Used to connect multiple earthing conductors, Material: Electrogalvanized Copper; Steel, Max Current Rating: 108A, Number of Connections: 133, Conductor Size: 0.5 ~ 16 mm² Solid; 0.5 - 10 mm² Stranded, Conductor Width: 9mm Max, 1 Piece in a package, Part no: 568612",
+      "price": 180.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_3e8a02c1-fa0f-4064-bfde-25395ef2be85_large.jpg?v=1605019694"
+    },
+    {
+      "product_number": "EBC133-15X5X2000",
+      "description": "(Package of 2 Pieces) ERIFLEX EBC-133 Earthing and Neutral Busbar, Used to connect multiple earthing conductors, Material: Electrogalvanized Copper; Steel, Max Current Rating: 218A, Number of Connections: 133, Conductor Size: 0.5 ~ 16 mm² Solid; 0.5 - 10 mm² Stranded, Conductor Width: 9mm Max, 1 Piece in a package, Part no: 568613",
+      "price": 218.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_03926466-1c25-445f-a62c-89ee83b6d849_large.jpg?v=1605019699"
+    },
+    {
+      "product_number": "KIT-EBC133-15",
+      "description": "(Package of 12 Pieces) ERIFLEX EBC-133 Main Terminal Clamp Kit, Material: Electrogalvanized Steel, Conductor Size: 16 ~ 35 mm², Conductor Width: 9mm Max, 10 Piece in a package, Part no: 568614",
+      "price": 176.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_02dfe6e7-915e-4447-b558-f8572065ca5b_large.jpg?v=1605019676"
+    },
+    {
+      "product_number": "EB2AL",
+      "description": "(Package of 6 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Busbar, Material: Tinned Aluminum, Max Current Rating: 85A, Number of Connections: 2, Conductor Size: 2.5 ~ 16 mm² Stranded, Number of Holes: 3, 20 Pieces in a package, Part no: 568710",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_e190ca59-7d4a-4494-8ea0-6d185ffba45c_large.jpg?v=1605019676"
+    },
+    {
+      "product_number": "KIT-EC450",
+      "description": "(Package of 2 Pieces) ERIFLEX EC450 Earthing/Grounding Kit, Material: Electrogalvanized Copper; Steel, Thread Size: M6, 10 Piece in a package, Part no: 562100",
+      "price": 181.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_1dad3de0-59e9-4781-9ada-2a3954f3c856_large.jpg?v=1605019670"
+    },
+    {
+      "product_number": "EB4AL",
+      "description": "(Package of 4 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Busbar, Material: Tinned Aluminum, Max Current Rating: 85A, Number of Connections: 4, Conductor Size: 2.5 ~ 16 mm² Stranded, Number of Holes: 6, 20 Pieces in a package, Part no: 568711",
+      "price": 156.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_7206eb31-90a5-4c60-99cb-b61591ddb8af_large.jpg?v=1605019657"
+    },
+    {
+      "product_number": "EB6AL",
+      "description": "(Package of 3 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Busbar, Material: Tinned Aluminum, Max Current Rating: 85A, Number of Connections: 6, Conductor Size: 2.5 ~ 16 mm² Stranded, Number of Holes: 8, 20 Pieces in a package, Part no: 568712",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_bda88d44-6a1e-4aff-a918-596d327087a1_large.jpg?v=1605019714"
+    },
+    {
+      "product_number": "EB12AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Busbar, Material: Tinned Aluminum, Max Current Rating: 85A, Number of Connections: 12, Conductor Size: 2.5 ~ 16 mm² Stranded, Number of Holes: 14, 20 Pieces in a package, Part no: 568714",
+      "price": 183.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ffc6d4f1-bdbd-45ec-ba39-7cf84cce26ed_large.jpg?v=1605019648"
+    },
+    {
+      "product_number": "EB10AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Busbar, Material: Tinned Aluminum, Max Current Rating: 85A, Number of Connections: 10, Conductor Size: 2.5 ~ 16 mm² Stranded, Number of Holes: 12, 20 Pieces in a package, Part no: 568713",
+      "price": 159.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_501fb0df-9995-47e7-91ff-95dd0033f450_large.jpg?v=1605019656"
+    },
+    {
+      "product_number": "EBD8AL",
+      "description": "(Package of 6 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Double Busbar, Material: Tinned Aluminum, Max Current Rating: 115A, Number of Connections: 8, Conductor Size: 16 ~ 35 mm² Stranded; 6 ~ 10 mm² Stranded; 1.5 ~ 6 mm² Stranded, 10 Pieces in a package, Part no: 568716",
+      "price": 169.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_3487cbc1-f9c0-442b-abfd-6ccb1bc05490_large.jpg?v=1605019628"
+    },
+    {
+      "product_number": "EB20AL",
+      "description": "ERIFLEX Tinned Aluminum Earthing and Neutral Busbar, Material: Tinned Aluminum, Max Current Rating: 85A, Number of Connections: 20, Conductor Size: 2.5 ~ 16 mm² Stranded, Number of Holes: 22, 20 Pieces in a package, Part no: 568715",
+      "price": 145.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ac737667-941a-4263-8c10-cf51888572df_large.jpg?v=1605019632"
+    },
+    {
+      "product_number": "EBD14AL",
+      "description": "(Package of 4 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Double Busbar, Material: Tinned Aluminum, Max Current Rating: 115A, Number of Connections: 14, Conductor Size: 16 ~ 35 mm² Stranded; 6 ~ 10 mm² Stranded; 1.5 ~ 6 mm² Stranded, 10 Pieces in a package, Part no: 568718",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_e8bfde79-08e5-4022-9087-87f678263758_large.jpg?v=1605019625"
+    },
+    {
+      "product_number": "EBD10AL",
+      "description": "(Package of 4 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Double Busbar, Material: Tinned Aluminum, Max Current Rating: 115A, Number of Connections: 10, Conductor Size: 16 ~ 35 mm² Stranded; 6 ~ 10 mm² Stranded; 1.5 ~ 6 mm² Stranded, 10 Pieces in a package, Part no: 568717",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_73afa4b5-33aa-4576-88ba-01a58d24a055_large.jpg?v=1605019619"
+    },
+    {
+      "product_number": "EBD26AL",
+      "description": "(Package of 3 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Double Busbar, Material: Tinned Aluminum, Max Current Rating: 150A, Number of Connections: 26, Conductor Size: 16 ~ 35 mm² Stranded; 16 ~ 50 mm² Stranded; 1.5 ~ 6 mm² Stranded; 6 ~ 10 mm² Stranded, 10 Pieces in a package, Part no: 568720",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_2de9b92e-8fd6-4c87-954f-2455a9f96e16_large.jpg?v=1605019613"
+    },
+    {
+      "product_number": "EBD20AL",
+      "description": "(Package of 3 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Double Busbar, Material: Tinned Aluminum, Max Current Rating: 115A, Number of Connections: 20, Conductor Size: 16 ~ 35 mm² Stranded; 16 ~ 50 mm² Stranded; 1.5 ~ 6 mm² Stranded; 6 ~ 10 mm² Stranded, 10 Pieces in a package, Part no: 568719",
+      "price": 143.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_6657f984-f001-48bd-baed-0b8193bd7d34_large.jpg?v=1605019614"
+    },
+    {
+      "product_number": "EBD34AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Double Busbar, Material: Tinned Aluminum, Max Current Rating: 150A, Number of Connections: 34, Conductor Size: 16 ~ 35 mm² Stranded; 16 ~ 50 mm² Stranded; 1.5 ~ 6 mm² Stranded; 6 ~ 10 mm² Stranded, 10 Pieces in a package, Part no: 568721",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_c8ff4d6d-c856-4644-96b4-f191d67bc28b_large.jpg?v=1605019603"
+    },
+    {
+      "product_number": "EBD44AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Tinned Aluminum Earthing and Neutral Double Busbar, Material: Tinned Aluminum, Max Current Rating: 150A, Number of Connections: 44, Conductor Size: 16 ~ 35 mm² Stranded; 16 ~ 50 mm² Stranded; 1.5 ~ 6 mm² Stranded; 6 ~ 10 mm² Stranded, 10 Pieces in a package, Part no: 568722",
+      "price": 151.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_34941838-abf9-4bdd-a2a8-a48eba92f63e_large.jpg?v=1605019595"
+    },
+    {
+      "product_number": "EB7GYSUP",
+      "description": "(Package of 2 Pieces) ERIFLEX Earthing and Neutral Busbar with Green/Yellow DIN Rail Clip, Material: Brass; Polyethylene, Max Current Rating: 40A, Number of Connections: 7, Conductor Size: 6 ~ 25 mm² Stranded; 1.5 ~ 16 mm² Stranded, 10 Pieces in a package, Part no: 568678",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_854289e3-7d89-405b-afa3-c195845b0922_large.jpg?v=1605019556"
+    },
+    {
+      "product_number": "EB15GYSUP",
+      "description": "ERIFLEX Earthing and Neutral Busbar with Green/Yellow DIN Rail Clip, Material: Brass; Polyethylene, Max Current Rating: 40A, Number of Connections: 7, Conductor Size: 6 ~ 25 mm² Stranded; 1.5 ~ 16 mm² Stranded, 10 Pieces in a package, Part no: 568680",
+      "price": 123.72,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ebf6a5f0-4027-430c-8b58-bf224552ea1e_large.jpg?v=1605019528"
+    },
+    {
+      "product_number": "EB12GYSUP",
+      "description": "(Package of 2 Pieces) ERIFLEX Earthing and Neutral Busbar with Green/Yellow DIN Rail Clip, Material: Brass; Polyethylene, Max Current Rating: 40A, Number of Connections: 12, Conductor Size: 6 ~ 25 mm² Stranded; 1.5 ~ 16 mm² Stranded, 10 Pieces in a package, Part no: 568679",
+      "price": 208.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_6657e610-5aa2-46d7-aa66-45ef58d9edb9_large.jpg?v=1605019536"
+    },
+    {
+      "product_number": "EBB-KP",
+      "description": "(Package of 12 Pieces) ERIFLEX EBB-KP Neutral Busbar Two Bar Mounting Kit, Bracket for mounting two bars, Material: Copper, 1 Pieces in a package, Part no: 568666",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_64a77e36-3754-4d8a-a30d-d96862826ac2_large.jpg?v=1605019522"
+    },
+    {
+      "product_number": "EBB-KDR",
+      "description": "(Package of 12 Pieces) ERIFLEX EBB-KDR Neutral Busbar DIN Rail Mounting Kit, Bracket mounts bar to DIN rail, Material: Copper, 1 Pieces in a package, Part no: 568665",
+      "price": 176.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_56dbf636-4b26-48ad-9948-c5cffe153b22_large.jpg?v=1605019519"
+    },
+    {
+      "product_number": "EC16-4",
+      "description": "(Package of 3 Pieces) ERIFLEX EC16 Earthing/Grounding Connector, Material: Electrogalvanized Steel, Conductor Size: 2.5 mm² Solid - 16 mm² Stranded, Busbar Thickness: 4mm, 20 Pieces in a package, Part no: 553460",
+      "price": 135.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_e93c5d02-7f3c-479b-a777-70d3d5b9bf5b_large.jpg?v=1605019506"
+    },
+    {
+      "product_number": "EC16-5",
+      "description": "(Package of 3 Pieces) ERIFLEX EC16 Earthing/Grounding Connector, Material: Electrogalvanized Steel, Conductor Size: 2.5 mm² Solid - 16 mm² Stranded, Busbar Thickness: 5mm, 20 Pieces in a package, Part no: 553480",
+      "price": 135.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_d4ef8ba6-f675-47a4-badf-9d7f8a6c88b8_large.jpg?v=1605019501"
+    },
+    {
+      "product_number": "EC35",
+      "description": "(Package of 4 Pieces) ERIFLEX EC35 Earthing/Grounding Connector, Material: Electrogalvanized Steel, Conductor Size: 2.5 mm² Solid - 35 mm² Stranded, Busbar Thickness: 4 ~ 5mm, 20 Pieces in a package, Part no: 553470",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_c7ad2b8a-efb2-41e9-ba62-fbada1bf5e76_large.jpg?v=1605019496"
+    },
+    {
+      "product_number": "CLIPM6-12X4",
+      "description": "(Package of 3 Pieces) ERIFLEX Mounting Clip for Plain Busbar, Material: Electrogalvanized Steel, Busbar Thickness: 4mm, Thread Size: M6, 20 Pieces in a package, Part no: 553450",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_large.jpg?v=1605019483"
+    },
+    {
+      "product_number": "CLIPM6-12X5",
+      "description": "(Package of 3 Pieces) ERIFLEX Mounting Clip for Plain Busbar, Material: Electrogalvanized Steel, Busbar Thickness: 5mm, Thread Size: M6, 20 Pieces in a package, Part no: 553490",
+      "price": 135.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_49fd808d-d533-4ed3-b63f-1a6559ed7790_large.jpg?v=1605019521"
+    }
+  ]
+}

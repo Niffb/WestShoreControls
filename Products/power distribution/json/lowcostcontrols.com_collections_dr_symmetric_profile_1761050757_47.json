@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_number": "DR5-5X2M",
+      "description": "(Package of 3 Pieces) ERIFLEX DR Symmetric Profile, Material: Electrogalvanized Steel, Width: 5.5mm, Thickness: 1.0mm, Length: 2 Meters. 15 Units in a package, Part no: 557700",
+      "price": 176.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DR_Symmetric_Profile_large.jpg?v=1605155948"
+    },
+    {
+      "product_number": "DR7X2M",
+      "description": "(Package of 2 Pieces) ERIFLEX DR Symmetric Profile, Material: Electrogalvanized Steel, Width: 7.5mm, Thickness: 1.0mm, Length: 2 Meters. 15 Units in a package, Part no: 557800",
+      "price": 200.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DR_Symmetric_Profile_d58c199b-e782-4a1d-9388-7b4787500daa_large.jpg?v=1605155949"
+    },
+    {
+      "product_number": "DR15X2M",
+      "description": "ERIFLEX DR Symmetric Profile, Material: Electrogalvanized Steel, Width: 15mm, Thickness: 1.5mm, Length: 2 Meters. 15 Units in a package, Part no: 557900",
+      "price": 159.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DR_Symmetric_Profile_c9741c0d-e171-49bc-bed4-28faff70e50c_large.jpg?v=1605155950"
+    }
+  ]
+}

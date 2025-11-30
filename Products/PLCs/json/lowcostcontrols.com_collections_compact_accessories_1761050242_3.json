@@ -1,0 +1,1600 @@
+{
+  "products": [
+    {
+      "product_number": "Y212C46606",
+      "description": "Mitsubishi Electric PLC LOWER TERMINAL COVER, FX3U-64M",
+      "price": 22.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2e2d3bc6-f112-4f3a-9a9c-5240b25b34ee_large.jpg?v=1751469945"
+    },
+    {
+      "product_number": "Y212C64404",
+      "description": "Mitsubishi Electric PLC TOP TERMINAL COVER, FX3U-64M",
+      "price": 22.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f396e8ff-fd52-48d1-b929-9c8dd6adc6f0_large.jpg?v=1751469946"
+    },
+    {
+      "product_number": "TB-EX-CAB-1M",
+      "description": "Mitsubishi Electric PLC, FX Series Connection cable 1 m for terminal block TB-EX / TB-20, Series: COMMON, Type: TERMINAL BLOCK CABLE, Cable Length (m): 1",
+      "price": 118.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d71a3115-2edc-43bc-b4f9-191aa922daeb_large.jpg?v=1751469943"
+    },
+    {
+      "product_number": "MR-CAB19-10FT",
+      "description": "Mitsubishi Electric PLC 25-pin D-Sub to 8-pin DIN cable / cordset - Mitsubishi Electric - 3m / 10ft length - equivalent to MRCAB1910FT",
+      "price": 197.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d8aed409-623b-42ea-af0c-b7c8ad12f4e5_large.jpg?v=1751469942"
+    },
+    {
+      "product_number": "K97407C01201",
+      "description": "Mitsubishi Electric PLC WHITE DIN RAIL CLIP FX1S/1N & FX3U",
+      "price": 16.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ad638a68-0591-459f-8882-9b38af90a441_large.jpg?v=1751469940"
+    },
+    {
+      "product_number": "FXON-65EC",
+      "description": "Mitsubishi Electric PLC, FX Series Connection Cable for Base and Extension units FX0N/FX2N, Series: MELSEC-F, Type: EXTENSION CABLE, Cable Length (m): 0.65",
+      "price": 140.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_269bcc1c-a15a-4611-ad90-829e6fc3c80d_large.jpg?v=1751469939"
+    },
+    {
+      "product_number": "FXON-5EC",
+      "description": "Mitsubishi Electric PLC cable / cordset - Mitsubishi Electric - equivalent to FXON5EC",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_03191070-e592-45b1-8895-883fbb175a64_large.jpg?v=1751469938"
+    },
+    {
+      "product_number": "FXON-30EC",
+      "description": "Mitsubishi Electric PLC, FX Series Connection Cable for Base and Extension units FX0N/FX2N, Series: MELSEC-F, Type: EXTENSION CABLE, Cable Length (m): 0.3",
+      "price": 122.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6b809473-fdb0-48bb-9621-41acb9c75f9d_large.jpg?v=1751469936"
+    },
+    {
+      "product_number": "FX5S-30MR/ES-K",
+      "description": "Mitsubishi Electric PLC FX5S-30MR/ES STARTER KIT",
+      "price": 855.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ade04950-b641-41bd-a1e8-399de67c0a93_large.jpg?v=1751469935"
+    },
+    {
+      "product_number": "FX5-SF-MU4T5",
+      "description": "Mitsubishi Electric PLC Safety Main Module; iQ-F; 4 (2 redundant) inputs; 4 (2 redundant) ouputs, Series: MELSEC IQ-F, Type: SAFETY MODULE, Power Supply (V): 24, Current Type: DC, Integrated Digital Inputs: 4, Integrated Digital Outputs: 4, Output Type: TRANSISTOR, Output Logic: SOURCE",
+      "price": 937.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_52107902-e46a-40eb-8039-b8b6af2b5047_large.jpg?v=1751469933"
+    },
+    {
+      "product_number": "FX5-SF-8DI4",
+      "description": "Mitsubishi Electric PLC Safety Extension Module; iQ-F; 8 (4 redundant) inputs, Series: MELSEC IQ-F, Type: SAFETY MODULE, Power Supply (V): 24, Current Type: DC, Integrated Digital Inputs: 8",
+      "price": 659.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7b7ee869-f142-4781-944f-ed567642a487_large.jpg?v=1751469932"
+    },
+    {
+      "product_number": "FX5-SDCD",
+      "description": "Mitsubishi Electric PLC iQ-F FX5S SD memory card module, Series MELSEC IQ-F, Type: SD MEMORY CARD MODULE, Compatible Device: FX5S",
+      "price": 99.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4fada0fe-8f47-4b21-80d7-8d2e006020e7_large.jpg?v=1751469930"
+    },
+    {
+      "product_number": "FX5-OPC",
+      "description": "Mitsubishi Electric FX5 OPC UA Server Module, Series MELSEC IQ-F, Type: OPC UA MODULE, Network Interface: ETHERNET",
+      "price": 766.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_028220c0-a95d-4d32-a992-290f25a210b4_large.jpg?v=1751469929"
+    },
+    {
+      "product_number": "FX5-ENET/IP",
+      "description": "Mitsubishi Electric FX5 Communication module; EtherNet/IP, Series: MELSEC IQ-F, Type: SCANNER, Network Interface: ETHERNET/IP",
+      "price": 755.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_121c4510-1709-4260-b066-64cb5f619d0b_large.jpg?v=1751469927"
+    },
+    {
+      "product_number": "FX5-ENET",
+      "description": "Mitsubishi Electric PLC Communication Units, Ethernet Unit, 100BASE-TX, CS1W-ETN21, Communication Interface Transmission Standard: Ethernet, Number of Ports: 2, Connection Terminal: Connector Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC, Transmitting speed: 100/10 Mbps",
+      "price": 696.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ca049537-2eb3-4139-bf43-9efce641c4f7_large.jpg?v=1751469926"
+    },
+    {
+      "product_number": "FX5-DP-M",
+      "description": "Mitsubishi Electric FX5 Communication module; Profibus-DP Master Module, Series: MELSEC IQ-F, Type: MASTER STATION, Network Interface: PROFIBUS-DP",
+      "price": 979.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_747322ca-0d30-42c2-9bc6-0224d4dc0d5e_large.jpg?v=1751469924"
+    },
+    {
+      "product_number": "FX5-CNV-IFC",
+      "description": "Mitsubishi Electric PLC Communication Units, Conversion Unit, MELSEC-F Series, Representative Standard: CE / UL / CUL, Type of unit: Connector conversion unit (FX5UC CPU unit)",
+      "price": 65.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_463a9bcf-c88c-4159-892e-7f3f75618f69_large.jpg?v=1751469923"
+    },
+    {
+      "product_number": "FX5-CNV-IF",
+      "description": "Mitsubishi Electric PLC Communication Units, Conversion Unit, MELSEC-F Series, Representative Standard: CE / UL / CUL, Type of unit: Connector conversion unit (FX5U CPU unit)",
+      "price": 67.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2f605aeb-60f7-49af-94dc-4cfb5b66c599_large.jpg?v=1751469921"
+    },
+    {
+      "product_number": "FX5-CNV-BUSC",
+      "description": "Mitsubishi Electric PLC Communication Units, Conversion Unit, MELSEC-F Series, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5UC to FX3, Type of unit: Bus conversion unit (8 point)",
+      "price": 67.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_54270628-f382-4e9e-83a7-215403abd3de_large.jpg?v=1751469920"
+    },
+    {
+      "product_number": "FX5-CNV-BUS",
+      "description": "Mitsubishi Electric PLC Communication Units, Conversion Unit, MELSEC-F Series, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5 to FX3, Type of unit: Bus conversion unit (8 point)",
+      "price": 67.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_21f49ad8-2494-4dc7-9f58-047ae89fc8e6_large.jpg?v=1751469918"
+    },
+    {
+      "product_number": "FX5-CNV-BC",
+      "description": "Mitsubishi Electric PLC Accessories, Conversion Adapter, Connector, MELSEC-F Series, Application: A connector conversion adapter, Other specifications: connector conversion adapter to connect the expansion extension cable between expansion type units. For connecting expansion cable type units and expansion extension cable.",
+      "price": 78.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_52ca2a7b-dda4-4655-a5ae-692841bff2ba_large.jpg?v=1751469917"
+    },
+    {
+      "product_number": "FX5-CCLIEF",
+      "description": "Mitsubishi Electric PLC Communication Units, CC-Link IE Field Network Intelligent Device Station Unit, MELSEC-F Series, Representative Standard: CE / UL / CUL, Type of unit: CC-Link IE field network intelligent device station unit, Communication speed(kbps): 1 Gbps",
+      "price": 544.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c8554d1e-0809-4379-a882-0c47f0644848_large.jpg?v=1751469915"
+    },
+    {
+      "product_number": "FX5-CCLGN-MS",
+      "description": "Mitsubishi Electric MELSEC IQ-FX5 Series CC-Link IE TSN Master/Local Unit, Communication Interface Transmission Standard: Ethernet, Number of Ports: 2, Connection Terminal: Connector, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Type of unit: CC-link, IE, TSN master/local unit, CC-Link Ver.2: Compatible",
+      "price": 796.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1cf9fb48-6e8a-424e-9e7c-a29bd38b7bc7_large.jpg?v=1751469914"
+    },
+    {
+      "product_number": "FX5-C32EYT/DSS-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Spring Clamp Terminal Block, MELSEC iQ-F Series, Input Response Time: Less than 1 mS, Output Format: Transistor/Source Output, Protection Function: None, Connection Terminal: European Terminal Block, Representative Standard; CE / UL / CUL / Other, Number of occupied input/outputs(Point): 32, Current Consumption: 5 V DC power supply: 120 mA / 24 V DC power supply: 200 mA, Details on Input Response Time: 0.2 ms or less / 100 mA (for 24 V DC)",
+      "price": 348.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_67092414-adbd-4251-8320-34af369bfefb_large.jpg?v=1751469912"
+    },
+    {
+      "product_number": "FX5-C32EYT/DSS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of outputs(Point): 32, Terminal shape: Connector",
+      "price": 362.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_24d7ccb0-8968-4a5e-a5c8-8d07aadc6d70_large.jpg?v=1751469911"
+    },
+    {
+      "product_number": "FX5-C32EYT/D-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Spring Clamp Terminal Block, MELSEC iQ-F Series, Input Response Time: Less than 1 mS, Output Format: Transistor/Sync Output, Protection Function: None, Connection Terminal: European Terminal Block, Representative Standard; CE / UL / CUL / Other, Number of occupied input/outputs(Point): 32, Current Consumption: 5 V DC power supply: 120 mA / 24 V DC power supply: 200 mA, Details on Input Response Time: 0.2 ms or less / 100 mA (for 24 V DC)",
+      "price": 362.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a9942489-b6b5-48a2-9204-bc8b9c34d5c3_large.jpg?v=1751469909"
+    },
+    {
+      "product_number": "FX5-C32EYT/D",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of outputs(Point): 32, Terminal shape: Connector",
+      "price": 362.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9c745849-b2ee-488d-ad24-a978e9b6672f_large.jpg?v=1751469908"
+    },
+    {
+      "product_number": "FX5-C32EX/DS-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Spring Clamp Terminal Block, MELSEC iQ-F Series, Input Format: DC Input, Rated Input Voltage(V): DC5/24, Input Response Time: Less than 1 mS, Protection Function: None, Connection Terminal: European Terminal Block, Representative Standard; CE / UL / CUL / Other, Number of occupied input/outputs(Point): 32, Current Consumption: 5 V DC power supply: 120 mA / 24 V DC power supply: 165 mA, Details on Input Response Time: ON: 50 Œºs or less / OFF: 150 Œºs or less",
+      "price": 348.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_acf7732a-e307-4300-95dd-9e8deb9f60fa_large.jpg?v=1751469906"
+    },
+    {
+      "product_number": "FX5-C32EX/DS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 32, Terminal shape: Connector, Specifications: sink/source",
+      "price": 362.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_83f2d21a-c31b-4409-9873-9b12dd6a23cf_large.jpg?v=1751469905"
+    },
+    {
+      "product_number": "FX5-C32EX/D",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 32, Terminal shape: Connector, Specifications: sink",
+      "price": 362.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_81d920ae-9ffb-405c-9fad-07072acb88f2_large.jpg?v=1751469903"
+    },
+    {
+      "product_number": "FX5-C32ET/DSS-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Spring Clamp Terminal Block, MELSEC iQ-F Series, Input Format: DC Input, Rated Input Voltage(V): DC5/24, Input Response Time: Less than 1 mS, Output Format: Transistor/Source Output, Protection Function: None, Connection Terminal: European Terminal Block, Representative Standard; CE / UL / CUL / Other, Number of occupied input/outputs(Point): 16 input points / 16 output points, Current Consumption: 5 V DC power supply: 120 mA / 24 V DC power supply: 165 mA, Details on Input Response Time: 0.2 ms or less / 100 mA (for 24 V DC)",
+      "price": 339.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_18c25fd3-c7fb-41d4-bf6b-34f5c7d1b337_large.jpg?v=1751469902"
+    },
+    {
+      "product_number": "FX5-C32ET/DSS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Connector",
+      "price": 362.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_461dcd73-5625-4fa8-b9cb-3b42718783dd_large.jpg?v=1751469900"
+    },
+    {
+      "product_number": "FX5-C32ET/DS-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, Spring Clamp Terminal Block, MELSEC iQ-F Series, Input Format: DC Input, Rated Input Voltage(V): DC5/24, Input Response Time: Less than 1 mS, Output Format: Transistor/Sync Output, Protection Function: None, Connection Terminal: European Terminal Block, Representative Standard: CE / UL / CUL / Other, Number of occupied input/outputs(Point): 16 input points / 16 output points, Current Consumption: 5 V DC power supply: 120 mA / 24 V DC power supply: 165 mA, Details on Input Response Time: ON: 50 Œºs or less / OFF: 150 Œºs or less",
+      "price": 344.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_701fd0ae-8df4-4125-bfd9-3feed0460d44_large.jpg?v=1751469898"
+    },
+    {
+      "product_number": "FX5-C32ET/D",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Connector",
+      "price": 362.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8b3a0c40-c208-4242-a684-0e2bcd1bb967_large.jpg?v=1751469897"
+    },
+    {
+      "product_number": "FX5-C1PS-5V",
+      "description": "Mitsubishi Electric PLC Power Supply Unit, AC 100 to 120V, MELSEC-F Series, Input Voltage: DC24V, Output Voltage/Current: DC5V/1.2A, DC24V/0.625A, Compatible Standards: UL/cUL/CE",
+      "price": 314.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bf752ad9-3c42-41f1-9d3e-4bde9cf84533_large.jpg?v=1751469896"
+    },
+    {
+      "product_number": "FX5-C16EYT/DSS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Output Points(Point): 16, Terminal shape: Connector",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_504b6e5f-9956-4ec5-82c0-1b9c95207c25_large.jpg?v=1751469894"
+    },
+    {
+      "product_number": "FX5-C16EYT/D",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Terminal shape: Connector",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_871846c5-1953-4684-9d23-0ca088f3bec0_large.jpg?v=1751469893"
+    },
+    {
+      "product_number": "FX5-C16EYR/D-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, Spring Clamp Terminal Block, MELSEC iQ-F Series, Input Response Time: Less than 10 to 20 mS, Output Format: Relay Contact Output, Connection Terminal: European Terminal Block, Representative Standard: CE / UL / CUL / Other, Number of occupied input/outputs(Point): 16, Current Consumption: 5 V DC power supply: 100 mA / 24 V DC power supply: 100 mA, Details on Input Response Time: Approx. 10 ms",
+      "price": 314.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cfd9f56d-2666-4c80-809b-0082a5313519_large.jpg?v=1751469891"
+    },
+    {
+      "product_number": "FX5-C16EX/DS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC, Number Of Input Points(Point): 16, Terminal shape: Connector, Specifications: sink/Source",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6e6c6f0e-9911-4a19-a6b9-60cd3ce9263d_large.jpg?v=1751469890"
+    },
+    {
+      "product_number": "FX5-C16EX/D",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC, Number Of Input Points(Point): 16, Terminal shape: Connector, Specifications: sink",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fbd18bd7-8229-4e77-a441-f8d3e93de3be_large.jpg?v=1751469888"
+    },
+    {
+      "product_number": "FX5-ASL-M",
+      "description": "Mitsubishi Electric MELSEC iQ-FX5 Series, AnyWireASLINK, System Master Module, Communication Interface Transmission Standard: Other, Connection Terminal: Terminal block, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC",
+      "price": 1083.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d4ba21ec-bb6a-45fa-9766-bd55268b5105_large.jpg?v=1751469887"
+    },
+    {
+      "product_number": "FX5-8EYT/ESS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC, Number Of Output Points(Point): 8, Terminal shape: Terminal block",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f07d9c75-5975-49e3-8322-25256e275b46_large.jpg?v=1751469885"
+    },
+    {
+      "product_number": "FX5-8EYT/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC, Number Of Output Points(Point): 8, Terminal shape: Terminal block",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_206b8dba-9efb-426e-9b42-db580d30a295_large.jpg?v=1751469884"
+    },
+    {
+      "product_number": "FX5-8EYR/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC, Number Of Output Points(Point): 8, Terminal shape: Terminal block",
+      "price": 222.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bb8483d3-e130-4104-9e02-25ca42cf884d_large.jpg?v=1751469883"
+    },
+    {
+      "product_number": "FX5-8EX/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, MELSEC iQ-FX5 Series, Rated Input Voltage(V) DC24V, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U, FX5UC, Number Of Inputs(Point): 8, Terminal shape: Terminal block",
+      "price": 212.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4412c50c-2e45-40a9-9449-9880790dd776_large.jpg?v=1751469881"
+    },
+    {
+      "product_number": "FX5-8AD",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, MELSEC iQ-FX5 Series, Number of Inputs: 8, Rated Input Voltage(V): -10 to +10 DC, Connection Terminal: Terminal Block/Connector, Representative Standard: CE / UL / CUL, Feature: Analog input unit (A/D conversion), Applicable sequencer: FX5U, FX5UC",
+      "price": 1083.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_3867fbe4-933b-47ee-93b3-99b724183af3_large.jpg?v=1751469880"
+    },
+    {
+      "product_number": "FX5-65EC",
+      "description": "Mitsubishi Electric PLC Accessories, Expansion Cable, MELSEC-F Series, Application: Extension cable for expansion unit, Applicable series: Extension cable for expansion unit, Cable Length(m): 0.65, Other specifications: Only 1 is usable per 1 system. Can connect to input/output units (expansion cable type) and/or intelligent function units by combining with a connector conversion adapter (FX5-CNV-BC). (All expansion equipment includes a standard connection cable or has one built-in)",
+      "price": 115.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_56fd724c-97df-443b-90cc-1fcd041b3fc0_large.jpg?v=1751469878"
+    },
+    {
+      "product_number": "FX5-4LC",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, MELSEC iQ-FX5 Series, Number of Outputs: 4, Number of Outputs: 4, Output Format: Transistor/Sync Output, Rated Load Voltage(V): DC5ÔΩû24, Connection Terminal: Terminal Block/Connector, Representative Standard: CE / UL / CUL, Feature: Temperature Control Unit, Applicable sequencer: FX5U, FX5UC",
+      "price": 999.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_19b26040-3a17-40f4-8a50-47df5dd12667_large.jpg?v=1751469877"
+    },
+    {
+      "product_number": "FX5-4DA-ADP",
+      "description": "Mitsubishi Electric PLC Analog Units, Output, MELSEC-F Series, Type: Output, Number of Output Channels: 4, D/A Conversion Time Speed: Less than 0.5 to 1 mS, Terminal Shape: Connector, Representative Standard: CE / UL / CUL, Type of unit: Analog output, Voltage output range: DC -10V to 10V, Current output range: DC 0 to 20 mA",
+      "price": 601.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_62c9f65e-fe8f-4374-a167-d4d1c7b6e1d1_large.jpg?v=1751469876"
+    },
+    {
+      "product_number": "FX5-4DA",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, MELSEC iQ-FX5 Series, Number of Outputs: 4, Rated Load Voltage(V): DC-10ÔΩû+10, Connection Terminal: Terminal Block/Connector, Representative Standard: CE / UL / CUL, Feature: Analog output unit (D/A conversion), Applicable sequencer: FX5U, FX5UC",
+      "price": 761.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_61927ef2-5a9c-4820-9f67-69295434d476_large.jpg?v=1751469874"
+    },
+    {
+      "product_number": "FX5-4AD-TC-ADP",
+      "description": "Mitsubishi Electric FX5; Analog Input Module for Thermocouplers (K/J/T/B/R/S); 4 channels, Series: MELSEC IQ-F, Type: TEMPERATURE INPUT (THERMOC.), Integrated Analogue Inputs: 4, Input Type: THERMOCOUPLE, Applicable Thermocouple Type: K,J,R,S,T,B",
+      "price": 519.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_93eda026-cf8c-477d-94d0-46393ab025f8_large.jpg?v=1751469873"
+    },
+    {
+      "product_number": "FX5-4AD-PT-ADP",
+      "description": "Mitsubishi Electric FX5; Analog Input Module for Temperature Sensors; Pt100;Ni100; 4 channels, Series: MELSEC IQ-F, Type: TEMPERATURE INPUT (RTD), Integrated Analogue Inputs: 4, Input Type: RTD, Applicable RTD Type: PT100,NI100",
+      "price": 439.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c636f277-c024-4ef9-b5ef-6692f3d052c2_large.jpg?v=1751469871"
+    },
+    {
+      "product_number": "FX5-4AD-ADP",
+      "description": "Mitsubishi Electric PLC Analog Units, Input, MELSEC-F Series, Type: Input, Input Type: Voltage / Current, Input Range: Other, A/D Conversion Time Speed: 100 to Less than 500 ŒºS, Terminal Shape: Terminal Block, Representative Standard: CE / UL / CUL, Type of unit: Analog input, Voltage input range: DC -10V to 10V, Current input range: DC -20 to 20 mA",
+      "price": 434.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cabc1b3c-1664-443b-94d9-73524bbbcdff_large.jpg?v=1751469870"
+    },
+    {
+      "product_number": "FX5-4AD",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, MELSEC iQ-FX5 Series, Number of Inputs: 4, Rated Input Voltage(V): -10 to +10 DC, Connection Terminal: Terminal Block/Connector, Representative Standard: CE / UL / CUL, Feature: Analog input unit (A/D conversion), Applicable sequencer: FX5U, FX5UC, Rated input current(mA): -20 to +20 DC",
+      "price": 544.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e1b1ecc2-0dde-4c8f-a02f-533467944166_large.jpg?v=1751469869"
+    },
+    {
+      "product_number": "FX5-4A-ADP",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, MELSEC iQ-FX5 Series, Number of Inputs: 4, Rated Input Voltage(V): -10 to +10 DC, Connection Terminal: Terminal Block/Connector, Representative Standard: CE / UL / CUL, Feature: Analog input unit (A/D conversion), Applicable sequencer: FX5U, FX5UC, Rated input current(mA): -20 to +20 DC",
+      "price": 581.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fad6366c-f7d9-452a-9d8c-62fd2f30da2b_large.jpg?v=1751469867"
+    },
+    {
+      "product_number": "FX5-485ADP",
+      "description": "Mitsubishi Electric PLC Communication Units, RS-232C Special Communication Adapter, MELSEC-F Series, Communication Interface Transmission Standard: RS-422/485, Representative Standard: CE / UL / CUL, Type of unit: RS-485 communication expansion adapter",
+      "price": 319.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7d2d0d4a-47fb-42ca-94be-4342635774b3_large.jpg?v=1751469866"
+    },
+    {
+      "product_number": "FX5-485-BD",
+      "description": "Mitsubishi Electric PLC Communication Units, Data Link/Communication RS-422/USB, MELSEC-F Series, Communication Interface Transmission Standard: RS-422/485, Representative Standard: CE, Type of unit: RS-485 communication expansion board",
+      "price": 96.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b95c5730-ea09-4013-8807-b9b13cabd842_large.jpg?v=1751469864"
+    },
+    {
+      "product_number": "FX5-422-BD-GOT",
+      "description": "Mitsubishi Electric PLC Communication Units, Data Link/Communication RS-422/USB, MELSEC-F Series, Communication Interface Transmission Standard: RS-422/485, Representative Standard: CE, Type of unit: RS-422 communication expansion board (for GOT connection)",
+      "price": 100.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_3dc1ae8d-e3b9-47cf-ae9f-b6e0b908c269_large.jpg?v=1751469863"
+    },
+    {
+      "product_number": "FX5-32ET/ESS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Feature: Built-in AC power supply, Applicable sequencer: FX5U, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Terminal block",
+      "price": 743.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_08cad1f6-0e1a-4cd7-b4eb-5fc46b2b3f86_large.jpg?v=1751469861"
+    },
+    {
+      "product_number": "FX5-32ET/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Feature: Built-in AC power supply, Applicable sequencer: FX5U, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Terminal block",
+      "price": 733.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cdfdc837-9cbf-4c81-baf2-b1c02c6808f3_large.jpg?v=1751469860"
+    },
+    {
+      "product_number": "FX5-32ET/DSS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Feature: Built-in DC power supply, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Terminal block",
+      "price": 716.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_acfe94e2-b75d-4cb9-9090-b463c2847993_large.jpg?v=1751469858"
+    },
+    {
+      "product_number": "FX5-32ET/DS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Feature: Built-in DC power supply, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Terminal block",
+      "price": 743.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_049e24f1-7ea5-4639-9277-f1775d26bfb8_large.jpg?v=1751469856"
+    },
+    {
+      "product_number": "FX5-32ER/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Feature: Built-in AC power supply, Applicable sequencer: FX5U, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Terminal block",
+      "price": 723.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b823abb0-dfd2-458d-93df-e1823700b3d4_large.jpg?v=1751469855"
+    },
+    {
+      "product_number": "FX5-32ER/DS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Feature: Built-in DC power supply, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Terminal shape: Terminal block",
+      "price": 743.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_864ba9b3-6f99-4c43-80f5-033f4db83f69_large.jpg?v=1751469853"
+    },
+    {
+      "product_number": "FX5-30EC",
+      "description": "Mitsubishi Electric PLC Accessories, Expansion Cable, MELSEC-F Series, Application: Extension cable for expansion unit, Cable Length(m): 0.3, Other specifications: Only 1 is usable per 1 system. Can connect to input/output units (expansion cable type) and/or intelligent function units by combining with a connector conversion adapter (FX5-CNV-BC). (All expansion equipment includes a standard connection cable or has one built-in)",
+      "price": 100.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5f7fdd01-5e2a-4b28-864f-c4adb86ae1b4_large.jpg?v=1751469851"
+    },
+    {
+      "product_number": "FX5-232ADP",
+      "description": "Mitsubishi Electric PLC Communication Units, RS-232C Special Communication Adapter, MELSEC-F Series, Communication Interface Transmission Standard: RS-232, Connection Terminal: Connector, Representative Standard: CE / UL / CUL, Type of unit: RS-232C communication expansion adapter",
+      "price": 222.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_351a2913-0a13-4b99-a390-a7602aa30466_large.jpg?v=1751469850"
+    },
+    {
+      "product_number": "FX5-232-BD",
+      "description": "Mitsubishi Electric PLC Communication Units, Data Link/Communication RS-232C, MELSEC-F Series, Communication Interface Transmission Standard: RS-232, Representative Standard: CE, Type of unit: RS-232C communication expansion board",
+      "price": 96.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fd9e1bd0-0321-474a-8b35-8d2903444588_large.jpg?v=1751469848"
+    },
+    {
+      "product_number": "FX5-20PG-P",
+      "description": "Mitsubishi Electric MELSEC iQ-FX5 Series Motion Controller, Number of Controlled Axes: 2, Positioning Data Number: 600, Additional Functions: Interpolation Function / Manual Pulsar Operation Function, Connection Terminal: Connector, Representative Standard: CE / UL / CUL, Single Control Unit: pulse/mm/inch/degree, Pulse Output System: Transistor, Interpolation function: 2-axis linear interpolation / 2-axis circular interpolation",
+      "price": 1481.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f53bb3c2-626d-4ca0-bb5c-add8c92edacc_large.jpg?v=1751469847"
+    },
+    {
+      "product_number": "FX5-20PG-D",
+      "description": "Mitsubishi Electric MELSEC iQ-FX5 Series Motion Controller, Number of Controlled Axes: 2, Positioning Data Number: 600, Additional Functions: Interpolation Function / Manual Pulsar Operation Function, Connection Terminal: Connector, Representative Standard: CE / UL / CUL, Single Control Unit: pulse/mm/inch/degree, Pulse Output System: Differential driver, Interpolation function: 2-axis linear interpolation / 2-axis circular interpolation",
+      "price": 1213.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_365d09ff-eb65-4a8f-bf99-39eb9f2dbea2_large.jpg?v=1751469845"
+    },
+    {
+      "product_number": "FX5-1PSU-5V",
+      "description": "Mitsubishi Electric PLC Power Supply Unit, AC 100 to 120V, MELSEC-F Series, Input Voltage: AC100 to 120V, Output Voltage/Current: DC5V/6A, Compatible Standards: UL/cUL/CE",
+      "price": 248.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2ca37fb1-18e9-4150-bcbc-1aa2d28b7094_large.jpg?v=1751469843"
+    },
+    {
+      "product_number": "FX5-16EYT/ESS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Outputs(Point): 16, Terminal shape: Terminal block",
+      "price": 446.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1c592baf-3920-4a09-b0ac-ad876b1541db_large.jpg?v=1751469842"
+    },
+    {
+      "product_number": "FX5-16EYT/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Outputs(Point): 16, Terminal shape: Terminal block",
+      "price": 459.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e928bb2e-eb24-4dfb-89df-9175d50e8e01_large.jpg?v=1751469840"
+    },
+    {
+      "product_number": "FX5-16EYR/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Outputs(Point): 16, Terminal shape: Terminal block",
+      "price": 368.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_64ab956f-e8a1-4dd6-9bc1-4f96881028dd_large.jpg?v=1751469839"
+    },
+    {
+      "product_number": "FX5-16EX/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 16, Terminal shape: Terminal block",
+      "price": 320.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e568f5e1-8a4e-4004-b751-7863f06783f0_large.jpg?v=1751469837"
+    },
+    {
+      "product_number": "FX5-16ET/ESS-H",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 8, Number Of Output Points(Point): 8, Terminal shape: Terminal block",
+      "price": 565.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_653d599d-dd9d-49c0-a282-03e54318bd83_large.jpg?v=1751469835"
+    },
+    {
+      "product_number": "FX5-16ET/ESS",
+      "description": "Mitsubishi Electric FX5; I/O Extension; 8 Inputs; 8 Transistor Outputs; source, Series: MELSEC IQ-F, Type: I/O COMBINED MODULE, Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 16, Integrated Digital Inputs: 8, Integrated Digital Outputs: 8, Output Type: TRANSISTOR, Output Logic: SOURCE",
+      "price": 436.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8d48a75c-5b47-4fbc-aa54-36655c721011_large.jpg?v=1751469834"
+    },
+    {
+      "product_number": "FX5-16ET/ES-H",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 8, Number Of Output Points(Point): 8, Terminal shape: Terminal block",
+      "price": 544.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9223ab54-3c61-40a7-a9e5-a77879846b17_large.jpg?v=1751469832"
+    },
+    {
+      "product_number": "FX5-16ET/ES",
+      "description": "Mitsubishi Electric FX5; I/O Extension; 8 Inputs; 8 Transistor Outputs; sink, Series: MELSEC IQ-F, Type: I/O COMBINED MODULE, Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 16, Integrated Digital Inputs: 8, Integrated Digital Outputs: 8, Output Type: TRANSISTOR, Output Logic: SINK",
+      "price": 419.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a6712ee1-9282-42b8-88b1-ccaa30af337f_large.jpg?v=1751469831"
+    },
+    {
+      "product_number": "FX5-16ER/ES",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX5U / FX5UC, Number Of Inputs(Point): 8, Number Of Output Points(Point): 8, Terminal shape: Terminal block",
+      "price": 419.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_da10a7ac-29cb-4095-9cab-85cf77e1ed52_large.jpg?v=1751469829"
+    },
+    {
+      "product_number": "FX3UC-4AD",
+      "description": "Mitsubishi Electric PLC Analog Units, Input, MELSEC-F Series, Type: Input, Input Type: Voltage / Current, Representative Standard: CE, Type of unit: Analog input block, Applicable sequencer: FX3UC, Number Of Input Channels(ch): 4, Voltage input range: -10 V to 10 V DC, Current input range: -20 to 20 mA DC / 4 to 20 mA DC",
+      "price": 608.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_afea1998-7359-4c7d-8cd9-898fa3811fdc_large.jpg?v=1751469828"
+    },
+    {
+      "product_number": "FX3UC-1PS-5V",
+      "description": "Mitsubishi Electric PLC Accessories, xtension Equipment Accessory, MELSEC-F Series, Application: For connecting a terminal block type expansion device to the FX3UC sequencer, and for additional power when the expansion power supply (5 V DC) is not enough, Type: Expansion Power Supply Unit, Other specifications: Use this unit when there is not enough internal power available to be supplied to the expansion blocks and special blocks/units used with the FX3UC basic unit. Can additionally be used as a conversion adapter when connecting FX0N/FX2N I/O expansion blocks or special blocks/units for FX0N/FX2N to FX3UC.",
+      "price": 346.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cb73a81a-71ac-492a-a381-9f318a0cde88_large.jpg?v=1751469826"
+    },
+    {
+      "product_number": "FX3U-USB-BD",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication RS-422/USB, Representative Standard: CE, Applicable sequencer: FX3U / FX3UC-32MT-LT(-2), Type of unit: Function expansion board for USB communication, External Device Connection Method: USB (MINI B plug, female), Transmitting speed: 9,600 bps / 19,200 bps / 38,400 bps / 57,600 bps / 115,200 bps",
+      "price": 202.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4dff52a3-ae1c-4922-8b78-8a628fbed703_large.jpg?v=1751469824"
+    },
+    {
+      "product_number": "FX3U-J1939",
+      "description": "Mitsubishi Electric PLC FX Series, FX3U 1939 communication Module, Series: MELSEC-F, Type: MASTER STATION, Network Interface: J1939",
+      "price": 652.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e05a8163-5dc7-467b-aa5d-e8ed8bdc26da_large.jpg?v=1751469823"
+    },
+    {
+      "product_number": "FX3U-FLROM-64L",
+      "description": "Mitsubishi Electric PLC Accessories, Memory Cassette, MELSEC-F Series, Memory Type: Flash Memory, Memory Capacity(Step): 64,000, Loader Function: Suitable, Note: Flash memory cassette (64,000 steps) with loader function for FX3U and FX3UC, no battery backup and with protection switch to prevent erroneous writing",
+      "price": 436.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ac02ea21-ed24-49bb-9011-bc5ab274e966_large.jpg?v=1751469821"
+    },
+    {
+      "product_number": "FX3U-FLROM-64",
+      "description": "Mitsubishi Electric PLC Accessories, Memory Cassette, MELSEC-F Series, Memory Type: Flash Memory, Memory Capacity(Step): 64,000, Note: Flash memory cassette (64,000 steps) with functions for FX3U and FX3UC, no battery backup and with protection switch to prevent erroneous writing",
+      "price": 389.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_41679a68-58c2-41e8-b3b6-e4b911ad08f7_large.jpg?v=1751469820"
+    },
+    {
+      "product_number": "FX3U-FLROM-1M",
+      "description": "Mitsubishi Electric PLC Accessories, Memory Cassette, MELSEC-F Series, Applicable series: FX3U / FX3UC, Memory Type: Flash Memory, Memory Capacity(Step): 64,000, Note: Flash memory cassette for FX3U, FX3UC. Writable with a sequencer, battery backup not required, with writing error prevention protection switch. Can store up to 1.3 MB or source information.",
+      "price": 395.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_62ee50db-aea5-4fa5-af43-509a6119a140_large.jpg?v=1751469818"
+    },
+    {
+      "product_number": "FX3U-FLROM-16",
+      "description": "Mitsubishi Electric PLC Accessories, Memory Cassette, MELSEC-F Series, Memory Type: Flash Memory, Memory Capacity(Step): 16,000, Note: Flash memory cassette (16,000 steps) for FX3U and FX3UC, no battery backup and with protection switch to prevent erroneous writing. * FX3UC-32MT-LT is compatible with 2.20 V and above",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1cb15164-0cde-4980-93c3-4171c60f386e_large.jpg?v=1751469816"
+    },
+    {
+      "product_number": "FX3U-ENET-P502",
+      "description": "Mitsubishi Electric PLC, FX3U Communication module for Ethernet 10/100MBit; RJ45, TCP/IP, MB-support, Series: MELSEC-F, Type: MASTER/LOCAL STATION, Network Interface: ETHERNET",
+      "price": 747.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_228a86d2-2662-42ab-95c8-cc57ec822848_large.jpg?v=1751469815"
+    },
+    {
+      "product_number": "FX3U-ENET-ADP",
+      "description": "Mitsubishi Electric PLC Communication Units, Ethernet Data Link, MELSEC-F Series, Communication Interface Transmission Standard: Ethernet, Connection Terminal: Connector, Representative Standard: CE / UL / CUL, Type of unit: Ethernet interface block, Communication speed(kbps): 100M/10 Mbps",
+      "price": 257.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_60b54b62-69e1-4982-908e-98afa1a7ca5c_large.jpg?v=1751469813"
+    },
+    {
+      "product_number": "FX3U-ENET",
+      "description": "Mitsubishi Electric PLC, FX3U Communication modul for Ethernet 10/100MBit; RJ45, TCP/IP, Series: MELSEC-F, Type: MASTER/LOCAL STATION, Network Interface: ETHERNET",
+      "price": 733.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5c3ea0f0-5b24-4764-85e9-1b59422d4b91_large.jpg?v=1751469811"
+    },
+    {
+      "product_number": "FX3U-CNV-BD",
+      "description": "Mitsubishi Electric PLC Accessories, Series Board for Special Connections, MELSEC-F Series, Application: Special adapter connection, Applicable series: FX3UC-32MT-LT(-2), Note: Function expansion board for connecting special adapters for FX3U and FX3UC-32MT-LT (-2) sequencers, allowing FX3U-‚ñ°‚ñ°‚ñ°ADP connector conversion",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f8aca089-55e7-48ee-bc36-249239b21613_large.jpg?v=1751469810"
+    },
+    {
+      "product_number": "FX3U-CF-ADP",
+      "description": "Mitsubishi Electric PLC, FX3U Data logger module; CF card slot; CSV file format, Series: MELSEC-F, Type: CF CARD SPECIAL ADAPTER, Compatible Device: FX3U, FX3UC",
+      "price": 1080.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_917caa02-90e8-4a15-a1a5-db854bcbf12e_large.jpg?v=1751469808"
+    },
+    {
+      "product_number": "FX3U-CAN",
+      "description": "Mitsubishi Electric PLC FX Series, FX3U CAN Module, Series: MELSEC-F, Type: NODE, Network Interface: CANOPEN",
+      "price": 652.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bbb2f9a0-e92f-4511-9003-0354f8e2da5f_large.jpg?v=1751469806"
+    },
+    {
+      "product_number": "FX3U-8AV-BD",
+      "description": "Mitsubishi Electric PLC Communication Units, Sequencer, 8-Point Analog Volume Function Extension Board, MELSEC-F Series, Communication Interface Transmission Standard: Other, Representative Standard: CE, Type of unit: 8-Point analog volume function extension board",
+      "price": 113.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2c2322c9-e1e4-4d60-ac21-bdc86bff8395_large.jpg?v=1751469805"
+    },
+    {
+      "product_number": "FX3U-7DM-HLD",
+      "description": "Mitsubishi Electric PLC, FX Series Panel Mounting Kit for FX3U-7DM incl. 1.5m cable, Series: MELSEC-F, Type: DISPLAY MODULE HOLDER, Compatible Device: FX3UC-32MT-LT(-2)",
+      "price": 140.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0ede7b2a-7d94-4301-aae8-9f1893e686cd_large.jpg?v=1751469803"
+    },
+    {
+      "product_number": "FX3U-7DM",
+      "description": "Mitsubishi Electric PLC, FX Series Display Unit, Series: MELSEC-F, Type: DISPLAY MODULE, Compatible Device: FX3U, FX3UC",
+      "price": 312.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_679267d6-988a-4569-934a-3099e9e579a9_large.jpg?v=1751469801"
+    },
+    {
+      "product_number": "FX3U-64DP-M",
+      "description": "Mitsubishi Electric PLC, FX3U Communication module for Profibus DP Master connection, Series: MELSEC-F, Type: MASTER STATION, Network Interface: PROFIBUS-DP",
+      "price": 1476.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d34c1308-8c22-4f49-ac7b-ec2105bd82ee_large.jpg?v=1751469800"
+    },
+    {
+      "product_number": "FX3U-64CCL",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication CC-Link, Representative Standard: CE / UL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC (Ver. 2.20 SER No.55**** Products manufactured in May 2005 or later) / FX5U / FX5UC, Type of unit: Intelligent device station for CC-Link, CC-Link version: Ver. 2.00, CC-Link version Ver. 2.00, Transmitting speed: 2.5 Mbps / 5 Mbps / 10 Mbps / 156 kbps / 625 kbps / Selectable (set with a rotary switch)",
+      "price": 585.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c3f5813c-5aca-44c3-9c3e-88df6a22081f_large.jpg?v=1751469798"
+    },
+    {
+      "product_number": "FX3U-4LC",
+      "description": "Mitsubishi Electric PLC Control Units, Temperature Sensor and Adjuster Unit, MELSEC-F Series, Type: Temperature Control, Type of unit: Temperature control block, Applicable sequencer: FX3U / FX3UC / FX5U / FX5UC, Rate temperature range (measured temperature resistance/Pt100)(‚ÑÉ): -200 to 600, Rate temperature range (measured temperature resistance/Jpt100)(‚ÑÉ): -200 to 500, Rate temperature range (measured temperature resistance/Pt1000)(‚ÑÉ): -200 to 650, Rated Temperature Range (K Type)(‚ÑÉ): -200 to 1,300, Rated Temperature Range (J Type)(‚ÑÉ): -200 to 1,200",
+      "price": 1126.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9ea64f47-be12-42ee-afee-1635a2b4002c_large.jpg?v=1751469797"
+    },
+    {
+      "product_number": "FX3U-4HSX-ADP",
+      "description": "Mitsubishi Electric PLC Control Units, Counter, High Speed, MELSEC-F Series, Type: Counter, Channel number(ch): 4, Count Input Format: Differential line receiver, Maximum Response Frequency (1 Phase, 1 Input): 200 kHz or less (according to the sequence program), Maximum Response Frequency (1 Phase, 2 Input): 200 kHz or less (according to the sequence program), Maximum Response Frequency (2 Phase Input): 100 kHz or less (according to sequence program)",
+      "price": 1002.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_12212965-b8c1-4273-9c4f-97e548307a44_large.jpg?v=1751469795"
+    },
+    {
+      "product_number": "FX3U-4DA-ADP",
+      "description": "Mitsubishi Electric PLC Analog Units, Output, MELSEC-F Series, Type: Output, Number of Output Channels: 4, D/A Conversion Time Speed: 100 to Less than 500 ŒºS, Terminal Shape:Terminal Block, Representative Standard: CE, Type of unit: Analog output adapter, Applicable sequencer: FX3S/FX3G/FX3GC/FX3U/FX3UC/FX3UC-32MT-LT (V1.20 or later), Number Of Output Channels: 4, Voltage output range: 0 to 10 V DC, Current output range: 4 to 20 mA DC",
+      "price": 685.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cf579ff5-f3cb-44eb-b0de-45964ba9e906_large.jpg?v=1751469794"
+    },
+    {
+      "product_number": "FX3U-4DA",
+      "description": "Mitsubishi Electric PLC Analog Units, Output, MELSEC-F Series, Type: Output, Number of Output Channels: 4, D/A Conversion Time Speed: Less than 1 to 10 mS, Terminal Shape: Connector, Representative Standard: CE, Type of unit: Analog output block, Applicable sequencer: FX3U (V2.20 or later)/FX3UC/FX3UC-32MT-LT(V1.30 or later)/FX5U/FX5UC, Number Of Output Channels: 4, Voltage output range: -10 to 10 V DC, Current output range: 0 to 20 mA DC / 4 to 20 mA DC",
+      "price": 848.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2b8ae612-c45e-4168-b136-4c404004e7f7_large.jpg?v=1751469792"
+    },
+    {
+      "product_number": "FX3U-4AD-TC-ADP",
+      "description": "Mitsubishi Electric PLC Control Units, Temperature Sensor and Adjuster Unit, MELSEC-F Series, Type: Temperature Control, Type of unit: Analog input adapter for thermocouple temperature sensor, Applicable sequencer: FX3G / FX3GC / FX3S / FX3U / FX3UC, Rated Temperature Range (K Type)(‚ÑÉ): -100 to 1,000, Rated Temperature Range (J Type)(‚ÑÉ): -100 to 600",
+      "price": 574.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4dd95642-68ea-472c-9d45-ae2f193f2314_large.jpg?v=1751469790"
+    },
+    {
+      "product_number": "FX3U-4AD-PTW-ADP",
+      "description": "Mitsubishi Electric PLC Control Units, Temperature Sensor and Adjuster Unit, MELSEC-F Series, Type: Temperature Control, Type of unit: Pt100 type temperature sensor analog input adapter, Applicable sequencer: FX3G / FX3GC / FX3S / FX3U / FX3UC, Rate temperature range (measured temperature resistance/Pt100)(‚ÑÉ): -100 to 600",
+      "price": 585.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2891d529-640a-421d-882b-d6a0a477c850_large.jpg?v=1751469788"
+    },
+    {
+      "product_number": "FX3U-4AD-PT-ADP",
+      "description": "Mitsubishi Electric PLC Control Units, Temperature Sensor and Adjuster Unit, MELSEC-F Series, Type: Temperature Control, Type of unit: Pt100 type temperature sensor analog input adapter, Applicable sequencer: FX3G / FX3GC / FX3S / FX3U / FX3UC, Rate temperature range (measured temperature resistance/Pt100)(‚ÑÉ): -50 to 250",
+      "price": 585.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_be90ed13-7281-4847-8655-ab913804f91c_large.jpg?v=1751469787"
+    },
+    {
+      "product_number": "FX3U-4AD-PNK-ADP",
+      "description": "Mitsubishi Electric SPS, FX3U Analog input module for Pt1000/Ni1000 elements; 4 Pt1000/Ni1000 inputs, Series :MELSEC-F, Type: FX3U, Power Supply (V): 24, Current Type: DC, Integrated Analogue Inputs: 4, Input Type: RTD, Applicable RTD Type: PT1000,NI1000",
+      "price": 585.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5517c4d9-235b-4e06-86d3-fea2ad9eb1ce_large.jpg?v=1751469785"
+    },
+    {
+      "product_number": "FX3U-4AD-ADP",
+      "description": "Mitsubishi Electric PLC Analog Units, Input, MELSEC-F Series, Type: Input, Input Type: Voltage / Current, Representative Standard: CE, Type of unit: Analog input Adapter, Applicable sequencer:FX3S/FX3G/FX3U/FX3GC/FX3UC, Number Of Input Channels(ch): 4, Voltage input range: 0 to 10 V DC, Current input range:4 to 20 mA DC",
+      "price": 488.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_67d2c93c-e36f-4e12-8b26-9efb90093898_large.jpg?v=1751469783"
+    },
+    {
+      "product_number": "FX3U-4AD",
+      "description": "Mitsubishi Electric PLC Analog Units, Input, MELSEC-F Series, Type: Input, Input Type: Voltage / Current, Representative Standard: CE, Type of unit: Analog input block, Applicable sequencer: FX5U/FX5UC/FX3U/FX3UC, Number Of Input Channels(ch): 4, Voltage input range: -10 to 10 V DC, Current input range: -20 to 20 mA DC / 4 to 20 mA DC",
+      "price": 579.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7b17258b-b8fe-4660-a0fd-907c740dc9d2_large.jpg?v=1751469781"
+    },
+    {
+      "product_number": "FX3U-485ADP-MB",
+      "description": "Mitsubishi Electric PLC Communication Units, RS-232C Special Communication Adapter, MELSEC-F Series, Communication Interface Transmission Standard: RS-232/485, Connection Terminal: Terminal block, Representative Standard: CE / UL / CUL, Type of unit: RS-485 communication (MODBUS compatible)",
+      "price": 356.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5b2f48de-df55-4809-983f-efbf2081092c_large.jpg?v=1751469780"
+    },
+    {
+      "product_number": "FX3U-485-BD",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication RS-485, Representative Standard: CE, Applicable sequencer: FX3U / FX3UC-32MT-LT(-2), Type of unit: RS-485 communication function expansion board, External Device Connection Method: European Terminal Block, Computer Link- Non-Procedural Communication Speed(bps): 1,200 / 2,400 / 4,800 / 9,600 / 19,200 / 300 / 600, Parallel Link Communication Speed(bps): 115,200, Simple PC Link Communication Speed(bps): 38,400 Inverter Communication Speed(bps): 4,800 / 9,600 / 19,200",
+      "price": 113.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1ed93918-a147-46a9-a820-962940dfbbdd_large.jpg?v=1751469778"
+    },
+    {
+      "product_number": "FX3U-422-BD",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication RS-422/USB, Representative Standard: CE, Applicable sequencer: FX3U / FX3UC-32MT-LT(-2), Type of unit: Expansion function board for RS-422 communication, External Device Connection Method: MINI DIN 8 pin (female), Transmitting speed: 9,600 bps / 19,200 bps / 38,400 bps / 57,600 bps / 115,200 bps",
+      "price": 113.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_daa379ee-e184-4953-9179-3d09358f917d_large.jpg?v=1751469776"
+    },
+    {
+      "product_number": "FX3U-3A-ADP",
+      "description": "Mitsubishi Electric PLC IO Units, Analog Input/Output, MELSEC-F Series, Representative Standard: CE, Type of unit: Analog input/output adopter, Applicable sequencer: FX3G / FX3GC / FX3S / FX3U / FX3UC, Voltage input range(V): 0 to 10 V DC, Current input range(mA): DC4 to 20 mA, Voltage output range: 0 to 10 V DC, Current output range: 4 to 20 mA DC",
+      "price": 444.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_baeb7c98-9c46-4812-b0ed-a721e0e56219_large.jpg?v=1751469775"
+    },
+    {
+      "product_number": "FX3U-32DP",
+      "description": "Mitsubishi Electric PLC FX3U PROFIBUS Module; Slave-Station (DP), Series: MELSEC-F, Type: LOCAL STATION, Network Interface: PROFIBUS-DP",
+      "price": 871.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0060ad36-4361-432a-bcd8-396c21795e0c_large.jpg?v=1751469773"
+    },
+    {
+      "product_number": "FX3U-32BL",
+      "description": "Mitsubishi Electric PLC Compatible Battery, MELSEC-F Series Battery for Memory Backup, Application: FX3G / FX3GC / FX3U / FX3UC / FX5U / FX5UC, Applicable Series: For memory backup, Note: Memory backup battery for FX5U, FX5UC, FX3G, FX3U, FX3GC or FX3UC. Expected lifespan of 5 years. Can also be used as a backup battery for IU2-3M10 or IU2-1EMES of MELQIC (data collection analyzer).",
+      "price": 70.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ed1e488e-9619-4608-8afe-ae65d12849a4_large.jpg?v=1751469771"
+    },
+    {
+      "product_number": "FX3U-2HSY-ADP",
+      "description": "Mitsubishi Electric PLC Motion Controllers, Position Control Unit, Pulse Outputs, MELSEC-F Series, Number of Controlled Axes: Independent 2 axes, Applicable sequencer: FX3U, Single Control Unit: pulse, Number Of Controlled Axes(Axis): Independent 2 axes, Pulse Output System: Differential Line Driver",
+      "price": 1136.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0689beae-198a-412a-8ca2-9f7863382e47_large.jpg?v=1751469770"
+    },
+    {
+      "product_number": "FX3U-2HC",
+      "description": "Mitsubishi Electric PLC Control Units, Counter, High Speed, MELSEC-F Series, Type: Counter, Channel number(ch): 2, Count Input Format: Open collector, differential line driver, Maximum Response Frequency (1 Phase, 1 Input): 200 kHz or less, Maximum Response Frequency (1 Phase, 2 Input): 200 kHz or less, Maximum Response Frequency (2 Phase Input): 50 kHz or less (multiplication by 4) / 100 kHz or less (multiplication by 2) / 200 kHz or less (multiplication by 1)",
+      "price": 1041.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a8a10d2f-fde7-48fe-a573-5a53454b7ca6_large.jpg?v=1751469768"
+    },
+    {
+      "product_number": "FX3U-232ADP-MB",
+      "description": "Mitsubishi Electric PLC Communication Units, RS-232C Special Communication Adapter, MELSEC-F Series, Communication Interface Transmission Standard: RS-232, Representative Standard: CE / UL / CUL, Type of unit: RS-232C special adapter for communication (MODBUS compatible)",
+      "price": 252.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f2a7a17e-dc42-4946-8d26-82be9ab95af5_large.jpg?v=1751469766"
+    },
+    {
+      "product_number": "FX3U-232-BD",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication RS-232C, Representative Standard: CE, Applicable sequencer: FX3U / FX3UC-32MT-LT(-2), Type of unit: Function expansion board for RS-232C communication, External Device Connection Method: D-Sub 9 pin (male), Computer Link -Non-Procedural Communication Speed(bps): 1,200 / 2,400 / 4,800 / 9,600 / 19,200 / 300 / 600, Programming Communication Speed(bps): 9,600 / 19,200 / 38,400 / 57,600 / 115,200",
+      "price": 113.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9084e91c-edd1-4f88-9104-7a8bd2d6041c_large.jpg?v=1751469765"
+    },
+    {
+      "product_number": "FX3U-1PSU-5V",
+      "description": "Mitsubishi Electric PLC Accessories, Extension Equipment Accessory, MELSEC-F Series, Application: For additional power when expansion power supply (5 V DC) is not enough, Applicable series: FX3G, Type: Expansion Power Supply Unit",
+      "price": 268.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a28b1c1a-c958-4c98-8d64-644b14e1a6de_large.jpg?v=1751469763"
+    },
+    {
+      "product_number": "FX3U-1PG",
+      "description": "Mitsubishi Electric PLC FX Series, FX3U 1 axis positioning module, Series MELSEC-F, Type: FX3U, Number of Axes: 1",
+      "price": 708.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_abc5c80d-0878-4f1d-a630-ab86737371fc_large.jpg?v=1751469761"
+    },
+    {
+      "product_number": "FX3U-16CCL-M",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication CC-Link, Representative Standard: CE / UL, Applicable sequencer: FX3G / FX3GC / FX3U (Ver. 2.20 or later) / FX3UC (Ver. 2.20 or later) / FX5U / FX5UC, Type of unit: CC-Link master station, CC-Link version: Ver. 2.00, Transmitting speed: 2.5 Mbps / 5 Mbps / 10 Mbps / 156 kbps / 625 kbps / Selectable (set with a rotary switch)",
+      "price": 541.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4c9f7694-d250-4c80-8fdd-2351e3bde17f_large.jpg?v=1751469760"
+    },
+    {
+      "product_number": "FX3U-128ASL-M",
+      "description": "Mitsubishi Electric PLC, FX3U Communication module ASLINK Master, Series: MELSEC-F, Type: MASTER STATION, Network Interface: ANYWIREASLINK",
+      "price": 1186.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f7268961-1a2f-47e2-ba53-c1e4baa822f5_large.jpg?v=1751469758"
+    },
+    {
+      "product_number": "FX3S-CNV-ADP",
+      "description": "Mitsubishi Electric PLC Accessories, Adapter for Special Connections, MELSEC-F Series, Application: Conversion adapter for connecting special adapters, Applicable series: FX3S, Other specifications: Conversion adapter for connecting the FX3S sequencer with the FX3 series special analog adapter, special communications adapter, etc.",
+      "price": 62.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4631e9b1-e963-4486-b209-06dd5a09551c_large.jpg?v=1751469756"
+    },
+    {
+      "product_number": "FX3S-5DM",
+      "description": "Mitsubishi Electric PLC Touch Panel, FX3 Series Display Module, Mounting type: Other, Monitor Screen: STN, Color Display: Monochrome (white/black), Ladder editing function: None, Language switching function: Present, Representative Standard: CE, Applicable series: FX3S, Other specifications: Uses an LED backlight",
+      "price": 115.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6ba7b171-c76e-4064-ba92-75d9f8decd06_large.jpg?v=1751469755"
+    },
+    {
+      "product_number": "FX3G-EEPROM-32L",
+      "description": "Mitsubishi Electric PLC Accessories, Memory Cassette, MELSEC-F Series, Applicable series: FX3G, Memory Type: EEPROM, Memory Capacity(Step): 32,000 Loader Function: Suitable",
+      "price": 151.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_46d42d0d-7065-448b-bbb4-b28aac89b0d0_large.jpg?v=1751469753"
+    },
+    {
+      "product_number": "FX3G-CNV-ADP",
+      "description": "Mitsubishi Electric PLC Accessories, Adapter for Special Connections, MELSEC-F Series, Application: Special adapter connection, Applicable series: FX3G, Cover color: Top cover- Munsell N1.5, Weight(kg): 0.1",
+      "price": 84.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e537272a-ce9f-409c-9087-22ee5322136d_large.jpg?v=1751469752"
+    },
+    {
+      "product_number": "FX3G-8AV-BD",
+      "description": "Mitsubishi Electric PLC FX3G Analog setpoint adapter for 8 setpoint values, Series MELSEC-F, Type: EXPANSION BOARD, Compatible Device: FX3G, FX3S",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_86556712-9a63-4f86-8c9a-13ab3d22305f_large.jpg?v=1751469750"
+    },
+    {
+      "product_number": "FX3G-5DM",
+      "description": "Mitsubishi Electric PLC Touch Panel, FX3 Series Display Module, Mounting type: Other, Monitor Screen: STN, Color Display: Monochrome (white/black), Ladder editing function: None, Language switching function: Present, Applicable series: FX3G",
+      "price": 113.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a7d01d10-36e0-49d3-bb5e-7f2b749165a2_large.jpg?v=1751469748"
+    },
+    {
+      "product_number": "FX3G-4EX-BD",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input Expansion Board, MELSEC-F Serie, Rated Input Voltage(V): DC24V, Representative Standard: CE, Applicable sequencer: FX3G / FX3S, Number Of Inputs(Point): 4, Type of unit: Input",
+      "price": 113.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1b3d7bd9-aa93-4293-90c2-f758056ab4c7_large.jpg?v=1751469747"
+    },
+    {
+      "product_number": "FX3G-485-BD-RJ",
+      "description": "Mitsubishi Electric PLC Communication Units, Data Link/Communication RS-422/USB, MELSEC-F Series, Communication Interface Transmission Standard: RS-422/485, Representative Standard: CE, Type of unit: RS-485 communication function expansion board RJ45",
+      "price": 87.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f167d9ea-9f67-4bf9-8b10-a65266edffd4_large.jpg?v=1751469745"
+    },
+    {
+      "product_number": "FX3G-485-BD",
+      "description": "Mitsubishi Electric PLC Communication Units, Data Link/Communication RS-422/USB, MELSEC-F Series, Communication Interface Transmission Standard: RS-422/485, Representative Standard: CE, Type of unit: RS-485 communication function expansion Interface board",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c4eda664-ac95-4b9b-8ac3-c1d7fc3bea04_large.jpg?v=1751469743"
+    },
+    {
+      "product_number": "FX3G-422-BD",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication RS-422/USB, Representative Standard: CE, Applicable sequencer: FX3G / FX3S, Type of unit: Expansion function board for RS-422 communication, External Device Connection Method: MINI DIN 8 pin (female), Transmitting speed: 9,600 bps / 19,200 bps / 38,400 bps / 57,600 bps / 115,200 bps",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_818b5145-d382-4e92-b60e-c8e54b2fc8dd_large.jpg?v=1751469741"
+    },
+    {
+      "product_number": "FX3G-2EYT-BD",
+      "description": "Mitsubishi Electric PLC IO Units, Input, Series Input Expansion Board, MELSEC-F Series, Number of Outputs: 2, Output Format: Other, Representative Standard: CE, Feature: Transistor output (sink/source), Applicable sequencer: FX3G / FX3S, Number Of Output Points(Point): 2, Type of unit: Output",
+      "price": 110.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7f65314d-cf80-4b1e-877b-7ca582d08030_large.jpg?v=1751469739"
+    },
+    {
+      "product_number": "FX3G-2AD-BD",
+      "description": "Mitsubishi Electric PLC Analog Units, Input, MELSEC-F Series, Type: Input, Input Type: Voltage / Current, Representative Standard: CE, Type of unit: Analog input board, Applicable sequencer: FX3S/FX3G, Number Of Input Channels(ch): 2, Voltage input range: 0 to 10 V DC, Current input range: 4 to 20 mA DC",
+      "price": 179.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c5d1093a-bc34-4de2-a06f-fd352fe45228_large.jpg?v=1751469738"
+    },
+    {
+      "product_number": "FX3G-232-BD",
+      "description": "Mitsubishi Electric MELSEC-F Series Data Link and Communication RS-232C, Representative Standard: CE, Applicable sequencer: FX3G / FX3S, Type of unit: Function expansion board for RS-232C communication, External Device Connection Method: D-Sub 9 pin (male), Computer Link, Non-Procedural Communication Speed(bps): 1,200 / 2,400 / 4,800 / 9,600 / 19,200 / 38,400 / 300 / 600, Programming Communication Speed(bps): 9,600 / 19,200 / 38,400 / 57,600 / 115,200",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ba34821f-71e2-4bf0-a1b1-31cb18c27400_large.jpg?v=1751469736"
+    },
+    {
+      "product_number": "FX3G-1DA-BD",
+      "description": "Mitsubishi Electric PLC Analog Units, Output, MELSEC-F Series, Type: Outpur, Number of Output Channels: 1, D/A Conversion Time Speed: 10 to Less than 100 ŒºS, Terminal Shape: Terminal Block, Representative Standard: CE, Type of unit: Analog output board, Applicable sequencer: FX3S/FX3G (V1.10 or later), Number Of Output Channels: 1, Voltage output range 0 to 10 V DC, Current output range: 4 to 20 mA DC",
+      "price": 183.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_795f2830-db3b-4c21-960a-ec5a8faa834e_large.jpg?v=1751469734"
+    },
+    {
+      "product_number": "FX2NC-CNV-IF",
+      "description": "Mitsubishi Electric PLC Accessories, Conversion Adapter, Connector, MELSEC-F Series, Application: For terminal block-type expansion equipment connection with FX1NC, FX3GC, FX2NC, and FX3UC PLCs",
+      "price": 104.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ccaa458f-e4a1-4ff5-8ae0-a031fab096cb_large.jpg?v=1751469733"
+    },
+    {
+      "product_number": "FX2NC-32EYT-DSS",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Unit, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Feature:Output expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: Connector",
+      "price": 470.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_df325d3c-4171-458f-bb37-3dd05eb9e652_large.jpg?v=1751469731"
+    },
+    {
+      "product_number": "FX2NC-32EYT-D/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Unit, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Feature: Output expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: Connector, Mounting: DIN rail mountable, UL Certification: Listed",
+      "price": 470.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1cd971e3-781b-4eae-aa50-fe94d609ee14_large.jpg?v=1751469729"
+    },
+    {
+      "product_number": "FX2NC-32EX-DS",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Unit, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Feature: Input expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: Connector",
+      "price": 470.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_76e27602-f8ba-4e4a-8242-6e6e11b9a361_large.jpg?v=1751469727"
+    },
+    {
+      "product_number": "FX2NC-32EX-D/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 32, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3GC / FX3UC, Number Of Inputs(Point): 32",
+      "price": 470.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_089e5042-5104-4f37-a763-cea6288128f9_large.jpg?v=1751469726"
+    },
+    {
+      "product_number": "FX2NC-32EX",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 32, Rated Input Voltage(V): DC24V(J), Representative Standard: CE / UL / CUL, Applicable sequencer: FX3GC / FX3UC, Number Of Inputs(Point): 32",
+      "price": 520.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_01607507-77dd-4eb7-94ef-210e56b8ad69_large.jpg?v=1751469724"
+    },
+    {
+      "product_number": "FX2NC-10BPCB1",
+      "description": "Mitsubishi Electric PLC Accessories, Power Supply Cable for MELSEC-F Series Expansion Input Block, Application: Input power supply cable for expansion equipment (connector type), Cable Length(m): 0.1",
+      "price": 32.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_86b65e92-bf41-437a-b14c-d40a98143ae8_large.jpg?v=1751469705"
+    },
+    {
+      "product_number": "FX2NC-32BL",
+      "description": "Mitsubishi Electric PLC PLC Compatible Battery, MELSEC-F Series Battery for Memory Backup, Application: FX2NC/FX2N-20GM, Applicable Series: For memory backup, battery life estimate: 3 years",
+      "price": 49.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_984ab6a5-f93f-4fbd-86e7-45ba24acfa85_large.jpg?v=1751469723"
+    },
+    {
+      "product_number": "FX2NC-16EYT-DSS",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Unit, MELSEC-F Series, Output Format Transistor/Sync Output, Representative Standard: CE / UL / CUL, Feature: Output expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: Connector",
+      "price": 300.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_79d07fc7-3992-48b1-a3e1-58ee1308c142_large.jpg?v=1751469721"
+    },
+    {
+      "product_number": "FX2NC-16EYT-D/UL",
+      "description": "Mitsubishi Electric PLC FX2NC Modular extension unit, MELSEC-F Series, Number of Inputs: 16, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3GC / FX3UC, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Number Of Output Points(Point): 16",
+      "price": 300.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8a252300-6a95-4a26-8893-b726600bec7f_large.jpg?v=1751469720"
+    },
+    {
+      "product_number": "FX2NC-16EYT",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 16, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3GC / FX3UC, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Number Of Output Points(Point): 16, Mounting: DIN rail mountable, UL Certification: Listed",
+      "price": 326.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7e10685a-3ccb-40bb-9463-26c039e77035_large.jpg?v=1751469718"
+    },
+    {
+      "product_number": "FX2NC-16EYR-T-DS",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Units, MELSEC-F Series, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Feature: Output expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: European terminal block",
+      "price": 300.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_48a4f75f-dcd4-475b-a03d-71c034074563_large.jpg?v=1751469716"
+    },
+    {
+      "product_number": "FX2NC-16EX-T-DS",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Feature: Input expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: European terminal block",
+      "price": 300.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b4280dbd-76fb-4a8c-9723-9c45d8bbea78_large.jpg?v=1751469714"
+    },
+    {
+      "product_number": "FX2NC-16EX-T",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Feature: Input expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal Type: Japanese standard screw terminal block",
+      "price": 308.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_aef6d518-af61-43f8-8de9-3baf51fbbb78_large.jpg?v=1751469712"
+    },
+    {
+      "product_number": "FX2NC-16EX-DS",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Feature: Input expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: Connector",
+      "price": 300.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_eb136b62-2e48-430f-9703-0fcaf6696183_large.jpg?v=1751469711"
+    },
+    {
+      "product_number": "FX2NC-16EX-D/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Feature: Input expansion block, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: Connector, Mounting: DIN rail mountable, UL Certification: Listed",
+      "price": 300.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_04c7307b-db29-4106-91ec-e20838ed2ce8_large.jpg?v=1751469709"
+    },
+    {
+      "product_number": "FX2NC-16EX",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 16, Rated Input Voltage(V): DC24V, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Applicable sequencer: FX1NC / FX2NC / FX3GC / FX3UC, Terminal shape: Connector",
+      "price": 326.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f2113bd9-96ea-4ff5-a1c0-f06e535c27ee_large.jpg?v=1751469707"
+    },
+    {
+      "product_number": "FX2NC-100MPCB",
+      "description": "Mitsubishi Electric PLC Accessories, Power Supply Cable, MELSEC-F Series, Application: connector type power supply cable, Cable Length(m): 1",
+      "price": 32.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ff3f337d-3748-4eed-b2e9-9e8469b7a0f3_large.jpg?v=1751469704"
+    },
+    {
+      "product_number": "FX2NC-100BPCB",
+      "description": "Mitsubishi Electric PLC Accessories, Power Supply Cable for MELSEC-F Series Expansion Input Block, Cable Length(m): 1",
+      "price": 32.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0b1fcb1b-4262-49da-a106-899f9cff6024_large.jpg?v=1751469702"
+    },
+    {
+      "product_number": "FX2N-CNV-BC",
+      "description": "Mitsubishi Electric PLC Accessories, Conversion Adapter, Connector, MELSEC-F Series, Application: Extension Adapter for FX0N and FX2 Expansion Blocks",
+      "price": 106.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f28413d9-9da0-408a-b82b-03752701cba1_large.jpg?v=1751469701"
+    },
+    {
+      "product_number": "FX2N-8EYT-H",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Outputs: 8, Output Format: Transistor/Sync Output, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Inputs(Point): 8",
+      "price": 252.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_03eb0469-b741-473a-8e95-a68276b3ae66_large.jpg?v=1751469699"
+    },
+    {
+      "product_number": "FX2N-8EYT-ESS/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Series Input/Output Expansion Units, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Output Points(Point): 8, Type of unit: Output",
+      "price": 252.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ed908a0a-ee5e-4049-b34a-0f2343a393b0_large.jpg?v=1751469697"
+    },
+    {
+      "product_number": "FX2N-8EYT",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Outputs: 8, Output Format: Transistor/Sync Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Inputs(Point): 8",
+      "price": 248.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fd241a2a-5f53-4846-8273-43c6ef1009ae_large.jpg?v=1751469696"
+    },
+    {
+      "product_number": "FX2N-8EYR-S-ES/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Outputs: 8, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3UC, Number Of Inputs(Point): 8",
+      "price": 252.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a4df3d6f-9a98-4c6e-9674-0f00e0745446_large.jpg?v=1751469694"
+    },
+    {
+      "product_number": "FX2N-8EYR-ES/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC,Number Of Output Points(Point): 8, Type of unit: Output",
+      "price": 248.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4f344dee-bcae-42ff-801f-8d81356c1e16_large.jpg?v=1751469692"
+    },
+    {
+      "product_number": "FX2N-8EX-UA1/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 8, Rated Input Voltage(V): AC100V, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Inputs(Point): 8",
+      "price": 240.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_58617295-3f0a-4dad-a2c9-76b7d5937b73_large.jpg?v=1751469691"
+    },
+    {
+      "product_number": "FX2N-8EX-ES/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Inputs(Point): 8, Type of unit: Input",
+      "price": 238.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5b3c3241-b8df-495c-90e4-d60538664288_large.jpg?v=1751469689"
+    },
+    {
+      "product_number": "FX2N-8ER-ES/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Number of Outputs: 24, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Inputs(Point): 4, Number Of Output Points(Point): 4, Type of unit: Input/output",
+      "price": 258.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fbe9589e-e94f-4754-b64c-09c1c592e28c_large.jpg?v=1751469687"
+    },
+    {
+      "product_number": "FX2N-8AD",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Representative Standard: CE / UL / CUL, Applicable sequencer FX3U / FX3UC, Number Of Input Channels(ch): 8",
+      "price": 1220.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_871a10ea-6315-4aaa-b3b4-f4780360b4aa_large.jpg?v=1751469686"
+    },
+    {
+      "product_number": "FX2N-64DNET",
+      "description": "Mitsubishi Electric PLC Device Net slave interface - Mitsubishi Electric (MELSEC-F - FX2N series) - with Device Net communication capability - equivalent to FX2N64DNET",
+      "price": 452.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1d726c6b-f33b-4755-9806-4656e2e26d96_large.jpg?v=1751469684"
+    },
+    {
+      "product_number": "FX2N-64CL-M",
+      "description": "Mitsubishi Electric CC-Link/LT System Master Block, MELSEC-F Series, Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: CC-Link/LT system master block, Communication speed(kbps): 2.5 Mbps/625 kbps/156 kbps",
+      "price": 526.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f879fc1b-b5e6-4384-849a-c706daa4d167_large.jpg?v=1751469682"
+    },
+    {
+      "product_number": "FX2N-5A",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Representative Standard: CE / UL / CUL, Feature: Analog input/output combined, Number Of Input Channels(ch): 4, Number Of Output Channels(ch): 1",
+      "price": 765.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_29aede7f-d0d1-4293-9ba8-518431c69453_large.jpg?v=1751469681"
+    },
+    {
+      "product_number": "FX2N-48ET-ESS/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Number of Outputs: 24, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Type of unit: Input/output",
+      "price": 1153.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2b11c9a8-5f3a-46ff-82df-6ceece7f9baf_large.jpg?v=1751469679"
+    },
+    {
+      "product_number": "FX2N-48ET-DSS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Number of Outputs: 24, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Type of unit: Input/output",
+      "price": 1124.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f323270d-7c55-4920-ac20-87c3bea0a58e_large.jpg?v=1751469677"
+    },
+    {
+      "product_number": "FX2N-48ET",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 24, Rated Input Voltage(V): DC24V, Number of Outputs: 24, Output Format: Transistor/Sync Output, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24",
+      "price": 1270.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1d6b1e3e-3fa8-463c-b5bc-44ebf16ecf83_large.jpg?v=1751469676"
+    },
+    {
+      "product_number": "FX2N-48ER-UA1/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 24, Rated Input Voltage(V): DC100V, Number of Outputs: 24, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24",
+      "price": 1120.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8442747d-f4a3-4c57-b371-cee1d5f6536a_large.jpg?v=1751469674"
+    },
+    {
+      "product_number": "FX2N-48ER-ES/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Number of Outputs: 24, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Type of unit: Input/output",
+      "price": 1103.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7d316e67-fb81-4dbe-9ac0-84e96d87dd4d_large.jpg?v=1751469672"
+    },
+    {
+      "product_number": "FX2N-48ER-DS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Number of Outputs: 24, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Type of unit: Input/output",
+      "price": 1103.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7e074363-06e1-4f27-8218-513cee491908_large.jpg?v=1751469670"
+    },
+    {
+      "product_number": "FX2N-32ET-ESS/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Units, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Type of unit: Input/output",
+      "price": 807.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_caf6ef48-9238-4516-8c83-ece84ab1b5ec_large.jpg?v=1751469669"
+    },
+    {
+      "product_number": "FX2N-32ET",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs: 16, Rated Input Voltage(V): DC24V, Number of Outputs: 16, Output Format: Transistor/Sync Output, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16",
+      "price": 880.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5fe9f4cd-b504-4661-98ed-355eab0bcc00_large.jpg?v=1751469667"
+    },
+    {
+      "product_number": "FX2N-32ER-ES/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Unit, MELSEC-F Series, Rated Input Voltage(V): DC24V, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3U, Number Of Inputs(Point): 16, Number Of Output Points(Point): 16, Type of unit: Input/Output",
+      "price": 807.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e57f6114-8fcd-45f9-a596-d715a8876032_large.jpg?v=1751469665"
+    },
+    {
+      "product_number": "FX2N-32CCL",
+      "description": "Mitsubishi Electric Data Link and Communication CC-Link, MELSEC-F Series, Representative Standard: CE, Type of unit: CC-Link remote device station, CC-Link version: Ver. 1.00, Applicable sequencer: FX1N/ FX1NC/ FX2N/ FX2NC/ FX3G/FX3GC/ FX3U /FX3UC",
+      "price": 557.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_58223ab3-d041-4b65-9d6a-3679c13533ff_large.jpg?v=1751469664"
+    },
+    {
+      "product_number": "FX2N-2DA",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number Of Output Channels: 2, Voltage output range: DC0 to 10/DC0 to 5V, Current output range: DC4 to 20 mA, Type of unit: Output",
+      "price": 385.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cdea2405-4bf2-46ce-993c-daa5718ec49e_large.jpg?v=1751469662"
+    },
+    {
+      "product_number": "FX2N-2AD",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Representative Standard: CE / UL / CUL, Feature: Analog input, Number Of Input Channels(ch): 2",
+      "price": 407.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fe5a3d07-80f5-4409-a312-a2ae47f23f29_large.jpg?v=1751469660"
+    },
+    {
+      "product_number": "FX2N-232IF",
+      "description": "Mitsubishi Electric PLC Communication Units, RS-232C Interface Block, MELSEC-F Series, Communication Interface Transmission Standard: RS-232, Representative Standard: CE, Type of unit: Output.",
+      "price": 691.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2da7c090-73af-4e87-ba25-cc3cc10583c8_large.jpg?v=1751469659"
+    },
+    {
+      "product_number": "FX2N-16EYT-ESS/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Unit, MELSEC-F Series, Output Format: Transistor/Source Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Output Points(Point): 16, Type of unit: Output.",
+      "price": 479.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f19ec532-0443-4f94-92b2-e6ed21d835a0_large.jpg?v=1751469657"
+    },
+    {
+      "product_number": "FX2N-16EYT",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number Of Outputs: 16, Output Format: Transistor/Sync Output, Applicable sequencer: FX1N / FX1NC / FX2N / FX2NC / FX3G / FX3GC / FX3U / FX3UC, Terminal shape: Vertical type terminal block",
+      "price": 518.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a94f5dfb-b569-40f7-8005-af73d031cea6_large.jpg?v=1751469655"
+    },
+    {
+      "product_number": "FX2N-16EYS",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number Of Outputs: 16, Output Format: Triac Output, Representative Standard: CE / UL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Output Points(Point): 16",
+      "price": 552.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_545dfcd6-3bb2-4775-8191-ba82cfb9fb83_large.jpg?v=1751469654"
+    },
+    {
+      "product_number": "FX2N-16EYR-ES/UL",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Unit, MELSEC-F Series, Output Format: Relay Contact Output, Representative Standard: CE / UL / CUL, Applicable sequencer: FX3G / FX3GC / FX3U / FX3UC, Number Of Output Points(Point): 16, Type of unit: Output",
+      "price": 412.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_53fa6a03-9d63-49a0-a1e6-d531ee59bc1b_large.jpg?v=1751469652"
+    },
+    {
+      "product_number": "FX2N-16EX-ES/UL",
+      "description": "Mitsubishi Electric PLC, FX2N Modular extension unit; 16 inputs 24 VDC; sink/source, Series: MELSEC-F SERIES Type: FX2N, Occupied I/O Points on PLC: 16, Integrated Digital Inputs: 16",
+      "price": 357.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5ca22423-24a9-4e47-9c2e-bd7914958621_large.jpg?v=1751469651"
+    },
+    {
+      "product_number": "FX2N-16EX",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Expansion Block, MELSEC-F Series, Number of Inputs 16, Rated Input Voltage(V): DC24V, Number of Outputs N, Applicable sequencer: FX1N / FX1NC / FX2N / FX2NC / FX3G / FX3GC / FX3U / FX3UC",
+      "price": 507.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ec87ef91-af75-40fe-9535-c375eea1f4e6_large.jpg?v=1751469649"
+    },
+    {
+      "product_number": "FX2C-I/O-CON-S",
+      "description": "Mitsubishi Electric Rectangular Connectors, MELSEC-F Series, Connector Shape: Square shape, Connector Series First Letter: MNO, Series Initials M/N/O: MELSEC-F, Compatible Pin/Contact: Female (Socket), Application: Cable Connection, Wire Connection Method: Crimp, Applicable series: FX1N / FX1NC / FX2N / FX2NC / FX3G / FX3U / FX3UC, Applicable cable: For discrete wires, Compatible Wire Size 0.3 mm2 (AWG22)",
+      "price": 104.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_787468f2-5553-4786-9715-984d64a6a217_large.jpg?v=1751469648"
+    },
+    {
+      "product_number": "FX2C-I/O-CON",
+      "description": "Mitsubishi Electric Rectangular Connectors, MELSEC-F Series, Connector Shape: Square shape, Connector Series First Letter: MNO, Series Initials M/N/O: MELSEC-F, Compatible Pin/Contact: Female (Socket), Application: Cable Connection, Wire Connection Method: Crimp, Applicable series: FX1N / FX1NC / FX2N / FX2NC / FX3G / FX3U / FX3UC, Applicable cable: For ribbon cables, Compatible Wire Size 0.1 mm2 (AWG28)",
+      "price": 83.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2bfab123-85e8-46a8-a9aa-b493daf9b6bb_large.jpg?v=1751469646"
+    },
+    {
+      "product_number": "FX1N-BAT",
+      "description": "Mitsubishi PLC Compatible Battery, MELSEC-F Series, Application: FX1N, Applicable series: For keep memory backup",
+      "price": 134.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9b8a871d-80cc-427d-90de-ced4e31066a9_large.jpg?v=1751469644"
+    },
+    {
+      "product_number": "FX-USB-AW",
+      "description": "Mitsubishi PLC Accessories Converter for PC, MELSEC-F Series, Applicable series: FX1N / FX1NC / FX1S / FX2N / FX2NC, Connector 1: Mini DIN 8-pin, male, Connector 2: USB mini B plug, female",
+      "price": 363.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f55ce44b-6c3e-4b4d-b450-5af168661aea_large.jpg?v=1751469643"
+    },
+    {
+      "product_number": "FX-I/O-CON2-SA",
+      "description": "Mitsubishi Electric Rectangular Connectors, MELSEC-F Series, Connector Shape: Square shape, Connector Series First Letter: MNO, Series Initials M/N/O: MELSEC-F, Compatible Pin/Contact: Female (Socket), Application: Cable Connection, Wire Connection Method: Crimp, Applicable series: FX1NC / FX2NC / FX3UC, Applicable cable: For discrete wires, Compatible Wire Size 0.5 mm2 (AWG20)",
+      "price": 66.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4e65c686-3abe-45d2-827c-1b44f0256b9b_large.jpg?v=1751469641"
+    },
+    {
+      "product_number": "FX-I/O-CON2-S",
+      "description": "Mitsubishi Electric Rectangular Connectors, MELSEC-F Series, Connector Shape: Square shape, Connector Series First Letter: MNO, Series Initials M/N/O: MELSEC-F, Compatible Pin/Contact: Female (Socket), Application: Cable Connection, Wire Connection Method: Crimp, Applicable series: FX1NC / FX2NC / FX3UC, Applicable cable: For discrete wires, Compatible Wire Size 0.3 mm2 (AWG22)",
+      "price": 66.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_51ca23cf-605e-4bd4-be8f-f3fa530c1588_large.jpg?v=1751469640"
+    },
+    {
+      "product_number": "FX-A32E-150CAB",
+      "description": "Mitsubishi Electric FX Series Cables, MELSEC-F Series, Application: For connector / terminal block conversion unit, Applicable series: FX3CG / FX3G / FX3U / FX3UC, Cable Length(m): 1.5",
+      "price": 111.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a0e7ef0d-f6ac-40ee-8b32-6663833a6621_large.jpg?v=1751469638"
+    },
+    {
+      "product_number": "FX-422CAB-150",
+      "description": "Mitsubishi Electric FX Series Cables, MELSEC-F Series, Applicable series: FX1 / FX2 / FX2C, Cable Length(m): 1.5, Communication method: RS-422, Connector 1: D-Sub 25-pin, male, Connector 2: D-Sub 25-pin, male.",
+      "price": 306.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_74254f6d-afe2-46c8-96f6-d523bff7fe78_large.jpg?v=1751469637"
+    },
+    {
+      "product_number": "FX-40E-300CAB-R",
+      "description": "Mitsubishi Electric PLC, FX Series Extension terminal block cable, Series: MELSEC-F, Type: IO CABLE, Cable Length (m): 3, Shape: Round, Communication method: RS-422, Connector 1: D-Sub 40-pin, male, Connector 2: D-Sub 40-pin, male.",
+      "price": 175.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b5894e08-1f2f-48da-b167-d5b25290eb5b_large.jpg?v=1751469635"
+    },
+    {
+      "product_number": "FX-32E-TB/UL",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX2N / FX2NC / FX3G, Input/output type: Connector > for use with terminal block conversion, Input/output: 32 points.",
+      "price": 177.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8d5251e7-4ed4-47ce-a2c6-ee2d3b60bfb5_large.jpg?v=1751469633"
+    },
+    {
+      "product_number": "FX-32E-TB",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX1NC / FX2N / FX2NC / FX3G, Input/output type: Connector > for use with terminal block conversion, Input/output: 32 points.",
+      "price": 177.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_57bdd5fb-616a-4d8b-915e-d0bf21094917_large.jpg?v=1751469632"
+    },
+    {
+      "product_number": "FX-30P-RY",
+      "description": "Mitsubishi PLC Accessories Handheld Programming Panel RYKO-FW, MELSEC-F Series, Applicable series: FX1N / FX1NC / FX1S / FX2N / FX2NC / FX3G / FX3U / FX3UC, Program size(K Step): 64",
+      "price": 1136.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2256bcd8-c8e8-4f75-9703-33697f8cffcc_large.jpg?v=1751469630"
+    },
+    {
+      "product_number": "FX-30P",
+      "description": "Mitsubishi PLC Accessories Handheld Programming Panel, MELSEC-F Series, Applicable series: FX1N / FX1NC / FX1S / FX2N / FX2NC / FX3G / FX3U / FX3UC, Program size(K Step): 64",
+      "price": 1247.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_702e09a4-75d0-4b3c-8216-bcebd1c952a8_large.jpg?v=1751469629"
+    },
+    {
+      "product_number": "FX-20P-CADP",
+      "description": "Mitsubishi PLC Accessories Sequencer Connection Cable, MELSEC-F Series, Application: Can connect to FX1, FX2 and FX2C PLCs; can connect FX-20P and FX-20P-ADP type power adapters, Cable Length(m) 0.3, Can connect to FX1, FX2 and FX2C PLCs; can connect FX-20P and FX-20P-ADP type power adapters.",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_954d8f63-d8e6-435c-ba0e-b6f01379a5b1_large.jpg?v=1751469627"
+    },
+    {
+      "product_number": "FX-16EYT-TB",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX1NC / FX2N / FX2NC / FX3G, Connector 1: Terminal block (M3.5 screw), Input/output type: Transistor / sink output, Input/output: Output 16 points.",
+      "price": 281.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6542762b-6b7a-4c5a-a521-afa6af4e5739_large.jpg?v=1751469626"
+    },
+    {
+      "product_number": "FX-16EYT-ESS-TB/UL",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX2N / FX2NC / FX3G, Connector 1: Terminal block (M3.5 screw), Input/output type: Transistor / source output, Input/output: Output 16 points.",
+      "price": 228.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8b31d744-e9b1-42b1-99ee-9254bab59560_large.jpg?v=1751469624"
+    },
+    {
+      "product_number": "FX-16EYR-TB",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX1NC / FX2N / FX2NC / FX3G, Connector 1: Terminal block (M3.5 screw), Input/output type: Relay output, Input/output: Output 16 points.",
+      "price": 437.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ce545138-f0ea-49c5-9944-f43b9a214974_large.jpg?v=1751469622"
+    },
+    {
+      "product_number": "FX-16EYR-ES-TB/UL",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX2N / FX2NC / FX3G, Connector 1: Terminal block (M3.5 screw), Input/output type: Relay output, Input/output: Output 16 points.",
+      "price": 281.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bbd2e212-f54b-4322-816e-e1a1adb1c013_large.jpg?v=1751469620"
+    },
+    {
+      "product_number": "FX-16E-TB/UL",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX2N / FX2NC / FX3G, Input/output type: Connector > for use with terminal block conversion, Input or output: 16 points.",
+      "price": 83.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_81b51d30-2125-4639-8a4e-764f33b38b5b_large.jpg?v=1751469618"
+    },
+    {
+      "product_number": "FX-16E-TB",
+      "description": "Mitsubishi PLC Accessories Terminal Block, MELSEC-F Series, Applicable series: FX1N / FX1NC / FX2N / FX2NC / FX3G, Input/output type: Connector > for use with terminal block conversion, Input or output: 16 points.",
+      "price": 83.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c5042941-b606-4f48-990d-4ea7454b7c15_large.jpg?v=1751469617"
+    },
+    {
+      "product_number": "FX-16E-500CAB-S",
+      "description": "Mitsubishi Electric PLC FX Series Connecting cable 1.5 m FX2N-XXGM > terminal devices, Series: MELSEC-F, Type: IO Cable, Cable Length (m): 5",
+      "price": 190.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a490db89-6993-4605-9f42-740f37327f44_large.jpg?v=1751469615"
+    },
+    {
+      "product_number": "FX-16E-500CAB-R",
+      "description": "Mitsubishi Electric FX Series Cables, Application: For terminal block, Applicable series: FX3CG / FX3G / FX3U / FX3UC, Cable Length(m): 5, Connector 1: 20-pin, Connector 2: 20-pin, Cable Type: Round multi-core",
+      "price": 124.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8f629b7a-6b60-4b26-b96f-1083a2600606_large.jpg?v=1751469613"
+    },
+    {
+      "product_number": "FX-16E-500CAB",
+      "description": "Mitsubishi Electric FX Series Cables, Application: For terminal block, Applicable series: FX3CG / FX3G / FX3U / FX3UC, Cable Length(m): 5, Connector 1: 20-pin, Connector 2: 20-pin, Cable Type: Flat (with tube)",
+      "price": 97.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_63df9e29-c3a8-4fcb-b3e3-d8fbe0ce0019_large.jpg?v=1751469611"
+    },
+    {
+      "product_number": "FX-16E-300CAB-R",
+      "description": "Mitsubishi Electric FX Series Cables, Application: For terminal block, Applicable series: FX3CG / FX3G / FX3U / FX3UC, Cable Length(m): 3, Connector 1: 20-pin, Connector 2: 20-pin, Cable Type: Round multi-core",
+      "price": 104.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9b09b989-0288-492a-89f0-6a14d695e7d6_large.jpg?v=1751469609"
+    },
+    {
+      "product_number": "FX-16E-300CAB",
+      "description": "Mitsubishi Electric FX Series Cables, Application: For terminal block, Applicable series: FX3CG / FX3G / FX3U / FX3UC, Cable Length(m): 3, Connector 1: 20-pin, Connector 2: 20-pin, Cable Type: Flat (with tube)",
+      "price": 83.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bf6f6352-095a-4f99-932b-7dd134311f34_large.jpg?v=1751469607"
+    },
+    {
+      "product_number": "FX-16E-150CAB-R",
+      "description": "Mitsubishi Electric FX Series Cables, Application: For terminal block, Applicable series: FX3CG / FX3G / FX3U / FX3UC, Cable Length(m):1.5, Connector 1: 20-pin, Connector 2: 20-pin, Cable Type: Round multi-core",
+      "price": 97.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5726e1c7-fa2a-4eb2-83e5-d7c8cc6e8ece_large.jpg?v=1751469606"
+    },
+    {
+      "product_number": "FX-16E-150CAB",
+      "description": "Mitsubishi Electric PLC FX Series Connecting cable 1,5 m FX2N-XXGM > terminal block, 1.5 m, Series: MELSEC-F, Type: IO Cable, Cable Length (m): 1.5",
+      "price": 83.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_29489c6f-e378-403a-b963-719256721d4e_large.jpg?v=1751469604"
+    },
+    {
+      "product_number": "F2-40BL",
+      "description": "Mitsubishi Electric PLC Compatible Battery, MELSEC-F Series Battery for Mitsubishi microsequencer, Battery life estimate: 5 years (ambient temperature 25¬∞C), Necessary for backing up the contents of the built-in RAM memory of FX3U and FX3UC.",
+      "price": 104.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_aec7236d-0b39-42b9-874c-0c82b82b7965_large.jpg?v=1751469602"
+    },
+    {
+      "product_number": "CK95842P30020",
+      "description": "Mitsubishi Electric PLC CONNECTOR FOR FX3U-4AD-ADP (Small)",
+      "price": 27.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_03d0a24c-f5a0-4c02-adfe-6b6e5cc16e54_large.jpg?v=1751469600"
+    },
+    {
+      "product_number": "CK95842P30004",
+      "description": "Mitsubishi Electric PLC CONNECTOR FOR FX3U-4AD-ADP (Big)",
+      "price": 39.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b1e2a53f-1fd6-43dc-9ff5-66d5129ba157_large.jpg?v=1751469599"
+    },
+    {
+      "product_number": "AL2-EEPROM-2",
+      "description": "Mitsubishi Electric PLC ALPHA EEPROM-Memory Cassette, Series: ALPHA2, Type: EEPROM MEMORY, Compatible Device: ALPHA2",
+      "price": 47.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a2b9e3b4-3c5b-4c31-8653-7faff568b7c6_large.jpg?v=1751469596"
+    },
+    {
+      "product_number": "AL2-GSM-CAB",
+      "description": "Mitsubishi Electric PLC ALPHA ommunication-/GSM Cable, Series: ALPHA2, Type: GSM INTERFACE CABLE, Cable Length (m): 1.5",
+      "price": 180.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7886b2be-4677-45aa-a0ef-87aee027fcbc_large.jpg?v=1751469597"
+    },
+    {
+      "product_number": "AL2-ASI-BD",
+      "description": "Mitsubishi Electric PLC AS-interface module - Mitsubishi Electric (MELSEC-F - a2 Alpha2 series) - with AS-interface communication capability - Supply voltage 30Vac / 5Vdc - equivalent to AL2ASIBD",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ef295e11-8e12-4a79-9866-574cc10a72ea_large.jpg?v=1751469594"
+    },
+    {
+      "product_number": "AL2-4EYT",
+      "description": "Mitsubishi Electric PLC ALPHA Extension Unit 4 transistor outputs, Series: ALPHA2, Type: EXTENSION UNIT, Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 4, Integrated Digital Inputs: 4, Output Type: Transister (Source)",
+      "price": 122.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_37674e57-6bb9-47be-99fd-10589e688a1e_large.jpg?v=1751469592"
+    },
+    {
+      "product_number": "AL2-4EYR",
+      "description": "Mitsubishi Electric PLC ALPHA Extension Unit 4 relay outputs, Series: ALPHA2, Type: EXTENSION UNIT, Power Supply (V): 220-240, Current Type: AC, Occupied I/O Points on PLC: 4, Integrated Digital Inputs: 4, Output Type: Relay",
+      "price": 111.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b2c121d4-e181-4c66-8eb6-b09c11ce1830_large.jpg?v=1751469591"
+    },
+    {
+      "product_number": "AL2-4EX-A2",
+      "description": "Mitsubishi Electric PLC ALPHA Extension Unit 4 digital inputs, AC, Series: ALPHA2, Type: EXTENSION UNIT, Power Supply (V): 220-240, Current Type: AC, Occupied I/O Points on PLC: 4, Integrated Digital Inputs: 4",
+      "price": 111.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b0dc5f92-0649-4e0a-9d99-17d42416649d_large.jpg?v=1751469589"
+    },
+    {
+      "product_number": "AL2-4EX",
+      "description": "Mitsubishi Electric PLC ALPHA Extension Unit 4 digital inputs, DC, Series: ALPHA2, Type: EXTENSION UNIT, Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 4, Integrated Digital Inputs: 4",
+      "price": 122.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_25818514-2d7b-433e-a33f-4273956a4f32_large.jpg?v=1751469588"
+    },
+    {
+      "product_number": "AL2-2TC-ADP",
+      "description": "Mitsubishi Electric PLC ALPHA Analogue Input Converter K-Type, 2 channels, Series: ALPHA2, Type :EXTENSION UNIT, Integrated Analogue Inputs: 2, Min. Ambient Temperature (¬∞C): -25, Max. Ambient Temperature (¬∞C): 55",
+      "price": 180.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_dbd828a4-e9c2-438c-8aad-e1488fc3110c_large.jpg?v=1751469586"
+    },
+    {
+      "product_number": "AL2-2PT-ADP",
+      "description": "Mitsubishi Electric PLC ALPHA Analogue Input Converter PT100, 2 channels, Series: ALPHA2, Type :EXTENSION UNIT, Power Supply (V): 24, Current Type: DC, Integrated Analogue Inputs: 2, Min. Ambient Temperature (¬∞C): -25, Max. Ambient Temperature (¬∞C): 55",
+      "price": 180.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_57af9910-7dda-4ca9-9856-84a7312faf83_large.jpg?v=1751469584"
+    },
+    {
+      "product_number": "AL2-2DA",
+      "description": "Mitsubishi Electric PLC ALPHA Extension Unit 2 analogue outputs, Series: ALPHA2, Type EXTENSION UNIT, Integrated Analogue Outputs 2, Output Voltage Range (V) 0-10, Output Current Range (mA) 4-20, Min. Ambient Temperature (¬∞C) -25, Max. Ambient Temperature (¬∞C) 55",
+      "price": 216.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_746c458c-53f0-41ca-85cf-335d13961e38_large.jpg?v=1751469583"
+    },
+    {
+      "product_number": "AL-232CAB",
+      "description": "Mitsubishi Electric Interface Cable between ALPHA and PC, Series: ALPHA2, Type: RS-232, Cable Length (m): 2.5",
+      "price": 176.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ee157fc1-22a6-4548-8455-02bb60104172_large.jpg?v=1751469581"
+    }
+  ]
+}

@@ -23,6 +23,9 @@ const nextConfig = {
     largePageDataBytes: 128 * 1024, // 128KB
     workerThreads: false,
     cpus: 1,
+    scrollRestoration: true,
+    // Enable Server Components
+    serverComponentsExternalPackages: ['sharp', 'onnxruntime-node'],
   },
   
   // Increase timeout for serverless functions
@@ -118,15 +121,14 @@ const nextConfig = {
     ]
   },
   
-  // Experimental features for better performance
-  experimental: {
-    scrollRestoration: true,
-    // Enable Server Components
-    serverComponentsExternalPackages: ['sharp', 'onnxruntime-node'],
-  },
-  
   // Bundle optimization
   webpack: (config, { dev, webpack }) => {
+    // Exclude backup directories from being processed
+    config.watchOptions = {
+      ...config.watchOptions,
+      ignored: ['**/node_modules/**', '**/extracted-brands-subcategories.backup/**'],
+    };
+    
     // Production optimizations
     if (!dev) {
       config.optimization = {
@@ -159,4 +161,4 @@ const nextConfig = {
   },
 }
 
-module.exports = nextConfig 
+module.exports = nextConfig

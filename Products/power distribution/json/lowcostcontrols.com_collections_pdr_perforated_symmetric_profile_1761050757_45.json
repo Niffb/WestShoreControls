@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "product_number": "PDR5-2M",
+      "description": "(Package of 2 Pieces) ERIFLEX PDR Perforated Symmetric Profile, Material: Electrogalvanized Steel, Width: 5.5mm, Thickness: 1.0mm, Length: 2 Meters. 15 Units in a package, Part no: 557750",
+      "price": 188.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_large.jpg?v=1605156637"
+    },
+    {
+      "product_number": "PDR7-2M",
+      "description": "(Package of 2 Pieces) ERIFLEX PDR Perforated Symmetric Profile, Material: Electrogalvanized Steel, Width: 7.5mm, Thickness: 1.0mm, Length: 2 Meters. 15 Units in a package, Part no: 557850",
+      "price": 210.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_b2d699ac-6b2e-486c-8d6d-b61a17ac4efe_large.jpg?v=1605156638"
+    },
+    {
+      "product_number": "PDR7-2M-5-2",
+      "description": "(Package of 2 Pieces) ERIFLEX PDR Perforated Symmetric Profile, Material: Electrogalvanized Steel, Width: 7.5mm, Thickness: 1.0mm, Length: 2 Meters. 15 Units in a package, Part no: 557855",
+      "price": 169.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_691c947f-8489-4869-9ae9-0520e31206a5_large.jpg?v=1605156638"
+    },
+    {
+      "product_number": "PDR15-2M",
+      "description": "ERIFLEX PDR Perforated Symmetric Profile, Material: Electrogalvanized Steel, Width: 15mm, Thickness: 1.5mm, Length: 2 Meters. 15 Units in a package, Part no: 557950",
+      "price": 155.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_a300e36e-f504-43c6-a706-93f5e9116157_large.jpg?v=1605156639"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "product_number": "DPCB100X5",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 100mm, Thickness: 5mm, 2 piece in a box, Part no: 550440",
+      "price": 1487.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_90c50fe8-feee-4ba9-8503-6611798f34e8_large.jpg?v=1604816840"
+    },
+    {
+      "product_number": "DPCB125X5",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 125mm, Thickness: 5mm, 2 piece in a box, Part no: 550450",
+      "price": 1836.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_e66eafff-1fdd-4aee-860d-d01601bf4203_large.jpg?v=1604816843"
+    },
+    {
+      "product_number": "DPCB80X5",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 80mm, Thickness: 5mm, 2 piece in a box, Part no: 550430",
+      "price": 1206.63,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_42dfd1c8-b68f-4a5a-bfc4-f5bc9b38d336_large.jpg?v=1604816836"
+    },
+    {
+      "product_number": "DPCB50X5",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 50mm, Thickness: 5mm, 2 piece in a box, Part no: 550410",
+      "price": 828.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_cc69a3f5-71ee-4815-b6c2-2127c76c2b27_large.jpg?v=1604816828"
+    },
+    {
+      "product_number": "DPCB63X5",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 63mm, Thickness: 5mm, 2 piece in a box, Part no: 550420",
+      "price": 1025.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_64aeac03-f17c-44fc-8f07-fa283fc3cab7_large.jpg?v=1604816827"
+    },
+    {
+      "product_number": "DPCB120X10",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 120mm, Thickness: 10mm, 2 piece in a box, Part no: 550390",
+      "price": 4040.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_7b35ceec-9f31-4e6d-b2c1-6216d16b4ff0_large.jpg?v=1604816827"
+    },
+    {
+      "product_number": "DPCB80X10",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 80mm, Thickness: 10mm, 2 piece in a box, Part no: 550370",
+      "price": 3161.72,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_53a6fd97-15b3-4549-8e6a-12b522cb7a77_large.jpg?v=1604816794"
+    },
+    {
+      "product_number": "DPCB100X10",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 100mm, Thickness: 10mm, 2 piece in a box, Part no: 550380",
+      "price": 3785.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_19a8df2b-82b3-4fc9-95c9-91c0410b94f9_large.jpg?v=1604816819"
+    },
+    {
+      "product_number": "DPCB60X10",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 60mm, Thickness: 10mm, 2 piece in a box, Part no: 550360",
+      "price": 2377.72,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_bca8de08-1773-47c4-9f34-e719760fd698_large.jpg?v=1604816797"
+    },
+    {
+      "product_number": "DPCB50X10",
+      "description": "ERIFLEX DPCB Punched Plain Copper Busbar(Double), 1.75m Copper, Width : 50mm, Thickness: 10mm, 2 piece in a box, Part no: 550350",
+      "price": 1963.67,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_47afa41a-fe8e-4def-83ad-64a22d8c920e_large.jpg?v=1604816784"
+    }
+  ]
+}

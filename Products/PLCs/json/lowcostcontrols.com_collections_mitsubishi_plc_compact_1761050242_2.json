@@ -1,0 +1,1453 @@
+{
+  "products": [
+    {
+      "product_number": "FX5UJ-60MT/ESS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UJ-60MT/ESS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 60I/O [36DI (36 x digital inputs (24Vdc; Sink/Source)) + 24DO (24 x digital outputs (24Vdc; Source; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ60MTESSK",
+      "price": 1549.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4f8d00ea-2f1b-4cc4-a16e-264221c604cb_large.jpg?v=1751470377"
+    },
+    {
+      "product_number": "FX5UJ-60MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 60I/O [36DI (36 x digital inputs (24Vdc; Sink/Source)) + 24DO (24 x digital outputs (24Vdc; Source; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ60MTESS",
+      "price": 1323.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1c830301-fa65-406a-916d-199abddac217_large.jpg?v=1751470374"
+    },
+    {
+      "product_number": "FX5UJ-60MT/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UJ-60MT/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 60I/O [36DI (36 x digital inputs (24Vdc; Sink/Source)) + 24DO (24 x digital outputs (24Vdc; Sink; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ60MTESK",
+      "price": 1549.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f0ac610f-9efb-4103-8ba0-68d6f5810181_large.jpg?v=1751470372"
+    },
+    {
+      "product_number": "FX5UJ-60MT/ES",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 60I/O [36DI (36 x digital inputs (24Vdc; Sink/Source)) + 24DO (24 x digital outputs (24Vdc; Sink; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ60MTES",
+      "price": 1323.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e358ba90-b973-4294-b2b9-54a5265f0204_large.jpg?v=1751470370"
+    },
+    {
+      "product_number": "FX5UJ-60MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 36 Inputs; 24 Transistor Outputs source; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 36, Integrated Digital Outputs 24, Output Type: TRANSISTOR, Output Logic: SOURCE, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 36, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 1303.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c33c60fa-28a0-4f1e-a12b-0711cd6764ce_large.jpg?v=1751470369"
+    },
+    {
+      "product_number": "FX5UJ-60MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 36 Inputs; 24 Transistor Outputs; sink; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 36, Integrated Digital Outputs 24, Output Type: TRANSISTOR, Output Logic: SINK, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 36, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 1303.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_dc8d14d1-3653-4745-9f9b-902b6b8411eb_large.jpg?v=1751470367"
+    },
+    {
+      "product_number": "FX5UJ-60MR/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UJ-60MR/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 60I/O [36DI (36 x digital inputs (24Vdc; Sink/Source)) + 24DO (24 x digital outputs (Rly. NO contacts; 2A))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ60MRESK",
+      "price": 1549.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_07ae66af-b58a-4ab2-b17d-c431a82151f9_large.jpg?v=1751470365"
+    },
+    {
+      "product_number": "FX5UJ-60MR/ES",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 60I/O [36DI (36 x digital inputs (24Vdc; Sink/Source)) + 24DO (24 x digital outputs (Rly. NO contacts; 2A))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ60MRES",
+      "price": 1257.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_034de91c-de9e-48e3-bbec-3539c915567e_large.jpg?v=1751470363"
+    },
+    {
+      "product_number": "FX5UJ-60MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 36 Inputs; 24 Relay Outputs; Ethernet; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 36, Integrated Digital Outputs 24, Output Type: Relay, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 36, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 1238.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_28d12ce0-e729-4d99-a170-d0ad12756655_large.jpg?v=1751470361"
+    },
+    {
+      "product_number": "FX5UJ-40MT/ESS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UJ-40MT/ESS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 40I/O [24DI (24 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Source; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ40MTESSK",
+      "price": 1292.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6a3e7bfc-58e0-4890-9f51-0bb971e3862b_large.jpg?v=1751470360"
+    },
+    {
+      "product_number": "FX5UJ-40MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 40I/O [24DI (24 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Source; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ40MTESS",
+      "price": 1067.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fa900c26-2f77-48cd-8fcb-dc6c0b928041_large.jpg?v=1751470358"
+    },
+    {
+      "product_number": "FX5UJ-40MT/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UJ-40MT/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 40I/O [24DI (24 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Sink; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ40MTESK",
+      "price": 1292.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_999cf37c-804d-4ba5-9890-8cf66cc57fff_large.jpg?v=1751470356"
+    },
+    {
+      "product_number": "FX5UJ-40MT/ES",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 40I/O [24DI (24 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Sink; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ40MTES",
+      "price": 1067.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ce738c85-d386-4ee8-996e-e637f83d325c_large.jpg?v=1751470355"
+    },
+    {
+      "product_number": "FX5UJ-40MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 24 Inputs; 16 Transistor Outputs; source; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 24, Integrated Digital Outputs 16, Output Type: TRANSISTOR, Output Logic: Source, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 35, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 1051.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_00fdcbb7-2db3-464e-880a-57438e8754c7_large.jpg?v=1751470353"
+    },
+    {
+      "product_number": "FX5UJ-40MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 24 Inputs; 16 Transistor Outputs; sink; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 24, Integrated Digital Outputs 16, Output Type: TRANSISTOR, Output Logic: SINK, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 35, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 1051.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0ba2dd36-ccf1-494e-8df1-a6141cd2f48d_large.jpg?v=1751470351"
+    },
+    {
+      "product_number": "FX5UJ-40MR/ES",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 40I/O [24DI (24 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (Rly. NO contacts; 2A))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ40MRES",
+      "price": 1067.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_83ac49ff-41ae-46c2-a052-595171222d60_large.jpg?v=1751470349"
+    },
+    {
+      "product_number": "FX5UJ-40MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 14 Inputs; 10 Transistor Outputs source; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 14, Integrated Digital Outputs 10, Output Type: TRANSISTOR, Output Logic: SOURCE, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 34, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 1051.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c7f32343-a27e-4013-b170-bfe255fad405_large.jpg?v=1751470348"
+    },
+    {
+      "product_number": "FX5UJ-24MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 14 Inputs; 10 Transistor Outputs; sink; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 14, Integrated Digital Outputs 10, Output Type: TRANSISTOR, Output Logic: SOURCE, Local I/O Points: 256, Local + Remote I/O Points: 512, Expandable: YES, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, Ethernet Port: 1, Power Consumption (W): 30, Buffer Battery: NO, Protection Class: IP10, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 671.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e852ba2e-6acf-4c8c-8efb-39ea697d29d2_large.jpg?v=1751470346"
+    },
+    {
+      "product_number": "FX5UJ-24MT/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UJ-24MT/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 24I/O [14DI (14 x digital inputs (24Vdc; Sink/Source)) + 10DO (10 x digital outputs (24Vdc; Sink; 500mA))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ24MTESK",
+      "price": 937.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5329e22c-9c67-4cc7-82ea-632882e07787_large.jpg?v=1751470344"
+    },
+    {
+      "product_number": "FX5UJ-24MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 14 Inputs; 10 Transistor Outputs; sink; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 14, Integrated Digital Outputs 10, Output Type: TRANSISTOR, Output Logic: SINK, Local I/O Points: 256, Local + Remote I/O Points: 512, Expandable: YES, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, Ethernet Port: 1, Power Consumption (W): 30, Buffer Battery: NO, Protection Class: IP10, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 707.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2b157885-2977-40df-89ec-edfd1717403b_large.jpg?v=1751470342"
+    },
+    {
+      "product_number": "FX5UJ-24MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 14 Inputs; 10 Transistor Outputs source; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 14, Integrated Digital Outputs 10, Output Type: TRANSISTOR, Output Logic: SOURCE, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 34, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 661.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fdbdd233-8257-4f37-bcdc-debe578c8862_large.jpg?v=1751470341"
+    },
+    {
+      "product_number": "FX5UJ-24MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 14 Inputs; 10 Transistor Outputs; sink; Eth.; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 14, Integrated Digital Outputs 10, Output Type: TRANSISTOR, Output Logic: SINK, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, USB: 1, Ethernet Port: 1, Power Consumption (W): 34, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 696.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_722859d0-3ed4-480c-8921-c3d005a418b6_large.jpg?v=1751470339"
+    },
+    {
+      "product_number": "FX5UJ-24MR/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UJ-24MR/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UJ series) - 24I/O [14DI (14 x digital inputs (24Vdc; Sink/Source)) + 10DO (10 x digital outputs (Rly. NO contacts; 2A))] - 48Ksteps (96KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5UJ24MRESK",
+      "price": 937.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_640f59da-e719-42dd-909d-2b38df240cbb_large.jpg?v=1751470337"
+    },
+    {
+      "product_number": "FX5UJ-24MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 14 Inputs; 10 Relay Outputs; Ethernet; SD; USB, Type: FX5UJ, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 14, Integrated Digital Outputs 10, Output Type: RELAY, Local I/O Points: 256, Local + Remote I/O Points: 512, Expandable: YES, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, Ethernet Port: 1, Power Consumption (W): 30, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 671.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_336727b4-0f24-4b4a-b215-880fef3e45b5_large.jpg?v=1751470336"
+    },
+    {
+      "product_number": "FX5UJ-24MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; DC; 14 Inputs; 14 Relay Outputs, 10 Relay Outputs; Ethernet; SD; USB, Type: FX5UJ, Power Supply (V): 24, Current Type: DC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 14, Integrated Digital Outputs 10, Output Type: RELAY, Local I/O Points: 256, Cycle Time LD (ns); 34, Cycle Time MOV (ns): 34, Ethernet Port: 1, Power Consumption (W): 34, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 661.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0d405e68-2f10-4cfa-869f-155dd85b0791_large.jpg?v=1751470334"
+    },
+    {
+      "product_number": "FX5UC-96MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 48, Number Of Output Points(Point): 48, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 2207.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_75f9bdcf-f20e-4265-9314-4f035c182595_large.jpg?v=1751470332"
+    },
+    {
+      "product_number": "FX5UC-96MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 48, Number Of Output Points(Point): 48, Input specifications: DC24V sink, Output specifications: Relay / Transistor (sink)",
+      "price": 2207.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bf9c7be3-7aa8-4204-b480-342a3d609691_large.jpg?v=1751470331"
+    },
+    {
+      "product_number": "FX5UC-64MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 32, Number Of Output Points(Point): 32, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 1664.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5f70c882-5116-46da-83b8-05ecdffc3b0c_large.jpg?v=1751470329"
+    },
+    {
+      "product_number": "FX5UC-64MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 32, Number Of Output Points(Point): 32, Input specifications: DC24V sink, Output specifications: Relay / Transistor (sink)",
+      "price": 1603.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_753cab32-07c3-4b47-85bd-c62f7a030413_large.jpg?v=1751470327"
+    },
+    {
+      "product_number": "FX5UC-32MT/DSTS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UC-32MT/DS-TS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UC series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink)) + 16DO (16 x digital outputs (24Vdc; Sink))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with spring-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5UC32MTDSTSK / FX5UC-32MT/DS-TS-K",
+      "price": 1004.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_3b805193-e453-4b45-a330-68a9422ca4b8_large.jpg?v=1751470325"
+    },
+    {
+      "product_number": "FX5UC-32MT/DSSTS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UC-32MT/DSS-TS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UC series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink)) + 16DO (16 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with spring-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5UC32MTDSSTSK / FX5UC-32MT/DSS-TS-K",
+      "price": 1004.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a7b84e75-74c8-4ee2-8a9e-bc04705835b6_large.jpg?v=1751470324"
+    },
+    {
+      "product_number": "FX5UC-32MT/DSS-TS",
+      "description": "Mitsubishi Electric PLC CPU Units, Spring Clamp Terminal Block, MELSEC iQ-F Series, Type: Standalone, Data register [D](Point): 8,000, Output Format: Transistor / source output, Number of occupied inputs/outputs(Point): 32, Power supply capacity: 5 V DC power supply: 720 mA / 24 V DC power supply: 5,000 mA",
+      "price": 890.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ebbeeaab-a88a-4541-acad-ed3232d2edfb_large.jpg?v=1751470322"
+    },
+    {
+      "product_number": "FX5UC-32MT/DSS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UC-32MT/DSS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UC series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink)) + 16DO (16 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with MIL ribbon cable connectors (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5UC32MTDSSK",
+      "price": 1004.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_58f91615-4e06-4299-b7c5-e7a2caed7f7a_large.jpg?v=1751470320"
+    },
+    {
+      "product_number": "FX5UC-32MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 890.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e0003215-3695-413e-9930-cb7ea0bbef04_large.jpg?v=1751470319"
+    },
+    {
+      "product_number": "FX5UC-32MT/DS-TS",
+      "description": "Mitsubishi Electric PLC CPU Units, Spring Clamp Terminal Block, MELSEC iQ-F Series, Type: Standalone, Data register [D](Point): 8,000, Output Format: Transistor / sync output, Number of occupied inputs/outputs(Point): 32, Power supply capacity: 5 V DC power supply: 720 mA / 24 V DC power supply: 5,000 mA",
+      "price": 899.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e8ea5094-330e-4739-8aa4-8fc04316a81d_large.jpg?v=1751470317"
+    },
+    {
+      "product_number": "FX5UC-32MT/D-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5UC-32MT/D) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5UC series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink)) + 16DO (16 x digital outputs (24Vdc; Sink))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with MIL ribbon cable connectors (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5UC32MTDK",
+      "price": 1004.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_810e0e2f-94ce-4028-8006-54f012ccd3f9_large.jpg?v=1751470315"
+    },
+    {
+      "product_number": "FX5UC-32MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink, Output specifications: Relay / Transistor (sink)",
+      "price": 947.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d40ddefa-8ed6-404f-bfd6-f67fa854922a_large.jpg?v=1751470313"
+    },
+    {
+      "product_number": "FX5UC-32MR/DS-TS",
+      "description": "Mitsubishi Electric PLC CPU Units, Spring Clamp Terminal Block, MELSEC iQ-F Series, Type: Standalone, Data register [D](Point): 8,000, Output Format: Relay output, Number of occupied inputs/outputs(Point): 32, Power supply capacity: (5 V DC power supply: 720 mA) / (24 V DC power supply: 5,000 mA)",
+      "price": 929.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_16721f88-a0d4-4bf5-99b3-8d80e0ea1902_large.jpg?v=1751470312"
+    },
+    {
+      "product_number": "FX5U-80MT/ESS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-80MT/ESS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 80I/O [40DI (40 x digital inputs (24Vdc; Sink/Source)) + 40DO (40 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U80MTESSK",
+      "price": 2083.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ef795c34-1663-47f0-b37c-7937bf617b2b_large.jpg?v=1751470310"
+    },
+    {
+      "product_number": "FX5U-80MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 1944.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b0b553d2-2a00-445e-aa46-298e63bf5bf0_large.jpg?v=1751470308"
+    },
+    {
+      "product_number": "FX5U-80MT/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-80MT/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 80I/O [40DI (40 x digital inputs (24Vdc; Sink/Source)) + 40DO (40 x digital outputs (24Vdc; Sink))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U80MTESK",
+      "price": 2083.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_955b9427-5027-4942-a6cd-297983f60bd6_large.jpg?v=1751470306"
+    },
+    {
+      "product_number": "FX5U-80MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 1944.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a50f0c57-a93f-4b93-a769-7a49668c5ca7_large.jpg?v=1751470304"
+    },
+    {
+      "product_number": "FX5U-80MT/DSS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-80MT/DSS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 80I/O [40DI (40 x digital inputs (24Vdc; Sink/Source)) + 40DO (40 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U80MTDSSK",
+      "price": 2083.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_97fc99aa-2578-409b-aaa4-a2e1e89e096a_large.jpg?v=1751470302"
+    },
+    {
+      "product_number": "FX5U-80MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V source",
+      "price": 1917.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e053cb75-936a-43fc-aa2f-d054e4e31abb_large.jpg?v=1751470300"
+    },
+    {
+      "product_number": "FX5U-80MT/DS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-80MT/DS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 80I/O [40DI (40 x digital inputs (24Vdc; Sink/Source)) + 40DO (40 x digital outputs (24Vdc; Sink))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U80MTDSK",
+      "price": 2083.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7d9f5ce6-1349-4aa5-ad0a-4860813f72ae_large.jpg?v=1751470299"
+    },
+    {
+      "product_number": "FX5U-80MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Transistor (sink)",
+      "price": 2019.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8908e817-1a46-466b-ae4c-2da17700b4ca_large.jpg?v=1751470297"
+    },
+    {
+      "product_number": "FX5U-80MR/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-80MR/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 80I/O [40DI (40 x digital inputs (24Vdc; Sink/Source)) + 40DO (40 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U80MRESK",
+      "price": 1997.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e6913d62-2a16-498c-9407-acee419153c0_large.jpg?v=1751470295"
+    },
+    {
+      "product_number": "FX5U-80MR/ES-4LC-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os + 4-channel temperature control module - starter kit / bundle (1 x CPU (FX5U-80MR/ES) + FX5-4LC temp. control module + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 84I/O [4AI (4 x analog inputs (Thermocouple types K; J; T; S; R; E; B; N; PLII; W5Re/W26Re; U; L / RTD types Pt100; JPt100; Pt1000)) + 40DI (40 x digital inputs (24Vdc; Sink/Source)) + 40DO (40 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U80MRES4LCK",
+      "price": 2980.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2470c109-6613-4e3b-b6b0-bf667ddd3513_large.jpg?v=1751470294"
+    },
+    {
+      "product_number": "FX5U-80MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 1824.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_71797a70-eb2a-4fc6-82f7-8ec2c96d64cb_large.jpg?v=1751470292"
+    },
+    {
+      "product_number": "FX5U-80MR/DS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-80MR/DS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 80I/O [40DI (40 x digital inputs (24Vdc; Sink/Source)) + 40DO (40 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U80MRDSK",
+      "price": 1997.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1a5e4387-04c3-42aa-8423-af80db5bfcff_large.jpg?v=1751470290"
+    },
+    {
+      "product_number": "FX5U-80MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V Relay Out",
+      "price": 1842.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5dde45f1-c088-40d7-bcf9-9c420623053c_large.jpg?v=1751470289"
+    },
+    {
+      "product_number": "FX5U-64MT/ESS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-64MT/ESS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 64I/O [32DI (32 x digital inputs (24Vdc; Sink/Source)) + 32DO (32 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U64MTESSK",
+      "price": 1726.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_79ae33a3-e1ef-4311-ac4f-6bdc2f0a4d08_large.jpg?v=1751470287"
+    },
+    {
+      "product_number": "FX5U-64MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 32, Number Of Output Points(Point): 32, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 1579.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4bfa998d-660f-4301-96a9-9e548c984d8c_large.jpg?v=1751470285"
+    },
+    {
+      "product_number": "FX5U-64MT/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-64MT/DSS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 64I/O [32DI (32 x digital inputs (24Vdc; Sink/Source)) + 32DO (32 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U64MTDSSK",
+      "price": 1726.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a2592eff-2f25-420a-9bf7-75c119bad5a7_large.jpg?v=1751470284"
+    },
+    {
+      "product_number": "FX5U-64MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 32, Number Of Output Points(Point): 32, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 1579.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_da0a66d8-32e6-423f-b4d5-80fc3f77eb83_large.jpg?v=1751470282"
+    },
+    {
+      "product_number": "FX5U-64MT/DSS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-64MT/DSS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 64I/O [32DI (32 x digital inputs (24Vdc; Sink/Source)) + 32DO (32 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U64MTDSSK",
+      "price": 1726.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_759e8c8b-5eca-4ee3-8f2e-675a3fbd982f_large.jpg?v=1751470280"
+    },
+    {
+      "product_number": "FX5U-64MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Input specifications: DC24V sink/source, Power Supply Voltage(V): DC24",
+      "price": 1579.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_189005d3-dcac-414b-a134-b836df9b7252_large.jpg?v=1751470279"
+    },
+    {
+      "product_number": "FX5U-64MT/DS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-64MT/DS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 64I/O [32DI (32 x digital inputs (24Vdc; Sink/Source)) + 32DO (32 x digital outputs (24Vdc; Sink))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U64MTDSK",
+      "price": 1726.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ef8ae867-de4d-4cbd-a034-15036454868b_large.jpg?v=1751470277"
+    },
+    {
+      "product_number": "FX5U-64MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink)",
+      "price": 1603.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f8c2c6eb-459d-4315-a1c0-83dd91130975_large.jpg?v=1751470275"
+    },
+    {
+      "product_number": "FX5U-64MR/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-64MR/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 64I/O [32DI (32 x digital inputs (24Vdc; Sink/Source)) + 32DO (32 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U64MRESK",
+      "price": 1658.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_63c70421-88b0-4a18-a9d1-35c2670c68e8_large.jpg?v=1751470274"
+    },
+    {
+      "product_number": "FX5U-64MR/ES-4LC-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os + 4-channel temperature control module - starter kit / bundle (1 x CPU (FX5U-64MR/ES) + FX5-4LC temp. control module + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 68I/O [4AI (4 x analog inputs (Thermocouple types K; J; T; S; R; E; B; N; PLII; W5Re/W26Re; U; L / RTD types Pt100; JPt100; Pt1000)) + 32DI (32 x digital inputs (24Vdc; Sink/Source)) + 32DO (32 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U64MRES4LCK",
+      "price": 2696.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f3f0e93d-db8b-4fba-bc16-f11832491601_large.jpg?v=1751470272"
+    },
+    {
+      "product_number": "FX5U-64MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 32, Number Of Output Points(Point): 32, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 1525.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_97381f03-b7db-4f68-b63d-f0a491b47421_large.jpg?v=1751470270"
+    },
+    {
+      "product_number": "FX5U-64MR/DS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-64MR/DS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 64I/O [32DI (32 x digital inputs (24Vdc; Sink/Source)) + 32DO (32 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U64MRDSK",
+      "price": 1658.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_91e1eca6-e05c-4d65-9b29-c33cf4364628_large.jpg?v=1751470268"
+    },
+    {
+      "product_number": "FX5U-64MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Input specifications: DC24V sink/source",
+      "price": 1525.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_80be04fb-a5df-4faa-ab0f-2fcee9a64279_large.jpg?v=1751470267"
+    },
+    {
+      "product_number": "FX5U-32MT/ESS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-32MT/ESS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U32MTESSK",
+      "price": 1088.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bf8af3b2-a7f2-4611-81ed-48f883969fd5_large.jpg?v=1751470265"
+    },
+    {
+      "product_number": "FX5U-32MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 974.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0c7a5238-536d-4f15-ab48-0f389f38f359_large.jpg?v=1751470263"
+    },
+    {
+      "product_number": "FX5U-32MT/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-32MT/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Sink))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U32MTESK",
+      "price": 1088.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_48ca9787-9f70-474a-b85b-398c653110d4_large.jpg?v=1751470262"
+    },
+    {
+      "product_number": "FX5U-32MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 974.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a0cfa566-1d7b-4a2f-9cf5-cc17a23ced48_large.jpg?v=1751470260"
+    },
+    {
+      "product_number": "FX5U-32MT/DSS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-32MT/DSS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Source))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U32MTDSSK",
+      "price": 1088.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5dc99477-ed0f-43b7-86cf-108acdef555f_large.jpg?v=1751470258"
+    },
+    {
+      "product_number": "FX5U-32MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 974.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_49140027-37e4-446d-9b9c-69b3ac79b7ea_large.jpg?v=1751470257"
+    },
+    {
+      "product_number": "FX5U-32MT/DS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-32MT/DS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (24Vdc; Sink))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U32MTDSK",
+      "price": 1088.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4ee6e4a2-4ab3-4b51-8cc5-3c6799d61c93_large.jpg?v=1751470255"
+    },
+    {
+      "product_number": "FX5U-32MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 987.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d0eab24e-c743-44e5-ae58-d4c96c40b2c2_large.jpg?v=1751470253"
+    },
+    {
+      "product_number": "FX5U-32MR/ES-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-32MR/ES) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U32MRESK",
+      "price": 967.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_411fe388-698b-4f0a-975b-c5faf594b4e9_large.jpg?v=1751470252"
+    },
+    {
+      "product_number": "FX5U-32MR/ES-4LC-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os + 4-channel temperature control module - starter kit / bundle (1 x CPU (FX5U-32MR/ES) + FX5-4LC temp. control module + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 36I/O [4AI (4 x analog inputs (Thermocouple types K; J; T; S; R; E; B; N; PLII; W5Re/W26Re; U; L / RTD types Pt100; JPt100; Pt1000)) + 16DI (16 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 100Vac-240Vac (120Vac / 208Vac / 220Vac / 230Vac) - DIN rail mounting - equivalent to FX5U32MRES4LCK",
+      "price": 2030.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9d27a3aa-3336-4a05-93c7-dca9092bbcf4_large.jpg?v=1751470250"
+    },
+    {
+      "product_number": "FX5U-32MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink/source, Output specifications: Relay, AC Base Unit",
+      "price": 890.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a3d85fc7-2930-484c-9a5c-cb16d3714bf3_large.jpg?v=1751470248"
+    },
+    {
+      "product_number": "FX5U-32MR/DS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX5U-32MR/DS) + MELSOFT s/w.) - Mitsubishi Electric (MELSEC iQ-F - FX5U series) - 32I/O [16DI (16 x digital inputs (24Vdc; Sink/Source)) + 16DO (16 x digital outputs (Rly. NO contacts))] - 64Ksteps (128KBytes) flash memory (Program) memory capacity - with screw-clamp connections (I.O's) - with RS-485 + Ethernet communication capability - Supply voltage 24Vdc - DIN rail mounting - equivalent to FX5U32MRDSK",
+      "price": 1004.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2ca59dd5-7597-4136-9cc3-f49667660649_large.jpg?v=1751470247"
+    },
+    {
+      "product_number": "FX5U-32MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX5U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 16, Input specifications: DC24V sink/source, Output specifications: Relay, DC Base Unit",
+      "price": 890.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_566a1c35-430a-4cb4-9db5-b18fea5c7be9_large.jpg?v=1751470242"
+    },
+    {
+      "product_number": "FX5S-60MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 36 Inputs 24 V DC; 24 Transistor/source Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 36, Integrated Digital Outputs: 24, Output Type: TRANSISTOR, Output Logic: SOURCE, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 33, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC IQ-F",
+      "price": 1110.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_3ac30ee1-2076-4c43-a6ee-39dd46940ad6_large.jpg?v=1751470240"
+    },
+    {
+      "product_number": "FX5S-60MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 36 Inputs 24 V DC; 24 Transistor/sink Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 36, Integrated Digital Outputs: 24, Output Type: TRANSISTOR, Output Logic: SINK, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 33, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC IQ-F",
+      "price": 1110.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8e5d4358-6461-41f2-9e10-b9ccdc3558f9_large.jpg?v=1751470238"
+    },
+    {
+      "product_number": "FX5S-60MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 36 Inputs 24 V DC; 24 Relay Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 36, Integrated Digital Outputs: 24, Output Type: RELAY, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 33, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 1071.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b50e0c12-3854-4f05-b11f-83459dc0038d_large.jpg?v=1751470236"
+    },
+    {
+      "product_number": "FX5S-40MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 24 Inputs 24 V DC; 16 Transistor/source Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Output Type: TRANSISTOR, Output Logic: SOURCE, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 30, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC IQ-F",
+      "price": 824.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_56749a6c-fd09-4f4e-b31a-2bfbef9c4125_large.jpg?v=1751470234"
+    },
+    {
+      "product_number": "FX5S-40MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 24 Inputs 24 V DC; 16 Transistor/sink Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Output Type: TRANSISTOR, Output Logic: SINK, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 30, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC IQ-F",
+      "price": 824.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a85c39c6-e5ed-4616-97b7-2e8738ba71a2_large.jpg?v=1751470232"
+    },
+    {
+      "product_number": "FX5S-40MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 24 Inputs 24 V DC; 16 Relay Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Output Type: RELAY, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 30, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 799.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_39c52740-b262-4b3f-bb86-dc0efbde838b_large.jpg?v=1751470230"
+    },
+    {
+      "product_number": "FX5S-30MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 16 Inputs 24 V DC; 14 Transistor/source Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 16, Integrated Digital Outputs: 14, Output Type: TRANSISTOR, Output Logic: SOURCE, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 28, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55Series: MELSEC IQ-F",
+      "price": 567.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_394478c1-a7b7-48f0-8734-68f53c11efa3_large.jpg?v=1751470228"
+    },
+    {
+      "product_number": "FX5S-30MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 16 Inputs 24 V DC; 14 Transistor/sink Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS,Program Memory Unit: FLASH, Integrated Digital Inputs: 16, Integrated Digital Outputs: 14, Output Type: TRANSISTOR, Output Logic: SINK, Cycle Time LD (ns): 84, Cycle Time MOV (ns): 100, Ethernet Port: 1, Power Consumption (W): 28,Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC IQ-F",
+      "price": 567.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_63ede36b-2f6c-4aff-a1b5-7a360908521b_large.jpg?v=1751470226"
+    },
+    {
+      "product_number": "FX5S-30MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Module; iQ-F; AC; 16 Inputs 24 V DC; 14 Relay Outputs, Type: FX5S, Power Supply (V): 100-240, Current Type: AC, Program Memory: 48K STEPS, Program Memory Unit: FLASH, Integrated Digital Inputs: 16, Integrated Digital Outputs 14, Output Type: RELAY, Cycle Time LD (ns); 84, Cycle Time MOV (ns): 100, Ethernet Port 1, Power Consumption (W): 28, Min. Ambient Temperature (¬∞C) 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC IQ-F",
+      "price": 549.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a3fae92d-1d06-43ee-8182-deac3a394419_large.jpg?v=1751470225"
+    },
+    {
+      "product_number": "FX3UC-96MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Number Of Input/Outputs(Point): 96, Number Of Inputs(Point): 48, Number Of Output Points(Point): 48, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 2420.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_21131705-28ec-4d65-aba8-0ead704b6221_large.jpg?v=1751470223"
+    },
+    {
+      "product_number": "FX3UC-96MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Number Of Input/Outputs(Point): 96, Number Of Inputs(Point): 48, Number Of Output Points(Point): 48, Input specifications: DC24V sink, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 2420.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_3fcdf824-089f-4dac-81c1-5764a2cba007_large.jpg?v=1751470221"
+    },
+    {
+      "product_number": "FX3UC-64MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: 32I/32O Transistor(source), Program size: 64, Power Supply: 24 V DC",
+      "price": 1825.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bb4567ca-edd9-4c5d-8785-b9247288e2ea_large.jpg?v=1751470220"
+    },
+    {
+      "product_number": "FX3UC-64MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Input specifications: DC24V sink, Output specifications: 32I/32O Transistor(sink), Program size: 64, Power Supply: 24 V DC",
+      "price": 1792.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c2490774-7b3c-44cb-bb44-433a4d4eb477_large.jpg?v=1751470218"
+    },
+    {
+      "product_number": "FX3UC-32MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: 16I/16O Transistor(source), Program size: 64, Power Supply: 24 V DC",
+      "price": 1036.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b647dcaf-a600-4ccd-997c-437712424a8c_large.jpg?v=1751470216"
+    },
+    {
+      "product_number": "FX3UC-32MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Input specifications: DC24V sink, Output specifications: 16I/16O Transistor(sink), Program size: 64, Power Supply: 24 V DC",
+      "price": 1036.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a8efc62d-e15c-40a4-af80-105a12949a78_large.jpg?v=1751470214"
+    },
+    {
+      "product_number": "FX3UC-32MT-LT-2",
+      "description": "Mitsubishi Electric PLC, FX3UC Base Unit DC 24V; 16 inputs, 16 transistor outputs; CC-Link/LT Master, Type: FX3UC, Power Supply (V): 24, Current Type: DC, Program Memory: 64K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 16, Integrated DigitalOutputs: 16, Output Type: TRANSISTOR, OutputLogic: SINK, Local I/O Points: 256, Local + Remote I/O Points: 384, Expandable: YES, Cycle Time LD (ns): 65, Cycle Time MOV (ns): 642, RS-422: 1, Power Consumption (W): 7, Buffer Battery: YES, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 1540.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bdb599cd-586f-4709-bffd-10478e0d051f_large.jpg?v=1751470213"
+    },
+    {
+      "product_number": "FX3UC-32MT-LT",
+      "description": "Mitsubishi Electric Compact PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Input specifications: DC24V sink, Output specifications: Transistor(sink), Program size: 64, Power Supply: 24 V DC",
+      "price": 1814.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b24eb7e1-5e07-4444-9f2e-54fde2a1efd2_large.jpg?v=1751470211"
+    },
+    {
+      "product_number": "FX3UC-16MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Input specifications: DC24V sink/source, Output specifications: Transistor(source), Program size: 64, Power Supply: 24 V DC",
+      "price": 814.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_32f38445-1ee9-4daa-ab85-82dfeff79915_large.jpg?v=1751470209"
+    },
+    {
+      "product_number": "FX3UC-16MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Input specifications: DC24V sink, Output specifications: Transistor(sink), Program size: 64, RS:232, Power Supply: 24 V DC, Power Consumpton: 6 w",
+      "price": 814.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f0d4af44-08fa-4276-a403-bda0c61e42df_large.jpg?v=1751470207"
+    },
+    {
+      "product_number": "FX3UC-16MR/DS-T",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 8, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 799.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e6fe1990-72a5-449c-9dca-fa79e5be80b4_large.jpg?v=1751470205"
+    },
+    {
+      "product_number": "FX3UC-16MR/D-T",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3UC Series, Type: Standalone, Input specifications: DC24V sink, Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 814.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fdcad7ac-d95a-4de9-bc3c-f8c617bd13c8_large.jpg?v=1751470204"
+    },
+    {
+      "product_number": "FX3U-80MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 2210.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_05bc5172-8f72-4bb0-8bd6-6a3f307d9593_large.jpg?v=1751470202"
+    },
+    {
+      "product_number": "FX3U-80MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 2210.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b23a6702-60ba-43e1-a9a2-7504b083dc13_large.jpg?v=1751470200"
+    },
+    {
+      "product_number": "FX3U-80MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 2210.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_da0af780-9811-499b-9aac-718ff48f4c3c_large.jpg?v=1751470199"
+    },
+    {
+      "product_number": "FX3U-80MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 2210.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a9e2b4cb-d138-4702-bbe7-cfac3ad5f250_large.jpg?v=1751470197"
+    },
+    {
+      "product_number": "FX3U-80MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 2082.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_308bc3ff-bf30-464f-b1d4-0286ccfe4c19_large.jpg?v=1751470195"
+    },
+    {
+      "product_number": "FX3U-80MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 80, Number Of Inputs(Point): 40, Number Of Output Points(Point): 40, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 2121.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6fbff55d-8750-4dc9-a886-3dddff1971c7_large.jpg?v=1751470194"
+    },
+    {
+      "product_number": "FX3U-64MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 1792.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bc2dc9f9-919a-4e7b-a335-edb5d06e3111_large.jpg?v=1751470192"
+    },
+    {
+      "product_number": "FX3U-64MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 1825.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_94207988-0ded-4a93-8c99-590ad73c4cf8_large.jpg?v=1751470191"
+    },
+    {
+      "product_number": "FX3U-64MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 1825.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cfe1eff9-a785-4055-846d-d54e9512ddc9_large.jpg?v=1751470189"
+    },
+    {
+      "product_number": "FX3U-64MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 1842.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_73e8c9f2-4c0d-49c3-9f93-6bec087dd63e_large.jpg?v=1751470188"
+    },
+    {
+      "product_number": "FX3U-64MS/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Triac, Program size(k step): 64, Power Supply: 100 to 240 V AC, Power Consumption: 45w",
+      "price": 1694.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_107fa40d-511d-4c6d-a72a-7a01129c470c_large.jpg?v=1751470186"
+    },
+    {
+      "product_number": "FX3U-64MR/UA1",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 32, Number Of Output Points(Point): 32, Input specifications: AC100V, Output specifications: Relay",
+      "price": 1759.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a6f435bd-b9db-4975-8dca-411d998694a3_large.jpg?v=1751470184"
+    },
+    {
+      "product_number": "FX3U-64MR/ES",
+      "description": "Mitsubishi Electric PLC, FX3U Base Unit AC 100-240 V; 32 inputs DC 24 V; 32 relay outputs, Type: FX3U, Power Supply (V): 100-240, Current Type: AC, Program Memory: 64K STEPS, Program Memory Unit: RAM, Integrated Digital Inputs: 32, Integrated Digital Outputs: 32, Output Type: RELAY, Local I/O Points: 256, Local + Remote I/O Points: 384, Expandable: YES, Cycle Time LD (ns): 65, Cycle Time MOV (ns): 642, USB: OPTION, RS-422: 1, Power Consumption (W): 45, Buffer Battery: YES, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 1726.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_474f5fd3-499d-4bd9-aa1e-0a37520572d8_large.jpg?v=1751470183"
+    },
+    {
+      "product_number": "FX3U-64MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 1759.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d3eb5520-4bb2-4dce-97cd-3fb2f84c95a5_large.jpg?v=1751470181"
+    },
+    {
+      "product_number": "FX3U-48MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 48, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 1530.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2e351090-d642-4c6a-997c-a2a307fce454_large.jpg?v=1751470179"
+    },
+    {
+      "product_number": "FX3U-48MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 48, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 1530.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_49e4cf87-fb6e-46bf-8215-5522c66ed3cf_large.jpg?v=1751470178"
+    },
+    {
+      "product_number": "FX3U-48MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 48, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 1530.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f09f3dcb-d968-4be2-bfb5-6338b0c79890_large.jpg?v=1751470176"
+    },
+    {
+      "product_number": "FX3U-48MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 48, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 1559.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_24a4f7c2-0db0-4f35-94a9-a83393f66eed_large.jpg?v=1751470174"
+    },
+    {
+      "product_number": "FX3U-48MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 48, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 1448.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_8fc727cd-8ab9-4a3f-bbeb-6328c6e37fdd_large.jpg?v=1751470173"
+    },
+    {
+      "product_number": "FX3U-48MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Inputs(Point): 24, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 24 V DC",
+      "price": 1476.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_936f57a2-bb37-48d4-9347-92a19bfa4483_large.jpg?v=1751470171"
+    },
+    {
+      "product_number": "FX3U-32MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 100 to 240 V AC, 16 DC IN / 16 TRANS (SOURCE)",
+      "price": 1110.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_502cbeaf-825f-43b3-9594-ae703e93b6fb_large.jpg?v=1751470169"
+    },
+    {
+      "product_number": "FX3U-32MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 100 to 240 V AC, 16 DC IN / 16 TRANS (SINK)",
+      "price": 1110.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_3dc3ebe2-dd51-465a-b6bb-4d26e4188b84_large.jpg?v=1751470168"
+    },
+    {
+      "product_number": "FX3U-32MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 24 V DC, 16 DC In/16 Trans (Source)",
+      "price": 1130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_19f1bc05-404f-4812-81e7-67e551d05a48_large.jpg?v=1751470166"
+    },
+    {
+      "product_number": "FX3U-32MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 24 V DC, 16 DC In/16 Trans (Sink)",
+      "price": 1130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_01b445d2-8645-4934-b1f5-ececd2baac7c_large.jpg?v=1751470165"
+    },
+    {
+      "product_number": "FX3U-32MS/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Triac, Program size(k step): 64, Power Supply: 100 to 240 V AC, Power Consumption: 35w",
+      "price": 1130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e8217183-8fdb-498b-a011-0cc4fdbf7a30_large.jpg?v=1751470163"
+    },
+    {
+      "product_number": "FX3U-32MR/UA1",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: AC100V, Program size(k step): 64, Power Supply: 100 to 240 V AC, Power Consumption: 35w",
+      "price": 1130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0ba03786-4119-4b2d-9a5d-a0e2b3dbc132_large.jpg?v=1751470161"
+    },
+    {
+      "product_number": "FX3U-32MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 100 to 240 V AC, 16 DC IN / 16 RELAY OUTPUT",
+      "price": 979.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1125aeba-9327-4214-ac46-288ef6f0c272_large.jpg?v=1751470160"
+    },
+    {
+      "product_number": "FX3U-32MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 24 V DC, 16 DC In/16 Relay Out",
+      "price": 1036.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_208424c7-8d65-495d-89a6-b9d3a562eead_large.jpg?v=1751470158"
+    },
+    {
+      "product_number": "FX3U-16MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 100 to 240 V AC, 8 DC IN / 8 TRANS (SOURCE)",
+      "price": 863.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6e93468f-0647-445e-9319-38184fc5b08c_large.jpg?v=1751470157"
+    },
+    {
+      "product_number": "FX3U-16MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 100 to 240 V AC, 8 DC IN / 8 TRANS (SINK)",
+      "price": 863.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_983e558e-496c-4313-89ae-e291c106f201_large.jpg?v=1751470155"
+    },
+    {
+      "product_number": "FX3U-16MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 64, Power Supply: 24 V DC, 8 DC In/8 Trans (Source)",
+      "price": 863.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ed24cb4e-6ffe-45ea-9e11-c502733752d0_large.jpg?v=1751470154"
+    },
+    {
+      "product_number": "FX3U-16MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 24 V DC, 8 DC In/8 Trans (Sink)",
+      "price": 863.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a64a4565-087b-40b3-bf7c-4210298a987b_large.jpg?v=1751470152"
+    },
+    {
+      "product_number": "FX3U-16MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 100 to 240 V AC, 8 DC IN / 8 RELAY OUTPUT",
+      "price": 799.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fec111ff-c88e-4c46-a4ed-a854fe9b8323_large.jpg?v=1751470150"
+    },
+    {
+      "product_number": "FX3U-16MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 24 V DC. 8 DC In/8 Relay Out",
+      "price": 814.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0a5bdf1e-972d-4c99-95cc-057c3a81d5f4_large.jpg?v=1751470149"
+    },
+    {
+      "product_number": "FX3U-128MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 16 ÔΩû 128, Number Of Inputs(Point): 8 ÔΩû 64, Number Of Output Points(Point): 64, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 3073.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_fbf6f494-28be-48ca-8e0e-89f90718a8f9_large.jpg?v=1751470147"
+    },
+    {
+      "product_number": "FX3U-128MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 128, Number Of Inputs(Point): 64, Number Of Output Points(Point): 64, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 3073.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bfae3f70-5a17-457d-99cc-cce705ff2a77_large.jpg?v=1751470145"
+    },
+    {
+      "product_number": "FX3U-128MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3U Series, Type: Standalone, Number Of Input/Outputs(Point): 128, Number Of Inputs(Point): 64, Number Of Output Points(Point): 64, Input specifications: DC24V sink/source, Program size(k step): 64, Power Supply: 100 to 240 V AC",
+      "price": 2891.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7a058f97-29c7-49c1-8231-f5fa32e090a0_large.jpg?v=1751470144"
+    },
+    {
+      "product_number": "FX3S-30MT/ESS-2AD",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 493.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0151df51-2cdc-4728-bb7d-1f437aad82f8_large.jpg?v=1751470142"
+    },
+    {
+      "product_number": "FX3S-30MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 474.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b5febaf2-b51b-40ed-bd12-1b84a27807f6_large.jpg?v=1751470141"
+    },
+    {
+      "product_number": "FX3S-30MT/ES-2AD",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 493.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c9bc72ed-31da-4000-887d-bcf6ec5bd55d_large.jpg?v=1751470139"
+    },
+    {
+      "product_number": "FX3S-30MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 474.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_33199914-6ff9-477c-a200-f4c9090c1ed7_large.jpg?v=1751470137"
+    },
+    {
+      "product_number": "FX3S-30MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 474.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ef4f24b9-65b4-4a90-a45a-8f0269569d3a_large.jpg?v=1751470136"
+    },
+    {
+      "product_number": "FX3S-30MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 493.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0be038d7-6275-473d-99c7-b48e91d77c73_large.jpg?v=1751470134"
+    },
+    {
+      "product_number": "FX3S-30MR/ES-2AD",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 474.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_db1a0283-1d8b-467b-baad-d039dbdf5285_large.jpg?v=1751470133"
+    },
+    {
+      "product_number": "FX3S-30MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 468.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0979f41d-d280-4b18-b411-577e1d0559ce_large.jpg?v=1751470131"
+    },
+    {
+      "product_number": "FX3S-30MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 14, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 468.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1625ef07-5e42-49c7-b7c5-1b12f27215ee_large.jpg?v=1751470129"
+    },
+    {
+      "product_number": "FX3S-20MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 8, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 380.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_57e72491-38de-4a9a-af7e-519e219fcf75_large.jpg?v=1751470127"
+    },
+    {
+      "product_number": "FX3S-20MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 8, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 380.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c195bf2d-eeb4-4fa0-b9f3-3e7f57ad530c_large.jpg?v=1751470126"
+    },
+    {
+      "product_number": "FX3S-20MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 8, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 380.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f33a6928-10bf-414b-92e5-47fb8052e66b_large.jpg?v=1751470125"
+    },
+    {
+      "product_number": "FX3S-20MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 8, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 395.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_30399823-1e6d-4843-a63d-8aa2caf57c4a_large.jpg?v=1751470123"
+    },
+    {
+      "product_number": "FX3S-20MR/DS-K",
+      "description": "Mitsubishi Electric PLC CPU unit with built-in I/Os - starter kit / bundle (1 x CPU (FX3S-20MR/DS) + 1 x USB cable + MELSOFT s/w.) - Mitsubishi Electric (MELSEC-F - FX3S series) - 20I/O [12DI (12 x digital inputs (24Vdc; Sink/Source)) + 8DO (8 x digital outputs (Rly. NO contacts; 2A / 240Vac or 30Vdc; 10ms response))] - 4Ksteps (EEPROM; Program) memory capacity - connection capacity 30 x I/O points - with USB connector + screw-clamp connections (I.O's) - with RS-422 communication capability - Supply voltage 24Vdc - DIN rail mounting (75mm width) - equivalent to FX3S20MRDSK",
+      "price": 761.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1ad73355-3dae-4554-87f6-2c9e0f1654f0_large.jpg?v=1751470122"
+    },
+    {
+      "product_number": "FX3S-20MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 16ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 8, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 395.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_51668b18-dc64-42d6-9262-d2f3e5732efe_large.jpg?v=1751470120"
+    },
+    {
+      "product_number": "FX3S-14MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 14ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 6, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 291.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_4129c7cb-3c6e-4d6e-81b5-d96fd779ad3a_large.jpg?v=1751470119"
+    },
+    {
+      "product_number": "FX3S-14MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 14ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 6, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 280.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_03a4c12d-8adf-4237-80de-b6bd08faf2b1_large.jpg?v=1751470118"
+    },
+    {
+      "product_number": "FX3S-14MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 14ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 6, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 280.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_3bce1de0-1bfe-42b5-aa86-e64b27442d53_large.jpg?v=1751470116"
+    },
+    {
+      "product_number": "FX3S-14MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 14ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 6, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 291.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c65af816-e652-43bb-932e-658b8cf7ef4d_large.jpg?v=1751470115"
+    },
+    {
+      "product_number": "FX3S-14MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 14ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 6, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 276.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_389d2c62-804b-49c8-8557-801a26c03dc8_large.jpg?v=1751470113"
+    },
+    {
+      "product_number": "FX3S-14MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 14ÔΩû 96, Number Of Inputs(Point): 8 ÔΩû 16, Number Of Output Points(Point): 6, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 276.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0e25b618-1a9d-4f6d-bfb3-01fd9a8234ca_large.jpg?v=1751470112"
+    },
+    {
+      "product_number": "FX3S-10MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 10 ÔΩû 96, Number Of Inputs(Point): 6 ÔΩû 16, Number Of Output Points(Point): 4, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (source)",
+      "price": 235.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_54768fae-bdd1-4ca8-a01b-119520c0ab73_large.jpg?v=1751470110"
+    },
+    {
+      "product_number": "FX3S-10MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 10 ÔΩû 96, Number Of Inputs(Point): 6 ÔΩû 16, Number Of Output Points(Point): 4, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 235.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1bbad045-3cdc-473c-a28a-dd6a9f2f8602_large.jpg?v=1751470109"
+    },
+    {
+      "product_number": "FX3S-10MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 10 ÔΩû 96, Number Of Inputs(Point): 6 ÔΩû 16, Number Of Output Points(Point): 4, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 235.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b7430239-ad29-4447-82c0-ff1b4b27aea4_large.jpg?v=1751470108"
+    },
+    {
+      "product_number": "FX3S-10MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 10 ÔΩû 96, Number Of Inputs(Point): 6 ÔΩû 16, Number Of Output Points(Point): 4, Input specifications: DC24V sink/source, Output specifications: Relay / Transistor (sink)",
+      "price": 245.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_f8bf97fe-50e7-43b8-92d4-141ba5cac1f6_large.jpg?v=1751470106"
+    },
+    {
+      "product_number": "FX3S-10MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Input specifications: DC24V sink/source, Notes: AC power supply DC input type",
+      "price": 232.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_979d9d79-b3c7-4f5c-a1ec-fc88ab8e8eb2_large.jpg?v=1751470105"
+    },
+    {
+      "product_number": "FX3S-10MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 10 ÔΩû 96, Number Of Inputs(Point): 6 ÔΩû 16, Number Of Output Points(Point): 4, Input specifications: DC24V sink/source, Output specifications: Relay",
+      "price": 235.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_a76b3555-4091-474e-bd65-c630a93c047b_large.jpg?v=1751470103"
+    },
+    {
+      "product_number": "FX3GE-40MT/ESS",
+      "description": "Mitsubishi Electric SPS FX3GE AC100-240V; 24 Inputs DC24V; 16xTrans; 3xAnalog; Ethernet; USB; RS422; source, Type: FX3GE, Power Supply (V) 100-240, Current Type AC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Integrated Analogue Inputs: 2, Output Type: Transistor, Output Logic: Source, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 37, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 1169.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e3e78bd6-c5e8-458d-9113-c13ee31bbedd_large.jpg?v=1751470102"
+    },
+    {
+      "product_number": "FX3GE-40MT/ES",
+      "description": "Mitsubishi Electric SPS FX3GE AC100-240V; 24 Inputs DC24V; 16xTrans; 3xAnalog; Ethernet; USB; RS422; sink, Type: FX3GE, Power Supply (V) 100-240, Current Type AC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Integrated Analogue Inputs: 2, Output Type: Transistor, Output Logic: SINK, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 37, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 1169.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5124d7a0-b325-4521-9c8a-8cb4a3ed1d6f_large.jpg?v=1751470100"
+    },
+    {
+      "product_number": "FX3GE-40MT/DSS",
+      "description": "Mitsubishi Electric SPS FX3GE DC24V; 24 Inputs DC24V; 16xTrans; 3xAnalog; Ethernet;USB; RS422; source , Type: FX3GC, Power Supply (V): 24, Current Type: DC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Integrated Analogue Inputs: 2, Output Type: Transistor, Output Logic: Source, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, RS-422: 1, Power Consumption (W): 37, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC-F",
+      "price": 1169.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b1e0302f-4212-4056-88f4-2d1c2e977105_large.jpg?v=1751470099"
+    },
+    {
+      "product_number": "FX3GE-40MT/DS",
+      "description": "Mitsubishi Electric SPS FX3GE DC24V; 24 Inputs DC24V; 16xTrans; 3xAnalog; Ethernet;USB; RS422; sink , Type: FX3GC, Power Supply (V): 24, Current Type: DC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Integrated Analogue Inputs: 2, Output Type: Transistor, Output Logic: SINK, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, RS-422: 1, Power Consumption (W): 37, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC-F",
+      "price": 1169.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0debf44a-6a54-4a1f-81a6-d35f8d881d45_large.jpg?v=1751470097"
+    },
+    {
+      "product_number": "FX3GE-40MR/ES",
+      "description": "Mitsubishi Electric SPS FX3GE AC100-240V; 24 Inputs DC24V; 16xRelay; 3xAnalog; Ethernet; USB; RS422, Type: FX3GE, Power Supply (V) 100-240, Current Type AC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 24, Integrated Digital Outputs: 16, Integrated Analogue Inputs: 2, Output Type: Relay, Output Logic: SINK, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 37, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 1169.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2a380bfa-764d-4706-9348-5dda0d223af5_large.jpg?v=1751470096"
+    },
+    {
+      "product_number": "FX3GE-40MR/DS",
+      "description": "Mitsubishi Electric SPS FX3GE DC24V; 24 Inputs DC24V; 16xRelay; 3xAnalog; Ethernet; USB; RS422, Type: FX3GC, Power Supply (V): 24, Current Type: DC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 16, Integrated Digital Outputs: 16, Output Type: Relay, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, RS-422: 1, Power Consumption (W): 37, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC-F",
+      "price": 1153.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1611f24f-cc87-4a6b-abeb-bfd995317c21_large.jpg?v=1751470095"
+    },
+    {
+      "product_number": "FX3GE-24MT/ESS",
+      "description": "Mitsubishi Electric SPS FX3GE AC100-240V; 14 Inputs DC24V; 10xTrans; 3xAnalog; Ethernet; USB; RS422; source, Type: FX3GE, Power Supply (V) 100-240, Current Type AC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 14, Integrated Digital Outputs: 10, Integrated Analogue Inputs: 2, Output Type: TRANSISTOR, Output Logic: Source, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 32, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 779.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7c58abac-e9a3-4770-8cc9-9d89fbd4c4fb_large.jpg?v=1751470093"
+    },
+    {
+      "product_number": "FX3GE-24MT/ES",
+      "description": "Mitsubishi Electric SPS FX3GE AC100-240V; 14 Inputs DC24V; 10xTrans; 3xAnalog; Ethernet; USB; RS422; sink, Type: FX3GE, Power Supply (V) 100-240, Current Type AC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 14, Integrated Digital Outputs: 10, Integrated Analogue Inputs: 2, Output Type: TRANSISTOR, Output Logic: SINK, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 32, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 779.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_d480ae84-0193-42a3-bbe7-a5cd7e0a4073_large.jpg?v=1751470092"
+    },
+    {
+      "product_number": "FX3GE-24MT/DSS",
+      "description": "Mitsubishi Electric SPS FX3GE DC24V; 14 Inputs DC24V; 10xTrans; 3xAnalog; Ethernet; USB; RS422; source, Type: FX3GE, Power Supply (V): 24, Current Type: DC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 14, Integrated Digital Outputs: 10, Integrated Analogue Inputs: 2, Output Type: TRANSISTOR, Output Logic: Source, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 32, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC-F",
+      "price": 779.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_afe64511-487e-47e2-a58a-06591b2ad87c_large.jpg?v=1751470090"
+    },
+    {
+      "product_number": "FX3GE-24MT/DS",
+      "description": "Mitsubishi Electric SPS FX3GE DC24V; 14 Inputs DC24V; 10xTrans; 3xAnalog; Ethernet; USB; RS422; sink, Type: FX3GE, Power Supply (V): 24, Current Type: DC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 14, Integrated Digital Outputs: 10, Integrated Analogue Inputs: 2, Output Type: TRANSISTOR, Output Logic: SINK, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 32, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC-F",
+      "price": 779.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_33b34479-0f98-452d-ab37-3f63e4b0975d_large.jpg?v=1751470089"
+    },
+    {
+      "product_number": "FX3GE-24MR/ES",
+      "description": "Mitsubishi Electric PLC FX3GE AC100-240V; 14 Inputs DC24V;10xRelay;3xAnalog;Ethernet;USB;RS422, Type: FX3GE, Power Supply (V): 100-240, Current Type: AC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 14, Integrated Digital Outputs: 10, Integrated Analogue Inputs: 2, Output Type: RELAY, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 32, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC-F",
+      "price": 769.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_88db689f-e8f2-4317-8fd9-13ab5f893d9a_large.jpg?v=1751470087"
+    },
+    {
+      "product_number": "FX3GE-24MR/DS",
+      "description": "Mitsubishi Electric SPS FX3GE DC24V; 14 Inputs DC24V; 10xRelay; 3xAnalog; Ethernet; USB; RS422, Type: FX3GE, Power Supply (V): 24, Current Type: DC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 14, Integrated Digital Outputs: 10, Integrated Analogue Inputs: 2, Output Type: RELAY, Local I/O Points: 128, Local + Remote I/O Points: 256, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, Ethernet Port: 1, RS-422: 1, Power Consumption (W): 32, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series: MELSEC-F",
+      "price": 779.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_04773586-933e-43c1-86d1-417b038bb3a1_large.jpg?v=1751470086"
+    },
+    {
+      "product_number": "FX3GC-32MT/DSS",
+      "description": "Mitsubishi Electric PLC FX3GC Base Unit DC24V; 16 inputs(sink/source) DC24V; 16 transistor outputs, Type: FX3GC, Power Supply (V): 24, Current Type: DC, Program Memory: 32K STEPS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 16, Integrated Digital Outputs: 16, Output Type: TRANSISTOR, Output Logic: SOURCE, Local I/O Points: 128, Local + Remote I/O Points: 258, Expandable: YES, Cycle Time LD (ns): 210, Cycle Time MOV (ns): 500, USB: 1, RS-422: 1, Power Consumption (W): 8, Buffer Battery: OPTION, Protection Class: IP10, Min. Ambient Temperature (¬∞C): 0, Max. Ambient Temperature (¬∞C): 55, Series MELSEC-F",
+      "price": 1008.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_00fb3310-5916-4966-b4ff-f4b61650c72a_large.jpg?v=1751470085"
+    },
+    {
+      "product_number": "FX3GC-32MT/D",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 128, Number of input/output devices(Point): 128, Representative Standard: CE(EMC) / KC / UL / cUL",
+      "price": 1103.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b2d0d27f-c40e-4d68-b084-552005815a85_large.jpg?v=1751470083"
+    },
+    {
+      "product_number": "FX3G-60MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 60, Number Of Inputs(Point): 36, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 1420.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_55318da1-c10a-4847-82b1-22b3f6310051_large.jpg?v=1751470082"
+    },
+    {
+      "product_number": "FX3G-60MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 60, Number Of Inputs(Point): 36, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 1401.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_648f47fa-79bd-4567-9c3f-2ca360406a97_large.jpg?v=1751470080"
+    },
+    {
+      "product_number": "FX3G-60MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 60, Number Of Inputs(Point): 36, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 1420.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cf6d9377-1523-4b57-be60-afe07293380d_large.jpg?v=1751470078"
+    },
+    {
+      "product_number": "FX3G-60MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 60, Number Of Inputs(Point): 36, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 1420.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2d4557a7-7720-462e-8892-6198fcb88df8_large.jpg?v=1751470077"
+    },
+    {
+      "product_number": "FX3G-60MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 60, Number Of Inputs(Point): 36, Number Of Output Points(Point): 24, Program size(k step): 32. Power Supply: 100-240 V AC",
+      "price": 1401.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_bbb40222-b02a-4f3f-b688-8e9c9a7a1cdc_large.jpg?v=1751470076"
+    },
+    {
+      "product_number": "FX3G-60MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 60, Number Of Inputs(Point): 36, Number Of Output Points(Point): 24, Input specifications: DC24V sink/source, Program size(k step): 32. Power Supply: 24 V DC",
+      "price": 1420.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5d061b2e-066c-4ad5-a003-ce316dee1287_large.jpg?v=1751470074"
+    },
+    {
+      "product_number": "FX3G-40MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 40, Number Of Inputs(Point): 24, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 1099.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_0da28e47-3a84-4be5-91db-ac86f9c58817_large.jpg?v=1751470073"
+    },
+    {
+      "product_number": "FX3G-40MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 40, Number Of Inputs(Point): 24, Output specifications: Transistor (sink), Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 1099.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_ee630024-2d0b-4d33-97a0-802c2bd167e3_large.jpg?v=1751470071"
+    },
+    {
+      "product_number": "FX3G-40MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 40, Number Of Inputs(Point): 24, Output specifications: Transistor (source), Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 1099.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_e8a71b23-a4a7-482a-8625-58e799f5dbb7_large.jpg?v=1751470070"
+    },
+    {
+      "product_number": "FX3G-40MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 40, Number Of Inputs(Point): 24, Output specifications: Transistor (sink), Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 1099.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_7a0337da-f6df-4969-9f95-90d3c1e1f350_large.jpg?v=1751470068"
+    },
+    {
+      "product_number": "FX3G-40MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 40, Number Of Inputs(Point): 24, Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 1084.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_468f3bc2-c2df-48d2-94a2-c9df8a8423fa_large.jpg?v=1751470067"
+    },
+    {
+      "product_number": "FX3G-40MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 40, Number Of Inputs(Point): 24, Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 1099.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_1c06902d-4729-42db-849c-f231923c8b1a_large.jpg?v=1751470065"
+    },
+    {
+      "product_number": "FX3G-24MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 24, Number Of Inputs(Point): 14, Number Of Output Points(Point): 10, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 615.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_61dc69f1-5349-45dd-b751-0f1bd1f6eee4_large.jpg?v=1751470064"
+    },
+    {
+      "product_number": "FX3G-24MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 24, Number Of Inputs(Point): 14, Number Of Output Points(Point): 10, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 615.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2ffccb2a-58cd-4430-99b0-b1e43cd3e246_large.jpg?v=1751470063"
+    },
+    {
+      "product_number": "FX3G-24MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 24, Number Of Inputs(Point): 14, Number Of Output Points(Point): 10, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 623.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_75923923-36c2-4c8f-87b8-3cba4e5ff613_large.jpg?v=1751470061"
+    },
+    {
+      "product_number": "FX3G-24MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 24, Number Of Inputs(Point): 14, Number Of Output Points(Point): 10, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 623.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_158598a4-24b3-4a22-a706-bcfb5ce58192_large.jpg?v=1751470060"
+    },
+    {
+      "product_number": "FX3G-24MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 24, Number Of Inputs(Point): 14, Number Of Output Points(Point): 10, Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 615.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_2cde67a8-d818-4ad4-96ef-cb46a7ffb197_large.jpg?v=1751470058"
+    },
+    {
+      "product_number": "FX3G-24MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Number Of Input/Outputs(Point): 24, Number Of Inputs(Point): 14, Number Of Output Points(Point): 10, Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 623.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_68ec9f23-c805-48eb-8a75-dafeeaeb4916_large.jpg?v=1751470057"
+    },
+    {
+      "product_number": "FX3G-14MT/ESS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 457.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_c168def6-00b8-44b8-8257-b407a06060aa_large.jpg?v=1751470055"
+    },
+    {
+      "product_number": "FX3G-14MT/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 459.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6051a668-24ff-4164-a87b-34dc77f87574_large.jpg?v=1751470054"
+    },
+    {
+      "product_number": "FX3G-14MT/DSS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (source), Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 459.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_6484e198-7d68-40f3-a4c1-08aa0eecdc90_large.jpg?v=1751470053"
+    },
+    {
+      "product_number": "FX3G-14MT/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Input specifications: DC24V sink/source, Output specifications: Transistor (sink), Program size(k step): 32, Power Supply: 24 V DC",
+      "price": 459.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cfe7de50-252c-4bef-87bf-80a618930b45_large.jpg?v=1751470051"
+    },
+    {
+      "product_number": "FX3G-14MR/ES",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Type: Standalone, Input specifications: DC24V sink/source, Program size(k step): 32, Power Supply: 100 to 240 V AC",
+      "price": 453.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b47af8ca-1fd8-4be2-8de4-50f3c83cfda0_large.jpg?v=1751470050"
+    },
+    {
+      "product_number": "FX3G-14MR/DS",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-F FX3G Series, Power Supply: 24VDC",
+      "price": 459.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_00abe9ee-2857-4226-9194-8d087766629f_large.jpg?v=1751470049"
+    },
+    {
+      "product_number": "FX2N-10PG",
+      "description": "Mitsubishi Electric PLC, FX2N High speed pulse output of 1 MHz, Series: MELSEC-F, Type: FX2N, Number of Axes: 1",
+      "price": 858.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_77b5c006-c2fc-4f51-b890-949be74e38aa_large.jpg?v=1751470047"
+    },
+    {
+      "product_number": "AL2-24MR-D",
+      "description": "Mitsubishi Electric PLC ALPHA Base Unit 15 inputs/9 relay outputs, DC, Type: ALPHA MAIN UNIT, Power Supply (V): 24, Current Type: DC, Program Memory: 200 BLOCKS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 15, Integrated Digital Outputs: 9, Integrated Analogue Inputs: 8, Output Type: RELAY, Local I/O Points: 24, Local + Remote I/O Points: 24, Expandable YES, RS-232: 1, Power Consumption: (W): 9, Buffer Battery: NO, Protection Class: IP20, Min. Ambient Temperature (¬∞C): -25, Max. Ambient Temperature: (¬∞C) 55, Series: ALPHA2,",
+      "price": 466.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_db34f72a-b571-48ba-b78e-770af919dec9_large.jpg?v=1751470046"
+    },
+    {
+      "product_number": "AL2-24MR-A",
+      "description": "Mitsubishi Electric PLC ALPHA Base Unit 15 inputs/9 relay outputs, AC, Type: ALPHA MAIN UNIT, Power Supply (V): 100-240, Current Type: AC, Program Memory: 200 BLOCKS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 15, Integrated Digital Outputs: 9, Output Type: RELAY, Local I/O Points: 24, Local + Remote I/O Points: 24, Expandable YES, RS-232: 1, Power Consumption: (W): 7, Buffer Battery: NO, Protection Class: IP20, Min. Ambient Temperature (¬∞C): -25, Max. Ambient Temperature: (¬∞C) 55, Series: ALPHA2,",
+      "price": 473.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_5a3466b6-e86c-415f-bdbe-c93e9dafcbe6_large.jpg?v=1751470044"
+    },
+    {
+      "product_number": "AL2-14MR-D",
+      "description": "Mitsubishi Electric PLC ALPHA Base Unit 8 inputs/6 relay outputs, DC, Type: ALPHA MAIN UNIT, Power Supply (V): 24, Current Type: DC, Program Memory: 200 BLOCKS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 8, Integrated Digital Outputs: 6, Integrated Analogue Inputs: 8, Output Type: RELAY, Local I/O Points: 14, Local + Remote I/O Points: 14, Expandable: YES, RS-232: 1, Power Consumption: (W): 7.5, Buffer Battery: NO, Protection Class: IP20, Min. Ambient Temperature (¬∞C): -25, Max. Ambient Temperature: (¬∞C) 55, Series: ALPHA2,",
+      "price": 309.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_cbff08cf-0add-4c1f-812e-69940c2f0a06_large.jpg?v=1751470043"
+    },
+    {
+      "product_number": "AL2-14MR-A",
+      "description": "Mitsubishi Electric PLC ALPHA Base Unit 8 inputs/6 relay, outputs, AC, Type ALPHA MAIN UNIT, Power Supply (V) 100-240, Current Type AC, Program Memory 200 BLOCKS, Program Memory Unit EEPROM, Integrated Digital Inputs 8, Integrated Digital Outputs: 6, Output Type: RELAY, Local I/O Points: 14, Local + Remote I/O Points: 14, Expandable: YES, RS-232: 1, Power Consumption (W): 5.5, Buffer Battery: NO, Protection Class: IP20,Min. Ambient Temperature (¬∞C): -25, Max. Ambient Temperature (¬∞C): 55, Series: ALPHA2",
+      "price": 309.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_9f0a1b0e-2014-44dd-91ab-354f9f98ccd8_large.jpg?v=1751470041"
+    },
+    {
+      "product_number": "AL2-10MR-D",
+      "description": "Mitsubishi Electric PLC ALPHA Base Unit 6 inputs/4 relay outputs, DC, Type: ALPHA MAIN UNIT, Power Supply (V): 24, Current Type: DC, Program Memory: 200 BLOCKS, Program Memory Unit: EEPROM, Integrated Digital Inputs: 6, Integrated Digital Outputs: 4, Integrated Analogue Inputs: 6, Output Type: RELAY, Local I/O Points: 10, Local + Remote I/O Points: 10, Expandable: YES, RS-232: 1, Power Consumption (W): 4, Buffer Battery: NO, Protection Class: IP20,Min. Ambient Temperature (¬∞C): -25, Max. Ambient Temperature (¬∞C): 55, Series: ALPHA2",
+      "price": 252.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_10e3d3c3-8b07-438e-b647-12cf1bd1f6b2_large.jpg?v=1751470040"
+    },
+    {
+      "product_number": "AL2-10MR-A",
+      "description": "Mitsubishi Electric PLC ALPHA Base Unit 6 inputs/4 relay outputs, AC, Type: ALPHA Main Unit, Power Supply (V): 100-240, Current Type: AC, Program Memory: 200 BLOCKS, Program Memory Unit: EEPROM",
+      "price": 252.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_-_FX_Series_b7618a8c-d5ff-4a19-90e2-9ed6754c08e2_large.jpg?v=1751470039"
+    }
+  ]
+}

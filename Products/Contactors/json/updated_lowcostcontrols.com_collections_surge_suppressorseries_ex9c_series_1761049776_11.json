@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "product_number": "CCU41A",
+      "description": "(Package of 12 Pieces) Noark Ex9CS Surge Suppressor Block for Miniature Contactor, 6~12A, 24~48 VAC, UL 489, Order Number: 1330017",
+      "price": 187.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_large.png?v=1611083777"
+    },
+    {
+      "product_number": "CCU41B",
+      "description": "(Package of 12 Pieces) Noark Ex9CS Surge Suppressor Block for Miniature Contactor, 6~12A, 110~240 VAC, UL 489, Order Number: 1330018",
+      "price": 187.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_d0ff2627-5dd0-490d-8fc2-f830d78fa884_large.png?v=1611083778"
+    },
+    {
+      "product_number": "CCU41C",
+      "description": "(Package of 12 Pieces) Noark Ex9CS Surge Suppressor Block for Miniature Contactor, 6~12A, 380~415 VAC, UL 489, Order Number: 1330019",
+      "price": 187.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_7efe2cf8-0b60-4d05-9811-2712cbb4b74c_large.png?v=1611083779"
+    },
+    {
+      "product_number": "CCU42A",
+      "description": "(Package of 12 Pieces) Noark Ex9C Surge Suppressor Block for Contactor, 9~38A, 24~48 VAC, UL 489, Order Number: 1330020",
+      "price": 249.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_49757ffd-e84c-444d-b26b-906ae9263da0_large.png?v=1611083780"
+    },
+    {
+      "product_number": "CCU42B",
+      "description": "(Package of 12 Pieces) Noark Ex9C Surge Suppressor Block for Contactor, 9~38A, 110~240 VAC, UL 489, Order Number: 1330021",
+      "price": 249.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_049048e1-756a-4c0a-8079-d229af84ee53_large.png?v=1611083781"
+    },
+    {
+      "product_number": "CCU42C",
+      "description": "(Package of 12 Pieces) Noark Ex9C Surge Suppressor Block for Contactor, 9~38A, 380~415 VAC, UL 489, Order Number: 1330022",
+      "price": 249.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_e4cdb3e7-9d74-42cf-a689-8291e61b6e28_large.png?v=1611083782"
+    },
+    {
+      "product_number": "CCU43A",
+      "description": "(Package of 6 Pieces) Noark Ex9C Surge Suppressor Block for Contactor, 40~100A, 24~48 VAC, UL 489, Order Number: 1330023",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_6ef3433e-fb97-4182-b38c-32409e0986bd_large.png?v=1611083783"
+    },
+    {
+      "product_number": "CCU43B",
+      "description": "(Package of 6 Pieces) Noark Ex9C Surge Suppressor Block for Contactor, 40~100A, 110~240 VAC, UL 489, Order Number: 1330024",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_d2e7fb9f-3f28-47fe-b874-526161a6951a_large.png?v=1611083784"
+    },
+    {
+      "product_number": "CCU43C",
+      "description": "(Package of 6 Pieces) Noark Ex9C Surge Suppressor Block for Contactor, 40~100A, 380~415 VAC, UL 489, Order Number: 1330025",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_1404761f-3e65-453c-b635-139b6a9170a5_large.png?v=1611083785"
+    }
+  ]
+}

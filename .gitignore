@@ -225,3 +225,7 @@ lighthouse-report.html
 # Large vendor PDF files
 vendor-pdfs/
 *-original.pdf
+
+# Extracted/old code directories
+extracted-brands-subcategories/
+extracted-brands-subcategories.backup/

@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "product_number": "TH-P12-0.6A",
+      "description": "(Box of 3 pieces) 0.6A Shihlin Thermal Overload Relay, 0.45 - 0.75A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_large.jpg?v=1609659449"
+    },
+    {
+      "product_number": "TH-P12-1.2A",
+      "description": "(Box of 3 pieces) 1.2A Shihlin Thermal Overload Relay, 0.9 - 1.5A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_2f009e2e-a603-4053-9c50-1ec1e9dd255f_large.jpg?v=1609659481"
+    },
+    {
+      "product_number": "TH-P12-2.1A",
+      "description": "(Box of 3 pieces) 2.1A Shihlin Thermal Overload Relay, 1.6 - 2.6A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_daa81568-2355-45f3-a6ba-589816b3f0db_large.jpg?v=1609659494"
+    },
+    {
+      "product_number": "TH-P12-3.3A",
+      "description": "(Box of 3 pieces) 3.3A Shihlin Thermal Overload Relay, 2.5 - 4.1A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_fa212648-d2d8-4492-bcd1-547f2cd6845a_large.jpg?v=1609659507"
+    },
+    {
+      "product_number": "TH-P12-4.4A",
+      "description": "(Box of 3 pieces) 4.4A Shihlin Thermal Overload Relay, 3.4 - 5.4A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_8f5735b5-2f74-4493-bdaf-d71f273e4a01_large.jpg?v=1609659522"
+    },
+    {
+      "product_number": "TH-P12-6.5 A",
+      "description": "(Box of 3 pieces) 6.5A Shihlin Thermal Overload Relay, 5 - 8A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_e4c71127-426b-453c-8417-4c68e18516a2_large.jpg?v=1609659535"
+    },
+    {
+      "product_number": "TH-P12-9A",
+      "description": "(Box of 3 pieces) 9A Shihlin Thermal Overload Relay, 7 - 11A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_ee1783e0-640e-4a5b-87ca-164e88e9f56a_large.jpg?v=1609659548"
+    },
+    {
+      "product_number": "TH-P12-11A",
+      "description": "(Box of 3 pieces) 11A Shihlin Thermal Overload Relay, 9 - 13A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_b211aa99-f230-448d-b63d-cc99c3be31fc_large.jpg?v=1609659563"
+    },
+    {
+      "product_number": "TH-P12-15A",
+      "description": "(Box of 3 pieces) 15A Shihlin Thermal Overload Relay, 12 - 18A, 2 Pole",
+      "price": 137.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_e2dea7ff-4538-490b-bf09-095e05011d45_large.jpg?v=1609659576"
+    },
+    {
+      "product_number": "TH-P20-15A",
+      "description": "(Box of 3 pieces) 15A Shihlin Thermal Overload Relay, 12 - 18A, 2 Pole",
+      "price": 151.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_large.jpg?v=1609659588"
+    },
+    {
+      "product_number": "TH-P20-21A",
+      "description": "(Box of 3 pieces) 21A Shihlin Thermal Overload Relay, 17 - 24A, 2 Pole",
+      "price": 151.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_ade9713b-b088-4fa2-bf12-2ad9ae6e372b_large.jpg?v=1609659604"
+    },
+    {
+      "product_number": "TH-P20TA-21A",
+      "description": "(Box of 3 pieces) 21A Shihlin Thermal Overload Relay,17 - 24A, 2 Pole",
+      "price": 168.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_878ec5f0-c26d-4bd8-82a8-aa2f3aabe951_large.jpg?v=1609659617"
+    },
+    {
+      "product_number": "TH-P20TA-28A",
+      "description": "(Box of 3 pieces) 28A Shihlin Thermal Overload Relay,22 - 34A, 2 Pole",
+      "price": 168.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_e291332c-099b-43df-b835-467e605f3c04_large.jpg?v=1609659632"
+    },
+    {
+      "product_number": "TH-P20TA-40A",
+      "description": "(Box of 3 pieces) 40A Shihlin Thermal Overload Relay, 32 - 48A, 2 Pole",
+      "price": 176.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_31493c6d-1e5a-4bf6-bfd7-99ed868e7a7d_large.jpg?v=1609659667"
+    }
+  ]
+}

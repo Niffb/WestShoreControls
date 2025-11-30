@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_number": "PEN-D300",
+      "description": "ERIFLEX Disconnectable PEN System, Max Current Rating: 630A,Thread Size: M10, Busbar Width: 30mm, Busbar Thickness: 10mm, 1 Piece in a package, Part no: 568810",
+      "price": 182.53,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Disconnectable_PEN_System_1b4f503a-98b0-48c5-9a84-18dd5e2ed908_large.jpg?v=1605084489"
+    },
+    {
+      "product_number": "PEN-D100",
+      "description": "ERIFLEX Disconnectable PEN System, Max Current Rating: 250A,Thread Size: M8, Busbar Width: 20mm, Busbar Thickness: 5mm, 1 Piece in a package, Part no: 568805",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Disconnectable_PEN_System_dc43606a-c72c-46b3-88f9-e1a1323d5a8b_large.jpg?v=1605084488"
+    },
+    {
+      "product_number": "PEN-D75",
+      "description": "ERIFLEX Disconnectable PEN System, Max Current Rating: 125A,Thread Size: M6, Busbar Width: 15mm, Busbar Thickness: 5mm, 1 Piece in a package, Part no: 568800",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Disconnectable_PEN_System_large.jpg?v=1605084487"
+    }
+  ]
+}

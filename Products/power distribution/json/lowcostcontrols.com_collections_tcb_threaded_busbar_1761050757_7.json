@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "product_number": "TCB12X2-1M",
+      "description": "ERIFLEX TCB Threaded Busbar, 1m Copper, Width : 12mm, Thickness: 2mm, 10 Pieces in a package, Part no: 549230",
+      "price": 417.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_a610691d-cc86-426e-bbe8-ce8b7d785cd4_large.jpg?v=1604823942"
+    },
+    {
+      "product_number": "TCB12X5-1M",
+      "description": "ERIFLEX TCB Threaded Busbar, 1m Copper, Width : 12mm, Thickness: 5mm, 4 Pieces in a package, Part no: 549220",
+      "price": 285.43,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_d493fb24-8602-4f06-bb73-46c1315d1306_large.jpg?v=1604823939"
+    },
+    {
+      "product_number": "TCB25X4-1M",
+      "description": "ERIFLEX TCB Threaded Busbar, 1m Copper, Width : 25mm, Thickness: 4mm, 4 Pieces in a package, Part no: 549210",
+      "price": 444.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_5ec3ae62-2752-4fba-8d86-4afffe0db859_large.jpg?v=1604823937"
+    },
+    {
+      "product_number": "TCB18X4-1M",
+      "description": "ERIFLEX TCB Threaded Busbar, 1m Copper, Width : 18mm, Thickness: 4mm, 4 Pieces in a package, Part no: 549200",
+      "price": 354.02,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_large.jpg?v=1604823934"
+    }
+  ]
+}

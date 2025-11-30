@@ -1,0 +1,760 @@
+{
+  "products": [
+    {
+      "product_number": "Ex9C0911B7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320576",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_large.png?v=1611070280"
+    },
+    {
+      "product_number": "Ex9C0911C7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320577",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b7474ee5-c3d0-43e1-bfd0-5208b5cf8d71_large.png?v=1611070281"
+    },
+    {
+      "product_number": "Ex9C0911D7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320578",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_92c7402e-ec5b-443c-98b9-0d089cd144b6_large.png?v=1611070282"
+    },
+    {
+      "product_number": "Ex9C0911E7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320579",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c34f3360-351b-4002-81c9-24d1a8498f78_large.png?v=1611070283"
+    },
+    {
+      "product_number": "Ex9C0911F7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320580",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e1a05983-e8c2-41f9-8ee8-749871375bc8_large.png?v=1611070284"
+    },
+    {
+      "product_number": "Ex9C0911G7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320581",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_9cd39a37-be10-43cb-9558-e8d1e0dc1074_large.png?v=1611070285"
+    },
+    {
+      "product_number": "Ex9C0911M7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320582",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_0284becd-bd9b-4187-b51f-c53f05041ae2_large.png?v=1611070286"
+    },
+    {
+      "product_number": "Ex9C0911P7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320583",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_73f29b1a-e829-436d-b081-f39a04640b03_large.png?v=1611070288"
+    },
+    {
+      "product_number": "Ex9C0911N7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320584",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3a97cf34-b0c6-4442-9b45-723f0eb414e7_large.png?v=1611070289"
+    },
+    {
+      "product_number": "Ex9C0911U7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320585",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a4105f00-d2c5-4a32-bf1e-c65ce7aa62e2_large.png?v=1611070290"
+    },
+    {
+      "product_number": "Ex9C0911Q7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320586",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e40f4ebc-84ab-49c1-8973-6183e4e6c7b4_large.png?v=1611070291"
+    },
+    {
+      "product_number": "Ex9C0911V7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320587",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e269b7e3-6e86-45e3-8898-c0bae8cf7d44_large.png?v=1611070292"
+    },
+    {
+      "product_number": "Ex9C0911Z7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320588",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_83aaf02b-1dc7-4669-9640-19986ae92af3_large.png?v=1611070293"
+    },
+    {
+      "product_number": "Ex9C0911R7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320589",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e75f852d-7696-44b4-a5e0-1e846827a38e_large.png?v=1611070294"
+    },
+    {
+      "product_number": "Ex9C0911T7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320590",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4feb355f-d501-4782-9fe6-1e3093f98e2e_large.png?v=1611070296"
+    },
+    {
+      "product_number": "Ex9C0911S7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320591",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_aba54f4d-f72b-483b-b1d4-6736d38b9234_large.png?v=1611070297"
+    },
+    {
+      "product_number": "Ex9C0911Y7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320592",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e8c2a944-4878-4bed-95f0-5d777941bb93_large.png?v=1611070298"
+    },
+    {
+      "product_number": "Ex9C0911X7",
+      "description": "(Package of 12 Pieces) 9A Noark Miniature Contactor, 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320593",
+      "price": 243.36,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_02c3cc14-3e47-4fed-a599-15fb8b3eab21_large.png?v=1611070299"
+    },
+    {
+      "product_number": "Ex9C1211B7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320594",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1f89e472-31dc-411b-8838-b13e6faeee4f_large.png?v=1611070300"
+    },
+    {
+      "product_number": "Ex9C1211C7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320595",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_5447cee4-d644-4fd5-81f7-c3be85109de4_large.png?v=1611070301"
+    },
+    {
+      "product_number": "Ex9C1211D7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320596",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_fae6a822-ab9c-454a-8bec-f096b13d78ab_large.png?v=1611070302"
+    },
+    {
+      "product_number": "Ex9C1211E7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320597",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_fe779bc9-c929-43ee-90b2-caf4a34103b5_large.png?v=1611070304"
+    },
+    {
+      "product_number": "Ex9C1211F7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320598",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ad91eab4-be89-43c3-9af5-5746aed54626_large.png?v=1611070305"
+    },
+    {
+      "product_number": "Ex9C1211G7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320599",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_cd3e8769-ded2-4413-9ad3-0fa75f0985a8_large.png?v=1611070306"
+    },
+    {
+      "product_number": "Ex9C1211M7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320600",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a19b87a2-bf60-4647-8a0b-21b54e287754_large.png?v=1611070307"
+    },
+    {
+      "product_number": "Ex9C1211P7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320601",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4444a5dc-de0e-4b38-843b-f99b85d07e85_large.png?v=1611070308"
+    },
+    {
+      "product_number": "Ex9C1211N7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320602",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_cebbaf6a-83a1-4ac4-806e-29b46ec8a91c_large.png?v=1611070309"
+    },
+    {
+      "product_number": "Ex9C1211U7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320603",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_866043df-0ab8-457d-ac4b-7662eba54a38_large.png?v=1611070310"
+    },
+    {
+      "product_number": "Ex9C1211Q7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320604",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e58cc55e-629d-41cb-b07e-93e9ada130d7_large.png?v=1611070311"
+    },
+    {
+      "product_number": "Ex9C1211V7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320605",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_111038ba-b856-4dbc-a758-a3d9202b4a66_large.png?v=1611070312"
+    },
+    {
+      "product_number": "Ex9C1211Z7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320606",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_17fd6953-5bad-430a-8d25-08d7e1f60381_large.png?v=1611070313"
+    },
+    {
+      "product_number": "Ex9C1211R7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320607",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_12038091-9302-4136-9fac-889aba8fbbab_large.png?v=1611070314"
+    },
+    {
+      "product_number": "Ex9C1211T7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320608",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_cfb26e56-a38c-462c-b835-71642c2a6e77_large.png?v=1611070315"
+    },
+    {
+      "product_number": "Ex9C1211S7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320609",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_677f0642-0864-49b5-84de-5483f6ede15c_large.png?v=1611070316"
+    },
+    {
+      "product_number": "Ex9C1211Y7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320610",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_12e4fd04-1a10-45c2-baf5-7d3dca2d3919_large.png?v=1611070317"
+    },
+    {
+      "product_number": "Ex9C1211X7",
+      "description": "(Package of 6 Pieces) 12A Noark Miniature Contactor, 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320611",
+      "price": 134.78,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_075454bc-6f08-438a-8453-9e55b8f2934e_large.png?v=1611070318"
+    },
+    {
+      "product_number": "Ex9C1811B7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320612",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c41cf6da-8edf-4b59-8d26-096a922ee1a2_large.png?v=1611070320"
+    },
+    {
+      "product_number": "Ex9C1811C7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320613",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_403ecb42-a1f7-4157-93ee-1f2f21eb2fba_large.png?v=1611070321"
+    },
+    {
+      "product_number": "Ex9C1811D7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320614",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_09b3d0a5-a46d-44b0-9cc1-8e20be98231a_large.png?v=1611070322"
+    },
+    {
+      "product_number": "Ex9C1811E7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320615",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4f3cd496-d82d-4aac-99e9-893b363eed1e_large.png?v=1611070323"
+    },
+    {
+      "product_number": "Ex9C1811F7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320616",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2478ea60-b0a7-4ba3-ac16-4aa532063e1f_large.png?v=1611070324"
+    },
+    {
+      "product_number": "Ex9C1811G7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320617",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2d96e982-461d-4013-9ca7-8bb6e1d7ba17_large.png?v=1611070325"
+    },
+    {
+      "product_number": "Ex9C1811M7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320618",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a4806854-69ce-47d8-8a72-9bf1c0f1eaca_large.png?v=1611070326"
+    },
+    {
+      "product_number": "Ex9C1811P7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320619",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_48133201-4b54-4ce1-9655-c1ea6b620a3a_large.png?v=1611070328"
+    },
+    {
+      "product_number": "Ex9C1811N7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320620",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_51271bf3-e74a-4879-be2b-ed09ef74cfe2_large.png?v=1611070329"
+    },
+    {
+      "product_number": "Ex9C1811U7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320621",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e36f31d3-bd42-477e-8eb4-5807305c5f2e_large.png?v=1611070330"
+    },
+    {
+      "product_number": "Ex9C1811Q7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320622",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_51302f26-25ba-4333-898e-c605f9b7bf26_large.png?v=1611070331"
+    },
+    {
+      "product_number": "Ex9C1811V7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320623",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_dfd51e0a-e685-43a1-800f-a00512e4909c_large.png?v=1611070332"
+    },
+    {
+      "product_number": "Ex9C1811Z7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320624",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_0c8a894f-bb19-4b58-97b1-244ae86decfb_large.png?v=1611070334"
+    },
+    {
+      "product_number": "Ex9C1811R7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320625",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_7a222895-8b97-4187-ad11-e49649bcb36b_large.png?v=1611070335"
+    },
+    {
+      "product_number": "Ex9C1811T7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320626",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b001522b-5bf8-4e92-b88d-92641aca4956_large.png?v=1611070336"
+    },
+    {
+      "product_number": "Ex9C1811S7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320627",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_6e4674c8-8c63-4b10-9516-ab20e1007081_large.png?v=1611070337"
+    },
+    {
+      "product_number": "Ex9C1811Y7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320628",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_adeff9bd-03a9-4573-bd08-ae70415c9c73_large.png?v=1611070338"
+    },
+    {
+      "product_number": "Ex9C1811X7",
+      "description": "(Package of 6 Pieces) 18A Noark Miniature Contactor, 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320629",
+      "price": 168.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a55c68ea-be36-4b80-b706-c00ab82ae8a9_large.png?v=1611070340"
+    },
+    {
+      "product_number": "Ex9C2511B7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320630",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3dcd5a45-5415-4854-b78f-5e2088608179_large.png?v=1611070342"
+    },
+    {
+      "product_number": "Ex9C2511C7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320631",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_55a10384-0187-47d8-883a-1d414935c229_large.png?v=1611070343"
+    },
+    {
+      "product_number": "Ex9C2511D7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320632",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b7cb3d46-3779-4433-af3a-a1c39175b0f0_large.png?v=1611070344"
+    },
+    {
+      "product_number": "Ex9C2511E7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320633",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d264e4df-ae4f-45aa-bad4-46fd786eee85_large.png?v=1611070345"
+    },
+    {
+      "product_number": "Ex9C2511F7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320634",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_01129506-0ecc-44c1-bcfa-8429f9a8ea56_large.png?v=1611070346"
+    },
+    {
+      "product_number": "Ex9C2511G7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320635",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ced6f726-30e8-4af3-a438-401d6f4c0c61_large.png?v=1611070347"
+    },
+    {
+      "product_number": "Ex9C2511M7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320636",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_573426a1-512f-4ab8-9bf6-d9fecb4068ef_large.png?v=1611070348"
+    },
+    {
+      "product_number": "Ex9C2511P7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320637",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_19969f56-4015-44a2-b0f5-8c5eadff7f3e_large.png?v=1611070349"
+    },
+    {
+      "product_number": "Ex9C2511N7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320638",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_97c3d28f-e921-45fa-af31-1fa64648070e_large.png?v=1611070350"
+    },
+    {
+      "product_number": "Ex9C2511U7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320639",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f29972be-3056-4801-8e07-d5d1ef54a6d5_large.png?v=1611070351"
+    },
+    {
+      "product_number": "Ex9C2511Q7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320640",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_de437a5e-a539-45fa-9442-17c6c0a08456_large.png?v=1611070352"
+    },
+    {
+      "product_number": "Ex9C2511V7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320641",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1cdfb16e-3ea8-413b-a186-8b4e4410a479_large.png?v=1611070353"
+    },
+    {
+      "product_number": "Ex9C2511Z7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320642",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c7b54979-9fea-4c2e-9467-559d2a97d667_large.png?v=1611070354"
+    },
+    {
+      "product_number": "Ex9C2511R7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320643",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_12794f4b-1376-4ef2-a37e-484610bff732_large.png?v=1611070355"
+    },
+    {
+      "product_number": "Ex9C2511T7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320644",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d4620562-bfe1-4061-bb73-9c83c572c3e3_large.png?v=1611070356"
+    },
+    {
+      "product_number": "Ex9C2511S7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320645",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b6be74f3-4a8b-438e-b580-480e8ee2c193_large.png?v=1611070357"
+    },
+    {
+      "product_number": "Ex9C2511Y7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320646",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c420eddb-367c-4517-a87b-30d07bec5d4a_large.png?v=1611070358"
+    },
+    {
+      "product_number": "Ex9C2511X7",
+      "description": "(Package of 4 Pieces) 25A Noark Miniature Contactor, 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320647",
+      "price": 132.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_9dfb013e-2003-44fd-bcc4-4e554b872de6_large.png?v=1611070360"
+    },
+    {
+      "product_number": "Ex9C3211B7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320648",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_71922540-64d5-42e6-86e5-aae2a9d70183_large.png?v=1611070361"
+    },
+    {
+      "product_number": "Ex9C3211C7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320649",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d147e4a5-323b-40e7-a238-9633b19f5658_large.png?v=1611070362"
+    },
+    {
+      "product_number": "Ex9C3211D7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320650",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_21c0b94e-111a-4f89-b24e-4804aff00e1b_large.png?v=1611070363"
+    },
+    {
+      "product_number": "Ex9C3211E7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320651",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_24c9c37d-7c78-4c86-a122-fbe5271f90f5_large.png?v=1611070364"
+    },
+    {
+      "product_number": "Ex9C3211F7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320652",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1fdb5a5e-3084-4325-a371-a58f06f33088_large.png?v=1611070365"
+    },
+    {
+      "product_number": "Ex9C3211G7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320653",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_42b4c674-102e-440c-898f-6c273a1036b6_large.png?v=1611070366"
+    },
+    {
+      "product_number": "Ex9C3211M7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320654",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_bc6ba336-f2ac-483e-a48d-6cb052265a59_large.png?v=1611070367"
+    },
+    {
+      "product_number": "Ex9C3211P7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320655",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4d0e643f-749b-4e5a-a326-997407652dd5_large.png?v=1611070368"
+    },
+    {
+      "product_number": "Ex9C3211N7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320656",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4d30ca8c-4deb-49ef-a884-b0bf3abc8bf9_large.png?v=1611070369"
+    },
+    {
+      "product_number": "Ex9C3211U7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320657",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f84d1d75-995c-49f7-820a-30d1e455f14c_large.png?v=1611070370"
+    },
+    {
+      "product_number": "Ex9C3211Q7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320658",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_77c53cb7-9259-4204-ab83-dadc41dbe9f1_large.png?v=1611070371"
+    },
+    {
+      "product_number": "Ex9C3211V7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320659",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_61fef791-4df5-44ff-8517-cbaffd34289c_large.png?v=1611070372"
+    },
+    {
+      "product_number": "Ex9C3211Z7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320660",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2d650c3d-461f-4c2a-a4d1-12957751dbaa_large.png?v=1611070373"
+    },
+    {
+      "product_number": "Ex9C3211R7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320661",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d1fcdd2d-6acb-4a70-9861-1fe009f74cdd_large.png?v=1611070374"
+    },
+    {
+      "product_number": "Ex9C3211T7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320662",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c1f04964-cecc-4fa7-af7b-1a9fa2da9f8c_large.png?v=1611070375"
+    },
+    {
+      "product_number": "Ex9C3211S7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320663",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_116d395e-2de7-40ca-9df7-02b3f7364728_large.png?v=1611070377"
+    },
+    {
+      "product_number": "Ex9C3211Y7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320664",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f9ce08e5-c83d-46c3-ad9b-48813f052732_large.png?v=1611070378"
+    },
+    {
+      "product_number": "Ex9C3211X7",
+      "description": "(Package of 3 Pieces) 32A Noark Miniature Contactor, 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320665",
+      "price": 148.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_5c8fb07f-b6a1-4b8e-8c72-0c407a064173_large.png?v=1611070378"
+    },
+    {
+      "product_number": "Ex9C3811B7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320666",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_6fa9c180-3f85-4688-9533-9e158f446ee6_large.png?v=1611070379"
+    },
+    {
+      "product_number": "Ex9C3811C7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320667",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_6cf9ba9b-b414-4680-b205-a2d7d7f99f5a_large.png?v=1611070380"
+    },
+    {
+      "product_number": "Ex9C3811D7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320668",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2436832c-699d-4a3a-819a-e0f3c301279c_large.png?v=1611070381"
+    },
+    {
+      "product_number": "Ex9C3811E7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320669",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_9a847900-df42-4c53-8ec7-1a4cef4bc87d_large.png?v=1611070383"
+    },
+    {
+      "product_number": "Ex9C3811F7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320670",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3fc73a1f-8197-44e1-8feb-e7e5e2ee2a38_large.png?v=1611070384"
+    },
+    {
+      "product_number": "Ex9C3811G7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320671",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ef858401-4f50-419b-8b75-5608fb2278f7_large.png?v=1611070385"
+    },
+    {
+      "product_number": "Ex9C3811M7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320672",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1c3e5a56-af66-42af-a65f-6986a10324cc_large.png?v=1611070386"
+    },
+    {
+      "product_number": "Ex9C3811P7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320673",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4ce4413f-afb3-475e-8ea1-754e77cccd51_large.png?v=1611070387"
+    },
+    {
+      "product_number": "Ex9C3811N7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320674",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a591117a-71a1-450d-840c-de8036554966_large.png?v=1611070388"
+    },
+    {
+      "product_number": "Ex9C3811U7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320675",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_707e62cc-52ba-48c9-ae51-ee3c1355952b_large.png?v=1611070389"
+    },
+    {
+      "product_number": "Ex9C3811Q7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320676",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_57ff63e8-3cb5-445e-8056-82eb28f0edba_large.png?v=1611070390"
+    },
+    {
+      "product_number": "Ex9C3811V7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320677",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3c792c16-2157-4002-af06-eb2cd727a0a0_large.png?v=1611070391"
+    },
+    {
+      "product_number": "Ex9C3811Z7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320678",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f22180cc-0c04-46b9-bbeb-5d9a5e6dd659_large.png?v=1611070392"
+    },
+    {
+      "product_number": "Ex9C3811R7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320679",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d7b93fbd-3441-4926-9d16-18746615b08d_large.png?v=1611070393"
+    },
+    {
+      "product_number": "Ex9C3811T7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320680",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_462f3794-fe90-462e-a1b6-de172730a3bc_large.png?v=1611070394"
+    },
+    {
+      "product_number": "Ex9C3811S7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320681",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_029fd320-92da-4b97-8889-674f231a83ea_large.png?v=1611070395"
+    },
+    {
+      "product_number": "Ex9C3811Y7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320682",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_0b082ff4-18d0-4b7c-be44-e8e0efd5d6d7_large.png?v=1611070397"
+    },
+    {
+      "product_number": "Ex9C3811X7",
+      "description": "(Package of 3 Pieces) 38A Noark Miniature Contactor, 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320683",
+      "price": 185.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ca6c412a-cfda-4581-ab68-83e18e1cb3b6_large.png?v=1611070398"
+    }
+  ]
+}

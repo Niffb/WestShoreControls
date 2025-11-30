@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "product_number": "SBS-4",
+      "description": "(Package of 2 Pieces) ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 4 mm, 100 Meters in a package, Part no: 554000",
+      "price": 237.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_large.jpg?v=1605161739"
+    },
+    {
+      "product_number": "SBS-6",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 6 mm, 100 Meters in a package, Part no: 554010",
+      "price": 156.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_1c9831e0-4480-4e44-9957-9c87b7f9706f_large.jpg?v=1605161740"
+    },
+    {
+      "product_number": "SBS-8",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 8 mm, 100 Meters in a package, Part no: 554020",
+      "price": 226.63,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_d268fd4a-acd5-412d-81e4-2f7d4fc21b80_large.jpg?v=1605161741"
+    },
+    {
+      "product_number": "SBS-10",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 10 mm, 100 Meters in a package, Part no: 554030",
+      "price": 291.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_d5166c4c-c464-415d-ad34-999795efe1ca_large.jpg?v=1605161742"
+    },
+    {
+      "product_number": "SBS-12",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 12 mm, 100 Meters in a package, Part no: 554040",
+      "price": 405.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_3ae18182-74ed-4013-aa20-1825b6574038_large.jpg?v=1605161743"
+    },
+    {
+      "product_number": "SBS-15",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 15 mm, 25 Meters in a package, Part no: 554050",
+      "price": 178.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_c5d292b6-169b-4c05-9e47-6fc3d7a39cb6_large.jpg?v=1605161744"
+    },
+    {
+      "product_number": "SBS-20",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 20 mm, 25 Meters in a package, Part no: 554060",
+      "price": 273.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_10ce8dcd-0509-4213-bbd8-9b2e5637cacb_large.jpg?v=1605161745"
+    },
+    {
+      "product_number": "SBS-25",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 25 mm, 30 Meters in a package, Part no: 554070",
+      "price": 426.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_72e1b6ba-0f1b-4d62-a939-c39a1b85a48c_large.jpg?v=1605161746"
+    },
+    {
+      "product_number": "SBS-30",
+      "description": "ERIFLEX SBS Isolating Silicone Sleeve, Material: Fiberglass; Silicone, Insulation Voltage: 2.5 kV, Diameter: 30 mm, 30 Meters in a package, Part no: 554080",
+      "price": 565.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_3aa0bedc-ce78-4bda-9616-8b4d47548858_large.jpg?v=1605161747"
+    }
+  ]
+}

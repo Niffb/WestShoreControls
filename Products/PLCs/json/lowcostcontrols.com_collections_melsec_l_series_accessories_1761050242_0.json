@@ -1,0 +1,760 @@
+{
+  "products": [
+    {
+      "product_number": "NZ1MEM-8GBSD",
+      "description": "Mitsubishi Electric PLC Touch Panel Accessories, SD Memory Card for GOT1000 Series, Type: Memory Card, Classification: SD memory card, Memory Capacity: 8 GB",
+      "price": 855.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_f6af5ea7-51e2-4518-8132-02f29fa4613a_large.jpg?v=1751193876"
+    },
+    {
+      "product_number": "NZ1MEM-4GBSD",
+      "description": "Mitsubishi Electric PLC Touch Panel Accessories, SD Memory Card for GOT1000 Series, Type: Memory Card, Classification: SD memory card, Memory Capacity: 4 GB",
+      "price": 473.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_e353ad1b-6ba7-46a5-9e23-b0a95dfe57a4_large.jpg?v=1751193873"
+    },
+    {
+      "product_number": "NZ1MEM-2GBSD",
+      "description": "Mitsubishi Electric PLC Touch Panel Accessories, SD Memory Card for GOT1000 Series, Type: Memory Card, Classification: SD memory card, Memory Capacity: 2 GB",
+      "price": 282.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_282952af-78a7-4815-804d-3f62fadc30cc_large.jpg?v=1751193871"
+    },
+    {
+      "product_number": "NZ1MEM-16GBSD",
+      "description": "Mitsubishi Electric PLC Touch Panel Accessories, SD Memory Card for GOT1000 Series, Type: Memory Card, Classification: SD memory card, Memory Capacity: 16 GB",
+      "price": 1559.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_c7088224-81c8-48bc-af25-eb9b898c3c95_large.jpg?v=1751193869"
+    },
+    {
+      "product_number": "ME1IOL6-L",
+      "description": "Mitsubishi Electric PLC L Series IO-Link Master Module; 6 channels, Series MELSEC-L, Type: MASTER STATION, Power Supply (V): 24, Current Type: DC, Network Interface: IO-LINK",
+      "price": 1439.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_79b9ed92-8046-4799-bd6a-8ecc80ee544c_large.jpg?v=1751193866"
+    },
+    {
+      "product_number": "LY42PT1P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, Melsec L Series, Output Format: Transistor/Source Output, Number Of Output Points(Point): 64, Type of unit: Output, Chemical resistance: Conformal Coating",
+      "price": 456.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_c7db6467-45c0-4090-9113-3740ca2757ff_large.jpg?v=1751193864"
+    },
+    {
+      "product_number": "LY42PT1P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, Melsec L Series, Output Format: Transistor/Source Output, Number Of Output Points(Point): 64, Type of unit: Output",
+      "price": 412.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_5011e7dc-7336-4a4d-bb2e-682909bc0174_large.jpg?v=1751193862"
+    },
+    {
+      "product_number": "LY42NT1P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, Melsec L Series, Representative Standard: UL / CUL, Feature: 32 points 1 common, Maximum Load Current: 0.1 A / 1 point, Output answer time: 1, Terminal shape: 40-pin connector √ó 2, Type of unit: Transistor output (sink), Rated load voltage(V): 10.2 to 28.8 DC, Chemical resistance: Conformal Coating",
+      "price": 608.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_18dd102d-7d9f-4245-8f8a-87b6e9091a41_large.jpg?v=1751193859"
+    },
+    {
+      "product_number": "LY42NT1P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, Melsec L Series, Representative Standard: UL / CUL, Feature: 32 points 1 common, Maximum Load Current: 0.1 A / 1 point, Output answer time: 1, Terminal shape: 40-pin connector √ó 2, Type of unit: Transistor output (sink), Rated load voltage(V): 10.2 to 28.8 DC",
+      "price": 546.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_9d114c2b-5d8e-47b4-b129-1cb58016c57b_large.jpg?v=1751193857"
+    },
+    {
+      "product_number": "LY41PT1P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Transistor/Source Output, Number Of Output Points(Point): 32 Type of unit: Output, Chemical resistance: Conformal Coating",
+      "price": 338.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_48f65be1-b4d3-4076-bec7-c316f7e129e7_large.jpg?v=1751193854"
+    },
+    {
+      "product_number": "LY41PT1P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Transistor/Source Output, Number Of Output Points(Point): 32 Type of unit: Output",
+      "price": 307.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_9d9cd0a0-82c4-48a2-8ad6-392e29ed5a99_large.jpg?v=1751193852"
+    },
+    {
+      "product_number": "LY41NT1P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Representative Standard: UL / CUL, Feature: 32 points 1 common, Maximum Load Current: 0.1 A / 1 point, Output answer time: 1, Type of unit: Transistor output (sink), Rated load voltage(V): 10.2 to 28.8 DC, Chemical resistance: Conformal Coating",
+      "price": 371.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_ccf179d1-174d-419a-9ac5-ddfc842a705d_large.jpg?v=1751193850"
+    },
+    {
+      "product_number": "LY41NT1P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Representative Standard: UL / CUL, Feature: 32 points 1 common, Maximum Load Current: 0.1 A / 1 point, Output answer time: 1, Type of unit: Transistor output (sink), Rated load voltage(V): 10.2 to 28.8 DC",
+      "price": 319.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_8d6ec197-81aa-4b30-aa51-9ed53a26b051_large.jpg?v=1751193845"
+    },
+    {
+      "product_number": "LY40PT5P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Transistor/Source Output, Number Of Output Points(Point): 16, Type of unit: Output, Chemical resistance: Conformal Coating",
+      "price": 231.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_c5e8de41-4f11-427b-b80d-78354fb5f6c8_large.jpg?v=1751193842"
+    },
+    {
+      "product_number": "LY40PT5P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Transistor/Source Output, Number Of Output Points(Point): 16, Type of unit: Output",
+      "price": 190.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_469b4b89-e35a-4a38-890d-5e59fbcc777c_large.jpg?v=1751193839"
+    },
+    {
+      "product_number": "LY40NT5P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Transistor/Sync Output, Number Of Output Points(Point): 16, Type of unit: Output, Chemical resistance: Conformal Coating",
+      "price": 169.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_2a05efc4-9abf-451d-b218-d861f1170012_large.jpg?v=1751193836"
+    },
+    {
+      "product_number": "LY40NT5P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Transistor/Sync Output, Number Of Output Points(Point): 16, Type of unit: Output",
+      "price": 150.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_bdda8068-b210-47aa-a7fa-af324e122650_large.jpg?v=1751193833"
+    },
+    {
+      "product_number": "LY28S1A",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Triac Output, Number Of Output Points(Point): 8, Type of unit: Output",
+      "price": 282.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_8066a316-5ef0-4579-8208-1abc690ddfb8_large.jpg?v=1751193831"
+    },
+    {
+      "product_number": "LY20S6-C",
+      "description": "Mitsubishi Electric SPS, L-Series Output Module; 100-240 VAC; 16 Outputs, Series MELSEC-L, Type: TRIAC OUTPUT, Occupied I/O Points on PLC: 16, Integrated Digital Outputs: 16, Output Type: TRIAC, Rated Load Voltage (VAC): 100-240, Wiring: SCREW, Int. Current Consumption (A): 0.3, Chemical resistance: Conformal Coating",
+      "price": 512.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_33afe341-28c7-480e-b168-1d395a8aec9b_large.jpg?v=1751193829"
+    },
+    {
+      "product_number": "LY20S6",
+      "description": "Mitsubishi Electric SPS, L-Series Output Module; 100-240 VAC; 16 Outputs, Series MELSEC-L, Type: TRIAC OUTPUT, Occupied I/O Points on PLC: 16, Integrated Digital Outputs: 16, Output Type: TRIAC, Rated Load Voltage (VAC): 100-240, Wiring: SCREW, Int. Current Consumption (A): 0.3",
+      "price": 324.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_1219e7b7-61b9-4b7a-b303-3f285e6b37cf_large.jpg?v=1751193826"
+    },
+    {
+      "product_number": "LY18R2A",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Output Format: Relay Contact Output, Number Of Output Points(Point): 8, Type of unit: Output",
+      "price": 235.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_6a65f662-138e-4e1a-a357-ae649f56acf1_large.jpg?v=1751193824"
+    },
+    {
+      "product_number": "LY10R2-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Representative Standard: UL / CUL, Feature: 16 points 1 common, Maximum Load Current: 2 A / 1 point, Output answer time: 12, Type of unit: Relay output, Rated load voltage(V): 24 DC / 240 AC, Chemical resistance: Conformal Coating",
+      "price": 248.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_9b8f932b-efe2-4279-bcde-b641bc7e030a_large.jpg?v=1751193822"
+    },
+    {
+      "product_number": "LY10R2",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-L Series, Representative Standard: UL / CUL, Feature: 16 points 1 common, Maximum Load Current: 2 A / 1 point, Output answer time: 12, Type of unit: Relay output, Rated load voltage(V): 24 DC / 240 AC",
+      "price": 202.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_28716822-09c9-42ac-a63e-95b4d66c5434_large.jpg?v=1751193819"
+    },
+    {
+      "product_number": "LX42C4-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, MELSEC-L Series, Rated Input Voltage(V): 20.4 to 28.8 DC, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 64, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Terminal shape: 40-pin connector √ó 2, Type of unit: DC input, Chemical resistance: Conformal Coating",
+      "price": 518.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_9dab3d29-6e90-4a63-9654-754ae83a9326_large.jpg?v=1751193817"
+    },
+    {
+      "product_number": "LX42C4",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, MELSEC-L Series, Rated Input Voltage(V): 20.4 to 28.8 DC, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 64, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Terminal shape: 40-pin connector √ó 2, Type of unit: DC input",
+      "price": 463.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_46f9244e-37af-453d-ab86-79797868c69f_large.jpg?v=1751193815"
+    },
+    {
+      "product_number": "LX41C4-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, MELSEC-L Series, Rated Input Voltage(V): 20.4 to 28.8 DC, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 32, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Type of unit: DC input, Chemical resistance: Conformal Coating",
+      "price": 366.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_464581e3-79b8-4c32-98b3-e3c77b6cbbbd_large.jpg?v=1751193812"
+    },
+    {
+      "product_number": "LX41C4",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, MELSEC-L Series, Rated Input Voltage(V): 20.4 to 28.8 DC, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 32, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Type of unit: DC input",
+      "price": 312.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_b222f322-405e-44d1-90da-435d65cfac00_large.jpg?v=1751193809"
+    },
+    {
+      "product_number": "LX40C6-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, MELSEC-L Series, Rated Input Voltage(V): 20.4 to 28.8 DC, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 6 , Input Answer Time: 1/5/10/20/70, Type of unit: DC input, Chemical resistance: Conformal Coating",
+      "price": 242.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_41386ef3-3905-4685-8dc4-bc45bf3ecffe_large.jpg?v=1751193805"
+    },
+    {
+      "product_number": "LX40C6",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, MELSEC-L Series, Rated Input Voltage(V): 20.4 to 28.8 DC, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 6 , Input Answer Time: 1/5/10/20/70, Type of unit: DC input",
+      "price": 191.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_fa13d292-c15a-4a36-a806-a24c2125a8c7_large.jpg?v=1751193803"
+    },
+    {
+      "product_number": "LX28-C",
+      "description": "Mitsubishi Electric PLC, L-Series Input Module; 100-240 ; 8 Inputs, Series MELSEC-L, Type: AC INPUT, Power Supply (V): 100-240, Current Type: AC, Occupied I/O Points on PLC: 16, Integrated Digital Inputs: 8, Rated Input Voltage (VAC): 100-240, Wiring: SCREW, Int. Current Consumption (A): 0.08, Chemical resistance: Conformal Coating",
+      "price": 225.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_beb6dff4-7b2a-458c-8db9-5c779bd6c55b_large.jpg?v=1751193799"
+    },
+    {
+      "product_number": "LX28",
+      "description": "Mitsubishi Electric PLC, L-Series Input Module; 100-240 ; 8 Inputs, Series MELSEC-L, Type: AC INPUT, Power Supply (V): 100-240, Current Type: AC, Occupied I/O Points on PLC: 16, Integrated Digital Inputs: 8, Rated Input Voltage (VAC): 100-240, Wiring: SCREW, Int. Current Consumption (A): 0.08",
+      "price": 203.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_3a8d40f3-e212-4136-852e-e6f9cb98f15a_large.jpg?v=1751193796"
+    },
+    {
+      "product_number": "LX10-C",
+      "description": "Mitsubishi Electric L Series Input Unit, Rated Input Voltage(V): AC100 to 120V, Number Of Inputs(Point): 16, Type of unit: Input, Chemical resistance: Conformal Coating",
+      "price": 298.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_7da2feed-9206-4f2b-9e33-d6ae83d7bdf4_large.jpg?v=1751193794"
+    },
+    {
+      "product_number": "LX10",
+      "description": "Mitsubishi Electric L Series Input Unit, Rated Input Voltage(V): AC100 to 120V, Number Of Inputs(Point): 16, Type of unit: Input",
+      "price": 202.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_95a88278-fb12-400d-8432-4c5a061f2428_large.jpg?v=1751193792"
+    },
+    {
+      "product_number": "LJ72MS15",
+      "description": "Mitsubishi Electric SPS, L-Series SSCNETIII/H Headstation, Series: MELSEC-L, Type: LOCAL STATION, Network Interface: SSCNET III/H",
+      "price": 922.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_d246cce1-0bcb-4fff-86f1-441960d475f1_large.jpg?v=1751193790"
+    },
+    {
+      "product_number": "LJ72GF15-T2",
+      "description": "Mitsubishi Electric PLC Communication Units, CC-Link IE Field Network Master Local Unit, L Series, Communication speed(kbps): 1 Gbps, Remote I/O: 16384 points",
+      "price": 1370.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_ca4bcbf6-6ff0-46c8-ba5b-373efc45982b_large.jpg?v=1751193787"
+    },
+    {
+      "product_number": "LJ71GF11-T2-K1",
+      "description": "Mitsubishi Electric Communication module - Mitsubishi Electric (MELSEC-L series) - connection capacity 16384 x remote I.O. - with CC-Link communication capability",
+      "price": 715.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_853c7d70-771b-42f5-9ef7-12374b00811d_large.jpg?v=1751193785"
+    },
+    {
+      "product_number": "LJ71GF11-T2-C",
+      "description": "Mitsubishi Electric PLC Communication Units, CC-Link IE Field Network Master Local Unit, L Series, Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: CC-Link IE field network master local unit, Communication speed(kbps): 1 Gbps, Chemical resistance: Conformal Coating",
+      "price": 805.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_89d247bb-bb95-4ca0-bb45-23f0d13a1f62_large.jpg?v=1751193783"
+    },
+    {
+      "product_number": "LJ71GF11-T2",
+      "description": "Mitsubishi Electric PLC Communication Units, CC-Link IE Field Network Master Local Unit, L Series, Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: CC-Link IE field network master local unit, Communication speed(kbps): 1 Gbps",
+      "price": 707.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_4ff94e20-f215-4eef-a42a-b26fbd980e43_large.jpg?v=1751193781"
+    },
+    {
+      "product_number": "LJ71E71-100",
+      "description": "Mitsubishi Electric L Series Ethernet Interface Unit, Communication Interface Transmission Standard: Ethernet, Connection Terminal: Connector, Representative Standard: CE / UL / CUL",
+      "price": 1231.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_17d00a96-b67d-41f2-9d80-8e3dc2980733_large.jpg?v=1751193779"
+    },
+    {
+      "product_number": "LJ71C24-R2-C",
+      "description": "Mitsubishi Electric SPS, L-Series Serial Interface Module; Series: MELSEC-L, Interface: RS-232, Chemical resistance: Conformal Coating",
+      "price": 590.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_a73156a0-5bf6-49c2-abdc-85c004dbc5fd_large.jpg?v=1751193777"
+    },
+    {
+      "product_number": "LJ71C24-R2",
+      "description": "Mitsubishi Electric SPS, L-Series Serial Interface Module; Series: MELSEC-L, Interface: RS-232",
+      "price": 535.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_2fa252cf-996e-41be-b299-87c16ece8522_large.jpg?v=1751193775"
+    },
+    {
+      "product_number": "LJ71C24-C",
+      "description": "Mitsubishi Electric SPS, L-Series Serial Interface Module; Series: MELSEC-L, Interface: RS-232, RS-422/485, Chemical resistance: Conformal Coating",
+      "price": 653.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_66c373d1-f8b3-4ac6-bb9a-c3ad721efd64_large.jpg?v=1751193773"
+    },
+    {
+      "product_number": "LJ71C24",
+      "description": "Mitsubishi Electric SPS, L-Series Serial Interface Module; Series: MELSEC-L, Interface: RS-232, RS-422/485",
+      "price": 535.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_e7b64908-69e6-45b5-b8a9-1ceb147ee696_large.jpg?v=1751193771"
+    },
+    {
+      "product_number": "LJ61BT11-C",
+      "description": "Mitsubishi Electric MELSEC-L Series CC-Link Unit, V2 MASTER/SLAVE, Chemical resistance: Conformal Coating",
+      "price": 450.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_94be4ce4-0fc3-4899-83a4-354c5bc0d80b_large.jpg?v=1751193768"
+    },
+    {
+      "product_number": "LJ61BT11",
+      "description": "Mitsubishi Electric MELSEC-L Series CC-Link Unit, V2 MASTER/SLAVE",
+      "price": 396.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_0a0ad279-a3fb-4c19-bd15-1bc0cd61d142_large.jpg?v=1751193766"
+    },
+    {
+      "product_number": "LJ51AW12AL",
+      "description": "Mitsubishi Electric PLC L Series AnyWireASLINK Master, Series: MELSEC-L, Type: MASTER STATION, Power Supply (V): 24, Current Type: DC, Network Interface: ANYWIREASLINK",
+      "price": 1382.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_e2f18b31-66fd-416f-bec8-45d7ddbca757_large.jpg?v=1751193764"
+    },
+    {
+      "product_number": "LH42C4PT1P",
+      "description": "Mitsubishi Electric PLC IO Units, DC Input / Transistor Output Combined Unit, L Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Source Output, Number Of Inputs(Point): 32, Number Of Output Points(Point): 32, Type of unit: Input/output",
+      "price": 686.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_ae0da0bc-561a-4ecf-9658-40673de21d27_large.jpg?v=1751193762"
+    },
+    {
+      "product_number": "LH42C4NT1P",
+      "description": "Mitsubishi Electric PLC IO Units, DC Input / Transistor Output Combined Unit, L Series, Rated Input Voltage(V): DC24V, Output Format: Transistor/Sync Output, Number Of Inputs(Point): 32, Number Of Output Points(Point): 32, Type of unit: Input/output",
+      "price": 618.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_9172981f-6eee-4fe8-8714-596378154963_large.jpg?v=1751193760"
+    },
+    {
+      "product_number": "LG69",
+      "description": "Mitsubishi Electric L Series Space Unit, Type of unit: Space unit for ans unit replacement",
+      "price": 333.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_8914634e-d635-4c03-932a-ede51c9c927c_large.jpg?v=1751193758"
+    },
+    {
+      "product_number": "LD75P4-C",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 4 Axis; Output 200kpps; open collector, Series: MELSEC-L, Type: OPEN COLLECTOR OUTPUT, Number of Axes: 4, Int. Current Consumption (A): 0.55, Chemical resistance: Conformal Coating",
+      "price": 1669.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_4aa66930-91ed-4653-b0a4-82f55d83c12c_large.jpg?v=1751193756"
+    },
+    {
+      "product_number": "LD75P4",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 4 Axis; Output 200kpps; open collector, Series: MELSEC-L, Type: OPEN COLLECTOR OUTPUT, Number of Axes: 4, Int. Current Consumption (A): 0.55",
+      "price": 1529.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_cf57b8f8-d824-44b2-9554-83ba0473f737_large.jpg?v=1751193754"
+    },
+    {
+      "product_number": "LD75P2",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 2 Axis; Output 200 kpps; open collector, Series: MELSEC-L, Type: OPEN COLLECTOR OUTPUT, Number of Axes: 2, Int. Current Consumption (A): 0.48",
+      "price": 1012.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_076b2c25-6976-4912-9df6-425287d194d7_large.jpg?v=1751193751"
+    },
+    {
+      "product_number": "LD75P1",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 1 Axis; Output 200 kpps; open collector, Series: MELSEC-L, Type: OPEN COLLECTOR OUTPUT, Number of Axes: 1, Int. Current Consumption (A): 0.44",
+      "price": 736.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_915ade65-084a-4569-8edb-82df084c960c_large.jpg?v=1751193749"
+    },
+    {
+      "product_number": "LD75D4-C",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 4 Axis; Output 4 Mpps; differential driver, Series: MELSEC-L, Type: DIFFERENTIAL DRIVER OUTPUT, Number of Axes: 4, Int. Current Consumption (A): 0.76, Chemical resistance: Conformal Coating",
+      "price": 1669.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_61f418c5-def9-4aa4-9f58-2c4ed65c1b5a_large.jpg?v=1751193747"
+    },
+    {
+      "product_number": "LD75D4",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 4 Axis; Output 4 Mpps; differential driver, Series: MELSEC-L, Type: DIFFERENTIAL DRIVER OUTPUT, Number of Axes: 4, Int. Current Consumption (A): 0.76",
+      "price": 1529.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_a6023d47-58ff-42e6-97aa-5356f595f1b0_large.jpg?v=1751193745"
+    },
+    {
+      "product_number": "LD75D2",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 2 Axis; Output 4 Mpps; differential driver, Series: MELSEC-L, Type: DIFFERENTIAL DRIVER OUTPUT, Number of Axes: 2, Int. Current Consumption (A): 0.62",
+      "price": 984.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_75f2e06c-938a-408f-86a2-bceee3406dc7_large.jpg?v=1751193743"
+    },
+    {
+      "product_number": "LD75D1",
+      "description": "Mitsubishi Electric PLC, L-Series Positioning Module; 1 Axis; Output 4 Mpps; differential driver, Series: MELSEC-L, Type: DIFFERENTIAL DRIVER OUTPUT, Number of Axes: 1, Int. Current Consumption (A): 0.51",
+      "price": 674.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_d06c3553-44cc-4f84-9287-ae292b121e64_large.jpg?v=1751193741"
+    },
+    {
+      "product_number": "LD62D-C",
+      "description": "Mitsubishi Electric PLC Communication Units, High-Speed Counter Unit, MELSEC-L Series, Number of Channels: 2 channels, Counting Speed Switching Settings: 500 k pulse/s, Input Voltage: 5 V DC, DIFFRNTL IN, Chemical resistance: Conformal Coating",
+      "price": 787.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_c881268a-2b93-4a49-8b3b-f2e57765601f_large.jpg?v=1751193739"
+    },
+    {
+      "product_number": "LD62D",
+      "description": "Mitsubishi Electric PLC Communication Units, High-Speed Counter Unit, MELSEC-L Series, Number of Channels: 2 channels, Counting Speed Switching Settings: 500 k pulse/s, Input Voltage: 5 V DC, DIFFRNTL IN",
+      "price": 715.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_b78a577c-932e-4e1c-ab4b-063595dda3e5_large.jpg?v=1751193737"
+    },
+    {
+      "product_number": "LD62-C",
+      "description": "Mitsubishi Electric PLC Communication Units, High-Speed Counter Unit, MELSEC-L Series, Number of Channels: 2 channels, Counting Speed Switching Settings: 200 k, Input Voltage: 5 V DC, Chemical resistance: Conformal Coating",
+      "price": 732.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_a69c90f6-f2fc-4e48-a078-43d4efa587db_large.jpg?v=1751193734"
+    },
+    {
+      "product_number": "LD62",
+      "description": "Mitsubishi Electric PLC Communication Units, High-Speed Counter Unit, MELSEC-L Series, Number of Channels: 2 channels, Counting Speed Switching Settings: 200 k, Input Voltage: 5 V DC",
+      "price": 658.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_32e12ea5-472f-4f9c-9dd7-35181948b2b6_large.jpg?v=1751193732"
+    },
+    {
+      "product_number": "LD40PD01",
+      "description": "Mitsubishi Electric PLC, L-Series High-Speed I/O Module, Series: MELSEC-L, Type: FLEXIBLE HIGH-SPEED IO CONTROL, Number of Channels: 12, Int. Current Consumption (A): 0.66",
+      "price": 1378.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_b3c5507a-2867-4524-926d-084d07630cf1_large.jpg?v=1751193731"
+    },
+    {
+      "product_number": "LCBL40P-5M",
+      "description": "Mitsubishi Electric .I/O PIGTAIL CABLE / cordset - Mitsubishi Electric - with 40-pin connector - 5m / 16ft length",
+      "price": 368.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_48b90a82-6a4c-49ed-badb-9c994329e020_large.jpg?v=1751193729"
+    },
+    {
+      "product_number": "LCBL40P-2M",
+      "description": "Mitsubishi Electric I/O PIGTAIL CABLE/ cordset - Mitsubishi Electric - with 40-pin connector - 2m / 6ft length",
+      "price": 289.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_9449f40d-b407-4c31-b7c6-35352c192cb4_large.jpg?v=1751193726"
+    },
+    {
+      "product_number": "LCBL40P-10M",
+      "description": "Mitsubishi Electric I.O. cable / cordset - Mitsubishi Electric - with 40-pin connector - 10m / 32ft length",
+      "price": 642.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_8ea4c2db-ba41-44e4-80e8-aea16331901f_large.jpg?v=1751193724"
+    },
+    {
+      "product_number": "LC30E",
+      "description": "Mitsubishi Electric PLC Compatible Cable, Expansion, L Series, Type: Expansion, Product type: Expansion cable, Length(m): 3",
+      "price": 268.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_34b83f44-d862-4d2a-b27c-027af43c6d3a_large.jpg?v=1751193722"
+    },
+    {
+      "product_number": "LC10E",
+      "description": "Mitsubishi Electric PLC Compatible Cable, Expansion, L Series, Type: Expansion, Product type: Expansion cable, Length(m): 1",
+      "price": 131.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_b702d8c8-330b-4939-9dfc-1b51f39e0da4_large.jpg?v=1751193720"
+    },
+    {
+      "product_number": "LC06E",
+      "description": "Mitsubishi Electric PLC Compatible Cable, Expansion, L Series, Type: Expansion, Product type: Expansion cable, Length(m): 0.6",
+      "price": 72.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_cabd82e0-ccd6-4464-aa0a-a1ea613a6a54_large.jpg?v=1751193718"
+    },
+    {
+      "product_number": "LA1S68B",
+      "description": "Mitsubishi Electric AnS to L CONV EXPANSION BASE UNIT, 8 slots, AnS Series power supply module required, for AnS Series modules",
+      "price": 680.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_c68028c8-9ed0-4acf-935f-52af9338c6e4_large.jpg?v=1751193716"
+    },
+    {
+      "product_number": "LA1S65B",
+      "description": "Mitsubishi Electric AnS to L CONV EXPANSION BASE UNIT, 5 slots, AnS Series power supply module required, for AnS Series modules",
+      "price": 552.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_997c4362-047f-4e48-8dcc-bbed2544bf71_large.jpg?v=1751193714"
+    },
+    {
+      "product_number": "L6TE-18S",
+      "description": "Mitsubishi Electric L Series Spring Clamp Terminal Block, Representative Standard: CE, Type of unit: Spring clamp terminal block",
+      "price": 77.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_96e657da-1fd9-4b62-9eb9-6706fc8da5df_large.jpg?v=1751193712"
+    },
+    {
+      "product_number": "L6EXE-C",
+      "description": "Mitsubishi Electric PLC Accessories, Branch Extension Module, L Series, Model name before replacement: Expansion unit, Size (W √ó H √ó D)(mm): 28.5 x 90 x 95, Consumed current(A): 0.08, Power Supply Voltage: 5 VDC, Chemical resistance: Conformal Coating",
+      "price": 248.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_21e995c9-ec64-4e71-821f-5cf4d17211cd_large.jpg?v=1751193710"
+    },
+    {
+      "product_number": "L6EXE",
+      "description": "Mitsubishi Electric PLC Accessories, Branch Extension Module, L Series, Model name before replacement: Expansion unit, Size (W √ó H √ó D)(mm): 28.5 x 90 x 95, Consumed current(A): 0.08, Power Supply Voltage: 5 VDC",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_ca09b1d4-7892-4daf-9245-0e0e15061fe2_large.jpg?v=1751193709"
+    },
+    {
+      "product_number": "L6EXB-C",
+      "description": "Mitsubishi Electric PLC Accessories, Branch Extension Module, L Series, Model name before replacement: Branching unit, Size (W √ó H √ó D)(mm): 28.5 x 90 x 95, Consumed current(A): 0.08, Power Supply Voltage: 5 VDC, Chemical resistance: Conformal Coating",
+      "price": 248.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_0dee3a10-a770-4f70-9491-da577a54be16_large.jpg?v=1751193706"
+    },
+    {
+      "product_number": "L6EXB",
+      "description": "Mitsubishi Electric PLC Accessories, Branch Extension Module, L Series, Model name before replacement: Branching unit, Size (W √ó H √ó D)(mm): 28.5 x 90 x 95, Consumed current(A): 0.08, Power Supply Voltage: 5 VDC",
+      "price": 230.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_17675377-b421-4837-b463-32b0a0ee8e4f_large.jpg?v=1751193704"
+    },
+    {
+      "product_number": "L6EC-ET-C",
+      "description": "Mitsubishi Electric L Series END Cover With ERR Terminal, Representative Standard: CE / UL / CUL, Type of unit: END cover with ERR terminal, Chemical resistance: Conformal Coating",
+      "price": 131.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_052ad265-827e-4676-834f-ad31f5b1cf12_large.jpg?v=1751193702"
+    },
+    {
+      "product_number": "L6EC-ET",
+      "description": "Mitsubishi Electric L Series END Cover With ERR Terminal, Representative Standard: CE / UL / CUL, Type of unit: END cover with ERR terminal",
+      "price": 122.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_4994690b-9ccf-41dd-873b-53f7bd98d540_large.jpg?v=1751193700"
+    },
+    {
+      "product_number": "L6EC-C",
+      "description": "Mitsubishi Electric SPS L Series; End Cover for System Extension, Series MELSEC-L, Type: END COVER, Chemical resistance: Conformal Coating",
+      "price": 142.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_14bdd9fa-a8d2-4ba7-b50a-99a703ab9059_large.jpg?v=1751193698"
+    },
+    {
+      "product_number": "L6EC",
+      "description": "Mitsubishi Electric SPS L Series; End Cover for System Extension, Series MELSEC-L, Type: END COVER",
+      "price": 130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_58220ca2-06c4-400b-88b9-afd8bf2fa74a_large.jpg?v=1751193696"
+    },
+    {
+      "product_number": "L6DSPU",
+      "description": "Mitsubishi Electric PLC CPU Units, Sequencer, MELSEC-L Series, Diplay unit.",
+      "price": 279.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_bf551f21-af02-4b58-93d7-215ae6be7b1e_large.jpg?v=1751193694"
+    },
+    {
+      "product_number": "L6ADP-R4",
+      "description": "Mitsubishi Electric PLC, L-Series Serial Module; RS422/485; 115.2 kbps, Series: MELSEC-L, Interface: RS-422/485",
+      "price": 389.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_42792bb2-4b2f-4e09-af97-0e187bd633e6_large.jpg?v=1751193690"
+    },
+    {
+      "product_number": "L6ADP-R2-C",
+      "description": "Mitsubishi Electric PLC Communication Units, RS-232 Adapter, L Series, Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: RS-232 adapter, Chemical resistance: Conformal Coating",
+      "price": 355.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_d1290ef6-e835-44ae-97bd-f86f7f13ba29_large.jpg?v=1751193688"
+    },
+    {
+      "product_number": "L6ADP-R2",
+      "description": "Mitsubishi Electric PLC Communication Units, RS-232 Adapter, L Series, Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: RS-232 adapter",
+      "price": 360.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_143a6a11-050c-45ea-8167-5cb5304ff557_large.jpg?v=1751193685"
+    },
+    {
+      "product_number": "L63SP",
+      "description": "Mitsubishi Electric PLC, L-Series Power Supply; 24 VDC; Output 5VDC, 5A (Non-insulated), Series: MELSEC-L, Type: SLIM TYPE POWER SUPPLY, Power Supply (V): 24, Current Type: DC, Max Input Power (W): 45, Output Current 5V (A): 5",
+      "price": 203.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_ee7e31e9-1a99-4d10-90e3-c4df74cb415d_large.jpg?v=1751193683"
+    },
+    {
+      "product_number": "L63P-C",
+      "description": "Mitsubishi Electric PLC Power Supply Unit, AC 100 to 240V, L Series, Input Voltage: DC24V, Output Voltage/Current: DC5V/5A, Compatible Standards: UL/cUL/CE, Chemical resistance: Conformal Coating",
+      "price": 242.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_bff9a660-7ecc-4ad5-8c70-879a30510457_large.jpg?v=1751193680"
+    },
+    {
+      "product_number": "L63P",
+      "description": "Mitsubishi Electric PLC Power Supply Unit, AC 100 to 240V, L Series, Input Voltage: DC24V, Output Voltage/Current: DC5V/5A, Compatible Standards: UL/cUL/CE",
+      "price": 185.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_e83192eb-b461-42e1-96d1-71b2d138dd50_large.jpg?v=1751193678"
+    },
+    {
+      "product_number": "L61P-C",
+      "description": "Mitsubishi Electric PLC Power Supply Unit, AC 100 to 240V, L Series, Input Voltage: AC100 to 240V, Output Voltage/Current: DC5V/5A, Compatible Standards: UL/cUL/CE, Chemical resistance: Conformal Coating",
+      "price": 209.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_936b55c8-272a-4ed2-ad59-c89dfe1ce712_large.jpg?v=1751193676"
+    },
+    {
+      "product_number": "L61P",
+      "description": "Mitsubishi Electric PLC Power Supply Unit, AC 100 to 240V, L Series, Input Voltage: AC100 to 240V, Output Voltage/Current: DC5V/5A, Compatible Standards: UL/cUL/CE",
+      "price": 185.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_7844e0a3-e130-49aa-be92-91ef59ee6e47_large.jpg?v=1751193674"
+    },
+    {
+      "product_number": "L60TCTT4BW-C",
+      "description": "Mitsubishi Electric SPS, L-Series PT100 Module; 4 channels; Transistor Output; sensor monitoring, Series: MELSEC-L, Type: TEMPERATURE CONTROL, Occupied I/O Points on PLC: 16, Integrated Analogue Inputs: 4, Input Type: RTD, Applicable RTD Type: JPT100, PT100, Int. Current Consumption (A): 0.35, Chemical resistance: Conformal Coating",
+      "price": 1276.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_883de8bb-26cf-4748-b407-64f762d7afd5_large.jpg?v=1751193672"
+    },
+    {
+      "product_number": "L60TCTT4BW",
+      "description": "Mitsubishi Electric L Series Temperature Adjustment Unit, Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: Temperature adjustment unit (transistor output), Note: With wire break",
+      "price": 1164.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_4e6d80eb-cf87-4428-af45-46245ec7a0d0_large.jpg?v=1751193670"
+    },
+    {
+      "product_number": "L60TCTT4-C",
+      "description": "Mitsubishi Electric L Series Temperature Adjustment Unit(TC), Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: Temperature adjustment unit (transistor output), Channel: 4, Chemical resistance: Conformal Coating",
+      "price": 1107.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_bfaceb3d-ffa0-4012-bbe3-0ab6244de75e_large.jpg?v=1751193668"
+    },
+    {
+      "product_number": "L60TCTT4",
+      "description": "Mitsubishi Electric L Series Temperature Adjustment Unit(TC), Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: Temperature adjustment unit (transistor output), Channel: 4",
+      "price": 865.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_345e4e69-ec9d-42c4-98fa-057baa09512e_large.jpg?v=1751193666"
+    },
+    {
+      "product_number": "L60TCRT4BW-C",
+      "description": "Mitsubishi Electric SPS, L-Series PT100 Module; 4 channels; Transistor Output; sensor monitoring, Series: MELSEC-L, Type: TEMPERATURE CONTROL, Occupied I/O Points on PLC: 16, Integrated Analogue Inputs: 4, Input Type: RTD, Applicable RTD Type: JPT100, PT100, Int. Current Consumption (A): 0.35, Chemical resistance: Conformal Coating",
+      "price": 1276.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_a5d33c0b-1d0f-4128-bd46-d63366cd5181_large.jpg?v=1751193664"
+    },
+    {
+      "product_number": "L60TCRT4BW",
+      "description": "Mitsubishi Electric SPS, L-Series PT100 Module; 4 channels; Transistor Output; sensor monitoring, Series: MELSEC-L, Type: TEMPERATURE CONTROL, Occupied I/O Points on PLC: 16, Integrated Analogue Inputs: 4, Input Type: RTD, Applicable RTD Type: JPT100, PT100, Int. Current Consumption (A): 0.35",
+      "price": 1164.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_4246ffc3-1e86-4621-9311-8131ccd9a13f_large.jpg?v=1751193662"
+    },
+    {
+      "product_number": "L60TCRT4-C",
+      "description": "Mitsubishi Electric L Series Temperature Adjustment Unit(PT100), Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: Temperature adjustment unit (transistor output), Channel: 4, Chemical resistance: Conformal Coating",
+      "price": 1012.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_a53f9bd4-b66a-45a0-b742-a43583501c67_large.jpg?v=1751193660"
+    },
+    {
+      "product_number": "L60TCRT4",
+      "description": "Mitsubishi Electric L Series Temperature Adjustment Unit(PT100), Communication Interface Transmission Standard: Other, Representative Standard: CE / UL / CUL, Type of unit: Temperature adjustment unit (transistor output), Channel: 4",
+      "price": 1008.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_72337595-3a69-421a-b151-0599af405697_large.jpg?v=1751193658"
+    },
+    {
+      "product_number": "L60RD8",
+      "description": "Mitsubishi Electric PLC L-Series 8 channels analog input, RTD, Series: MELSEC-L, Type: TEMPERATURE INPUT, Occupied I/O Points on PLC: 16, Integrated Analogue Inputs: 8, Input Type: RTD, Applicable RTD Type: PT50, PT1000, PT100, NI500, NI120, NI100, JPT100, CU50, CU100, Int. Current Consumption (A): 0.22",
+      "price": 888.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_3db6e438-987e-468e-a910-81d99194dfab_large.jpg?v=1751193656"
+    },
+    {
+      "product_number": "L60MD4-G",
+      "description": "Mitsubishi Electric PLC L-Series Multiple input (voltage/ current/ temperature) module, Series MELSEC-L, Type: MULTIPLE INPUT (VOL/CURR/TEMP), Occupied I/O Points on PLC: 16, Integrated Analogue Inputs: 4, Input Type: THERMOCOUPLE,RTD,VOLTAGE,CURRE, Applicable RTD Type: PT50, PT1000, PT100, JPT100, Applicable Thermocouple Type: K, J, E, B, U, T, S, R, PLII, N, L, Int. Current Consumption (A): 0.49",
+      "price": 747.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_fa0444ee-7f8c-456c-ba64-5d8558457d1d_large.jpg?v=1751193654"
+    },
+    {
+      "product_number": "L60DAVL8",
+      "description": "Mitsubishi Electric PLC Communication Units, Analog/Digital Conversion Unit, L Series, Communication Interface Transmission Standard: Other, Converter: Voltage, Representative Standard: CE / UL / CUL, Type of unit: Analog/digital conversion unit: (8 ch)",
+      "price": 1298.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_00982e42-3ade-44d7-9139-4ec6571ebfcb_large.jpg?v=1751193652"
+    },
+    {
+      "product_number": "L60DAIL8",
+      "description": "Mitsubishi Electric PLC Communication Units, Analog/Digital Conversion Unit, L Series, Communication Interface Transmission Standard: Other, Converter: Current, Representative Standard: CE / UL / CUL, Type of unit: Analog/digital conversion unit: (8 ch)",
+      "price": 1180.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_f75c91b9-60c6-4ceb-bb60-74b5e1c660cf_large.jpg?v=1751193650"
+    },
+    {
+      "product_number": "L60DA4-C",
+      "description": "Mitsubishi Electric PLC Analog Units, Output, MELSEC-L Series, Type: Output, Number of Output Channels: 4, Representative Standard: CE / UL, Voltage output range: -10 VDC to 10 V, D/A conversion time: 20Œºs/1ch, Terminal shape: 18-point terminal block, Chemical resistance: Conformal Coating",
+      "price": 1017.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_72f6ab0d-1880-4931-9fa8-5a3f3c70bae7_large.jpg?v=1751193648"
+    },
+    {
+      "product_number": "L60DA4",
+      "description": "Mitsubishi Electric PLC Analog Units, Output, MELSEC-L Series, Type: Output, Number of Output Channels: 4, Representative Standard: CE / UL, Voltage output range: -10 VDC to 10 V, D/A conversion time: 20Œºs/1ch, Terminal shape: 18-point terminal block",
+      "price": 801.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_9304e82c-5506-43ce-b2dc-2d0e1cf06403_large.jpg?v=1751193646"
+    },
+    {
+      "product_number": "L60ADVL8",
+      "description": "Mitsubishi Electric PLC Communication Units, Analog/Digital Conversion Unit, L Series, Communication Interface Transmission Standard: Other, Input: Voltage, Representative Standard: CE / UL / CUL, Type of unit: Analog/digital conversion unit: (8 ch)",
+      "price": 925.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_e79bf7b1-4e4b-4690-93b3-7ee0bd99b789_large.jpg?v=1751193644"
+    },
+    {
+      "product_number": "L60ADIL8",
+      "description": "Mitsubishi Electric PLC Communication Units, Analog/Digital Conversion Unit, L Series, Communication Interface Transmission Standard: Other, Input: Current, Representative Standard: CE / UL / CUL, Type of unit: Analog/digital conversion unit: (8 ch)",
+      "price": 842.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_e5c7d5bb-6ba2-4e0a-82c7-474ef1a0c8a6_large.jpg?v=1751193642"
+    },
+    {
+      "product_number": "L60AD4-C",
+      "description": "Mitsubishi Electric PLC Analog Units, Input, MELSEC-L Series, Type: Input, Input Type: Voltage / Current, Number of Input Channels: 4, A/D Conversion Time Speed: 10 to Less than 100 ŒºS, Representative Standard: CE / UL, Terminal shape: 18-point terminal block, Chemical resistance: Conformal Coating",
+      "price": 736.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_f9b7877f-f036-49da-88e0-c451024dc65c_large.jpg?v=1751193640"
+    },
+    {
+      "product_number": "L60AD4-2GH",
+      "description": "Mitsubishi Electric L-series dual channel isolated high resolution analogue digital converter module, Series: MELSEC-L, Type: DUAL CHANNEL ISOLATION INPUT, Occupied I/O Points on PLC: 16, Integrated Analogue Inputs: 4, Input Voltage Range (V): -10-10; 0-10; 0-5; 1-5, Input Current Range (mA): 0-20; 4-20, Wiring: SCREW, Int. Current Consumption (A): 0.76",
+      "price": 960.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_664992e5-75c6-4728-a5ca-7f89b980e507_large.jpg?v=1751193638"
+    },
+    {
+      "product_number": "L60AD4",
+      "description": "Mitsubishi Electric PLC Analog Units, Input, MELSEC-L Series, Type: Input, Input Type: Voltage / Current, Number of Input Channels: 4, A/D Conversion Time Speed: 10 to Less than 100 ŒºS, Representative Standard: CE / UL, Terminal shape: 18-point terminal block",
+      "price": 588.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_ccc1f039-c9e0-4452-96c9-50b02cd06791_large.jpg?v=1751193636"
+    },
+    {
+      "product_number": "L60AD2DA2",
+      "description": "Mitsubishi Electric PLC Communication Units, Analog/Digital Conversion Unit, L Series, Representative Standard: CE / UL / CUL, Type of unit: Analog/digital conversion unit: (2 ch)",
+      "price": 713.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_L_Series_5845b5c2-61c5-45f4-88e4-8e8e17badb5e_large.jpg?v=1751193634"
+    }
+  ]
+}

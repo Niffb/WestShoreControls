@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "product_number": "PDBS5G",
+      "description": "(Package of 2 Pieces) ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 5 mm, 100 Meters in a package, Part no: 554430",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_large.jpg?v=1605161692"
+    },
+    {
+      "product_number": "PDBS8G",
+      "description": "(Package of 2 Pieces) ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 8 mm, 100 Meters in a package, Part no: 554450",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_ce483ca6-f8d8-4e9c-8927-fad6e1318a42_large.jpg?v=1605161693"
+    },
+    {
+      "product_number": "PDBS10G",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 10 mm, 100 Meters in a package, Part no: 554460",
+      "price": 126.17,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_8d9aae9e-206d-4263-be1e-c66f77c2ae2b_large.jpg?v=1605161694"
+    },
+    {
+      "product_number": "PDBS12G",
+      "description": "(Package of 2 Pieces) ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 12 mm, 50 Meters in a package, Part no: 554470",
+      "price": 186.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_5c0471d1-bdbb-40de-8386-50ba333c7d18_large.jpg?v=1605161696"
+    },
+    {
+      "product_number": "PDBS16G",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 16 mm, 50 Meters in a package, Part no: 554490",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_bfcc692f-5985-47db-9701-e14a9a379046_large.jpg?v=1605161697"
+    },
+    {
+      "product_number": "PDBS20G",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 20 mm, 50 Meters in a package, Part no: 554510",
+      "price": 126.17,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_a0181d23-3505-4b2c-9dda-d7355a90ea96_large.jpg?v=1605161698"
+    },
+    {
+      "product_number": "PDBS30G",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 30 mm, 50 Meters in a package, Part no: 554530",
+      "price": 160.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_74e464be-8559-49b0-a242-b37ad11ee345_large.jpg?v=1605161699"
+    },
+    {
+      "product_number": "PDBS40G",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Gray, Diameter: 40 mm, 50 Meters in a package, Part no: 554550",
+      "price": 169.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_a5f3ba05-3388-4ded-b2e4-0349dfcd0158_large.jpg?v=1605161700"
+    },
+    {
+      "product_number": "PDBS5B",
+      "description": "(Package of 2 Pieces) ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 5 mm, 100 Meters in a package, Part no: 554730",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_6374b95b-1ff6-445e-97d6-3c567f418edb_large.jpg?v=1605161701"
+    },
+    {
+      "product_number": "PDBS8B",
+      "description": "(Package of 2 Pieces) ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 8 mm, 100 Meters in a package, Part no: 554750",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_0ea92811-2253-4d16-95fc-e4b6bab76258_large.jpg?v=1605161702"
+    },
+    {
+      "product_number": "PDBS10B",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 10 mm, 100 Meters in a package, Part no: 554760",
+      "price": 126.17,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_e21f2654-9807-405d-a4b8-851925b00ee8_large.jpg?v=1605161704"
+    },
+    {
+      "product_number": "PDBS12B",
+      "description": "(Package of 2 Pieces) ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 12 mm, 50 Meters in a package, Part no: 554770",
+      "price": 186.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_fd757752-c27b-45ab-b795-c4115746ff7a_large.jpg?v=1605161705"
+    },
+    {
+      "product_number": "PDBS16B",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 16 mm, 50 Meters in a package, Part no: 554790",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_461fa44c-f97f-4f47-bf84-5300f95af016_large.jpg?v=1605161706"
+    },
+    {
+      "product_number": "PDBS20B",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 20 mm, 50 Meters in a package, Part no: 554810",
+      "price": 126.17,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_11b2e921-01f4-4985-9a39-d54c78456545_large.jpg?v=1605161707"
+    },
+    {
+      "product_number": "PDBS30B",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 30 mm, 50 Meters in a package, Part no: 554830",
+      "price": 159.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_12e61dba-15f8-4036-8ac0-37da585643b2_large.jpg?v=1605161708"
+    },
+    {
+      "product_number": "PDBS40B",
+      "description": "ERIFLEX PDBS Polyamide Braided Sleeve, Material: Polyamide, Color: Black, Diameter: 40 mm, 50 Meters in a package, Part no: 554850",
+      "price": 170.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_d1f1e3cc-8f82-4fb8-a0c1-1e965b6c78e6_large.jpg?v=1605161709"
+    }
+  ]
+}

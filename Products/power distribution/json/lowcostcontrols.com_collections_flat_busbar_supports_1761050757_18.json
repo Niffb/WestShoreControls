@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "product_number": "CFBS100T",
+      "description": "ERIFLEX CFBS Flat Busbar Support, Typical Application Current Rating: 630 ~ 1200 A, Busbars per Phase: 1, Busbar Width: 60 mm, Busbar Thickness: 10 mm, 4 Pieces in a package, Part no: 562800",
+      "price": 349.13,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_a7f24255-5750-4a73-ba7c-17d64a4d35a7_large.jpg?v=1604839996"
+    },
+    {
+      "product_number": "FBS400A",
+      "description": "ERIFLEX FBS Flat Busbar Support, Typical Application Current Rating: 160 ~ 400 A, Material: Steel; Glass Fibre Reinforced Polyamide; Aluminum, Busbars per Phase: 1, Busbar Width: 15 mm; 20 mm; 32mm, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 551350",
+      "price": 169.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_62ed4399-0f51-42e2-8229-4097cd0a6468_large.jpg?v=1604839993"
+    },
+    {
+      "product_number": "FBSS32X6",
+      "description": "ERIFLEX FBSS Flat Busbar Support, Typical Application Current Rating: 400 A, Material: Steel; Glass Fibre Reinforced Polyamide; Aluminum, Busbars per Phase: 1, Busbar Width: 32mm, Busbar Thickness: 5 mm, 2 Pieces in a package, Part no: 551190",
+      "price": 184.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_218a334a-850a-46d8-acbf-919ac7eeddbe_large.jpg?v=1604839989"
+    },
+    {
+      "product_number": "UCFBS-60-T",
+      "description": "ERIFLEX UCFBS-60-T Busbar Support, Typical Application Current Rating: 160 ~ 630 A, Material: Polyamide, Busbar Width: 15mm; 20mm; 25mm; 30mm, Busbar Thickness: 5 ~10mm, 4 Pieces in a package, Part no: 562700",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_69920bab-b701-4557-892f-882c941da3f8_large.jpg?v=1604839984"
+    },
+    {
+      "product_number": "UCFBS-60-TN",
+      "description": "ERIFLEX UCFBS-60-TN Busbar Support, Typical Application Current Rating: 160 ~ 630 A, Material: Polyamide, Busbar Width: 15mm; 20mm; 25mm; 30mm, Busbar Thickness: 5 ~10mm, 4 Pieces in a package, Part no: 562750",
+      "price": 233.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_ed374816-42a8-4a1d-9227-cd0a7526a621_large.jpg?v=1604839983"
+    },
+    {
+      "product_number": "COV100T",
+      "description": "(Package of 2 Pieces) ERIFLEX CFBS Flat Busbar Support Cover, for use with CFBS Flat Busbar Support, 10 Pieces in a package, Part no: 562810",
+      "price": 215.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_65445a27-d28a-4897-8779-e3eb788ea882_large.jpg?v=1604839976"
+    },
+    {
+      "product_number": "CLIP-100-40X11",
+      "description": "(Package of 4 Pieces) ERIFLEX CFBS Flat Busbar Support Clip, Use with CFBS Flat Busbar Support to support multiple busbar widths, Busbar Width: 40mm, Busbar Thickness: 10mm, 24 Pieces in a package, Part no: 562830",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_b74e1b8b-3042-421c-9acd-a30b3bc87695_large.jpg?v=1604839975"
+    },
+    {
+      "product_number": "CLIP-100-50X11",
+      "description": "(Package of 4 Pieces) ERIFLEX CFBS Flat Busbar Support Clip, Use with CFBS Flat Busbar Support to support multiple busbar widths, Busbar Width: 50mm, Busbar Thickness: 10mm, 24 Pieces in a package, Part no: 562840",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_252a56b4-fe91-4eb1-a7a6-5e5cebbb051d_large.jpg?v=1604839970"
+    },
+    {
+      "product_number": "UCOV-60-T",
+      "description": "(Package of 12 Pieces) ERIFLEX UCFBS-60-T Busbar Support Cover, For use with UCFBS-60-T Busbar Support, Typical Application Current Rating: 160 ~ 630A, 2 Pieces in a package, Part no: 562710",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_e3a3cb95-14eb-439d-9e28-d65b0e019b1c_large.jpg?v=1604839968"
+    },
+    {
+      "product_number": "UCOV-60-TN",
+      "description": "(Package of 12 Pieces) ERIFLEX UCFBS-60-TN Busbar Support Cover, For use with UCFBS-60-TN Busbar Support, Typical Application Current Rating: 160 ~ 630A, 2 Pieces in a package, Part no: 562760",
+      "price": 205.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_large.jpg?v=1604839959"
+    }
+  ]
+}

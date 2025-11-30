@@ -5,88 +5,74 @@ import { useRef, useState, useEffect } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { ArrowRightIcon } from '@heroicons/react/24/outline'
-import { cleanProducts, productCategories } from '@/lib/products/products'
-import { mitsubishiProducts } from '@/lib/products/mitsubishi-products'
-import { tmeicProducts } from '@/lib/products/tmeic-products'
-import { getAllKatkoProducts } from '@/lib/products/katko-products'
-import { ericoProducts } from '@/lib/products/erico-products'
-import { lsIndustrialProducts } from '@/lib/products/ls-industrial-products'
-import { klemsanProducts } from '@/lib/products/klemsan-products'
-import { getImageUrl } from '@/lib/config/image-config'
 
 // Brand data with logos and available categories
-// Top row: Mitsubishi, TMEIC, LS Industrial
-// Bottom row: remaining brands in any order
 const brands = [
   {
     name: 'Mitsubishi',
-    logo: getImageUrl('brands/MitsubishiLogo.webp'),
+    logo: '/assets/images/brands/MitsubishiLogo.webp',
     description: 'Complete Factory Automation & Electric Controls Product Line',
     website: 'https://www.mitsubishielectric.com',
-    categories: ['Controllers', 'Variable Frequency Drives', 'Motors', 'Circuit Breakers', 'Contactors', 'Overload Relays']
+    categories: ['Controllers', 'Variable Frequency Drives', 'Motors', 'Circuit Breakers', 'Contactors', 'Overload Relays'],
+    productCount: 11
   },
   {
     name: 'TMEIC',
-    logo: getImageUrl('TMEIC_logo.svg'),
+    logo: '/assets/images/TMEIC_logo.svg',
     description: 'Full Range of High Power Drives & Industrial Systems',
     website: 'https://www.tmeic.com',
-    categories: ['Variable Frequency Drives', 'Motors', 'DC Drives']
+    categories: ['Variable Frequency Drives', 'Motors', 'DC Drives'],
+    productCount: 32
   },
   {
     name: 'LS Industrial',
-    logo: getImageUrl('brands/LS.webp'),
+    logo: '/assets/images/brands/LS.webp',
     description: 'Complete Variable Frequency Drives & Motor Controls Product Line',
     website: 'https://www.lsis.com',
-    categories: ['Variable Frequency Drives', 'Contactors', 'Controllers', 'Motors']
+    categories: ['Variable Frequency Drives', 'Contactors', 'Controllers', 'Motors'],
+    productCount: 37
   },
   {
     name: 'ERICO',
-    logo: getImageUrl('brands/Erico.webp'),
+    logo: '/assets/images/brands/Erico.webp',
     description: 'Full Line of Electrical Connection & Protection Products',
     website: 'https://www.erico.com',
-        categories: ['Flexible Conductors', 'Busbars', 'Cable Management']
+    categories: ['Flexible Conductors', 'Busbars', 'Cable Management'],
+    productCount: 25
   },
   {
     name: 'Katko',
-    logo: getImageUrl('brands/Katko.webp'),
+    logo: '/assets/images/brands/Katko.webp',
     description: 'Complete Range of Enclosed Isolators & Safety Switches',
     website: 'https://www.katko.fi',
-    categories: ['Enclosed Isolators']
+    categories: ['Enclosed Isolators'],
+    productCount: 15
   },
   {
     name: 'Klemsan',
-    logo: getImageUrl('brands/klemsan-logo.webp'),
+    logo: '/assets/images/brands/klemsan-logo.webp',
     description: 'Full Product Line of Terminal Blocks & Connection Solutions',
     website: 'https://www.klemsan.com',
-    categories: ['Terminal Blocks', 'Accessories', 'Marking Solutions', 'Electronic Terminals', 'Terminal Marking']
+    categories: ['Terminal Blocks', 'Accessories', 'Marking Solutions', 'Electronic Terminals', 'Terminal Marking'],
+    productCount: 120
   },
   {
     name: 'Noark',
-    logo: getImageUrl('brands/Noark.webp'),
+    logo: '/assets/images/brands/Noark.webp',
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
     website: 'https://www.noark-electric.com', 
-    categories: ['Circuit Protection', 'Motor Circuit Protectors', 'Miniature Circuit Breakers', 'Surge Protective Device', 'Power Circuit Breakers', 'Molded Case Switches', 'DIN Rail Fuse Holders and Fuses', 'Enclosed Breakers']
+    categories: ['Circuit Protection', 'Motor Circuit Protectors', 'Miniature Circuit Breakers', 'Surge Protective Device', 'Power Circuit Breakers', 'Molded Case Switches', 'DIN Rail Fuse Holders and Fuses', 'Enclosed Breakers'],
+    productCount: 383
   },
   {
     name: 'Elsteel',
-    logo: getImageUrl('brands/Elsteel.webp'),
+    logo: '/assets/images/brands/Elsteel.webp',
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     website: 'https://www.elsteel.com',
-    categories: ['Enclosures', 'Distribution Blocks', 'Power Blocks and Terminals']
+    categories: ['Enclosures', 'Distribution Blocks', 'Power Blocks and Terminals'],
+    productCount: 8
   }
 ]
-
-// Static fallback counts to prevent hydration issues
-const staticProductCounts = {
-  'Mitsubishi': 11,
-  'TMEIC': 32,
-  'LS Industrial': 37,
-  'ERICO': 25,
-  'Katko': 15,
-  'Klemsan': 120,
-  'Noark': 383, // Total products: 308 MCP + 20 MCB + 3 PCB + 14 Switches + 15 SPD + 11 Fuse Holders + 12 Enclosed Breakers
-  'Elsteel': 8
-}
 
 // Animated background particles
 const FloatingParticles = () => {
@@ -139,64 +125,10 @@ const FloatingParticles = () => {
 export default function BrandSelection() {
   const ref = useRef(null)
   const isInView = useInView(ref, { once: true, margin: "-100px" })
-  const [productCounts, setProductCounts] = useState(staticProductCounts)
-  const [isHydrated, setIsHydrated] = useState(false)
-
-  // Get accurate product count for each brand (client-side only)
-  const getBrandProductCount = async (brandName: string) => {
-    try {
-      switch (brandName) {
-        case 'Mitsubishi':
-          return mitsubishiProducts.length
-        case 'TMEIC':
-          return tmeicProducts.length
-        case 'LS Industrial':
-          return lsIndustrialProducts.length
-        case 'ERICO':
-          return ericoProducts.length
-        case 'Katko':
-          return getAllKatkoProducts().length
-        case 'Klemsan':
-          return klemsanProducts.length
-        case 'Noark':
-                  // Import Noark MCP, MCB, PCB, Switches, SPD, Fuse Holders, and Enclosed Breakers products dynamically
-        const { noarkMCPProducts } = await import('@/lib/products/noark-mcp-products')
-        const { noarkMCBProducts } = await import('@/lib/products/noark-mcb-products')
-        const { allPCBProducts } = await import('@/lib/products/noark-pcb-products')
-        const { noarkSwitchesProducts } = await import('@/lib/products/noark-switches-products')
-        const { noarkSPDProducts } = await import('@/lib/products/noark-spd-products')
-        const { noarkFuseHoldersProducts } = await import('@/lib/products/noark-fuse-holders-products')
-        const { noarkEnclosedBreakersProducts } = await import('@/lib/products/noark-enclosed-breakers-products')
-                      return noarkMCPProducts.length + noarkMCBProducts.length + allPCBProducts.length + noarkSwitchesProducts.length + noarkSPDProducts.length + noarkFuseHoldersProducts.length + noarkEnclosedBreakersProducts.length
-        case 'Elsteel':
-          return cleanProducts.filter(product => product.brand === brandName).length
-        default:
-          return cleanProducts.filter(product => product.brand === brandName).length
-      }
-    } catch (error) {
-      console.warn(`Error counting products for ${brandName}:`, error)
-      return staticProductCounts[brandName] || 0
-    }
-  }
-
-  // Update product counts after hydration
-  useEffect(() => {
-    setIsHydrated(true)
-    
-    const updateProductCounts = async () => {
-      const newCounts: { [key: string]: number } = {}
-      for (const brand of brands) {
-        newCounts[brand.name] = await getBrandProductCount(brand.name)
-      }
-      setProductCounts(newCounts as typeof staticProductCounts)
-    }
-
-    updateProductCounts()
-  }, [])
 
   // Calculate total products across all brands
   const getTotalProductCount = () => {
-    return Object.values(productCounts).reduce((total, count) => total + count, 0)
+    return brands.reduce((total, brand) => total + brand.productCount, 0)
   }
 
   return (
@@ -285,8 +217,6 @@ export default function BrandSelection() {
         <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16" ref={ref}>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 lg:gap-8">
             {brands.map((brand, index) => {
-              const productCount = productCounts[brand.name] || staticProductCounts[brand.name] || 0
-              
               return (
                 <motion.div
                   key={brand.name}
@@ -341,7 +271,7 @@ export default function BrandSelection() {
                       {/* Product Count */}
                       <div className="flex items-center justify-between mb-4">
                         <span className="text-sm font-medium text-gray-700">
-                          {productCount.toLocaleString()} Products Available
+                          {brand.productCount.toLocaleString()} Products Available
                         </span>
                       </div>
 
@@ -386,4 +316,4 @@ export default function BrandSelection() {
       </div>
     </>
   )
-} 
+}

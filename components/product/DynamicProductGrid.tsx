@@ -4,8 +4,7 @@ import { useState, useMemo, useCallback, memo, useRef, useEffect, Suspense } fro
 import Image from 'next/image'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import { StarIcon, EyeIcon } from '@heroicons/react/24/outline'
-import { StarIcon as StarSolidIcon } from '@heroicons/react/24/solid'
+import { EyeIcon } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
 import {
   useDebounce,
@@ -14,8 +13,8 @@ import {
   imagePreloader,
   createMemoizedFilter
 } from '@/lib/utils/performance-utils'
-import { resolveProductImage } from '@/lib/utils/intelligent-image-resolver'
 import { Product } from '@/lib/types/shared-types'
+import PaginatedProductGrid from '@/components/ui/PaginatedProductGrid'
 
 interface DynamicProductGridProps {
   products: Product[]
@@ -25,6 +24,10 @@ interface DynamicProductGridProps {
   loadIncrement?: number
   enableVirtualScroll?: boolean
   enableProgressiveLoading?: boolean
+  enablePagination?: boolean
+  itemsPerPage?: number
+  showSearch?: boolean
+  searchPlaceholder?: string
 }
 
 // Progressive loading hook
@@ -128,8 +131,10 @@ const ProductCard = memo(({
     rootMargin: '50px'
   })
 
-  const resolvedImagePath = resolveProductImage(product)
-  const finalImageUrl = getImageUrl(resolvedImagePath)
+  // Use the first image from the images array or fallback to placeholder
+  const finalImageUrl = (product.images && product.images.length > 0) 
+    ? product.images[0] 
+    : getImageUrl('products/placeholder.jpg')
 
   const handleImageLoad = useCallback(() => {
     setImageLoaded(true)
@@ -192,24 +197,21 @@ const ProductCard = memo(({
             
             {/* Product model/name */}
             <div>
-              <p className="font-medium text-gray-900">{product.model}</p>
+              <p className="font-medium text-gray-900">{product.name}</p>
               <p className="text-xs text-gray-500 truncate">{product.brand}</p>
             </div>
           </div>
         </td>
         
-        {/* Rating */}
+        {/* Category */}
         <td className="p-3">
-          <div className="flex items-center">
-            <StarSolidIcon className="h-4 w-4 text-yellow-400 mr-1" />
-            <span className="text-sm text-gray-600">{product.rating}</span>
-          </div>
+          <span className="text-sm text-gray-600">{product.category}</span>
         </td>
         
         {/* Specs (hidden on mobile) */}
         <td className="p-3 hidden md:table-cell">
           <p className="text-sm text-gray-600 line-clamp-1">
-            {product.specs?.slice(0, 2).join(' • ')}
+            {product.specs ? product.specs.slice(0, 2).join(' • ') : ''}
           </p>
         </td>
         
@@ -281,10 +283,6 @@ const ProductCard = memo(({
                 </p>
               </div>
               
-              <div className="flex items-center ml-4 flex-shrink-0">
-                <StarSolidIcon className="h-4 w-4 text-yellow-400" />
-                <span className="ml-1 text-sm text-gray-600">{product.rating}</span>
-              </div>
             </div>
           </div>
         </div>
@@ -310,14 +308,14 @@ const ProductCard = memo(({
           </div>
         )}
         
-        {/* Badge */}
-        {product.badge && product.category !== "Variable Frequency Drives" && (
+        {/* Badge - disabled since product-loader Product type doesn't have badge field */}
+        {/* {product.badge && product.category !== "Variable Frequency Drives" && (
           <div className="absolute top-3 left-3 z-10">
             <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800">
               {product.badge}
             </span>
           </div>
-        )}
+        )} */}
 
         {/* Lazy load images only when in view */}
         {inView && (
@@ -339,14 +337,10 @@ const ProductCard = memo(({
 
       {/* Product Info */}
       <div className="p-4">
-        <div className="flex items-start justify-between mb-2">
+        <div className="mb-2">
           <h3 className="text-lg font-semibold text-gray-900 line-clamp-2 group-hover:text-primary-600 transition-colors">
             {product.name}
           </h3>
-          <div className="flex items-center ml-2 flex-shrink-0">
-            <StarSolidIcon className="h-4 w-4 text-yellow-400" />
-            <span className="ml-1 text-sm text-gray-600">{product.rating}</span>
-          </div>
         </div>
         
         <p className="text-sm text-primary-600 font-medium mb-2">
@@ -372,6 +366,20 @@ const ProductCard = memo(({
               ))}
             </div>
           </div>
+        )}
+
+        {/* View Details Button */}
+        {onClick && (
+          <button
+            onClick={(e) => {
+              e.stopPropagation()
+              handleClick()
+            }}
+            className="mt-4 w-full bg-red-600 text-white py-2 px-4 rounded-lg hover:bg-red-700 transition-colors flex items-center justify-center gap-2 font-medium"
+          >
+            <EyeIcon className="h-5 w-5" />
+            View Details
+          </button>
         )}
       </div>
     </motion.div>
@@ -443,12 +451,40 @@ export default function DynamicProductGrid({
   initialLoadCount = 12,
   loadIncrement = 8,
   enableVirtualScroll = false,
-  enableProgressiveLoading = true
+  enableProgressiveLoading = true,
+  enablePagination = false,
+  itemsPerPage = 12,
+  showSearch = true,
+  searchPlaceholder = "Search products..."
 }: DynamicProductGridProps) {
   // Performance monitoring
   usePerformanceMonitor()
   
-  // Progressive loading setup
+  // If pagination is enabled, use PaginatedProductGrid
+  if (enablePagination) {
+    const renderProductCard = useCallback((product: Product, index: number) => (
+      <ProductCard
+        key={`${product.name}-${index}`}
+        product={product}
+        onClick={onProductClick}
+        viewMode={viewMode}
+        index={index}
+      />
+    ), [onProductClick, viewMode])
+
+    return (
+      <PaginatedProductGrid
+        products={products}
+        onProductClick={onProductClick}
+        itemsPerPage={itemsPerPage}
+        searchPlaceholder={searchPlaceholder}
+        showSearch={showSearch}
+        renderProduct={renderProductCard}
+      />
+    )
+  }
+  
+  // Progressive loading setup (for non-paginated mode)
   const { 
     visibleItems, 
     hasMore, 
@@ -496,7 +532,7 @@ export default function DynamicProductGrid({
                     Product
                   </th>
                   <th scope="col" className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Rating
+                    Category
                   </th>
                   <th scope="col" className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider hidden md:table-cell">
                     Specifications

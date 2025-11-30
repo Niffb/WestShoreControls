@@ -1,0 +1,1754 @@
+{
+  "products": [
+    {
+      "product_number": "WS0-XTIO84202-C",
+      "description": "Mitsubishi Electric PLC Communication Units, Safety Input Unit, MELSEC-QS/WS Series, Representative Standard: CE / UL / CUL, Type of unit: Safety input/output combined unit, Chemical resistance: Conformal Coating",
+      "price": 1091.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_f072c225-a264-410b-9cbb-3b7620f6f7fe_large.png?v=1751191128"
+    },
+    {
+      "product_number": "WS0-XTIO84202",
+      "description": "Mitsubishi Electric PLC Communication Units, Safety Input Unit, MELSEC-QS/WS Series, Representative Standard: CE / UL / CUL, Type of unit: Safety input/output combined unit",
+      "price": 715.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_0fb25385-176f-4b26-9bda-13040e58f2a5_large.png?v=1751191126"
+    },
+    {
+      "product_number": "WS0-XTDI80202-C",
+      "description": "Mitsubishi Electric PLC Communication Units, Safety Input Unit, MELSEC-QS/WS Series, Representative Standard: CE / UL / CUL, Type of unit: Safety input unit, Chemical resistance: Conformal Coating",
+      "price": 1080.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_2b5cdf64-29f6-4c79-8ee6-9a6efabe20d5_large.png?v=1751191124"
+    },
+    {
+      "product_number": "WS0-XTDI80202",
+      "description": "Mitsubishi Electric PLC Communication Units, Safety Input Unit, MELSEC-QS/WS Series, Representative Standard: CE / UL / CUL, Type of unit: Safety input unit",
+      "price": 706.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_89fe5ca5-2fa7-49d0-9687-c0540ec911ca_large.png?v=1751191122"
+    },
+    {
+      "product_number": "WS0-UC-232A",
+      "description": "Mitsubishi Electric PLC Safety Controller Programming cable; USB/RS-232 converter WS0-UC-232A, Series: MELSEC-WS, Type: RS-232, Cable Length (m): 0.35",
+      "price": 77.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8b4058bb-da78-4ef7-9dd2-aa805d06caee_large.png?v=1751191120"
+    },
+    {
+      "product_number": "WS0-TBS4",
+      "description": "Mitsubishi Electric PLC Safety Controller terminal; spare terminal; screw type, Series: MELSEC-WS, Type: REPLACEMENT TERMINAL BLOCK",
+      "price": 101.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_784484a1-73e2-4245-90e8-cd9c085793c7_large.png?v=1751191118"
+    },
+    {
+      "product_number": "WS0-TBC4",
+      "description": "Mitsubishi Electric PLC Safety Controller terminal; spare terminal; spring clamp type, Series: MELSEC-WS, Type: REPLACEMENT TERMINAL BLOCK",
+      "price": 105.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_76e0b449-e42e-4537-8a54-4c3c597a5d3a_large.png?v=1751191116"
+    },
+    {
+      "product_number": "WS0-MPL100201",
+      "description": "Mitsubishi Electric PLC Safety Controller; CPU parameter and program storage, Series MELSEC-WS, Type: MEMORY PLUG FOR CPU",
+      "price": 111.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_cb7005fb-ca1a-4759-b636-0c074a05a386_large.png?v=1751191115"
+    },
+    {
+      "product_number": "WS0-MPL000201-C",
+      "description": "Mitsubishi Electric PLC Safety Controller Memory Plug; memory device, Series: MELSEC-WS, Type: MEMORY PLUG FOR CPU, Chemical resistance: Conformal Coating",
+      "price": 128.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1e87916e-a461-4792-943d-40402a997053_large.png?v=1751191113"
+    },
+    {
+      "product_number": "WS0-MPL000201",
+      "description": "Mitsubishi Electric PLC Safety Controller Memory Plug; memory device, Series: MELSEC-WS, Type: MEMORY PLUG FOR CPU",
+      "price": 89.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b0c6172c-d5ed-40fb-acae-3bbb827759f9_large.png?v=1751191111"
+    },
+    {
+      "product_number": "WS0-GETH00200-C",
+      "description": "Mitsubishi Electric PLC Safety Controller Communication module; Ethernet, Series: MELSEC-WS, Type: MASTER/LOCAL STATION,Power Supply (V): 24, Current Type: DC, Network Interface: ETHERNET, Chemical resistance: Conformal Coating",
+      "price": 1162.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_02e7f76e-ba96-4d12-8dd9-5ba44f271a0c_large.png?v=1751191109"
+    },
+    {
+      "product_number": "WS0-GETH00200",
+      "description": "Mitsubishi Electric PLC Safety Controller Communication module; Ethernet, Series: MELSEC-WS, Type: MASTER/LOCAL STATION,Power Supply (V): 24, Current Type: DC, Network Interface: ETHERNET",
+      "price": 1013.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_4e078738-d0fb-4816-944c-015f7a2476cb_large.png?v=1751191107"
+    },
+    {
+      "product_number": "WS0-GEIP00200",
+      "description": "Mitsubishi Electric Ethernet interface module -MELSEC-WS Safety series) - with 10-pin connector - with Ethernet/IP communication capability - equivalent to WS0GEIP00200",
+      "price": 2703.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_0f36e9af-7437-4c0e-ab85-4bcfb77ee84f_large.png?v=1751191105"
+    },
+    {
+      "product_number": "WS0-GCC100202-C",
+      "description": "Mitsubishi Electric PLC Safety Controller Communication module; CC-Link, Series: MELSEC-WS, Type: REMOTE STATION, Power Supply (V): 24, Current Type: DC, Network Interface: CC-LINK, Chemical resistance: Conformal Coating",
+      "price": 1652.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8aa04a07-7659-4358-a390-24bb67398f9e_large.png?v=1751191102"
+    },
+    {
+      "product_number": "WS0-GCC100202",
+      "description": "Mitsubishi Electric PLC Safety Controller Communication module; CC-Link, Series: MELSEC-WS, Type: REMOTE STATION, Power Supply (V): 24, Current Type: DC, Network Interface: CC-LINK",
+      "price": 1479.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_85ae34fb-bf95-4b60-8d4c-e75e4b641838_large.png?v=1751191100"
+    },
+    {
+      "product_number": "WS0-CPU320202",
+      "description": "Mitsubishi Electric SPS Safety Controller CPU; Flexi Line and EFI Interface, Series: MELSEC-WS, Type: SAFETY CPU, Program Memory: 255, Program Memory: Unit Logic: BLOCKS, Local + Remote I/O Points: 144, USB: 1, RS-232: 1, Buffer Battery: YES",
+      "price": 973.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a7d76ecd-a6bd-4e49-8b27-7df19277ed09_large.png?v=1751191098"
+    },
+    {
+      "product_number": "WS0-CPU130202-C",
+      "description": "Mitsubishi Electric PLC Safety Controller CPU 1; 255 functionblocks program capacity; EFI, Series: MELSEC-WS, Type: SAFETY CPU, Program Memory: 255, Program Memory: Unit FUNCTION BLOCKS, Local + Remote I/O Points: 144, Cycle Time LD (ns): 100, Cycle Time MOV (ns): 350, RS-232: 1, Buffer Battery: YES, Chemical resistance: Conformal Coating",
+      "price": 941.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_71230cd3-02c9-4cd9-bdcb-1ac931d05b72_large.png?v=1751191096"
+    },
+    {
+      "product_number": "WS0-CPU130202",
+      "description": "Mitsubishi Electric PLC Safety Controller CPU 1; 255 functionblocks program capacity; EFI, Series: MELSEC-WS, Type: SAFETY CPU, Program Memory: 255, Program Memory: Unit FUNCTION BLOCKS, Local + Remote I/O Points: 144, Cycle Time LD (ns): 100, Cycle Time MOV (ns): 350, RS-232: 1, Buffer Battery: YES",
+      "price": 711.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7fcb9b55-f2da-44af-be62-cb3ea9cbbd89_large.png?v=1751191094"
+    },
+    {
+      "product_number": "WS0-C20R2",
+      "description": "Mitsubishi Electric Programming cable / cordset - Mitsubishi Electric - with RS-232 connector - 2m / 6ft length - equivalent to WS0C20R2",
+      "price": 70.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_21ff7a83-59a4-4c94-9d78-95a489993035_large.png?v=1751191092"
+    },
+    {
+      "product_number": "WS0-C20M8U",
+      "description": "Mitsubishi Electric SPS cable / cordset - Mitsubishi Electric - with USB to RS-232 connector - 2m / 6ft length - equivalent to WS0C20M8U",
+      "price": 161.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a315f17d-d240-4564-b6e6-684f43278d2b_large.png?v=1751191089"
+    },
+    {
+      "product_number": "WS0-4RO4002",
+      "description": "Mitsubishi Electric PLC Safety Controller Output module; 4 safety relay outputs, Series: MELSEC-WS, Type: SAFETY RELAY OUTPUT",
+      "price": 1041.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_808665d9-a751-40c8-9bff-5773712c4c20_large.png?v=1751191087"
+    },
+    {
+      "product_number": "WR110SBH",
+      "description": "Mitsubishi Electric Cable, Series: CC-LINK, Type CC-LINK V1.1, Cable Length (m): 100",
+      "price": 1180.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_fd5a4acd-cee6-46b8-b44f-bb14f0de9763_large.png?v=1751191085"
+    },
+    {
+      "product_number": "ST1Y2-TE8",
+      "description": "Mitsubishi Electric Digital output remote plug-in remote unit module -MELSEC ST series) - 16I/O [16DO (16 x digital outputs (24Vdc; Source; 2A))] - Plugs onto a base module mounting - equivalent to ST1Y2TE8",
+      "price": 166.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3668f587-ad46-4460-b1ca-ae4e03c09323_large.png?v=1751191082"
+    },
+    {
+      "product_number": "ST1Y16-TPE3",
+      "description": "Mitsubishi Electric Digital output remote plug-in remote unit module -MELSEC ST series) - 16I/O [16DO (16 x digital outputs (24Vdc; Source; 1A; short-circuit protected))] - Plugs onto a base module mounting - equivalent to ST1Y16TPE3",
+      "price": 522.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_766bd816-b42a-40cd-a9b8-a6448fedfc29_large.png?v=1751191080"
+    },
+    {
+      "product_number": "ST1X4-DE1-5SET",
+      "description": "Mitsubishi Electric Digital input remote plug-in remote unit module bundle pack -MELSEC ST series) - 4I/O [4DI (4 x digital inputs (24Vdc; negative common; Source))] - Plugs onto a base module mounting - equivalent to ST1X4DE15SET",
+      "price": 840.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1b2a8d70-6f7a-4a91-873f-4e4185c5e4ec_large.png?v=1751191078"
+    },
+    {
+      "product_number": "ST1X2-DE1",
+      "description": "Mitsubishi Electric Digital input remote plug-in remote unit module -MELSEC ST series) - 2I/O [2DI (2 x digital inputs (24Vdc; negative common; Source))] - Plugs onto a base module mounting - equivalent to ST1X2DE1",
+      "price": 98.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3cf2ce74-a3ab-4c51-88d6-3ed0070e12e9_large.png?v=1751191076"
+    },
+    {
+      "product_number": "ST1X1616-DE1-S1",
+      "description": "Mitsubishi Electric Digital input remote plug-in remote unit module -MELSEC ST series) - 32I/O [32DI (32 x digital inputs (24Vdc; negative common; Source))] - Plugs onto a base module mounting - equivalent to ST1X1616DE1S1",
+      "price": 477.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ba0939c7-fe6d-401c-a8c4-8e38856a449e_large.png?v=1751191074"
+    },
+    {
+      "product_number": "ST1SS1",
+      "description": "Mitsubishi Electric SI I.O SSI adapter",
+      "price": 786.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c488f7e9-b945-48ee-8fad-1cce28074d5a_large.png?v=1751191072"
+    },
+    {
+      "product_number": "ST1RD2",
+      "description": "Mitsubishi Electric RTD temperature analog input remote plug-in remote unit module -MELSEC ST series) - 2I/O [2AI (2 x analog inputs (RTD Pt100/Pt1000; 0.1¬∞C resolution))] - Plugs onto a base module mounting",
+      "price": 844.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_2100744e-bcc4-4288-af9a-4e4a8026bbb8_large.png?v=1751191069"
+    },
+    {
+      "product_number": "ST1PSD",
+      "description": "Mitsubishi Electric Bus refreshing module - for pwr. the head station (5Vdc suppl. + 24Vdc distribution) -MELSEC ST series) - Supply voltage 5Vdc - Plug-in mounting",
+      "price": 286.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_88b5bdaf-f436-4b47-b416-aadcfc8e0395_large.png?v=1751191067"
+    },
+    {
+      "product_number": "ST1H-BT",
+      "description": "Mitsubishi Electric CC-Link remote I/O controller head station / bridge module - for cabinet installation -MELSEC ST series) - with CC-Link communication capability - equivalent to ST1HBT",
+      "price": 837.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7b9d1dd6-5b99-45d1-985a-a88d9367b7ff_large.png?v=1751191065"
+    },
+    {
+      "product_number": "ST1B-S6X32",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with spring-clamp term. connections - DIN rail mounting - equivalent to ST1BS6X32",
+      "price": 446.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_eb4a83de-3210-4866-a315-8ef714315a3e_large.png?v=1751191063"
+    },
+    {
+      "product_number": "ST1B-S4X2",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with spring-clamp term. connections - DIN rail mounting - equivalent to ST1BS4X2",
+      "price": 43.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1a18ac79-1be9-439a-80d5-2abb696b45d8_large.png?v=1751191061"
+    },
+    {
+      "product_number": "ST1B-S4TD2",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with spring-clamp term. connections - DIN rail mounting - equivalent to ST1BS4TD2",
+      "price": 162.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c959f2dc-b926-409d-9eb8-c938b1ecdff2_large.png?v=1751191059"
+    },
+    {
+      "product_number": "ST1B-S4P2-D",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with spring-clamp term. connections - DIN rail mounting - equivalent to ST1BS4P2D",
+      "price": 54.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_36a0186a-048d-401c-96ed-a9d5500ec669_large.png?v=1751191057"
+    },
+    {
+      "product_number": "ST1B-S4IR2",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with spring-clamp term. connections - DIN rail mounting - equivalent to ST1BS4IR2",
+      "price": 54.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_61e00927-a72d-4f27-9fc3-c8f3763d056b_large.png?v=1751191055"
+    },
+    {
+      "product_number": "ST1B-S3Y2",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with spring-clamp term. connections - DIN rail mounting - equivalent to ST1BS3Y2",
+      "price": 49.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d94c7ea2-774c-41f1-9098-fbe6ff6f2148_large.png?v=1751191052"
+    },
+    {
+      "product_number": "ST1B-E4X2",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with screw-clamp term. connections - DIN rail mounting - equivalent to ST1BE4X2",
+      "price": 50.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_58750c86-df2c-4704-b9e8-4060bb339804_large.png?v=1751191050"
+    },
+    {
+      "product_number": "ST1B-E4TD2",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with screw-clamp term. connections - DIN rail mounting - equivalent to ST1BE4TD2",
+      "price": 162.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_6b5ab531-5d2b-4b95-85f9-a985dfc97bed_large.png?v=1751191048"
+    },
+    {
+      "product_number": "ST1B-E4P2-H-SET",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with screw-clamp term. connections - DIN rail mounting - equivalent to ST1BE4P2HSET",
+      "price": 123.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c16189cc-c8b0-417c-92a9-c0e1edf5bef6_large.png?v=1751191046"
+    },
+    {
+      "product_number": "ST1B-E4P2-D",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with screw-clamp term. connections - DIN rail mounting - equivalent to ST1BE4P2D",
+      "price": 62.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1735e40e-c529-4023-be6f-e0206bdf9298_large.png?v=1751191041"
+    },
+    {
+      "product_number": "ST1B-E3Y2",
+      "description": "Mitsubishi Electric Base unit -MELSEC ST series) - with screw-clamp term. connections - DIN rail mounting - equivalent to ST1BE3Y2",
+      "price": 43.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_5b32335d-b5e5-4f7e-b2e7-22bbb5efa086_large.png?v=1751191038"
+    },
+    {
+      "product_number": "ST1AD2-I",
+      "description": "Mitsubishi Electric Analog current input remote plug-in remote unit module -MELSEC ST series) - 2I/O [2AI (2 x analog inputs (0-20mA / 4-20mA; 12-bit conversion))] - Plugs onto a base module mounting - equivalent to ST1AD2I",
+      "price": 735.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_913bc82e-01ad-455f-9739-0331eab05aea_large.png?v=1751191035"
+    },
+    {
+      "product_number": "ST1A-EBR",
+      "description": "Mitsubishi Electric End bracket - equivalent to ST1AEBR",
+      "price": 27.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e3f29558-5038-4d19-b1fc-c342763b8231_large.png?v=1751191032"
+    },
+    {
+      "product_number": "ST1A-CKY-18",
+      "description": "Mitsubishi Electric Cover - for I.O. unit - green - equivalent to ST1ACKY18",
+      "price": 22.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a63d997c-7ddf-40f1-8573-a5ee0822e4fa_large.png?v=1751191030"
+    },
+    {
+      "product_number": "ST1A-CKY-16",
+      "description": "Mitsubishi Electric Cover - for I.O. unit - gray - equivalent to ST1ACKY16",
+      "price": 22.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_f3274502-0b1e-4107-84e3-dde79be79b2b_large.png?v=1751191027"
+    },
+    {
+      "product_number": "ST1A-CKY-15",
+      "description": "Mitsubishi Electric Cover - for I.O. unit - gray - equivalent to ST1ACKY15",
+      "price": 22.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_6b420eaa-2e36-482f-9707-412d77c92757_large.png?v=1751191025"
+    },
+    {
+      "product_number": "SPAD-SCF-G50",
+      "description": "Mitsubishi Electric CC-Link IE Control - FO splice adapter (SC) - with CC-Link communication capability - equivalent to SPADSCFG50",
+      "price": 77.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_300a68c8-7c3e-4e96-a034-21a1d93c7624_large.png?v=1751191023"
+    },
+    {
+      "product_number": "SPAD-RJ45S-E5E",
+      "description": "Mitsubishi Electric IE Field Cat.5e coupler cable / cordset - with RJ45 connector - equivalent to SPADRJ45SE5E",
+      "price": 190.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_88c38afb-de66-4dc4-8120-3fc1040aea18_large.png?v=1751191021"
+    },
+    {
+      "product_number": "SPAD-LCF-G50",
+      "description": "Mitsubishi Electric CC-Link IE Control - FO splice adapter (LCF) - with CC-Link communication capability - equivalent to SPADLCFG50",
+      "price": 100.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7f3f363c-ed08-4967-ace8-f27693e28617_large.png?v=1751191019"
+    },
+    {
+      "product_number": "SPAD-FC-G50",
+      "description": "Mitsubishi Electric CC-Link IE Control - FO splice adapter (FC) - with CC-Link communication capability - equivalent to SPADFCG50",
+      "price": 130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_32d67d5c-a224-4036-af7b-da70bdb26439_large.png?v=1751191017"
+    },
+    {
+      "product_number": "SH(NA)080891",
+      "description": "Mitsubishi Electric LCPU USERS MANUAL(BUILT-IN ETHERNET)",
+      "price": 63.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3d01f038-a4ef-4440-998b-eed56e20c67d_large.png?v=1751191014"
+    },
+    {
+      "product_number": "SH(NA)080889",
+      "description": "Mitsubishi Electric LCPU USERS MANUAL(FUNC EXP,PROGRAM FUND)",
+      "price": 63.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c35d3af9-3bc6-42e6-8098-19b421125708_large.png?v=1751191012"
+    },
+    {
+      "product_number": "SH(NA)080888",
+      "description": "Mitsubishi Electric LCPU USERS MANUAL(FUNC EXP,PROGRAM FUND)",
+      "price": 63.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b5e87e8e-3851-4e7e-b541-f6e58fcb063d_large.png?v=1751191010"
+    },
+    {
+      "product_number": "SH(NA)080644",
+      "description": "Mitsubishi Electric QJ71MES96 Users Manual",
+      "price": 63.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_20e6bc19-dd58-4c31-b36b-aab6d6e3411d_large.png?v=1751191008"
+    },
+    {
+      "product_number": "SH(NA)080483ENG",
+      "description": "Mitsubishi Electric QCPU USERS MANUAL (DESIGN, MAINT & INSP)",
+      "price": 68.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1c9a6368-e1db-4d16-97bb-dacaafc5a587_large.png?v=1751191005"
+    },
+    {
+      "product_number": "SH(NA)-081155ENG",
+      "description": "Mitsubishi Electric CC-Link IE Field Network Q80BD-J71GF11-T2/Q81BD-J71GF11-T2 Driver Development Reference Manual",
+      "price": 4982.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3d154d2b-735d-45d1-ac5d-0783039921b0_large.png?v=1751191003"
+    },
+    {
+      "product_number": "SG-2P-991M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 991m / 3251ft length - equivalent to SG2P991MDLCC",
+      "price": 28436.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9680f17f-2fad-4af6-ad0f-e0f8bbdbccbb_large.png?v=1751191001"
+    },
+    {
+      "product_number": "SG-2P-916M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 916m / 3005ft length - equivalent to SG2P916MDLCC",
+      "price": 25824.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_f8894568-1a40-4883-b287-929c190acb32_large.png?v=1751190999"
+    },
+    {
+      "product_number": "SG-2P-912M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 912m / 2992ft length - equivalent to SG2P912MDLCC",
+      "price": 26262.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_857ee0ca-0c02-43fa-aa78-97e5fa6fdc42_large.png?v=1751190996"
+    },
+    {
+      "product_number": "SG-2P-820M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 820m / 2690ft length - equivalent to SG2P820MDLCC",
+      "price": 23228.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_23d2e478-a9ab-41f4-a99e-dca879dc13a7_large.png?v=1751190994"
+    },
+    {
+      "product_number": "SG-2P-75M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 75m / 246ft length - equivalent to SG2P75MACC",
+      "price": 1046.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_17a2c772-5ac3-49d7-aa0e-db9e1cce7ab0_large.png?v=1751190992"
+    },
+    {
+      "product_number": "SG-2P-65M-BV-CC",
+      "description": "Mitsubishi Electric Indoor fiber optic patch cable / cordset - 65m / 213ft length - equivalent to SG2P65MBVCC",
+      "price": 2453.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d00ca130-326e-49ce-a61e-010959e9661e_large.png?v=1751190990"
+    },
+    {
+      "product_number": "SG-2P-600M-DL-CF",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 600m / 1968ft length - equivalent to SG2P600MDLCF",
+      "price": 17182.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_05779338-3bf0-4dd6-8613-7205624574fe_large.png?v=1751190987"
+    },
+    {
+      "product_number": "SG-2P-587M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 587m / 1925ft length - equivalent to SG2P587MDLCC",
+      "price": 17305.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b47fe19f-24f8-4ece-9718-5b0df423eff3_large.png?v=1751190985"
+    },
+    {
+      "product_number": "SG-2P-561M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 561m / 1840ft length - equivalent to SG2P561MDLCC",
+      "price": 16583.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ca91ca3b-b619-45e8-87cf-5b72abda2993_large.png?v=1751190983"
+    },
+    {
+      "product_number": "SG-2P-50M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 50m / 164ft length - equivalent to SG2P50MACC",
+      "price": 834.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3556a627-2dc1-4233-a42f-9966e0d84622_large.png?v=1751190981"
+    },
+    {
+      "product_number": "SG-2P-3M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 3m / 9ft length - equivalent to SG2P3MACC",
+      "price": 433.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_deb38e22-2b37-4675-9270-611f16bcef54_large.png?v=1751190979"
+    },
+    {
+      "product_number": "SG-2P-380M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 380m / 1246ft length - equivalent to SG2P380MDLCC",
+      "price": 11599.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_88b4901c-30ac-4898-acf8-f9c1e24a9c21_large.png?v=1751190977"
+    },
+    {
+      "product_number": "SG-2P-365M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 365m / 1197ft length - equivalent to SG2P365MDLCC",
+      "price": 11187.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_37c0dc58-c446-4f10-a501-8d8a0cde275e_large.png?v=1751190974"
+    },
+    {
+      "product_number": "SG-2P-311M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 311m / 1020ft length - equivalent to SG2P311MDLCC",
+      "price": 10281.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d9e86608-5432-4544-9d98-1298b83d2e8a_large.png?v=1751190971"
+    },
+    {
+      "product_number": "SG-2P-281M-BV-CC",
+      "description": "Mitsubishi Electric Indoor fiber optic patch cable / cordset - 281m / 921ft length - equivalent to SG2P281MBVCC",
+      "price": 6897.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_4f33a9e4-0dda-479e-9789-f9deb446ed06_large.png?v=1751190967"
+    },
+    {
+      "product_number": "SG-2P-25M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 25m / 82ft length - equivalent to SG2P25MACC",
+      "price": 618.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_615b41a0-f179-48d7-bc75-c13aefe022eb_large.png?v=1751190964"
+    },
+    {
+      "product_number": "SG-2P-250M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 250m / 820ft length - equivalent to SG2P250MACC",
+      "price": 2550.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ff9e8cd3-3b6c-4c18-accd-dfd3b7dc3be9_large.png?v=1751190961"
+    },
+    {
+      "product_number": "SG-2P-234M-BV-CC",
+      "description": "Mitsubishi Electric Indoor fiber optic patch cable / cordset - 234m / 767ft length - equivalent to SG2P234MBVCC",
+      "price": 5934.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_521794d4-578d-40fa-84f7-084f9083b343_large.png?v=1751190958"
+    },
+    {
+      "product_number": "SG-2P-225M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 225m / 738ft length - equivalent to SG2P225MACC",
+      "price": 2333.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_081f76c8-807f-4aec-b84e-b7d03c95e3c6_large.png?v=1751190956"
+    },
+    {
+      "product_number": "SG-2P-212M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 212m / 695ft length - equivalent to SG2P212MDLCC",
+      "price": 6969.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_877ed946-b5c6-4f82-b70e-914fe8bf588b_large.png?v=1751190954"
+    },
+    {
+      "product_number": "SG-2P-200M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 200m / 656ft length - equivalent to SG2P200MACC",
+      "price": 2122.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_853ed8e6-b4e7-4f25-ad43-541c0506669a_large.png?v=1751190952"
+    },
+    {
+      "product_number": "SG-2P-1M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 1m / 3ft length - equivalent to SG2P1MACC",
+      "price": 408.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_2a795daf-f69e-4c25-99b3-31e520ffed2b_large.png?v=1751190950"
+    },
+    {
+      "product_number": "SG-2P-164M-DL-CC",
+      "description": "Mitsubishi Electric Outdoor fiber optic patch cable / cordset - 164m / 538ft length - equivalent to SG2P164MDLCC",
+      "price": 5537.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_79e129e9-bc54-41db-83e1-05d91c421ad1_large.png?v=1751190948"
+    },
+    {
+      "product_number": "SG-2P-150M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 150m / 492ft length - equivalent to SG2P150MACC",
+      "price": 1696.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_35e720b5-6b55-4973-af85-ebd6bb6e3938_large.png?v=1751190945"
+    },
+    {
+      "product_number": "SG-2P-125M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 125m / 410ft length - equivalent to SG2P125MACC",
+      "price": 1479.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_dec64edd-fed6-44a3-873d-3a7605f68b09_large.png?v=1751190943"
+    },
+    {
+      "product_number": "SG-2P-10M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 10m / 32ft length - equivalent to SG2P10MACC",
+      "price": 490.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3902ac8b-e9a4-4a78-a8c6-f872305ae70f_large.png?v=1751190941"
+    },
+    {
+      "product_number": "SG-2P-100M-A-CC",
+      "description": "Mitsubishi Electric Inside-pnl. fiber optic patch cable / cordset - 100m / 328ft length - equivalent to SG2P100MACC",
+      "price": 1267.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ed5bd4c9-d55f-4f46-89e8-ff3ba401a046_large.png?v=1751190939"
+    },
+    {
+      "product_number": "SCC110-HMV-7",
+      "description": "Mitsubishi Electric Hi-flex CC-Link cable / cordset - with CC-Link communication capability - equivalent to SCC110HMV7",
+      "price": 65.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_96a825f6-ab21-4b6b-9be1-8208dbf16ae9_large.png?v=1751190937"
+    },
+    {
+      "product_number": "SC-ECT-P3",
+      "description": "Mitsubishi Electric Connection terminal; 3 connections; 1000 BASE-SX (MMF); DIN; duplex LC connector, Series: CC-LINK IE CONTROL NETWORK, Type: CONNECTION TERMINAL",
+      "price": 943.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_50044913-c610-4a6e-bfe8-a94638257255_large.png?v=1751190935"
+    },
+    {
+      "product_number": "SC-E5EW-X84M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12 on both ends; indoor; 10m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 84",
+      "price": 1483.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_65ab04e3-112f-4f82-aa5f-64af7a19fd56_large.png?v=1751190933"
+    },
+    {
+      "product_number": "SC-E5EW-X2M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12 on both ends; indoor; 10m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 2",
+      "price": 536.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_db2f367f-5e12-4bd6-9f83-c71c9c8f2e5d_large.png?v=1751190930"
+    },
+    {
+      "product_number": "SC-E5EW-X20M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12 on both ends; indoor; 10m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 20",
+      "price": 742.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a393a34e-57ab-4fad-8d60-9b87f89e86b5_large.png?v=1751190928"
+    },
+    {
+      "product_number": "SC-E5EW-X1M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12 on both ends; indoor; 10m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 1",
+      "price": 552.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_2cfc6a0d-9960-4d5a-ba17-616718a72c03_large.png?v=1751190926"
+    },
+    {
+      "product_number": "SC-E5EW-X15M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12 on both ends; indoor; 10m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 15",
+      "price": 720.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c925262d-8fe3-4a12-becd-9e9a21eb9d53_large.png?v=1751190924"
+    },
+    {
+      "product_number": "SC-E5EW-X10M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12 on both ends; indoor; 10m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 10",
+      "price": 666.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1c4e9a14-0a08-4fcb-84a6-29769acb58f6_large.png?v=1751190922"
+    },
+    {
+      "product_number": "SC-E5EW-SX30M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12&RJ45 connector; indoor; 20m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 30",
+      "price": 709.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_88564c45-7914-4c60-ba75-cba1953fbf4f_large.png?v=1751190920"
+    },
+    {
+      "product_number": "SC-E5EW-SX2M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12&RJ45 connector; indoor; 20m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 2",
+      "price": 342.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c9756a65-afc1-43a2-b57a-1fb5f10db84a_large.png?v=1751190918"
+    },
+    {
+      "product_number": "SC-E5EW-SX25M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12&RJ45 connector; indoor; 20m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 25",
+      "price": 649.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_2314a860-3ee1-421f-867f-c0a41ddd8e38_large.png?v=1751190915"
+    },
+    {
+      "product_number": "SC-E5EW-SX20M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12&RJ45 connector; indoor; 20m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 20",
+      "price": 591.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d606f19e-0fe6-4f4a-bb4c-611c8572f60b_large.png?v=1751190913"
+    },
+    {
+      "product_number": "SC-E5EW-SX15M",
+      "description": "Mitsubishi Electric Ethernet cable CC-Link IE; category 5e; straight M12&RJ45 connector; indoor; 15m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 15",
+      "price": 531.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_4a79947b-cce7-45d1-9899-e9582c71d2fe_large.png?v=1751190911"
+    },
+    {
+      "product_number": "SC-E5EW-S9M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 9",
+      "price": 222.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_71766e36-4f61-4b08-893c-c9f6058ea35c_large.png?v=1751190909"
+    },
+    {
+      "product_number": "SC-E5EW-S90M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 90",
+      "price": 1212.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_4e4cad6b-6899-4851-9e2a-4847895d2bb8_large.png?v=1751190906"
+    },
+    {
+      "product_number": "SC-E5EW-S8M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 8",
+      "price": 206.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_015ce292-162c-4a32-9d04-6bc6df0e7030_large.png?v=1751190904"
+    },
+    {
+      "product_number": "SC-E5EW-S67M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 67",
+      "price": 925.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_2e2eb140-de08-40c0-bef4-e2ee2f28a641_large.png?v=1751190902"
+    },
+    {
+      "product_number": "SC-E5EW-S5M-MV",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor Flexible; Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 5",
+      "price": 206.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_73b88cf4-0565-473a-9035-58df76eab3dd_large.png?v=1751190901"
+    },
+    {
+      "product_number": "SC-E5EW-S5M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 5",
+      "price": 164.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c6ec71f2-7305-4ed8-aba2-4f2f39132733_large.png?v=1751190899"
+    },
+    {
+      "product_number": "SC-E5EW-S5M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; 5m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 5",
+      "price": 125.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_12916c7c-8dab-4af9-b35c-960d9f77b3f5_large.png?v=1751190897"
+    },
+    {
+      "product_number": "SC-E5EW-S50M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 50",
+      "price": 1001.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_bdb10d49-0bd9-40d6-b55e-53a935ff93d4_large.png?v=1751190895"
+    },
+    {
+      "product_number": "SC-E5EW-S50M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 50",
+      "price": 428.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7bd55615-8f15-4750-920c-aeb34cd9132d_large.png?v=1751190893"
+    },
+    {
+      "product_number": "SC-E5EW-S47M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 47",
+      "price": 677.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1af9634f-5302-451d-911a-bce844256640_large.png?v=1751190892"
+    },
+    {
+      "product_number": "SC-E5EW-S45M-MV",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor flexible, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 45",
+      "price": 758.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_baf17565-eec7-4f88-a326-7a61a7966bd7_large.png?v=1751190890"
+    },
+    {
+      "product_number": "SC-E5EW-S45M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 45",
+      "price": 871.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_13b19105-b712-4133-8846-50d5d317210b_large.png?v=1751190888"
+    },
+    {
+      "product_number": "SC-E5EW-S45M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 45",
+      "price": 671.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_2918815b-5f31-4082-b111-967202d5f758_large.png?v=1751190886"
+    },
+    {
+      "product_number": "SC-E5EW-S40M-MV",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor Flexible, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 40",
+      "price": 871.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_01783792-7b1c-4359-9f7c-1a302206b37a_large.png?v=1751190884"
+    },
+    {
+      "product_number": "SC-E5EW-S40M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 40",
+      "price": 823.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b50182b6-2909-46da-8591-35a1f7358b3d_large.png?v=1751190882"
+    },
+    {
+      "product_number": "SC-E5EW-S40M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 40",
+      "price": 525.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d8511599-ee60-4163-90f0-612484f90781_large.png?v=1751190879"
+    },
+    {
+      "product_number": "SC-E5EW-S3M-MV",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor Flexible, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 3",
+      "price": 158.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_5dd6011f-6086-437e-8e24-8e97ae475a75_large.png?v=1751190877"
+    },
+    {
+      "product_number": "SC-E5EW-S3M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 3",
+      "price": 125.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_f8eff9ec-b0a9-461c-a557-f6cf6f02c3e0_large.png?v=1751190874"
+    },
+    {
+      "product_number": "SC-E5EW-S3M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 3",
+      "price": 99.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7bde4738-8a3d-4b26-ace0-a6494638bf51_large.png?v=1751190872"
+    },
+    {
+      "product_number": "SC-E5EW-S35M-MV",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor Flexible, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 35",
+      "price": 600.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_592cbf32-c6e5-4b8c-a95d-622bbd56c32c_large.png?v=1751190870"
+    },
+    {
+      "product_number": "SC-E5EW-S35M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 35",
+      "price": 693.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b9329b36-8d54-4780-ad79-35c9b1eae4e4_large.png?v=1751190867"
+    },
+    {
+      "product_number": "SC-E5EW-S35M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 35",
+      "price": 547.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_cc6f01d9-e2a3-40dd-9714-a5029deb9555_large.png?v=1751190865"
+    },
+    {
+      "product_number": "SC-E5EW-S33M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 33",
+      "price": 520.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_046ed901-ace3-419a-adcf-45b9d606cf12_large.png?v=1751190864"
+    },
+    {
+      "product_number": "SC-E5EW-S30M-MV",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor Flexible, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 30",
+      "price": 531.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_29c7b7df-bc00-412b-912e-0823f207249f_large.png?v=1751190862"
+    },
+    {
+      "product_number": "SC-E5EW-S30M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 30",
+      "price": 634.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_6489688c-911f-434e-b9c3-3e8edb9ce2cd_large.png?v=1751190860"
+    },
+    {
+      "product_number": "SC-E5EW-S30M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 30",
+      "price": 406.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_12624578-c78e-485e-8cc9-78c0b3a9df26_large.png?v=1751190858"
+    },
+    {
+      "product_number": "SC-E5EW-S2M-MV",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor Flexible, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 2",
+      "price": 104.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_6b517bf0-503c-43c2-81f3-e4f44947dde2_large.png?v=1751190856"
+    },
+    {
+      "product_number": "SC-E5EW-S2M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 2",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1fc2143b-f821-48c8-bf35-de51b9822789_large.png?v=1751190855"
+    },
+    {
+      "product_number": "SC-E5EW-S2M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 2",
+      "price": 88.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e6eaaa57-5966-4900-8554-d47ecf36837e_large.png?v=1751190853"
+    },
+    {
+      "product_number": "SC-E5EW-S25M-MV",
+      "description": "Mitsubishi Electric thernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; 25m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 25",
+      "price": 461.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_322023ab-c8b4-41e0-9147-767a8915f1fb_large.png?v=1751190851"
+    },
+    {
+      "product_number": "SC-E5EW-S25M-L",
+      "description": "Mitsubishi Electric thernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; 25m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 25",
+      "price": 515.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1320a9f5-5ff0-4222-9533-6baeb8b79b53_large.png?v=1751190849"
+    },
+    {
+      "product_number": "SC-E5EW-S25M",
+      "description": "Mitsubishi Electric thernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 25",
+      "price": 353.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_57476903-63a4-4d05-905e-1bcb66fc3992_large.png?v=1751190847"
+    },
+    {
+      "product_number": "SC-E5EW-S20M-MV",
+      "description": "Mitsubishi Electric Indoor field devices shielded cable / cordset - Cat.5e - flexible - with Ethernet + CC-Link communication capability - 20m / 65ft length - equivalent to SCE5EWS20MMV",
+      "price": 379.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_403745e1-be7b-440e-bbe4-217dda48aa8b_large.png?v=1751190845"
+    },
+    {
+      "product_number": "SC-E5EW-S20M-L",
+      "description": "Mitsubishi Electric Outdoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 20m / 65ft length - equivalent to SCE5EWS20ML",
+      "price": 444.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d78a584b-826f-4ca1-a714-9f370be018a9_large.png?v=1751190844"
+    },
+    {
+      "product_number": "SC-E5EW-S20M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; 20m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 20",
+      "price": 288.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_fce29fb0-3714-4cb5-9463-c2a079868124_large.png?v=1751190842"
+    },
+    {
+      "product_number": "SC-E5EW-S1M-MV",
+      "description": "Mitsubishi Electric Flexible Cable For CC-Link IE Field, Indoor Flexible, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 1",
+      "price": 93.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c94590a1-df69-45ff-91f3-7ee1493bd822_large.png?v=1751190840"
+    },
+    {
+      "product_number": "SC-E5EW-S1M-L",
+      "description": "Mitsubishi Electric Flexible Cable For CC-Link IE Field, Outdoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 1",
+      "price": 93.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_96ac5453-3a17-499f-b2b4-bb138e0fee10_large.png?v=1751190838"
+    },
+    {
+      "product_number": "SC-E5EW-S1M",
+      "description": "Mitsubishi Electric Flexible Cable For CC-Link IE Field, Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 1",
+      "price": 81.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_baef67ce-a061-4629-9fb1-f1206728973e_large.png?v=1751190836"
+    },
+    {
+      "product_number": "SC-E5EW-S18M",
+      "description": "Mitsubishi Electric Flexible Cable For CC-Link IE Field, Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 18",
+      "price": 325.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b119c59c-aee4-45db-8951-7ca085645d37_large.png?v=1751190834"
+    },
+    {
+      "product_number": "SC-E5EW-S17M",
+      "description": "Mitsubishi Electric Flexible Cable For CC-Link IE Field, Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 17",
+      "price": 315.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9d29cb79-7d05-4d7d-afdd-219f62495b97_large.png?v=1751190832"
+    },
+    {
+      "product_number": "SC-E5EW-S15M-MV",
+      "description": "Mitsubishi Electric Flexible Cable For CC-Link IE Field, Indoor, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 15",
+      "price": 384.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_37553951-9b8e-446b-a1ae-e610b04bb7ee_large.png?v=1751190831"
+    },
+    {
+      "product_number": "SC-E5EW-S15M-L",
+      "description": "Mitsubishi Electric Outdoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 15m / 49ft length - equivalent to SCE5EWS15ML",
+      "price": 353.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b60c06e0-7168-40f1-857f-0f6243935792_large.png?v=1751190829"
+    },
+    {
+      "product_number": "SC-E5EW-S15M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; 15m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 15",
+      "price": 239.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ebe88594-5cda-42c2-9b4c-97c9db3ac1c0_large.png?v=1751190827"
+    },
+    {
+      "product_number": "SC-E5EW-S13M",
+      "description": "Mitsubishi Electric Indoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 13m / 42ft length - equivalent to SCE5EWS13M",
+      "price": 272.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c9efa817-aaf8-43e9-a928-9fe319a90149_large.png?v=1751190825"
+    },
+    {
+      "product_number": "SC-E5EW-S11M",
+      "description": "Mitsubishi Electric Indoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 11m / 36ft length - equivalent to SCE5EWS11M",
+      "price": 245.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7e617f96-a74f-42c8-a306-84d736a6f30d_large.png?v=1751190823"
+    },
+    {
+      "product_number": "SC-E5EW-S10M-MV",
+      "description": "Mitsubishi Electric Flexible Cable 10m For CC-Link IE Field, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 10",
+      "price": 228.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_154de6b6-a273-4be1-aeac-56f80087b950_large.png?v=1751190821"
+    },
+    {
+      "product_number": "SC-E5EW-S10M-L",
+      "description": "Mitsubishi Electric Outdoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 10m / 32ft length - equivalent to SCE5EWS10ML",
+      "price": 260.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_322a3e89-5645-4869-a76c-6db5e9c36dd3_large.png?v=1751190819"
+    },
+    {
+      "product_number": "SC-E5EW-S10M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; indoor; 10m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 10",
+      "price": 179.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_64417322-7314-42d6-acda-31cc80dd792e_large.png?v=1751190817"
+    },
+    {
+      "product_number": "SC-E5EW-S100M-L",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Outdoor; 100m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 100",
+      "price": 2158.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_11c6b6c7-5dd5-4892-a9d8-17fde559299a_large.png?v=1751190815"
+    },
+    {
+      "product_number": "SC-E5EW-S100M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight; Indoor; 100m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 100",
+      "price": 1234.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_6c29e08e-b859-474f-b8d3-9ddd1779d7f5_large.png?v=1751190813"
+    },
+    {
+      "product_number": "SC-E5EW-S05M",
+      "description": "Mitsubishi Electric Ethernet cable; CC-Link IE; category 5e; dbl. shielded/STP; straight;indoor; 0.5m, Series: CC-LINK IE FIELD NETWORK, Type: ETHERNET CABLE, Cable Length (m): 0.5",
+      "price": 88.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c8f72a6b-aed2-4c95-9842-bbe5f61f2e0c_large.png?v=1751190811"
+    },
+    {
+      "product_number": "SC-A0JQSEL-U2",
+      "description": "Mitsubishi Electric PLC mount kit - equivalent to SCA0JQSELU2",
+      "price": 382.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d0b0a0d0-636c-483b-a2fa-1ce393256b95_large.png?v=1751190809"
+    },
+    {
+      "product_number": "SC-A0JQSEL-F",
+      "description": "Mitsubishi Electric PLC fix stand set (flat) - equivalent to SCA0JQSELF",
+      "price": 506.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_dbfc9c91-2d62-4b34-946b-a020b1d21a43_large.png?v=1751190807"
+    },
+    {
+      "product_number": "SC-A0JQPT3",
+      "description": "Mitsubishi Electric Mounting plate - equivalent to SCA0JQPT3",
+      "price": 98.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_4651ae46-44ce-4844-bfb1-a5fd4aa719c5_large.png?v=1751190805"
+    },
+    {
+      "product_number": "SC-A0JQIF56DT",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF56DT",
+      "price": 851.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a6c9f622-0392-4521-8d13-0a90269f0527_large.png?v=1751190803"
+    },
+    {
+      "product_number": "SC-A0JQIF56AS",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF56AS",
+      "price": 1685.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_14c61327-0d0d-480f-9129-226584d0f4ad_large.png?v=1751190800"
+    },
+    {
+      "product_number": "SC-A0JQIF56AR",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF56AR",
+      "price": 1108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_6347b1d3-0e39-4bde-b489-78c3dc2204c2_large.png?v=1751190798"
+    },
+    {
+      "product_number": "SC-A0JQIF32A",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF32A",
+      "price": 819.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_564d7090-946d-4919-a7cd-ad0a65e25d39_large.png?v=1751190796"
+    },
+    {
+      "product_number": "SC-A0JQIF28DT",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF28DT",
+      "price": 588.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8bdb97ba-7b86-4a5f-a00b-333359d226db_large.png?v=1751190794"
+    },
+    {
+      "product_number": "SC-A0JQIF28AS",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF28AS",
+      "price": 1123.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9e3b956b-4e2f-4268-ac27-b5c4008aa0e1_large.png?v=1751190792"
+    },
+    {
+      "product_number": "SC-A0JQIF28AR",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF28AR",
+      "price": 737.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9f2d84ef-df20-423b-995f-2662dda3dbc6_large.png?v=1751190790"
+    },
+    {
+      "product_number": "SC-A0JQIF24T",
+      "description": "Mitsubishi Electric Interface module - equivalent to SCA0JQIF24T",
+      "price": 866.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_221110d4-a57e-4fe0-8137-ea3140f5709f_large.png?v=1751190788"
+    },
+    {
+      "product_number": "SC-A0JQC50M",
+      "description": "Mitsubishi Electric Indoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 50m / 164ft length - equivalent to SCA0JQC50M",
+      "price": 150.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b53d2782-2ca2-4fe6-a9bc-f5453cf8a828_large.png?v=1751190782"
+    },
+    {
+      "product_number": "SC-A0JQC30M",
+      "description": "Mitsubishi Electric Indoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 30m / 98ft length - equivalent to SCA0JQC30M",
+      "price": 103.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_4c4dc0b3-282b-4354-9b55-7061787078bf_large.png?v=1751190780"
+    },
+    {
+      "product_number": "SC-A0JQC20M",
+      "description": "Mitsubishi Electric Indoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 20m / 65ft length - equivalent to SCA0JQC20M",
+      "price": 88.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_6c14cadb-346d-4651-94b6-533be42baab2_large.png?v=1751190777"
+    },
+    {
+      "product_number": "SC-A0JQC03M",
+      "description": "Mitsubishi Electric Indoor field devices shielded cable / cordset - Cat.5e - with Ethernet + CC-Link communication capability - 3m / 9ft length - equivalent to SCA0JQC03M",
+      "price": 60.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e07f1955-2af5-4d04-8d19-db1b0a61fcf0_large.png?v=1751190774"
+    },
+    {
+      "product_number": "SC-A0JQBSL",
+      "description": "Mitsubishi Electric Interface base adapter - equivalent to SCA0JQBSL",
+      "price": 145.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9f574a2d-72f3-4494-96e6-802b579ae9da_large.png?v=1751190771"
+    },
+    {
+      "product_number": "QY82P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.1 A / 1 point, Type of unit: Transistor output (source), Rated load voltage(V) 12 to 24 DC, Number of occupied input/outputs(Point): 64, Chemical resistance: Conformal Coating",
+      "price": 1384.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_402e1533-05d7-49a2-834c-72cf2fb36075_large.png?v=1751190769"
+    },
+    {
+      "product_number": "QY82P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.1 A / 1 point, Type of unit: Transistor output (source), Rated load voltage(V) 12 to 24 DC, Number of occupied input/outputs(Point): 64",
+      "price": 1254.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_dffef416-e4c6-40b8-aa9f-51664e5af558_large.png?v=1751190767"
+    },
+    {
+      "product_number": "QY81P-C",
+      "description": "Mitsubishi Electric Digital output unit module with conformal coating -MELSEC-Q QnU series - 32I/O [32DO (32 x digital outputs (24Vdc; Source))] - equivalent to QY81PC",
+      "price": 851.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b9eefd42-85eb-4313-8a9b-456ecc08611c_large.png?v=1751190765"
+    },
+    {
+      "product_number": "QY81P",
+      "description": "Mitsubishi Electric PLC Q Series Output module; 24V DC; 0.1A, 32 transistor outputs; SUB-D connector, Series: MELSEC-Q, Type: TRANSISTOR OUTPUT (SOURCE), Power Supply (V): 12-24, Current Type: DC, Occupied I/O Points on PLC: 32, Integrated Digital Outputs: 32, Output Type: Transistor, Output Logic: Source, Rated Load Voltage (VDC): 12-24, Wiring: Connector, Int. Current Consumption (A): 0.095",
+      "price": 708.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c622a47f-bcbd-45e4-a2eb-2a063ec7461d_large.png?v=1751190763"
+    },
+    {
+      "product_number": "QY80-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.5 A / 1 point, Terminal shape: 18-point spring clamp terminal block with display function, Type of unit: Transistor output (source), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 16",
+      "price": 555.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_f4106aaa-0653-4345-b488-273f7856c1c3_large.png?v=1751190761"
+    },
+    {
+      "product_number": "QY80",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.5 A / 1 point, Type of unit: Transistor output (source), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 16",
+      "price": 413.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_0e16254b-4d79-4ec9-b706-d25c8bb8797c_large.png?v=1751190758"
+    },
+    {
+      "product_number": "QY71",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 5 to 12 DC, Representative Standard: CE / UL, Maximum Load Current: 16 mA / 1 point, Type of unit: TTL CMOS output, Rated load voltage(V): 5 to 12 DC, Number of occupied input/outputs(Point): 32",
+      "price": 566.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_5005bcc3-2eb0-4a15-9fcc-c35be54a1830_large.png?v=1751190756"
+    },
+    {
+      "product_number": "QY70",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 5 to 12 DC, Representative Standard: CE / UL, Maximum Load Current: 16 mA / 1 point, Type of unit: TTL CMOS output, Rated load voltage(V): 5 to 12 DC, Number of occupied input/outputs(Point): 16",
+      "price": 329.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1cbaf0e7-49a4-4201-9989-abf16dc8508f_large.png?v=1751190754"
+    },
+    {
+      "product_number": "QY68A",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Representative Standard: CE / UL, Maximum Load Current: 2 A / 1 point, Type of unit: Transistor output (sink/source), Rated load voltage(V): 5 to 24 DC, Number of occupied input/outputs(Point): 16",
+      "price": 454.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1ddf6a68-cb6f-450e-bff6-d11c980c8810_large.png?v=1751190752"
+    },
+    {
+      "product_number": "QY51PL",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Output Format: Transistor/Sync Output, Terminal shape: 18-point terminal block, Type of unit: Output",
+      "price": 1179.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ce3de8de-6f5f-489c-b21f-40d4bba9ee0c_large.png?v=1751190750"
+    },
+    {
+      "product_number": "QY50",
+      "description": "Mitsubishi Electric 16 point transistor, 12-24V DC, 0.5A/point, 4A/common, sink, 16 points/common, Series: MELSEC-Q, Type: TRANSISTOR OUTPUT (SINK), Power Supply (V): 12-24, Current Type: DC, Occupied I/O Points on PLC: 16, Integrated Digital Outputs: 16, Output Type: Transistor, Output Logic: Sink, Rated Load Voltage (VDC): 12/24, Wiring: SCREW, Int. Current Consumption (A): 0.08",
+      "price": 329.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_26535854-e9b5-4a47-b003-d144f34a3491_large.png?v=1751190748"
+    },
+    {
+      "product_number": "QY42P-C",
+      "description": "Mitsubishi Electric PLC Q Series Output module; 12/24V DC;0.1A, 64 transistor outputs sink;connector, Series: MELSEC-Q, Type: TRANSISTOR OUTPUT (SINK), Power Supply (V): 12-24, Current Type: DC, Occupied I/O Points on PLC: 64, Integrated Digital Outputs: 64, Output Type: Transistor, Output Logic: Sink, Rated Load Voltage (VDC): 12-24, Wiring: SCREW, Int. Current Consumption (A): 0.15, Chemical resistance: Conformal Coating",
+      "price": 1130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_87b0c329-6f50-4549-96fb-808a77741f71_large.png?v=1751190746"
+    },
+    {
+      "product_number": "QY42P",
+      "description": "Mitsubishi Electric PLC Q Series Output module; 12/24V DC;0.1A, 64 transistor outputs sink;connector, Series: MELSEC-Q, Type: TRANSISTOR OUTPUT (SINK), Power Supply (V): 12-24, Current Type: DC, Occupied I/O Points on PLC: 64, Integrated Digital Outputs: 64, Output Type: Transistor, Output Logic: Sink, Rated Load Voltage (VDC): 12-24, Wiring: SCREW, Int. Current Consumption (A): 0.15",
+      "price": 849.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c61376b8-808c-437e-9d7b-7b3072923d86_large.png?v=1751190744"
+    },
+    {
+      "product_number": "QY41P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.1 A / 1 point, Type of unit: Transistor output (sink), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 32, Chemical resistance: Conformal Coating",
+      "price": 706.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b6fc7cfd-2192-4d3c-afaa-7843891de490_large.png?v=1751190741"
+    },
+    {
+      "product_number": "QY41P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.1 A / 1 point, Type of unit: Transistor output (sink), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 32",
+      "price": 529.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ec3fb043-2d09-4f3c-b716-4bb3a967375d_large.png?v=1751190739"
+    },
+    {
+      "product_number": "QY41H",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Output Format: Transistor/Sync Output, Terminal shape: 40-pin connector, Type of unit: Output",
+      "price": 631.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_29bb7ff8-77b3-44e8-8f3c-a6e2303a8194_large.png?v=1751190737"
+    },
+    {
+      "product_number": "QY40P-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.1 A / 1 point, Terminal shape: 18-point spring clamp terminal block with display function, Type of unit: Transistor output (sink), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 16",
+      "price": 388.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_cb933159-a9c4-4a5f-8f89-5b9e7b205480_large.png?v=1751190735"
+    },
+    {
+      "product_number": "QY40P-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.1 A / 1 point, Type of unit: Transistor output (sink), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 16, Chemical resistance: Conformal Coating",
+      "price": 410.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e72ae602-edfd-408e-9420-4a1287933094_large.png?v=1751190733"
+    },
+    {
+      "product_number": "QY40P",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Maximum Load Current: 0.1 A / 1 point, Type of unit: Transistor output (sink), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 16",
+      "price": 312.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e2ba0cb1-e07b-411b-9075-f4f4b34ab50f_large.png?v=1751190731"
+    },
+    {
+      "product_number": "QY23L",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 100 to 240 AC, Representative Standard: CE / UL, Maximum Load Current: 0.6 A / 1 point, Terminal shape: 38-point terminal block connector, Type of unit: Large output (Triac), Rated load voltage(V) 100 to 240 AC, Number of occupied input/outputs(Point): 32",
+      "price": 1513.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9a99379b-b024-4577-a9ae-5ae08f827576_large.png?v=1751190729"
+    },
+    {
+      "product_number": "QY22-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 100 to 240 AC, Representative Standard: CE / UL, Maximum Load Current: 0.6 A / 1 point, Type of unit: Triac Output, Rated load voltage(V): 100 to 240 AC, Number of occupied input/outputs(Point): 16, Chemical resistance: Conformal Coating",
+      "price": 577.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_81859495-418e-4c7a-bfc9-4ac0a4277ba5_large.png?v=1751190726"
+    },
+    {
+      "product_number": "QY22",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 100 to 240 AC, Representative Standard: CE / UL, Maximum Load Current: 0.6 A / 1 point, Type of unit: Triac Output, Rated load voltage(V): 100 to 240 AC, Number of occupied input/outputs(Point): 16",
+      "price": 517.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9027828e-4db0-45a3-a3c9-4549b5e2ef90_large.png?v=1751190724"
+    },
+    {
+      "product_number": "QY18A-C",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 240 AC, Representative Standard: CE / UL, Maximum Load Current: 2 A / 1 point, Type of unit: Relay output, Rated load voltage(V): 24 DC / 240 AC, Number of occupied input/outputs(Point): 16, Chemical resistance: Conformal Coating",
+      "price": 426.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_776370fa-b709-4ad1-b721-82d3f34bfa38_large.png?v=1751190722"
+    },
+    {
+      "product_number": "QY18A",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 240 AC, Representative Standard: CE / UL, Maximum Load Current: 2 A / 1 point, Type of unit: Relay output, Rated load voltage(V): 24 DC / 240 AC, Number of occupied input/outputs(Point): 16",
+      "price": 388.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_89fa47a7-8025-4180-9c0a-b5d476221461_large.png?v=1751190720"
+    },
+    {
+      "product_number": "QY13L",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 240 AC, Representative Standard: CE / UL, Maximum Load Current: 2 A / 1 point, Terminal shape: 38-point terminal block connector, Type of unit: Large output (relay), Rated load voltage(V): 24 DC / 240 AC, Number of occupied input/outputs(Point): 32",
+      "price": 1152.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_fbb9fbf0-031f-40f0-a20d-2e52f566be46_large.png?v=1751190718"
+    },
+    {
+      "product_number": "QY11AL",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 240 AC, Representative Standard: CE / UL, Maximum Load Current: 16 A/ all point, Terminal shape: 38-point terminal block connector, Type of unit: Large output (relay), Rated load voltage(V): 24 DC / 240 AC, Number of occupied input/outputs(Point): 16",
+      "price": 1227.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_62eec56d-546c-4c56-adda-2c3b3b36f49c_large.png?v=1751190716"
+    },
+    {
+      "product_number": "QY10-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 240 AC, Representative Standard: CE / UL, Maximum Load Current: 2 A / 1 point, Terminal shape: 18-point spring clamp terminal block with display function, Type of unit: Relay output, Rated load voltage(V): 24 DC / 240 AC, Number of occupied input/outputs(Point): 16",
+      "price": 555.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_801f182a-7b05-4224-93a0-60d9d3bfd1fa_large.png?v=1751190714"
+    },
+    {
+      "product_number": "QY10",
+      "description": "Mitsubishi Electric PLC IO Units, Output Unit, MELSEC-Q Series, Rated Load Voltage(V): 240 AC, Representative Standard: CE / UL, Maximum Load Current: 2 A / 1 point, Type of unit: Relay output, Rated load voltage(V): 24 DC / 240 AC, Number of occupied input/outputs(Point): 16",
+      "price": 413.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7d76bc10-0a84-4b60-aa21-5234ca380fd7_large.png?v=1751190711"
+    },
+    {
+      "product_number": "QX90H",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Minus, MELSEC-Q Series, Rated Input Voltage(V): DC5, Representative Standard: CE / UL, Feature: 8 points 1 common, Rated input current(mA): Approx. 6 mA, Input Answer Time 0/0.1/0.2/0.4/0.6/1, Number of occupied input/outputs(Point): 16",
+      "price": 485.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_23a57490-676a-454b-bb55-477a7681d7ee_large.png?v=1751190709"
+    },
+    {
+      "product_number": "QX82-S1",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Minus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 64, Rated input current(mA): Approx. 4 mA, Input Answer Time: 0.1/0.2/0.4/0.6/1, Terminal shape: 40-pin connector √ó 2, Number of occupied input/outputs(Point): 64",
+      "price": 894.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b4684c75-6abc-4864-925f-b20b41c1e702_large.png?v=1751190707"
+    },
+    {
+      "product_number": "QX82-C",
+      "description": "Mitsubishi Electric PLC Q Series Input module; 24 V DC; 64 inputs; A6CON connector, Series: MELSEC-Q, Type: DC INPUT (MINUS COMMON), Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 64, Integrated Digital Inputs: 64, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.09, Chemical resistance: Conformal Coating",
+      "price": 1044.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_4d0929f9-f371-4b11-9cf3-6a3447c65def_large.png?v=1751190705"
+    },
+    {
+      "product_number": "QX82",
+      "description": "Mitsubishi Electric PLC Q Series Input module; 24 V DC; 64 inputs; A6CON connector, Series: MELSEC-Q, Type: DC INPUT (MINUS COMMON), Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 64, Integrated Digital Inputs: 64, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.09",
+      "price": 797.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_637760b9-bf33-4f8f-b8d3-9eade5e1b534_large.png?v=1751190703"
+    },
+    {
+      "product_number": "QX81-S2",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Minus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 32, Rated input current(mA): Approx. 6 mA, Input Answer Time: 1/5/10/20/70, Terminal shape: 37-pin D-sub Connector, Number of occupied input/outputs(Point): 32",
+      "price": 566.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8eae42bc-dfe4-40f0-9349-04cf9ded48e9_large.png?v=1751190701"
+    },
+    {
+      "product_number": "QX81-C",
+      "description": "Mitsubishi Electric PLC Q Series Input module; 24 V DC; 32 inputs; SUB-D connector, Series: MELSEC-Q, Type: DC INPUT (MINUS COMMON), Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 32, Integrated Digital Inputs: 32, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.075, Chemical resistance: Conformal Coating",
+      "price": 781.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c0a98b25-b996-4f2e-80ce-5618f1fad5c1_large.png?v=1751190699"
+    },
+    {
+      "product_number": "QX81",
+      "description": "Mitsubishi Electric PLC Q Series Input module; 24 V DC; 32 inputs; SUB-D connector, Series: MELSEC-Q, Type: DC INPUT (MINUS COMMON), Power Supply (V): 24, Current Type: DC, Occupied I/O Points on PLC: 32, Integrated Digital Inputs: 32, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.075",
+      "price": 652.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_81405d67-56b2-4ded-a6b3-bed444534e22_large.png?v=1751190696"
+    },
+    {
+      "product_number": "QX80H-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Minus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 8 points 1 common, Rated input current(mA): Approx. 6 mA, Input Answer Time: 0/0.1/0.2/0.4/0.6/1, Number of occupied input/outputs(Point): 16, Chemical resistance: Conformal Coating",
+      "price": 522.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b5caf047-8ad2-4b5b-9e2f-db9728e2cc3d_large.png?v=1751190694"
+    },
+    {
+      "product_number": "QX80H",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Minus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 8 points 1 common, Rated input current(mA): Approx. 6 mA, Input Answer Time: 0/0.1/0.2/0.4/0.6/1, Number of occupied input/outputs(Point): 16",
+      "price": 464.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8f0ae276-541f-4cc1-b712-f971085f8b1a_large.png?v=1751190692"
+    },
+    {
+      "product_number": "QX80-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Minus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): Approx. 4 mA, Input Answer Time: 1/5/10/20/70, Terminal shape 18-point spring clamp terminal block with display function, Number of occupied input/outputs(Point): 16",
+      "price": 517.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8c6e0cad-7cbc-4091-a7c2-a1eb6e6f0899_large.png?v=1751190690"
+    },
+    {
+      "product_number": "QX80",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Minus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): Approx. 4 mA, Input Answer Time: 1/5/10/20/70, Number of occupied input/outputs(Point): 16",
+      "price": 382.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_5b3a2f7e-9134-4188-88ac-104cddb8bbeb_large.png?v=1751190687"
+    },
+    {
+      "product_number": "QX72",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Sensor, MELSEC-Q Series, Rated Input Voltage(V): 5 DC / 12 DC, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 64, Rated input current(mA): 1.2(5 V DC) / 3.3(12 V DC), Input Answer Time: 10, Terminal shape: 40-pin connector √ó 2, Number of occupied input/outputs(Point): 64",
+      "price": 900.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_0c72fa5e-fd5d-4521-82c2-c5c99daf80a6_large.png?v=1751190685"
+    },
+    {
+      "product_number": "QX71",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Sensor, MELSEC-Q Series, Rated Input Voltage(V): 5 DC / 12 DC, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point): 32, Rated input current(mA): 1.2(5 V DC) / 3.3(12 V DC), Input Answer Time: 10, Number of occupied input/outputs(Point): 32",
+      "price": 581.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_0f457b40-9d14-4ead-bf01-000510df5c02_large.png?v=1751190683"
+    },
+    {
+      "product_number": "QX70H",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Rated Input Voltage(V) DC5 Representative Standard CE / UL, Feature: 8 points 1 common, Rated input current(mA): 6, Input Answer Time: 0/0.1/0.2/0.4/0.6/1, Number of occupied input/outputs(Point): 16",
+      "price": 464.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_171b1626-7708-45c0-b870-64268ed20f78_large.png?v=1751190681"
+    },
+    {
+      "product_number": "QX70",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Sensor, MELSEC-Q Series, Rated Input Voltage(V): 5 DC / 12 DC, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 1.2(5 V DC) / 3.3(12 V DC), Input Answer Time: 10, Number of occupied input/outputs(Point): 16",
+      "price": 345.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_c4eed90b-1718-4d33-957b-b33b89936815_large.png?v=1751190679"
+    },
+    {
+      "product_number": "QX50",
+      "description": "Mitsubishi Electric PLC Q Series Input module; 48 V AC/DC; 16 inputs, Series: MELSEC-Q, Type: AC INPUT, Occupied I/O Points on PLC: 16, Integrated Digital Inputs: 16, Rated Input Voltage (VAC): 48, Rated Input Voltage (VDC): 48, Wiring: SCREW, Int. Current Consumption (A): 0.05",
+      "price": 555.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8840ab8f-6bbd-4426-83ce-1512ac9a3be0_large.png?v=1751190677"
+    },
+    {
+      "product_number": "QX48Y57",
+      "description": "Mitsubishi Electric PLC IO Units, Input/Output Unit, MELSEC-Q Series, Number of Outputs: 7, Rated Load Voltage(V): DC12 to 24, Representative Standard: CE / UL, Feature: 8 points 1 common, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Maximum Load Current: 0.5 A / 1 point, Type of unit: DC input / transistor output (sink), Rated load voltage(V): 12 to 24 DC, Number of occupied input/outputs(Point): 16, External Dimension(mm): (H) 98 √ó (W) 27.4 √ó (D) 90",
+      "price": 329.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_017a1ae4-cd17-4fba-80db-6ae81f1c73f7_large.png?v=1751190675"
+    },
+    {
+      "product_number": "QX42-S1-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point) 64, Rated input current(mA): 4, Input Answer Time: 0.1/0.2/0.4/0.6/1, Terminal shape: 40-pin connector √ó 2, Number of occupied input/outputs(Point): 64, Chemical resistance: Conformal Coating",
+      "price": 883.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_25393584-c0e0-4ed3-ab47-f1f677fc2391_large.png?v=1751190673"
+    },
+    {
+      "product_number": "QX42-S1",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point) 64, Rated input current(mA): 4, Input Answer Time: 0.1/0.2/0.4/0.6/1, Terminal shape: 40-pin connector √ó 2, Number of occupied input/outputs(Point): 64",
+      "price": 797.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e2f996d4-296a-462e-a80a-467c3b5a7d0c_large.png?v=1751190670"
+    },
+    {
+      "product_number": "QX42-C",
+      "description": "Mitsubishi Electric 64 point, 24V DC input (4mA), sink type, 32 points/common, Series: MELSEC-Q, Type: DC INPUT (PLUS COMMON), Occupied I/O Points on PLC: 64, Integrated Digital Inputs: 64, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.075, Chemical resistance: Conformal Coating",
+      "price": 1130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7e730c23-16b1-4bd0-9920-5554849b59f4_large.png?v=1751190668"
+    },
+    {
+      "product_number": "QX42",
+      "description": "Mitsubishi Electric 64 point, 24V DC input (4mA), sink type, 32 points/common, Series: MELSEC-Q, Type: DC INPUT (PLUS COMMON), Occupied I/O Points on PLC: 64, Integrated Digital Inputs: 64, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.075",
+      "price": 841.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_99874f2f-dae4-4300-a3a3-e410b366bb44_large.png?v=1751190666"
+    },
+    {
+      "product_number": "QX41Y41P",
+      "description": "Mitsubishi Electric Mixed/combined digital input and output unit module -MELSEC-Q QnU series - 64I/O [32DI (32 x digital inputs (24Vdc)) + 32DO (32 x digital outputs (24Vdc; Source))]",
+      "price": 914.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_55645092-32ee-4b44-9674-2d4a6ca9d898_large.png?v=1751190663"
+    },
+    {
+      "product_number": "QX41-S2",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point) 32, Rated input current(mA): 6, Input Answer Time: 1/5/10/20/70, Number of occupied input/outputs(Point): 32",
+      "price": 491.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_9d2f1610-a9f9-4b26-bbba-74793a4653cb_large.png?v=1751190661"
+    },
+    {
+      "product_number": "QX41-S1",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 32 points 1 common, Number Of Inputs(Point) 32, Rated input current(mA): 4, Input Answer Time: 0.1/0.2/0.4/0.6/1, Number of occupied input/outputs(Point): 32",
+      "price": 528.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_8e2f651b-e2b8-4e53-bac6-f27d1f3f2a99_large.png?v=1751190659"
+    },
+    {
+      "product_number": "QX41-C",
+      "description": "Mitsubishi Electric 32 point, 24V DC input (4mA), sink type, 32 points/common, Series: MELSEC-Q, Type: DC INPUT (PLUS COMMON), Occupied I/O Points on PLC: 32, Integrated Digital Inputs: 32, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.075, Chemical resistance: Conformal Coating",
+      "price": 707.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a01b5aa9-3929-4579-8ba7-14ef8e080391_large.png?v=1751190657"
+    },
+    {
+      "product_number": "QX41",
+      "description": "Mitsubishi Electric 32 point, 24V DC input (4mA), sink type, 32 points/common, Series: MELSEC-Q, Type: DC INPUT (PLUS COMMON), Occupied I/O Points on PLC: 32, Integrated Digital Inputs: 32, Rated Input Voltage (VDC): 24, Wiring: Connector, Int. Current Consumption (A): 0.075",
+      "price": 534.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a4f3dbf6-9508-4c2b-b827-a937e0f0ff6c_large.png?v=1751190655"
+    },
+    {
+      "product_number": "QX40H",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 8 points 1 common, Rated input current(mA): 4, Input Answer Time: 0/0.1/0.2/0.4/0.6/1, Terminal shape: 18-point spring clamp terminal block with display function, Number of occupied input/outputs(Point): 16",
+      "price": 485.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_d7f1b1db-0daf-43ae-8496-496c5cd1b81a_large.png?v=1751190652"
+    },
+    {
+      "product_number": "QX40-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Terminal shape: 18-point spring clamp terminal block with display function, Number of occupied input/outputs(Point): 16",
+      "price": 410.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_14515e21-689e-4bd3-bed8-69e12722c2cc_large.png?v=1751190650"
+    },
+    {
+      "product_number": "QX40-S1",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 6, Input Answer Time: 0.1/0.2/0.4/0.6/1, Number of occupied input/outputs(Point): 16",
+      "price": 329.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e6d52d00-aeab-477c-8cad-ecaa8da6d76c_large.png?v=1751190648"
+    },
+    {
+      "product_number": "QX40-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Number of occupied input/outputs(Point): 16, Chemical resistance: Conformal Coating",
+      "price": 410.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_dbcf78af-d21a-4b32-be48-e7763f80004d_large.png?v=1751190646"
+    },
+    {
+      "product_number": "QX40",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, DC Plus, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 4, Input Answer Time: 1/5/10/20/70, Number of occupied input/outputs(Point): 16",
+      "price": 308.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_dfc6e151-eecd-4320-a34b-e5255557f378_large.png?v=1751190644"
+    },
+    {
+      "product_number": "QX28-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, AC, MELSEC-Q Series, Rated Input Voltage(V): AC100 to 240, Representative Standard: CE / UL, Feature: 8 points 1 common, Rated input current(mA): 7 (100 V AC 50 Hz) / 8 (100 V AC 60 Hz) / 14 (200 V AC 50 Hz) / 17 (200 V AC 60 Hz), Input Answer Time: 20, Number of occupied input/outputs(Point): 16, Chemical resistance: Conformal Coating",
+      "price": 366.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1ab61595-30e1-43ea-bb5a-76ec129b651f_large.png?v=1751190642"
+    },
+    {
+      "product_number": "QX28",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, AC, MELSEC-Q Series, Rated Input Voltage(V): AC100 to 240, Representative Standard: CE / UL, Feature: 8 points 1 common, Rated input current(mA): 7 (100 V AC 50 Hz) / 8 (100 V AC 60 Hz) / 14 (200 V AC 50 Hz) / 17 (200 V AC 60 Hz), Input Answer Time: 20, Number of occupied input/outputs(Point): 16",
+      "price": 329.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_7573584d-3dc5-439d-83ee-6d791377ecf0_large.png?v=1751190640"
+    },
+    {
+      "product_number": "QX21L",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, AC, Large, MELSEC-Q Series, Rated Input Voltage(V): 200 to 240 AC, Representative Standard: CE, Feature: 32 points 1 common, Rated input current(mA): 10, Input Answer Time: 25, Terminal shape: 38-point terminal block connector, Number of occupied input/outputs(Point): 32",
+      "price": 1851.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b45f1ff8-9d29-41f9-9a5d-6b1b9fb6710a_large.png?v=1751190638"
+    },
+    {
+      "product_number": "QX11L",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, AC, Large, MELSEC-Q Series, Representative Standard: CE, Feature: 32 points 1 common, Rated input current(mA): 10, Input Answer Time: 25, Terminal shape: 38-point terminal block connector, Number of occupied input/outputs(Point): 32",
+      "price": 1033.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_063d2402-d137-48b2-8676-bf1843602915_large.png?v=1751190635"
+    },
+    {
+      "product_number": "QX10-TS",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, AC, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 7 (100 V AC 50 Hz) / 8 (100 V AC 60 Hz), Input Answer Time: 20, Terminal shape: 18-point spring clamp terminal block with display function, Number of occupied input/outputs(Point): 16",
+      "price": 405.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b79f8d9d-4247-47c0-ba16-5a47bccf2a46_large.png?v=1751190633"
+    },
+    {
+      "product_number": "QX10-C",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, AC, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 7 (100 V AC 50 Hz) / 8 (100 V AC 60 Hz), Input Answer Time: 20, Number of occupied input/outputs(Point): 16, Chemical resistance: Conformal Coating",
+      "price": 356.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_bf8f2b66-f8be-46ce-81cc-9da5569c9e2c_large.png?v=1751190627"
+    },
+    {
+      "product_number": "QX10",
+      "description": "Mitsubishi Electric PLC IO Units, Input Unit, AC, MELSEC-Q Series, Representative Standard: CE / UL, Feature: 16 points 1 common, Rated input current(mA): 7 (100 V AC 50 Hz) / 8 (100 V AC 60 Hz), Input Answer Time: 20, Number of occupied input/outputs(Point): 16",
+      "price": 329.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_fc48aa81-bb02-4114-8406-d85815a711bb_large.png?v=1751190624"
+    },
+    {
+      "product_number": "QS90SR2SP-Q",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay Module; 1 Input; 1 Output; PL e; P type, Series: MELSEC-QS, Type: SAFETY RELAY MODULE",
+      "price": 993.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ea1bfe67-090c-4c99-afae-547a560a9e0c_large.png?v=1751190622"
+    },
+    {
+      "product_number": "QS90SR2SP-EX",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay Extension Unit; 1 Input; 1 Output; PL e; P type, Series: MELSEC-QS, Type: EXTENSION SAFETY RELAY MODULE",
+      "price": 982.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_a5236e19-af53-46ac-be50-0bab13d48212_large.png?v=1751190620"
+    },
+    {
+      "product_number": "QS90SR2SP-CC",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay CC-Link Module; 1 In-/1 Output; PL e; P type, Series: MELSEC-QS, Type: CC-LINK SAFETY RELAY MODULE,Power Supply (V): 24,Current Type: DC, Network Interface: CC-LINK SAFETY",
+      "price": 1387.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_94b2513e-c1b5-4bea-9642-cc359300fe37_large.png?v=1751190618"
+    },
+    {
+      "product_number": "QS90SR2SN-Q",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay Module; 1 Input; 1 Output; PL e; N type, Series: MELSEC-QS, Type: SAFETY RELAY MODULE",
+      "price": 1142.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_e2261bee-7611-4096-9408-b0e76da29d58_large.png?v=1751190616"
+    },
+    {
+      "product_number": "QS90SR2SN-EX",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay Extension Unit; 1 Input; 1 Output; PL e; N type, Series: MELSEC-QS, Type: EXTENSION SAFETY RELAY MODULE",
+      "price": 982.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_08bbaaf2-dee8-4d5c-b8b1-c4f863ed18af_large.png?v=1751190613"
+    },
+    {
+      "product_number": "QS90SR2SN-CC",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay CC-Link Module; 1 In-/1 Output; PL e; N type, Series: MELSEC-QS, Type: CC-LINK SAFETY RELAY MODULE, Power Supply (V): 24, Current Type: DC, Network Interface: CC-LINK SAFETY",
+      "price": 1387.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_37f93151-3088-49f4-a9c1-b69dfa6c9733_large.png?v=1751190611"
+    },
+    {
+      "product_number": "QS90CBL-SE15",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay; cable for Extension Unit; 1.5m, Series: MELSEC-QS, Type: EXTENSION CABLE, Cable Length (m): 1.5",
+      "price": 103.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_230dd243-b64d-47d4-9ea6-fc0d88244b34_large.png?v=1751190609"
+    },
+    {
+      "product_number": "QS90CBL-SE01",
+      "description": "Mitsubishi Electric PLC Q Series Safety Relay; cable for Extension Unit; 10cm, Series: MELSEC-QS, Type: EXTENSION CABLE, Cable Length (m): 0.1",
+      "price": 51.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_1e3794dc-278d-4775-98e8-de550f29c38d_large.png?v=1751190607"
+    },
+    {
+      "product_number": "QS0J71GF11-T2-C",
+      "description": "Mitsubishi Electric SPS SystemQ Safety CC-Link IE Field Master/Slave Module, Series: MELSEC-QS, Type: MASTER/LOCAL STATION,Network Interface: CC-LINK IE FIELD NETWORK, Chemical resistance: Conformal Coating",
+      "price": 2266.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_337e6fa5-1df2-4c85-85c4-8d18857693b4_large.png?v=1751190605"
+    },
+    {
+      "product_number": "QS0J71GF11-T2",
+      "description": "Mitsubishi Electric SPS SystemQ Safety CC-Link IE Field Master/Slave Module, Series: MELSEC-QS, Type: MASTER/LOCAL STATION,Network Interface: CC-LINK IE FIELD NETWORK",
+      "price": 2274.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b1a86c0d-7389-4036-aefd-6fdfaa103040_large.png?v=1751190602"
+    },
+    {
+      "product_number": "QS0J65BTS2-8D-C",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Remote I/O Module; 8 Safety Inputs, Series: MELSEC-QS, Type: CC-LINK SAFETY REMOTE I/O, Power Supply (V): 24, Current Type: DC, Occupied Stations: 1, , Integrated Digital Inputs: 8, Rated Input Voltage (VDC): 24, Wiring: SCREW, Int. Current Consumption (A): 0.04, Chemical resistance: Conformal Coating",
+      "price": 1738.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_df8ce26c-d59e-4b2e-8b83-0d4003474127_large.png?v=1751190599"
+    },
+    {
+      "product_number": "QS0J65BTS2-8D",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Remote I/O Module; 8 Safety Inputs, Series: MELSEC-QS, Type: CC-LINK SAFETY REMOTE I/O, Power Supply (V): 24, Current Type: DC, Occupied Stations: 1, , Integrated Digital Inputs: 8, Rated Input Voltage (VDC): 24, Wiring: SCREW, Int. Current Consumption (A): 0.04",
+      "price": 1813.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3f5ca07d-b4d7-4414-b826-9d1ef452a05e_large.png?v=1751190597"
+    },
+    {
+      "product_number": "QS0J65BTS2-4T-C",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Remote I/O Module; 4 Safety Outputs, Series: MELSEC-QS, Type: CC-LINK SAFETY REMOTE I/O, Power Supply (V): 24, Current Type: DC, Occupied Stations: 1, Integrated Digital Outputs: 4, Output Type: Transistor, Output Logic: Sink/SOURCE, Rated Load Voltage (VDC): 24, Wiring: SPRING CLAMP, Int. Current Consumption (A): 0.045, Chemical resistance: Conformal Coating",
+      "price": 1511.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_0a6c45ce-6bd1-44b5-b5df-4887e55fbae0_large.png?v=1751190594"
+    },
+    {
+      "product_number": "QS0J65BTS2-4T",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Remote I/O Module; 4 Safety Outputs, Series: MELSEC-QS, Type: CC-LINK SAFETY REMOTE I/O, Power Supply (V): 24, Current Type: DC, Occupied Stations: 1, Integrated Digital Outputs: 4, Output Type: Transistor, Output Logic: Sink/SOURCE, Rated Load Voltage (VDC): 24, Wiring: SPRING CLAMP, Int. Current Consumption (A): 0.045",
+      "price": 1578.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_899dc03b-89a2-422b-a2d0-8b0bb1331b08_large.png?v=1751190590"
+    },
+    {
+      "product_number": "QS0J65BTB2-12DT-C",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Remote I/O Module; 8 Safety Inputs; 4 Safety Outputs, Series: MELSEC-QS, Type: CC-LINK SAFETY REMOTE I/O, Power Supply (V): 24, Current Type: DC, Occupied Stations: 1, Integrated Digital Inputs: 8, Integrated Digital Outputs: 4, Rated Input Voltage (VDC): 24, Rated Load Voltage (VDC): 24, Output Type: Transistor, Output Logic: Sink, Wiring: SCREW, Int. Current Consumption (A): 0.14, Chemical resistance: Conformal Coating",
+      "price": 2644.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_3707438f-26fd-412b-a825-0904518bb953_large.png?v=1751190587"
+    },
+    {
+      "product_number": "QS0J65BTB2-12DT",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Remote I/O Module; 8 Safety Inputs; 4 Safety Outputs, Series: MELSEC-QS, Type: CC-LINK SAFETY REMOTE I/O, Power Supply (V): 24, Current Type: DC, Occupied Stations: 1, Integrated Digital Inputs: 8, Integrated Digital Outputs: 4, Rated Input Voltage (VDC): 24, Rated Load Voltage (VDC): 24, Output Type: Transistor, Output Logic: Sink, Wiring: SCREW, Int. Current Consumption (A): 0.14",
+      "price": 2253.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_47fe6822-f1a3-4d20-9925-41832072f233_large.png?v=1751190584"
+    },
+    {
+      "product_number": "QS0J61BT12-CC",
+      "description": "Mitsubishi Electric CC-Link Safety system master module with special conformal coating -MELSEC-QS Safety series) - with CC-Link dedicated cable (Ver.1.10 compatible) - with CC-Link communication capability - equivalent to QS0J61BT12CC",
+      "price": 1026.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_73cc1f32-f836-4317-bb27-bf7de3837257_large.png?v=1751190581"
+    },
+    {
+      "product_number": "QS0J61BT12-C",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Master Unit,Series: MELSEC-QS, Type: MASTER STATION, Network Interface: CC-LINK SAFETY, Chemical resistance: Conformal Coating",
+      "price": 1241.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_b7c4298d-8e6b-4464-8677-33cdd861818a_large.png?v=1751190578"
+    },
+    {
+      "product_number": "QS0J61BT12",
+      "description": "Mitsubishi Electric PLC QS Safety CC-Link Master Unit,Series: MELSEC-QS, Type: MASTER STATION, Network Interface: CC-LINK SAFETY",
+      "price": 1130.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_bd05668f-7853-4f56-a722-2c627553fb94_large.png?v=1751190576"
+    },
+    {
+      "product_number": "QS061P-A2",
+      "description": "Mitsubishi Electric PLC QS Safety power supply 200-240V AC input ,5V DC 6A output, Series: MELSEC-QS, Type: SAFETY POWER SUPPLY, Power Supply (V): 200-240, Current Type: AC, Max Input Apparent Power (VA): 125, Output Current 5V (A): 6",
+      "price": 3160.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Mitsubishi_PLC_-_MELSEC_Q_Series_ab4ba598-76bd-482e-b92d-1b5afad55d4a_large.png?v=1751190574"
+    }
+  ]
+}

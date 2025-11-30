@@ -537,7 +537,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
         return 12 // Enclosed Breakers products count
       }
       // For other Noark categories, use default filtering
-      return cleanProducts.filter(product => 
+      return cleanProductsWithMitsubishi.filter(product => 
         product.brand === selectedBrand && product.category === category
       ).length
     }
@@ -546,14 +546,14 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
     }
     if (selectedBrand === 'Klemsan') {
       // For Klemsan, count total models instead of products
-      const klemsanProducts = cleanProducts.filter(product => 
+      const klemsanProducts = cleanProductsWithMitsubishi.filter(product => 
         product.brand === selectedBrand && product.category === category
       )
       return klemsanProducts.reduce((total, product) => {
         return total + ((product as any).models?.length || 0)
       }, 0)
     }
-    return cleanProducts.filter(product => 
+    return cleanProductsWithMitsubishi.filter(product => 
       product.brand === selectedBrand && product.category === category
     ).length
   }
@@ -801,7 +801,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                     ? tmeicProducts.length
                     : selectedBrand === 'LS Industrial'
                     ? lsIndustrialProducts.length
-                    : cleanProducts.filter(p => p.brand === selectedBrand).length} Products
+                    : cleanProductsWithMitsubishi.filter(p => p.brand === selectedBrand).length} Products
                 </span>
               </div>
             </motion.div>

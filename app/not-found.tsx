@@ -91,14 +91,14 @@ export default function NotFound() {
           </Link>
 
           <Link
-            href="/brands"
+            href="/products"
             className="group bg-white hover:bg-gray-50 border border-gray-200 rounded-xl p-6 transition-all duration-300 hover:shadow-lg"
           >
             <div className="w-8 h-8 bg-gray-200 rounded mx-auto mb-3 group-hover:bg-primary-100 transition-colors flex items-center justify-center">
-              <span className="text-sm font-bold text-gray-600 group-hover:text-primary-600">B</span>
+              <span className="text-sm font-bold text-gray-600 group-hover:text-primary-600">P</span>
             </div>
-            <h4 className="font-semibold text-gray-900 mb-2">Browse Brands</h4>
-            <p className="text-sm text-gray-500">View our trusted manufacturers</p>
+            <h4 className="font-semibold text-gray-900 mb-2">Browse Products</h4>
+            <p className="text-sm text-gray-500">View our product catalog</p>
           </Link>
 
           <Link

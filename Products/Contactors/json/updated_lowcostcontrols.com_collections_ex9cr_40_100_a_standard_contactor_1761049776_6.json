@@ -1,0 +1,809 @@
+{
+  "products": [
+    {
+      "product_number": "Ex9CR4011B7",
+      "description": "40A Noark Contactor(Reversing), 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320972",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_large.png?v=1611079726"
+    },
+    {
+      "product_number": "Ex9CR4011C7",
+      "description": "40A Noark Contactor(Reversing), 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320973",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4aeb21fd-34f9-47a4-846f-2ad6e2352cca_large.png?v=1611079727"
+    },
+    {
+      "product_number": "Ex9CR4011D7",
+      "description": "40A Noark Contactor(Reversing), 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320974",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ac438459-826c-4342-9b94-d6f47016ccfd_large.png?v=1611079728"
+    },
+    {
+      "product_number": "Ex9CR4011E7",
+      "description": "40A Noark Contactor(Reversing), 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320975",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6f766246-3487-4788-80a1-070df57e153e_large.png?v=1611079730"
+    },
+    {
+      "product_number": "Ex9CR4011F7",
+      "description": "40A Noark Contactor(Reversing), 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320976",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8bf152bb-621c-4386-bb2d-b741c67f1b25_large.png?v=1611079731"
+    },
+    {
+      "product_number": "Ex9CR4011G7",
+      "description": "40A Noark Contactor(Reversing), 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320977",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ebf2f8fd-5ff8-4538-8474-daa9c7b8cb61_large.png?v=1611079732"
+    },
+    {
+      "product_number": "Ex9CR4011M7",
+      "description": "40A Noark Contactor(Reversing), 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320978",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_88fea6d8-df53-48bb-b33b-5733bf7c40aa_large.png?v=1611079734"
+    },
+    {
+      "product_number": "Ex9CR4011P7",
+      "description": "40A Noark Contactor(Reversing), 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320979",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8a32127a-49a6-490c-b018-715830832d43_large.png?v=1611079735"
+    },
+    {
+      "product_number": "Ex9CR4011N7",
+      "description": "40A Noark Contactor(Reversing), 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320980",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d2743b90-edf9-4f7b-80e1-d0966e98c89d_large.png?v=1611079736"
+    },
+    {
+      "product_number": "Ex9CR4011U7",
+      "description": "40A Noark Contactor(Reversing), 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320981",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_111550ff-54e1-4fff-9586-9992c447ea6f_large.png?v=1611079738"
+    },
+    {
+      "product_number": "Ex9CR4011Q7",
+      "description": "40A Noark Contactor(Reversing), 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320982",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6c5b343d-a06f-468e-885c-66103062e8fa_large.png?v=1611079739"
+    },
+    {
+      "product_number": "Ex9CR4011V7",
+      "description": "40A Noark Contactor(Reversing), 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320983",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0c67ed9a-21b4-46ce-8fea-8bb77058b435_large.png?v=1611079740"
+    },
+    {
+      "product_number": "Ex9CR4011Z7",
+      "description": "40A Noark Contactor(Reversing), 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320984",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_3306c824-07d5-4d70-a4de-cbef1b1565e8_large.png?v=1611079742"
+    },
+    {
+      "product_number": "Ex9CR4011R7",
+      "description": "40A Noark Contactor(Reversing), 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320985",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e20c1835-4ca7-4d5f-90d9-d1e4d6c2240b_large.png?v=1611079743"
+    },
+    {
+      "product_number": "Ex9CR4011T7",
+      "description": "40A Noark Contactor(Reversing), 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320986",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_eb61f448-fe43-4f1d-aeb0-c4d8d9f86682_large.png?v=1611079744"
+    },
+    {
+      "product_number": "Ex9CR4011S7",
+      "description": "40A Noark Contactor(Reversing), 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320987",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c850843f-9d00-4278-be44-7ef275603c7b_large.png?v=1611079746"
+    },
+    {
+      "product_number": "Ex9CR4011Y7",
+      "description": "40A Noark Contactor(Reversing), 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320988",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d9856d7a-aad6-4cbe-9593-23c5396899a7_large.png?v=1611079747"
+    },
+    {
+      "product_number": "Ex9CR4011X7",
+      "description": "40A Noark Contactor(Reversing), 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320989",
+      "price": 252.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_77ba717b-6388-4f98-95ab-ad194ca77957_large.png?v=1611079748"
+    },
+    {
+      "product_number": "Ex9CR5011B7",
+      "description": "50A Noark Contactor(Reversing), 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320990",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_5cbef5ed-24e6-4398-acd3-a8da898af17a_large.png?v=1611079750"
+    },
+    {
+      "product_number": "Ex9CR5011C7",
+      "description": "50A Noark Contactor(Reversing), 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320991",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c8fae98a-ae77-41bd-98ae-96f499f9a30b_large.png?v=1611079751"
+    },
+    {
+      "product_number": "Ex9CR5011D7",
+      "description": "50A Noark Contactor(Reversing), 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320992",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_77bb834d-cbae-4aa6-91b6-334d433cda91_large.png?v=1611079752"
+    },
+    {
+      "product_number": "Ex9CR5011E7",
+      "description": "50A Noark Contactor(Reversing), 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320993",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_15def59e-3798-410c-aec8-c9f66d92da13_large.png?v=1611079754"
+    },
+    {
+      "product_number": "Ex9CR5011F7",
+      "description": "50A Noark Contactor(Reversing), 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320994",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a6b0a828-732c-4934-a1f3-eb45b2880bfe_large.png?v=1611079755"
+    },
+    {
+      "product_number": "Ex9CR5011G7",
+      "description": "50A Noark Contactor(Reversing), 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320995",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_66419100-c46f-46a2-afc9-e94d9c210951_large.png?v=1611079756"
+    },
+    {
+      "product_number": "Ex9CR5011M7",
+      "description": "50A Noark Contactor(Reversing), 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320996",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ff3836c3-e218-4eae-9012-7ff28b7c2996_large.png?v=1611079758"
+    },
+    {
+      "product_number": "Ex9CR5011P7",
+      "description": "50A Noark Contactor(Reversing), 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320997",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0b258062-aa02-401b-8719-b0edb9502da9_large.png?v=1611079759"
+    },
+    {
+      "product_number": "Ex9CR5011N7",
+      "description": "50A Noark Contactor(Reversing), 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320998",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9a02923c-7cb7-4b80-9b8a-58cc8c4082ae_large.png?v=1611079762"
+    },
+    {
+      "product_number": "Ex9CR5011U7",
+      "description": "50A Noark Contactor(Reversing), 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1320999",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e5d6f582-74ef-49b0-9b96-ba13c2e6172e_large.png?v=1611079763"
+    },
+    {
+      "product_number": "Ex9CR5011Q7",
+      "description": "50A Noark Contactor(Reversing), 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321000",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4d356429-c2d6-4b89-be1a-98c7cc90182f_large.png?v=1611079765"
+    },
+    {
+      "product_number": "Ex9CR5011V7",
+      "description": "50A Noark Contactor(Reversing), 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321001",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e84e0ebe-a883-4b04-9397-73c07972bb1a_large.png?v=1611079766"
+    },
+    {
+      "product_number": "Ex9CR5011Z7",
+      "description": "50A Noark Contactor(Reversing), 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321002",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_aaa8ceb5-0561-4c55-9a7d-d96c320e98e8_large.png?v=1611079767"
+    },
+    {
+      "product_number": "Ex9CR5011R7",
+      "description": "50A Noark Contactor(Reversing), 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321003",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0be7b352-d593-46b3-90c5-f4f260c34779_large.png?v=1611079769"
+    },
+    {
+      "product_number": "Ex9CR5011T7",
+      "description": "50A Noark Contactor(Reversing), 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321004",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ae4f1736-2da8-4d11-9086-fa3abd7ab6a5_large.png?v=1611079770"
+    },
+    {
+      "product_number": "Ex9CR5011S7",
+      "description": "50A Noark Contactor(Reversing), 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321005",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9764149d-2dd3-4d61-aa16-d63b7d5880c6_large.png?v=1611079771"
+    },
+    {
+      "product_number": "Ex9CR5011Y7",
+      "description": "50A Noark Contactor(Reversing), 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321006",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0915a88e-4707-4fa7-911e-d0ed9dc8b2b8_large.png?v=1611079773"
+    },
+    {
+      "product_number": "Ex9CR5011X7",
+      "description": "50A Noark Contactor(Reversing), 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321007",
+      "price": 288.29,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_95ac4a51-b454-4613-ab2f-f5b4b17ba790_large.png?v=1611079774"
+    },
+    {
+      "product_number": "Ex9CR6511B7",
+      "description": "65A Noark Contactor(Reversing), 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321008",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ac7bc4be-9e7a-4d99-bb5a-3f55942a0ae6_large.png?v=1611079775"
+    },
+    {
+      "product_number": "Ex9CR6511C7",
+      "description": "65A Noark Contactor(Reversing), 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321009",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a47c4fbd-c3ff-480c-9731-453bd8e91cdf_large.png?v=1611079776"
+    },
+    {
+      "product_number": "Ex9CR6511D7",
+      "description": "65A Noark Contactor(Reversing), 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321010",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_cbd86722-b56b-4ea6-bf32-6f859d991149_large.png?v=1611079778"
+    },
+    {
+      "product_number": "Ex9CR6511E7",
+      "description": "65A Noark Contactor(Reversing), 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321011",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_80e49ebe-fa7a-4bf1-bba9-a5b225d86f00_large.png?v=1611079779"
+    },
+    {
+      "product_number": "Ex9CR6511F7",
+      "description": "65A Noark Contactor(Reversing), 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321012",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_144421fb-0c04-4e30-9b12-3067fc5b2ec7_large.png?v=1611079780"
+    },
+    {
+      "product_number": "Ex9CR6511G7",
+      "description": "65A Noark Contactor(Reversing), 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321013",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6da49ab2-2773-43ca-9f81-742eb97676c1_large.png?v=1611079782"
+    },
+    {
+      "product_number": "Ex9CR6511M7",
+      "description": "65A Noark Contactor(Reversing), 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321014",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_eeaeec3d-3010-43fd-82f5-378cc2c0aa26_large.png?v=1611079783"
+    },
+    {
+      "product_number": "Ex9CR6511P7",
+      "description": "65A Noark Contactor(Reversing), 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321015",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_744fca28-85a2-4df5-b59f-64f32d19c551_large.png?v=1611079785"
+    },
+    {
+      "product_number": "Ex9CR6511N7",
+      "description": "65A Noark Contactor(Reversing), 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321016",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c8619866-a93f-4428-84dc-dac96dcbd767_large.png?v=1611079787"
+    },
+    {
+      "product_number": "Ex9CR6511U7",
+      "description": "65A Noark Contactor(Reversing), 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321017",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0a05b9fb-64c7-45f8-aff2-fe85afd7485e_large.png?v=1611079788"
+    },
+    {
+      "product_number": "Ex9CR6511Q7",
+      "description": "65A Noark Contactor(Reversing), 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321018",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_075dec38-53d8-4854-90fb-8adf1979f16a_large.png?v=1611079789"
+    },
+    {
+      "product_number": "Ex9CR6511V7",
+      "description": "65A Noark Contactor(Reversing), 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321019",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_95f916f8-af8a-4a6e-8150-e8ceaacf959f_large.png?v=1611079791"
+    },
+    {
+      "product_number": "Ex9CR6511Z7",
+      "description": "65A Noark Contactor(Reversing), 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321020",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_43944789-6d6f-4754-8887-86c4d3e1039a_large.png?v=1611079792"
+    },
+    {
+      "product_number": "Ex9CR6511R7",
+      "description": "65A Noark Contactor(Reversing), 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321021",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d9c2ac4f-d2f9-4340-ba27-577e1a897544_large.png?v=1611079793"
+    },
+    {
+      "product_number": "Ex9CR6511T7",
+      "description": "65A Noark Contactor(Reversing), 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321022",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_20fc735a-0716-4cb5-960c-b6eede6281c8_large.png?v=1611079795"
+    },
+    {
+      "product_number": "Ex9CR6511S7",
+      "description": "65A Noark Contactor(Reversing), 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321023",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9a8dad98-4d7c-4050-98ba-821f08417c37_large.png?v=1611079796"
+    },
+    {
+      "product_number": "Ex9CR6511Y7",
+      "description": "65A Noark Contactor(Reversing), 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321024",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8fca430d-eb30-48b2-b671-a20aace72ba0_large.png?v=1611079797"
+    },
+    {
+      "product_number": "Ex9CR6511X7",
+      "description": "65A Noark Contactor(Reversing), 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321025",
+      "price": 322.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_5bb0a503-c1bb-45e4-814b-b4506768cd4c_large.png?v=1611079799"
+    },
+    {
+      "product_number": "Ex9CR8011B7",
+      "description": "80A Noark Contactor(Reversing), 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321026",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e8189534-acd8-482e-b8c6-bf3ec0d3b1a2_large.png?v=1611079800"
+    },
+    {
+      "product_number": "Ex9CR8011C7",
+      "description": "80A Noark Contactor(Reversing), 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321027",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_85f0c212-3156-4eaa-b031-1430887e46a3_large.png?v=1611079801"
+    },
+    {
+      "product_number": "Ex9CR8011D7",
+      "description": "80A Noark Contactor(Reversing), 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321028",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6264f5e4-79f0-4736-be6f-8af76f135d86_large.png?v=1611079803"
+    },
+    {
+      "product_number": "Ex9CR8011E7",
+      "description": "80A Noark Contactor(Reversing), 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321029",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4f39b7c1-fc3a-4406-9331-8e62f9129bf9_large.png?v=1611079804"
+    },
+    {
+      "product_number": "Ex9CR8011F7",
+      "description": "80A Noark Contactor(Reversing), 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321030",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_54ea4ab8-f41a-4b36-9190-20c77328d40c_large.png?v=1611079805"
+    },
+    {
+      "product_number": "Ex9CR8011G7",
+      "description": "80A Noark Contactor(Reversing), 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321031",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c73bff4e-c5c9-4a1f-b2a8-e431683c14db_large.png?v=1611079807"
+    },
+    {
+      "product_number": "Ex9CR8011M7",
+      "description": "80A Noark Contactor(Reversing), 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321032",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_43ae26c9-11bd-49fc-b8a3-308ae9a1343a_large.png?v=1611079810"
+    },
+    {
+      "product_number": "Ex9CR8011P7",
+      "description": "80A Noark Contactor(Reversing), 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321033",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_7f67740f-0dcd-44b4-9fe7-b1f577a8447d_large.png?v=1611079812"
+    },
+    {
+      "product_number": "Ex9CR8011N7",
+      "description": "80A Noark Contactor(Reversing), 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321034",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c5e15b12-8ac7-4722-b35b-1bd7a67e0de0_large.png?v=1611079814"
+    },
+    {
+      "product_number": "Ex9CR8011U7",
+      "description": "80A Noark Contactor(Reversing), 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321035",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c2b62113-1a6a-45c8-90c6-a63233b75b73_large.png?v=1611079815"
+    },
+    {
+      "product_number": "Ex9CR8011Q7",
+      "description": "80A Noark Contactor(Reversing), 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321036",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6f3cf8df-71cd-4b55-bbde-4986fdc72406_large.png?v=1611079817"
+    },
+    {
+      "product_number": "Ex9CR8011V7",
+      "description": "80A Noark Contactor(Reversing), 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321037",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_21c48d0d-a80f-464f-b09f-6478ef827ecc_large.png?v=1611079818"
+    },
+    {
+      "product_number": "Ex9CR8011Z7",
+      "description": "80A Noark Contactor(Reversing), 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321038",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9014ed6f-85d8-430c-823e-bff8ecc1ecd5_large.png?v=1611079819"
+    },
+    {
+      "product_number": "Ex9CR8011R7",
+      "description": "80A Noark Contactor(Reversing), 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321039",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_58069f0a-8c96-4649-b35c-acf1f8aca6b8_large.png?v=1611079821"
+    },
+    {
+      "product_number": "Ex9CR8011T7",
+      "description": "80A Noark Contactor(Reversing), 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321040",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d8803d84-3880-4ef9-8734-8db05f135aa3_large.png?v=1611079822"
+    },
+    {
+      "product_number": "Ex9CR8011S7",
+      "description": "80A Noark Contactor(Reversing), 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321041",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_65175f2f-b0b0-4daf-8ec0-a74d224bcae9_large.png?v=1611079823"
+    },
+    {
+      "product_number": "Ex9CR8011Y7",
+      "description": "80A Noark Contactor(Reversing), 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321042",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_1e67d1b1-ef16-44d0-8814-d62e64290be9_large.png?v=1611079824"
+    },
+    {
+      "product_number": "Ex9CR8011X7",
+      "description": "80A Noark Contactor(Reversing), 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321043",
+      "price": 453.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_03920e80-760c-4b36-80e7-845be4a4ce42_large.png?v=1611079826"
+    },
+    {
+      "product_number": "Ex9CR10011B7",
+      "description": "100A Noark Contactor(Reversing), 24V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321044",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4fd102c9-fd0b-4bad-8e37-f7112ba3c56e_large.png?v=1611079827"
+    },
+    {
+      "product_number": "Ex9CR10011C7",
+      "description": "100A Noark Contactor(Reversing), 36V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321045",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_fa60e86c-27dc-4e86-93c2-fec1b0585bf6_large.png?v=1611079828"
+    },
+    {
+      "product_number": "Ex9CR10011D7",
+      "description": "100A Noark Contactor(Reversing), 42V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321046",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_7509564d-ca13-43bd-8c49-218bfd02a489_large.png?v=1611079830"
+    },
+    {
+      "product_number": "Ex9CR10011E7",
+      "description": "100A Noark Contactor(Reversing), 48V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321047",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a75e34cf-7080-43e8-b7ad-8dd7655b80bb_large.png?v=1611079831"
+    },
+    {
+      "product_number": "Ex9CR10011F7",
+      "description": "100A Noark Contactor(Reversing), 110V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321048",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_1f118e4f-07e9-401e-a647-335bc7b1e760_large.png?v=1611079832"
+    },
+    {
+      "product_number": "Ex9CR10011G7",
+      "description": "100A Noark Contactor(Reversing), 120V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321049",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_3c1af77d-e0b1-42b7-bf39-19672d3223f4_large.png?v=1611079833"
+    },
+    {
+      "product_number": "Ex9CR10011M7",
+      "description": "100A Noark Contactor(Reversing), 220V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321050",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6d7916bb-db9c-48fd-a9dc-67a0c931b1a7_large.png?v=1611079835"
+    },
+    {
+      "product_number": "Ex9CR10011P7",
+      "description": "100A Noark Contactor(Reversing), 230V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321051",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_1b34ffeb-be6c-4516-83ba-9135c6c3cecf_large.png?v=1611079838"
+    },
+    {
+      "product_number": "Ex9CR10011N7",
+      "description": "100A Noark Contactor(Reversing), 277V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321052",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_490d0479-4308-4e70-8d96-812e62a8a38a_large.png?v=1611079839"
+    },
+    {
+      "product_number": "Ex9CR10011U7",
+      "description": "100A Noark Contactor(Reversing), 240V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321053",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_38e3a9d4-c4c6-4db1-8de0-01ac5cadbf50_large.png?v=1611079840"
+    },
+    {
+      "product_number": "Ex9CR10011Q7",
+      "description": "100A Noark Contactor(Reversing), 380V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321054",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_323e516e-c7a3-40da-bf1f-84aa187b77e3_large.png?v=1611079842"
+    },
+    {
+      "product_number": "Ex9CR10011V7",
+      "description": "100A Noark Contactor(Reversing), 400V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321055",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_aa034459-b6dd-4ca2-8b37-08babcf158c7_large.png?v=1611079843"
+    },
+    {
+      "product_number": "Ex9CR10011Z7",
+      "description": "100A Noark Contactor(Reversing), 415V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321056",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_788623c3-c149-4654-b90f-707888e7e0b0_large.png?v=1611079844"
+    },
+    {
+      "product_number": "Ex9CR10011R7",
+      "description": "100A Noark Contactor(Reversing), 440V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321057",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4ea0ad41-a8a4-409b-b2c0-47b3baeb2d02_large.png?v=1611079845"
+    },
+    {
+      "product_number": "Ex9CR10011T7",
+      "description": "100A Noark Contactor(Reversing), 480V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321058",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d34b663e-f111-4eb8-bfc5-f099e47bcd26_large.png?v=1611079847"
+    },
+    {
+      "product_number": "Ex9CR10011S7",
+      "description": "100A Noark Contactor(Reversing), 500V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321059",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_66ddfd9e-4a73-4d42-b93c-a02c0bc6b51f_large.png?v=1611079848"
+    },
+    {
+      "product_number": "Ex9CR10011Y7",
+      "description": "100A Noark Contactor(Reversing), 600V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321060",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e1028457-9805-4013-8713-bba17f47d5e0_large.png?v=1611079850"
+    },
+    {
+      "product_number": "Ex9CR10011X7",
+      "description": "100A Noark Contactor(Reversing), 208V, 50/60Hz, Coil Type: AC, 1NO + 1NC Aux Contacts, Noark Part: 1321061",
+      "price": 600.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_fb788a32-bca3-4392-8d2c-108880784d56_large.png?v=1611079851"
+    },
+    {
+      "product_number": "Ex9CR40D11A",
+      "description": "40A Noark Contactor(Reversing), 12V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321267",
+      "price": 227.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_f06a76fc-3b50-49e7-bad7-c787f7c600ef_large.png?v=1611079852"
+    },
+    {
+      "product_number": "Ex9CR40D11B",
+      "description": "40A Noark Contactor(Reversing), 24V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321268",
+      "price": 227.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0da54465-56a8-485d-8cc9-d598934c0a3e_large.png?v=1611079853"
+    },
+    {
+      "product_number": "Ex9CR40D11E",
+      "description": "40A Noark Contactor(Reversing), 48V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321269",
+      "price": 227.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_55546658-aa5d-400a-afec-a7d2616cd46e_large.png?v=1611079855"
+    },
+    {
+      "product_number": "Ex9CR40D11F",
+      "description": "40A Noark Contactor(Reversing), 110V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321270",
+      "price": 227.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ef7bad3e-f944-4b13-9aec-cca3b928934f_large.png?v=1611079856"
+    },
+    {
+      "product_number": "Ex9CR40D11M",
+      "description": "40A Noark Contactor(Reversing), 220V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321271",
+      "price": 227.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e58699d8-5324-4bea-8ca3-27465e3ec435_large.png?v=1611079857"
+    },
+    {
+      "product_number": "Ex9CR50D11A",
+      "description": "50A Noark Contactor(Reversing), 12V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321272",
+      "price": 259.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4687f029-0618-41e5-80a9-b627f0318c1c_large.png?v=1611079858"
+    },
+    {
+      "product_number": "Ex9CR50D11B",
+      "description": "50A Noark Contactor(Reversing), 24V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321273",
+      "price": 259.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a30e63f6-4cb8-451c-a77e-da26471814bf_large.png?v=1611079860"
+    },
+    {
+      "product_number": "Ex9CR50D11E",
+      "description": "50A Noark Contactor(Reversing), 48V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321274",
+      "price": 259.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_f6b1de42-e707-4549-ad36-9915dc62c60b_large.png?v=1611079861"
+    },
+    {
+      "product_number": "Ex9CR50D11F",
+      "description": "50A Noark Contactor(Reversing), 110V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321275",
+      "price": 259.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_70390d19-6c57-407f-a13b-3cb3f235f0fa_large.png?v=1611079862"
+    },
+    {
+      "product_number": "Ex9CR50D11M",
+      "description": "50A Noark Contactor(Reversing), 220V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321276",
+      "price": 259.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_b0c74b5c-8ea7-4ffe-9841-e4d6a588c7e9_large.png?v=1611079864"
+    },
+    {
+      "product_number": "Ex9CR65D11A",
+      "description": "65A Noark Contactor(Reversing), 12V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321277",
+      "price": 289.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c009a973-5f63-43b2-8295-945271997d2a_large.png?v=1611079865"
+    },
+    {
+      "product_number": "Ex9CR65D11B",
+      "description": "65A Noark Contactor(Reversing), 24V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321278",
+      "price": 289.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_b8345a48-f71a-410c-b2fb-dd7d1eb3b36d_large.png?v=1611079866"
+    },
+    {
+      "product_number": "Ex9CR65D11E",
+      "description": "65A Noark Contactor(Reversing), 48V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321279",
+      "price": 289.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_25f8f4bc-f59c-454a-9331-b056c05ac8dc_large.png?v=1611079867"
+    },
+    {
+      "product_number": "Ex9CR65D11F",
+      "description": "65A Noark Contactor(Reversing), 110V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321280",
+      "price": 289.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8234a0dd-e3fe-4a56-a807-79b220fb74ec_large.png?v=1611079869"
+    },
+    {
+      "product_number": "Ex9CR65D11M",
+      "description": "65A Noark Contactor(Reversing), 220V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321281",
+      "price": 289.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_22cc6cc5-36cd-4b67-b018-2115784f4798_large.png?v=1611079870"
+    },
+    {
+      "product_number": "Ex9CR80D11A",
+      "description": "80A Noark Contactor(Reversing), 12V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321282",
+      "price": 407.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_021b537b-a86e-4121-8111-7133eacb1aab_large.png?v=1611079871"
+    },
+    {
+      "product_number": "Ex9CR80D11B",
+      "description": "80A Noark Contactor(Reversing), 24V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321283",
+      "price": 407.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4bd70cb7-2101-4b4a-b4ab-d235b8b5581d_large.png?v=1611079872"
+    },
+    {
+      "product_number": "Ex9CR80D11E",
+      "description": "80A Noark Contactor(Reversing), 48V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321284",
+      "price": 407.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_efd9e2ab-7434-4583-87f1-1ab870b6ff7a_large.png?v=1611079874"
+    },
+    {
+      "product_number": "Ex9CR80D11F",
+      "description": "80A Noark Contactor(Reversing), 110V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321285",
+      "price": 407.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_669af603-76e7-4566-afa4-1613abeda659_large.png?v=1611079875"
+    },
+    {
+      "product_number": "Ex9CR80D11M",
+      "description": "80A Noark Contactor(Reversing), 220V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321286",
+      "price": 407.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ce966d5d-9b80-4e34-bf21-8d95319babcf_large.png?v=1611079876"
+    },
+    {
+      "product_number": "Ex9CR100D11A",
+      "description": "100A Noark Contactor(Reversing), 12V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321287",
+      "price": 540.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_7aee54c3-d5ef-461a-bee1-559a62e344b5_large.png?v=1611079880"
+    },
+    {
+      "product_number": "Ex9CR100D11B",
+      "description": "100A Noark Contactor(Reversing), 24V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321288",
+      "price": 540.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_be33f4b5-b011-47d3-8751-3ff081ab528d_large.png?v=1611079881"
+    },
+    {
+      "product_number": "Ex9CR100D11E",
+      "description": "100A Noark Contactor(Reversing), 48V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321289",
+      "price": 540.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_db52453e-9671-45c9-a754-1cf40897de8a_large.png?v=1611079882"
+    },
+    {
+      "product_number": "Ex9CR100D11F",
+      "description": "100A Noark Contactor(Reversing), 110V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321290",
+      "price": 540.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d9e13d95-ea64-40fb-b661-8c0181b949b1_large.png?v=1611079883"
+    },
+    {
+      "product_number": "Ex9CR100D11M",
+      "description": "100A Noark Contactor(Reversing), 220V, Coil Type: DC, 1NO + 1NC Aux Contacts, Noark Part: 1321291",
+      "price": 540.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_54de7764-a53a-4a0f-b49d-3720270a0527_large.png?v=1611079885"
+    }
+  ]
+}

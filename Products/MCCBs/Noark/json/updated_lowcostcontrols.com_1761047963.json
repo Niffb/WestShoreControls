@@ -1,0 +1,928 @@
+{
+  "products": [
+    {
+      "product_number": "B1NQ2D8T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 8A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001357",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0e24d651-8de9-44b6-ab67-025adad84d67_large.jpg?v=1757168036"
+    },
+    {
+      "product_number": "B1NQ2D6T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 6A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001356",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_cd019c2a-7dbf-437e-b4c3-5889ec58817d_large.jpg?v=1757168035"
+    },
+    {
+      "product_number": "B1NQ2D63T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 63A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001371",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_17e00971-370b-4fcd-8ae9-1e7be636acae_large.jpg?v=1757168033"
+    },
+    {
+      "product_number": "B1NQ2D60T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 60A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001370",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_3036b00c-c322-4642-8227-c4b6bfc7e3a6_large.jpg?v=1757168032"
+    },
+    {
+      "product_number": "B1NQ2D5T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 5A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001355",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_d662c70f-e0d3-4a49-8b9d-e54c09d68314_large.jpg?v=1757168030"
+    },
+    {
+      "product_number": "B1NQ2D50T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 50A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001369",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_46a0bcf7-aa12-45fe-9325-528453cb8160_large.jpg?v=1757168029"
+    },
+    {
+      "product_number": "B1NQ2D4T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 4A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001354",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_21a6cc91-0127-48b6-8598-a06b4d2c475c_large.jpg?v=1757168027"
+    },
+    {
+      "product_number": "B1NQ2D45T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 45A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001368",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_6bd70ec2-3340-4890-8ef5-fff5213dca30_large.jpg?v=1757168026"
+    },
+    {
+      "product_number": "B1NQ2D40T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 40A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001367",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_e049077e-76ea-42a1-84a4-1a67cd1bf81e_large.jpg?v=1757168024"
+    },
+    {
+      "product_number": "B1NQ2D3T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 3A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001353",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_93a91ec7-b91b-4d9e-ba3e-78979ec083a3_large.jpg?v=1757168023"
+    },
+    {
+      "product_number": "B1NQ2D35T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 35A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001366",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_d14154cc-7ef2-4702-8b14-8d046ccbe781_large.jpg?v=1757168021"
+    },
+    {
+      "product_number": "B1NQ2D32T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 32A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001365",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b6a12cc9-6e76-413e-b19c-43f49430299f_large.jpg?v=1757168020"
+    },
+    {
+      "product_number": "B1NQ2D30T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 30A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001364",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_99cff683-e275-486d-adf2-3f043db0f223_large.jpg?v=1757168018"
+    },
+    {
+      "product_number": "B1NQ2D2T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 2A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001352",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_056cee57-4757-4c8d-9615-7b50975ec540_large.jpg?v=1757168016"
+    },
+    {
+      "product_number": "B1NQ2D25T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 25A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001363",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0825f733-2825-49ca-b64e-689613314dbf_large.jpg?v=1757168015"
+    },
+    {
+      "product_number": "B1NQ2D20T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 20A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001362",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_1dc68118-0edf-42cd-971b-1c22980e3b3d_large.jpg?v=1757168013"
+    },
+    {
+      "product_number": "B1NQ2D1T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001350",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f2a66f1b-6792-4058-86ef-48ccf9950442_large.jpg?v=1757168012"
+    },
+    {
+      "product_number": "B1NQ2D16T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 16A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001361",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_deeaebf8-2f6f-44c0-a565-4ecd2f2c05b2_large.jpg?v=1757168010"
+    },
+    {
+      "product_number": "B1NQ2D15T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 15A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001360",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_9c589bb8-316c-447d-96c9-68950f56afd0_large.jpg?v=1757168009"
+    },
+    {
+      "product_number": "B1NQ2D13T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 13A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001359",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_223f1539-2935-4173-bfc3-2c036fb209a7_large.jpg?v=1757168007"
+    },
+    {
+      "product_number": "B1NQ2D10T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 10A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001358",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_2817d305-58c6-47c3-8dce-18915942191f_large.jpg?v=1757168006"
+    },
+    {
+      "product_number": "B1NQ2D1.6T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1.6A rated current - D-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001351 / B1NQ2D16T",
+      "price": 161.62,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_e5ea53de-131a-49ad-bf8a-636aa01f60f8_large.jpg?v=1757168004"
+    },
+    {
+      "product_number": "B1NQ2C8T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 8A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001846",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_a4c799c8-e3ce-473e-a160-f472fe2b5cc1_large.jpg?v=1757168002"
+    },
+    {
+      "product_number": "B1NQ2C6T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 6A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001845",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_e9c76790-a861-49a8-90ce-5b8982194017_large.jpg?v=1757168001"
+    },
+    {
+      "product_number": "B1NQ2C63T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 63A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001861",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_214fe0e3-9e5b-4c19-bf3e-f06c7477ce5f_large.jpg?v=1757167999"
+    },
+    {
+      "product_number": "B1NQ2C60T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 63A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001861",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f18adf0a-339b-481e-9957-3ada38c91e60_large.jpg?v=1757167998"
+    },
+    {
+      "product_number": "B1NQ2C5T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 5A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001842",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_77e8279c-5a89-41ad-964f-b343d6ef58f6_large.jpg?v=1757167996"
+    },
+    {
+      "product_number": "B1NQ2C50T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 50A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001859",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b6f6bc87-59bc-4879-a074-483c9d7ac184_large.jpg?v=1757167995"
+    },
+    {
+      "product_number": "B1NQ2C4T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 4A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001843",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_46152ec3-30c2-489d-b6e3-cf8893cd11ce_large.jpg?v=1757167993"
+    },
+    {
+      "product_number": "B1NQ2C45T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 45A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001858",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_893af162-d4ae-414e-b07c-5bf79538f0ee_large.jpg?v=1757167992"
+    },
+    {
+      "product_number": "B1NQ2C40T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 40A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001857",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f43852e3-e5aa-4695-a8d1-33b25e5eb71a_large.jpg?v=1757167990"
+    },
+    {
+      "product_number": "B1NQ2C3T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 3A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001841",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f348b528-a934-4c02-8844-8a2f131970b2_large.jpg?v=1757167989"
+    },
+    {
+      "product_number": "B1NQ2C35T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 35A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001856",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_8bfc46c0-f396-4077-bd5b-ce8f683d04d2_large.jpg?v=1757167987"
+    },
+    {
+      "product_number": "B1NQ2C32T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 32A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001855",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_4b89704b-f532-4951-b5aa-a387e78c0dd9_large.jpg?v=1757167985"
+    },
+    {
+      "product_number": "B1NQ2C30T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 32A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001855",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_75dc3d39-7113-463a-9a04-8c028a67835e_large.jpg?v=1757167982"
+    },
+    {
+      "product_number": "B1NQ2C2T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 2A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001839",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_cc0f799d-9b4f-4576-8d1f-d5a43e9c19ec_large.jpg?v=1757167980"
+    },
+    {
+      "product_number": "B1NQ2C25T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 25A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001852",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_ed472937-e3fb-4e3d-9cd9-e08d3c648bfd_large.jpg?v=1757167978"
+    },
+    {
+      "product_number": "B1NQ2C20T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 20A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001851",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_fd4885a8-d55f-476f-83c7-a3e4c83c2428_large.jpg?v=1757167976"
+    },
+    {
+      "product_number": "B1NQ2C1T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001838",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_111f515d-d6ca-4fce-9a7a-71663ab9ff18_large.jpg?v=1757167974"
+    },
+    {
+      "product_number": "B1NQ2C16T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 16A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001849",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b7427d9b-0a82-4b61-b368-93e8fd3a7b4c_large.jpg?v=1757167972"
+    },
+    {
+      "product_number": "B1NQ2C15T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 15A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001848",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_95ff3b88-c437-4283-bcbd-dfec9399dc34_large.jpg?v=1757167970"
+    },
+    {
+      "product_number": "B1NQ2C13T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 13A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001847",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_fe46fd5a-db71-436d-90f3-4944ad0d4b71_large.jpg?v=1757167969"
+    },
+    {
+      "product_number": "B1NQ2C10T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 10A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001844",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_bd3c4a97-2f30-4057-a8f5-2a1c5c241112_large.jpg?v=1757167967"
+    },
+    {
+      "product_number": "B1NQ2C1.6T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1.6A rated current - C-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001840",
+      "price": 152.26,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_07b55e32-113f-4985-84bb-5d40469d3d6e_large.jpg?v=1757167966"
+    },
+    {
+      "product_number": "B1NQ2B8T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 8A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001829",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_cd21c36b-bc25-4780-9422-16a1e82a7602_large.jpg?v=1757167964"
+    },
+    {
+      "product_number": "B1NQ2B6T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 6A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001826",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_54ff2f9b-ad14-4d29-b5ee-b9c58789a971_large.jpg?v=1757167963"
+    },
+    {
+      "product_number": "B1NQ2B63T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 63A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001837",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_342a4a64-8faf-4f08-b1b9-764f104c1e91_large.jpg?v=1757167961"
+    },
+    {
+      "product_number": "B1NQ2B60T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 60A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001836",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_4c2d60e0-4bd5-4558-a5df-2fef6bd3311f_large.jpg?v=1757167959"
+    },
+    {
+      "product_number": "B1NQ2B5T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 5A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001825",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_ee755313-4312-4b51-b50b-f499266ec2c0_large.jpg?v=1757167958"
+    },
+    {
+      "product_number": "B1NQ2B50T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 5A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001825",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f1581f68-64d8-467d-abb7-e96f48df7802_large.jpg?v=1757167956"
+    },
+    {
+      "product_number": "B1NQ2B4T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 4A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001823",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_5eb523d1-4c0e-4b9c-bb40-79c60aaa985d_large.jpg?v=1757167955"
+    },
+    {
+      "product_number": "B1NQ2B45T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 45A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001835",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_3eeb4f2e-82f1-4023-9e0a-a7948fcd8588_large.jpg?v=1757167953"
+    },
+    {
+      "product_number": "B1NQ2B40T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 40A rated current - B-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001803",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b13ebecf-4b4b-424b-a660-02ec14cb72d0_large.jpg?v=1757167952"
+    },
+    {
+      "product_number": "B1NQ2B3T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 3A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001822",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0a8d8749-a05a-468b-8c23-8d536d0b9a99_large.jpg?v=1757167950"
+    },
+    {
+      "product_number": "B1NQ2B16T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 16A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001828",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_ecbd397f-472c-4cdb-b7b1-b30b2d1917a9_large.jpg?v=1757167938"
+    },
+    {
+      "product_number": "B1NQ2B35T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 35A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001834",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0cd43879-12f6-4cc3-ac00-5e1c1c05ad7a_large.jpg?v=1757167949"
+    },
+    {
+      "product_number": "B1NQ2B32T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 32A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001833",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_3860ebef-0983-4e44-9de1-22f32c2fc331_large.jpg?v=1757167947"
+    },
+    {
+      "product_number": "B1NQ2B30T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 30A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001832",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_7dffcd68-a413-42b8-8278-b270f44c86ac_large.jpg?v=1757167946"
+    },
+    {
+      "product_number": "B1NQ2B2T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 2A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001821",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_8618a751-4b22-4203-999b-ac67eca87fdb_large.jpg?v=1757167944"
+    },
+    {
+      "product_number": "B1NQ2B25T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 25A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001831",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_c5adb430-fe7a-41d4-b62d-1feb6cda8a7e_large.jpg?v=1757167943"
+    },
+    {
+      "product_number": "B1NQ2B20T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 20A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001830",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_d8f8fdcc-e6b5-456e-a204-8ec369e096a2_large.jpg?v=1757167941"
+    },
+    {
+      "product_number": "B1NQ2B1T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001819",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_1a86817c-92e8-424b-819e-01081f4117d4_large.jpg?v=1757167940"
+    },
+    {
+      "product_number": "B1NQ2B15T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 15A rated current - B-curve - 2-poles (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001796",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_58fedb4b-e98b-49d1-9b9c-827fefe696a8_large.jpg?v=1757167937"
+    },
+    {
+      "product_number": "B1NQ2B13T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 13A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001827",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_9b3fe4c6-d34c-4229-8a3a-f00fcc2910f0_large.jpg?v=1757167935"
+    },
+    {
+      "product_number": "B1NQ2B10T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 10A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001824",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_ba5cd3bd-e0af-4f01-b699-b15bbc608c94_large.jpg?v=1757167934"
+    },
+    {
+      "product_number": "B1NQ2B1.6T",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1.6A rated current - B-curve - 2-pole (2P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001820",
+      "price": 147.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_e0c07b70-e71c-44d2-b599-823565a552a5_large.jpg?v=1757167932"
+    },
+    {
+      "product_number": "B1NQ1D8T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 8A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001334",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_8a6414af-a3a5-460e-9ce8-a9957d78f8b0_large.jpg?v=1757167930"
+    },
+    {
+      "product_number": "B1NQ1D6T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 6A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001333",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_84daccc1-f0c4-4081-b939-7ba3459ad079_large.jpg?v=1757167929"
+    },
+    {
+      "product_number": "B1NQ1D63T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 63A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001348",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_6fcc5112-e1e3-4106-86df-81142a027163_large.jpg?v=1757167927"
+    },
+    {
+      "product_number": "B1NQ1D60T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 60A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001347",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b31e69ab-fd29-42c8-b007-dea775113839_large.jpg?v=1757167926"
+    },
+    {
+      "product_number": "B1NQ1D5T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 5A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001332",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_bfe03c82-a919-4d3f-916e-eb62d20b619b_large.jpg?v=1757167924"
+    },
+    {
+      "product_number": "B1NQ1D50T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 50A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001346",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_4958559d-3828-4efe-987b-f9adcc2e51ab_large.jpg?v=1757167922"
+    },
+    {
+      "product_number": "B1NQ1D4T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 4A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001331",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_cc73e84a-4e23-4b8e-a4ce-34713b024825_large.jpg?v=1757167921"
+    },
+    {
+      "product_number": "B1NQ1D45T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 45A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001345",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_d80e6584-3807-49cc-aeb8-a1d6b43eb71f_large.jpg?v=1757167919"
+    },
+    {
+      "product_number": "B1NQ1D40T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 40A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001344",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_37110a59-e342-4296-80ad-44ca5e68a34f_large.jpg?v=1757167917"
+    },
+    {
+      "product_number": "B1NQ1D3T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 3A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001330",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_99fcb49a-6857-4adf-976a-e938b39f0ec5_large.jpg?v=1757167916"
+    },
+    {
+      "product_number": "B1NQ1D35T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 35A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001343",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f87ae893-0d02-41c0-a4de-4107b5827a47_large.jpg?v=1757167914"
+    },
+    {
+      "product_number": "B1NQ1D32T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 32A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001342",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_16fb28e5-bba8-431e-a63a-c3549c942f1f_large.jpg?v=1757167913"
+    },
+    {
+      "product_number": "B1NQ1D30T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 30A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001341",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_ed1be664-7625-448a-8d2f-f83fde3886de_large.jpg?v=1757167911"
+    },
+    {
+      "product_number": "B1NQ1D2T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 2A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001329",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_6c86939a-cd96-4280-9e24-c4a0234cfd95_large.jpg?v=1757167910"
+    },
+    {
+      "product_number": "B1NQ1D25T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 25A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001340",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_9e0b6124-e3ec-48a4-8dc0-4b7e36c84956_large.jpg?v=1757167908"
+    },
+    {
+      "product_number": "B1NQ1D20T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 20A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001339",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_2ce366af-9a10-4261-a58d-4c49cc829a5f_large.jpg?v=1757167907"
+    },
+    {
+      "product_number": "B1NQ1D1T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001327",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0a069e22-d452-401d-a90a-1cb4e807b34e_large.jpg?v=1757167905"
+    },
+    {
+      "product_number": "B1NQ1D16T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 16A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001338",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b035a0c6-274c-4d63-ac59-ad6d3161ac95_large.jpg?v=1757167904"
+    },
+    {
+      "product_number": "B1NQ1D15T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 15A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001337",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_c2f4c1f2-ee05-4cea-b808-1ff728ecdba8_large.jpg?v=1757167902"
+    },
+    {
+      "product_number": "B1NQ1D13T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 13A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001336",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_329b5b88-211f-4a9c-843d-227468764563_large.jpg?v=1757167900"
+    },
+    {
+      "product_number": "B1NQ1D10T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 10A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001335",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_6879023a-4fd1-4df0-8d8e-232045cf5c77_large.jpg?v=1757167899"
+    },
+    {
+      "product_number": "B1NQ1D1.6T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1.6A rated current - D-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001328 / B1NQ1D16T",
+      "price": 164.11,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_9e46907e-3ff6-4676-8d84-4dcb39b4bbda_large.jpg?v=1757167897"
+    },
+    {
+      "product_number": "B1NQ1C8T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 8A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001793",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_17f3d765-a1ce-496c-9487-1a64f85816c8_large.jpg?v=1757167896"
+    },
+    {
+      "product_number": "B1NQ1C6T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 6A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001792",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_23d0059e-51e8-4dea-a2c5-b5863d7c948c_large.jpg?v=1757167894"
+    },
+    {
+      "product_number": "B1NQ1C63T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 63A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001811",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0a123764-75bc-449f-ac71-365d9849fd5a_large.jpg?v=1757167893"
+    },
+    {
+      "product_number": "B1NQ1C60T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 60A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001810",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_49652b7e-0240-497e-bb78-ab3f86efc4d8_large.jpg?v=1757167891"
+    },
+    {
+      "product_number": "B1NQ1C5T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 5A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001791",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b3672251-1df0-4c51-978e-1dc9a2345a35_large.jpg?v=1757167890"
+    },
+    {
+      "product_number": "B1NQ1C50T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 50A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001809",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_bcb52c39-c3d2-489f-a783-c329d0e66afb_large.jpg?v=1757167888"
+    },
+    {
+      "product_number": "B1NQ1C4T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 4A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001786",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_784c2e81-ee66-4ce8-a089-672294b56e95_large.jpg?v=1757167887"
+    },
+    {
+      "product_number": "B1NQ1C45T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 45A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001808",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_ac491649-cac1-4512-b608-e006fc5ef12d_large.jpg?v=1757167885"
+    },
+    {
+      "product_number": "B1NQ1C40T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 40A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001807",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_a9758a3f-2ea5-4703-bb5f-c5941368800a_large.jpg?v=1757167884"
+    },
+    {
+      "product_number": "B1NQ1C3T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 3A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001789",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_132df205-2885-4481-8695-dd9ecfa1bc65_large.jpg?v=1757167882"
+    },
+    {
+      "product_number": "B1NQ1C35T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 35A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001806",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0cbb554a-6fb7-4b3d-be83-a226bc9315f6_large.jpg?v=1757167881"
+    },
+    {
+      "product_number": "B1NQ1C32T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 32A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001805",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_484aec94-4862-4b1e-91f5-04f411d3961f_large.jpg?v=1757167879"
+    },
+    {
+      "product_number": "B1NQ1C30T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 30A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001804",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b9581e14-8077-4615-90df-dfe558504ea6_large.jpg?v=1757167877"
+    },
+    {
+      "product_number": "B1NQ1C2T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 2A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001788",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_5050cf4a-388d-47d1-ad59-70d4403bfc99_large.jpg?v=1757167876"
+    },
+    {
+      "product_number": "B1NQ1C25T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 25A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001802",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_8ed79cf4-fc66-4f58-9816-73b89b1f6b24_large.jpg?v=1757167875"
+    },
+    {
+      "product_number": "B1NQ1C20T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 20A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001801",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_43c0ab2d-19af-4e19-bbb6-f871d9d1a9bc_large.jpg?v=1757167873"
+    },
+    {
+      "product_number": "B1NQ1C1T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001787",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_e5c01f48-7a5b-4408-b071-93d4522af905_large.jpg?v=1757167872"
+    },
+    {
+      "product_number": "B1NQ1C16T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 16A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001799",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_83bc8408-9b86-4970-a173-5f8b33a13b46_large.jpg?v=1757167870"
+    },
+    {
+      "product_number": "B1NQ1C15T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 15A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001798",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_e884c1f7-92c2-4540-a594-2723ba1ffab6_large.jpg?v=1757167869"
+    },
+    {
+      "product_number": "B1NQ1C13T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 13A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001797",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_eaf3f41e-bf33-43e1-80fb-89077a21a24d_large.jpg?v=1757167867"
+    },
+    {
+      "product_number": "B1NQ1C10T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 10A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001794",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_b4021af8-9b47-4555-b5cd-49a50c749792_large.jpg?v=1757167866"
+    },
+    {
+      "product_number": "B1NQ1C1.6T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1.6A rated current - C-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001790",
+      "price": 149.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_8d67b52f-0494-458e-b470-c819662887ee_large.jpg?v=1757167864"
+    },
+    {
+      "product_number": "B1NQ1B8T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 8A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001767",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_38b8e6aa-82ae-4973-9727-98ee296d363b_large.jpg?v=1757167863"
+    },
+    {
+      "product_number": "B1NQ1B6T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 6A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001765",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_3bf19846-4685-4220-993d-a12b3e08e77c_large.jpg?v=1757167861"
+    },
+    {
+      "product_number": "B1NQ1B63T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 63A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001784",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_3cfbf1ff-b7db-49aa-ba1b-9b6fbc79733a_large.jpg?v=1757167860"
+    },
+    {
+      "product_number": "B1NQ1B60T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 60A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001783",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_4cbe410a-0f28-4b22-8a3a-c60d9503b712_large.jpg?v=1757167858"
+    },
+    {
+      "product_number": "B1NQ1B5T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 5A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001764",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_9429bdbd-495e-4e53-8da0-403a3bad4441_large.jpg?v=1757167857"
+    },
+    {
+      "product_number": "B1NQ1B50T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 50A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001782",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_565d452b-e8ce-4270-b052-93582dd45ea6_large.jpg?v=1757167855"
+    },
+    {
+      "product_number": "B1NQ1B4T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 4A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001763",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_91e26888-bdfc-43b0-b6e7-ebb201d133d4_large.jpg?v=1757167854"
+    },
+    {
+      "product_number": "B1NQ1B45T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 45A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001781",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_9845b07c-57dc-4915-a155-0af543f717b3_large.jpg?v=1757167852"
+    },
+    {
+      "product_number": "B1NQ1B40T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 40A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001780",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0c6f8028-a9a7-4103-88e8-9c22e40698ea_large.jpg?v=1757167851"
+    },
+    {
+      "product_number": "B1NQ1B3T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 3A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001762",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f6eb4c94-9fe8-4fd9-a1ef-4ff1bb8f5bc6_large.jpg?v=1757167849"
+    },
+    {
+      "product_number": "B1NQ1B35T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 35A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001779",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_e1cc8846-154d-4bff-b5a1-df0de75d9900_large.jpg?v=1757167847"
+    },
+    {
+      "product_number": "B1NQ1B32T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 32A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001778",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_f8bc54ac-6e54-4376-a3e3-a1665ba72ff2_large.jpg?v=1757167846"
+    },
+    {
+      "product_number": "B1NQ1B30T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 30A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001775",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_c5690c73-0a0d-44b5-b550-9eaadf59d35e_large.jpg?v=1757167844"
+    },
+    {
+      "product_number": "B1NQ1B2T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 2A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001765",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_1e30a7f7-e3b1-4f7f-80e3-bd39b126ef3f_large.jpg?v=1757167843"
+    },
+    {
+      "product_number": "B1NQ1B25T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 25A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001774",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_05899a06-5d33-4c70-9e0b-cca43a523fa2_large.jpg?v=1757167841"
+    },
+    {
+      "product_number": "B1NQ1B20T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 20A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001773",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_cfc5ea27-c7c1-47e1-b79a-e871a6938445_large.jpg?v=1757167839"
+    },
+    {
+      "product_number": "B1NQ1B1T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001763",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_large.jpg?v=1757167838"
+    },
+    {
+      "product_number": "B1NQ1B16T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 16A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001772",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_1e846c41-81d5-4b1b-8cf5-cf6cd6289159_large.jpg?v=1757167836"
+    },
+    {
+      "product_number": "B1NQ1B15T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 15A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001771",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_0a487cf9-f892-4343-8946-0e3ab4c9c188_large.jpg?v=1757167835"
+    },
+    {
+      "product_number": "B1NQ1B13T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 13A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001770",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_2dbae168-fbc8-46e8-b5b3-50da55407941_large.jpg?v=1757167833"
+    },
+    {
+      "product_number": "B1NQ1B10T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 10A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001769",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_7532e7b9-c99f-4174-9179-60510d59ca05_large.jpg?v=1757167832"
+    },
+    {
+      "product_number": "B1NQ1B1.6T",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1NQ series) - 1.6A rated current - B-curve - 1-pole (1P) - 10kA (120Vac) / 10kA (240Vac) interrupting rating - 120Vac/240Vac rated voltage - box lug (line side) / quick plug-in connections (load side) - DIN rail mounting (35mm width) - equivalent to 1001764",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1NQ_-_Mini_Circuit_Breaker_afd671d2-0783-455e-8adb-63c7684150ef_large.jpg?v=1757167830"
+    }
+  ]
+}

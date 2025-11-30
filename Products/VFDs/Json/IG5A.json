@@ -1,0 +1,242 @@
+{
+    "products": [
+      {
+        "product_number": "SV004iG5A-1",
+        "description": "0.5HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Single Phase, 200-230V, 2.5A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 251.55,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV008iG5A-1",
+        "description": "1HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Single Phase, 200-230V, 5A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 270.27,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV015iG5A-1",
+        "description": "2HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Single Phase, 200-230V, 8A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 303.03,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV008iG5A-2",
+        "description": "1HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 5A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 228.15,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV004iG5A-2",
+        "description": "0.5HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 2.5A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 211.77,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV022iG5A-2",
+        "description": "3HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 12A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 365.04,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV015iG5A-2",
+        "description": "2HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 8A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 280.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV075iG5A-2",
+        "description": "10HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 32A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 762.84,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV055iG5A-2",
+        "description": "7.5HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 24A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 696.15,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV037iG5A-2",
+        "description": "5HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 16A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 420.03,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV150iG5A-2",
+        "description": "20HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 60A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1294.02,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV110iG5A-2",
+        "description": "15HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 46A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1078.74,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV185iG5A-2",
+        "description": "25HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 74A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1578.33,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV220iG5A-2",
+        "description": "30HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 200-230V, 88A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1822.86,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV004iG5A-4",
+        "description": "0.5HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 1.3A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 292.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV008iG5A-4",
+        "description": "1HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 2.5A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 313.56,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV015iG5A-4",
+        "description": "2HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 4A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 347.49,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV022iG5A-4",
+        "description": "3HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 6A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 361.53,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV037iG5A-4",
+        "description": "5HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 8A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 444.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV075iG5A-4",
+        "description": "10HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 16A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1640.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV055iG5A-4",
+        "description": "7.5HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 12A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 705.51,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV150iG5A-4",
+        "description": "20HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 30A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1444.95,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV110iG5A-4",
+        "description": "15HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 24A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1112.67,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV185iG5A-4",
+        "description": "25HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 39A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1662.57,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV220iG5A-4",
+        "description": "30HP LS Startvert iG5A Powerful & Compact Sensorless Vector Control VFD, Three Phase, 380-460V, 45A Output, Built-in Braking Unit RS485 MODBUS.",
+        "price": 1854.45,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A REMOTE KEYPAD 2M",
+        "description": "(Package of 3 Pieces) iG5A REMOTE KEYPAD & CABLE 2 METER",
+        "price": 126.36,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A REMOTE KEYPAD 5M",
+        "description": "(Package of 2 Pieces) iG5A REMOTE KEYPAD & CABLE 5 METER",
+        "price": 107.64,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A REMOTE KEYPAD 3M",
+        "description": "(Package of 3 Pieces) iG5A REMOTE KEYPAD & CABLE 3 METER",
+        "price": 140.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A CONDUIT FRAME SIZE 2",
+        "description": "(Package of 6 Pieces) NEMA1 CONDUIT KIT (IG5A 2HP)",
+        "price": 133.38,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A CONDUIT FRAME SIZE 1",
+        "description": "(Package of 6 Pieces) NEMA1 CONDUIT KIT (IG5A 0.5 - 1HP)",
+        "price": 133.38,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A CONDUIT FRAME SIZE 3",
+        "description": "(Package of 6 Pieces) NEMA1 CONDUIT KIT (IG5A 3 - 5HP)",
+        "price": 133.38,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A CONDUIT FRAME SIZE 5",
+        "description": "(Package of 4 Pieces) NEMA1 CONDUIT KIT (IG5A 15 - 20HP)",
+        "price": 131.04,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A CONDUIT FRAME SIZE 4",
+        "description": "(Package of 6 Pieces) NEMA1 CONDUIT KIT (IG5A 7.5 - 10HP)",
+        "price": 133.38,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      },
+      {
+        "product_number": "SV-iG5A CONDUIT FRAME SIZE 6",
+        "description": "(Package of 4 Pieces) NEMA1 CONDUIT KIT (IG5A 25 - 30HP)",
+        "price": 131.04,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
+      }
+    ]
+  }

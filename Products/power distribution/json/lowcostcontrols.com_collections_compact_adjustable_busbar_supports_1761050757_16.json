@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "product_number": "CABS-M",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Bracket M, Material: Steel, 10 Pieces in a package, Part no: 549420",
+      "price": 154.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSBracketM_large.jpg?v=1604837874"
+    },
+    {
+      "product_number": "CABS-FIXKIT",
+      "description": "(Package of 12 Pieces) ERIFLEX CABS Fixing Kit, Includes 12 threaded rods, 6 nuts and 6 washers, Thread Size: M6, 1 Piece in a package, Part no: 549430",
+      "price": 235.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSFixingKit_large.jpg?v=1604837689"
+    },
+    {
+      "product_number": "CABS-T",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Bracket T, Material: Steel, 5 Pieces in a package, Part no: 549400",
+      "price": 173.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSBracketT_large.jpg?v=1604837852"
+    },
+    {
+      "product_number": "CABS-TH",
+      "description": "ERIFLEX CABS Bracket TH, Material: Steel, 5 Pieces in a package, Part no: 549450",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSBracketTH_large.jpg?v=1604837695"
+    },
+    {
+      "product_number": "CABS-SV",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Bracket SV, Material: Steel, 10 Pieces in a package, Part no: 549470",
+      "price": 230.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSBracketSV_large.jpg?v=1604837855"
+    },
+    {
+      "product_number": "CABS-RV",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Bracket RV, Material: Steel, 10 Pieces in a package, Part no: 549480",
+      "price": 154.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSBracketRV_large.jpg?v=1604837868"
+    },
+    {
+      "product_number": "CABS-APP",
+      "description": "ERIFLEX CABS-APP Aluminium Profile, Material: 2M Aluminum, Width: 35 mm, Height: 15mm, Hole Size: 8 mm, 2 Pieces in a package, Part no: 549300",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABS-APPAluminiumProfile_large.jpg?v=1604837895"
+    },
+    {
+      "product_number": "CABS-E",
+      "description": "(Package of 4 Pieces) ERIFLEX CABS Bracket E, Material: Steel, 10 Pieces in a package, Part no: 549410",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSBracketE_large.jpg?v=1604837883"
+    }
+  ]
+}

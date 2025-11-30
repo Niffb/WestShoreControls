@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "product_number": "CBS-B2-5TN",
+      "description": "(Package of 2 Pieces) ERIFLEX Compact Busbar Support with Neutral Circuit, Material: Aluminum; Glass Fibre Reinforced Polyamide, Busbars per Phase: 1~2, Busbar Width: 25 ~ 80 mm, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 551151",
+      "price": 225.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_386da5e3-388a-413d-afda-54673500660f_large.jpg?v=1604838602"
+    },
+    {
+      "product_number": "CBS-B1-10TN",
+      "description": "(Package of 2 Pieces) ERIFLEX Compact Busbar Support with Neutral Circuit, Material: Aluminum; Glass Fibre Reinforced Polyamide, Busbars per Phase: 1, Busbar Width: 25 ~ 80 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 551181",
+      "price": 227.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_0cac5a3b-11db-45c7-9d48-e5262f40c842_large.jpg?v=1604838609"
+    },
+    {
+      "product_number": "RCBS1-6TN",
+      "description": "ERIFLEX Reinforced Compact Busbar Support with Neutral Circuit, Typical Application Current Rating: 500 ~ 1200 A, Material: Aluminum; Glass Fibre Reinforced Polyamide, Busbars per Phase: 1, Busbar Width: 50 ~ 80 mm, Busbar Thickness: 6.35 mm, 1 Piece in a package, Part no: 552050",
+      "price": 155.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/ReinforcedCompactBusbarSupportwithNeutralCircuit_6c7f5629-fa3e-444e-b1bc-52f425cc0a3f_large.jpg?v=1604838599"
+    },
+    {
+      "product_number": "RCBS1-10TN",
+      "description": "ERIFLEX Reinforced Compact Busbar Support with Neutral Circuit, Typical Application Current Rating: 500 ~ 1600 A, Material: Aluminum; Glass Fibre Reinforced Polyamide, Busbars per Phase: 1, Busbar Width: 50 ~ 80 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 552070",
+      "price": 155.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_large.jpg?v=1604838596"
+    }
+  ]
+}

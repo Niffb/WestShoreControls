@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "product_number": "MC-6a/4 AC-120",
+      "description": "(Package of 6 Pieces) 6A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 162.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_15198f1b-b957-4629-b715-61901ed7f5f9_large.jpg?v=1607086314"
+    },
+    {
+      "product_number": "MC-9a/4 AC-120",
+      "description": "(Package of 6 Pieces) 9A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 180.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_1498fe1a-2b59-4a91-b20c-6dd248e9fbc1_large.jpg?v=1607086315"
+    },
+    {
+      "product_number": "MC-12a/4 AC-120",
+      "description": "(Package of 6 Pieces) 12A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 198.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_925b228c-441c-4416-b174-3e588fdcf10d_large.jpg?v=1607086316"
+    },
+    {
+      "product_number": "MC-18a/4 AC-120",
+      "description": "(BOX OF 3 PIECES) 18A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 132.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_f29725d1-39e0-4d20-b24d-bb3f9db5484c_large.jpg?v=1607086318"
+    },
+    {
+      "product_number": "MC-22a/4 AC-120",
+      "description": "(BOX OF 3 PIECES) 22A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 156.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_12048cbf-3d8c-4114-a547-bac75e87624c_large.jpg?v=1607086319"
+    },
+    {
+      "product_number": "MC-32a/4 AC-120",
+      "description": "(Package of 2 Pieces) 32A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 156.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_ae7890e2-7859-4326-8ee7-174593121187_large.jpg?v=1607086320"
+    },
+    {
+      "product_number": "MC-40a/4 AC-120",
+      "description": "(Package of 2 Pieces) 40A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 182.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_bcee3c55-689b-4d02-85eb-97a2bc4a09ad_large.jpg?v=1607086322"
+    },
+    {
+      "product_number": "MC-50a/4 AC-120",
+      "description": "50A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 141.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_3d686471-ab95-4141-9126-0d006802ab5a_large.jpg?v=1607086323"
+    },
+    {
+      "product_number": "MC-65a/4 AC-120",
+      "description": "65A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 163.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_2737113d-cbd1-46ac-8288-73d6066cdc6d_large.jpg?v=1607086324"
+    },
+    {
+      "product_number": "MC-75a/4 AC-120",
+      "description": "75A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 211.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_8bcd6786-377d-403d-bf6e-41db8d19055a_large.jpg?v=1607086326"
+    },
+    {
+      "product_number": "MC-85a/4 AC-120",
+      "description": "85A LS Metasol Contactor, 110-120V, 4 Pole.",
+      "price": 229.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_cc293f66-b312-499c-9e77-6cb72b94ef43_large.jpg?v=1607086327"
+    }
+  ]
+}

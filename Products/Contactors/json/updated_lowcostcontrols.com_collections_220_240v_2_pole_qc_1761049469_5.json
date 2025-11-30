@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "GMC-10P2-240-QC",
+      "description": "(Package of 6 Pieces) 10A LS MetaMec Contactor, 220-240V, 2 Pole, Quick Connect Type",
+      "price": 144,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_a54aa13e-9487-4ab4-b807-3dcc94a78dea_large.jpg?v=1628530349"
+    },
+    {
+      "product_number": "GMC-25P2-240-QC",
+      "description": "(Package of 6 Pieces) 25A LS MetaMec Contactor, 220-240V, 2 Pole, Quick Connect Type",
+      "price": 186,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_6d8a18d3-938b-41cf-8c31-a86605a37302_large.jpg?v=1628530363"
+    },
+    {
+      "product_number": "GMC-20P2-240-QC",
+      "description": "(Package of 6 Pieces) 20A LS MetaMec Contactor, 220-240V, 2 Pole, Quick Connect Type",
+      "price": 168,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_16b9cafa-5170-4b3e-a862-cafe19058e2d_large.jpg?v=1628530379"
+    },
+    {
+      "product_number": "GMC-30P2-240-QC",
+      "description": "(BOX OF 3 PIECES) 30A LS MetaMec Contactor, 220-240V, 2 Pole, Quick Connect Type",
+      "price": 108,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_0beb332c-5d1c-498b-b9cb-da35cd0aa967_large.jpg?v=1628530392"
+    },
+    {
+      "product_number": "GMC-35P2-240-QC",
+      "description": "(BOX OF 3 PIECES) 35A LS MetaMec Contactor, 220-240V, 2 Pole, Quick Connect Type",
+      "price": 117,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_0ce5fece-a76b-4035-8373-724611b2faa8_large.jpg?v=1628530415"
+    },
+    {
+      "product_number": "GMC-40P2-240-QC",
+      "description": "(BOX OF 3 PIECES) 40A LS MetaMec Contactor, 220-240V, 2 Pole, Quick Connect Type",
+      "price": 126,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_ea28dcfa-4fdf-4299-b2ba-8a2bd4654cd6_large.jpg?v=1628530431"
+    }
+  ]
+}

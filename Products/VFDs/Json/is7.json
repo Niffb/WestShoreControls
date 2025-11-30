@@ -1,0 +1,417 @@
+{
+    "products": [
+      {
+        "product_number": "SV0008iS7-2NOFD",
+        "description": "1HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 5A Constant Torque (8A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 532.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0015iS7-2NOFD",
+        "description": "2HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 8A Constant Torque (12A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 547.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0022iS7-2NOFD",
+        "description": "3HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 12A Constant Torque (16A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 577.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0055iS7-2NOFD",
+        "description": "7.5HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 24A Constant Torque (32A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 760.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0037iS7-2NOFD",
+        "description": "5HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 16A Constant Torque (24A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 642.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0075iS7-2NOFD",
+        "description": "10HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 32A Constant Torque (46A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1082.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0110iS7-2NOFD",
+        "description": "15HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 46A Constant Torque (60A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1360.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0185iS7-2NOFD",
+        "description": "25HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 74A Constant Torque (88A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1941.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0150iS7-2NOFD",
+        "description": "20HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 60A Constant Torque (74A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1663.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0220iS7-2NOFD",
+        "description": "30HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 88A Constant Torque (124A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 2442.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0300iS7-2SO",
+        "description": "40HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 116A Constant Torque (146A VT) Output.",
+        "price": 3283.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0450iS7-2SO",
+        "description": "60HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 180A Constant Torque (220A VT) Output.",
+        "price": 4969.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0370iS7-2SO",
+        "description": "50HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 146A Constant Torque (180A VT) Output.",
+        "price": 3993.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0550iS7-2SO",
+        "description": "75HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 220A Constant Torque (288A VT) Output.",
+        "price": 5590.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0750iS7-2SO",
+        "description": "100HP LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 200-230V, 288A Constant Torque (345A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 5767.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0008iS7-4NOFD",
+        "description": "1HP Constant Torque (2HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 2.5A Constant Torque (4A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 549.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0015iS7-4NOFD",
+        "description": "2HP Constant Torque (3HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 4A Constant Torque (6A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 561.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0022iS7-4NOFD",
+        "description": "3HP Constant Torque (5HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 6A Constant Torque (8A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 620.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0037iS7-4NOFD",
+        "description": "5HP Constant Torque (7.5HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 8A Constant Torque (12A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 738.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0055iS7-4NOFD",
+        "description": "7.5HP Constant Torque (10HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 12A Constant Torque (16A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 839.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0075iS7-4NOFD",
+        "description": "10HP Constant Torque (15HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 16A Constant Torque (24A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1040.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0110iS7-4NOFD",
+        "description": "15HP Constant Torque (20HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 24A Constant Torque (30A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1295.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0150iS7-4NOFD",
+        "description": "20HP Constant Torque (25HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 30A Constant Torque (39A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1446.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0185iS7-4NOFD",
+        "description": "25HP Constant Torque (30HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 39A Constant Torque (45A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1516.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0220iS7-4NOFD",
+        "description": "30HP Constant Torque (40HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 45A Constant Torque (61A VT) Output, Built-in EMC Filter, Built-in DC Reactor, Built-in Braking Unit.",
+        "price": 1876.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0370iS7-4NOD",
+        "description": "50HP Constant Torque (60HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 75A Constant Torque (91A VT) Output, Built-in DC Reactor.",
+        "price": 2791.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0300iS7-4NOD",
+        "description": "40HP Constant Torque (50HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 61A Constant Torque (75A VT) Output, Built-in DC Reactor.",
+        "price": 2720.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0550iS7-4NOD",
+        "description": "75HP Constant Torque (100HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 110A Constant Torque (152A VT) Output, Built-in DC Reactor.",
+        "price": 3468.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0450iS7-4NOD",
+        "description": "60HP Constant Torque (75HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 91A Constant Torque (110A VT) Output, Built-in DC Reactor.",
+        "price": 3091.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0900iS7-4SOD",
+        "description": "125HP Constant Torque (150HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 183A Constant Torque (223A VT) Output, Built-in DC Reactor.",
+        "price": 6742.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0750iS7-4NOD",
+        "description": "100HP Constant Torque (125HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 152A Constant Torque (183A VT) Output, Built-in DC Reactor.",
+        "price": 4186.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV1600iS7-4SOD",
+        "description": "215HP Constant Torque (250HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 325A Constant Torque (370A VT) Output, Built-in DC Reactor.",
+        "price": 9084.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV1100iS7-4SOD",
+        "description": "150HP Constant Torque (175HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 223A Constant Torque (264A VT) Output, Built-in DC Reactor.",
+        "price": 7416.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV1320iS7-4SOD",
+        "description": "175HP Constant Torque (215HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 264A Constant Torque (325A VT) Output, Built-in DC Reactor.",
+        "price": 8303.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV2200iS7-4SOD",
+        "description": "300HP Constant Torque (375HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 432A Constant Torque (547A VT) Output, Built-in DC Reactor.",
+        "price": 12578.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV1850iS7-4SOD",
+        "description": "250HP Constant Torque (300HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 370A Constant Torque (432A VT) Output, Built-in DC Reactor.",
+        "price": 12232.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV2800iS7-4SO",
+        "description": "375HP Constant Torque (420HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 547A Constant Torque (613A VT) Output.",
+        "price": 19436.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV3150iS7-4SO",
+        "description": "420HP Constant Torque (500HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 613A Constant Torque (731A VT) Output.",
+        "price": 24923.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV3750iS7-4SO",
+        "description": "500HP Constant Torque (600HP VT) LS Startvert iS7 High Torque Performance & Precise VFD, Three Phase, 380-480V, 731A Constant Torque (877A VT) Output.",
+        "price": 27664.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0008iS7-2SP",
+        "description": "1HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 5A Constant Torque (8A VT) Output, Built-in NEMA 12.",
+        "price": 717.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0022iS7-2SP",
+        "description": "3HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 12A Constant Torque (16A VT) Output, Built-in NEMA 12.",
+        "price": 729.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0015iS7-2SP",
+        "description": "2HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 8A Constant Torque (12A VT) Output, Built-in NEMA 12.",
+        "price": 719.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0037iS7-2SP",
+        "description": "5HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 16A Constant Torque (24A VT) Output, Built-in NEMA 12.",
+        "price": 745.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0055iS7-2SP",
+        "description": "7.5HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 24A Constant Torque (32A VT) Output, Built-in NEMA 12.",
+        "price": 849.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0075iS7-2SP",
+        "description": "10HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 32A Constant Torque (46A VT) Output, Built-in NEMA 12.",
+        "price": 1021.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0110iS7-2SP",
+        "description": "15HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 46A Constant Torque (60A VT) Output, Built-in NEMA 12.",
+        "price": 1365.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0185iS7-2SP",
+        "description": "25HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 74A Constant Torque (88A VT) Output, Built-in NEMA 12.",
+        "price": 1847.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0150iS7-2SP",
+        "description": "20HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 60A Constant Torque (74A VT) Output, Built-in NEMA 12.",
+        "price": 1375.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0220iS7-2SP",
+        "description": "30HP LS Startvert iS7 NEMA 12 VFD, Three Phase, 200-230V, 88A Constant Torque (124A VT) Output, Built-in NEMA 12.",
+        "price": 1901.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0008iS7-4SPF",
+        "description": "1HP Constant Torque (2HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 2.5A Constant Torque (4A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 726.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0022iS7-4SPF",
+        "description": "3HP Constant Torque (5HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 6A Constant Torque (8A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 737.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0015iS7-4SPF",
+        "description": "2HP Constant Torque (3HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 4A Constant Torque (6A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 728.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0055iS7-4SPF",
+        "description": "7.5HP Constant Torque (10HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 12A Constant Torque (16A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 855.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0037iS7-4SPF",
+        "description": "5HP Constant Torque (7HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 8A Constant Torque (12A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 754.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0075iS7-4SPF",
+        "description": "10HP Constant Torque (15HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 16A Constant Torque (24A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 1029.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0110iS7-4SPF",
+        "description": "15HP Constant Torque (20HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 24A Constant Torque (30A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 1370.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0150iS7-4SPF",
+        "description": "20HP Constant Torque (25HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 30A Constant Torque (39A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 1379.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0185iS7-4SPF",
+        "description": "25HP Constant Torque (30HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 39A Constant Torque (45A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 1855.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      },
+      {
+        "product_number": "SV0220iS7-4SPF",
+        "description": "30HP Constant Torque (40HP VT) LS Startvert iS7 NEMA 12 VFD, Three Phase, 380-480V, 45A Constant Torque (61A VT) Output, Built-in NEMA 12, Built-in EMC Filter.",
+        "price": 1908.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iS7_200-230V.webp"
+      }
+    ]
+  }

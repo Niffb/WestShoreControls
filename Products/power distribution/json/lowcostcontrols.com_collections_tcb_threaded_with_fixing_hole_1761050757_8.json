@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "product_number": "TCB20X10-1M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 1m Copper, Width : 20mm, Thickness: 10mm, 4 Pieces in a package, Part no: 549290",
+      "price": 1380.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_f46336c5-b198-44c2-93f1-2f9f2131bba7_large.jpg?v=1604824109"
+    },
+    {
+      "product_number": "TCB32X5-1M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 1m Copper, Width : 32mm, Thickness: 5mm, 4 Pieces in a package, Part no: 549230",
+      "price": 1035.43,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_63759416-7ce5-4783-8b1d-d7b70f73a9c7_large.jpg?v=1604824105"
+    },
+    {
+      "product_number": "TCB20X5-1M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 1m Copper, Width : 20mm, Thickness: 5mm, 4 Pieces in a package, Part no: 549220",
+      "price": 649.76,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_65c8f6b3-8168-43d0-a405-a439cceaf53a_large.jpg?v=1604824099"
+    },
+    {
+      "product_number": "TCB15X5-1M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 1m Copper, Width : 15mm, Thickness: 5mm, 4 Pieces in a package, Part no: 549210",
+      "price": 430.67,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_4e2870e7-e879-4919-ad38-7bf3f1e97ca6_large.jpg?v=1604824093"
+    },
+    {
+      "product_number": "TCB12X4-1M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 1m Copper, Width : 12mm, Thickness: 4mm, 10 Pieces in a package, Part no: 549200",
+      "price": 720.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_8f95469c-14ea-4653-820a-d8a58435be20_large.jpg?v=1604824087"
+    },
+    {
+      "product_number": "TCB12X4-2M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 2m Copper, Width : 12mm, Thickness: 4mm, 10 Pieces in a package, Part no: 549190",
+      "price": 1280.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_e21d2f5b-ce6b-49e2-bd31-94ffba297873_large.jpg?v=1604824084"
+    },
+    {
+      "product_number": "TCB30X10-1M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 1m Copper, Width : 30mm, Thickness: 10mm, 4 Pieces in a package, Part no: 549180",
+      "price": 2363.49,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_aef741c5-2aa0-4af2-b14e-b64c437de77c_large.jpg?v=1604824080"
+    },
+    {
+      "product_number": "TCB30X10-2M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Hole, 2m Copper, Width : 30mm, Thickness: 10mm, 2 Pieces in a package, Part no: 549160",
+      "price": 2381.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_large.jpg?v=1604824078"
+    }
+  ]
+}

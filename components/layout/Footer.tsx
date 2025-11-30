@@ -8,7 +8,7 @@ export default function Footer() {
   const quickLinks = [
     { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' },
-    { name: 'Products', href: '/products' },
+    { name: 'Products', href: '/brands' },
     { name: 'Catalogs', href: '/catalogs' },
     { name: 'Partnerships', href: '/partnerships' }
   ]
@@ -97,7 +97,7 @@ export default function Footer() {
         <div className="py-4 border-t border-gray-800">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
             <div className="text-gray-400 text-xs">
-              © 2024 Westshore Controls. All rights reserved.
+              © 2025 Westshore Controls. All rights reserved.
             </div>
             <div className="flex space-x-4 text-xs">
               <a href="/contact" className="text-gray-400 hover:text-primary-500 transition-colors">

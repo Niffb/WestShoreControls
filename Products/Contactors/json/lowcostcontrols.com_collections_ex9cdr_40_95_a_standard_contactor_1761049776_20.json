@@ -1,0 +1,844 @@
+{
+  "products": [
+    {
+      "product_number": "Ex9CDR40A30B7C",
+      "description": "40A Noark Contactor(Reversing), 24V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310405",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_large.png?v=1751211730"
+    },
+    {
+      "product_number": "Ex9CDR40A30E7C",
+      "description": "40A Noark Contactor(Reversing), 48V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312602",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_26163835-fc31-4f95-8cc3-96f6b7c0e46a_large.png?v=1751211730"
+    },
+    {
+      "product_number": "Ex9CDR40A30F7C",
+      "description": "40A Noark Contactor(Reversing), 110V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310397",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_5767be59-6ddb-4156-98fa-99d7b457e393_large.png?v=1751211729"
+    },
+    {
+      "product_number": "Ex9CDR40A30G7C",
+      "description": "40A Noark Contactor(Reversing), 120V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310399",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_882984e1-e441-4f82-aa8c-87969944b976_large.png?v=1751211729"
+    },
+    {
+      "product_number": "Ex9CDR40A30M7C",
+      "description": "40A Noark Contactor(Reversing), 220V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312596",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_68f492ab-9b01-4612-bcbe-3c7ba194d59c_large.png?v=1751211728"
+    },
+    {
+      "product_number": "Ex9CDR40A30N7C",
+      "description": "40A Noark Contactor(Reversing), 277V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312604",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_30dbc01c-b42e-436e-9482-1775c6e58393_large.png?v=1751211728"
+    },
+    {
+      "product_number": "Ex9CDR40A30P7C",
+      "description": "40A Noark Contactor(Reversing), 230V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310401",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_62767c10-9254-4bb5-8bc9-72b2614f5869_large.png?v=1751211727"
+    },
+    {
+      "product_number": "Ex9CDR40A30Q7C",
+      "description": "40A Noark Contactor(Reversing), 380V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312598",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a997eed7-9bc9-4613-8aa7-30634864425e_large.png?v=1751211726"
+    },
+    {
+      "product_number": "Ex9CDR40A30R7C",
+      "description": "40A Noark Contactor(Reversing), 440V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312600",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_11e93c1d-c25b-4b60-9b98-6d03a8fc19f1_large.png?v=1751211726"
+    },
+    {
+      "product_number": "Ex9CDR40A30T7C",
+      "description": "40A Noark Contactor(Reversing), 480V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310407",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_8cc96a8d-e7fa-4554-88e7-6194e8e5e379_large.png?v=1751211725"
+    },
+    {
+      "product_number": "Ex9CDR40A30U7C",
+      "description": "40A Noark Contactor(Reversing), 240V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310403",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a25fcb3b-6be1-41c3-9d69-b97a47f6c9d9_large.png?v=1751211725"
+    },
+    {
+      "product_number": "Ex9CDR40A30Y7C",
+      "description": "40A Noark Contactor(Reversing), 600V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312594",
+      "price": 176.74,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_010140f5-ac73-4853-a674-271704903df4_large.png?v=1751211724"
+    },
+    {
+      "product_number": "Ex9CDR40A40B7",
+      "description": "40A Noark Contactor(Reversing), 24V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310369",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_39c66224-42e4-4272-ad79-6845619fdd0e_large.png?v=1751211723"
+    },
+    {
+      "product_number": "Ex9CDR40A40E7",
+      "description": "40A Noark Contactor(Reversing), 48V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312566",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3c68aa2e-73ff-4ab4-99a7-e5d239a25660_large.png?v=1751211723"
+    },
+    {
+      "product_number": "Ex9CDR40A40F7",
+      "description": "40A Noark Contactor(Reversing), 110V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310361",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e8689aad-6ce0-469d-b589-46ed25d19b60_large.png?v=1751211722"
+    },
+    {
+      "product_number": "Ex9CDR40A40G7",
+      "description": "40A Noark Contactor(Reversing), 120V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310363",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9321cbca-2ef8-4ca4-8bbe-67e7da01b6fb_large.png?v=1751211722"
+    },
+    {
+      "product_number": "Ex9CDR40A40M7",
+      "description": "40A Noark Contactor(Reversing), 220V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312560",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7d99f157-89fc-4a84-b68a-e6def79852bf_large.png?v=1751211721"
+    },
+    {
+      "product_number": "Ex9CDR40A40N7",
+      "description": "40A Noark Contactor(Reversing), 277V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312568",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_4667d4bd-a84b-4557-a1d9-00ead5287374_large.png?v=1751211721"
+    },
+    {
+      "product_number": "Ex9CDR40A40P7",
+      "description": "40A Noark Contactor(Reversing), 230V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310365",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d427684d-b087-4773-8cb0-0be6be1b9050_large.png?v=1751211720"
+    },
+    {
+      "product_number": "Ex9CDR40A40Q7",
+      "description": "40A Noark Contactor(Reversing), 380V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312562",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d5e80157-2590-4e6d-add6-be65344321f3_large.png?v=1751211719"
+    },
+    {
+      "product_number": "Ex9CDR40A40R7",
+      "description": "40A Noark Contactor(Reversing), 440V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312564",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_0ebd3177-5ce4-4972-9a47-881de3af203b_large.png?v=1751211719"
+    },
+    {
+      "product_number": "Ex9CDR40A40T7",
+      "description": "40A Noark Contactor(Reversing), 480V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310371",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a75d1cf3-9ecd-46cd-9feb-d386b645f75e_large.png?v=1751211718"
+    },
+    {
+      "product_number": "Ex9CDR40A40U7",
+      "description": "40A Noark Contactor(Reversing), 240V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310367",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_21cacbb3-e368-42e8-a757-2ae34e8fb42f_large.png?v=1751211718"
+    },
+    {
+      "product_number": "Ex9CDR40A40Y7",
+      "description": "40A Noark Contactor(Reversing), 600V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312558",
+      "price": 256.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3667bee6-18eb-42d2-9ecf-ce64029ded08_large.png?v=1751211717"
+    },
+    {
+      "product_number": "Ex9CDR50A30B7C",
+      "description": "50A Noark Contactor(Reversing), 24V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310465",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a5a80c46-ff83-4531-b295-cc772547045d_large.png?v=1751211716"
+    },
+    {
+      "product_number": "Ex9CDR50A30E7C",
+      "description": "50A Noark Contactor(Reversing), 48V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312662",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3d5fe0ce-7663-4745-96ad-762b959f0358_large.png?v=1751211716"
+    },
+    {
+      "product_number": "Ex9CDR50A30F7C",
+      "description": "50A Noark Contactor(Reversing), 110V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310457",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_45a87adb-040b-4db8-9812-0f5735350422_large.png?v=1751211715"
+    },
+    {
+      "product_number": "Ex9CDR50A30G7C",
+      "description": "50A Noark Contactor(Reversing), 120V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310459",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_b48ea591-219d-413a-adf1-76ac882fdf09_large.png?v=1751211715"
+    },
+    {
+      "product_number": "Ex9CDR50A30M7C",
+      "description": "50A Noark Contactor(Reversing), 220V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312656",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3fdb3a4a-b669-453c-8818-ac429dd7ceae_large.png?v=1751211714"
+    },
+    {
+      "product_number": "Ex9CDR50A30N7C",
+      "description": "50A Noark Contactor(Reversing), 277V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312664",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_632fa143-6f67-46db-b5e4-a4848024fda2_large.png?v=1751211714"
+    },
+    {
+      "product_number": "Ex9CDR50A30P7C",
+      "description": "50A Noark Contactor(Reversing), 230V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310461",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_748b8a2c-c022-40e6-854a-f0f07d083f65_large.png?v=1751211713"
+    },
+    {
+      "product_number": "Ex9CDR50A30Q7C",
+      "description": "50A Noark Contactor(Reversing), 380V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312658",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_67117305-daef-4e65-ba5e-2d9a064fd067_large.png?v=1751211712"
+    },
+    {
+      "product_number": "Ex9CDR50A30R7C",
+      "description": "50A Noark Contactor(Reversing), 440V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312660",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e356f235-22a7-4906-a0dc-882169326ba7_large.png?v=1751211712"
+    },
+    {
+      "product_number": "Ex9CDR50A30T7C",
+      "description": "50A Noark Contactor(Reversing), 480V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310467",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f096a421-3a17-4380-807e-6fd8bef5b948_large.png?v=1751211711"
+    },
+    {
+      "product_number": "Ex9CDR50A30U7C",
+      "description": "50A Noark Contactor(Reversing), 240V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310463",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_07f17d9b-8450-4820-9a48-41065f33a2ba_large.png?v=1751211710"
+    },
+    {
+      "product_number": "Ex9CDR50A30Y7C",
+      "description": "50A Noark Contactor(Reversing), 600V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312654",
+      "price": 201.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_58de5234-3ca7-442a-9e52-69b469eece17_large.png?v=1751211710"
+    },
+    {
+      "product_number": "Ex9CDR50A40B7",
+      "description": "50A Noark Contactor(Reversing), 24V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310429",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e24ec675-c4ce-4e14-bcab-dc57bd3e0ab4_large.png?v=1751211709"
+    },
+    {
+      "product_number": "Ex9CDR50A40E7",
+      "description": "50A Noark Contactor(Reversing), 48V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312626",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f62480b4-862e-4ad1-a709-32d39598ff53_large.png?v=1751211709"
+    },
+    {
+      "product_number": "Ex9CDR50A40F7",
+      "description": "50A Noark Contactor(Reversing), 110V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310421",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_02e76d22-6d18-479b-bea1-577163cfe12e_large.png?v=1751211708"
+    },
+    {
+      "product_number": "Ex9CDR50A40G7",
+      "description": "50A Noark Contactor(Reversing), 120V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310423",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_337c04ec-6f43-4104-9d06-595989b96280_large.png?v=1751211708"
+    },
+    {
+      "product_number": "Ex9CDR50A40M7",
+      "description": "50A Noark Contactor(Reversing), 220V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312620",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_5500ef89-6ae0-430b-a00b-0234ee9418ec_large.png?v=1751211707"
+    },
+    {
+      "product_number": "Ex9CDR50A40N7",
+      "description": "50A Noark Contactor(Reversing), 277V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312628",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3f910aad-8bca-43ec-bb09-71958352b3d8_large.png?v=1751211707"
+    },
+    {
+      "product_number": "Ex9CDR50A40P7",
+      "description": "50A Noark Contactor(Reversing), 230V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310425",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d812e49f-79cd-4c55-9f39-4ff4a0d34a1e_large.png?v=1751211706"
+    },
+    {
+      "product_number": "Ex9CDR50A40Q7",
+      "description": "50A Noark Contactor(Reversing), 380V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312622",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9d3d7004-d1ff-432e-8d5a-2584209258bc_large.png?v=1751211705"
+    },
+    {
+      "product_number": "Ex9CDR50A40R7",
+      "description": "50A Noark Contactor(Reversing), 440V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312624",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3426fcc7-2b5b-4068-98f1-201bb2281dc6_large.png?v=1751211705"
+    },
+    {
+      "product_number": "Ex9CDR50A40T7",
+      "description": "50A Noark Contactor(Reversing), 480V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310431",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_36e93e2f-67b6-4b24-9987-8ee1157cae21_large.png?v=1751211704"
+    },
+    {
+      "product_number": "Ex9CDR50A40U7",
+      "description": "50A Noark Contactor(Reversing), 240V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310427",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c899de27-6b04-4d59-a714-feb7170ba4fd_large.png?v=1751211704"
+    },
+    {
+      "product_number": "Ex9CDR50A40Y7",
+      "description": "50A Noark Contactor(Reversing), 600V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312618",
+      "price": 288.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9a760640-1b39-48d9-98ae-33ea098eacd3_large.png?v=1751211703"
+    },
+    {
+      "product_number": "Ex9CDR65A30B7C",
+      "description": "65A Noark Contactor(Reversing), 24V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310525",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_33a5d74c-9ae7-4df0-8a2d-c6f190942008_large.png?v=1751211703"
+    },
+    {
+      "product_number": "Ex9CDR65A30E7C",
+      "description": "65A Noark Contactor(Reversing), 48V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312722",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_32f70650-3c9b-47dd-956e-952f18393305_large.png?v=1751211702"
+    },
+    {
+      "product_number": "Ex9CDR65A30F7C",
+      "description": "65A Noark Contactor(Reversing), 110V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310517",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7d36ccd6-05f6-40c4-919c-fd50c7f941ba_large.png?v=1751211702"
+    },
+    {
+      "product_number": "Ex9CDR65A30G7C",
+      "description": "65A Noark Contactor(Reversing), 120V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310519",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_02992863-b7d2-4ccc-bcb7-8aa8cbd512ed_large.png?v=1751211701"
+    },
+    {
+      "product_number": "Ex9CDR65A30M7C",
+      "description": "65A Noark Contactor(Reversing), 220V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312716",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_be2d3d4e-145d-45cc-9730-af5ececc96ef_large.png?v=1751211700"
+    },
+    {
+      "product_number": "Ex9CDR65A30N7C",
+      "description": "65A Noark Contactor(Reversing), 277V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312724",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_cd4ab284-3300-4302-8b8d-1fc372b29488_large.png?v=1751211700"
+    },
+    {
+      "product_number": "Ex9CDR65A30P7C",
+      "description": "65A Noark Contactor(Reversing), 230V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310521",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_11983651-bb05-4c74-a2ea-508e6674ef49_large.png?v=1751211699"
+    },
+    {
+      "product_number": "Ex9CDR65A30Q7C",
+      "description": "65A Noark Contactor(Reversing), 380V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312718",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_866df416-570b-4362-a383-7cc72b72fcee_large.png?v=1751211699"
+    },
+    {
+      "product_number": "Ex9CDR65A30R7C",
+      "description": "65A Noark Contactor(Reversing), 440V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312720",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c530afa1-32a5-426a-9134-792962020d5f_large.png?v=1751211698"
+    },
+    {
+      "product_number": "Ex9CDR65A30T7C",
+      "description": "65A Noark Contactor(Reversing), 480V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310527",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a0cb8e52-3115-4319-b6cf-d399daa78fc2_large.png?v=1751211698"
+    },
+    {
+      "product_number": "Ex9CDR65A30U7C",
+      "description": "65A Noark Contactor(Reversing), 240V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310523",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1c761e37-78cf-4518-8133-2d08d8869111_large.png?v=1751211697"
+    },
+    {
+      "product_number": "Ex9CDR65A30Y7C",
+      "description": "65A Noark Contactor(Reversing), 600V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312714",
+      "price": 225.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e77f718b-d995-484e-bfb1-3b3eee02542b_large.png?v=1751211696"
+    },
+    {
+      "product_number": "Ex9CDR65A40B7",
+      "description": "65A Noark Contactor(Reversing), 24V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310489",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a1fda450-9e3a-4e8d-afee-9bf1c1786b96_large.png?v=1751211696"
+    },
+    {
+      "product_number": "Ex9CDR65A40E7",
+      "description": "65A Noark Contactor(Reversing), 48V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312686",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c90f9d48-d4b4-46e7-9f14-78018f3a1522_large.png?v=1751211695"
+    },
+    {
+      "product_number": "Ex9CDR65A40F7",
+      "description": "65A Noark Contactor(Reversing), 110V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310481",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3c75cb4f-efff-4e90-9da8-c7f1c7599d63_large.png?v=1751211695"
+    },
+    {
+      "product_number": "Ex9CDR65A40G7",
+      "description": "65A Noark Contactor(Reversing), 120V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310483",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1c1cef25-a9b0-4c59-a6bd-088a895a2fff_large.png?v=1751211694"
+    },
+    {
+      "product_number": "Ex9CDR65A40M7",
+      "description": "65A Noark Contactor(Reversing), 220V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312680",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_be39c43a-e8f2-4974-8215-5c1cad3af82c_large.png?v=1751211694"
+    },
+    {
+      "product_number": "Ex9CDR65A40N7",
+      "description": "65A Noark Contactor(Reversing), 277V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312688",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f4cd4095-b784-450a-b803-7bde4ffda82a_large.png?v=1751211693"
+    },
+    {
+      "product_number": "Ex9CDR65A40P7",
+      "description": "65A Noark Contactor(Reversing), 230V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310485",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3552a011-41e3-49fc-a81d-03d033b2e8f9_large.png?v=1751211692"
+    },
+    {
+      "product_number": "Ex9CDR65A40Q7",
+      "description": "65A Noark Contactor(Reversing), 380V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312682",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_32f4f6f8-42f4-44c2-ae62-9812163681de_large.png?v=1751211692"
+    },
+    {
+      "product_number": "Ex9CDR65A40R7",
+      "description": "65A Noark Contactor(Reversing), 440V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312684",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d9460869-a3e5-4971-af16-c0bc7c6f18df_large.png?v=1751211691"
+    },
+    {
+      "product_number": "Ex9CDR65A40T7",
+      "description": "65A Noark Contactor(Reversing), 480V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310491",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_92af8296-942a-4f51-86a7-07437d5ebf3a_large.png?v=1751211691"
+    },
+    {
+      "product_number": "Ex9CDR65A40U7",
+      "description": "65A Noark Contactor(Reversing), 240V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310487",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3d40708f-b484-44e0-91b8-ba0838ffd500_large.png?v=1751211690"
+    },
+    {
+      "product_number": "Ex9CDR65A40Y7",
+      "description": "65A Noark Contactor(Reversing), 600V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312678",
+      "price": 325.86,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_b57ef9b7-f5ab-403a-8f13-9717dc52c521_large.png?v=1751211689"
+    },
+    {
+      "product_number": "Ex9CDR80A30B7C",
+      "description": "80A Noark Contactor(Reversing), 24V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310585",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_dfd87551-bbd5-43c3-a614-0cc58ddfe97a_large.png?v=1751211689"
+    },
+    {
+      "product_number": "Ex9CDR80A30E7C",
+      "description": "80A Noark Contactor(Reversing), 48V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312782",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_cbfc05e5-0c72-4ce2-892b-3f8dc622c125_large.png?v=1751211688"
+    },
+    {
+      "product_number": "Ex9CDR80A30F7C",
+      "description": "80A Noark Contactor(Reversing), 110V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310577",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9eec48ed-357d-4704-810e-928b7cabde0f_large.png?v=1751211688"
+    },
+    {
+      "product_number": "Ex9CDR80A30G7C",
+      "description": "80A Noark Contactor(Reversing), 120V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310579",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_6643a6a2-614f-4c80-b218-e08502379a86_large.png?v=1751211687"
+    },
+    {
+      "product_number": "Ex9CDR80A30M7C",
+      "description": "80A Noark Contactor(Reversing), 220V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312776",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3221e48f-cb0c-41e3-b534-cd43ed8b7c5f_large.png?v=1751211686"
+    },
+    {
+      "product_number": "Ex9CDR80A30N7C",
+      "description": "80A Noark Contactor(Reversing), 277V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312784",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_4eac2756-8b63-4239-bc37-b1a43b930a72_large.png?v=1751211685"
+    },
+    {
+      "product_number": "Ex9CDR80A30P7C",
+      "description": "80A Noark Contactor(Reversing), 230V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310581",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_55d689c0-a987-44e1-88bc-fc928cb762e4_large.png?v=1751211684"
+    },
+    {
+      "product_number": "Ex9CDR80A30Q7C",
+      "description": "80A Noark Contactor(Reversing), 380V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312778",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_2dc1b707-c031-49cb-a00e-3d2cf1b2a949_large.png?v=1751211683"
+    },
+    {
+      "product_number": "Ex9CDR80A30R7C",
+      "description": "80A Noark Contactor(Reversing), 440V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312780",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_15ff6da6-7668-4372-a943-b0a64b53a965_large.png?v=1751211682"
+    },
+    {
+      "product_number": "Ex9CDR80A30T7C",
+      "description": "80A Noark Contactor(Reversing), 480V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310587",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_23c4b84d-31d7-47f2-ba0d-e71c610a85fa_large.png?v=1751211681"
+    },
+    {
+      "product_number": "Ex9CDR80A30U7C",
+      "description": "80A Noark Contactor(Reversing), 240V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310583",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c742a57d-b83b-4eae-910f-50c680f251b4_large.png?v=1751211680"
+    },
+    {
+      "product_number": "Ex9CDR80A30Y7C",
+      "description": "80A Noark Contactor(Reversing), 600V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312774",
+      "price": 317.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d21dfa5c-5624-44b5-9b3e-fc32e4d1f3ea_large.png?v=1751211679"
+    },
+    {
+      "product_number": "Ex9CDR80A40B7",
+      "description": "80A Noark Contactor(Reversing), 24V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310549",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_4cca91fd-8687-48fb-a73a-c52f3ea9be8e_large.png?v=1751211679"
+    },
+    {
+      "product_number": "Ex9CDR80A40E7",
+      "description": "80A Noark Contactor(Reversing), 48V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312746",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_65d5136d-32b1-4649-9e00-9d0082049a01_large.png?v=1751211678"
+    },
+    {
+      "product_number": "Ex9CDR80A40F7",
+      "description": "80A Noark Contactor(Reversing), 110V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310541",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_bce16af1-e145-4964-a6ff-70aca28970ba_large.png?v=1751211677"
+    },
+    {
+      "product_number": "Ex9CDR80A40G7",
+      "description": "80A Noark Contactor(Reversing), 120V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310543",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_17c9e363-bdd5-450f-8f84-60687b5779e4_large.png?v=1751211676"
+    },
+    {
+      "product_number": "Ex9CDR80A40M7",
+      "description": "80A Noark Contactor(Reversing), 220V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312740",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_ad8a8985-42c9-457e-9e6b-1ce2978270b1_large.png?v=1751211675"
+    },
+    {
+      "product_number": "Ex9CDR80A40N7",
+      "description": "80A Noark Contactor(Reversing), 277V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312748",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a030258a-6496-4b68-a96b-652f56de85d8_large.png?v=1751211675"
+    },
+    {
+      "product_number": "Ex9CDR80A40P7",
+      "description": "80A Noark Contactor(Reversing), 230V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310545",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_5db61340-e9f0-4397-b0a5-ec1ba37bac0b_large.png?v=1751211674"
+    },
+    {
+      "product_number": "Ex9CDR80A40Q7",
+      "description": "80A Noark Contactor(Reversing), 380V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312742",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_20bcb45b-2af9-4201-bccc-ab2b8c692a61_large.png?v=1751211673"
+    },
+    {
+      "product_number": "Ex9CDR80A40R7",
+      "description": "80A Noark Contactor(Reversing), 440V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312744",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f6f80f35-8f90-4507-9b11-0fa3788e8215_large.png?v=1751211673"
+    },
+    {
+      "product_number": "Ex9CDR80A40T7",
+      "description": "80A Noark Contactor(Reversing), 480V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310551",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_52e6b23c-97f8-43f4-bb56-1da720f4d3fa_large.png?v=1751211672"
+    },
+    {
+      "product_number": "Ex9CDR80A40U7",
+      "description": "80A Noark Contactor(Reversing), 240V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310547",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3a23c40c-db3a-4b7e-a886-37b5116cb723_large.png?v=1751211672"
+    },
+    {
+      "product_number": "Ex9CDR80A40Y7",
+      "description": "80A Noark Contactor(Reversing), 600V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312738",
+      "price": 459.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f8d30b3b-96a1-403b-9c78-43fbde4e4db0_large.png?v=1751211671"
+    },
+    {
+      "product_number": "Ex9CDR95A30B7C",
+      "description": "95A Noark Contactor(Reversing), 24V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310645",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a8c42c6f-a71a-4c0e-b451-ee1d45fe0878_large.png?v=1751211671"
+    },
+    {
+      "product_number": "Ex9CDR95A30E7C",
+      "description": "95A Noark Contactor(Reversing), 48V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312842",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_24c5b15a-fedc-4bda-bef5-5c935499eb43_large.png?v=1751211670"
+    },
+    {
+      "product_number": "Ex9CDR95A30F7C",
+      "description": "95A Noark Contactor(Reversing), 110V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310637",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_eba2ef64-f866-4701-8ed6-58941f51ff5d_large.png?v=1751211669"
+    },
+    {
+      "product_number": "Ex9CDR95A30G7C",
+      "description": "95A Noark Contactor(Reversing), 120V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310639",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d9775174-b68e-4f63-ad6e-42f68161caf2_large.png?v=1751211669"
+    },
+    {
+      "product_number": "Ex9CDR95A30M7C",
+      "description": "95A Noark Contactor(Reversing), 220V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312836",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_bfcf50dc-67db-4d5e-b546-7b1a0bbafc1c_large.png?v=1751211668"
+    },
+    {
+      "product_number": "Ex9CDR95A30N7C",
+      "description": "95A Noark Contactor(Reversing), 277V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312844",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_24c593df-3efd-43c5-ad4d-20ac1f8be84f_large.png?v=1751211668"
+    },
+    {
+      "product_number": "Ex9CDR95A30P7C",
+      "description": "95A Noark Contactor(Reversing), 230V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310641",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1051ddbe-2d0c-47d6-8122-6332f5a33b1a_large.png?v=1751211667"
+    },
+    {
+      "product_number": "Ex9CDR95A30Q7C",
+      "description": "95A Noark Contactor(Reversing), 380V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312838",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d6b6c30b-746b-4b94-b0b7-43d6a66f4d74_large.png?v=1751211667"
+    },
+    {
+      "product_number": "Ex9CDR95A30R7C",
+      "description": "95A Noark Contactor(Reversing), 440V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312840",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7add3b9b-cc5e-4805-bb38-6173150092aa_large.png?v=1751211666"
+    },
+    {
+      "product_number": "Ex9CDR95A30T7C",
+      "description": "95A Noark Contactor(Reversing), 480V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310647",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_42e979e4-5c90-45a0-8e46-ec1ffc5260ee_large.png?v=1751211665"
+    },
+    {
+      "product_number": "Ex9CDR95A30U7C",
+      "description": "95A Noark Contactor(Reversing), 240V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1310643",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_637ec72c-13ab-4459-8f1a-9cc15133eb2b_large.png?v=1751211665"
+    },
+    {
+      "product_number": "Ex9CDR95A30Y7C",
+      "description": "95A Noark Contactor(Reversing), 600V, 50/60Hz, 3NO+1NO/1NC Aux Contacts, Noark Part: 1312834",
+      "price": 420.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7b07e149-ce2c-4b8f-b653-04446bacb12e_large.png?v=1751211664"
+    },
+    {
+      "product_number": "Ex9CDR95A40B7",
+      "description": "95A Noark Contactor(Reversing), 24V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310609",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_42ab4cbf-6416-4caf-ac53-975a4ae12306_large.png?v=1751211664"
+    },
+    {
+      "product_number": "Ex9CDR95A40E7",
+      "description": "95A Noark Contactor(Reversing), 48V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312806",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_48a013ec-817d-4ba9-863c-ac268961d380_large.png?v=1751211663"
+    },
+    {
+      "product_number": "Ex9CDR95A40F7",
+      "description": "95A Noark Contactor(Reversing), 110V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310601",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_46df6828-b32e-4a56-a6fb-ce9b6d085c15_large.png?v=1751211663"
+    },
+    {
+      "product_number": "Ex9CDR95A40G7",
+      "description": "95A Noark Contactor(Reversing), 120V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310603",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3249a9e2-7eaa-426d-bda4-b2c223901547_large.png?v=1751211662"
+    },
+    {
+      "product_number": "Ex9CDR95A40M7",
+      "description": "95A Noark Contactor(Reversing), 220V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312800",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1318f213-3b7c-47f7-a0ac-f6793c24458e_large.png?v=1751211661"
+    },
+    {
+      "product_number": "Ex9CDR95A40N7",
+      "description": "95A Noark Contactor(Reversing), 277V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312808",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_6514274e-ef5f-44d6-b161-8a0342b802fa_large.png?v=1751211661"
+    },
+    {
+      "product_number": "Ex9CDR95A40P7",
+      "description": "95A Noark Contactor(Reversing), 230V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310605",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9fe0e37a-557c-4d1b-9515-e0aac49890b9_large.png?v=1751211660"
+    },
+    {
+      "product_number": "Ex9CDR95A40Q7",
+      "description": "95A Noark Contactor(Reversing), 380V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312802",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_2ef44783-55be-404b-9f0b-ea93bb1c5f0a_large.png?v=1751211660"
+    },
+    {
+      "product_number": "Ex9CDR95A40R7",
+      "description": "95A Noark Contactor(Reversing), 440V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312804",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_2215e25b-a13e-4ed1-abc7-d8cad5167962_large.png?v=1751211659"
+    },
+    {
+      "product_number": "Ex9CDR95A40T7",
+      "description": "95A Noark Contactor(Reversing), 480V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310611",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_8a9697d7-7de5-420f-b68a-e6e734c30bbf_large.png?v=1751211658"
+    },
+    {
+      "product_number": "Ex9CDR95A40U7",
+      "description": "95A Noark Contactor(Reversing), 240V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1310607",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e86c0f2c-8f17-4ddf-97cb-ff64f7d63bc1_large.png?v=1751211658"
+    },
+    {
+      "product_number": "Ex9CDR95A40Y7",
+      "description": "95A Noark Contactor(Reversing), 600V, 50/60Hz, 4NO Aux Contacts, Noark Part: 1312798",
+      "price": 1041.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_ba1da393-8bca-4550-9539-230f0ad8a704_large.png?v=1751211657"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "products": [
+    {
+      "product_number": "SB80",
+      "description": "(Package of 12 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 100A, Load Side Max Conductor Size: 16 mm², 1 Piece in a package, Part no: 561150",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_383becdc-80bb-4c16-a224-7dd5ef0ac4dd_large.jpg?v=1605106353"
+    },
+    {
+      "product_number": "SB125",
+      "description": "(Package of 12 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 170A, Load Side Max Conductor Size: 35 mm², 1 Piece in a package, Part no: 561158",
+      "price": 176.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_95c96da8-1853-4151-aab8-2019e085c2ea_large.jpg?v=1605106340"
+    },
+    {
+      "product_number": "SB160",
+      "description": "(Package of 6 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 250A, Load Side Max Conductor Size: 70 mm², 1 Piece in a package, Part no: 561151",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_87d6343e-e089-4ab4-a4b9-12819d02f39c_large.jpg?v=1605106330"
+    },
+    {
+      "product_number": "SB250",
+      "description": "(Package of 4 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 120 mm², 1 Piece in a package, Part no: 561159",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_baf59ee3-dd66-4ac4-8e63-73d47828ea2e_large.jpg?v=1605106320"
+    },
+    {
+      "product_number": "SB400",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 500A, Load Side Max Conductor Size: 240 mm², 1 Piece in a package, Part no: 561152",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_450a67cb-1378-4ecc-bddd-7b846237f7df_large.jpg?v=1605106312"
+    },
+    {
+      "product_number": "SBF400",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 100 mm², 1 Piece in a package, Part no: 561153",
+      "price": 144.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_b29de92b-4f3b-4f76-a4c0-03ee7c7e672c_large.jpg?v=1605106285"
+    },
+    {
+      "product_number": "SB2C400",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 2x120 mm², 1 Piece in a package, Part no: 561154",
+      "price": 203.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_3a24391f-fcfd-42c6-9a8a-b3bac8b0a964_large.jpg?v=1605106270"
+    },
+    {
+      "product_number": "SBF2C400",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 2x120 mm², 1 Piece in a package, Part no: 561155",
+      "price": 213.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_b545e3d5-ea2a-47b1-9915-08044f43b116_large.jpg?v=1605106261"
+    },
+    {
+      "product_number": "SBF630",
+      "description": "ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 630A, Load Side Max Conductor Size: 500 mm², 1 Piece in a package, Part no: 561157",
+      "price": 181.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_8446f481-22df-4b4c-b084-826a949863d0_large.jpg?v=1605106251"
+    },
+    {
+      "product_number": "SB630",
+      "description": "ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 630A, Load Side Max Conductor Size: 500 mm², 1 Piece in a package, Part no: 561156",
+      "price": 158.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_dd9a2934-adff-421d-989f-bb82d36df26b_large.jpg?v=1605106253"
+    },
+    {
+      "product_number": "SB80AL",
+      "description": "(Package of 24 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 100A, Load Side Max Conductor Size: 16 mm², 1 Piece in a package, Part no: 561160",
+      "price": 205.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_88ff0e1c-8b37-44a0-a1fc-0c9fc8d31a20_large.jpg?v=1605106243"
+    },
+    {
+      "product_number": "SB125AL",
+      "description": "(Package of 12 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 180A, Load Side Max Conductor Size: 35 mm², 1 Piece in a package, Part no: 561161",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_53f8287b-4421-4998-a7b8-67d55448db77_large.jpg?v=1605106245"
+    },
+    {
+      "product_number": "SB250AL",
+      "description": "(Package of 6 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 120 mm², 1 Piece in a package, Part no: 561163",
+      "price": 154.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_8b56675a-bcf0-4218-9e0e-b628604c15e1_large.jpg?v=1605106227"
+    },
+    {
+      "product_number": "SB160AL",
+      "description": "(Package of 12 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 230A, Load Side Max Conductor Size: 70 mm², 1 Piece in a package, Part no: 561162",
+      "price": 235.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_f9215c93-a2d7-4f21-b497-123ff912ce24_large.jpg?v=1605106229"
+    },
+    {
+      "product_number": "SBF400AL",
+      "description": "(Package of 3 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 240 mm², 1 Piece in a package, Part no: 561165",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_2f18bfbe-b604-4123-aee5-e9f2dc8ca631_large.jpg?v=1605106221"
+    },
+    {
+      "product_number": "SB400AL",
+      "description": "(Package of 3 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 500A, Load Side Max Conductor Size: 240 mm², 1 Piece in a package, Part no: 561164",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_cb448035-303f-49a2-bfac-037be32b36bb_large.jpg?v=1605106225"
+    },
+    {
+      "product_number": "SB2C400AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 2x120 mm², 1 Piece in a package, Part no: 561166",
+      "price": 137.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_14ef00b2-6f55-4ccb-a355-d39387342003_large.jpg?v=1605106207"
+    },
+    {
+      "product_number": "SBF2C400AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 2x120 mm², 1 Piece in a package, Part no: 561167",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_0a252e74-1d7e-42f8-82e8-f1c429b99cea_large.jpg?v=1605106103"
+    },
+    {
+      "product_number": "SB630AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 630A, Load Side Max Conductor Size: 500 mm², 1 Piece in a package, Part no: 561168",
+      "price": 210.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_e33b295f-6edc-4321-9aa2-1fb47f32f3a0_large.jpg?v=1605106096"
+    },
+    {
+      "product_number": "SB2C250",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 2x120 mm², 1 Piece in a package, Part no: 561170",
+      "price": 149.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_29e07685-9912-4b64-9515-1085276e7ec4_large.jpg?v=1605106090"
+    },
+    {
+      "product_number": "SBF630AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 630A, Load Side Max Conductor Size: 500 mm², 1 Piece in a package, Part no: 561169",
+      "price": 242.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_7748050b-74f7-49a8-a4b7-f2fd2db5ebfd_large.jpg?v=1605106094"
+    },
+    {
+      "product_number": "SBF2C250",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 400A, Load Side Max Conductor Size: 2x120 mm², 1 Piece in a package, Part no: 561172",
+      "price": 151.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_1756d9f9-b323-4740-8e72-4023544431e2_large.jpg?v=1605106086"
+    },
+    {
+      "product_number": "SBF250",
+      "description": "(Package of 3 Pieces) ERIFLEX Power Block, Material: Tinned Copper; Thermoplastic, Max Current Rating: 250A, Load Side Max Conductor Size: 70 mm², 1 Piece in a package, Part no: 561171",
+      "price": 143.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_0cfb9ae3-f543-43da-80e6-2f8f49be7aee_large.jpg?v=1605106084"
+    },
+    {
+      "product_number": "SBF2C630AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 800A, Load Side Max Conductor Size: 240 mm², 1 Piece in a package, Part no: 561173",
+      "price": 186.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_33023fa8-981f-4f1d-a1c2-47ed16dcdf17_large.jpg?v=1605106081"
+    },
+    {
+      "product_number": "SB2C1000AL",
+      "description": "(Package of 2 Pieces) ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 1000A, Load Side Max Conductor Size: 2x300 mm², 1 Piece in a package, Part no: 561174",
+      "price": 225.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_315d3b7a-04f0-41f7-a61a-9a355f59cb58_large.jpg?v=1605106069"
+    },
+    {
+      "product_number": "SB2C2C1000AL",
+      "description": "ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 1000A, Load Side Max Conductor Size: 2x300 mm², 1 Piece in a package, Part no: 561175",
+      "price": 133.53,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_027ad921-84be-4913-ae8e-89fc18b7e8bd_large.jpg?v=1605106065"
+    },
+    {
+      "product_number": "SBF3C1000AL",
+      "description": "ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 1000A, Load Side Max Conductor Size: 3x300 mm², 1 Piece in a package, Part no: 561176",
+      "price": 149.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_dfe69799-3c62-4db8-9911-05179b880a5c_large.jpg?v=1605106067"
+    },
+    {
+      "product_number": "SBF4C1600AL",
+      "description": "ERIFLEX Power Block, Material: Tinned Aluminium; Thermoplastic, Max Current Rating: 1600A, Load Side Max Conductor Size: 4x300 mm², 1 Piece in a package, Part no: 561177",
+      "price": 216.82,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_large.jpg?v=1605106064"
+    }
+  ]
+}

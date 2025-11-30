@@ -1,0 +1,781 @@
+{
+    "products": [
+      {
+        "product_number": "FR-E810W-0008-5-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0008-5-60 / FRE810W0008560",
+        "price": 477.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0008EPA-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A). - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0008EPA-60 / FRE810W0008EPA60",
+        "price": 524.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0008SCEPB-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B). - SIL3 / PLe - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0008SCEPB-60 / FRE810W0008SCEPB60",
+        "price": 595.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0015-5-60",
+        "description": "1/4HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 200W / 0.2kW / 1/4HP - 1.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0015-5-60 / FRE810W0015560",
+        "price": 522.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0015EPA-60",
+        "description": "1/4HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A). - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 200W / 0.2kW / 1/4HP - 1.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0015EPA-60 / FRE810W0015EPA60",
+        "price": 573.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0030-5-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0030-5-60 / FRE810W0030560",
+        "price": 576.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0030EPA-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A). - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0030EPA-60 / FRE810W0030EPA60",
+        "price": 634.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0050-5-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0050-5-60 / FRE810W0050560",
+        "price": 711.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0050EPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A). - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0050EPA-60 / FRE810W0050EPA60",
+        "price": 783.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0050EPB-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B). - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 750W / 0.75kW / 1HP -5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0050EPB-60 / FRE810W0050EPB60",
+        "price": 783.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0050EPC-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C). - SIL2 / PLd - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 750W / 0.75kW / 1HP -5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0050EPC-60 / FRE810W0050EPC60",
+        "price": 783.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0050SCEPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A). - SIL3 / PLe - (FREQROL FR-E800 series) - input 100Vac (1-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0050SCEPA-60 / FRE810W0050SCEPA60",
+        "price": 890.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E810W-0050SCEPB-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B). - SIL3 / PLe - (FREQROL FR-E800 series) - input 110Vac (1-phase) - 750W / 0.75kW / 1HP -5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 110Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E810W-0050SCEPB-60 / FRE810W0050SCEPB60",
+        "price": 890.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0008-5-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0008-5-60 / FRE8200008560",
+        "price": 356.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0008EPA-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A). - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0008EPA-60 / FRE8200008EPA60",
+        "price": 412.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0008EPB-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B). - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0008EPB-60 / FRE8200008EPB60",
+        "price": 432.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0015-5-60",
+        "description": "1/4HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 200W / 0.2kW / 1/4HP - 1.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0015-5-60 / FRE8200015560",
+        "price": 359.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0015EPA-60",
+        "description": "1/4HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 200W / 0.2kW / 1/4HP - 1.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0015EPA-60 / FRE8200015EPA60",
+        "price": 432.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0015EPC-60",
+        "description": "1/4HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 200W / 0.2kW / 1/4HP - 1.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0015EPC-60 / FRE8200015EPC60",
+        "price": 440.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0030-5-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0030-5-60 / FRE8200030560",
+        "price": 384.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0030EPA-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0030EPA-60 / FRE8200030EPA60",
+        "price": 451.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0030EPC-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0030EPC-60 / FRE8200030EPC60",
+        "price": 489.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0050-5-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0050-5-60 / FRE8200050560",
+        "price": 441.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0050EPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0050EPA-60 / FRE8200050EPA60",
+        "price": 533.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0050EPB-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0050EPB-60 / FRE8200050EPB60",
+        "price": 543.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0050EPC-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0050EPC-60 / FRE8200050EPC60",
+        "price": 559.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0050SCEPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0050SCEPA-60 / E8200050SCEPA60",
+        "price": 630.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0080-5-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 1.5kW / 2HP - 8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0080-5-60 / FRE8200080560",
+        "price": 527.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0080EPA-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 1.5kW / 2HP - 8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0080EPA-60 / FRE8200080EPA60",
+        "price": 635.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0080EPC-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 1.5kW / 2HP - 8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0080EPC-60 / FRE8200080EPC60",
+        "price": 648.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0110-5-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 2.2kW / 3HP - 11A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0110-5-60 / FRE8200110560",
+        "price": 618.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0110EPA-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 2.2kW / 3HP - 11A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0110EPA-60 / FRE8200110EPA60",
+        "price": 737.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0110EPC-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 2.2kW / 3HP - 11A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0110EPC-60 / FRE8200110EPC60",
+        "price": 751.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0175-5-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 3.7kW / 5HP - 17.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0175-5-60 / FRE8200175560",
+        "price": 805.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0175EPA-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 3.7kW / 5HP - 17.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0175EPA-60 / FRE8200175EPA60",
+        "price": 954.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0175EPB-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 3.7kW / 5HP - 17.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0175EPB-60 / FRE8200175EPB60",
+        "price": 973.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0175SCEPA-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 3.7kW / 5HP - 17.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0175SCEPA-60 / E8200175SCEPA60",
+        "price": 1158.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0240-5-60",
+        "description": "7.5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 5.5kW / 7.5HP / 7-1/2HP - 24A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0240-5-60 / FRE8200240560",
+        "price": 1063.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0240EPA-60",
+        "description": "7.5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 5.5kW / 7.5HP / 7-1/2HP - 24A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0240EPA-60 / FRE8200240EPA60",
+        "price": 1260.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0330-5-60",
+        "description": "10HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 7.5kW / 10HP - 33A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0330-5-60 / FRE8200330560",
+        "price": 1408.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0330EPA-60",
+        "description": "10HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 7.5kW / 10HP - 33A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0330EPA-60 / FRE8200330EPA60",
+        "price": 1671.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0470-5-60",
+        "description": "15HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 11kW / 15HP - 47A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0470-5-60 / FRE8200470560",
+        "price": 1758.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0470EPA-60",
+        "description": "15HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 11kW / 15HP - 47A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0470EPA-60 / FRE8200470EPA60",
+        "price": 2125.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0470SCEPA-60",
+        "description": "15HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 11kW / 15HP - 47A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0470SCEPA-60 / FRE8200470SCEPA60",
+        "price": 2550.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0600EPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 15kW / 20HP - 60A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0600EPA-60 / FRE8200600EPA60",
+        "price": 2606.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0600SCEPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 15kW / 20HP - 60A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0600SCEPA-60 / FRE8200600SCEPA60",
+        "price": 3218.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0760EPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 18.5kW / 20HP - 76A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0760EPA-60 / FRE8200760EPA60",
+        "price": 3313.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0760SCEPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 18.5kW / 20HP - 76A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0760SCEPA-60 / FRE8200760SCEPA60",
+        "price": 4176.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0900-5-60",
+        "description": "25HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 22kW / 25HP - 90A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0900-5-60 / FRE8200900560",
+        "price": 3126.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0900EPA-60",
+        "description": "25HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 22kW / 25HP - 90A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0900EPA-60 / FRE8200900EPA60",
+        "price": 3982.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820-0900SCEPA-60",
+        "description": "25HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 200Vac-240Vac (3-phase) - 22kW / 25HP - 90A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820-0900SCEPA-60 / FRE8200900SCEPA60",
+        "price": 4779.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0008-5-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety model - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0008-5-60 / E820S0008560",
+        "price": 489.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0008EPA-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0008EPA-60 / E820S0008EPA60",
+        "price": 548.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0015-5-60",
+        "description": "1/4HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety model - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 200W / 0.2kW / 1/4HP - 1.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0015-5-60 / E820S0015560",
+        "price": 533.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0015EPA-60",
+        "description": "1/8HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - safety model - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 100W / 0.1kW / 1/8HP - 0.8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0008-5-60 / E820S0008560",
+        "price": 616.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0030-5-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - safety model - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0030-5-60 / E820S0030560",
+        "price": 558.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0030EPA-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0030EPA-60 / E820S0030EPA60",
+        "price": 649.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0030EPC-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 400W / 0.4kW / 1/2HP - 3A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0030EPC-60 / FRE820S0030EPC60",
+        "price": 682.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0050-5-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - safety model - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0050-5-60 / E820S0050560",
+        "price": 618.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0050EPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0050EPA-60 / E820S0050EPA60",
+        "price": 737.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0050EPC-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 750W / 0.75kW / 1HP - 5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0050EPC-60 / FRE820S0050EPC60",
+        "price": 751.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0080-5-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - safety model - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 1.5kW / 2HP - 8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0080-5-60 / E820S0080560",
+        "price": 692.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0080EPA-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 1.5kW / 2HP - 8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0080EPA-60 / E820S0080EPA60",
+        "price": 794.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0080EPC-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 1.5kW / 2HP - 8A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0080EPC-60 / FRE820S0080EPC60",
+        "price": 835.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0110-5-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - safety model - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 2.2kW / 3HP - 11A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0110-5-60 / E820S0110560",
+        "price": 781.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0110EPA-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 2.2kW / 3HP - 11A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0110EPA-60 / E820S0110EPA60",
+        "price": 896.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E820S-0110EPC-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 200Vac-240Vac (1-phase) - 2.2kW / 3HP - 11A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 220Vac / 230Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E820S-0110EPC-60 / FRE820S0110EPC60",
+        "price": 941.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0016-5-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 400W / 0.4kW / 1/2HP - 1.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0016-5-60 / FRE8400016560",
+        "price": 485.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0016EPA-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 400W / 0.4kW / 1/2HP - 1.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0016EPA-60 / FRE8400016EPA60",
+        "price": 576.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0016EPC-60",
+        "description": "1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 400W / 0.4kW / 1/2HP - 1.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0016EPC-60 / FRE8400016EPC60",
+        "price": 606.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0026-5-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 750W / 0.75kW / 1HP - 2.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0026-5-60 / FRE8400026560",
+        "price": 595.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0026EPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 750W / 0.75kW / 1HP - 2.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0026EPA-60 / FRE8400026EPA60",
+        "price": 689.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0026EPB-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 750W / 0.75kW / 1HP - 2.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0026EPB-60 / FRE8400026EPB60",
+        "price": 682.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0026EPC-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 750W / 0.75kW / 1HP - 2.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0026EPC-60 / FRE8400026EPC60",
+        "price": 702.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0026SCEPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 750W / 0.75kW / 1HP - 2.6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0026SCEPA-60 / E8400026SCEPA60",
+        "price": 785.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0040-5-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 1.5kW / 2HP - 4A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0040-5-60 / FRE8400040560",
+        "price": 682.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0040EPA-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 1.5kW / 2HP - 4A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0040EPA-60 / FRE8400040EPA60",
+        "price": 794.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0040EPC-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 1.5kW / 2HP - 4A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0040EPC-60 / FRE8400040EPC60",
+        "price": 835.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0060-5-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 2.2kW / 3HP - 6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0060-5-60 / FRE8400060560",
+        "price": 804.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0060EPA-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 2.2kW / 3HP - 6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0060EPA-60 / FRE8400060EPA60",
+        "price": 934.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0060EPC-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (C) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 2.2kW / 3HP - 6A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + EtherCAT communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0060EPC-60 / FRE8400060EPC60",
+        "price": 924.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0095-5-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 3.7kW / 5HP - 9.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0095-5-60 / FRE8400095560",
+        "price": 972.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0095EPA-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 3.7kW / 5HP - 9.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0095EPA-60 / FRE8400095EPA60",
+        "price": 1123.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0095EPB-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (B) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 3.7kW / 5HP - 9.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + PROFINET + CC-Link + Modbus TCP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0095EPB-60 / FRE8400095EPB60",
+        "price": 1144.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0095SCEPA-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 3.7kW / 5HP - 9.5A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0095SCEPA-60 / E8400095SCEPA60",
+        "price": 1279.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0120-5-60",
+        "description": "7.5HP / 7-1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 5.5kW / 7.5HP / 7-1/2HP - 12A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0120-5-60 / FRE8400120560",
+        "price": 1211.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0120EPA-60",
+        "description": "7.5HP / 7-1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 5.5kW / 7.5HP / 7-1/2HP - 12A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0120EPA-60 / FRE8400120EPA60",
+        "price": 1407.60,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0170-5-60",
+        "description": "10HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 7.5kW / 10HP - 17A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0170-5-60 / FRE8400170560",
+        "price": 1442.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0170EPA-60",
+        "description": "10HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 7.5kW / 10HP - 17A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0170EPA-60 / FRE8400170EPA60",
+        "price": 1662.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0230EPA-60",
+        "description": "15HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 11kW / 15HP - 23A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0230EPA-60 / FRE8400230EPA60",
+        "price": 2126.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0230SCEPA-60",
+        "description": "15HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 11kW / 15HP - 23A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0230SCEPA-60 / FRE8400230SCEPA60",
+        "price": 2629.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0300-5-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 15kW / 20HP - 30A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0300-5-60 / FRE8400300560",
+        "price": 2079.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0300EPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 15kW / 20HP - 30A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0300EPA-60 / FRE8400300EPA60",
+        "price": 2452.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0300SCEPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 15kW / 20HP - 30A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0300SCEPA-60 / FRE8400300SCEPA60",
+        "price": 2941.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0380-5-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 18.5kW / 20HP - 38A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0380-5-60 / FRE8400380560",
+        "price": 2863.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0380EPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 18.5kW / 20HP - 38A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0380EPA-60 / FRE8400380EPA60",
+        "price": 3373.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0380SCEPA-60",
+        "description": "20HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 18.5kW / 20HP - 38A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0380SCEPA-60 / FRE8400380SCEPA60",
+        "price": 4052.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0440EPA-60",
+        "description": "25HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 22kW / 25HP - 44A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0440EPA-60 / FRE8400440EPA60",
+        "price": 4086.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E840-0440SCEPA-60",
+        "description": "25HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) and functions (SS1/STO/SLS/SBC/SSM) - SIL3 / PLe - (FREQROL FR-E800 series) - input 380Vac-480Vac (3-phase) - 22kW / 25HP - 44A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - input voltage nominal values 400Vac / 415Vac / 440Vac - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E840-0440SCEPA-60 / FRE8400440SCEPA60",
+        "price": 4896.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0017-5-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 750W / 0.75kW / 1HP - 1.7A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0017-5-60 / FRE8600017560",
+        "price": 805.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0017EPA-60",
+        "description": "1HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 750W / 0.75kW / 1HP - 1.7A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0017EPA-60 / FRE8600017EPA60",
+        "price": 926.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0027-5-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 1.5kW / 2HP - 2.7A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0027-5-60 / FRE8600027560",
+        "price": 934.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0027EPA-60",
+        "description": "2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 1.5kW / 2HP - 2.7A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0027EPA-60 / FRE8600027EPA60",
+        "price": 1080.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0040-5-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 2.2kW / 3HP - 4A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0040-5-60 / FRE8600040560",
+        "price": 1089.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0040EPA-60",
+        "description": "3HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 2.2kW / 3HP - 4A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0040EPA-60 / FRE8600040EPA60",
+        "price": 1298.70,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0061-5-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 3.7kW / 5HP - 6.1A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0061-5-60 / FRE8600061560",
+        "price": 1304.10,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0061EPA-60",
+        "description": "5HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 3.7kW / 5HP - 6.1A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0061EPA-60 / FRE8600061EPA60",
+        "price": 1503.90,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0090-5-60",
+        "description": "7.5HP / 7-1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 5.5kW / 7.5HP / 7-1/2HP - 9A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0090-5-60 / FRE8600090560",
+        "price": 2070.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0090EPA-60",
+        "description": "7.5HP / 7-1/2HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 5.5kW / 7.5HP / 7-1/2HP - 9A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0090EPA-60 / FRE8600090EPA60",
+        "price": 2466.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0120-5-60",
+        "description": "10HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - AM term. - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 7.5kW / 10HP - 12A (ND Normal Duty) - frequency (output) 0.2-590Hz - with RS-485 communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0120-5-60 / FRE8600120560",
+        "price": 2247.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      },
+      {
+        "product_number": "FR-E860-0120EPA-60",
+        "description": "10HP Mitsubishi Variable Frequency Drive (VFD) /Mitsubishi Inverter - Safety comm. (A) - SIL2 / PLd - (FREQROL FR-E800 series) - input 575Vac (3-phase) - 7.5kW / 10HP - 12A (ND Normal Duty) - frequency (output) 0.2-590Hz - with Ethernet + Ethernet/IP + CC-Link + Modbus TCP + BACnet/IP communication capability - IP20 - Chemical resistance (circuit board coating - IEC60721-3-3 3S2 3C2) - equivalent to FR-E860-0120EPA-60 / FRE8600120EPA60",
+        "price": 2680.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/MitsubishiE800VFD_medium.avif"
+      }
+    ]
+  }

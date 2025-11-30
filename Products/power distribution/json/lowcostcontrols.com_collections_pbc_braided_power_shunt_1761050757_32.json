@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "product_number": "PBC100X250",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 100mm², Length: 250mm, 2 Pieces in a package, Part no: 564000",
+      "price": 416.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_large.jpg?v=1605074348"
+    },
+    {
+      "product_number": "PBC120X250",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 120mm², Length: 250mm, 2 Pieces in a package, Part no: 564010",
+      "price": 330.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_582897e4-afed-4b51-827c-780400136ffd_large.jpg?v=1605074349"
+    },
+    {
+      "product_number": "PBC1200X500",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 1200mm², Length: 500mm, Piece in a package, Part no: 564030",
+      "price": 1473.67,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_b10efed0-dd49-4409-8d34-e64d2c2617ef_large.jpg?v=1605074350"
+    },
+    {
+      "product_number": "PBC100X500",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 100mm², Length: 500mm, 2 Pieces in a package, Part no: 564050",
+      "price": 383.43,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_4d2232e7-3b94-462e-9531-122e48d01e04_large.jpg?v=1605074351"
+    },
+    {
+      "product_number": "PBC150X250",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 150mm², Length: 250mm, 2 Pieces in a package, Part no: 564100",
+      "price": 423.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_5e419d1d-b532-49d2-87b9-1fe15b6d3fd4_large.jpg?v=1605074352"
+    },
+    {
+      "product_number": "PBC150X500",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 150mm², Length: 500mm, 2 Pieces in a package, Part no: 564150",
+      "price": 520.63,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_ac365547-0ddd-4044-8530-2fcfcd5f0229_large.jpg?v=1605074353"
+    },
+    {
+      "product_number": "PBC200X250",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 200mm², Length: 250mm, 2 Pieces in a package, Part no: 564200",
+      "price": 482.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_48600ce4-fd1c-466e-9a4d-d5c58b8ad07e_large.jpg?v=1605074354"
+    },
+    {
+      "product_number": "PBC200X500",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 200mm², Length: 500mm, 2 Pieces in a package, Part no: 564250",
+      "price": 662.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_c08e7fbf-36dd-4465-bf35-55fec2c3e3ee_large.jpg?v=1605074355"
+    },
+    {
+      "product_number": "PBC250X300",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 250mm², Length: 300mm, 2 Pieces in a package, Part no: 564300",
+      "price": 654.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_87a2c58b-bf3c-4b98-b224-719eb6c1c6ca_large.jpg?v=1605074356"
+    },
+    {
+      "product_number": "PBC300X400",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 300mm², Length: 400mm, 1 Piece in a package, Part no: 564400",
+      "price": 426.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_811822e7-34c9-44a6-ac20-6d2e7e17b91e_large.jpg?v=1605074357"
+    },
+    {
+      "product_number": "PBC400X400",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 400mm², Length: 400mm, 1 Piece in a package, Part no: 564500",
+      "price": 530.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_64746a0b-5e59-41e3-9314-9f32c42c7493_large.jpg?v=1605074358"
+    },
+    {
+      "product_number": "PBC500X400",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 500mm², Length: 400mm, 1 Piece in a package, Part no: 564600",
+      "price": 711.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_d9e9d099-ab67-4dc1-976c-b021fa224be9_large.jpg?v=1605074359"
+    },
+    {
+      "product_number": "PBC600X450",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 600mm², Length: 450mm, 1 Piece in a package, Part no: 564700",
+      "price": 899.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_3b9e3d4c-de4e-428e-a6b8-1d4c395ee9ca_large.jpg?v=1605074360"
+    },
+    {
+      "product_number": "PBC800X450",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 800mm², Length: 450mm, 1 Piece in a package, Part no: 564800",
+      "price": 989.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_b81b4cfc-dd7c-4d8e-889d-658a1d96793e_large.jpg?v=1605074361"
+    },
+    {
+      "product_number": "PBC1000X450",
+      "description": "ERIFLEX PBC Braided Power Shunt, Material: Tinned Copper, Wire Diameter: 0.15 mm, Cross Section: 1000mm², Length: 450mm, 1 Piece in a package, Part no: 564900",
+      "price": 1239.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_eb888201-99ca-460d-a92a-d7a84aa7b1c8_large.jpg?v=1605074362"
+    }
+  ]
+}

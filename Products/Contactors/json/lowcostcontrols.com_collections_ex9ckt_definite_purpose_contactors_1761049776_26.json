@@ -1,0 +1,830 @@
+{
+  "products": [
+    {
+      "product_number": "Ex9CKT20B30B7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-20/3 L 24V 50/60HZ, Noark Part: 1314282",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_large.png?v=1751212079"
+    },
+    {
+      "product_number": "Ex9CKT20B30G7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-20/3 L 120V 50/60HZ, Noark Part: 1314283",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_5d7579d8-a29a-4a1e-9f92-8b3bea1c2ca3_large.png?v=1751212080"
+    },
+    {
+      "product_number": "Ex9CKT20B30XU7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-20/3 L 208-240V 50/60HZ, Noark Part: 1314284",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_77ccdb4c-b689-4117-b71f-17e83ed81842_large.png?v=1751212080"
+    },
+    {
+      "product_number": "Ex9CKT20B30N7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-20/3 L 277V 50/60HZ, Noark Part: 1314285",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_91475fc8-78fe-482f-86b0-9957ae90f25c_large.png?v=1751212081"
+    },
+    {
+      "product_number": "Ex9CKT20B30T7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-20/3 L 480V 50/60HZ, Noark Part: 1314287",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_4cea9894-ed01-4da0-80f6-2ec9f48688cf_large.png?v=1751212082"
+    },
+    {
+      "product_number": "Ex9CKT20B40B7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-20/4 L 24V 50/60HZ, Noark Part: 1314342",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_large.png?v=1751212082"
+    },
+    {
+      "product_number": "Ex9CKT20B40G7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-20/4 L 120V 50/60HZ, Noark Part: 1314343",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_461fa0c9-fb30-463b-a2a1-9e43310d4e92_large.png?v=1751212083"
+    },
+    {
+      "product_number": "Ex9CKT20B40XU7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-20/4 L 208-240V 50/60HZ, Noark Part: 1314344",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_a587e269-8783-4980-95b8-ced75a4a4567_large.png?v=1751212083"
+    },
+    {
+      "product_number": "Ex9CKT20B40N7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-20/4 L 277V 50/60HZ, Noark Part: 1314345",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_50cbb997-a45e-4804-be2e-83318074cf46_large.png?v=1751212084"
+    },
+    {
+      "product_number": "Ex9CKT20B40R7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-20/4 L 440V 50/60HZ, Noark Part: 1314346",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_49b5e679-a1df-4217-b605-318be2e8c229_large.png?v=1751212085"
+    },
+    {
+      "product_number": "Ex9CKT20A30B7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-20/3 S 24V 50/60HZ, Noark Part: 1314312",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_6cff64a7-eeae-4de7-b45a-5af93f1e5be3_large.png?v=1751212086"
+    },
+    {
+      "product_number": "Ex9CKT20B40T7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-20/4 L 480V 50/60HZ, Noark Part: 1314347",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_8ed9af79-86bb-4825-b71a-677a83a360e6_large.png?v=1751212085"
+    },
+    {
+      "product_number": "Ex9CKT20A30G7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-20/3 S 120V 50/60HZ, Noark Part: 1314313",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_3218610c-cbac-4775-92d5-1e64be0b07e1_large.png?v=1751212086"
+    },
+    {
+      "product_number": "Ex9CKT20A30XU7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-20/3 S 208-240V 50/60HZ, Noark Part: 1314314",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_bf8ded4c-03c2-4fc1-b44d-7a911528b820_large.png?v=1751212087"
+    },
+    {
+      "product_number": "Ex9CKT20A30N7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-20/3 S 277V 50/60HZ, Noark Part: 1314315",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_65d504cb-c565-4ff7-be77-e18affa6a15d_large.png?v=1751212088"
+    },
+    {
+      "product_number": "Ex9CKT20A30R7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-20/3 S 440V 50/60HZ, Noark Part: 1314316",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_3004a03e-09f5-4316-87cb-6ec9948dfc9d_large.png?v=1751212088"
+    },
+    {
+      "product_number": "Ex9CKT20A40B7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-20/4 S 24V 50/60HZ, Noark Part: 1314372",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_fffd6dc7-a4b5-4572-92ec-66157b8045d8_large.png?v=1751212089"
+    },
+    {
+      "product_number": "Ex9CKT20A30T7",
+      "description": "(Package of 12 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-20/3 S 480V 50/60HZ, Noark Part: 1314317",
+      "price": 264.89,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B3_19f5daf2-7be5-4cb0-af1e-d4c934831edc_large.png?v=1751212089"
+    },
+    {
+      "product_number": "Ex9CKT20A40G7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-20/4 S 120V 50/60HZ, Noark Part: 1314373",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_b116a320-26c4-4dd6-820f-d89e3d4be7b4_large.png?v=1751212090"
+    },
+    {
+      "product_number": "Ex9CKT20A40XU7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-20/4 S 208-240V 50/60HZ, Noark Part: 1314374",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_8f57f8ef-1e61-4367-804c-f77067bc7869_large.png?v=1751212090"
+    },
+    {
+      "product_number": "Ex9CKT20A40N7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-20/4 S 277V 50/60HZ, Noark Part: 1314375",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_7377355d-0e3d-4a72-b4fa-68a7fef69e6a_large.png?v=1751212091"
+    },
+    {
+      "product_number": "Ex9CKT20A40R7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-20/4 S 440V 50/60HZ, Noark Part: 1314376",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_3dc86625-9867-4d4f-a8dc-bbb845658269_large.png?v=1751212092"
+    },
+    {
+      "product_number": "Ex9CKT20A40T7",
+      "description": "(Package of 4 Pieces) 20A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-20/4 S 480V 50/60HZ, Noark Part: 1314377",
+      "price": 173.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/20B4_78bf4020-6892-4654-9f95-9e14742db746_large.png?v=1751212092"
+    },
+    {
+      "product_number": "Ex9CKT25B30B7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-25/3 L 24V 50/60HZ, Noark Part: 1314288",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_large.png?v=1751212093"
+    },
+    {
+      "product_number": "Ex9CKT25B30XU7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-25/3 L 208-240V 50/60HZ, Noark Part: 1314290",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_6c3d65ee-cf85-49d9-a631-8d9f66c5b232_large.png?v=1751212094"
+    },
+    {
+      "product_number": "Ex9CKT25B30G7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-25/3 L 120V 50/60HZ, Noark Part: 1314289",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_3f13e1d8-b1ec-4fbd-adb6-e8d7536955a2_large.png?v=1751212094"
+    },
+    {
+      "product_number": "Ex9CKT25B30R7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-25/3 L 440V 50/60HZ, Noark Part: 1314292",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_15b07862-d07b-4a45-8119-4c200b7201c4_large.png?v=1751212095"
+    },
+    {
+      "product_number": "Ex9CKT25B30N7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-25/3 L 277V 50/60HZ, Noark Part: 1314291",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_ccfac57e-eb00-48f0-bf94-98fe869492d4_large.png?v=1751212095"
+    },
+    {
+      "product_number": "Ex9CKT25B30T7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-25/3 L 480V 50/60HZ, Noark Part: 1314293",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_71404e68-5164-4b59-9595-ea67a6053a56_large.png?v=1751212096"
+    },
+    {
+      "product_number": "Ex9CKT25B40B7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-25/4 L 24V 50/60HZ, Noark Part: 1314348",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_large.png?v=1751212096"
+    },
+    {
+      "product_number": "Ex9CKT25B40G7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-25/4 L 120V 50/60HZ, Noark Part: 1314349",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_6b853332-8c60-4d84-831a-5d3247ae566d_large.png?v=1751212098"
+    },
+    {
+      "product_number": "Ex9CKT25B40XU7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-25/4 L 208-240V 50/60HZ, Noark Part: 1314350",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_b9d78135-2a05-4de8-8fac-a6f035f1310c_large.png?v=1751212099"
+    },
+    {
+      "product_number": "Ex9CKT25B40N7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-25/4 L 277V 50/60HZ, Noark Part: 1314351",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_787aaff8-f3d0-4f68-88c2-302884c25e6d_large.png?v=1751212099"
+    },
+    {
+      "product_number": "Ex9CKT25B40R7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-25/4 L 440V 50/60HZ, Noark Part: 1314352",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_0a3d5403-21b4-46c9-b172-da0b8d9c68cb_large.png?v=1751212100"
+    },
+    {
+      "product_number": "Ex9CKT25B40T7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-25/4 L 480V 50/60HZ, Noark Part: 1314353",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_5550482f-6776-4b19-872d-38962a65a271_large.png?v=1751212101"
+    },
+    {
+      "product_number": "Ex9CKT25A30B7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-25/3 S 24V 50/60HZ, Noark Part: 1314318",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_096c911b-93df-4f45-a53f-177532ddf410_large.png?v=1751212101"
+    },
+    {
+      "product_number": "Ex9CKT25A30G7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-25/3 S 120V 50/60HZ, Noark Part: 1314319",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_27bcb2ef-8048-4587-bbb3-dd801062c30a_large.png?v=1751212102"
+    },
+    {
+      "product_number": "Ex9CKT25A30XU7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-25/3 S 208-240V 50/60HZ, Noark Part: 1314320",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_28d31e87-2749-4106-bded-b9321fc04392_large.png?v=1751212102"
+    },
+    {
+      "product_number": "Ex9CKT25A30R7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-25/3 S 440V 50/60HZ, Noark Part: 1314322",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_d466ff52-4c8b-4834-b80c-46c35c15b637_large.png?v=1751212103"
+    },
+    {
+      "product_number": "Ex9CKT25A40B7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-25/4 S 24V 50/60HZ, Noark Part: 1314378",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_012286b4-e6af-45ac-9e83-5765844d38a3_large.png?v=1751212104"
+    },
+    {
+      "product_number": "Ex9CKT25A30T7",
+      "description": "(Package of 6 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-25/3 S 480V 50/60HZ, Noark Part: 1314323",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B3_fd2098df-8709-4839-8db7-d975c3ac807d_large.png?v=1751212104"
+    },
+    {
+      "product_number": "Ex9CKT25A40XU7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-25/4 S 208-240V 50/60HZ, Noark Part: 1314380",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_fac2389c-1a36-4ed1-87c7-ab282406724e_large.png?v=1751212106"
+    },
+    {
+      "product_number": "Ex9CKT25A40G7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-25/4 S 120V 50/60HZ, Noark Part: 1314379",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_1d62cb02-1587-4d53-8c13-6afb53569e55_large.png?v=1751212105"
+    },
+    {
+      "product_number": "Ex9CKT25A40N7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-25/4 S 277V 50/60HZ, Noark Part: 1314381",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_afddc0df-8941-432a-97fa-5fae0600c870_large.png?v=1751212106"
+    },
+    {
+      "product_number": "Ex9CKT25A40R7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-25/4 S 440V 50/60HZ, Noark Part: 1314382",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_e170877b-ff92-46e3-afdb-9c3aaa76d2b2_large.png?v=1751212107"
+    },
+    {
+      "product_number": "Ex9CKT25A40T7",
+      "description": "(Package of 3 Pieces) 25A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-25/4 S 480V 50/60HZ, Noark Part: 1314383",
+      "price": 147.54,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/25B4_32413660-274d-48b3-93e9-8751576b9fe7_large.png?v=1751212108"
+    },
+    {
+      "product_number": "Ex9CKT30B30B7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-30/3 L 24V 50/60HZ, Noark Part: 1314294",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_large.png?v=1751212108"
+    },
+    {
+      "product_number": "Ex9CKT30B30G7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-30/3 L 120V 50/60HZ, Noark Part: 1314295",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_0d366a33-d63f-495a-ba3b-c184ee16a70b_large.png?v=1751212109"
+    },
+    {
+      "product_number": "Ex9CKT30B30XU7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-30/3 L 208-240V 50/60HZ, Noark Part: 1314296",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_00e7e647-f3c4-446a-b5f4-2e7581da7a69_large.png?v=1751212109"
+    },
+    {
+      "product_number": "Ex9CKT30B30N7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-30/3 L 277V 50/60HZ, Noark Part: 1314297",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_7b92ba4b-25a1-40d4-a2ad-bf1c75e92326_large.png?v=1751212110"
+    },
+    {
+      "product_number": "Ex9CKT30B30R7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-30/3 L 440V 50/60HZ, Noark Part: 1314298",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_34374bef-9d94-45ae-8462-06ef95275007_large.png?v=1751212111"
+    },
+    {
+      "product_number": "Ex9CKT30B30T7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-30/3 L 480V 50/60HZ, Noark Part: 1314299",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_76114a16-3a5e-4583-9979-eaab244213b8_large.png?v=1751212111"
+    },
+    {
+      "product_number": "Ex9CKT30B40B7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-30/4 L 24V 50/60HZ, Noark Part: 1314354",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_large.png?v=1751212112"
+    },
+    {
+      "product_number": "Ex9CKT30B40G7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-30/4 L 120V 50/60HZ, Noark Part: 1314355",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_8bebea9c-eed4-4711-8795-dbb71153e1a2_large.png?v=1751212113"
+    },
+    {
+      "product_number": "Ex9CKT30B40XU7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-30/4 L 208-240V 50/60HZ, Noark Part: 1314356",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_9a5f982c-fced-4889-9763-9b254d765be4_large.png?v=1751212113"
+    },
+    {
+      "product_number": "Ex9CKT30B40N7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-30/4 L 277V 50/60HZ, Noark Part: 1314357",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_4d0459c5-3cfd-4773-9bee-65d0da793839_large.png?v=1751212114"
+    },
+    {
+      "product_number": "Ex9CKT30B40R7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-30/4 L 440V 50/60HZ, Noark Part: 1314358",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_f4463a58-8e74-4e25-ac49-26630907337b_large.png?v=1751212115"
+    },
+    {
+      "product_number": "Ex9CKT30B40T7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-30/4 L 480V 50/60HZ, Noark Part: 1314359",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_0fddf5a3-ac08-420c-9424-329a181bdc07_large.png?v=1751212115"
+    },
+    {
+      "product_number": "Ex9CKT30A30B7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-30/3 S 24V 50/60HZ, Noark Part: 1314324",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_5860413f-481c-4cbf-b444-de97175c6986_large.png?v=1751212116"
+    },
+    {
+      "product_number": "Ex9CKT30A30G7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-30/3 S 120V 50/60HZ, Noark Part: 1314325",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_01203a03-7ba6-4c45-ad32-ac0980da64fb_large.png?v=1751212116"
+    },
+    {
+      "product_number": "Ex9CKT30A30XU7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-30/3 S 208-240V 50/60HZ, Noark Part: 1314326",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_e55ce766-95f2-4149-ace6-a40e3a35b37e_large.png?v=1751212117"
+    },
+    {
+      "product_number": "Ex9CKT30A30N7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-30/3 S 277V 50/60HZ, Noark Part: 1314327",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_40360a7d-496f-4742-ab5d-b92f4a7f263e_large.png?v=1751212118"
+    },
+    {
+      "product_number": "Ex9CKT30A30T7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-30/3 S 480V 50/60HZ, Noark Part: 1314329",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_60579f2e-7977-43ec-a04d-4381c1db2da2_large.png?v=1751212119"
+    },
+    {
+      "product_number": "Ex9CKT30A30R7",
+      "description": "(Package of 6 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-30/3 S 440V 50/60HZ, Noark Part: 1314328",
+      "price": 145.94,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B3_a167d856-5cc0-4bf1-b709-ab194a44edc0_large.png?v=1751212118"
+    },
+    {
+      "product_number": "Ex9CKT30A40B7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-30/4 S 24V 50/60HZ, Noark Part: 1314384",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_9be629fc-aca1-441f-8ced-7399ca3220be_large.png?v=1751212119"
+    },
+    {
+      "product_number": "Ex9CKT30A40G7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-30/4 S 120V 50/60HZ, Noark Part: 1314385",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_7d34d317-bdbd-42f5-bf18-9c1064348844_large.png?v=1751212120"
+    },
+    {
+      "product_number": "Ex9CKT30A40N7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-30/4 S 277V 50/60HZ, Noark Part: 1314387",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_20226627-23ae-40e2-9ec3-9967402bae01_large.png?v=1751212121"
+    },
+    {
+      "product_number": "Ex9CKT30A40XU7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-30/4 S 208-240V 50/60HZ, Noark Part: 1314386",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_91ee6bdc-e0a3-4229-b9e3-56804b139c08_large.png?v=1751212121"
+    },
+    {
+      "product_number": "Ex9CKT30A40T7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-30/4 S 480V 50/60HZ, Noark Part: 1314389",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_50c69a10-8bb5-4045-a459-6e0788151929_large.png?v=1751212122"
+    },
+    {
+      "product_number": "Ex9CKT30A40R7",
+      "description": "(Package of 3 Pieces) 30A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-30/4 S 440V 50/60HZ, Noark Part: 1314388",
+      "price": 169.88,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/30B4_374d658c-b54c-4d03-8c04-83a8b6c4e427_large.png?v=1751212122"
+    },
+    {
+      "product_number": "Ex9CKT32B30G7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-33/3 L 120V 50/60HZ, Noark Part: 1314301",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_large.png?v=1751212124"
+    },
+    {
+      "product_number": "Ex9CKT32B30B7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-33/3 L 24V 50/60HZ, Noark Part: 1314300",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_04985678-527d-44eb-b2e0-f38f7720b51d_large.png?v=1751212123"
+    },
+    {
+      "product_number": "Ex9CKT32B30N7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-33/3 L 277V 50/60HZ, Noark Part: 1314303",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_f4de2547-2d0e-4d4b-8a85-ce33ff95295d_large.png?v=1751212125"
+    },
+    {
+      "product_number": "Ex9CKT32B30XU7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-33/3 L 208-240V 50/60HZ, Noark Part: 1314302",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_cd2b3390-faf8-4b72-b952-63003a1e399b_large.png?v=1751212124"
+    },
+    {
+      "product_number": "Ex9CKT32B30R7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-33/3 L 440V 50/60HZ, Noark Part: 1314304",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_6d4ebc64-596f-4c37-8a6e-f7f2aae9dde9_large.png?v=1751212126"
+    },
+    {
+      "product_number": "Ex9CKT32B30T7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-33/3 L 480V 50/60HZ, Noark Part: 1314305",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_9bff051f-0d0e-40d6-a4d1-0e024f71f332_large.png?v=1751212126"
+    },
+    {
+      "product_number": "Ex9CKT32B40G7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-33/4 L 120V 50/60HZ, Noark Part: 1314361",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_large.png?v=1751212127"
+    },
+    {
+      "product_number": "Ex9CKT32B40B7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-33/4 L 24V 50/60HZ, Noark Part: 1314360",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_aae4e30e-734e-4528-9c69-186ebadfa3a6_large.png?v=1751212127"
+    },
+    {
+      "product_number": "Ex9CKT32B40XU7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-33/4 L 208-240V 50/60HZ, Noark Part: 1314362",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_4f50ac84-bfbf-4480-ab51-d63a06c149dd_large.png?v=1751212128"
+    },
+    {
+      "product_number": "Ex9CKT32B40N7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-33/4 L 277V 50/60HZ, Noark Part: 1314363",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_eaa0dd9a-b9f2-425b-b3bf-23cac444caea_large.png?v=1751212129"
+    },
+    {
+      "product_number": "Ex9CKT32B40R7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-33/4 L 440V 50/60HZ, Noark Part: 1314364",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_039f4072-5562-4c4f-be81-caebe455ebd4_large.png?v=1751212129"
+    },
+    {
+      "product_number": "Ex9CKT32B40T7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-33/4 L 480V 50/60HZ, Noark Part: 1314365",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_8bb86674-8611-4b9e-ac58-262d25a856ed_large.png?v=1751212130"
+    },
+    {
+      "product_number": "Ex9CKT32A30B7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-33/3 S 24V 50/60HZ, Noark Part: 1314330",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_171b4934-d028-4d09-bac3-b591e530b4b0_large.png?v=1751212130"
+    },
+    {
+      "product_number": "Ex9CKT32A30XU7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-33/3 S 208-240V 50/60HZ, Noark Part: 1314332",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_fd5d3f56-b593-4d38-98b8-bd8fd4170e8e_large.png?v=1751212131"
+    },
+    {
+      "product_number": "Ex9CKT32A30G7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-33/3 S 120V 50/60HZ, Noark Part: 1314331",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_e7c1c396-3398-450f-b88f-e302bf737133_large.png?v=1751212131"
+    },
+    {
+      "product_number": "Ex9CKT32A30N7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-33/3 S 277V 50/60HZ, Noark Part: 1314333",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_7ca106d6-d079-40a6-b0e4-b7445b8fb367_large.png?v=1751212132"
+    },
+    {
+      "product_number": "Ex9CKT32A30R7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-33/3 S 440V 50/60HZ, Noark Part: 1314334",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_6cf3df53-d122-474c-81fd-0e8ef3a3b4ee_large.png?v=1751212133"
+    },
+    {
+      "product_number": "Ex9CKT32A40B7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-32/4 S 24V 50/60HZ, Noark Part: 1314390",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_3968ea43-4894-49ab-8c6e-17e3e65e1f41_large.png?v=1751212134"
+    },
+    {
+      "product_number": "Ex9CKT32A30T7",
+      "description": "(Package of 6 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-33/3 S 480V 50/60HZ, Noark Part: 1314335",
+      "price": 158.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-3_ef1a4c64-29d5-470f-ba90-f566c58d4aad_large.png?v=1751212133"
+    },
+    {
+      "product_number": "Ex9CKT32A40XU7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-32/4 S 208-240V 50/60HZ, Noark Part: 1314392",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_e37ce64f-6b5e-4f51-9448-7e9ae09ecc43_large.png?v=1751212135"
+    },
+    {
+      "product_number": "Ex9CKT32A40G7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-32/4 S 120V 50/60HZ, Noark Part: 1314391",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_9a66e7cf-eb8d-4233-87d6-8c1e0937e51b_large.png?v=1751212134"
+    },
+    {
+      "product_number": "Ex9CKT32A40R7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-32/4 S 440V 50/60HZ, Noark Part: 1314394",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_9f53462d-cc49-46a1-8682-a68dae64b580_large.png?v=1751212136"
+    },
+    {
+      "product_number": "Ex9CKT32A40N7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-32/4 S 277V 50/60HZ, Noark Part: 1314393",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_f26f43c0-acc5-4bd7-9215-a46a62564bbf_large.png?v=1751212135"
+    },
+    {
+      "product_number": "Ex9CKT40B30B7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-40/3 L 24V 50/60HZ, Noark Part: 1314306",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_large.png?v=1751212137"
+    },
+    {
+      "product_number": "Ex9CKT32A40T7",
+      "description": "(Package of 3 Pieces) 32A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-32/4 S 480V 50/60HZ, Noark Part: 1314395",
+      "price": 182.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/32-4_0077cc8d-3300-49d7-a6f7-241776e3efaf_large.png?v=1751212137"
+    },
+    {
+      "product_number": "Ex9CKT40B30G7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-40/3 L 120V 50/60HZ, Noark Part: 1314307",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_7ec0f0d6-42a2-48ab-b0c0-9c67bb74ee5a_large.png?v=1751212138"
+    },
+    {
+      "product_number": "Ex9CKT40B30N7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-40/3 L 277V 50/60HZ, Noark Part: 1314309",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_2c3b578a-55a8-40ca-a376-32ff386e13bf_large.png?v=1751212139"
+    },
+    {
+      "product_number": "Ex9CKT40B30XU7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-40/3 L 208-240V 50/60HZ, Noark Part: 1314308",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_47b92a99-2555-40ad-a9ed-80791f96b29c_large.png?v=1751212139"
+    },
+    {
+      "product_number": "Ex9CKT40B30R7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-40/3 L 440V 50/60HZ, Noark Part: 1314310",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_c88413f6-4d79-4378-bbe9-be78c94e8b2f_large.png?v=1751212140"
+    },
+    {
+      "product_number": "Ex9CKT40B30T7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-40/3 L 480V 50/60HZ, Noark Part: 1314311",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_a2bb36a9-8aa8-45dc-929c-349adf5d6b38_large.png?v=1751212140"
+    },
+    {
+      "product_number": "Ex9CKT40B40G7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-40/4 L 120V 50/60HZ, Noark Part: 1314367",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_large.png?v=1751212142"
+    },
+    {
+      "product_number": "Ex9CKT40B40B7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-40/4 L 24V 50/60HZ, Noark Part: 1314366",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_bab5b376-288a-4a80-abb7-59c2778cb073_large.png?v=1751212141"
+    },
+    {
+      "product_number": "Ex9CKT40B40XU7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-40/4 L 208-240V 50/60HZ, Noark Part: 1314368",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_8de184af-62dd-4251-ae43-ee982f0ce71e_large.png?v=1751212142"
+    },
+    {
+      "product_number": "Ex9CKT40B40R7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-40/4 L 440V 50/60HZ, Noark Part: 1314370",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_b81e562b-3acf-4a7f-8588-d9e3904f307a_large.png?v=1751212143"
+    },
+    {
+      "product_number": "Ex9CKT40B40N7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-40/4 L 277V 50/60HZ, Noark Part: 1314369",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_ac550d30-ef9a-415e-a3b1-80b1aa28ca7d_large.png?v=1751212143"
+    },
+    {
+      "product_number": "Ex9CKT40A30B7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 3NO, Chint Description: NCK5-40/3 S 24V 50/60HZ, Noark Part: 1314336",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_34435be9-e96e-4baf-86a3-4c1b0808683c_large.png?v=1751212145"
+    },
+    {
+      "product_number": "Ex9CKT40B40T7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Lugs Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-40/4 L 480V 50/60HZ, Noark Part: 1314371",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_a0fbffc9-cad2-4517-b689-d1fa7ac5248e_large.png?v=1751212144"
+    },
+    {
+      "product_number": "Ex9CKT40A30XU7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 3NO, Chint Description: NCK5-40/3 S 208-240V 50/60HZ, Noark Part: 1314338",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_6cdb0eb3-571f-40c5-918e-d03d5e210d6c_large.png?v=1751212146"
+    },
+    {
+      "product_number": "Ex9CKT40A30G7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 3NO, Chint Description: NCK5-40/3 S 120V 50/60HZ, Noark Part: 1314337",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_82a4e623-06d7-409b-b50c-2143c0fac11d_large.png?v=1751212145"
+    },
+    {
+      "product_number": "Ex9CKT40A30R7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 3NO, Chint Description: NCK5-40/3 S 440V 50/60HZ, Noark Part: 1314340",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_32814641-c0bf-42ce-9741-976a646f4004_large.png?v=1751212147"
+    },
+    {
+      "product_number": "Ex9CKT40A30N7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 3NO, Chint Description: NCK5-40/3 S 277V 50/60HZ, Noark Part: 1314339",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_68bfd312-5672-44c8-87b7-8b10268be85e_large.png?v=1751212146"
+    },
+    {
+      "product_number": "Ex9CKT40A40B7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 24V 50/60Hz, 4NO, Chint Description: NCK5-40/4 S 24V 50/60HZ, Noark Part: 1314396",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_8c6b4553-3ecc-4d84-a6bc-124300583c53_large.png?v=1751212148"
+    },
+    {
+      "product_number": "Ex9CKT40A30T7",
+      "description": "(Package of 6 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 3NO, Chint Description: NCK5-40/3 S 480V 50/60HZ, Noark Part: 1314341",
+      "price": 170.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-3_bb582097-4e8a-4379-bf7f-11d79e6b64ea_large.png?v=1751212148"
+    },
+    {
+      "product_number": "Ex9CKT40A40XU7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 208-240V 50/60HZ, 4NO, Chint Description: NCK5-40/4 S 208-240V 50/60HZ, Noark Part: 1314398",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_f6633a2d-8389-478b-9ace-004caa403b8d_large.png?v=1751212150"
+    },
+    {
+      "product_number": "Ex9CKT40A40G7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 120V 50/60Hz, 4NO, Chint Description: NCK5-40/4 S 120V 50/60HZ, Noark Part: 1314397",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_446eb2b1-1454-4a0b-a563-f94ba792c729_large.png?v=1751212149"
+    },
+    {
+      "product_number": "Ex9CKT40A40N7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 277V 50/60HZ, 4NO, Chint Description: NCK5-40/4 S 277V 50/60HZ, Noark Part: 1314399",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_4ca61919-46ef-40d9-9ace-0ec2038e825e_large.png?v=1751212150"
+    },
+    {
+      "product_number": "Ex9CKT40A40R7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 440V 50/60HZ, 4NO, Chint Description: NCK5-40/4 S 440V 50/60HZ, Noark Part: 1314400",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_d1e12352-e12f-423e-bf14-01d523063273_large.png?v=1751212151"
+    },
+    {
+      "product_number": "Ex9CKT40A40T7",
+      "description": "(Package of 2 Pieces) 40A Noark Definite Purpose (DP) Contactor, Screw Type, 480V 50/60HZ, 4NO, Chint Description: NCK5-40/4 S 480V 50/60HZ, Noark Part: 1314401",
+      "price": 130.34,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/40-4_7ca5aaf9-fb9a-4fb1-a0ab-89efdee9454b_large.png?v=1751212151"
+    }
+  ]
+}

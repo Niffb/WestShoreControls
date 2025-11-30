@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_number": "PCL185",
+      "description": "(Package of 2 Pieces) Noark Ex9CS Power Connection for Contactor, 115~185A, UL 489, Order Number: 1330032",
+      "price": 156,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Power_Connection_large.png?v=1611083560"
+    },
+    {
+      "product_number": "PCL300",
+      "description": "(Package of 12 Pieces) Noark Ex9CS Power Connection for Contactor, 225~300A, UL 489, Order Number: 1330033",
+      "price": 218.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Power_Connection_a7daa33a-b990-49aa-926d-54b8f4c50e44_large.png?v=1611083561"
+    },
+    {
+      "product_number": "PCL500",
+      "description": "Noark Ex9CS Power Connection for Contactor, 400~500A, UL 489, Order Number: 1330034",
+      "price": 234,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Power_Connection_d48ee2ff-7151-47ec-a23d-b81c86bdc235_large.png?v=1611083562"
+    }
+  ]
+}

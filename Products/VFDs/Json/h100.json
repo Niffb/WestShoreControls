@@ -1,0 +1,200 @@
+{
+    "products": [
+      {
+        "product_number": "LSLV0008H100-2CONN",
+        "description": "1HP LS H100 HVAC Drive, Three Phase, 200-240V, 5A Constant Torque.",
+        "price": 276.22,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037H100-2CONN",
+        "description": "5HP LS H100 HVAC Drive, Three Phase, 200-240V, 16A Constant Torque.",
+        "price": 386.44,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022H100-2CONN",
+        "description": "3HP LS H100 HVAC Drive, Three Phase, 200-240V, 12A Constant Torque.",
+        "price": 324.77,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015H100-2CONN",
+        "description": "2HP LS H100 HVAC Drive, Three Phase, 200-240V, 8A Constant Torque.",
+        "price": 307.71,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0075H100-2CONN",
+        "description": "10HP LS H100 HVAC Drive, Three Phase, 200-240V, 30A Constant Torque.",
+        "price": 562.93,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0055H100-2CONN",
+        "description": "7.5HP LS H100 HVAC Drive, Three Phase, 200-240V, 22A Constant Torque.",
+        "price": 466.49,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0110H100-2CONN",
+        "description": "15HP LS H100 HVAC Drive, Three Phase, 200-240V, 42A Constant Torque.",
+        "price": 757.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0150H100-2CONN",
+        "description": "20HP LS H100 HVAC Drive, Three Phase, 200-240V, 56A Constant Torque.",
+        "price": 927.07,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0185H100-2CONN",
+        "description": "25HP LS H100 HVAC Drive, Three Phase, 200-240V, 69A Constant Torque.",
+        "price": 1192.13,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008H100-4COFN",
+        "description": "1HP LS H100 HVAC Drive, Three Phase, 380-480V, 2.5A Constant Torque, Built-in EMC Filter.",
+        "price": 354.78,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015H100-4COFN",
+        "description": "2HP LS H100 HVAC Drive, Three Phase, 380-480V, 4A Constant Torque, Built-in EMC Filter.",
+        "price": 376.65,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022H100-4COFN",
+        "description": "3HP LS H100 HVAC Drive, Three Phase, 380-480V, 6A Constant Torque, Built-in EMC Filter.",
+        "price": 406.62,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037H100-4COFN",
+        "description": "5HP LS H100 HVAC Drive, Three Phase, 380-480V, 8A Constant Torque, Built-in EMC Filter.",
+        "price": 468.99,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0055H100-4COFN",
+        "description": "7.5HP LS H100 HVAC Drive, Three Phase, 380-480V, 12A Constant Torque, Built-in EMC Filter.",
+        "price": 522.45,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0075H100-4COFN",
+        "description": "10HP LS H100 HVAC Drive, Three Phase, 380-480V, 16A Constant Torque, Built-in EMC Filter.",
+        "price": 613.98,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0110H100-4COFN",
+        "description": "15HP LS H100 HVAC Drive, Three Phase, 380-480V, 24A Constant Torque, Built-in EMC Filter.",
+        "price": 787.32,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0185H100-4COFN",
+        "description": "25HP LS H100 HVAC Drive, Three Phase, 380-480V, 38A Constant Torque, Built-in EMC Filter.",
+        "price": 1256.31,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0150H100-4COFN",
+        "description": "20HP LS H100 HVAC Drive, Three Phase, 380-480V, 30A Constant Torque, Built-in EMC Filter.",
+        "price": 981.72,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0220H100-4COFN",
+        "description": "30HP LS H100 HVAC Drive, Three Phase, 380-480V, 45A Constant Torque, Built-in EMC Filter.",
+        "price": 1476.63,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0300H100-4COFN",
+        "description": "40HP LS H100 HVAC Drive, Three Phase, 380-480V, 61A Constant Torque, Built-in EMC Filter.",
+        "price": 1781.19,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0370H100-4COFD",
+        "description": "50HP LS H100 HVAC Drive, Three Phase, 380-480V, 75A Constant Torque, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 2252.61,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0450H100-4COND",
+        "description": "60HP LS H100 HVAC Drive, Three Phase, 380-480V, 91A Constant Torque, Built-in DC Reactor.",
+        "price": 2586.33,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0370H100-4COND",
+        "description": "50HP LS H100 HVAC Drive, Three Phase, 380-480V, 75A Constant Torque, Built-in DC Reactor.",
+        "price": 2214.54,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0550H100-4COND",
+        "description": "75HP LS H100 HVAC Drive, Three Phase, 380-480V, 107A Constant Torque, Built-in DC Reactor.",
+        "price": 2893.32,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0450H100-4COFD",
+        "description": "60HP LS H100 HVAC Drive, Three Phase, 380-480V, 91A Constant Torque, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 2624.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0550H100-4COFD",
+        "description": "75HP LS H100 HVAC Drive, Three Phase, 380-480V, 107A Constant Torque, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 2931.39,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0750H100-4COND",
+        "description": "100HP LS H100 HVAC Drive, Three Phase, 380-480V, 142A Constant Torque, Built-in DC Reactor.",
+        "price": 3512.97,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      },
+      {
+        "product_number": "LSLV0900H100-4COND",
+        "description": "125HP LS H100 HVAC Drive, Three Phase, 380-480V, 169A Constant Torque, Built-in DC Reactor.",
+        "price": 4219.29,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_H100_200-240V_medium.avif"
+      }
+    ]
+  }

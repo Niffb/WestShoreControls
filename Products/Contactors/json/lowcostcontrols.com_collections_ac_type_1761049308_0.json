@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "product_number": "MC-9a AC-120",
+      "description": "(Package of 6 Pieces) 9A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a/1b",
+      "price": 126.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_a6b9a276-31be-42b5-8cb0-63ab96f88210_large.jpg?v=1604682365"
+    },
+    {
+      "product_number": "MC-6a AC-120",
+      "description": "(Package of 6 Pieces) 6A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a/1b",
+      "price": 126.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_ae415aba-d050-4b60-8e4d-1a0f4c21f55b_large.jpg?v=1604682364"
+    },
+    {
+      "product_number": "MC-18a AC-120",
+      "description": "(Package of 6 Pieces) 18A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a/1b",
+      "price": 180.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_4ff504ab-e6aa-4aac-9c52-b8cf3e818396_large.jpg?v=1604682367"
+    },
+    {
+      "product_number": "MC-12a AC-120",
+      "description": "(Package of 6 Pieces) 12A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a/1b",
+      "price": 132.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_3c2eb86d-296d-48d1-b814-ee75cdf85e29_large.jpg?v=1604682366"
+    },
+    {
+      "product_number": "MC-9b AC-120",
+      "description": "(Package of 6 Pieces) 9A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a1b",
+      "price": 138.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_c3c27025-22d8-4242-9c9f-22ab18dbbda1_large.jpg?v=1604682368"
+    },
+    {
+      "product_number": "MC-12b AC-120",
+      "description": "(Package of 6 Pieces) 12A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a1b",
+      "price": 150.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_93764ae5-8118-4b90-ab35-fd4f29140ed6_large.jpg?v=1604682369"
+    },
+    {
+      "product_number": "MC-22b AC-120",
+      "description": "(BOX OF 3 PIECES) 22A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a1b",
+      "price": 123.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_e2157bd4-669e-4acd-a364-b3f35126dbdc_large.jpg?v=1604682372"
+    },
+    {
+      "product_number": "MC-18b AC-120",
+      "description": "(Package of 6 Pieces) 18A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 1a1b",
+      "price": 192.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_d5ccec56-21d2-47bd-876c-f5c1cc4a1e9b_large.jpg?v=1604682370"
+    },
+    {
+      "product_number": "MC-40a AC-120",
+      "description": "(Package of 2 Pieces) 40A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 2a2b",
+      "price": 150.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_0032814a-872c-4fae-8383-bdbb26dc21b1_large.jpg?v=1604682374"
+    },
+    {
+      "product_number": "MC-32a AC-120",
+      "description": "(BOX OF 3 PIECES) 32A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 2a2b",
+      "price": 171.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_f20a62d3-653f-4050-8ecd-10683584101f_large.jpg?v=1604682373"
+    },
+    {
+      "product_number": "MC-65a AC-120",
+      "description": "65A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 2a2b",
+      "price": 118.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_9461e232-8b24-49ff-b431-da2b2441e7f2_large.jpg?v=1604682376"
+    },
+    {
+      "product_number": "MC-50a AC-120",
+      "description": "50A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 2a2b",
+      "price": 104.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_25a508b3-ea88-4f76-b48b-a7b21c1414d4_large.jpg?v=1604682375"
+    },
+    {
+      "product_number": "MC-85a AC-120",
+      "description": "85A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 2a2b",
+      "price": 160.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_a6a181f5-b523-429b-a063-0cd0a44dd08c_large.jpg?v=1604682378"
+    },
+    {
+      "product_number": "MC-75a AC-120",
+      "description": "75A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 2a2b",
+      "price": 135.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_f219b812-c52c-4975-b146-5a199b640241_large.jpg?v=1604682377"
+    },
+    {
+      "product_number": "MC-100a AC-120",
+      "description": "100A LS Metasol Contactor, 110-120V, 3 Pole, Auxiliary 2a2b",
+      "price": 214.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Metasol_Contactors_c1908eae-011f-4306-9259-4c8b922b0425_large.jpg?v=1604682378"
+    }
+  ]
+}

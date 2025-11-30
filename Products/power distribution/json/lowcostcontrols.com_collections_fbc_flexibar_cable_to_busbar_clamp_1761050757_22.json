@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "product_number": "FBC5X6",
+      "description": "(Package of 3 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 2.5 mm² ~ 16 mm² Stranded, Conductor Width: 6mm, Busbar Thickness: 5 mm, 15 Piece in a package, Part no: 553400",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_c0897705-2361-47bf-bca2-083a5614d6f2_large.jpg?v=1604847783"
+    },
+    {
+      "product_number": "FBC5X4",
+      "description": "(Package of 4 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 1 mm² ~ 4 mm² Stranded, Busbar Thickness: 5 mm, 15 Piece in a package, Part no: 553405",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_1bcda660-e1fe-4c43-bfe8-5562ee81eed9_large.jpg?v=1604847727"
+    },
+    {
+      "product_number": "FBC5X9",
+      "description": "(Package of 3 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 16 mm² ~ 50 mm² Stranded, Conductor Width: 9mm, Busbar Thickness: 5 mm, 15 Piece in a package, Part no: 553410",
+      "price": 183.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_d961b44e-58b3-4046-9234-031b4844d08c_large.jpg?v=1604847716"
+    },
+    {
+      "product_number": "FBC10X6",
+      "description": "(Package of 3 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 2.5 mm² ~ 16 mm² Stranded, Conductor Width: 6mm, Busbar Thickness: 10 mm, 15 Piece in a package, Part no: 553430",
+      "price": 172.72,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_740194e0-018e-409f-a47b-9f7bc7e23144_large.jpg?v=1604847705"
+    },
+    {
+      "product_number": "FBC10X4",
+      "description": "(Package of 4 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 1 mm² ~ 4 mm² Stranded, Busbar Thickness: 10 mm, 15 Piece in a package, Part no: 553505",
+      "price": 137.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_b3393c28-99ef-46a2-ab20-d1bb1971bffb_large.jpg?v=1604847684"
+    },
+    {
+      "product_number": "FBC10X9",
+      "description": "(Package of 2 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 16 mm² ~ 50 mm² Stranded, Conductor Width: 9mm, Busbar Thickness: 10 mm, 15 Piece in a package, Part no: 553440",
+      "price": 164.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_a3df91bc-c37c-4ffc-890f-f2e1b11e148b_large.jpg?v=1604847694"
+    },
+    {
+      "product_number": "FBC5X20",
+      "description": "(Package of 2 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 70 mm² ~ 185 mm² Stranded, Conductor Width: 20mm, Busbar Thickness: 5 mm, 15 Piece in a package, Part no: 553520",
+      "price": 222.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_1a6d4f4b-4d1f-4148-aa27-c7f85af0867a_large.jpg?v=1604847659"
+    },
+    {
+      "product_number": "FBC5X15-5",
+      "description": "(Package of 2 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 35 mm² ~ 70 mm² Stranded, Conductor Width: 15.5mm, Busbar Thickness: 5 mm, 15 Piece in a package, Part no: 553510",
+      "price": 208.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_0d5c37d8-c873-4853-b893-69d3c2db86f9_large.jpg?v=1604847672"
+    },
+    {
+      "product_number": "FBC10X15-5",
+      "description": "(Package of 2 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 35 mm² ~ 70 mm² Stranded, Conductor Width: 15.5mm, Busbar Thickness: 10 mm, 15 Piece in a package, Part no: 553530",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_d9354805-65af-4e63-8662-8b99f8afcc0a_large.jpg?v=1604847636"
+    },
+    {
+      "product_number": "FBC10X20",
+      "description": "(Package of 2 Pieces) ERIFLEX FBC nVent ERIFLEX Flexibar/Cable to Busbar Clamp, Material: Steel, Conductor Size: 70 mm² ~ 185 mm² Stranded, Conductor Width: 20mm, Busbar Thickness: 10 mm, 15 Piece in a package, Part no: 553540",
+      "price": 230.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_large.jpg?v=1604847639"
+    }
+  ]
+}

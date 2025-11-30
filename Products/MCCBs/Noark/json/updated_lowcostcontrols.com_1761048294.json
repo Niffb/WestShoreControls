@@ -1,0 +1,382 @@
+{
+  "products": [
+    {
+      "product_number": "E3R-XNM4H400T3L",
+      "description": "No description available",
+      "price": 4512.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_caddaf43-daeb-4620-8e18-feddb33f88e3_large.jpg?v=1757168949"
+    },
+    {
+      "product_number": "E12-XNM4H400T3L",
+      "description": "No description available",
+      "price": 4512.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_e300fd48-fbb2-4970-8f1a-bb734ee03ba8_large.jpg?v=1757168948"
+    },
+    {
+      "product_number": "E01-XNM4H400T3L",
+      "description": "No description available",
+      "price": 4332.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_f8a029e8-6a86-4f5d-a72b-77d46978aaf7_large.jpg?v=1757168947"
+    },
+    {
+      "product_number": "E3R-4BM4H400T3L",
+      "description": "No description available",
+      "price": 4832.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_0683e2d9-1518-4f36-b176-72fe3e9a5e53_large.jpg?v=1757168946"
+    },
+    {
+      "product_number": "E12-4BM4H400T3L",
+      "description": "No description available",
+      "price": 4832.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_d8fbeb78-d40b-44de-acca-e521f6e82405_large.jpg?v=1757168945"
+    },
+    {
+      "product_number": "E01-4BM4H400T3L",
+      "description": "No description available",
+      "price": 4652.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_846168f4-5e01-4581-8da4-de41f5953019_large.jpg?v=1757168944"
+    },
+    {
+      "product_number": "E3R-XNM4H600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4H600T3L",
+      "price": 4512.81,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_eb9d6a8f-9bf7-4f95-a373-119b24ad2843_large.jpg?v=1757168943"
+    },
+    {
+      "product_number": "E3R-XNM4H500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4H500T3L",
+      "price": 4512.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_d334b582-7582-43fd-9bdb-aee9975f503a_large.jpg?v=1757168942"
+    },
+    {
+      "product_number": "E3R-XNM4N600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4N600T3L",
+      "price": 3765.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_8b937f90-a609-4f6e-955d-2bc9c980596b_large.jpg?v=1757168942"
+    },
+    {
+      "product_number": "E3R-XNM4N500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4N500T3L",
+      "price": 3765.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_9f76062b-6e95-405d-b6ff-7129d5c0d7f1_large.jpg?v=1757168940"
+    },
+    {
+      "product_number": "E3R-XNM4N400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4N400T3L",
+      "price": 3765.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_196d4d6e-bb52-46f4-83cb-d3f210931f23_large.jpg?v=1757168940"
+    },
+    {
+      "product_number": "E3R-XNM4S600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4S600T3L",
+      "price": 3564.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_d3879f81-032d-4a89-939b-f944fe4b9fa9_large.jpg?v=1757168939"
+    },
+    {
+      "product_number": "E3R-XNM4S500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4S500T3L",
+      "price": 3564.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_c589bc89-3fe1-4e90-b731-4061952693ee_large.jpg?v=1757168938"
+    },
+    {
+      "product_number": "E3R-XNM4S400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3RXNM4S400T3L",
+      "price": 3564.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_714fb2e7-1407-4140-baa2-5f7d5a123e8e_large.jpg?v=1757168937"
+    },
+    {
+      "product_number": "E3R-4BM4H600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4H600T3L",
+      "price": 4832.81,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_3cea9b4c-619d-4c56-9e74-36f87f193560_large.jpg?v=1757168936"
+    },
+    {
+      "product_number": "E3R-4BM4H500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4H500T3L",
+      "price": 4832.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_524a56fe-62f4-407e-816b-980174127068_large.jpg?v=1757168935"
+    },
+    {
+      "product_number": "E3R-4BM4N600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4N600T3L",
+      "price": 4085.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_28129639-74f8-4ca8-be60-fa09bad22608_large.jpg?v=1757168934"
+    },
+    {
+      "product_number": "E3R-4BM4N500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4N500T3L",
+      "price": 4085.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_38c6c348-2388-4e9c-8f71-6f06ae4d4eb2_large.jpg?v=1757168933"
+    },
+    {
+      "product_number": "E3R-4BM4N400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4N400T3L",
+      "price": 4085.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_8f03c9c0-a020-4b91-b82d-ea324c77428b_large.jpg?v=1757168932"
+    },
+    {
+      "product_number": "E3R-4BM4S600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4S600T3L",
+      "price": 3884.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_5ed740ca-8a65-479b-8129-36a6ab9d6389_large.jpg?v=1757168931"
+    },
+    {
+      "product_number": "E3R-4BM4S500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4S500T3L",
+      "price": 3884.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_f18901e8-76d2-477b-9b94-0a8c7a37cf4f_large.jpg?v=1757168930"
+    },
+    {
+      "product_number": "E3R-4BM4S400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 3R, equivalent to E3R4BM4S400T3L",
+      "price": 3884.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_3c2675a0-db19-41f3-b273-03a229467314_large.jpg?v=1757168929"
+    },
+    {
+      "product_number": "E12-XNM4H600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4H600T3L",
+      "price": 4512.81,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_6816b141-9e7e-4562-aa0b-fd01e189253f_large.jpg?v=1757168928"
+    },
+    {
+      "product_number": "E12-XNM4H500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4H500T3L",
+      "price": 4512.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_2e5622e8-f3b7-4858-a5a5-b5ba9b3342e9_large.jpg?v=1757168927"
+    },
+    {
+      "product_number": "E12-XNM4N600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4N600T3L",
+      "price": 3765.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_b4e0d5ee-9602-4a75-88ea-e37202c09dad_large.jpg?v=1757168926"
+    },
+    {
+      "product_number": "E12-XNM4N500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4N500T3L",
+      "price": 3765.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_b200bc11-a3b2-4521-841f-756d55f4f4cc_large.jpg?v=1757168926"
+    },
+    {
+      "product_number": "E12-XNM4N400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4N400T3L",
+      "price": 3765.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_e52f4bf0-2846-4f0a-b2bd-9eb113782af2_large.jpg?v=1757168925"
+    },
+    {
+      "product_number": "E12-XNM4S600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4S600T3L",
+      "price": 3564.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_a83a84ad-e8d3-4f12-98ec-b8a61f02518f_large.jpg?v=1757168924"
+    },
+    {
+      "product_number": "E12-XNM4S500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4S500T3L",
+      "price": 3564.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_fef146bb-bedf-487c-b548-e51a4b2b26b8_large.jpg?v=1757168923"
+    },
+    {
+      "product_number": "E12-XNM4S400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E12XNM4S400T3L",
+      "price": 3564.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_4e1e195d-298a-4c5a-a94c-e159be18a568_large.jpg?v=1757168923"
+    },
+    {
+      "product_number": "E12-4BM4H600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4H600T3L",
+      "price": 4832.81,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_75b0aed9-7f58-43dd-bed0-b9c96d5c3337_large.jpg?v=1757168921"
+    },
+    {
+      "product_number": "E12-4BM4H500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4H500T3L",
+      "price": 4832.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_8dfa38fe-8cac-4fea-846b-775b0c36df0b_large.jpg?v=1757168920"
+    },
+    {
+      "product_number": "E12-4BM4N600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4N600T3L",
+      "price": 4085.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_1bfbb3db-e5fd-4c12-9ffc-d98523ed160f_large.jpg?v=1757168919"
+    },
+    {
+      "product_number": "E12-4BM4N500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4N500T3L",
+      "price": 4085.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_1f25763c-2c8a-4c15-ae99-59401253bb19_large.jpg?v=1757168918"
+    },
+    {
+      "product_number": "E12-4BM4N400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4N400T3L",
+      "price": 4085.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_3391328d-4e9b-4625-a247-0bf96b93ac4b_large.jpg?v=1757168917"
+    },
+    {
+      "product_number": "E12-4BM4S600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4S600T3L",
+      "price": 3884.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_bd1408c3-121d-4708-85bc-4555f4fc057b_large.jpg?v=1757168917"
+    },
+    {
+      "product_number": "E12-4BM4S500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4S500T3L",
+      "price": 3884.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_1f73e244-99ec-4d78-b13b-6a5ad5def93f_large.jpg?v=1757168916"
+    },
+    {
+      "product_number": "E12-4BM4S400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 12, equivalent to E124BM4S400T3L",
+      "price": 3884.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_a27171e0-7753-4295-9e5e-8bef116a98ca_large.jpg?v=1757168915"
+    },
+    {
+      "product_number": "E01-XNM4H600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4H600T3L",
+      "price": 4332.81,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_59e94811-ba19-4288-8388-2b5bd984faf6_large.jpg?v=1757168914"
+    },
+    {
+      "product_number": "E01-XNM4H500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4H500T3L",
+      "price": 4332.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_8fd9c369-cde9-41dd-9468-d4cbb4c98b53_large.jpg?v=1757168913"
+    },
+    {
+      "product_number": "E01-XNM4N600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4N600T3L",
+      "price": 3585.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_140aff0e-7cb7-417c-a206-edab1ee10c9f_large.jpg?v=1757168912"
+    },
+    {
+      "product_number": "E01-XNM4N500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4N500T3L",
+      "price": 3585.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_829dbb05-2666-4de4-a8d1-bbb1acd4ba48_large.jpg?v=1757168911"
+    },
+    {
+      "product_number": "E01-XNM4N400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4N400T3L",
+      "price": 3585.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_32a13868-4f35-435f-adf4-f893c6ff3021_large.jpg?v=1757168910"
+    },
+    {
+      "product_number": "E01-XNM4S600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4S600T3L",
+      "price": 3384.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_7295df66-bcac-4ffd-b8f1-36efac0edc89_large.jpg?v=1757168910"
+    },
+    {
+      "product_number": "E01-XNM4S500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4S500T3L",
+      "price": 3384.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_29ff8c43-d7d0-4bd5-ba7b-436a7bd1e7ce_large.jpg?v=1757168909"
+    },
+    {
+      "product_number": "E01-XNM4S400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (3-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E01XNM4S400T3L",
+      "price": 3384.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_67930a8e-6248-4adf-b2c4-147f4595439e_large.jpg?v=1757168908"
+    },
+    {
+      "product_number": "E01-4BM4H600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4H600T3L",
+      "price": 4652.81,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_2653703a-76dd-49e9-b89c-81a84009e713_large.jpg?v=1757168907"
+    },
+    {
+      "product_number": "E01-4BM4H500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 50kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4H500T3L",
+      "price": 4652.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_56ebef57-facc-4f1d-b910-28b2f9c59e60_large.jpg?v=1757168906"
+    },
+    {
+      "product_number": "E01-4BM4N600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4N600T3L",
+      "price": 3905.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_c1505fd3-bcf9-4670-ab94-794f9019df4a_large.jpg?v=1757168905"
+    },
+    {
+      "product_number": "E01-4BM4N500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4N500T3L",
+      "price": 3905.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_7e13fc9c-f221-49f5-8c19-c95ee01f38ac_large.jpg?v=1757168904"
+    },
+    {
+      "product_number": "E01-4BM4N400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Neutral pole with 100% protection, Interrupting capacity: 30kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4N400T3L",
+      "price": 3905.22,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_e0981d24-1156-466b-a36c-48ee7ef631df_large.jpg?v=1757168903"
+    },
+    {
+      "product_number": "E01-4BM4S600T3L",
+      "description": "600A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 600A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4S600T3L",
+      "price": 3704.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_e498f98c-276d-44b9-b57a-21125ccbc590_large.jpg?v=1757168902"
+    },
+    {
+      "product_number": "E01-4BM4S500T3L",
+      "description": "500A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 500A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4S500T3L",
+      "price": 3704.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_9d044082-b929-4a32-a9d1-8743ca5678ef_large.jpg?v=1757168901"
+    },
+    {
+      "product_number": "E01-4BM4S400T3L",
+      "description": "400A NOARK Enclosed Moulded Case Circuit Breaker (MCCB), UL 489 listed, Ex9M4 series, 3-poles (3P3d), Rated current: 400A, Neutral pole with 100% protection, Interrupting capacity: 22kA (600Vac), Lugs on both load and line sides (4-wires), Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)), Trip unit: NEMA 1, equivalent to E014BM4S400T3L",
+      "price": 3704.96,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_Enclosed_Breaker_6faf5fb9-e627-4534-b476-22a740ccf723_large.jpg?v=1757168900"
+    }
+  ]
+}

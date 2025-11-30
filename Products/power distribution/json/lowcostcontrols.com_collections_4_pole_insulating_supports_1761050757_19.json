@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "product_number": "BS-125A",
+      "description": "(Package of 2 Pieces) ERIFLEX BS-125A Four Pole Insulating Support, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 125 ~ 160 A, Busbar Width: 12 ~ 15 mm, Busbar Thickness: 4 ~ 5 mm, 10 Pieces in a package, Part no: 551311",
+      "price": 240.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_4b49ecf4-b976-4382-926a-f07dd40688ee_large.jpg?v=1604842920"
+    },
+    {
+      "product_number": "BS-250A",
+      "description": "ERIFLEX BS-250A Four Pole Insulating Support, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 160 ~ 250 A, Busbar Width: 15 ~ 20 mm, Busbar Thickness: 5 mm, 10 Pieces in a package, Part no: 551300",
+      "price": 126.17,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_1bb154d0-76c0-46f9-9de9-f512165dfc6a_large.jpg?v=1604842913"
+    },
+    {
+      "product_number": "BS-400A",
+      "description": "(Package of 2 Pieces) ERIFLEX BS-400A Four Pole Insulating Support, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 160 ~ 630 A, Busbar Width: 15 ~ 32 mm, Busbar Thickness: 5 ~10 mm, 2 Pieces in a package, Part no: 551250",
+      "price": 159.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_dec8fa7f-57b2-4cc3-99fc-556b60f18584_large.jpg?v=1604842912"
+    },
+    {
+      "product_number": "BSC-125A",
+      "description": "ERIFLEX BSC-125A Four Pole Insulating Support, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 125 ~ 160 A, Busbar Width: 12 ~ 15 mm, Busbar Thickness: 4 ~ 5 mm, 10 Pieces in a package, Part no: 551321",
+      "price": 144.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_large.jpg?v=1604842906"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "product_number": "FC50X24",
+      "description": "(Package of 3 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 50mm, Conductor Width: 20 ~ 24mm, Screw Diameter: M8, 3 Pieces in a package, Part no:553020",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_3dab24dc-41ae-44b0-8b54-9cc4c1e17f7a_large.jpg?v=1605017091"
+    },
+    {
+      "product_number": "FC50X32",
+      "description": "(Package of 3 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 50mm, Conductor Width: 32mm, Screw Diameter: M8, 3 Pieces in a package, Part no:553030",
+      "price": 143.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_92b11bc7-4d2d-4fef-ac81-0508688f827d_large.jpg?v=1605017090"
+    },
+    {
+      "product_number": "FC80X24",
+      "description": "(Package of 3 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 80mm, Conductor Width: 20 ~ 24mm, Screw Diameter: M8, 3 Pieces in a package, Part no:553050",
+      "price": 143.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_2d6b7f5a-41b9-4785-8d59-aee9cdb94fde_large.jpg?v=1605017078"
+    },
+    {
+      "product_number": "FC50X40",
+      "description": "(Package of 3 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 50mm, Conductor Width: 40mm, Screw Diameter: M8, 3 Pieces in a package, Part no:553040",
+      "price": 143.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_7af67782-067b-41c1-9210-8ffa5531c39c_large.jpg?v=1605017084"
+    },
+    {
+      "product_number": "FC80X32",
+      "description": "(Package of 3 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 80mm, Conductor Width: 32mm, Screw Diameter: M8, 3 Pieces in a package, Part no:553060",
+      "price": 158.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_08bf0836-a378-4b4b-9f31-d96385c0c7bd_large.jpg?v=1605017069"
+    },
+    {
+      "product_number": "FC100X32",
+      "description": "(Package of 4 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 100mm, Conductor Width: 32mm, Screw Diameter: M8, 3 Pieces in a package, Part no:568700",
+      "price": 156.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_c000e610-9c2a-4b30-afc9-3082be474e29_large.jpg?v=1605017062"
+    },
+    {
+      "product_number": "FC80X50",
+      "description": "(Package of 3 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 80mm, Conductor Width: 50mm, Screw Diameter: M8, 3 Pieces in a package, Part no:553070",
+      "price": 172.72,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_c1e430eb-127b-454a-93fe-f2a873e0db37_large.jpg?v=1605017062"
+    },
+    {
+      "product_number": "FC120X32",
+      "description": "(Package of 3 Pieces) ERIFLEX FC ERIFLEX Flexibar to Busbar Clamp, Material: Steel, Clamping Capacity: 20 mm, Busbar Width: 120mm, Conductor Width: 32mm, Screw Diameter: M8, 3 Pieces in a package, Part no:568730",
+      "price": 180.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_large.jpg?v=1605017047"
+    }
+  ]
+}

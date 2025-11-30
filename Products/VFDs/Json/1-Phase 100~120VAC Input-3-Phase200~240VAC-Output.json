@@ -1,0 +1,32 @@
+{
+    "products": [
+      {
+        "product_number": "FR-D710W-008-NA",
+        "description": "0.125HP Mitsubishi Variable Frequency Drive, Input Voltage: 100-120VAC, Output Voltage: 200-240 VAC, Input Phase: 1-Phase, Output Phase: 3-Phase, Rated Amps: 0.8A, NEMA 1 / IP20",
+        "price": 333.96,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-D710W-042-NA_large.webp"
+      },
+      {
+        "product_number": "FR-D710W-025-NA",
+        "description": "0.5HP Mitsubishi Variable Frequency Drive, Input Voltage: 100-120VAC, Output Voltage: 200-240 VAC, Input Phase: 1-Phase, Output Phase: 3-Phase, Rated Amps: 2.5A, NEMA 1 / IP20",
+        "price": 414.67,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-D710W-042-NA_large.webp"
+      },
+      {
+        "product_number": "FR-D710W-014-NA",
+        "description": "0.25HP Mitsubishi Variable Frequency Drive, Input Voltage: 100-120VAC, Output Voltage: 200-240 VAC, Input Phase: 1-Phase, Output Phase: 3-Phase, Rated Amps: 1.4A, NEMA 1 / IP20",
+        "price": 368.75,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-D710W-042-NA_large.webp"
+      },
+      {
+        "product_number": "FR-D710W-042-NA",
+        "description": "1HP Mitsubishi Variable Frequency Drive, Input Voltage: 100-120VAC, Output Voltage: 200-240 VAC, Input Phase: 1-Phase, Output Phase: 3-Phase, Rated Amps: 4.2A, NEMA 1 / IP20",
+        "price": 509.29,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-D710W-042-NA_large.webp"
+      }
+    ]
+  }

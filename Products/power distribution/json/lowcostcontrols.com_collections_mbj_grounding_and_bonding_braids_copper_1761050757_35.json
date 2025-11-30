@@ -1,0 +1,424 @@
+{
+  "products": [
+    {
+      "product_number": "MBJ25-200-8",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 8.5mm, Length: 200mm, 10 Pieces in a package, Part no: 555200",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_large.jpg?v=1605081333"
+    },
+    {
+      "product_number": "MBJ25-300-8",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 8.5mm, Length: 300mm, 10 Pieces in a package, Part no: 555201",
+      "price": 134.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_a49e20a0-d236-4a6d-9698-cea6f4a7af32_large.jpg?v=1605081333"
+    },
+    {
+      "product_number": "MBJ6-150-6",
+      "description": "(Package of 4 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 40A, Cross Section: 6mm², Hole Size: 6.5mm, Length: 150mm, 10 Pieces in a package, Part no: 556600",
+      "price": 137.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_3f906090-2ea1-423b-aab8-3bdff1150c2d_large.jpg?v=1605081334"
+    },
+    {
+      "product_number": "MBJ10-300-6",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 75A, Cross Section: 10mm², Hole Size: 6.5mm, Length: 300mm, 10 Pieces in a package, Part no: 556610",
+      "price": 154.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_d2eec205-0773-4c90-a1a4-9c87486494fc_large.jpg?v=1605081335"
+    },
+    {
+      "product_number": "MBJ16-100-8",
+      "description": "(Package of 4 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 8.5mm, Length: 100mm, 10 Pieces in a package, Part no: 556620",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_93f9a539-f55e-480b-934a-5a8fce99861e_large.jpg?v=1605081336"
+    },
+    {
+      "product_number": "MBJ16-150-8",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 8.5mm, Length: 150mm, 10 Pieces in a package, Part no: 556630",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_4ca7e4c2-b4de-4993-bce7-ad563782d8ad_large.jpg?v=1605081337"
+    },
+    {
+      "product_number": "MBJ16-200-8",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 8.5mm, Length: 200mm, 10 Pieces in a package, Part no: 556640",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_a546be62-0dbf-4f65-85e7-22c8313af90d_large.jpg?v=1605081338"
+    },
+    {
+      "product_number": "MBJ16-250-8",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 8.5mm, Length: 250mm, 10 Pieces in a package, Part no: 556650",
+      "price": 165.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_dae162e6-465c-4d04-bdd0-eb53af68c164_large.jpg?v=1605081339"
+    },
+    {
+      "product_number": "MBJ25-100-10",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 10.5mm, Length: 100mm, 10 Pieces in a package, Part no: 556670",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_7eceeff0-b581-4cc9-b12a-6598fc5d884e_large.jpg?v=1605081341"
+    },
+    {
+      "product_number": "MBJ16-300-8",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 8.5mm, Length: 300mm, 10 Pieces in a package, Part no: 556660",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e469d2fc-9c67-4409-9407-cf62e9acbac2_large.jpg?v=1605081340"
+    },
+    {
+      "product_number": "MBJ25-150-10",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 10.5mm, Length: 150mm, 10 Pieces in a package, Part no: 556680",
+      "price": 176.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_34e712ae-06a6-439f-bd71-288ac4a139b8_large.jpg?v=1605081341"
+    },
+    {
+      "product_number": "MBJ25-200-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 10.5mm, Length: 200mm, 10 Pieces in a package, Part no: 556690",
+      "price": 176.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_fcc6b32e-f01c-4132-953f-66c83bee4e09_large.jpg?v=1605081342"
+    },
+    {
+      "product_number": "MBJ25-250-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 10.5mm, Length: 250mm, 10 Pieces in a package, Part no: 556700",
+      "price": 159.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_5381f303-c006-4ee2-89a7-55a6d56f7d4b_large.jpg?v=1605081343"
+    },
+    {
+      "product_number": "MBJ25-300-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 10.5mm, Length: 300mm, 10 Pieces in a package, Part no: 556710",
+      "price": 178.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8e50d1fe-a2f3-4509-b46e-9b962c2ec60f_large.jpg?v=1605081344"
+    },
+    {
+      "product_number": "MBJ30-100-10",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 180A, Cross Section: 30mm², Hole Size: 10.5mm, Length: 100mm, 10 Pieces in a package, Part no: 556720",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_49790863-3f59-4cf8-893a-893ed3d825f4_large.jpg?v=1605081345"
+    },
+    {
+      "product_number": "MBJ30-150-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 180A, Cross Section: 30mm², Hole Size: 10.5mm, Length: 150mm, 10 Pieces in a package, Part no: 556730",
+      "price": 129.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_16427763-f3fa-4dd1-92c1-c0149685473d_large.jpg?v=1605081346"
+    },
+    {
+      "product_number": "MBJ30-200-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 180A, Cross Section: 30mm², Hole Size: 10.5mm, Length: 200mm, 10 Pieces in a package, Part no: 556740",
+      "price": 156.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_577c0134-2716-4482-a77b-38d8d60f039a_large.jpg?v=1605081347"
+    },
+    {
+      "product_number": "MBJ30-250-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 180A, Cross Section: 30mm², Hole Size: 10.5mm, Length: 250mm, 10 Pieces in a package, Part no: 556750",
+      "price": 178.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_75ee943f-1cc1-458a-8fa4-2039388dfe12_large.jpg?v=1605081348"
+    },
+    {
+      "product_number": "MBJ30-300-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 180A, Cross Section: 30mm², Hole Size: 10.5mm, Length: 300mm, 10 Pieces in a package, Part no: 556760",
+      "price": 200.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_15c3854d-d976-4a54-a613-06ef214089dc_large.jpg?v=1605081349"
+    },
+    {
+      "product_number": "MBJ35-100-10",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 197A, Cross Section: 35mm², Hole Size: 10.5mm, Length: 100mm, 10 Pieces in a package, Part no: 556770",
+      "price": 172.72,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_73e2a374-d8d9-4489-9a8c-ad1603c0302d_large.jpg?v=1605081350"
+    },
+    {
+      "product_number": "MBJ35-200-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 197A, Cross Section: 35mm², Hole Size: 10.5mm, Length: 200mm, 10 Pieces in a package, Part no: 556790",
+      "price": 171.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_f495c475-c900-4698-a690-16d790ca6bbd_large.jpg?v=1605081351"
+    },
+    {
+      "product_number": "MBJ35-150-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 197A, Cross Section: 35mm², Hole Size: 10.5mm, Length: 150mm, 10 Pieces in a package, Part no: 556780",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_dc0853fc-02c7-4e06-8314-72a6d8bd912f_large.jpg?v=1605081351"
+    },
+    {
+      "product_number": "MBJ35-250-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 197A, Cross Section: 35mm², Hole Size: 10.5mm, Length: 250mm, 10 Pieces in a package, Part no: 556800",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_94f15dbe-32a8-4eb6-82c7-27dfb359ff61_large.jpg?v=1605081352"
+    },
+    {
+      "product_number": "MBJ35-300-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 197A, Cross Section: 35mm², Hole Size: 10.5mm, Length: 300mm, 10 Pieces in a package, Part no: 556810",
+      "price": 225.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_b4a2001f-e737-42cd-b5ac-5720807a5582_large.jpg?v=1605081353"
+    },
+    {
+      "product_number": "MBJ50-100-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 10.5mm, Length: 100mm, 10 Pieces in a package, Part no: 556820",
+      "price": 149.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_ea88fd28-3461-42af-92ae-6d3789045735_large.jpg?v=1605081354"
+    },
+    {
+      "product_number": "MBJ50-150-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 10.5mm, Length: 150mm, 10 Pieces in a package, Part no: 556830",
+      "price": 186.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_b73d0ed6-6203-4180-89b9-8e9ce8aadc53_large.jpg?v=1605081355"
+    },
+    {
+      "product_number": "MBJ50-200-10",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 10.5mm, Length: 200mm, 10 Pieces in a package, Part no: 556840",
+      "price": 227.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_321f50ca-5cff-43f8-a17d-415c707edc5e_large.jpg?v=1605081356"
+    },
+    {
+      "product_number": "MBJ50-300-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 10.5mm, Length: 300mm, 10 Pieces in a package, Part no: 556860",
+      "price": 149.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_38475ba5-6970-434a-9fe5-ec1c5d6d5be6_large.jpg?v=1605081358"
+    },
+    {
+      "product_number": "MBJ50-250-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 10.5mm, Length: 250mm, 10 Pieces in a package, Part no: 556850",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e13a06ae-f449-4fd8-8e58-2f178e979e2f_large.jpg?v=1605081357"
+    },
+    {
+      "product_number": "MBJ10-200-6",
+      "description": "(Package of 4 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 75A, Cross Section: 10mm², Hole Size: 6.5mm, Length: 200mm, 10 Pieces in a package, Part no: 556930",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_b89ab445-f0e8-4c62-a42e-5c631b8d94f5_large.jpg?v=1605081358"
+    },
+    {
+      "product_number": "MBJ16-500-8",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 8.5mm, Length: 500mm, 10 Pieces in a package, Part no: 556940",
+      "price": 188.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e8d2bd27-b09d-4d21-82d3-3e6993330849_large.jpg?v=1605081359"
+    },
+    {
+      "product_number": "MBJ25-500-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 10.5mm, Length: 500mm, 10 Pieces in a package, Part no: 556950",
+      "price": 133.53,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_0fbe7cb5-8109-4039-afab-3295e210b44c_large.jpg?v=1605081360"
+    },
+    {
+      "product_number": "MBJ30-500-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 180A, Cross Section: 30mm², Hole Size: 10.5mm, Length: 500mm, 10 Pieces in a package, Part no: 556960",
+      "price": 151.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_4eec2ca9-9778-4f58-8f22-3a48dce0f51e_large.jpg?v=1605081361"
+    },
+    {
+      "product_number": "MBJ35-500-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 197A, Cross Section: 35mm², Hole Size: 10.5mm, Length: 500mm, 10 Pieces in a package, Part no: 556970",
+      "price": 170.28,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_1b01dc2a-e79e-4801-8614-72d05e03381e_large.jpg?v=1605081362"
+    },
+    {
+      "product_number": "MBJ50-500-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 10.5mm, Length: 500mm, 10 Pieces in a package, Part no: 556980",
+      "price": 229.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e76bd0e8-8b43-40fd-ab6b-7548cba72bf4_large.jpg?v=1605081363"
+    },
+    {
+      "product_number": "MBJ16-200-6",
+      "description": "(Package of 10 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 6.5mm, Length: 200mm, Part no: 563300",
+      "price": 147.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_89cdfcaa-1751-47a0-a79a-5722cd10e60e_large.jpg?v=1605081364"
+    },
+    {
+      "product_number": "MBJ16-300-6",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 6.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563320",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_4ea57ac3-1593-4c5b-ad02-85f96310803a_large.jpg?v=1605081365"
+    },
+    {
+      "product_number": "MBJ50-200-6",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 6.5mm, Length: 200mm, 10 Pieces in a package, Part no: 563350",
+      "price": 227.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_6208b82f-e152-46af-a2e7-76873c55aa5a_large.jpg?v=1605081367"
+    },
+    {
+      "product_number": "MBJ25-200-6",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 6.5mm, Length: 200mm, 10 Pieces in a package, Part no: 563340",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_fef58ddf-196c-4d3b-9b62-c42790fa36f7_large.jpg?v=1605081366"
+    },
+    {
+      "product_number": "MBJ50-200-16",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 16.5mm, Length: 200mm, 10 Pieces in a package, Part no: 563360",
+      "price": 230.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_614d5a9e-51ef-400c-b554-df5c84d4b2df_large.jpg?v=1605081367"
+    },
+    {
+      "product_number": "MBJ50-200-18",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 21mm, Length: 200mm, 10 Pieces in a package, Part no: 563370",
+      "price": 230.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_3d77979d-9fc5-4374-80c9-f6fd79ae02f8_large.jpg?v=1605081368"
+    },
+    {
+      "product_number": "MBJ50-300-6",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 6.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563380",
+      "price": 151.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_dac9597f-69af-4cb8-9e73-fa4994eefd87_large.jpg?v=1605081369"
+    },
+    {
+      "product_number": "MBJ50-300-16",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 16.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563390",
+      "price": 153.13,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_9b0f0a40-384e-49e3-977e-431318f006d5_large.jpg?v=1605081370"
+    },
+    {
+      "product_number": "MBJ50-300-18",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 21mm, Length: 300mm, 10 Pieces in a package, Part no: 563400",
+      "price": 151.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_adab75cb-dd9a-476c-b6e9-bd4858fe64e6_large.jpg?v=1605081371"
+    },
+    {
+      "product_number": "MBJ6-200-6",
+      "description": "(Package of 4 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 40A, Cross Section: 6mm², Hole Size: 6.5mm, Length: 200mm, 10 Pieces in a package, Part no: 563410",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_5562b267-1765-4493-a744-618063285cda_large.jpg?v=1605081372"
+    },
+    {
+      "product_number": "MBJ70-300-12",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 290A, Cross Section: 70mm², Hole Size: 12.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563420",
+      "price": 196.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_bd35d85f-132d-4037-8925-f511052e3cee_large.jpg?v=1605081373"
+    },
+    {
+      "product_number": "MBJ25-200-12",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 150A, Cross Section: 25mm², Hole Size: 12.5mm, Length: 200mm, 10 Pieces in a package, Part no: 563430",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_1683cf50-5b8e-4722-9b2a-8802d64c3c08_large.jpg?v=1605081374"
+    },
+    {
+      "product_number": "MBJ50-200-12",
+      "description": "(Package of 2 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 12.5mm, Length: 200mm, 10 Pieces in a package, Part no: 563440",
+      "price": 227.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_ef02f0bd-fde9-43b5-ae85-f2a83a0dd9ee_large.jpg?v=1605081375"
+    },
+    {
+      "product_number": "MBJ70-300-6",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 290A, Cross Section: 70mm², Hole Size: 6.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563450",
+      "price": 205.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_9e91716a-ce20-4006-9d6e-b9f88b716f0f_large.jpg?v=1605081376"
+    },
+    {
+      "product_number": "MBJ70-300-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 290A, Cross Section: 70mm², Hole Size: 10.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563460",
+      "price": 196.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_618f7fe1-ad31-48b5-8bd3-ff6f985355f4_large.jpg?v=1605081377"
+    },
+    {
+      "product_number": "MBJ70-300-16",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 290A, Cross Section: 70mm², Hole Size: 16.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563470",
+      "price": 207.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_1d99f9e8-75f3-4a0c-af69-a7187b584b3b_large.jpg?v=1605081377"
+    },
+    {
+      "product_number": "MBJ70-300-22",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 290A, Cross Section: 70mm², Hole Size: 22.5mm, Length: 300mm, 10 Pieces in a package, Part no: 563480",
+      "price": 208.25,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_5f0caeb7-bfdc-40e3-b6fc-22902d46c51f_large.jpg?v=1605081378"
+    },
+    {
+      "product_number": "MBJ70-500-10",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 290A, Cross Section: 70mm², Hole Size: 10.5mm, Length: 500mm, 10 Pieces in a package, Part no: 563490",
+      "price": 301.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8219021b-3b07-4895-932d-11622802202d_large.jpg?v=1605081379"
+    },
+    {
+      "product_number": "MBJ100-250-16",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 349A, Cross Section: 100mm², Hole Size: 16.5mm, Length: 250mm, 10 Pieces in a package, Part no: 563500",
+      "price": 313.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8831cba2-9a4b-40c7-ad0e-393425ce6bc5_large.jpg?v=1605081380"
+    },
+    {
+      "product_number": "MBJ100-500-16",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 349A, Cross Section: 100mm², Hole Size: 16.5mm, Length: 500mm, 10 Pieces in a package, Part no: 563520",
+      "price": 529.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_fdfa3a27-4469-4194-8408-7a844508d934_large.jpg?v=1605081382"
+    },
+    {
+      "product_number": "MBJ100-250-30",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 349A, Cross Section: 100mm², Hole Size: 30.5mm, Length: 250mm, 10 Pieces in a package, Part no: 563510",
+      "price": 324.63,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8b6e75e4-7347-4e66-b6ab-4443c6c62de1_large.jpg?v=1605081381"
+    },
+    {
+      "product_number": "MBJ100-500-30",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 349A, Cross Section: 100mm², Hole Size: 30.5mm, Length: 500mm, 10 Pieces in a package, Part no: 563530",
+      "price": 540.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_7880e1bf-8a8e-4f7b-8937-366ba090e72b_large.jpg?v=1605081382"
+    },
+    {
+      "product_number": "MBJ16-100-6",
+      "description": "(Package of 4 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 6.5mm, Length: 100mm, 10 Pieces in a package, Part no: 563540",
+      "price": 137.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_9d2401b2-1922-467d-81d8-30cf9cb59a7f_large.jpg?v=1605081383"
+    },
+    {
+      "product_number": "MBJ16-150-6",
+      "description": "(Package of 3 Pieces) ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 120A, Cross Section: 16mm², Hole Size: 6.5mm, Length: 150mm, 10 Pieces in a package, Part no: 563550",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_55b023e0-5ca9-49ae-9818-195a28a47593_large.jpg?v=1605081384"
+    },
+    {
+      "product_number": "MBJ50-500-12",
+      "description": "ERIFLEX MBJ Grounding and Bonding Braid, Material: Tinned Copper, Ampacity: 250A, Cross Section: 50mm², Hole Size: 12.5mm, Length: 500mm, 10 Pieces in a package, Part no: 563560",
+      "price": 229.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_d3a57adc-b5d3-4a1a-99b4-2f2b5302c75b_large.jpg?v=1605081385"
+    }
+  ]
+}

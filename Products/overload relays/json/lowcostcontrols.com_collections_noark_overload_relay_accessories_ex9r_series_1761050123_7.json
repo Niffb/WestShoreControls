@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "product_number": "AD51",
+      "description": "(Package of 9 Pieces) Mounting Base for Noark Thermal Overload Relay, use with Ex9R12",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_65dabfe3-2d45-49fc-9dfb-8d04f60791a1_large.png?v=1604684063"
+    },
+    {
+      "product_number": "AD53",
+      "description": "(Package of 9 Pieces) Mounting Base for Noark Thermal Overload Relay, use with Ex9R100",
+      "price": 129.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_4e3b3e51-2f60-421b-b65d-cccd5978ea81_large.png?v=1604684065"
+    },
+    {
+      "product_number": "AD56",
+      "description": "(Package of 9 pieces) Mounting Base for Noark Thermal Overload Relay, use with Ex9R38",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_ec1573c9-c3a4-4a23-86dc-9a15f94ef752_large.png?v=1604684064"
+    },
+    {
+      "product_number": "AD55",
+      "description": "(Package of 3 pieces) Mounting Base for Noark Thermal Overload Relay, use with Ex9R500",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_dd945a24-9f87-4d20-833b-4206b39455a3_large.png?v=1604684067"
+    },
+    {
+      "product_number": "AD54",
+      "description": "(Package of 2 Pieces) Mounting Base for Noark Thermal Overload Relay, use with Ex9R185",
+      "price": 144.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_large.png?v=1604684066"
+    }
+  ]
+}

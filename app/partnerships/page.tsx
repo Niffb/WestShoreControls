@@ -236,7 +236,7 @@ export default function PartnershipsPage() {
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="relative py-24 bg-gradient-to-br from-red-50 via-white to-red-900/5 overflow-hidden">
+      <section className="relative pt-32 pb-24 bg-gradient-to-br from-red-50 via-white to-red-900/5 overflow-hidden">
         {/* Enhanced Animated Background Elements */}
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>

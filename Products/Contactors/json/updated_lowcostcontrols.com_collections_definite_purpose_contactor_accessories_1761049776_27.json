@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "product_number": "AXFC11",
+      "description": "(Package of 12 Pieces) Noark Auxiliary Contacts for Ex9CKT Contactor, Side Mounted, 1NO+1NC, UL 489, Order Number: 1311725",
+      "price": 224.64,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_430213ff-cdc1-4628-8171-0e035a8d4622_large.jpg?v=1751212077"
+    },
+    {
+      "product_number": "AXFD11",
+      "description": "(Package of 12 Pieces) Noark Auxiliary Contacts for Ex9CKT Contactor, Side Mounted, 1NO+1NC Microswitch, UL 489, Order Number: 1314052",
+      "price": 224.64,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_813e8a0c-89f7-451c-8fd4-90ea4713d76c_large.jpg?v=1751212078"
+    },
+    {
+      "product_number": "AXFC11Q",
+      "description": "(Package of 12 Pieces) Noark Auxiliary Contacts for Ex9CKT Contactor, Side Mounted, 1NO+1NC, UL 489, Order Number: 1314051",
+      "price": 187.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_a3d068b2-65e9-40de-9b39-4b5c9a9e1da0_large.jpg?v=1751212078"
+    },
+    {
+      "product_number": "AXFD22",
+      "description": "(Package of 6 Pieces) Noark Auxiliary Contacts for Ex9CKT Contactor, Side Mounted, 2NO+2NC Microswitch, UL 489, Order Number: 1314053",
+      "price": 140.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_2e627774-f78e-4917-96cd-951604218634_large.jpg?v=1751212079"
+    }
+  ]
+}

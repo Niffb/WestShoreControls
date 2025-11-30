@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "product_number": "CH-10N/SP-240",
+      "description": "(Package of 2 Pieces) 130A LS MetaMec Contactor, 220-240V, 1 Pole.",
+      "price": 142,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec1PoleContactor_1156b16f-af14-4bd6-bfd5-d41abf2ef279_large.jpg?v=1628529909"
+    },
+    {
+      "product_number": "CH-6N/SP-240",
+      "description": "(Package of 2 Pieces) 220A LS MetaMec Contactor, 220-240V, 1 Pole.",
+      "price": 128,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec1PoleContactor_96a27e24-4933-4def-a5a8-800e08815a65_large.jpg?v=1628529925"
+    }
+  ]
+}

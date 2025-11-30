@@ -2,7 +2,7 @@ import { Suspense } from 'react'
 import dynamic from 'next/dynamic'
 import { Metadata } from 'next'
 import Hero from '@/components/layout/Hero'
-import { BrandSelectionSkeleton, PageHeaderSkeleton } from '@/components/ui/LoadingSkeletons'
+import { PageHeaderSkeleton } from '@/components/ui/LoadingSkeletons'
 
 // Lazy load non-critical components for better initial page load
 const PartnershipsHero = dynamic(() => import('@/components/page/PartnershipsHero'), {
@@ -12,10 +12,7 @@ const PartnershipsHero = dynamic(() => import('@/components/page/PartnershipsHer
 
 
 
-const BrandSelection = dynamic(() => import('@/components/brand/BrandSelection'), {
-  loading: () => <BrandSelectionSkeleton />,
-  ssr: true
-})
+// BrandSelection component will be rebuilt with new product system
 
 const About = dynamic(() => import('@/components/page/About'), {
   loading: () => <PageHeaderSkeleton />,
@@ -127,9 +124,12 @@ export default function Home() {
       </Suspense>
       
       <section id="brands">
-        <Suspense fallback={<BrandSelectionSkeleton />}>
-          <BrandSelection />
-        </Suspense>
+        <div className="bg-gray-50 py-16">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Brands</h2>
+            <p className="text-lg text-gray-600">Brand selection will be rebuilt with the new product system.</p>
+          </div>
+        </div>
       </section>
       
       <Suspense fallback={<PageHeaderSkeleton />}>

@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "GMC-10P2-120-QC",
+      "description": "(Package of 6 Pieces) 10A LS MetaMec Contactor, 110-120V, 2 Pole, Quick Connect Type",
+      "price": 144.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_large.jpg?v=1628530238"
+    },
+    {
+      "product_number": "GMC-20P2-120-QC",
+      "description": "(Package of 6 Pieces) 20A LS MetaMec Contactor, 110-120V, 2 Pole, Quick Connect Type",
+      "price": 168.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_89807de3-69ca-44fe-ad74-d956fa89a143_large.jpg?v=1628530256"
+    },
+    {
+      "product_number": "GMC-25P2-120-QC",
+      "description": "(Package of 6 Pieces) 25A LS MetaMec Contactor, 110-120V, 2 Pole, Quick Connect Type",
+      "price": 186.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_371b6ab2-ee6c-4379-b512-a233b6e4ca74_large.jpg?v=1628530272"
+    },
+    {
+      "product_number": "GMC-30P2-120-QC",
+      "description": "(BOX OF 3 PIECES) 30A LS MetaMec Contactor, 110-120V, 2 Pole, Quick Connect Type",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_4cd39c52-4e80-441d-b6ba-aa39b835c5a8_large.jpg?v=1628530286"
+    },
+    {
+      "product_number": "GMC-35P2-120-QC",
+      "description": "(BOX OF 3 PIECES) 35A LS MetaMec Contactor, 110-120V, 2 Pole, Quick Connect Type",
+      "price": 117.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_667f2379-1573-40fe-9d8a-9a5bb4a72761_large.jpg?v=1628530301"
+    },
+    {
+      "product_number": "GMC-40P2-120-QC",
+      "description": "(BOX OF 3 PIECES) 40A LS MetaMec Contactor, 110-120V, 2 Pole, Quick Connect Type",
+      "price": 126.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor-QuickConnect_cf473c8d-651b-46d5-99fb-855d051127f1_large.jpg?v=1628530315"
+    }
+  ]
+}

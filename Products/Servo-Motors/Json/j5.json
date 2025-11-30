@@ -1,0 +1,39 @@
+{
+    "products": [
+      {
+        "product_number": "HG-MR053J5",
+        "description": "AC brushless rotary servo motor with straight shaft + built-in absolute feedback encod. (22-bit) - Mitsubishi Electric (MELSERVO J5 series) - Rated output 50W / 0.05kW - 22-bit (equivalent to 4194304ppr) feedback - Rated current 1A - Supply voltage 200Vac class - Rated torque 0.16Nm nominal - Rated rotational speed 3000rpm - 40x40mm flange mounting - IP65 - with 4-pin rectangular connector - rated for 0...+40°C ambient - equivalent to HGMR053J5",
+        "price": 772.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif"
+      },
+      {
+        "product_number": "HG-KR73J5",
+        "description": "AC brushless rotary servo motor with keyed shaft + built-in absolute feedback encod. (22-bit) - Mitsubishi Electric (MELSERVO J5 series) - Rated output 750W / 0.75kW - 22-bit (equivalent to 4194304ppr) feedback - Rated current 4.8A - Supply voltage 200Vac class - Rated torque 2.4Nm nominal - Rated rotational speed 3000rpm - 80x80mm flange mounting - IP65 - with 4-pin rectangular connector - rated for 0...+40°C ambient - equivalent to HGKR73J5",
+        "price": 1519.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif"
+      },
+      {
+        "product_number": "HG-SR52J5K",
+        "description": "AC brushless rotary servo motor with keyed shaft + built-in absolute feedback encod. (22-bit) - Mitsubishi Electric (MELSERVO J5 series) - Rated output 500W / 0.5kW - 22-bit (equivalent to 4194304ppr) feedback - Rated current 2.9A - Supply voltage 200Vac class - Rated torque 2.4Nm nominal - Rated rotational speed 2000rpm - 130x130mm flange mounting - IP67 - with 2 x MS-type connectors - rated for 0...+40°C ambient - equivalent to HGSR52J5K",
+        "price": 1319.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif"
+      },
+      {
+        "product_number": "HG-JR103J5K",
+        "description": "AC brushless rotary servo motor with keyed shaft + built-in absolute feedback encod. (22-bit) + oil seal - Mitsubishi Electric (MELSERVO J5 series) - Rated output 1000W / 1kW - 22-bit (equivalent to 4194304ppr) feedback - Rated current 2.8A - Supply voltage 200Vac class - Rated torque 3.2Nm nominal - Rated rotational speed 3000rpm - 90x90mm flange mounting - IP67 - with 2 x MS-type connectors - rated for 0...+40°C ambient - equivalent to HGJR103J5K",
+        "price": 1936.80,
+        "stock_status": "In Stock",
+        "image_url": "/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif"
+      },
+      {
+        "product_number": "HG-SR152J5K",
+        "description": "AC brushless rotary servo motor with keyed shaft + built-in absolute feedback encod. (22-bit) - Mitsubishi Electric (MELSERVO J5 series) - Rated output 1500W / 1.5kW - 22-bit (equivalent to 4194304ppr) feedback - Rated current 9.4A - Supply voltage 200Vac class - Rated torque 7.2Nm nominal - Rated rotational speed 2000rpm - 130x130mm flange mounting - IP67 - with 2 x MS-type connectors - rated for 0...+40°C ambient - equivalent to HGSR152J5K",
+        "price": 1971.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif"
+      }
+    ]
+  }

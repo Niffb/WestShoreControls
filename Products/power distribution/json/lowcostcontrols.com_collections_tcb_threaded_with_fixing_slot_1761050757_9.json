@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_number": "TCB20X5-2M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Slot, 2m Copper, Width : 20mm, Thickness: 5mm, 4 Pieces in a package, Part no: 549010",
+      "price": 976.33,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingSlot_ebe1d412-4464-4a56-88ea-5de2228b7a9e_large.jpg?v=1604824391"
+    },
+    {
+      "product_number": "TCB30X5-2M",
+      "description": "ERIFLEX TCB Threaded Busbar with Fixing Slot, 2m Copper, Width : 30mm, Thickness: 5mm, 4 Pieces in a package, Part no: 549020",
+      "price": 1530.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingSlot_large.jpg?v=1604824388"
+    },
+    {
+      "product_number": "TCBS15X5-2M",
+      "description": "ERIFLEX TCBS Threaded Busbar with Fixing Slot, 2m Copper, Width : 15mm, Thickness: 5mm, 4 Pieces in a package, Part no: 549000",
+      "price": 710.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingSlot_c4a640c6-a30d-4c00-ae04-5e920ec51b4c_large.jpg?v=1604824397"
+    }
+  ]
+}

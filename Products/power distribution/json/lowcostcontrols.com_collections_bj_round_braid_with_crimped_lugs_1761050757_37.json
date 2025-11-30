@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_number": "BJ6-150S",
+      "description": "(Package of 4 Pieces) ERIFLEX BJ Round Braid with Crimped Lugs, Material: Tinned Copper, Ampacity: 45A, Cross Section: 6mm², Hole Size: 6.5mm, Length: 150mm, 10 Pieces in a package, Part no: 556900",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BJ_Round_Braid_with_Crimped_Lugs_large.jpg?v=1605078019"
+    },
+    {
+      "product_number": "BJ6-200S",
+      "description": "(Package of 4 Pieces) ERIFLEX BJ Round Braid with Crimped Lugs, Material: Tinned Copper, Ampacity: 45A, Cross Section: 6mm², Hole Size: 6.5mm, Length: 200mm, 10 Pieces in a package, Part no: 556910",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BJ_Round_Braid_with_Crimped_Lugs_e98b5375-205c-46f1-bc1f-f0ae474ade0f_large.jpg?v=1605078020"
+    },
+    {
+      "product_number": "BJ10-300S",
+      "description": "(Package of 3 Pieces) ERIFLEX BJ Round Braid with Crimped Lugs, Material: Tinned Copper, Ampacity: 75A, Cross Section: 10mm², Hole Size: 6.5mm, Length: 300mm, 10 Pieces in a package, Part no: 556920",
+      "price": 169.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BJ_Round_Braid_with_Crimped_Lugs_b8dfb5ed-091d-4600-b4d1-9e4b4a8f9921_large.jpg?v=1605078021"
+    }
+  ]
+}

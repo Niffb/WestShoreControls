@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "MR-4-120",
+      "description": "(Package of 6 Pieces) 4A LS Metasol Contactor Relay, 110-120V AC, 3 Pole.",
+      "price": 186,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_ec5f7e1e-40d0-4f75-a397-0249b7edf97c_large.jpg?v=1604682440"
+    },
+    {
+      "product_number": "MR-6-120",
+      "description": "(BOX OF 3 PIECES) 6A LS Metasol Contactor Relay, 110-120V AC, 3 Pole.",
+      "price": 114,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_8686814d-c2ba-416e-aa7f-2378dcf16701_large.jpg?v=1604682441"
+    },
+    {
+      "product_number": "MR-8-120",
+      "description": "(BOX OF 3 PIECES) 8A LS Metasol Contactor Relay, 110-120V AC, 3 Pole.",
+      "price": 132,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_7c462716-e96a-4b22-85b2-85d5a2f106c3_large.jpg?v=1604682442"
+    },
+    {
+      "product_number": "MR-4D-120",
+      "description": "(BOX OF 3 PIECES) 4A LS Metasol Contactor Relay, 110-120V DC, 3 Pole.",
+      "price": 105,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_3181d42a-8d61-4cc0-b08b-fb8e9bda1aa7_large.jpg?v=1604682443"
+    },
+    {
+      "product_number": "MR-6D-120",
+      "description": "(BOX OF 3 PIECES) 6A LS Metasol Contactor Relay, 110-120V DC, 3 Pole.",
+      "price": 123,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_2db30af5-575a-4c7a-851f-892098e869bc_large.jpg?v=1604682444"
+    },
+    {
+      "product_number": "MR-8D-120",
+      "description": "(BOX OF 3 PIECES) 8A LS Metasol Contactor Relay, 110-120V DC, 3 Pole.",
+      "price": 141,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Metasol_Contactors_392ab870-dbd0-4e92-ab63-3743c4946016_large.jpg?v=1604682445"
+    }
+  ]
+}

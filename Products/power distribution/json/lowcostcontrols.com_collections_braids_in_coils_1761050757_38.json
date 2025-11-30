@@ -1,0 +1,508 @@
+{
+  "products": [
+    {
+      "product_number": "FRCB15-10",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 10mm², Number of Wires: 576, Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557030",
+      "price": 164.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a0c731db-1ccf-4f84-8d80-d69a8d498f61_large.jpg?v=1605079037"
+    },
+    {
+      "product_number": "FRCB15-16",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 16mm², Number of Wires: 896, Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557040",
+      "price": 214.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_7c1a2eb2-82be-404d-b22d-6d8568b879ef_large.jpg?v=1605079033"
+    },
+    {
+      "product_number": "FRCB15-20",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 20mm², Number of Wires: 1120, Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557050",
+      "price": 254.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_6b040f08-854a-406f-8727-dada864ddb6a_large.jpg?v=1605079033"
+    },
+    {
+      "product_number": "FRCB15-25",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 25mm², Number of Wires: 1404, Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557060",
+      "price": 271.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_00cd4cc2-b55a-4869-b5a6-3ec52f689da0_large.jpg?v=1605079030"
+    },
+    {
+      "product_number": "FRCB15-35",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 35mm², Number of Wires: 1980, Wire Diameter: 0.15mm, Thickness: 2.5mm, 25 Meters in a Roll, Part no: 557080",
+      "price": 352.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_709685bd-1c28-455f-885f-46e23e4c70d1_large.jpg?v=1605079021"
+    },
+    {
+      "product_number": "FRCB15-40",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 40mm², Number of Wires: 2272, Wire Diameter: 0.15mm, Thickness: 2.5mm, 25 Meters in a Roll, Part no: 557090",
+      "price": 400.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e28507b5-b764-439f-9810-869cf99ed4c4_large.jpg?v=1605079018"
+    },
+    {
+      "product_number": "FRCB15-50",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 50mm², Number of Wires: 2848, Wire Diameter: 0.15mm, Thickness: 3mm, 25 Meters in a Roll, Part no: 557100",
+      "price": 481.43,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e5c33282-c21d-4c92-89dc-cf571e27ac67_large.jpg?v=1605079013"
+    },
+    {
+      "product_number": "FRCB15-75",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 75mm², Number of Wires: 4256, Wire Diameter: 0.15mm, Thickness: 4mm, 25 Meters in a Roll, Part no: 557130",
+      "price": 693.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_0ba4042c-8c92-4db8-a537-d459a583c460_large.jpg?v=1605079007"
+    },
+    {
+      "product_number": "FRCB15-100",
+      "description": "ERIFLEX FRCB Flat Braid in Coil, Plain Copper, Material: Copper, Nominal Current: 75A, Cross Section: 100mm², Number of Wires: 5664, Wire Diameter: 0.15mm, Thickness: 4mm, 25 Meters in a Roll, Part no: 557150",
+      "price": 1389.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_cbabd538-057c-4ea1-ae14-511cff4a4061_large.jpg?v=1605079010"
+    },
+    {
+      "product_number": "FSSB25-16",
+      "description": "ERIFLEX FSSB Flat Braid in Coil, Material: Stainless Steel, Cross Section: 16mm², Wire Diameter: 0.25mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557160",
+      "price": 400.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_78ae23a4-404a-4c96-851d-ed4ffd3c5a84_large.jpg?v=1605078999"
+    },
+    {
+      "product_number": "FSSB25-25",
+      "description": "ERIFLEX FSSB Flat Braid in Coil, Material: Stainless Steel, Cross Section: 25mm², Wire Diameter: 0.25mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557170",
+      "price": 594.13,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_944795e5-bb02-42f0-a96a-5a279cb6d65f_large.jpg?v=1605078996"
+    },
+    {
+      "product_number": "FSSB25-50",
+      "description": "ERIFLEX FSSB Flat Braid in Coil, Material: Stainless Steel, Cross Section: 50mm², Wire Diameter: 0.25mm, Thickness: 3mm, 25 Meters in a Roll, Part no: 557390",
+      "price": 1063.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_d2819c16-2985-4756-a117-ddfbd7c463d0_large.jpg?v=1605078993"
+    },
+    {
+      "product_number": "FTCB20-10",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 75A, Cross Section: 10mm², Wire Diameter: 0.15mm, Thickness: 1.5mm, 150 Meters in a Roll, Part no: 503520",
+      "price": 764.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_0db97250-951b-4631-bca0-f8455c4a8cd7_large.jpg?v=1605078989"
+    },
+    {
+      "product_number": "FTCB20-16",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, Thickness: 2.0mm, 150 Meters in a Roll, Part no: 503530",
+      "price": 1057.17,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_fc7a5bbf-02fe-4608-b94c-272483793c7b_large.jpg?v=1605078984"
+    },
+    {
+      "product_number": "FTCB20-25",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 150A, Cross Section: 25mm², Wire Diameter: 0.15mm, Thickness: 1.5mm, 100 Meters in a Roll, Part no: 503540",
+      "price": 899.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_4e95c79f-27dc-43b4-9902-a457fe555da9_large.jpg?v=1605079111"
+    },
+    {
+      "product_number": "FTCB15-3",
+      "description": "(Package of 2 Pieces) ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 30A, Cross Section: 3mm², Wire Diameter: 0.15mm, Thickness: 1.0mm, 25 Meters in a Roll, Part no: 557200",
+      "price": 220.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a2198de6-9122-45ac-9b90-619ff1aa5e5b_large.jpg?v=1605079104"
+    },
+    {
+      "product_number": "FTCB15-5",
+      "description": "(Package of 2 Pieces) ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 45A, Cross Section: 5mm², Wire Diameter: 0.15mm, Thickness: 1.0mm, 25 Meters in a Roll, Part no: 557210",
+      "price": 220.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_4ce54c62-07a0-477e-993d-27d2310e0c14_large.jpg?v=1605079100"
+    },
+    {
+      "product_number": "FTCB15-8",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 65A, Cross Section: 8mm², Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557220",
+      "price": 142.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_5a7a0bd1-469b-4bc4-8cfd-0bcd19d575be_large.jpg?v=1605078983"
+    },
+    {
+      "product_number": "FTCB15-10",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 75A, Cross Section: 10mm², Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557230",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_b0544f6f-0904-4874-880d-2bfb9b615635_large.jpg?v=1605078978"
+    },
+    {
+      "product_number": "FTCB15-16",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557240",
+      "price": 181.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_1ecae594-98b5-4575-a110-2269b2ff3a85_large.jpg?v=1605078972"
+    },
+    {
+      "product_number": "FTCB15-20",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 140A, Cross Section: 20mm², Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557250",
+      "price": 237.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_37dc047e-61eb-4bc8-ba88-45ef7900e112_large.jpg?v=1605078969"
+    },
+    {
+      "product_number": "FTCB15-25",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 150A, Cross Section: 25mm², Wire Diameter: 0.15mm, Thickness: 1.5mm, 25 Meters in a Roll, Part no: 557260",
+      "price": 258.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_103b1063-172e-4889-a4d4-575f6eb2a278_large.jpg?v=1605078965"
+    },
+    {
+      "product_number": "FTCB15-30",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 180A, Cross Section: 30mm², Wire Diameter: 0.15mm, Thickness: 2.0mm, 25 Meters in a Roll, Part no: 557270",
+      "price": 319.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_27c43dec-e0e0-42ca-9236-9bcbd3436d33_large.jpg?v=1605078962"
+    },
+    {
+      "product_number": "FTCB15-35",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 200A, Cross Section: 35mm², Wire Diameter: 0.15mm, Thickness: 2.5mm, 25 Meters in a Roll, Part no: 557280",
+      "price": 339.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_b6ea0ea4-c2a4-437a-a45c-f150910f5088_large.jpg?v=1605078959"
+    },
+    {
+      "product_number": "FTCB15-40",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 220A, Cross Section: 40mm², Wire Diameter: 0.15mm, Thickness: 2.5mm, 25 Meters in a Roll, Part no: 557290",
+      "price": 378.52,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_c9cd774f-d450-42ec-8d8f-1c416b68bcfb_large.jpg?v=1605078953"
+    },
+    {
+      "product_number": "FTCB15-50",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 250A, Cross Section: 50mm², Wire Diameter: 0.15mm, Thickness: 3.0mm, 25 Meters in a Roll, Part no: 557300",
+      "price": 463.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_dbe42926-0359-4ec2-b987-2d7458c7da63_large.jpg?v=1605078946"
+    },
+    {
+      "product_number": "FTCB15-60",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 280A, Cross Section: 60mm², Wire Diameter: 0.15mm, Thickness: 3.0mm, 25 Meters in a Roll, Part no: 557310",
+      "price": 567.17,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_ba46bd07-eb98-427a-8270-72bfbbdf9645_large.jpg?v=1605078943"
+    },
+    {
+      "product_number": "FTCB15-70",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 290A, Cross Section: 70mm², Wire Diameter: 0.15mm, Thickness: 3.5mm, 25 Meters in a Roll, Part no: 557320",
+      "price": 645.58,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_cf4956ef-fa6b-43c5-9923-ba6250a13bbd_large.jpg?v=1605078940"
+    },
+    {
+      "product_number": "FTCB15-75",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 300A, Cross Section: 75mm², Wire Diameter: 0.15mm, Thickness: 4mm, 25 Meters in a Roll, Part no: 557330",
+      "price": 689.67,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_f9ecbc7c-3cfa-4dc7-95ef-0d8fa6db3c20_large.jpg?v=1605078938"
+    },
+    {
+      "product_number": "FTCB15-100",
+      "description": "ERIFLEX FTCB Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 360A, Cross Section: 100mm², Wire Diameter: 0.15mm, Thickness: 4mm, 25 Meters in a Roll, Part no: 557350",
+      "price": 897.92,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_bb7175d1-d63b-420a-9294-ced82f8aa880_large.jpg?v=1605078932"
+    },
+    {
+      "product_number": "FTCBI16",
+      "description": "ERIFLEX FTCBI Insulated Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, Thickness: 3.5mm, 25 Meters in a Roll, Part no: 510300",
+      "price": 804.83,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_f7a09bdf-9134-4931-985d-bbc27cc4275a_large.jpg?v=1605078925"
+    },
+    {
+      "product_number": "FTCBI25",
+      "description": "ERIFLEX FTCBI Insulated Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 150A, Cross Section: 25mm², Wire Diameter: 0.15mm, Thickness: 3.5mm, 25 Meters in a Roll, Part no: 510310",
+      "price": 1217.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_236f6827-078d-46a0-91c9-7ef026289d0b_large.jpg?v=1605078919"
+    },
+    {
+      "product_number": "FTCBI50",
+      "description": "ERIFLEX FTCBI Insulated Flat Braid in Coil, Material: Tinned Copper, Nominal Current: 250A, Cross Section: 50mm², Wire Diameter: 0.15mm, Thickness: 5.0mm, 25 Meters in a Roll, Part no: 510340",
+      "price": 2318.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_1dfe993c-c13e-4182-88d6-06778f249e0d_large.jpg?v=1605078916"
+    },
+    {
+      "product_number": "PALM-16",
+      "description": "(Package of 2 Pieces) ERIFLEX PB Lug for Flat Braids, Material: Tinned Copper, Cross Section: 16mm², Thickness: 1mm, 100 Pieces in a Package, Part no: 557180",
+      "price": 242.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_10864d7a-8036-452f-8121-c417a81bbd8f_large.jpg?v=1605078914"
+    },
+    {
+      "product_number": "PALM-25",
+      "description": "ERIFLEX PB Lug for Flat Braids, Material: Tinned Copper, Cross Section: 25mm², Thickness: 1mm, 100 Pieces in a Package, Part no: 557190",
+      "price": 204.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_4f39a2c2-ae67-4a4a-bb04-4db267a06a84_large.jpg?v=1605078904"
+    },
+    {
+      "product_number": "RRCBI15-10",
+      "description": "ERIFLEX RRCBI Insulated Round Braid in Coil, Material: Plain Copper, Nominal Current: 75A, Cross Section: 10mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 510500",
+      "price": 540.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_56f7fffd-fe0a-474e-bf3b-617fb7671960_large.jpg?v=1605078894"
+    },
+    {
+      "product_number": "PALM-50",
+      "description": "ERIFLEX PB Lug for Flat Braids, Material: Tinned Copper, Cross Section: 50mm², Thickness: 1mm, 100 Pieces in a Package, Part no: 557380",
+      "price": 273.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e56bc66f-2eec-408e-9fcd-a90edfe532b7_large.jpg?v=1605078897"
+    },
+    {
+      "product_number": "RRCBI15-16",
+      "description": "ERIFLEX RRCBI Insulated Round Braid in Coil, Material: Plain Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 510510",
+      "price": 719.08,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_80beb451-88d9-4e26-a3e3-2780d110d2a0_large.jpg?v=1605078891"
+    },
+    {
+      "product_number": "RTCBI15-10",
+      "description": "ERIFLEX RTCBI Insulated Round Braid in Coil, Material: Tinned Copper, Nominal Current: 75A, Cross Section: 10mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 503400",
+      "price": 515.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_ef4d79d9-eb6a-4f8e-9ae3-dfb0cd99a916_large.jpg?v=1605078887"
+    },
+    {
+      "product_number": "RTCBI15-25",
+      "description": "ERIFLEX RTCBI Insulated Round Braid in Coil, Material: Tinned Copper, Nominal Current: 150A, Cross Section: 25mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 503420",
+      "price": 997.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9b4b8457-3508-473f-9a02-7794103ac7ff_large.jpg?v=1605078878"
+    },
+    {
+      "product_number": "RTCBI15-16",
+      "description": "ERIFLEX RTCBI Insulated Round Braid in Coil, Material: Tinned Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 503410",
+      "price": 697.02,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_5d56d7c7-1291-4c9b-940d-95b73162cdf0_large.jpg?v=1605078887"
+    },
+    {
+      "product_number": "RTCBI15-30",
+      "description": "ERIFLEX RTCBI Insulated Round Braid in Coil, Material: Tinned Copper, Nominal Current: 180A, Cross Section: 30mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 503430",
+      "price": 1250.72,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a88f28c5-1b63-4180-872d-553dd30d5c03_large.jpg?v=1605078873"
+    },
+    {
+      "product_number": "RTCBI15-50",
+      "description": "ERIFLEX RTCBI Insulated Round Braid in Coil, Material: Tinned Copper, Nominal Current: 250A, Cross Section: 50mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 503440",
+      "price": 2026.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_501b46fd-778b-4348-9e48-1f0b11df7c9b_large.jpg?v=1605078872"
+    },
+    {
+      "product_number": "RRCB15-6",
+      "description": "ERIFLEX RRCB Round Braid in Coil, Material: Plain Copper, Nominal Current: 45A, Cross Section: 6mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557400",
+      "price": 135.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_3b8813b8-206c-45ea-be9f-be8396b15847_large.jpg?v=1605078863"
+    },
+    {
+      "product_number": "RRCB15-10",
+      "description": "ERIFLEX RRCB Round Braid in Coil, Material: Plain Copper, Nominal Current: 75A, Cross Section: 10mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557420",
+      "price": 173.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_bbce6387-97fb-45d1-a1e7-eb2829862ea9_large.jpg?v=1605078863"
+    },
+    {
+      "product_number": "RRCB15-25",
+      "description": "ERIFLEX RRCB Round Braid in Coil, Material: Plain Copper, Nominal Current: 150A, Cross Section: 25mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557440",
+      "price": 322.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_32d6d64b-d62d-47a3-a926-51705c8bdde0_large.jpg?v=1605078857"
+    },
+    {
+      "product_number": "RRCB15-16",
+      "description": "ERIFLEX RRCB Round Braid in Coil, Material: Plain Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557430",
+      "price": 236.43,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_dbe0b5f6-aa54-4958-80a9-35a5112acd8c_large.jpg?v=1605078858"
+    },
+    {
+      "product_number": "RRCB15-30",
+      "description": "ERIFLEX RRCB Round Braid in Coil, Material: Plain Copper, Nominal Current: 1800A, Cross Section: 30mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557450",
+      "price": 371.18,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_6d1bc60c-7ea8-4d6f-9571-a752d4325d14_large.jpg?v=1605078851"
+    },
+    {
+      "product_number": "RRCB15-75",
+      "description": "ERIFLEX RRCB Round Braid in Coil, Material: Plain Copper, Nominal Current: 300A, Cross Section: 75mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557470",
+      "price": 835.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a50bd3b9-62b5-4922-a4af-b641a62837b4_large.jpg?v=1605078841"
+    },
+    {
+      "product_number": "RRCB15-50",
+      "description": "ERIFLEX RRCB Round Braid in Coil, Material: Plain Copper, Nominal Current: 250A, Cross Section: 50mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557460",
+      "price": 586.77,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_d3f264ea-6747-4720-b2d4-56fd67ef89fb_large.jpg?v=1605078848"
+    },
+    {
+      "product_number": "RTCB15-10HL",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 75A, Cross Section: 10mm², Wire Diameter: 0.15mm, 100 Meters in a Roll, Part no: 503700",
+      "price": 493.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_3b572bc9-41be-4bee-a1c9-f66458de4892_large.jpg?v=1605078836"
+    },
+    {
+      "product_number": "RTCB15-16HL",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, 100 Meters in a Roll, Part no: 503710",
+      "price": 768.08,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e4b4911e-817d-43b8-9822-0e44caac833f_large.jpg?v=1605078833"
+    },
+    {
+      "product_number": "RTCB15-25HL",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 150A, Cross Section: 25mm², Wire Diameter: 0.15mm, 100 Meters in a Roll, Part no: 503720",
+      "price": 911.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_8712daf8-4b8a-4167-a0d5-2419997c58dc_large.jpg?v=1605078830"
+    },
+    {
+      "product_number": "RTCB15-6",
+      "description": "(Package of 2 Pieces) ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 45A, Cross Section: 6mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557600",
+      "price": 232.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_2306a965-fca3-4438-bba4-f94512aec4fa_large.jpg?v=1605078824"
+    },
+    {
+      "product_number": "RTCB15-8",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 65A, Cross Section: 8mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557610",
+      "price": 127.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_1538a0e1-2381-4b5d-8857-0ba8238a5198_large.jpg?v=1605078824"
+    },
+    {
+      "product_number": "RTCB15-10",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 75A, Cross Section: 10mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557620",
+      "price": 143.32,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_f43155c1-d47b-41c7-9ab7-34465f81d56f_large.jpg?v=1605078820"
+    },
+    {
+      "product_number": "RTCB15-16",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 120A, Cross Section: 16mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557630",
+      "price": 227.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_70df2539-48ac-4be1-935b-efe34c47f071_large.jpg?v=1605078815"
+    },
+    {
+      "product_number": "RTCB15-25",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 150A, Cross Section: 25mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557640",
+      "price": 269.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_95f16536-a629-4f10-b8ce-79d35753c857_large.jpg?v=1605078809"
+    },
+    {
+      "product_number": "RTCB15-30",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 180A, Cross Section: 30mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557650",
+      "price": 309.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9a3b7fcb-a860-49be-9fb3-a6a59431841c_large.jpg?v=1605078806"
+    },
+    {
+      "product_number": "RTCB15-50",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 250A, Cross Section: 50mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557660",
+      "price": 513.27,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_468dc2d3-5c80-42cf-909f-9c6e49a51ef8_large.jpg?v=1605078803"
+    },
+    {
+      "product_number": "RTCB15-75",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 300A, Cross Section: 75mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557670",
+      "price": 744.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_58d73f8f-25c8-4f6d-a7e5-d2da734a229c_large.jpg?v=1605078796"
+    },
+    {
+      "product_number": "RTCB15-100",
+      "description": "ERIFLEX RTCB Round Braid in Coil, Material: Tinned Copper, Nominal Current: 360A, Cross Section: 100mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 557680",
+      "price": 971.42,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_79bc6dbd-9fe4-4cae-864d-43b72c086de2_large.jpg?v=1605078797"
+    },
+    {
+      "product_number": "TTCE3",
+      "description": "(Package of 2 Pieces) ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 13A, Cross Section: 1.7mm², Wire Diameter: 0.15mm, 50 Meters in a Roll, Part no: 510100",
+      "price": 227.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9ced5de6-391b-4652-acb5-ec6d322eb029_large.jpg?v=1605078788"
+    },
+    {
+      "product_number": "TTCE8HL",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 37A, Cross Section: 6.8mm², Wire Diameter: 0.15mm, 200 Meters in a Roll, Part no: 504690",
+      "price": 739.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_35877ffa-a8b0-4a7d-88f2-9a166143b961_large.jpg?v=1605078790"
+    },
+    {
+      "product_number": "TTCE5",
+      "description": "(Package of 2 Pieces) ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 19A, Cross Section: 2.5mm², Wire Diameter: 0.15mm, 50 Meters in a Roll, Part no: 510110",
+      "price": 242.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_0c9bc035-f481-4892-b2fe-70bfeeb12177_large.jpg?v=1605078775"
+    },
+    {
+      "product_number": "TTCE8",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 37A, Cross Section: 4.5mm², Wire Diameter: 0.15mm, 50 Meters in a Roll, Part no: 510120",
+      "price": 187.43,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_59790ad6-c71b-4d6d-ab4d-f4e0f1465ce6_large.jpg?v=1605078767"
+    },
+    {
+      "product_number": "TTCE10",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 43A, Cross Section: 5.7mm², Wire Diameter: 0.15mm, 50 Meters in a Roll, Part no: 510130",
+      "price": 166.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_3b61596f-8234-4317-a64d-16f4090f619b_large.jpg?v=1605078766"
+    },
+    {
+      "product_number": "TTCE15",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 90A, Cross Section: 12mm², Wire Diameter: 0.15mm, 50 Meters in a Roll, Part no: 510140",
+      "price": 351.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9388ab4d-b6b6-40c0-bc53-15a2a6320f62_large.jpg?v=1605078760"
+    },
+    {
+      "product_number": "TTCE20",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 122A, Cross Section: 20.4mm², Wire Diameter: 0.15mm, 50 Meters in a Roll, Part no: 510150",
+      "price": 405.48,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_42d4b644-3128-4928-a86b-0ea5993dc1eb_large.jpg?v=1605078761"
+    },
+    {
+      "product_number": "TTCE25",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 163A, Cross Section: 27.1mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 510160",
+      "price": 260.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_60416a97-5875-47a3-a99d-4ce7973c8de0_large.jpg?v=1605078750"
+    },
+    {
+      "product_number": "TTCE30",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 185A, Cross Section: 33.9mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 510170",
+      "price": 291.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_dd8e37f2-57bf-4381-8739-90835efc404e_large.jpg?v=1605078746"
+    },
+    {
+      "product_number": "TTCE35",
+      "description": "ERIFLEX TTCE Tubular Braid in Coil, Material: Tinned Copper, Nominal Current: 244A, Cross Section: 40.7mm², Wire Diameter: 0.15mm, 25 Meters in a Roll, Part no: 510180",
+      "price": 333.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_large.jpg?v=1605078740"
+    }
+  ]
+}

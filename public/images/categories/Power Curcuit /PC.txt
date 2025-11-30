@@ -1,8 +1,0 @@
-A25 Series Power Circuit Breaker
-• 600A through 2500A • IC ratings up to 85kA at 847V • Short-Time Withstand, 100kA at 635V • Fixed or Drawout mounting • 3 Pole and 4 Pole designs
-
-A32 Series Power Circuit Breaker
-• 800A through 3200A • IC ratings up to 100kA at 635 Vac • Short-Time Withstand, 100kA at 635 Vac • Fixed or Drawout mounting • 3 Pole and 4 Pole designs
-
-A40 Series Power Circuit Breaker
-• 4000A • Interrupting Capacity ratings up to 100kA @ 635 Vac and 85kA at 847 Vac • Short-Time Withstand, 100kA @ 635 Vac and 85kA at 847Vac • Fixed mounting • 3 Pole and 4 Pole designs

@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "product_number": "UZ-12",
+      "description": "(Package of 28 Pieces)Mounting Units for LS Overload Relays, Relay Type: MT-12, Screw Clamp Terminal",
+      "price": 112.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_21bf2ae1-3c8a-48a1-8ac9-9a013c84be99_large.jpg?v=1604685213"
+    },
+    {
+      "product_number": "UZ-63",
+      "description": "(Package of 24 Pieces) Mounting Units for LS Overload Relays, Compatible for Relay Type: MT-63, Screw/Lug Clamp Terminal",
+      "price": 144.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_24acd1d5-e123-4799-8fc6-e2b4847e5142_large.jpg?v=1604685214"
+    },
+    {
+      "product_number": "UZ-32",
+      "description": "(Package of 24 Pieces) Mounting Units for LS Overload Relays, Compatible for Relay Type: MT-32, Screw Clamp Terminal",
+      "price": 120.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_14c048a7-eca9-42aa-900d-0bbc959004ff_large.jpg?v=1604685214"
+    },
+    {
+      "product_number": "UM-4R",
+      "description": "(Package of 3 Pieces) Remote Reset Units of LS Overload Relays, Compatible for Relay Type: MT-32~95",
+      "price": 111.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_25817a7d-129d-4b59-8c8d-7bf8c0be5f7e_large.jpg?v=1604685217"
+    },
+    {
+      "product_number": "UZ-150",
+      "description": "(Package of 12 Pieces) Mounting Units for LS Overload Relays, Compatible for Relay Type: MT-150, Screw/Lug Clamp Terminal",
+      "price": 144.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_d24d8206-3dba-41d8-92a9-7eb62d85f989_large.jpg?v=1604685216"
+    },
+    {
+      "product_number": "UZ-95",
+      "description": "(Package of 24 Pieces) Mounting Units for LS Overload Relays, Compatible for Relay Type: MT-95, Screw/Lug Clamp Terminal",
+      "price": 168.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_0b360aba-bca6-4962-9a48-fe90cf8895a6_large.jpg?v=1604685215"
+    },
+    {
+      "product_number": "UM-5R",
+      "description": "(Package of 3 Pieces) Remote Reset Units of LS Overload Relays, Compatible for Relay Type: MT-32~96",
+      "price": 120.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_eb0580fa-e17e-4702-a7a6-66fe6dab09f1_large.jpg?v=1604685217"
+    },
+    {
+      "product_number": "APT-225",
+      "description": "(Package of 24 Pieces) Terminal Cover Units of LS Overload Relays, Compatible for Relay Type: MT-225",
+      "price": 120.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_fed1914c-02ab-4a2a-a77f-65b2b87ad4e3_large.jpg?v=1604685219"
+    },
+    {
+      "product_number": "UM-6R",
+      "description": "(Package of 3 Pieces) Remote Reset Units of LS Overload Relays, Compatible for Relay Type: MT-32~97",
+      "price": 141.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_61836a11-1f4b-4eee-94d8-341084fdc53a_large.jpg?v=1604685218"
+    },
+    {
+      "product_number": "APT-400",
+      "description": "(Package of 24 Pieces) Terminal Cover Units of LS Overload Relays, Compatible for Relay Type: MT-400",
+      "price": 120.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_1b5c5479-49e8-43a5-9ed3-8518c0d36cf8_large.jpg?v=1604685220"
+    },
+    {
+      "product_number": "APT-600",
+      "description": "(Package of 24 Pieces) Terminal Cover Units of LS Overload Relays, Compatible for Relay Type: MT-600",
+      "price": 144.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_bfb0742c-ee3f-4953-9c8a-554bef3dba59_large.jpg?v=1604685220"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "product_number": "SBLL-250",
+      "description": "(Package of 6 Pieces) ERIFLEX SBLL-250 Lug-to-Lug Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 290A, Max Working Voltage: 1000V, Number of Stud Connections: 2, 1 Piece in a package, Part no: 561132",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLL-250Lug-to-LugPowerTerminal_large.jpg?v=1605109305"
+    },
+    {
+      "product_number": "SBLL-800",
+      "description": "(Package of 2 Pieces) ERIFLEX SBLL-800 Lug-to-Lug Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 1250A, Max Working Voltage: 1000V, Number of Stud Connections: 4, 1 Piece in a package, Part no: 561136",
+      "price": 137.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLL-800Lug-to-LugPowerTerminal_large.jpg?v=1605109296"
+    },
+    {
+      "product_number": "SBLL-500",
+      "description": "(Package of 4 Pieces) ERIFLEX SBLL-500 Lug-to-Lug Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 750A, Max Working Voltage: 1000V, Number of Stud Connections: 2, 1 Piece in a package, Part no: 561134",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLL-500Lug-to-LugPowerTerminal_large.jpg?v=1605109303"
+    },
+    {
+      "product_number": "SBLT-250",
+      "description": "(Package of 3 Pieces) ERIFLEX SBLT-250 Lug-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 350A, Max Working Voltage: 1000VAC/DC, Number of Stud Connections: 1, 1 Piece in a package, Part no: 561140",
+      "price": 158.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLT-250Lug-to-TunnelPowerTerminal_large.jpg?v=1605109283"
+    },
+    {
+      "product_number": "SBLT-350",
+      "description": "(Package of 3 Pieces) ERIFLEX SBLT-350 Lug-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 500A, Max Working Voltage: 1000VAC/DC, Number of Stud Connections: 1, 1 Piece in a package, Part no: 561142",
+      "price": 158.03,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLT-350Lug-to-TunnelPowerTerminal_large.jpg?v=1605109280"
+    },
+    {
+      "product_number": "SBLT-500",
+      "description": "(Package of 2 Pieces) ERIFLEX SBLT-500 Lug-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 750A, Max Working Voltage: 1000VAC/DC, Number of Stud Connections: 1, 1 Piece in a package, Part no: 561144",
+      "price": 164.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLT-500Lug-to-TunnelPowerTerminal_large.jpg?v=1605109254"
+    },
+    {
+      "product_number": "SBLT-800",
+      "description": "ERIFLEX SBLT-800 Lug-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 1250A, Max Working Voltage: 1000VAC/DC, Number of Stud Connections: 2, 1 Piece in a package, Part no: 561146",
+      "price": 150.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLT-800Lug-to-TunnelPowerTerminal_9c22911a-29b3-45e6-82fd-daa184c7fa1b_large.jpg?v=1605109232"
+    },
+    {
+      "product_number": "SBTT-250",
+      "description": "(Package of 4 Pieces) ERIFLEX SBTT-250 Tunnel-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 350A, Max Working Voltage: 1000VAC/DC, Number of Tunnel Connections: 4, 1 Piece in a package, Part no: 561141",
+      "price": 161.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBTT-250Tunnel-to-TunnelPowerTerminal_large.jpg?v=1605109222"
+    },
+    {
+      "product_number": "SBTT-350",
+      "description": "(Package of 3 Pieces) ERIFLEX SBTT-350 Tunnel-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 500A, Max Working Voltage: 1000VAC/DC, Number of Tunnel Connections: 2, 1 Piece in a package, Part no: 561143",
+      "price": 150.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBTT-350Tunnel-to-TunnelPowerTerminal_large.jpg?v=1605109205"
+    },
+    {
+      "product_number": "SBTT-500",
+      "description": "(Package of 2 Pieces) ERIFLEX SBTT-500 Tunnel-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 750A, Max Working Voltage: 1000VAC/DC, Number of Tunnel Connections: 4, 1 Piece in a package, Part no: 561145",
+      "price": 149.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBTT-500Tunnel-to-TunnelPowerTerminal_large.jpg?v=1605109191"
+    },
+    {
+      "product_number": "SBLEC",
+      "description": "(Package of 48 Pieces) ERIFLEX SBLEC Power Terminals Fixing Accessory, Material: Thermoplastic, 1 Piece in a package, Part no: 561138",
+      "price": 235.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLECPowerTerminalsFixingAccessory_large.jpg?v=1605109159"
+    },
+    {
+      "product_number": "SBTT-800",
+      "description": "ERIFLEX SBTT-800 Tunnel-to-Tunnel Power Terminal, Material: Tinned Copper; Thermoplastic, Max Current Rating: 1250A, Max Working Voltage: 1000VAC/DC, Number of Tunnel Connections: 4, 1 Piece in a package, Part no: 561147",
+      "price": 144.55,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/SBLT-800Lug-to-TunnelPowerTerminal_large.jpg?v=1605109180"
+    }
+  ]
+}

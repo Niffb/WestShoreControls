@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "product_number": "UBS4-5T",
+      "description": "ERIFLEX Universal Busbar Support, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 3500 A, Busbars per Phase: 1~4, Busbar Width: 30 ~ 125 mm, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 551020",
+      "price": 231.53,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_16e58c61-34a7-4331-8fc6-e0aa453a40ed_large.jpg?v=1604843613"
+    },
+    {
+      "product_number": "UBS2-10T",
+      "description": "ERIFLEX Universal Busbar Support, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 3600 A, Busbars per Phase: 1~2, Busbar Width: 30 ~ 120 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 551080",
+      "price": 262.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_2531bc36-92ac-4808-a115-a0da70fa9c11_large.jpg?v=1604843609"
+    },
+    {
+      "product_number": "UBS1-10TN",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 2250 A, Busbars per Phase: 1, Busbar Width: 30 ~ 120 mm, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 551060",
+      "price": 227.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_cbac6a61-3369-4c81-9634-58115cfeab83_large.jpg?v=1604843603"
+    },
+    {
+      "product_number": "UBS1-5TN",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 1700 A, Busbars per Phase: 1, Busbar Width: 30 ~ 125 mm, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 551000",
+      "price": 229.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_094777e7-5fd8-4ad1-bc7c-121a7344b03e_large.jpg?v=1604843605"
+    },
+    {
+      "product_number": "UBS4-5TN",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 3500 A, Busbars per Phase: 1~4, Busbar Width: 30 ~ 125 mm, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 551010",
+      "price": 278.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_54f421e7-8986-4538-beff-0aea39b7d236_large.jpg?v=1604843597"
+    },
+    {
+      "product_number": "UBS2-10TN",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 3600 A, Busbars per Phase: 1~2, Busbar Width: 30 ~ 120 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 551070",
+      "price": 295.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_627f938d-b806-4dfb-a6bb-843a01b6622a_large.jpg?v=1604843597"
+    },
+    {
+      "product_number": "UBS2-10T-161",
+      "description": "ERIFLEX Universal Busbar Support, High Ampacity, Material: Steel; Glass Fibre Reinforced Polyamide; Stainless Steel, Typical Application Current Rating: 5700 A, Busbars per Phase: 1~2, Busbar Width: 160 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 561520",
+      "price": 281.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_3e1f5414-4c6a-4415-b054-aa2352561715_large.jpg?v=1604843584"
+    },
+    {
+      "product_number": "UBS3-10TN",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 4500 A, Busbars per Phase: 1~3, Busbar Width: 30 ~ 120 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 551090",
+      "price": 414.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_edf2ee99-825c-476c-99d0-d17f2c883513_large.jpg?v=1604843594"
+    },
+    {
+      "product_number": "UBS1-10TN-161",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, High Ampacity, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 3500 A, Busbars per Phase: 1, Busbar Width: 160 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 561500",
+      "price": 237.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_c49749dd-516d-434d-b339-a3abc502b78a_large.jpg?v=1604843575"
+    },
+    {
+      "product_number": "UBS2-10TN-200",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, High Ampacity, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 5700 A, Busbars per Phase: 1 ~ 2, Busbar Width: 200 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 561880",
+      "price": 320.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_0c94c2b6-0f86-45e5-88a6-1c50afffad9c_large.jpg?v=1604843557"
+    },
+    {
+      "product_number": "UBS2-10TN-160",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, High Ampacity, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 5700 A, Busbars per Phase: 1 ~2, Busbar Width: 160 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 561870",
+      "price": 254.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_f1d47ca8-ec75-4cbe-adab-e78a52824bc5_large.jpg?v=1604843569"
+    },
+    {
+      "product_number": "UBS3-10TN-161",
+      "description": "ERIFLEX Universal Busbar Support with Neutral Circuit, High Ampacity, Material: Steel; Glass Fibre Reinforced Polyamide, Typical Application Current Rating: 7400 A, Busbars per Phase: 1 ~ 3, Busbar Width: 160 mm, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 561540",
+      "price": 443.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_large.jpg?v=1604843554"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_number": "ENDCOV32",
+      "description": "(Package of 6 Pieces) ERIFLEX Flexibar End Cover, Material: Polycarbonate, Conductor width: 32mm, 12 piece in a box, Part no: 541776",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/EndCovers_1_abb9a3eb-464b-4cb5-8ebb-0e732fd45abf_large.jpg?v=1604814155"
+    },
+    {
+      "product_number": "ENDCOV24",
+      "description": "(Package of 6 Pieces) ERIFLEX Flexibar End Cover, Material: Polycarbonate, Conductor width: 24mm, 12 piece in a box, Part no: 541775",
+      "price": 132.3,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/EndCovers_1_12c43dda-efa8-4a05-9977-76984b4d88bf_large.jpg?v=1604814155"
+    },
+    {
+      "product_number": "ENDCOV20",
+      "description": "(Package of 6 Pieces) ERIFLEX Flexibar End Cover, Material: Polycarbonate, Conductor width: 20mm, 12 piece in a box, Part no: 541774",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/EndCovers_1_large.jpg?v=1604814153"
+    }
+  ]
+}

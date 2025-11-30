@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "GMC-10P2-240",
+      "description": "(Package of 6 Pieces) 10A LS MetaMec Contactor, 220-240V, 2 Pole, Screw Type",
+      "price": 144.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_ee3f883b-13eb-4534-be72-6278a0ffdf4d_large.jpg?v=1628530119"
+    },
+    {
+      "product_number": "GMC-20P2-240",
+      "description": "(Package of 6 Pieces) 20A LS MetaMec Contactor, 220-240V, 2 Pole, Screw Type",
+      "price": 168.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_9ec666a1-0a54-4182-8048-6fb4ddbfae7a_large.jpg?v=1628530133"
+    },
+    {
+      "product_number": "GMC-25P2-240",
+      "description": "(Package of 6 Pieces) 25A LS MetaMec Contactor, 220-240V, 2 Pole, Screw Type",
+      "price": 186.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_f61fc03a-6e8e-4398-b101-473134bab3c2_large.jpg?v=1628530150"
+    },
+    {
+      "product_number": "GMC-35P2-240",
+      "description": "(BOX OF 3 PIECES) 35A LS MetaMec Contactor, 220-240V, 2 Pole, Screw Type",
+      "price": 117.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_930f20dc-5160-42b8-9168-8873cabef41b_large.jpg?v=1628530164"
+    },
+    {
+      "product_number": "GMC-30P2-240",
+      "description": "(BOX OF 3 PIECES) 30A LS MetaMec Contactor, 220-240V, 2 Pole, Screw Type",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_d89f5f5e-0d99-429f-af53-54db10e846a6_large.jpg?v=1628530180"
+    },
+    {
+      "product_number": "GMC-40P2-240",
+      "description": "(BOX OF 3 PIECES) 40A LS MetaMec Contactor, 220-240V, 2 Pole, Screw Type",
+      "price": 126.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_11b6f7cd-06b2-4405-8823-c24587f3c8d3_large.jpg?v=1628530198"
+    }
+  ]
+}

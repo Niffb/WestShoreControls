@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "product_number": "CABS2-10TN-400",
+      "description": "ERIFLEX CABS Busbar Support Kit, Material: Aluminum; Glass Fibre Reinforced Polyamide; Steel, Busbars per Phase: 1~2, Busbar Width: 30~120 mm, Busbar Thickness: 10 mm, 1 Pieces in a package, Part no: 549320",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_large.jpg?v=1604836057"
+    },
+    {
+      "product_number": "CABS2-10TN-600",
+      "description": "ERIFLEX CABS Busbar Support Kit, Material: Aluminum; Glass Fibre Reinforced Polyamide; Steel, Busbars per Phase: 1~2, Busbar Width: 30~120 mm, Busbar Thickness: 10 mm, 1 Pieces in a package, Part no: 549270",
+      "price": 156.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_ae0e4678-6df1-497d-8528-fa28cbee130c_large.jpg?v=1604836110"
+    },
+    {
+      "product_number": "CABS4-5TN-400",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Busbar Support Kit, Material: Aluminum; Glass Fibre Reinforced Polyamide; Steel, Busbars per Phase: 1~4, Busbar Width: 30~125 mm, Busbar Thickness: 10 mm, 1 Pieces in a package, Part no: 549310",
+      "price": 191.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_35ea16b2-bf7b-4c0d-a189-be7e5d6f52ef_large.jpg?v=1604836110"
+    },
+    {
+      "product_number": "CABS4-5TN-600",
+      "description": "ERIFLEX CABS Busbar Support Kit, Material: Aluminum; Glass Fibre Reinforced Polyamide; Steel, Busbars per Phase: 1~4, Busbar Width: 30~125 mm, Busbar Thickness: 10 mm, 1 Pieces in a package, Part no: 549260",
+      "price": 122.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_6d90bae0-c481-4847-96b9-643004f6e273_large.jpg?v=1604836104"
+    },
+    {
+      "product_number": "CABS3-10T-MOD",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Module Kit, Material: Steel; Glass Fibre Reinforced Polyamide, Busbar Width: 30~120 mm, Busbars per Phase: 1~3, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 549390",
+      "price": 149.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_7b31587f-fe7b-4c4f-895f-494bd37a76fe_large.jpg?v=1604836094"
+    },
+    {
+      "product_number": "CABS2-10T-MOD",
+      "description": "(Package of 3 Pieces) ERIFLEX CABS Module Kit, Material: Steel; Glass Fibre Reinforced Polyamide, Busbar Width: 30~120 mm, Busbars per Phase: 1~2, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 549380",
+      "price": 165.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_33c674b5-6ad4-494e-a9f8-1bb2617aca27_large.jpg?v=1604836100"
+    },
+    {
+      "product_number": "CABS4-5T-MOD",
+      "description": "(Package of 3 Pieces) ERIFLEX CABS Module Kit, Material: Steel; Glass Fibre Reinforced Polyamide, Busbar Width: 30~125 mm, Busbars per Phase: 1~4, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 549370",
+      "price": 165.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_91feba08-6c7d-44c5-bc23-c94e8ceb408f_large.jpg?v=1604836092"
+    },
+    {
+      "product_number": "CABS2-10TN-MOD",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Module Kit with Neutral, Material: Steel; Glass Fibre Reinforced Polyamide, Current Rating: 400 ~ 4500 A, Busbar Width: 30~120 mm, Busbars per Phase: 1~2, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 549350",
+      "price": 139.65,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_974126a6-e837-49b7-96d7-4773517805c4_large.jpg?v=1604836088"
+    },
+    {
+      "product_number": "CABS3-10TN-MOD",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Module Kit with Neutral, Material: Steel; Glass Fibre Reinforced Polyamide, Current Rating: 400 ~ 4500 A, Busbar Width: 30~120 mm, Busbars per Phase: 1~3, Busbar Thickness: 10 mm, 1 Piece in a package, Part no: 549360",
+      "price": 191.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_57bef198-3815-4606-83b5-c9d37b1603ff_large.jpg?v=1604836082"
+    },
+    {
+      "product_number": "CABS4-5TN-MOD",
+      "description": "(Package of 2 Pieces) ERIFLEX CABS Module Kit with Neutral, Material: Steel; Glass Fibre Reinforced Polyamide, Current Rating: 400 ~ 4500 A, Busbar Width: 30~125 mm, Busbars per Phase: 1~4, Busbar Thickness: 5 mm, 1 Piece in a package, Part no: 549340",
+      "price": 124.95,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_5f687a68-63c7-4f1f-9ed5-98a24f96ab6d_large.jpg?v=1604836082"
+    }
+  ]
+}

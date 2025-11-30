@@ -1,0 +1,123 @@
+{
+    "products": [
+      {
+        "product_number": "FR-A860-00027-E1N6",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 2hp(SLD)/ 1.5hp(LD)/ 1hp(ND)/ 0.5hp(HD), Rated Current: 2.7 A(SLD)/ 2.5 A(LD)/ 1.7A(ND)/ 1A(HD), Frame Size: C, Weight: 11.7(lbs), Natural Cooling, UL TYPE 1 Protective rating.",
+        "price": 2484.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-00061-E1N6",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 5hp(SLD)/ 3hp(LD)/ 3hp(ND)/ 2hp(HD), Rated Current: 6.1 A(SLD)/ 5.6A(LD)/ 4A(ND)/ 2.7A(HD), Frame Size: C, Weight: 12.8(lbs), Forced Air Cooling, UL TYPE 1 Protective rating.",
+        "price": 2753.93,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-00090-E1N6",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 7.5hp(SLD)/ 5hp(LD)/ 5hp(ND)/ 3hp(HD), Rated Current: 9 A(SLD)/ 8.2A(LD)/ 6.1A(ND)/ 4A(HD), Frame Size: C, Weight: 12.8(lbs), Forced Air Cooling, UL TYPE 1 Protective rating.",
+        "price": 3103.34,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-00170-E1N6",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 15hp(SLD)/ 10hp(LD)/ 10hp(ND)/ 7.5hp(HD), Rated Current: 17 A(SLD)/ 16A(LD)/ 12A(ND)/ 9A(HD), Frame Size: D, Weight: 15.4(lbs), Forced Air Cooling, UL TYPE 1 Protective rating.",
+        "price": 3944.59,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-00320-E1N6",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 30hp(SLD)/ 25hp(LD)/ 20hp(ND)/ 10hp(HD), Rated Current: 32 A(SLD)/ 27A(LD)/ 22A(ND)/ 16A(HD), Frame Size: E, Weight: 19.8(lbs), Forced Air Cooling, UL TYPE 1 Protective rating.",
+        "price": 6635.59,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-00450-E1N6",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 40hp(SLD)/ 40hp(LD)/ 30hp(ND)/ 20hp(HD), Rated Current: 45A(SLD)/ 41A(LD)/ 33A(ND)/ 24A(HD), Frame Size: F, Weight: 37.4(lbs), Forced Air Cooling, UL TYPE 1 Protective rating.",
+        "price": 7797.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-01080-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 100hp(SLD)/ 100hp(LD)/ 75hp(ND)/ 60hp(HD), Rated Current: 108A(SLD)/ 99A(LD)/ 84A(ND)/ 63A(HD), Frame Size: H, Weight: 90.2(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 16078.38,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-00680-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 60hp(SLD)/ 60hp(LD)/ 50hp(ND)/ 40hp(HD), Rated Current: 68A(SLD)/ 62A(LD)/ 55A(ND)/ 41A(HD), Frame Size: H, Weight: 79.2(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 11887.32,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-01440-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 150hp(SLD)/ 125hp(LD)/ 100hp(ND)/ 75hp(HD), Rated Current: 144A(SLD)/ 131A(LD)/ 104A(ND)/ 84A(HD), Frame Size: J, Weight: 114(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 18496.14,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-02430-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 250hp(SLD)/ 200hp(LD)/ 150hp(ND)/ 125hp(HD), Rated Current: 243A(SLD)/ 221A(LD)/ 152A(ND)/ 131A(HD), Frame Size: J, Weight: 121(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 24107.22,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-01670-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 150hp(SLD)/ 150hp(LD)/ 125hp(ND)/ 100hp(HD), Rated Current: 167A(SLD)/ 152A(LD)/ 131A(ND)/ 104A(HD), Frame Size: J, Weight: 114(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 21576.30,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-02890-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 300hp(SLD)/ 250hp(LD)/ 200hp(ND)/ 150hp(HD), Rated Current: 289A(SLD)/ 255A(LD)/ 221A(ND)/ 152A(HD), Frame Size: M, Weight: 246(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 28243.08,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-03360-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 350hp(SLD)/ 300hp(LD)/ 250hp(ND)/ 200hp(HD), Rated Current: 336A(SLD)/ 304A(LD)/ 255A(ND)/ 202A(HD), Frame Size: M, Weight: 253(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 34764.96,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A860-04420-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 450hp(SLD)/ 400hp(LD)/ 300hp(ND)/ 250hp(HD), Rated Current: 442A(SLD)/ 402A(LD)/ 304A(ND)/ 255A(HD), Frame Size: N, Weight: 337(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 38467.50,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A862-06470-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 650hp(SLD)/ 600hp(LD)/ 500hp(ND)/ 400hp(HD), Rated Current: 647A(SLD)/ 589A(LD)/ 496A(ND)/ 402A(HD), Frame Size: Q, Weight: 920(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 75067.86,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A862-05450-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 550hp(SLD)/ 500hp(LD)/ 400hp(ND)/ 300hp(HD), Rated Current: 545A(SLD)/ 496A(LD)/ 402A(ND)/ 304A(HD), Frame Size: P, Weight: 810(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 51240.78,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      },
+      {
+        "product_number": "FR-A862-08500-E160",
+        "description": "Standard Model Mitsubishi Inverter, 600V Class, Applicable motor capacity: 850hp(SLD)/ 750hp(LD)/ 650hp(ND)/ 600hp(HD), Rated Current: 850A(SLD)/ 773A(LD)/ 663A(ND)/ 589A(HD), Frame Size: Q, Weight: 1126(lbs), Forced Air Cooling, Open TYPE IP00 Protective rating.",
+        "price": 85681.44,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-A862-08500-E160_large.webp"
+      }
+    ]
+  }

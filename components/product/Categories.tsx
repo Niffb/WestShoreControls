@@ -203,7 +203,7 @@ export default function Categories() {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            <Link href="/brands" className="btn-primary text-lg px-8 py-3 inline-block relative overflow-hidden">
+            <Link href="/products" className="btn-primary text-lg px-8 py-3 inline-block relative overflow-hidden">
               <motion.div
                 className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent"
                 initial={{ x: '-100%' }}

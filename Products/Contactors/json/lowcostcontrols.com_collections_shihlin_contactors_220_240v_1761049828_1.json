@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "product_number": "S-P09-240",
+      "description": "(Box of 3 Pieces) 9A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 146.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P09_large.jpg?v=1609658667"
+    },
+    {
+      "product_number": "S-P11-240",
+      "description": "(Box of 3 Pieces) 11A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 157.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P11_large.jpg?v=1609658668"
+    },
+    {
+      "product_number": "S-P12-240",
+      "description": "(Box of 3 Pieces) 12A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 232.12,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P12_large.jpg?v=1609658670"
+    },
+    {
+      "product_number": "S-P16-240",
+      "description": "(Box of 3 Pieces) 16A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 202.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P16_large.jpg?v=1609658672"
+    },
+    {
+      "product_number": "S-P21-240",
+      "description": "(Box of 3 Pieces) 21A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 118.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P21_large.jpg?v=1609658673"
+    },
+    {
+      "product_number": "S-P30T-240",
+      "description": "(Box of 3 Pieces) 30A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 272.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P30T_large.jpg?v=1609658675"
+    },
+    {
+      "product_number": "S-P35T-240",
+      "description": "35A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 104.1,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P35T_large.jpg?v=1609658677"
+    },
+    {
+      "product_number": "S-P40T-240",
+      "description": "40A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 121.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P40T_large.jpg?v=1609658679"
+    },
+    {
+      "product_number": "S-P50T-240",
+      "description": "50A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 142.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P50T_large.jpg?v=1609658680"
+    },
+    {
+      "product_number": "S-P60T-240",
+      "description": "60A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 185.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P60T_large.jpg?v=1609658682"
+    },
+    {
+      "product_number": "S-P80T-240",
+      "description": "80A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 245.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P80T_large.jpg?v=1609658683"
+    },
+    {
+      "product_number": "S-P100T-240",
+      "description": "100A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 395.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P100T_large.jpg?v=1609658685"
+    },
+    {
+      "product_number": "S-P125T-240",
+      "description": "125A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 432.6,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P125T_large.jpg?v=1609658687"
+    },
+    {
+      "product_number": "S-P150T-240",
+      "description": "150A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 472.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P150T_large.jpg?v=1609658688"
+    },
+    {
+      "product_number": "S-P200T-240",
+      "description": "200A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 585.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P200T_large.jpg?v=1609658690"
+    },
+    {
+      "product_number": "S-P220T-240",
+      "description": "220A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 638.4,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P220T_large.jpg?v=1609658691"
+    },
+    {
+      "product_number": "S-P300T-240",
+      "description": "300A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 866.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P300_large.jpg?v=1609658693"
+    },
+    {
+      "product_number": "S-P400T-240",
+      "description": "400A Shihlin Magnetic Contactor, 3 Pole, 220-240V",
+      "price": 971.5,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Shihlin_S-P400_large.jpg?v=1609658695"
+    }
+  ]
+}

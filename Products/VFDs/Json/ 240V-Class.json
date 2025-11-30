@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "product_number": "FR-A820-00046-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 1hp(SLD)/ 1hp(LD)/ 0.75hp(ND)/ 0.25hp(HD), Rated Current: 4.6 A(SLD)/ 4.2 A(LD)/ 3A(ND)/ 1.5A(HD), Frame Size: A, Weight: 5.5(lbs), Natural Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 1026.72,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00077-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 2hp(SLD)/ 2hp(LD)/ 1hp(ND)/ 0.5hp(HD), Rated Current: 7.7 A(SLD)/ 7 A(LD)/ 5A(ND)/ 3A(HD), Frame Size: B, Weight: 5.9(lbs), Natural Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 1112.28,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00167-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 5hp(SLD)/ 5hp(LD)/ 3hp(ND)/ 2hp(HD), Rated Current: 16.7A(SLD)/ 15.2 A(LD)/ 11A(ND)/ 8A(HD), Frame Size: C, Weight: 8.8(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 1338.60,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00105-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 3hp(SLD)/ 3hp(LD)/ 2hp(ND)/ 1hp(HD), Rated Current: 10.5A(SLD)/ 9.6 A(LD)/ 8A(ND)/ 5A(HD), Frame Size: C, Weight: 8.8(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 1222.68,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00340-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 10hp(SLD)/ 10hp(LD)/ 7.5hp(ND)/ 5hp(HD), Rated Current: 34A(SLD)/ 31 A(LD)/ 24A(ND)/ 17.5A(HD), Frame Size: D, Weight: 16.7(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 2023.08,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00250-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 7.5hp(SLD)/ 7.5hp(LD)/ 5hp(ND)/ 3hp(HD), Rated Current: 25A(SLD)/ 23 A(LD)/ 17.5A(ND)/ 11A(HD), Frame Size: C, Weight: 8.8(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 1589.76,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00490-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 20hp(SLD)/ 15hp(LD)/ 10hp(ND)/ 7.5hp(HD), Rated Current: 49A(SLD)/ 45 A(LD)/ 33A(ND)/ 24A(HD), Frame Size: D, Weight: 16.7(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 2765.52,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00630-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 20hp(SLD)/ 30hp(LD)/ 15hp(ND)/ 10hp(HD), Rated Current: 63A(SLD)/ 58A(LD)/ 46A(ND)/ 33A(HD), Frame Size: E, Weight: 20.5(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 3796.38,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00770-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 25hp(SLD)/ 25hp(LD)/ 20hp(ND)/ 15hp(HD), Rated Current: 77A(SLD)/ 70.5A(LD)/ 61A(ND)/ 46A(HD), Frame Size: F, Weight: 37.4(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 5025.96,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-00930-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 30hp(SLD)/ 30hp(LD)/ 25hp(ND)/ 20hp(HD), Rated Current: 93A(SLD)/ 85A(LD)/ 76A(ND)/ 61A(HD), Frame Size: F, Weight: 37.4(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 5998.86,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-01250-E1N6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 40hp(SLD)/ 40hp(LD)/ 30hp(ND)/ 25hp(HD), Rated Current: 125A(SLD)/ 114A(LD)/ 90A(ND)/ 76A(HD), Frame Size: F, Weight: 37.4(lbs), Forced Air Cooling, NEMA1, UL TYPE 1 Protective rating.",
+      "price": 6532.92,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-01540-E160",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 60hp(SLD)/ 50hp(LD)/ 40hp(ND)/ 30hp(HD), Rated Current: 154A(SLD)/ 140A(LD)/ 115A(ND)/ 90A(HD), Frame Size: G, Weight: 48.4(lbs), Forced Air Cooling, IP00 Protective rating.",
+      "price": 8155.80,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-01870-E160",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 60hp(SLD)/ 60hp(LD)/ 50hp(ND)/ 40hp(HD), Rated Current: 187A(SLD)/ 170A(LD)/ 145A(ND)/ 115A(HD), Frame Size: H, Weight: 92.4(lbs), Forced Air Cooling, IP00 Protective rating.",
+      "price": 10005.00,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-02330-E160",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 75hp(SLD)/ 75hp(LD)/ 60hp(ND)/ 50hp(HD), Rated Current: 233A(SLD)/ 212A(LD)/ 175A(ND)/ 145A(HD), Frame Size: H, Weight: 92.4(lbs), Forced Air Cooling, IP00 Protective rating.",
+      "price": 9417.12,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-03160-E160",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 125hp(SLD)/ 100hp(LD)/ 75hp(ND)/ 60hp(HD), Rated Current: 316A(SLD)/ 288A(LD)/ 215A(ND)/ 175A(HD), Frame Size: K, Weight: 118.8(lbs), Forced Air Cooling, IP00 Protective rating.",
+      "price": 9745.97,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-04750-E1U6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 150hp(SLD)/ 150hp(LD)/ 125hp(ND)/ 100hp(HD), Rated Current: 475A(SLD)/ 432A(LD)/ 346A(ND)/ 288A(HD), Frame Size: L, Weight: 162.8(lbs), Forced Air Cooling, IP00 Protective rating.",
+      "price": 17718.10,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    },
+    {
+      "product_number": "FR-A820-03800-E1U6",
+      "description": "Standard Model Mitsubishi Inverter, 240V Class, Applicable motor capacity: 150hp(SLD)/ 125hp(LD)/ 100hp(ND)/ 75hp(HD), Rated Current: 380A(SLD)/ 346A(LD)/ 288A(ND)/ 215A(HD), Frame Size: L, Weight: 162.8(lbs), Forced Air Cooling, IP00 Protective rating.",
+      "price": 15153.50,
+      "stock_status": "In Stock",
+      "image_url": "/Products/VFDs/Images/Mitsubishi_FR-A800_240_VFDs_medium.avif"
+    }
+  ]
+}

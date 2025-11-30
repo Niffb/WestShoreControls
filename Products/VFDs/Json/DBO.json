@@ -1,0 +1,81 @@
+{
+    "products": [
+      {
+        "product_number": "FR-BU2-1.5K",
+        "description": "240V 2HP BRAKE UNIT",
+        "price": 639.22,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-3.7K",
+        "description": "240V 5HP BRAKE UNIT",
+        "price": 682.27,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-15K",
+        "description": "240V 20HP BRAKE UNIT",
+        "price": 821.38,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-7.5K",
+        "description": "240V 10HP BRAKE UNIT",
+        "price": 751.82,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-30K",
+        "description": "240V 40HP BRAKE UNIT",
+        "price": 1334.74,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-H7.5K",
+        "description": "480V 10HP BRAKE UNIT",
+        "price": 1140.98,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-55K",
+        "description": "240V 75HP BRAKE UNIT",
+        "price": 2114.71,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-H30K",
+        "description": "480V 40HP BRAKE UNIT",
+        "price": 1677.53,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-H15K",
+        "description": "480V 20HP BRAKE UNIT",
+        "price": 1195.63,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-H55K",
+        "description": "480V 75HP BRAKE UNIT",
+        "price": 2768.83,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      },
+      {
+        "product_number": "FR-BU2-C22K",
+        "description": "600V 22KW BRAKE UNIT",
+        "price": 2205.79,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
+      }
+    ]
+  }

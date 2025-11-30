@@ -1,0 +1,507 @@
+{
+    "products": [
+      {
+        "product_number": "LSLV0004S100-1EONNS",
+        "description": "1/2HP LS S100 High Perfomance Standard VFD, Single Phase, 200-240V, 2.5A Constant Torque Output.",
+        "price": 236.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-1EONNS",
+        "description": "1HP LS S100 High Perfomance Standard VFD, Single Phase, 200-240V, 5A Constant Torque Output.",
+        "price": 319.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-1EONNS",
+        "description": "2HP LS S100 High Perfomance Standard VFD, Single Phase, 200-240V, 8A Constant Torque Output.",
+        "price": 349.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0004S100-1EOFNS",
+        "description": "1/2HP LS S100 Standard VFD, Single Phase, 200-240V, 2.5A Constant Torque Output, Built-in EMC Filter.",
+        "price": 308.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-1EONNS",
+        "description": "3HP LS S100 High Perfomance Standard VFD, Single Phase, 200-240V, 11A Constant Torque Output.",
+        "price": 455.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-1EOFNS",
+        "description": "2HP LS S100 Standard VFD, Single Phase, 200-240V, 8A Constant Torque Output, Built-in EMC Filter.",
+        "price": 394.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-1EOFNS",
+        "description": "1HP LS S100 Standard VFD, Single Phase, 200-240V, 5A Constant Torque Output, Built-in EMC Filter.",
+        "price": 363.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-1EOFNS",
+        "description": "3HP LS S100 Standard VFD, Single Phase, 200-240V, 11A Constant Torque Output, Built-in EMC Filter.",
+        "price": 500.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0004S100-2EONNS",
+        "description": "1/2HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 2.5A Constant Torque Output.",
+        "price": 224.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-2EONNS",
+        "description": "1HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 5A Constant Torque Output.",
+        "price": 258.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-2EONNS",
+        "description": "3HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 11A Constant Torque Output.",
+        "price": 343.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-2EONNS",
+        "description": "2HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 8A Constant Torque Output.",
+        "price": 297.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037S100-2EONNS",
+        "description": "5HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 16A Constant Torque Output.",
+        "price": 462.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0040S100-2EONNS",
+        "description": "5.4HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 17A Constant Torque Output.",
+        "price": 462.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0075S100-2EONNS",
+        "description": "10HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 32A Constant Torque Output.",
+        "price": 742.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0055S100-2EONNS",
+        "description": "7.5HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 24A Constant Torque Output.",
+        "price": 607.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0110S100-2EONNS",
+        "description": "15HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 46A Constant Torque Output.",
+        "price": 956.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0150S100-2EONNS",
+        "description": "20HP LS S100 High Performance Standard VFD, Three Phase, 200-240V, 60A Constant Torque Output.",
+        "price": 1087.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0004S100-4EONNS",
+        "description": "1/2HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 1.3A Constant Torque Output.",
+        "price": 327.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-4EONNS",
+        "description": "1HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 2.5A Constant Torque Output.",
+        "price": 387.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-4EONNS",
+        "description": "2HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 4A Constant Torque Output.",
+        "price": 429.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-4EONNS",
+        "description": "3HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 5.5A Constant Torque Output.",
+        "price": 468.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037S100-4EONNS",
+        "description": "5HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 8A Constant Torque Output.",
+        "price": 480.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0040S100-4EONNS",
+        "description": "5.4HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 9A Constant Torque Output.",
+        "price": 480.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0004S100-4EOFNS",
+        "description": "1/2HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 1.3A Constant Torque Output, Built-in EMC Filter.",
+        "price": 371.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-4EOFNS",
+        "description": "1HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 2.5A Constant Torque Output, Built-in EMC Filter.",
+        "price": 432.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-4EOFNS",
+        "description": "2HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 4A Constant Torque Output, Built-in EMC Filter.",
+        "price": 474.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-4EOFNS",
+        "description": "3HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 5.5A Constant Torque Output, Built-in EMC Filter.",
+        "price": 512.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037S100-4EOFNS",
+        "description": "5HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 8A Constant Torque Output, Built-in EMC Filter.",
+        "price": 525.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0040S100-4EOFNS",
+        "description": "5.4HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 9A Constant Torque Output, Built-in EMC Filter.",
+        "price": 525.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0055S100-4EOFNS",
+        "description": "7.5HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 12A Constant Torque Output, Built-in EMC Filter.",
+        "price": 627.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0075S100-4EOFNS",
+        "description": "10HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 16A Constant Torque Output, Built-in EMC Filter.",
+        "price": 758.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0110S100-4EOFNS",
+        "description": "15HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 24A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1006.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0150S100-4EOFNS",
+        "description": "20HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 30A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1220.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0185S100-4EOFNS",
+        "description": "25HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 39A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1395.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0220S100-4EOFNS",
+        "description": "30HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 45A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1458.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0300S100-4COFDS",
+        "description": "40HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 61A Constant Torque Output, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 2485.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0370S100-4COFDS",
+        "description": "50HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 75A Constant Torque Output, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 2903.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0450S100-4COFDS",
+        "description": "60HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 91A Constant Torque Output, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 3399.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0550S100-4CONDS",
+        "description": "75HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 110A Constant Torque Output, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 4016.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0750S100-4CONDS",
+        "description": "100HP LS S100 High Performance Standard  VFD, Three Phase, 380-480V, 152A Constant Torque Output, Built-in EMC Filter, Built-in DC Reactor.",
+        "price": 4160.00,
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0004S100-2EXNNS",
+        "description": "1/2HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 2.5A Constant Torque Output.",
+        "price": 384.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-2EXNNS",
+        "description": "2HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 8A Constant Torque Output.",
+        "price": 501.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-2EXNNS",
+        "description": "1HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 5A Constant Torque Output.",
+        "price": 391.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-2EXNNS",
+        "description": "3HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 11A Constant Torque Output.",
+        "price": 533.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037S100-2EXNNS",
+        "description": "5HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 16A Constant Torque Output.",
+        "price": 713.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0055S100-2EXNNS",
+        "description": "7.5HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 24A Constant Torque Output.",
+        "price": 1067.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0075S100-2EXNNS",
+        "description": "10HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 32A Constant Torque Output.",
+        "price": 1190.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0150S100-2EXNNS",
+        "description": "20HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 60A Constant Torque Output.",
+        "price": 1674.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0110S100-2EXNNS",
+        "description": "15HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 200-240V, 46A Constant Torque Output.",
+        "price": 1470.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0004S100-4EXNNS",
+        "description": "1/2HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 1.3A Constant Torque Output.",
+        "price": 468.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-4EXNNS",
+        "description": "2HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 4A Constant Torque Output.",
+        "price": 513.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-4EXNNS",
+        "description": "1HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 2.5A Constant Torque Output.",
+        "price": 478.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037S100-4EXNNS",
+        "description": "5HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 8A Constant Torque Output.",
+        "price": 1175.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-4EXNNS",
+        "description": "3HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 5.5A Constant Torque Output.",
+        "price": 636.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0075S100-4EXNNS",
+        "description": "10HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 16A Constant Torque Output.",
+        "price": 1462.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0055S100-4EXNNS",
+        "description": "7.5HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 12A Constant Torque Output.",
+        "price": 1319.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0110S100-4EXNNS",
+        "description": "15HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 24A Constant Torque Output.",
+        "price": 1548.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0150S100-4EXNNS",
+        "description": "20HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 30A Constant Torque Output.",
+        "price": 1877.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0220S100-4EXNNS",
+        "description": "30HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 45A Constant Torque Output.",
+        "price": 2042.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0185S100-4EXNNS",
+        "description": "25HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 39A Constant Torque Output.",
+        "price": 1911.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0008S100-4EXFNS",
+        "description": "1HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 2.5A Constant Torque Output, Built-in EMC Filter.",
+        "price": 523.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0004S100-4EXFNS",
+        "description": "1/2HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 1.3A Constant Torque Output, Built-in EMC Filter.",
+        "price": 513.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0015S100-4EXFNS",
+        "description": "2HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 4A Constant Torque Output, Built-in EMC Filter.",
+        "price": 558.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0022S100-4EXFNS",
+        "description": "3HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 5.5A Constant Torque Output, Built-in EMC Filter.",
+        "price": 680.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0037S100-4EXFNS",
+        "description": "5HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 8A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1220.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0055S100-4EXFNS",
+        "description": "7.5HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 12A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1363.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0075S100-4EXFNS",
+        "description": "10HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 16A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1507.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0150S100-4EXFNS",
+        "description": "20HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 30A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1922.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0110S100-4EXFNS",
+        "description": "15HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 24A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1593.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0185S100-4EXFNS",
+        "description": "25HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 39A Constant Torque Output, Built-in EMC Filter.",
+        "price": 1956.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      },
+      {
+        "product_number": "LSLV0220S100-4EXFNS",
+        "description": "30HP LS S100 NEMA 4X (IP66) VFD, Three Phase, 380-480V, 45A Constant Torque Output, Built-in EMC Filter.",
+        "price": 2086.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LSLV_S100_Single_Phase_medium.avif"
+      }
+    ]
+  }

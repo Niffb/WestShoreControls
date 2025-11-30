@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "AXCT0",
+      "description": "(Package of 4 Pieces) Noark Ex9CS Time Delay Relay for Miniature Contactor, On Delay 0.1~3 s, UL 489, Order Number: 1311726",
+      "price": 179.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_large.png?v=1611084069"
+    },
+    {
+      "product_number": "AXCT2",
+      "description": "(Package of 4 Pieces) Noark Ex9CS Time Delay Relay for Miniature Contactor, On Delay 0.1~30 s, UL 489, Order Number: 1311727",
+      "price": 179.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_90823244-f7f4-4846-967b-38ca741cf1f7_large.png?v=1611084071"
+    },
+    {
+      "product_number": "AXCT4",
+      "description": "(Package of 4 Pieces) Noark Ex9CS Time Delay Relay for Miniature Contactor, On Delay 10~180 s, UL 489, Order Number: 1311728",
+      "price": 179.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_16721dad-6333-4f9e-9151-ce7e2284b7ea_large.png?v=1611084072"
+    },
+    {
+      "product_number": "AXCD2",
+      "description": "(Package of 4 Pieces) Noark Ex9CS Time Delay Relay for Miniature Contactor, Off Delay 0.1~30 s, UL 489, Order Number: 1311729",
+      "price": 179.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_c03bc6de-ec0d-4cb0-9782-ef413f80f9e1_large.png?v=1611084073"
+    },
+    {
+      "product_number": "AXCD0",
+      "description": "(Package of 4 Pieces) Noark Ex9CS Time Delay Relay for Miniature Contactor, Off Delay 0.1~3 s, UL 489, Order Number: 1311730",
+      "price": 179.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_64d91be6-fffd-4878-8d21-f52bedce90a8_large.png?v=1611084074"
+    },
+    {
+      "product_number": "AXCD4",
+      "description": "(Package of 4 Pieces) Noark Ex9CS Time Delay Relay for Miniature Contactor, Off Delay 10~180 s, UL 489, Order Number: 1311731",
+      "price": 179.14,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_e1c6811a-4066-4213-9664-5e72251e7c3e_large.png?v=1611084075"
+    }
+  ]
+}

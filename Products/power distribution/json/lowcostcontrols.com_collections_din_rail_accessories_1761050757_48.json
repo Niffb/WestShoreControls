@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "product_number": "IRS6",
+      "description": "(Package of 2 Pieces) ERIFLEX IRS Angle Support Bracket, Material: Electrogalvanized Steel, Use to fix DIN profiles or earth bars in an inclined position, Thread Size: M6, Hole Size: 6.5mm, 50 Units in a package, Part no: 557980",
+      "price": 205.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DR-CLIPClipNutforSymmetricDINRail_large.jpg?v=1605155257"
+    },
+    {
+      "product_number": "IRS5",
+      "description": "(Package of 2 Pieces) ERIFLEX IRS Angle Support Bracket, Material: Electrogalvanized Steel, Use to fix DIN profiles or earth bars in an inclined position, Thread Size: M5, Hole Size: 6.5mm, 50 Units in a package, Part no: 557970",
+      "price": 205.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/DR-CLIPClipNutforSymmetricDINRail_330176cb-e958-4381-a0c4-81b21f4cb3b1_large.jpg?v=1605155302"
+    }
+  ]
+}

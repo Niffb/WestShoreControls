@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "product_number": "FX",
+      "description": "(Package of 9 Pieces) Auxiliary Switch for LS MetaMec Manual Motor Starter, Front Mount",
+      "price": 126.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_large.jpg?v=1604684918"
+    },
+    {
+      "product_number": "LA",
+      "description": "(Package of 7 Pieces) Alarm Switch for LS MetaMec Manual Motor Starter, Side Mount(On the Left)",
+      "price": 132.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_adc16d12-2dc7-4052-b1c7-253798828934_large.jpg?v=1604684920"
+    },
+    {
+      "product_number": "LX",
+      "description": "(Package of 7 Pieces) Auxiliary Switch for LS MetaMec Manual Motor Starter, Side Mount(On the Left)",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_54560163-5ab6-4a7c-b63e-96721e27bd55_large.jpg?v=1604684919"
+    },
+    {
+      "product_number": "RS",
+      "description": "(Package of 6 Pieces) Shunt Release for LS MetaMec Manual Motor Starter, Side Mount(On the Right)",
+      "price": 114.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_ad379199-5abe-4b2c-9918-428524a0e025_large.jpg?v=1604684921"
+    },
+    {
+      "product_number": "LAM",
+      "description": "(Package of 9 Pieces) Magnetic Trip Alarm Switch for LS MetaMec Manual Motor Starter, Side Mount(On the Left)",
+      "price": 108.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_02f322ed-d9e4-405c-a451-df0ce889e781_large.jpg?v=1604684921"
+    },
+    {
+      "product_number": "RU",
+      "description": "(Package of 6 Pieces) Under Voltage Release for LS MetaMec Manual Motor Starter, Side Mount(On the Right)",
+      "price": 114.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_dd2e22e1-3694-482f-a76f-e0a6532b792d_large.jpg?v=1604684922"
+    },
+    {
+      "product_number": "RUX",
+      "description": "(Package of 6 Pieces) Under Voltage Release with Switch for LS MetaMec Manual Motor Starter, Side Mount(On the Right)",
+      "price": 126.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_567fd2fd-3008-4c18-92c9-7480380df3dd_large.jpg?v=1604684923"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "FGBS4",
+      "description": "ERIFLEX FGBS Fiberglass Braided Sleeve, Material: Fiberglass, Diameter: 12 mm Max, 4 mm Nom, 100 Meters in a package, Part no: 556200",
+      "price": 184.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_large.jpg?v=1605161664"
+    },
+    {
+      "product_number": "FGBS8",
+      "description": "ERIFLEX FGBS Fiberglass Braided Sleeve, Material: Fiberglass, Diameter: 24 mm Max, 8 mm Nom, 100 Meters in a package, Part no: 556210",
+      "price": 358.93,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_81e3e27f-8187-4bce-b510-f4793d54ad0a_large.jpg?v=1605161665"
+    },
+    {
+      "product_number": "FGBS10",
+      "description": "ERIFLEX FGBS Fiberglass Braided Sleeve, Material: Fiberglass, Diameter: 30 mm Max, 10 mm Nom, 100 Meters in a package, Part no: 556220",
+      "price": 379.75,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_1f7b2a3a-ff8c-4b14-aee2-daf8686439bd_large.jpg?v=1605161666"
+    },
+    {
+      "product_number": "FGBS12",
+      "description": "ERIFLEX FGBS Fiberglass Braided Sleeve, Material: Fiberglass, Diameter: 36 mm Max, 12 mm Nom, 100 Meters in a package, Part no: 556230",
+      "price": 491.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_e1a81731-e2b2-4c74-b220-abf9d695b93a_large.jpg?v=1605161667"
+    },
+    {
+      "product_number": "FGBS15",
+      "description": "ERIFLEX FGBS Fiberglass Braided Sleeve, Material: Fiberglass, Diameter: 45 mm Max, 15 mm Nom, 50 Meters in a package, Part no: 556240",
+      "price": 301.35,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_cfc4f1e3-016f-402a-a9e7-7cefcad25355_large.jpg?v=1605161668"
+    },
+    {
+      "product_number": "FGBS20",
+      "description": "ERIFLEX FGBS Fiberglass Braided Sleeve, Material: Fiberglass, Diameter: 60 mm Max, 20 mm Nom, 50 Meters in a package, Part no: 556250",
+      "price": 400.57,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_2c810ac7-4c8f-4d0c-bf18-04e682c3d1d3_large.jpg?v=1605161669"
+    }
+  ]
+}

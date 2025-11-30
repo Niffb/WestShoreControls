@@ -86,7 +86,7 @@ export default function ContactPage() {
   return (
     <div className="bg-white">
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-red-50 via-white to-red-900/5 py-20 overflow-hidden">
+      <section className="relative bg-gradient-to-br from-red-50 via-white to-red-900/5 pt-32 pb-20 overflow-hidden">
         {/* Enhanced Animated Background Elements */}
         <div className="absolute inset-0 overflow-hidden">
                   <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>

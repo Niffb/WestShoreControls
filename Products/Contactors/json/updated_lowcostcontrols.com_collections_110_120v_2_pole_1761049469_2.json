@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_number": "GMC-10P2-120",
+      "description": "(Package of 6 Pieces) 10A LS MetaMec Contactor, 110-120V, 2 Pole, Screw Type",
+      "price": 144,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_large.jpg?v=1628529985"
+    },
+    {
+      "product_number": "GMC-20P2-120",
+      "description": "(Package of 6 Pieces) 20A LS MetaMec Contactor, 110-120V, 2 Pole, Screw Type",
+      "price": 168,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_c69d3cf0-18a7-401d-bb50-2a02c71030eb_large.jpg?v=1628529999"
+    },
+    {
+      "product_number": "GMC-25P2-120",
+      "description": "(Package of 6 Pieces) 25A LS MetaMec Contactor, 110-120V, 2 Pole, Screw Type",
+      "price": 186,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_52190892-eb38-4825-9d5e-aa28b71e39e6_large.jpg?v=1628530019"
+    },
+    {
+      "product_number": "GMC-30P2-120",
+      "description": "(BOX OF 3 PIECES) 30A LS MetaMec Contactor, 110-120V, 2 Pole, Screw Type",
+      "price": 108,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_cd11037e-9627-479f-8f3b-aac99820a54e_large.jpg?v=1628530032"
+    },
+    {
+      "product_number": "GMC-35P2-120",
+      "description": "(BOX OF 3 PIECES) 35A LS MetaMec Contactor, 110-120V, 2 Pole, Screw Type",
+      "price": 117,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_70dcea46-bbf7-4fca-9b2b-159ef823d8f2_large.jpg?v=1628530051"
+    },
+    {
+      "product_number": "GMC-40P2-120",
+      "description": "(BOX OF 3 PIECES) 40A LS MetaMec Contactor, 110-120V, 2 Pole, Screw Type",
+      "price": 126,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/Meta-Mec2PoleContactor_b5baf82d-b54d-412f-b0c8-0265be48b57c_large.jpg?v=1628530068"
+    }
+  ]
+}

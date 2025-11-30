@@ -1,0 +1,270 @@
+{
+  "products": [
+    {
+      "product_number": "M1MS150T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 150A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102147",
+      "price": "$252.72",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN150T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 150A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102149",
+      "price": "$296.40",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH150T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 150A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102149",
+      "price": "$332.80",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MS100T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 100A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101423",
+      "price": "$199.68",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN100T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 100A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101429",
+      "price": "$210.79",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH100T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 100A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101435",
+      "price": "$264.16",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MS70T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 70A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101421",
+      "price": "$199.68",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN70T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 70A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101427",
+      "price": "$210.79",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH70T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 70A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101433",
+      "price": "$264.16",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MS50T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 50A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101420",
+      "price": "$199.68",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN50T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 50A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101426",
+      "price": "$210.79",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH50T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 50A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101432",
+      "price": "$264.16",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MS30T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 30A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101419",
+      "price": "$199.68",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN30T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 30A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101425",
+      "price": "$210.79",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH30T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 30A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101431",
+      "price": "$264.16",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MS15T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 15A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101418",
+      "price": "$199.68",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN15T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 15A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101424",
+      "price": "$210.79",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH15T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 15A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101430",
+      "price": "$264.16",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MS07T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 7A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102141",
+      "price": "$199.68",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN07T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 7A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102142",
+      "price": "$235.04",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH07T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 7A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102143",
+      "price": "$264.16",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MS03T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 3A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102138",
+      "price": "$199.68",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MN03T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 3A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102139",
+      "price": "$235.04",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M1MH03T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M1M series) - 3-poles (3P3d) - Rated current 3A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102140",
+      "price": "$264.16",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M2MS250T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M2M series) - 3-poles (3P3d) - Rated current 250A (continuous Amperes) - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101998",
+      "price": "$631.28",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M2MN250T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M2M series) - 3-poles (3P3d) - Rated current 250A (continuous Amperes) - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101999",
+      "price": "$743.60",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M2MH250T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M2M series) - 3-poles (3P3d) - Rated current 250A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102000",
+      "price": "$928.72",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M3MS400T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M3M series) - 3-poles (3P3d) - Rated current 400A (continuous Amperes) - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101491",
+      "price": "$770.64",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M3MN400T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M3M series) - 3-poles (3P3d) - Rated current 400A (continuous Amperes) - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101496",
+      "price": "$801.84",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M3MH400T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M3M series) - 3-poles (3P3d) - Rated current 400A (continuous Amperes) - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101501",
+      "price": "$1,060.80",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M4MS600T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M4M series) - 3-poles (3P3d) - Rated current 600A (continuous Amperes) - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101528",
+      "price": "$1,835.67",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M4MN600T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M4M series) - 3-poles (3P3d) - Rated current 600A (continuous Amperes) - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101531",
+      "price": "$2,039.64",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M4MH600T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M4M series) - 3-poles (3P3d) - Rated current 600A (continuous Amperes) - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1101534",
+      "price": "$2,266.26",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M5MS800T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M5M series) - 3-poles (3P3d) - Rated current 800A (continuous Amperes) - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102114",
+      "price": "$4,005.00",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M5MN800T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M5M series) - 3-poles (3P3d) - Rated current 800A (continuous Amperes) - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102117",
+      "price": "$4,712.00",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M5MH800T3L",
+      "product_details": "Motor Circuit Protector (MCP) - UL489 listed - NOARK (Ex9M5M series) - 3-poles (3P3d) - Rated current 800A (continuous Amperes) - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Magnetic only trip unit - equivalent to 1102120",
+      "price": "$5,419.00",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M6MS1200E3LF",
+      "product_details": "Motor Circuit Protector (MCP) - 100% rated - UL489 listed - NOARK (Ex9M6M series) - 3-poles (3P3d) - Rated current 1200A (continuous Amperes) - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Electronic trip unit - equivalent to 1101939",
+      "price": "$6,983.82",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    },
+    {
+      "product_number": "M6MN1200E3LF",
+      "product_details": "Motor Circuit Protector (MCP) - 100% rated - UL489 listed - NOARK (Ex9M6M series) - 3-poles (3P3d) - Rated current 1200A (continuous Amperes) - Interrupting capacity 42kA (600Vac) - Lugs on both load and line sides - Electronic trip unit - equivalent to 1101942",
+      "price": "$7,759.80",
+      "stock_status": "In Stock",
+      "image_url": "Products/MCCBs/Noark/Images/Noark_Motor-Circuit_Protectors_908b48d9-7ded-4971-a8bb-b1e9192353eb.webp"
+    }
+  ]
+}

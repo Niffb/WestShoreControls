@@ -1,0 +1,46 @@
+{
+    "products": [
+      {
+        "product_number": "SV002iE5-1C",
+        "description": "0.25HP Variable Frequency Drive (VFD), Single Phase, 200-230V, 1.4 Output Amps Constant Torque, Built-in RS485",
+        "price": 231.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
+      },
+      {
+        "product_number": "SV001iE5-1C",
+        "description": "0.13HP Variable Frequency Drive (VFD), Single Phase, 200-230V, 0.8 Output Amps Constant Torque, Built-in RS485",
+        "price": 221.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
+      },
+      {
+        "product_number": "SV004iE5-1C",
+        "description": "0.50HP Variable Frequency Drive (VFD), Single Phase, 200-230V, 2.5 Output Amps Constant Torque, Built-i RS485",
+        "price": 246.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
+      },
+      {
+        "product_number": "SV001iE5-2C",
+        "description": "0.13HP Variable Frequency Drive (VFD), Three Phase, 200-230V, 0.8 Output Amps Constant Torque, Built-in RS485",
+        "price": 221.20,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
+      },
+      {
+        "product_number": "SV002iE5-2C",
+        "description": "0.25HP Variable Frequency Drive (VFD), Three Phase, 200-230V, 1.6 Output Amps Constant Torque, Built-in RS485",
+        "price": 231.00,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
+      },
+      {
+        "product_number": "SV004iE5-2C",
+        "description": "0.50HP Variable Frequency Drive (VFD), Three Phase, 200-230V,  3.0 Output Amps Constant Torque, Built-in RS485",
+        "price": 246.40,
+        "stock_status": "In Stock",
+        "image_url": "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
+      }
+    ]
+  }

@@ -1,0 +1,648 @@
+{
+  "products": [
+    {
+      "product_number": "B1D2D8",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 8A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002443",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_a9f0669f-614a-4b0a-a992-5bf8d15feb44_large.jpg?v=1757166505"
+    },
+    {
+      "product_number": "B1D2D7",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 7A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002442",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_7609ae42-d05f-438a-9fba-b380716c1e90_large.jpg?v=1757166504"
+    },
+    {
+      "product_number": "B1D2D63",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 63A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002456",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_1564856a-055e-4189-bc82-5258c434729e_large.jpg?v=1757166504"
+    },
+    {
+      "product_number": "B1D2D60",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 60A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002455",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_1cabe2ab-4fab-4b50-8b70-e5fa2a38b1e6_large.jpg?v=1757166502"
+    },
+    {
+      "product_number": "B1D2D6",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 6A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002441",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_70989050-4a3b-4874-a7d8-511aadd84447_large.jpg?v=1757166502"
+    },
+    {
+      "product_number": "B1D2D50",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 50A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002454",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_613d61cc-ab3f-4d81-9bac-968c2c81fa94_large.jpg?v=1757166500"
+    },
+    {
+      "product_number": "B1D2D5",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 5A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002440",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_a3ab4dcb-a585-4430-be0f-c4a168b82008_large.jpg?v=1757166500"
+    },
+    {
+      "product_number": "B1D2D40",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 40A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002453",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_1c888ec2-2b5f-4706-8797-95afa51ab850_large.jpg?v=1757166499"
+    },
+    {
+      "product_number": "B1D2D4",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 4A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002439",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_b7b6a411-95c0-431e-b92e-7e1920436203_large.jpg?v=1757166498"
+    },
+    {
+      "product_number": "B1D2D35",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 35A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002452",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_89884f2d-8346-4220-b066-e64200a1f774_large.jpg?v=1757166497"
+    },
+    {
+      "product_number": "B1D2D32",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 32A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002451",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_ab087ac7-586b-4383-8e0e-42ce1001c70e_large.jpg?v=1757166496"
+    },
+    {
+      "product_number": "B1D2D30",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 30A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002450",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_8c09ca6a-3572-4b93-a22a-6729e492668b_large.jpg?v=1757166496"
+    },
+    {
+      "product_number": "B1D2D3",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 3A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002438",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_67555a2d-652a-4b93-a374-2c60ede1cf87_large.jpg?v=1757166495"
+    },
+    {
+      "product_number": "B1D2D25",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 25A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002449",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_7e9ecf60-170b-455c-a40b-f1626278ef87_large.jpg?v=1757166494"
+    },
+    {
+      "product_number": "B1D2D20",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 20A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002448",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_c89afcae-b7dd-433e-abd7-0d5135279c5e_large.jpg?v=1757166493"
+    },
+    {
+      "product_number": "B1D2D2",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 2A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002437",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_87f167f3-3ec3-418c-a202-8b2d7eb07d98_large.jpg?v=1757166493"
+    },
+    {
+      "product_number": "B1D2D16",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 16A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002447",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_c93c4022-e6ca-4bea-a6ce-fad31770efa2_large.jpg?v=1757166492"
+    },
+    {
+      "product_number": "B1D2D15",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 15A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002446",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_3beb419d-5451-48cf-a189-a7f2e1dd442d_large.jpg?v=1757166491"
+    },
+    {
+      "product_number": "B1D2D13",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 13A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002445",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_d4719d8c-54f2-4336-ad69-757cfd47634f_large.jpg?v=1757166490"
+    },
+    {
+      "product_number": "B1D2D10",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 10A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002444",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_e2eea2ed-4873-4674-9233-4e311baa1eec_large.jpg?v=1757166489"
+    },
+    {
+      "product_number": "B1D2D1.6",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1.6A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002436 / B1D2D16",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_3fe5d771-7733-46b8-8650-db903d94f105_large.jpg?v=1757166488"
+    },
+    {
+      "product_number": "B1D2D1",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002435",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_e33220f8-a07a-4b37-8a1d-1783c5f29f57_large.jpg?v=1757166488"
+    },
+    {
+      "product_number": "B1D2D0.5",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 0.5A rated current - D-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002434 / B1D2D05",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_ad26abec-ddb5-4445-92fb-e7f6fce718c4_large.jpg?v=1757166487"
+    },
+    {
+      "product_number": "B1D2C8",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 8A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002420",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_94ac47f0-2fb5-4cc6-a1a6-9a2ebc242f0d_large.jpg?v=1757166486"
+    },
+    {
+      "product_number": "B1D2C7",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 7A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002419",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_44872b95-6ac5-45c4-b866-15b36b821d57_large.jpg?v=1757166483"
+    },
+    {
+      "product_number": "B1D2C63",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 63A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002433",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_a76fb6e1-ed89-4577-a77e-46dc85defb8b_large.jpg?v=1757166482"
+    },
+    {
+      "product_number": "B1D2C60",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 60A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002432",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_e8c79555-7f50-4f59-9702-6723cf7ec43f_large.jpg?v=1757166480"
+    },
+    {
+      "product_number": "B1D2C6",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 6A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002418",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_858d1395-cec4-43c0-ab44-0c2d95d9a93c_large.jpg?v=1757166479"
+    },
+    {
+      "product_number": "B1D2C50",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 50A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002431",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_4cdcef4b-0558-426a-b360-bb8022fa9ccb_large.jpg?v=1757166478"
+    },
+    {
+      "product_number": "B1D2C5",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 5A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002417",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_dda915aa-9ce4-4d21-bca3-45fe10adb8ef_large.jpg?v=1757166477"
+    },
+    {
+      "product_number": "B1D2C40",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 40A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002430",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_1a54df96-ea5c-4d67-ad5f-c20812078cf1_large.jpg?v=1757166476"
+    },
+    {
+      "product_number": "B1D2C4",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 4A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002416",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_c97b0943-902f-4401-af57-443fc31b5ba3_large.jpg?v=1757166475"
+    },
+    {
+      "product_number": "B1D2C35",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 35A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002429",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_d55ff546-f85c-4c71-9ee6-a4fe4aa9e7f1_large.jpg?v=1757166474"
+    },
+    {
+      "product_number": "B1D2C32",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 32A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002428",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_9f177cda-9e3a-4b80-a79b-d8f7184412b8_large.jpg?v=1757166474"
+    },
+    {
+      "product_number": "B1D2C30",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 30A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002427",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_187b928b-aa66-4595-9abe-fd6c59ad8213_large.jpg?v=1757166473"
+    },
+    {
+      "product_number": "B1D2C3",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 3A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002415",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_295a8ab2-b92c-4eb7-8afa-3b9da0c7000c_large.jpg?v=1757166472"
+    },
+    {
+      "product_number": "B1D2C25",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 25A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002426",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_7a72828e-1a49-4f25-a0c7-dad499557145_large.jpg?v=1757166471"
+    },
+    {
+      "product_number": "B1D2C20",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 20A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002425",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_5a086faa-50f8-49ae-a16f-1401fc990e74_large.jpg?v=1757166470"
+    },
+    {
+      "product_number": "B1D2C2",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 2A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002414",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_2e8669b0-5fc7-4781-befa-a5f65ab59009_large.jpg?v=1757166469"
+    },
+    {
+      "product_number": "B1D2C16",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 16A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002424",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_8221e338-f399-4c38-ae57-2fbe6cbd6df1_large.jpg?v=1757166469"
+    },
+    {
+      "product_number": "B1D2C15",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 15A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002423",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_a7e26111-8d60-422e-a16f-c3e318b6da01_large.jpg?v=1757166468"
+    },
+    {
+      "product_number": "B1D2C13",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 13A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002422",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_da6be190-4cf7-4769-bceb-de7a5a68913e_large.jpg?v=1757166467"
+    },
+    {
+      "product_number": "B1D2C10",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 10A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002421",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_57450e96-3843-4111-a9ae-673a53113c1a_large.jpg?v=1757166466"
+    },
+    {
+      "product_number": "B1D2C1.6",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1.6A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002413 / B1D2C16",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_947d70e5-ed2c-4ebd-92f8-06f6c63c12d4_large.jpg?v=1757166465"
+    },
+    {
+      "product_number": "B1D2C1",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002412",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_5173fd03-afa9-474a-81f0-5a50b9caa0a5_large.jpg?v=1757166464"
+    },
+    {
+      "product_number": "B1D2C0.5",
+      "description": "(Package of 3 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 0.5A rated current - C-curve - 2-poles (2P) - 10kA (250Vdc) interrupting rating - 250Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002411 / B1D2C05",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_3cb0563f-4a01-4164-848a-8eff176b9a46_large.jpg?v=1757166463"
+    },
+    {
+      "product_number": "B1D1D8",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 8A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002397",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_829b1e0e-7158-4ca6-a7d3-9092b7a57871_large.jpg?v=1757166462"
+    },
+    {
+      "product_number": "B1D1D7",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 7A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002396",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_8daba9e2-da28-40c8-bf4b-9c24355d3dd9_large.jpg?v=1757166461"
+    },
+    {
+      "product_number": "B1D1D63",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 63A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002410",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_9aafe3fe-2d51-4a0c-bdde-3aa77e47ea87_large.jpg?v=1757166460"
+    },
+    {
+      "product_number": "B1D1D60",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 60A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002409",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_cc018d58-be09-463d-8481-d43d61d41cb3_large.jpg?v=1757166459"
+    },
+    {
+      "product_number": "B1D1D6",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 6A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002395",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_24c440e2-4124-4087-a34e-b4662e0b21a6_large.jpg?v=1757166457"
+    },
+    {
+      "product_number": "B1D1D50",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 50A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002408",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_c963e4fa-dd1f-4831-a57c-d3525e5edbdd_large.jpg?v=1757166456"
+    },
+    {
+      "product_number": "B1D1D5",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 5A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002394",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_9332b1bc-519c-477b-84cb-b86b73e33121_large.jpg?v=1757166455"
+    },
+    {
+      "product_number": "B1D1D40",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 40A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002407",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_4d9dc4fe-597a-4d82-b366-7bd8430f9230_large.jpg?v=1757166453"
+    },
+    {
+      "product_number": "B1D1D4",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 4A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002393",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_fed0fea5-1ed9-4081-b81d-4d09cfcac0d8_large.jpg?v=1757166451"
+    },
+    {
+      "product_number": "B1D1D35",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 35A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002406",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_c04962d0-9653-4bdf-9d94-f5defc980615_large.jpg?v=1757166450"
+    },
+    {
+      "product_number": "B1D1D32",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 32A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002405",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_cc6c5ec1-8757-4d2a-b4d6-71a9dd725ea9_large.jpg?v=1757166449"
+    },
+    {
+      "product_number": "B1D1D30",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 30A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002404",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_5459798e-8801-4845-aa8c-13a7d8f3094e_large.jpg?v=1757166448"
+    },
+    {
+      "product_number": "B1D1D3",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 3A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002392",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_54c1f596-5ca5-44af-8de8-6851af5db6a5_large.jpg?v=1757166447"
+    },
+    {
+      "product_number": "B1D1D25",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 25A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002403",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_e290be54-e968-4df6-9f43-86896990ff77_large.jpg?v=1757166447"
+    },
+    {
+      "product_number": "B1D1D20",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 20A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002402",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_36290586-3297-4aa1-b5cd-414ea78656bb_large.jpg?v=1757166446"
+    },
+    {
+      "product_number": "B1D1D2",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 2A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002391",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_90c70dd8-1b5a-4bf0-9f03-ef21fb5715a5_large.jpg?v=1757166445"
+    },
+    {
+      "product_number": "B1D1D16",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 16A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002401",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_2f6bcf48-79ad-4c51-9ba3-325bcb8fc99b_large.jpg?v=1757166444"
+    },
+    {
+      "product_number": "B1D1D15",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 15A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002400",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_571af020-84de-4d72-a208-86caab02b00e_large.jpg?v=1757166443"
+    },
+    {
+      "product_number": "B1D1D13",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 13A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002399",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_78a34e55-b1a2-4c4a-acce-c3ab1e37fea6_large.jpg?v=1757166443"
+    },
+    {
+      "product_number": "B1D1D10",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 10A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002398",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_fdf85856-2fb1-4e2b-9498-591a1142bd67_large.jpg?v=1757166442"
+    },
+    {
+      "product_number": "B1D1D1.6",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1.6A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002390 / B1D1D16",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_eb78f2fa-7930-44ff-822c-4ffddc893569_large.jpg?v=1757166441"
+    },
+    {
+      "product_number": "B1D1D1",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002389",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_9a64e220-6878-4a91-86f9-9794a64f2843_large.jpg?v=1757166440"
+    },
+    {
+      "product_number": "B1D1D0.5",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 0.5A rated current - D-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002388 / B1D1D05",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_87174805-bac9-4850-b403-f42165fe2919_large.jpg?v=1757166439"
+    },
+    {
+      "product_number": "B1D1C8",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 8A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002374",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_c5e82f28-f3fa-465a-988a-61336596cb16_large.jpg?v=1757166438"
+    },
+    {
+      "product_number": "B1D1C7",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 7A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002373",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_596a4c3e-eb81-4f10-bdfb-f8b08751b443_large.jpg?v=1757166438"
+    },
+    {
+      "product_number": "B1D1C63",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 63A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002387",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_67863e80-0e6b-438a-a2bd-7ecdbf1548db_large.jpg?v=1757166437"
+    },
+    {
+      "product_number": "B1D1C60",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 60A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002386",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_1ec7d830-413e-4c42-9852-5e6d20e6cf2e_large.jpg?v=1757166436"
+    },
+    {
+      "product_number": "B1D1C6",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 6A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002372",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_0c30aa69-a1c8-417e-8b97-e737278d4844_large.jpg?v=1757166435"
+    },
+    {
+      "product_number": "B1D1C50",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 50A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002385",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_8ecbce4b-e58d-4711-bfe4-80e77afe6c0c_large.jpg?v=1757166434"
+    },
+    {
+      "product_number": "B1D1C5",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 5A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002371",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_3f63c29b-3d72-4f6f-9104-4e01ed974ba0_large.jpg?v=1757166433"
+    },
+    {
+      "product_number": "B1D1C40",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 40A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002384",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_9816b80c-2dec-4cd1-85b5-80278ca24661_large.jpg?v=1757166433"
+    },
+    {
+      "product_number": "B1D1C4",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 4A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002370",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_6a94da16-4b2b-4873-860e-f873e4b4e55d_large.jpg?v=1757166432"
+    },
+    {
+      "product_number": "B1D1C35",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 35A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002383",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_67921eb5-8eab-49e2-b677-6ef817c5ae5d_large.jpg?v=1757166431"
+    },
+    {
+      "product_number": "B1D1C32",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 32A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002382",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_199f0e0f-aaef-456f-ad16-33c61040ebe4_large.jpg?v=1757166430"
+    },
+    {
+      "product_number": "B1D1C30",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 30A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002381",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_a5331198-5dcb-48d3-aed7-4e8af58c707d_large.jpg?v=1757166430"
+    },
+    {
+      "product_number": "B1D1C3",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 3A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002369",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_33fffa16-5344-4bd2-855f-9d9fffd1b217_large.jpg?v=1757166429"
+    },
+    {
+      "product_number": "B1D1C25",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 25A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002380",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_7474cb40-0a54-4e42-b326-ad947b7b598f_large.jpg?v=1757166428"
+    },
+    {
+      "product_number": "B1D1C20",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 20A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002379",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_ad5c3a09-fd17-4b6f-9486-e475debb6aba_large.jpg?v=1757166427"
+    },
+    {
+      "product_number": "B1D1C2",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 2A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002368",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_a3448aa8-e433-4eb2-a1e9-c918e62fea88_large.jpg?v=1757166426"
+    },
+    {
+      "product_number": "B1D1C16",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 16A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002378",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_408aa233-8c6d-4a52-89bb-fe6b2d8f87b4_large.jpg?v=1757166425"
+    },
+    {
+      "product_number": "B1D1C15",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 15A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002377",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_078d4ae2-e159-45fa-a9b9-7465c5abeabd_large.jpg?v=1757166424"
+    },
+    {
+      "product_number": "B1D1C13",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 13A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002376",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_f955428d-b42f-47b6-8668-c315aa669426_large.jpg?v=1757166424"
+    },
+    {
+      "product_number": "B1D1C10",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 10A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002375",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_0d961da2-71ed-42c7-873e-4cf88cadabd6_large.jpg?v=1757166422"
+    },
+    {
+      "product_number": "B1D1C1.6",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1.6A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002367 / B1D1C16",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_30343093-da05-4eb0-a1a3-b51da1000db7_large.jpg?v=1757166422"
+    },
+    {
+      "product_number": "B1D1C1",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 1A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002366",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_c9787d52-980f-4148-a0b6-2bbe784669f3_large.jpg?v=1757166421"
+    },
+    {
+      "product_number": "B1D1C0.5",
+      "description": "(Package of 6 Pieces) Miniature Circuit Breaker (MCB) - UL 489 - NOARK (B1D series) - 0.5A rated current - C-curve - 1-pole (1P) - 10kA (125Vdc) interrupting rating - 125Vdc rated voltage - box lug connections - DIN rail mounting (35mm width) - equivalent to 1002365 / B1D1C05",
+      "price": 175.47,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_B1D_-_Mini_Circuit_Breaker_large.jpg?v=1757166420"
+    }
+  ]
+}

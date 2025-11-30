@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "product_number": "BMS500",
+      "description": "ERIFLEX BMS Bi-Metal Plate, 500mm Aluminium & Copper, Width : 500mm, Thickness: 1mm, 2 Pieces in a package, Part no: 553090",
+      "price": 1229.9,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BMSBimetalPlate_411e1612-703d-473f-8273-cf58ecd48a7a_large.jpg?v=1604824614"
+    },
+    {
+      "product_number": "BMS100",
+      "description": "ERIFLEX BMS Bi-Metal Plate, 100mm Aluminium & Copper, Width : 100mm, Thickness: 1mm, 10 Pieces in a package, Part no: 553080",
+      "price": 354.02,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BMSBimetalPlate_large.jpg?v=1604824614"
+    }
+  ]
+}

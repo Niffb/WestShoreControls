@@ -1,0 +1,207 @@
+{
+  "products": [
+    {
+      "product_number": "MFF",
+      "description": "ERIFLEX MFF nVent ERIFLEX Flexibar Folding Tool Starter Kit, Material: Steel, Kit includes folding tool, fixed vice, rail and clamps, 1 Piece in a package, Part no: 558930",
+      "price": 4293.63,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_8fa080b7-eeeb-4499-831f-af2673176fb4_large.jpg?v=1605069281"
+    },
+    {
+      "product_number": "MFFC120",
+      "description": "ERIFLEX MFFC nVent ERIFLEX Flexibar Folding Tool Clamp, Material: Steel, Prevents nVent ERIFLEX Flexibar laminates from sliding during the folding process, Conductor Width: 20 ~ 120 mm, 1 Piece in a package, Part no: 558935",
+      "price": 785.23,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6388f289-2ff2-459d-9f11-603a9c3ee90f_large.jpg?v=1605069268"
+    },
+    {
+      "product_number": "MFFC63",
+      "description": "ERIFLEX MFFC nVent ERIFLEX Flexibar Folding Tool Clamp, Material: Steel, Prevents nVent ERIFLEX Flexibar laminates from sliding during the folding process, Conductor Width: 20 ~ 63 mm, 1 Piece in a package, Part no: 558934",
+      "price": 784.0,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6cc6e09b-9c33-40dd-b70d-fa72ebf9a98e_large.jpg?v=1605069277"
+    },
+    {
+      "product_number": "MFFR",
+      "description": "ERIFLEX MFFR nVent ERIFLEX Flexibar Folding Tool Rail, Material: Steel, Use in conjunction with starter kit, folding tool and vice to fold long nVent ERIFLEX Flexibar, 1 Piece in a package, Part no: 558933",
+      "price": 643.13,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_00c14ba3-5c43-4c5c-bd0e-030c5e85f532_large.jpg?v=1605069259"
+    },
+    {
+      "product_number": "MFFV",
+      "description": "ERIFLEX MFFV nVent ERIFLEX Flexibar Folding Tool Fixed Vice, Material: Steel, Attaches to folding tool rail to provide support for long nVent ERIFLEX Flexibar, 1 Piece in a package, Part no: 558932",
+      "price": 937.13,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_8c1a9660-9da2-4330-b912-7b6805c40e38_large.jpg?v=1605069265"
+    },
+    {
+      "product_number": "MFFU",
+      "description": "ERIFLEX MFFU nVent ERIFLEX Flexibar Folding Tool U-Shape, Material: Steel, For use with folding tool starter kit to create U-shape folds, 1 Piece in a package, Part no: 558931",
+      "price": 2018.8,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_ad480e47-f166-4e31-859f-fd2f19d02cee_large.jpg?v=1605069250"
+    },
+    {
+      "product_number": "MFBT-2",
+      "description": "ERIFLEX MFBT-2 nVent ERIFLEX Flexibar Manual Bending Tool, Material: Steel; Aluminum, Allows the user to bend nVent ERIFLEX Flexibar into custom shapes for an efficient installation, Conductor Width: 120mm, Bending Radius: 4 mm; 8 mm, Bending Angle: 120° Max, 1 Piece in a package, Part no: 559145",
+      "price": 1746.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_1055d12d-09d1-4cd6-ad67-8860a14964e9_large.jpg?v=1605069242"
+    },
+    {
+      "product_number": "HFBT",
+      "description": "ERIFLEX HFBT nVent ERIFLEX Flexibar Bending Tool, Material: Steel, Allows the user to bend nVent ERIFLEX Flexibar into custom shapes for an efficient installation, Bending Radius: 10 mm, Bending Angle: 180° Max, 1 Piece in a package, Part no: 558920",
+      "price": 1207.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_31b17588-5c61-467e-a25f-362400a6a22c_large.jpg?v=1605069235"
+    },
+    {
+      "product_number": "MFST-2",
+      "description": "ERIFLEX MFST-2 nVent ERIFLEX Flexibar Stripping Tool, Material: Aluminum; Steel, Accurately cuts all sides of the nVent ERIFLEX Flexibar insulation in a single operation without marking the copper laminates, Conductor Width: 9 ~ 120 mm, 1 Piece in a package, Part no: 559143",
+      "price": 3303.82,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_946c2065-297f-4fdf-af33-b19eed73d06d_large.jpg?v=1605069230"
+    },
+    {
+      "product_number": "SB-MFST-2",
+      "description": "ERIFLEX MFST-2 nVent ERIFLEX Flexibar Stripping Tool Blade Set, Material: Steel, Replacement blade set for MFST-2 nVent ERIFLEX Flexibar Stripping Tool, 1 Piece in a package, Part no: 559144",
+      "price": 507.15,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_e3a8913f-cd50-44e0-be6b-3f3c8e1c8267_large.jpg?v=1605069228"
+    },
+    {
+      "product_number": "MFSHT-2",
+      "description": "ERIFLEX MFSHT-2 nVent ERIFLEX Flexibar Manual Shearing Tool, Material: Steel; Aluminum, Cuts nVent ERIFLEX Flexibar quickly and accurately without burrs or deformation, Conductor Thickness: 5mm, Conductor Width: 32mm Max, 1 Piece in a package, Part no: 559146",
+      "price": 1166.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_87261599-1d41-4aff-ad40-26d301a01548_large.jpg?v=1605069223"
+    },
+    {
+      "product_number": "SB-MFSHT-2",
+      "description": "ERIFLEX Replacement Blades for MFSHT-2 nVent ERIFLEX Flexibar Manual Shearing Tool, Replacement blades for MFSHT-2 (559146) nVent ERIFLEX Flexibar Manual Shearing Tool, Material: Steel, Conductor Thickness: 5mm, Conductor Width: 32mm Max, 1 Piece in a package, Part no: 559147",
+      "price": 184.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_4db183aa-e162-41af-a5d0-f5a169fad29a_large.jpg?v=1605069223"
+    },
+    {
+      "product_number": "MHYFSHT",
+      "description": "ERIFLEX MHYFSHT Manual Hydraulic nVent ERIFLEX Flexibar Shearing Tool, Cuts nVent ERIFLEX Flexibar quickly and accurately without burrs or deformation, Material: Steel, 1 Piece in a package, Part no: 559151",
+      "price": 6997.2,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_24a984a5-fc78-4aad-a432-0d72eafc300e_large.jpg?v=1605069208"
+    },
+    {
+      "product_number": "MFCB",
+      "description": "ERIFLEX MFC nVent ERIFLEX Flexibar Shearing Tool Replacement Blade, Replacement blade for legacy MFC nVent ERIFLEX Flexibar Shearing Tool, Material: Steel, 1 Piece in a package, Part no: 559120",
+      "price": 184.97,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_e92c6464-31b7-4a36-8054-48026548009c_large.jpg?v=1605069218"
+    },
+    {
+      "product_number": "MFPTPD-M6-14",
+      "description": "ERIFLEX MFPT Round Punch and Die Kit, For use with MFPT nVent ERIFLEX Flexibar Punching Tool, Material: Steel, Punch Size: 7mm Max, Screw Diameter: M6, 1/4\", 1 Piece in a package, Part no: 559153",
+      "price": 165.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_ff730b2c-437d-4a25-8a80-7eda6bd1e9ec_large.jpg?v=1605069197"
+    },
+    {
+      "product_number": "MFPT",
+      "description": "ERIFLEX MFPT nVent ERIFLEX Flexibar Punching Tool, Works with copper or aluminium busbar and nVent ERIFLEX Flexibar, Material: Steel, Busbar Thickness: 6mm Max, 1 Piece in a package, Part no: 559152",
+      "price": 1639.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_0c1a010b-e229-4943-9271-5f541585dbb7_large.jpg?v=1605069203"
+    },
+    {
+      "product_number": "MFPTPD-M8",
+      "description": "ERIFLEX MFPT Round Punch and Die Kit, For use with MFPT nVent ERIFLEX Flexibar Punching Tool, Material: Steel, Punch Size: 9mm Max, Screw Diameter: M8, 1 Piece in a package, Part no: 559154",
+      "price": 165.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_39cc4196-3a32-4a2d-847c-c7a72e42e978_large.jpg?v=1605069188"
+    },
+    {
+      "product_number": "MFPTPD-M10-38",
+      "description": "ERIFLEX MFPT Round Punch and Die Kit, For use with MFPT nVent ERIFLEX Flexibar Punching Tool, Material: Steel, Punch Size: 11mm Max, Screw Diameter: M10, 3/8\", 1 Piece in a package, Part no: 559155",
+      "price": 165.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_5796b3b3-0b78-4535-894b-2f2f6b06a188_large.jpg?v=1605069151"
+    },
+    {
+      "product_number": "MFPTPD-M12-12",
+      "description": "ERIFLEX MFPT Round Punch and Die Kit, For use with MFPT nVent ERIFLEX Flexibar Punching Tool, Material: Steel, Punch Size: 13mm Max, Screw Diameter: M12, 1/2\", 1 Piece in a package, Part no: 559156",
+      "price": 165.38,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6c30d24f-9ca9-4cdf-87e1-f7b8d9fe8e08_large.jpg?v=1605069147"
+    },
+    {
+      "product_number": "MFTK",
+      "description": "ERIFLEX MFTK Manual nVent ERIFLEX Flexibar Tool Kit, Material: Steel; Aluminum, 1 Piece in a package, Part no: 559149",
+      "price": 5715.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_1dab2737-8c60-42e7-863d-813fd97d8eac_large.jpg?v=1605069143"
+    },
+    {
+      "product_number": "MFTT-2",
+      "description": "ERIFLEX MFTT-2 nVent ERIFLEX Flexibar Manual Twisting Tool, Easy-to-use tool twists or changes the plane of nVent ERIFLEX Flexibar, Material: Steel, Conductor Width: 120mm, 1 Piece in a package, Part no: 559148",
+      "price": 270.73,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_837fd008-1002-49d3-a476-f5e584d41a89_large.jpg?v=1605069143"
+    },
+    {
+      "product_number": "SOK",
+      "description": "(Package of 2 Pieces) ERIFLEX SOK nVent ERIFLEX Flexibar Stripping Knife, Accurately cuts nVent ERIFLEX Flexibar insulation, 1 Piece in a package, Part no: 559050",
+      "price": 178.85,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_3fc96ed8-98c7-40fd-9040-9a24c6177d97_large.jpg?v=1605069133"
+    },
+    {
+      "product_number": "SFBF",
+      "description": "ERIFLEX nVent ERIFLEX Flexibar Small Bending and Folding Tool, Used to ease the process of bending, folding or twisting of nVent ERIFLEX Flexibar, Conductor Width; 32mm Max, Conductor Thickness: 5mm, 1 Piece in a package, Part no: 558945",
+      "price": 1010.63,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_2e8e2705-baad-429b-a1f2-7078e4e7e6e1_large.jpg?v=1605069136"
+    },
+    {
+      "product_number": "SOKB",
+      "description": "(Package of 3 Pieces) ERIFLEX SOK nVent ERIFLEX Flexibar Stripping Knife, Accurately cuts nVent ERIFLEX Flexibar insulation, 1 Piece in a package, Part no: 559060",
+      "price": 169.05,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_c6265973-596b-43b9-ab71-cc13cf13cc83_large.jpg?v=1605069130"
+    },
+    {
+      "product_number": "BD16",
+      "description": "ERIFLEX BD Crimp and Drill Tool, For crimping and drilling of braid terminals, Cross Section: 16 mm², Drill Bit Diameter: 6.5mm, Screw Diameter: M6, 1 Piece in a package, Part no: 558610",
+      "price": 180.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_d2711568-5d44-43b9-a452-f78a8b70e644_large.jpg?v=1605069124"
+    },
+    {
+      "product_number": "BD16-8",
+      "description": "ERIFLEX BD Crimp and Drill Tool, For crimping and drilling of braid terminals, Cross Section: 16 mm², Drill Bit Diameter: 6.5mm, Screw Diameter: M6, 1 Piece in a package, Part no: 558640",
+      "price": 180.07,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_4614b0c4-d8ef-4d70-9bae-d8d83dd2040f_large.jpg?v=1605069089"
+    },
+    {
+      "product_number": "BD25",
+      "description": "ERIFLEX BD Crimp and Drill Tool, For crimping and drilling of braid terminals, Cross Section: 16 mm², Drill Bit Diameter: 6.5mm, Screw Diameter: M6, 1 Piece in a package, Part no: 558620",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_27985984-1dd9-405d-89e8-69e269ca1d81_large.jpg?v=1605069086"
+    },
+    {
+      "product_number": "BD50",
+      "description": "ERIFLEX BD Crimp and Drill Tool, For crimping and drilling of braid terminals, Cross Section: 16 mm², Drill Bit Diameter: 6.5mm, Screw Diameter: M6, 1 Piece in a package, Part no: 558630",
+      "price": 198.45,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_0e46683b-92b3-45c2-8a39-482b654e9a67_large.jpg?v=1605069080"
+    },
+    {
+      "product_number": "MDRCPT-2",
+      "description": "ERIFLEX MDRCPT-2 Manual Din Rail Cutting and Punching Tool, Material: Aluminum; Steel, Slot Size: 6.5 x 9.5 mm, 1 Piece in a package, Part no: 559142",
+      "price": 4081.7,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_large.jpg?v=1605069056"
+    }
+  ]
+}

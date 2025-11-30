@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "product_number": "A40R3FV4000",
+      "description": "Fixed-type Air Circuit Breaker (ACB) - UL1066 - NOARK (A40 series) - 3-poles (3P3d) - Rated current 4000A - Interrupting capacity 85kA (254-847Vac) - Rear fixed-type vertical connection pads - equivalent to 1800465",
+      "price": 18691.13,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_A40_Series_Power_Circuit_Breaker_384b40eb-fb60-457d-9b29-48aeeae2a2e6_large.jpg?v=1757161880"
+    },
+    {
+      "product_number": "A40Q3FV4000",
+      "description": "Fixed-type Air Circuit Breaker (ACB) - UL1066 - NOARK (A40 series) - 3-poles (3P3d) - Rated current 4000A - Interrupting capacity 65kA (254-847Vac) - Rear fixed-type vertical connection pads - equivalent to 1800464",
+      "price": 16248.68,
+      "stock_status": "In Stock",
+      "image_url": "https://lowcostcontrols.com/cdn/shop/files/Noark_A40_Series_Power_Circuit_Breaker_aa66d19c-99db-4c79-b5a7-d2e19f3ba179_large.jpg?v=1757161879"
+    }
+  ]
+}
