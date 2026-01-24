@@ -1,23 +1,23 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
-  
+
   // Asset prefix for static exports
   assetPrefix: '',
-  
+
   // Ensure proper trailing slash handling
   trailingSlash: false,
-  
+
   // Performance optimizations
   swcMinify: true,
   poweredByHeader: false,
-  
+
   // Compression and optimization
   compress: true,
-  
+
   // Disable static exports since we're using server
   distDir: '.next',
-  
+
   // Optimize for large data sets
   experimental: {
     largePageDataBytes: 128 * 1024, // 128KB
@@ -27,23 +27,23 @@ const nextConfig = {
     // Enable Server Components
     serverComponentsExternalPackages: ['sharp', 'onnxruntime-node'],
   },
-  
+
   // Increase timeout for serverless functions
   serverRuntimeConfig: {
     maxDuration: 30, // 30 seconds
   },
-  
+
   images: {
     disableStaticImages: false, // Enable static image imports
     unoptimized: true, // Disable optimization to prevent 400 errors in Google Cloud
-    domains: ['localhost', 'westshorecontrols.com', 'cdn.kyklo.co'],
+    domains: ['localhost', 'westshorecontrols.com', 'cdn.kyklo.co', 'tmeic.com', 'www.tmeic.com', 'live-tmeic.pantheonsite.io', 'www.lselectricamerica.com', 'lselectricamerica.com', 'www.ls-electric.com', 'ls-electric.com', 'cdn.shopify.com', 'katko.com', 'na.noark-electric.com', 'products.na.noark-electric.com', 'www.klemsan.com.tr', 'klemsan.com.tr', 'elsteel.com', 'www.elsteel.com'],
     remotePatterns: [],
     minimumCacheTTL: 31536000, // 1 year
     formats: ['image/webp', 'image/avif'],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
   },
-  
+
   // Static file serving configuration
   async rewrites() {
     return [
@@ -120,7 +120,7 @@ const nextConfig = {
       },
     ]
   },
-  
+
   // Bundle optimization
   webpack: (config, { dev, webpack }) => {
     // Exclude backup directories from being processed
@@ -128,7 +128,7 @@ const nextConfig = {
       ...config.watchOptions,
       ignored: ['**/node_modules/**', '**/extracted-brands-subcategories.backup/**'],
     };
-    
+
     // Production optimizations
     if (!dev) {
       config.optimization = {

@@ -1,0 +1,1555 @@
+import { Product } from '@/lib/types/shared-types'
+
+/**
+ * TMEIC Products - Auto-generated from scraper
+ * Generated on: 2025-12-23T14:51:39.196Z
+ * 
+ * Images are loaded directly from the TMEIC website.
+ * Run the scraper again to update product data and images.
+ */
+export const tmeicProducts: Product[] = [
+  {
+    "id": 60001,
+    "name": "TMdrive-10",
+    "model": "TMdrive-10",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "TMEIC’s TM-10 family of low-voltage system drives has been designed to lower your cost of ownership with numerous space-saving and maintenance features.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/TMdrive-10-angle.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-10",
+    "features": [
+      "Heat pipe cooling technology in cabinet-based IGBT bridges",
+      "Windows®-based configuration using the TMdrive-10 toolbox",
+      "Draw-out inverters for low-power applications",
+      "Modular phase leg assemblies for systems above 130 kVA",
+      "Reduced footprint and lower audible noise with efficient cooling",
+      "Flexible Ethernet connectivity for streamlined configuration and maintenance",
+      "Broad compatibility with most control platforms and legacy equipment",
+      "High-resolution data capture for precise fault and process event analysis"
+    ]
+  },
+  {
+    "id": 60002,
+    "name": "TMdrive-10e2",
+    "model": "TMdrive-10e2",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "The TMdrive-10e2 is a compact, low-voltage IGBT inverter drive designed for precise control of variable-speed AC induction motors. As the newest addition to the TMdrive family, the TMdrive-10e2 offers enhanced reliability, simplified configuration and maintenance, and a low total cost of ownership. It supports output voltages of 460V, 575V, or 690V, with an optional regenerative […]",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-tmdrive-10e2-dp_short_angle.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-10e2",
+    "features": [
+      "Advanced microprocessors with floating point capability",
+      "Heat pipe cooling in cabinet-based IGBT power bridges",
+      "Windows®-based configuration via TMdrive-Navigator",
+      "Multiple LAN options: TC-net™, Profibus™-DP, DeviceNet™, Modbus™ RTU, EGD, ControlNet™",
+      "Built-in safety compliance with ISO 13849-1 (Cat. 3) and IEC 61800-5-2 (SIL 2)",
+      "Faster processing and communications for next-gen control systems",
+      "Simplified per-unit calculations and system diagnostics",
+      "Compact design with reduced cooling noise and lower space requirements",
+      "TMdrive-Navigator offers a consistent, intuitive interface across systems",
+      "Seamless integration with legacy and modern controller platforms"
+    ]
+  },
+  {
+    "id": 60003,
+    "name": "TMdrive®-10e2 DP",
+    "model": "TMdrive®-10e2 DP",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "The TMdrive-10e2 Dual Purpose Drive enables a smooth transition from DC to AC motor systems, offering unmatched flexibility, simplified upgrades, and improved efficiency for modernization projects.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-tmdrive-10e2-dp_short_angle.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "Frame: DC Bus Voltage",
+      "15: 680",
+      "30: 680",
+      "60: 680",
+      "100: 680",
+      "150: 680",
+      "250: 680",
+      "400: 680",
+      "600: 680",
+      "750: 680",
+      "900: 680"
+    ],
+    "url": "https://www.tmeic.com/tmdrive-10e2-dp",
+    "features": [
+      "Standard TMdrive-10e2 uses IGBT gating with Pulse Width Modulation",
+      "Four quadrant regenerative operation from DC armature",
+      "Non-reversing, non-plugging field power",
+      "Standard TMdrive-10e2 converter DC source used for all AC and DC drives",
+      "Converter operates with reduced harmonics and unity power factor for reduced impact on the plant power system"
+    ]
+  },
+  {
+    "id": 60004,
+    "name": "TMdrive-10e2 SPR",
+    "model": "TMdrive-10e2 SPR",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "The TMdrive-10e2 SPR Slip Power Recovery Drive System for Wound Rotor Motors belongs to the TMdrive-10e2 family of low-voltage system drives designed to lower the cost of ownership with numerous space-saving and maintenance features.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/product-drive-TMdrive-10e2-SPR-cabinet.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-10e2-spr",
+    "features": [
+      "Based on Standard Drive – Standard TMEIC low voltage drive hardware is applied for use as a wound rotor motor drive.",
+      "High Power Factor, Low Harmonic Utility Interface – Source converter feeding power back into utility operates at unity power factor.",
+      "Low Harmonic Currents in Rotor Circuit – PWM converter connected to rotor provides sinusoidal current to rotor.",
+      "Latest Drive Control Technology – Based on current production drive control hardware and firmware.",
+      "Heat Pipe Cooling Technology – The cabinet-based IGBT power bridges use heat pipe cooling technology.",
+      "Precise control of wound rotor motor while not wasting energy",
+      "High power factor and low harmonics reduce current and improve voltage stability",
+      "Minimal rotor heating and smooth torque from sinusoidal rotor current",
+      "Advanced control for precise operation and modern diagnostics",
+      "Compact cooling designreduces space and audible noise"
+    ]
+  },
+  {
+    "id": 60005,
+    "name": "TMdrive-30",
+    "model": "TMdrive-30",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "1.2 kV, 4,000 kVA    The TMdrive-30 is a medium power, 1,250 V AC drive. The AC-DC converter is available in three types: a diode non-regenerative converter, a thyristor regenerative converter, and an IGBT regenerative converter.    The inverters have a modular three-level phase leg assembly containing the IGBTs, heat pipe cooling assembly, and IGBT […]",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/TMdrive-30-angle.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-30",
+    "features": [
+      "Draw out phase leg assemblies.",
+      "Heat pipe cooling technology.",
+      "Ethernet interface for configuration and monitoring.",
+      "Draw out design enables a mean time to repair of 30 minutes.",
+      "Each assembly contains IGBTs, heat pipe cooling plate, and IGBT gate driver circuit board.",
+      "Reduction in size of the power bridge and audible noise generated by the cooling fans.",
+      "High-performance data exchange for drive configuration and trending of pro."
+    ]
+  },
+  {
+    "id": 60006,
+    "name": "TMdrive-50",
+    "model": "TMdrive-50",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "The TMdrive-50 delivers 3.3 kV, 6,000 kVA of high-power performance with flexible configuration, high reliability, and efficient IGBT-based technology.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/TMdrive-50-angle.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-50",
+    "features": [
+      "The control signal is voltage, not current.",
+      "High switching speeds less than 2 µ per second.",
+      "Simple switching circuitry.",
+      "The IGBT requires very low power to switch, so control circuits are small, with few components and therefore low failure rate",
+      "Very low switching losses and accurate control.",
+      "Gate driver hardware is compact. Careful design has allowed traditional IGBT snubber components to be removed"
+    ]
+  },
+  {
+    "id": 60007,
+    "name": "TMdrive-70",
+    "model": "TMdrive-70",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "3.3 kV, 40,000 HP   The TMdrive-70 is TMEIC’s flagship 3.3 kV, 40,000 HP water-cooled drive system, delivering high-performance vector control and scalable power for the most demanding industrial applications.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/TMdrive-70-angle.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-70",
+    "features": [
+      "IEGT power switch technology in the inverter and regenerative converter power bridges.",
+      "High-Speed Switching  The IEGT is switched at a rate of 500 Hz, even at power levels up to 10,000 kVA.",
+      "Low power Gate Drive signals used to turn IEGTs on and off.",
+      "Frequency Modulation Control (not traditional PWM) power switching scheme and three-level power bridge control.",
+      "Water-cooling technology for the power bridge.",
+      "Control cards common to the TMdrive family.",
+      "High-speed switching coupled with the three-level power bridge delivers a smooth sine wave to the motor and power system.",
+      "Low on-state IEGT voltage yields high efficiency.",
+      "Motor and Power System Friendly   Higher chopping frequency lowers the torque ripple in the motor and load, and lowers harmonics fed back into the power system.",
+      "Low power level voltage switched gate circuit has far fewer components than IGCT current-controlled gate, increasing inherent reliability."
+    ]
+  },
+  {
+    "id": 60008,
+    "name": "TMdrive-70e2",
+    "model": "TMdrive-70e2",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "3.3 kV, Up to 40,000 HP (36,000 kVA)    The TMdrive-70e2 is a 3.3 kV, 36,000 kVA water-cooled drive system designed for precision, efficiency, and scalability in high-demand industrial environments.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/TMdrive-70e2-angle.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-70e2",
+    "features": []
+  },
+  {
+    "id": 60009,
+    "name": "TMdrive-MVe2",
+    "model": "TMdrive-MVe2",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "3.3 to 11 kV, up to 7,350 kVA (8,000 HP) The TMdrive-MVe2 is a medium voltage, AC fed drive designed for high-efficiency and power-friendly operation in a broad range of industrial applications. High reliability, low harmonic distortion, regenerative operation and reactive power control operation are designed into the drive.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://live-tmeic.pantheonsite.io/wp-content/uploads/2025/04/Product-MVe2-2.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-mve2",
+    "features": [
+      "Active line side converter",
+      "Conservative electronic design & dry film-type capacitors",
+      "Multilevel drive output voltage waveform",
+      "Input isolation transformer included in drive package",
+      "Power conversion module in a single drawer type package",
+      "Allows control of multiple motors with one drive",
+      "No motor current or torque transients when the motor transitions to the AC line",
+      "Dynamic VAR compensation for the synced motor",
+      "Unity (1.0) power factor across entire speed range",
+      "Line side harmonics much lower than IEEE 519-2014"
+    ]
+  },
+  {
+    "id": 60010,
+    "name": "TMdrive-MVG2",
+    "model": "TMdrive-MVG2",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "3 to 11 kV, up to 19,500 kVA    The TMdrive-MVG2 is a medium voltage, AC fed drive designed for high-efficiency and power-friendly operation in a broad range of industrial applications.    High reliability, low harmonic distortion, and high power factor operation are designed into the drive.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/05/product-mvdrive-TMdrive-MVG2-1.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-mvg2",
+    "features": [
+      "Conservative design using 1700 V IGBTs",
+      "High energy efficiency approximately 97%",
+      "Diode rectifier ensures power factor greater than 95% in the speed control range",
+      "Multi-pulse converter rectifier and phase shifted transformer:  3.3 kV Class: 18 pulse  6.6 kV Class: 30/36 pulse  10 kV Class: 48 pulse  11 kV Class: 54 pulse",
+      "Multiple level drive output waveform to the motor (11 levels for the 6.6 kV inverter)",
+      "Synchronous transfer to line option with no interruption to motor current",
+      "Input isolation transformer included in drive package",
+      "Direct drive voltage output level",
+      "Highly reliable operation, expected 12-year drive MTBF",
+      "Considerable energy savings"
+    ]
+  },
+  {
+    "id": 60011,
+    "name": "TMdrive-XL55",
+    "model": "TMdrive-XL55",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "6.6 kV, up to 16,000 kVA  The TMdrive-XL55 is a medium voltage, AC fed drive designed for high-efficiency and power-friendly operation in a broad range of industrial applications.  High reliability, low harmonic distortion, and high-power factor operation are designed into the drive.  TMEIC’s water cooled design and compatibility of piping materials with de-ionized cooling system […]",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-mvdrive-TMdrive-XL55_0.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-xl55",
+    "features": [
+      "Conservative design using 4500 V IGBTs",
+      "High energy efficiency approximately 98.6%",
+      "Diode rectifier ensures power factor greater than 95% in the speed control range",
+      "36-pulse converter rectifier by using separated phase shifted transformer",
+      "Multiple level drive output wave form to the motor (five levels for the 6.6 kV inverter)",
+      "Synchronous transfer to line option with no interruption to motor current",
+      "Remote input isolation transformer",
+      "6.6 kV direct drive voltage output level",
+      "Highly reliable operation, expected 20-year drive MTBF",
+      "Considerable energy savings"
+    ]
+  },
+  {
+    "id": 60012,
+    "name": "TMdrive-XL75",
+    "model": "TMdrive-XL75",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "6.0/6.6 kV, up to 92 MVA  The TMdrive-XL75 is a high-power, medium voltage, AC fed drive designed for high-efficiency and power-friendly operation in a broad range of industrial applications. A single bank drive has 15/20/23 MVA power level, and multiple banks can be used to obtain higher power levels. Conservative design uses 4500 V, 2100 A […]",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/product-mvdrive-TMdrive-XL75_0.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-xl75",
+    "features": [
+      "Conservative design using 4500 V – 1500/2100 A IEGTs",
+      "High energy efficiency of approximately 98.6%",
+      "Diode rectifier ensures power factor greater than 95% in the speed control range",
+      "36-pulse converter rectifier by using phase shifted transformer",
+      "Five level drive output waveform to the motor",
+      "Externally mounted input isolation transformer",
+      "Up to 6.0/6.6 kV direct drive voltage output level",
+      "Deionized water-cooling system",
+      "Highly reliable operation, expected 20-year drive MTBF",
+      "Considerable energy savings"
+    ]
+  },
+  {
+    "id": 60013,
+    "name": "TMdrive-XL80",
+    "model": "TMdrive-XL80",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "3.8 kV, up to 30 MVA  The TMdrive-XL80 is a medium voltage (3.8kV), AC fed drive designed for high-efficiency and power-friendly operation in a broad range of industrial applications.   High reliability, low line-side harmonic distortion, and high power factor operation are designed into the drive.   TMEIC’s water cooled design and compatibility of piping materials […]",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-mvdrives-tmdirve-xl80.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-xl80",
+    "features": [
+      "Conservative design using 6000 V - 6000 A GCTs",
+      "High energy efficiency approximately 98.6%",
+      "Diode rectifier ensures power factor greater than 95% in the speed control range",
+      "24-pulse converter rectifier with phase shifted transformer",
+      "Optional synchronous transfer to line option with no interruption to motor current",
+      "Remote input isolation transformer",
+      "Deionized water-cooling system",
+      "Highly reliable operation, expected 20-year drive MTBF",
+      "Considerable energy savings",
+      "Capacitors not required for power factor correction"
+    ]
+  },
+  {
+    "id": 60014,
+    "name": "TMdrive-XL85",
+    "model": "TMdrive-XL85",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "7.2 kV, up to 120 MVA The TMdrive-XL85 is a very high-power, medium voltage (7.2kV), AC fed drive designed for high-efficiency and power-friendly operation in a broad range of industrial applications. A single bank drive is rated for up to 30 MVA power level.   High reliability, low harmonic distortion, and high power factor operation are […]",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/05/XL85-no-bg.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-xl85",
+    "features": [
+      "Conservative design using 6000 V - 6000 A Gate Controlled Thyristors (GCT)",
+      "High energy efficiency approximately 98.6%",
+      "Diode rectifier ensures power factor greater than 95% in the speed control range",
+      "36-pulse converter rectifier by using separated phase shifted transformer",
+      "5- level drive output waveform to the motor",
+      "Synchronous transfer to line option with no interruption to motor current",
+      "Outdoor mounted input isolation transformer included in drive package",
+      "Up to 7.2 kV direct drive voltage output level",
+      "Deionized water-cooling system",
+      "Highly reliable operation, expected 20-year drive MTBF"
+    ]
+  },
+  {
+    "id": 60015,
+    "name": "TMdrive-Guardian",
+    "model": "TMdrive-Guardian",
+    "brand": "TMEIC",
+    "category": "Variable Frequency Drives",
+    "description": "All Weather Enclosure for TMdriveMVe2 Medium Voltage VFDs",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/Product-Guardian-1.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-guardian",
+    "features": [
+      "NEMA Type 3R Rated",
+      "Wide Ambient Temperature Rating",
+      "HVAC Eliminated",
+      "Black Start Intelligence",
+      "No Air Filters Required",
+      "Easy Installation",
+      "Plug and Play Installation",
+      "Reduces Tax Liability",
+      "Made in America",
+      "The enclosure provides protection against dirt, rain, sleet, snow, windblown dust, water"
+    ]
+  },
+  {
+    "id": 60016,
+    "name": "TMdrive-DC",
+    "model": "TMdrive-DC",
+    "brand": "TMEIC",
+    "category": "DC Drives",
+    "description": "The TMdrive-DC is a family of DC system drives for new and retrofit applications.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://live-tmeic.pantheonsite.io/wp-content/uploads/2025/06/product-dcdrives-tmdc-2.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-dc",
+    "features": [
+      "Four different form factors:  Digital Front End (DFE), Frame assembly, Module assembly, Cabinet assembly",
+      "Configured and monitored with the TMdrive-Navigator.",
+      "Wide range of frames from 70kW to 14323 kW",
+      "Regardless of the application, TM-DC can meet the requirements both mechanically and in performance",
+      "Ease of use, high-performance trending and other diagnostic functions",
+      "Regardless of your application, TM-DC has a frame to meet your requirements"
+    ]
+  },
+  {
+    "id": 60017,
+    "name": "TMdrive-DCe2",
+    "model": "TMdrive-DCe2",
+    "brand": "TMEIC",
+    "category": "DC Drives",
+    "description": "The TMdrive-DCe2 is a family of DC system drives for new and retrofit applications.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-dcdrives-tmdc-1.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tmdrive-dce2",
+    "features": [
+      "Digital Front End (DFE)",
+      "Frame assembly",
+      "Module assembly",
+      "Cabinet assembly",
+      "Configured and monitored with the TMdrive-Navigator.",
+      "Wide range of frames from 70kW to 14323 kW.",
+      "Regardless of the application, TM-DC can meet the requirements both mechanically and in performance.",
+      "Ease of use, high-performance trending and other diagnostic functions.",
+      "Regardless of your application, TM-DC has a frame to meet your requirements."
+    ]
+  },
+  {
+    "id": 60018,
+    "name": "Solar Ware Samurai",
+    "model": "Solar Ware Samurai",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "Revolutionary new PV Central Inverter for the Solar Industry",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://live-tmeic.pantheonsite.io/wp-content/uploads/2025/05/Product-PV-inverter-Solar-Ware-Samurai-1500V-1.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/solar-ware-samurai",
+    "features": [
+      "New cooling system for extreme temperature environments.",
+      "Advanced multilevel inverter - 56% of switching loss reduction.",
+      "Maximized and optimized efficiency at high load.",
+      "Wide MPPT range allowing for best-in-class DC/AC ratios.",
+      "Flexible DC-input configuration to meet complex array configuration.",
+      "Reduces cable mass to minimize cost & enhance flexible plant design.",
+      "Reduces combiner box and number of inverters.",
+      "Fewer cables needed between combiner box and inverter.",
+      "Power factor control.",
+      "Reactive/Active power control."
+    ]
+  },
+  {
+    "id": 60019,
+    "name": "Solar Ware Ninja Universal PCS",
+    "model": "Solar Ware Ninja Universal PCS",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "TMEIC’s Solar Ware Ninja is the latest evolution of the highly successful Solar Ware family of inverters, joining over 29GW of TMEIC’s globally installed photovoltaic inverters. Continuing the legacy of high efficiency, cutting-edge features, and unmatched reliability, the new Ninja modular inverter system is the culmination of input from utilities, developers, and technicians.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/solarware_universal_pcs.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 730-800kW",
+      "Max. Input DC Voltage: 1500 Vdc",
+      "MPP Range: 875-1300VDC",
+      "Maximum Efficiency: 98.8%",
+      "Temperature Rating: -25° to 50°C",
+      "Enclosure: Outdoor",
+      "kW Rating: 550-640kW",
+      "MPP Range: 710-1100VDC"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-ninja-universal-pcs",
+    "features": [
+      "Up to 6 Ninja units on the same skid. Able to combine PV and ESS inverters in the same lineup. A skid controller will manage output of the Ninja power station.",
+      "Fully Modular design.",
+      "Completely independent inverters for increased availability.",
+      "Individual MPPT for greater energy yield.",
+      "Latest generation of Smart Inverter controls platform.",
+      "Multiple output options with various MPPT ranges.",
+      "DC Zone monitoring is standard.",
+      "UL or IEC certified global design.",
+      "PV or Energy Storage (bi-directional).",
+      "Outdoor rated enclosure."
+    ]
+  },
+  {
+    "id": 60020,
+    "name": "Solar Ware 833",
+    "model": "Solar Ware 833",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 833GR is one of the largest central PV inverter in the 1000V power class. The first heat-pipe based hybrid cooling technology implemented in utility-scale PV inverter solution providing optimal opex model.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.webp"
+    ],
+    "inStock": true,
+    "specs": [
+      "Kw Rating: 833kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 605~950V",
+      "Maximum Efficiency: 99.0%",
+      "Region Rated Efficiency: 98.5%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: UL1741/IEEE1547",
+      "Enclosure: NEMA3R"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-833",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Industry's leading 99% efficiency.",
+      "Wide DC MPP window allowing string sizing flexibility.",
+      "Utilizing TMEIC heat pipe technology, the inverter runs without fan operation up to 50% load.",
+      "Heatpipe cooling significantly simplifies thermal management, because it uses fewer parts and only a slow-speed fan with a heat pipe heat sink.",
+      "Full direct bus connection both on DC and AC side provides easy installation on-site."
+    ]
+  },
+  {
+    "id": 60021,
+    "name": "Solar Ware 750",
+    "model": "Solar Ware 750",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 750 is a highly engineered 1000V PV inverter suitable for mega-solar power plant deployment. TMEIC’s proprietary 3-level topology redefines utility scale PV system with industry’s leading efficiency level and smallest footprint.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 750kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 550~950V",
+      "Maximum Efficiency: 98.6%",
+      "Region Rated Efficiency: 98.1%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC Standard",
+      "Enclosure: IP20"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-750",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Wide DC MPP window allowing string sizing flexibility.",
+      "All detailed fault waveform data are stored in SD memory card."
+    ]
+  },
+  {
+    "id": 60022,
+    "name": "Solar Ware 665",
+    "model": "Solar Ware 665",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 665E(J) is a highly engineered 1000V PV inverter suitable for mega-solar power plant deployment. TMEIC’s proprietary 3-level topology redefines utility scale PV system with industry’s leading efficiency level and smallest footprint.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 665kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 550~950V",
+      "Maximum Efficiency: 98.6%",
+      "Region Rated Efficiency: 98.1%",
+      "Transformer Type: Isolationless",
+      "Temperature Rating: -5 ~ 40°C",
+      "Certification Compliance: JEC",
+      "Enclosure: IP20"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-665",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Wide DC MPP window allowing string sizing flexibility.",
+      "All detailed fault waveform data are stored in SD memory card."
+    ]
+  },
+  {
+    "id": 60023,
+    "name": "Solar Ware 675",
+    "model": "Solar Ware 675",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 675 is a highly engineered 1000V PV inverter suitable for mega-solar power plant deployment. TMEIC’s proprietary 3-level topology redefines utility scale PV system with industry’s leading efficiency level and smallest footprint.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 675kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 550~950V",
+      "Maximum Efficiency: 98.6%",
+      "Region Rated Efficiency: 98.3%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC Standard, PEA",
+      "Enclosure: IP20"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-675",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Wide DC MPP window allowing string sizing flexibility.",
+      "All detailed fault waveform data are stored in SD memory card."
+    ]
+  },
+  {
+    "id": 60024,
+    "name": "Solar Ware 630",
+    "model": "Solar Ware 630",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 630 is a highly engineered 1000V PV inverter suitable for mega-solar power plant deployment. TMEIC’s proprietary 3-level topology redefines utility scale PV system with industry’s leading efficiency level and smallest footprint.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 630kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 550~950V",
+      "Maximum Efficiency: 98.6%",
+      "Region Rated Efficiency: 98.3%(IEC) 98.42%(CQC)",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC Standard, PEA CQC, LVRT",
+      "Enclosure: IP20"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-630",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Wide DC MPP window allowing string sizing flexibility.",
+      "All detailed fault waveform data are stored in SD memory card."
+    ]
+  },
+  {
+    "id": 60025,
+    "name": "Solar Ware 500E",
+    "model": "Solar Ware 500E",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 500E is a highly engineered 1000V PV inverter suitable for mega-solar power plant deployment. TMEIC’s proprietary 3-level topology provides industry’s leading efficiency level and smallest footprint.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 500kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 550~950V",
+      "Maximum Efficiency: 98.6%",
+      "Region Rated Efficiency: 98.3%",
+      "Transformer Type: Isolationless",
+      "Temperature Rating: -5 ~ 40°C",
+      "Certification Compliance: JEC",
+      "Enclosure: IP20"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-500e",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Wide DC MPP window allowing string sizing flexibility.",
+      "All detailed fault waveform data are stored in SD memory card."
+    ]
+  },
+  {
+    "id": 60026,
+    "name": "Solar Ware 500",
+    "model": "Solar Ware 500",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "TMEIC’s utility scale inverters include the latest interconnection technology. The SOLAR WARE 500 is an advanced multilevel inverter system offering up to 500kW, with an operating range of 320 ~ 600 V.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/solar-ware-500",
+    "features": [
+      "SOLAR WARE 500 operates at 97.7% maximum efficiency. With high efficiency and robust design, TMEIC can significantly maximize array performance and uptime.",
+      "This advanced inverter design significantly reduces size, achieving the smallest 500 kW inverter.",
+      "The SOLAR WARE 500 advanced multilevel inverter uses a new circuit topology to create 3 output voltage levels. With this new design, the inverter size has also been significantly reduced, achieving the world's smallest 500 kW inverter, with switching loss reduced by 56%.",
+      "Power factor control",
+      "Reactive/Active power control",
+      "Fault ride through - Voltage ride through (low voltage ride through)",
+      "Frequency ride through",
+      "TMIEC's proprietary anti-islanding technique utilizes a slip mode frequency shift method"
+    ]
+  },
+  {
+    "id": 60027,
+    "name": "Solar Ware 490",
+    "model": "Solar Ware 490",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 490 is a highly engineered 600V PV inverter suitable for mega-solar power plant deployment. TMEIC’s proprietary 3-level topology provides industry’s leading efficiency level and smallest footprint.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-solar-ware-750-675-665-630-500-490-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 490kW",
+      "Max. Input DC Voltage: 600V",
+      "MPP Range: 320~600V",
+      "Maximum Efficiency: 97.70%",
+      "Region Rated Efficiency: 97.10%",
+      "Transformer Type: Isolationless",
+      "Temperature Rating: -5 ~ 40°C",
+      "Certification Compliance: JEC",
+      "Enclosure: IP20"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-490",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "All detailed fault waveform data are stored in SD memory card."
+    ]
+  },
+  {
+    "id": 60028,
+    "name": "Solar Ware 1000",
+    "model": "Solar Ware 1000",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 1000 redefines the PV utility scale solar inverter solution in reliability, efficiency and productivity. TMEIC sets the standard of utility scale installation with its own proprietary and the most advanced multi-level inverter system which brings flat efficiency characteristics providing huge benefit to high DC/AC ratio.   The SOLAR WARE 1000E(J) is […]",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/Solar-Ware-1000-PVL-L1000E.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 1000kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 550~950V",
+      "Maximum Efficiency: 99%",
+      "Region Rated Efficiency: 98.30% (IEC) 98.61% (CQC)",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC Standard CQC, LVRT",
+      "Enclosure: IP20"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-1000",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization",
+      "Industry's leading 98.7% efficiency",
+      "Wide DC MPP window allowing string sizing flexibility",
+      "All detailed fault waveform data are stored in SD memory card"
+    ]
+  },
+  {
+    "id": 60029,
+    "name": "Solar Ware 1667",
+    "model": "Solar Ware 1667",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "The SOLAR WARE 1833GRQ/Solar Ware 1667ER(J) is one of the largest central PV inverter in the 1000V power class. The first heat-pipe based hybrid cooling technology implemented in utility-scale PV inverter solution providing optimal opex model.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/Solar-Ware-1667ER-J.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 1667kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 605~950V",
+      "Maximum Efficiency: 99.0%",
+      "Region Rated Efficiency: 98.5%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: UL1741/IEEE1547",
+      "Enclosure: NEMA3R"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-1667",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization",
+      "Industry's leading 98.6% efficiency (including auxiliary power consumption)",
+      "Utilizing TMEIC heat pipe technology, the inverter runs without fan operation up to 40% load",
+      "Heatpipe cooling significantly simplifies thermal management, because it uses fewer parts and only a slow-speed fan with a heat pipe heat sink",
+      "Full direct bus connection both on DC and AC side provides easy installation on-site"
+    ]
+  },
+  {
+    "id": 60030,
+    "name": "Solar Ware 1833",
+    "model": "Solar Ware 1833",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 1833 is one of the largest central PV inverter in the 1000V power class. The first heat-pipe based hybrid cooling technology implemented in utility-scale PV inverter solution providing optimal opex model.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/product-pvinverter-Solar-Ware-Samurai-1500V-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 1833kW",
+      "Max. Input DC Voltage: 1000V",
+      "MPP Range: 605~950V",
+      "Maximum Efficiency: 98.8%",
+      "Region Rated Efficiency: 98.5%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC Standard",
+      "Enclosure: IP44/IP54 (Electronic Circuit)"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-1833",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization",
+      "Industry’s leading 98.8% efficiency",
+      "Wide DC MPP window allowing string sizing flexibility",
+      "Utilizing TMEIC heat pipe technology, the inverter runs without fan operation up to 50% load",
+      "Heatpipe cooling significantly simplifies thermal management, because it uses fewer parts and only a slow-speed fan with a heat pipe heat sink",
+      "Full direct bus connection both on DC and AC side provides easy installation on-site"
+    ]
+  },
+  {
+    "id": 60031,
+    "name": "Solar Ware 2220",
+    "model": "Solar Ware 2220",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 2220 is a state-of-the-art 1500V Indoor PV inverter designed specifically for utility-scale solar power plant deployment. Boasting a compact design and best in class conversion efficiency, Solar Ware 2220 delivers dependability and quality at a competitive price.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/pv-inverter-2550-2220-solar-ware.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 2222kW",
+      "Max. Input DC Voltage: 1500V",
+      "MPP Range: 800~1300Vdc",
+      "Maximum Efficiency: 98.8%",
+      "Region Rated Efficiency: 98.6%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC62109-1,2/IEC61000-6-2,4, CQC",
+      "Enclosure: IP21"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-2220",
+    "features": [
+      "High efficiency (98.7%)",
+      "Wide MPPT model (2.22MW/2.22MVA)",
+      "Best-in-class and compact size (1.4MVA/M2)",
+      "No derating up to 50°C",
+      "VAR mode for night operation",
+      "Negative grounding (optional)",
+      "DC Box integrated",
+      "Safety function of DC input circuit system"
+    ]
+  },
+  {
+    "id": 60032,
+    "name": "Solar Ware 2500",
+    "model": "Solar Ware 2500",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 2500 is one of the largest central PV inverter in the 1500V power class. The first heat-pipe based hybrid cooling technology implemented in utility-scale PV inverter solution providing optimal opex model.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/solar-ware-2700-and-2500_1500v.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 2500kW",
+      "Max. Input DC Voltage: 1500V",
+      "MPP Range: 800~1300V",
+      "Maximum Efficiency: 98.8%",
+      "Region Rated Efficiency: 98.5%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC Standard",
+      "Enclosure: IP44/IP54 (Electronic Circuit)"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-2500",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization",
+      "Industry’s leading 98.8% efficiency",
+      "Utilizing TMEIC heat pipe technology, the inverter runs without fan operation up to 50% load",
+      "Heatpipe cooling significantly simplifies thermal management, because it uses fewer parts and only a slow-speed fan with a heat pipe heat sink",
+      "Full direct bus connection both on DC and AC side provides easy installation on-site"
+    ]
+  },
+  {
+    "id": 60033,
+    "name": "Solar Ware 2550",
+    "model": "Solar Ware 2550",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 2550 is a state-of-the-art 1500V Indoor PV inverter designed specifically for utility-scale solar power plant deployment. Boasting a compact design and best-in-class conversion efficiency, Solar Ware 2550 delivers dependability and quality at a competitive price.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/pv-inverter-2550-2220-solar-ware.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 2550kW",
+      "Max. Input DC Voltage: 1500V",
+      "MPP Range: 915~1300Vdc",
+      "Maximum Efficiency: 98.8%",
+      "Region Rated Efficiency: 98.6%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC62109-1,2/IEC61000-6-2,4, CQC",
+      "Enclosure: IP21"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-2550",
+    "features": [
+      "High efficiency (98.8%)",
+      "Large capacity (2.55MW/2.55MVA)",
+      "Best-in-class and compact size (1.4MVA/M2)",
+      "No derating up to 50°C",
+      "VAR mode for night operation",
+      "Negative grounding (optional)",
+      "DC Box integrated"
+    ]
+  },
+  {
+    "id": 60034,
+    "name": "Solar Ware 2700",
+    "model": "Solar Ware 2700",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 2700 is one of the largest central PV inverter in the 1500V power class. The first heat-pipe based hybrid cooling technology implemented in utility-scale PV inverter solution providing optimal opex model.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/solar-ware-2700-and-2500_1500v-1.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 2700kW",
+      "Max. Input DC Voltage: 1500V",
+      "MPP Range: 875~1300V",
+      "Maximum Efficiency: 98.8%",
+      "Region Rated Efficiency: 98.5%",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: IEC Standard",
+      "Enclosure: IP44/IP54 (Electronic Circuit)"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-2700",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Industry leading 98.8% efficiency.",
+      "Utilizing TMEIC heat pipe technology, the inverter runs without fan operation up to 50% load.",
+      "Heatpipe cooling significantly simplifies thermal management, because it uses fewer parts and only a slow-speed fan with a heat pipe heat sink.",
+      "Full direct bus connection both on DC and AC side provides easy installation on-site."
+    ]
+  },
+  {
+    "id": 60035,
+    "name": "Solar Ware 3200",
+    "model": "Solar Ware 3200",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "SOLAR WARE 3200 is one of the largest central PV inverter in the 1500V power class. The first heat-pipe based hybrid cooling technology implemented in utility-scale PV inverter solution providing optimal opex model.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/10/solar-ware-3200-pvl-L1833GRQ.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "kW Rating: 3200kW",
+      "Max. Input DC Voltage: 1500V",
+      "MPP Range: 875~1300V",
+      "Maximum Efficiency: 98.9%",
+      "Region Rated Efficiency: 98.9%*",
+      "Transformer Type: Transformerless",
+      "Temperature Rating: -20 ~ 50°C",
+      "Certification Compliance: UL1741/IEEE1547",
+      "Enclosure: NEMA3R"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-3200",
+    "features": [
+      "Proprietary 3-level (Advanced Multi-level) IGBT architecture provides reduction on switching loss and performance enhancement through filter reactor size optimization.",
+      "Industry’s leading 98.9% efficiency.",
+      "Utilizing TMEIC heat pipe technology, the inverter runs without fan operation up to 40% load.",
+      "Heatpipe cooling significantly simplifies thermal management, because it uses fewer parts and only a slow-speed fan with a heat pipe heat sink.",
+      "Full direct bus connection both on DC and AC side provides easy installation on-site."
+    ]
+  },
+  {
+    "id": 60036,
+    "name": "Solar Ware Station",
+    "model": "Solar Ware Station",
+    "brand": "TMEIC",
+    "category": "PV Inverters",
+    "description": "Our 1500V and 1000V compact PV inverters, MV transformers, switchgear and other products create flexible container-based solutions (up to 10MW) that are uniquely adapted to meet a wide range of needs.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/solar-ware-station-ac-station-2_22mw-lrg.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "Package Solution: 2.22MW | 2.55MW",
+      "Type: ISO Standard size 20’",
+      "Outline Dimensions (L×W×H, m): 6.1 × 2.4 × 2.6",
+      "Inverter Type: PVH-L2220E | PVH-L2550E",
+      "Inverter Quantity: 1 | 1",
+      "DC Box: Integrated in Inverter",
+      "MV Transformer - Grid Voltage: 11 / 22 / 34.5kV ± 2.5%",
+      "MV Transformer - Number of Phase: Three - phase",
+      "Standard Compliance: IEC 60076",
+      "Rated Voltage: 12 / 24 / 36kV",
+      "Model: Breaker protection as standard",
+      "Rated Currrent: 400A as standard",
+      "Standard Compliance: Standard Compliance",
+      "LV Panels: Low voltage distribution panels, outlets (Type depends on the requriments)",
+      "Cooling Method: Louvers and fans"
+    ],
+    "url": "https://www.tmeic.com/solar-ware-station",
+    "features": [
+      "Flexible package configurations for varied needs",
+      "Minimizes construction and installation time",
+      "Reduces overall project cost",
+      "AC Station: PV inverter, transformer, and switchgear (containerized)",
+      "L-H Combo & Inverter Package: Multiple inverters and switchgears for high-capacity output",
+      "Inverter Package: Inverter-only solution for separate transformer/switchgear procurement",
+      "Engineered for protection in harsh environments"
+    ]
+  },
+  {
+    "id": 60037,
+    "name": "Energy Storage",
+    "model": "Energy Storage",
+    "brand": "TMEIC",
+    "category": "Energy Storage",
+    "description": "TMEIC’s Battery Energy Storage System (BESS) delivers up to ±2500 kW of high-efficiency, bi-directional power with advanced cooling and grid-ready design for reliable energy management and stabilization.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/05/solarware_universal_pcs-2.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "Installation: Outdoor (Depending on the installation environmental condition and the use condition)",
+      "Ambient Temperature: -5°C ~ 40°C",
+      "Relative Humidity: 5% ~ 95% or less",
+      "Altitude: 1000m or less",
+      "Output Rating: Active Power +/-2500kW, Reactive Power pending, (Apparent capacity: 2500kVA)",
+      "DC Voltage: 750V~1250V (Target)",
+      "AC Voltage: 480V (Target)",
+      "Frequency: 50/60 Hz ±3%",
+      "Maximum Efficiency: 98.5% (Target)",
+      "Main Circuit: 3-Level",
+      "Isolation Transformer: External",
+      "Cooling Method: Advanced hybrid cooling (fan + heat pipe heat-sink)",
+      "Communication Method: Modbus, Ethernet"
+    ],
+    "url": "https://www.tmeic.com/energy-storage",
+    "features": []
+  },
+  {
+    "id": 60038,
+    "name": "21- FII Series",
+    "model": "21- FII Series",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "The 21-FII Series three-phase high-voltage motors feature compact IEC frame sizes, cast aluminum squirrel cage rotors, and robust insulation systems—delivering efficient, low-noise, and vibration-resistant performance across all industries and VFD applications.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-motor-21-FII_1.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/21-fii-series",
+    "features": [
+      "Aluminum Die Cast Rotor.",
+      "Cast iron fin frame with optimized cooling surface.",
+      "Bearing housing designed to permit longer re-greasing intervals.",
+      "Main terminal box can be installed in multiple locations and positions.",
+      "High reliability.",
+      "Frequent starting duty.",
+      "Lower rotor inertia.",
+      "Higher efficiency.",
+      "Reduced bearing maintenance.",
+      "Re-greasing allowed during motor operation."
+    ]
+  },
+  {
+    "id": 60039,
+    "name": "21 G Series",
+    "model": "21 G Series",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "The 21-G Series three-phase high-voltage motors deliver up to 23,000kW of power with rugged steel construction, advanced copper bar rotor technology, and global standard compliance, making them ideal for demanding industrial applications and variable frequency drive systems.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-motor-TM21G_0.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/21-g-series",
+    "features": [
+      "Electrical design including:",
+      "Extensive electrical magnetic field analysis",
+      "Heat transfer analysis",
+      "Improved ventilation",
+      "Advanced techniques in core and frame construction",
+      "Advanced VPI Insulation System",
+      "Culture of quality and continuous improvement",
+      "Increased efficiency",
+      "Higher power factor",
+      "Superior starting characteristics"
+    ]
+  },
+  {
+    "id": 60040,
+    "name": "21-H Series",
+    "model": "21-H Series",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "The 21-H Series three-phase high-voltage motors deliver up to 8,000 kW with rugged steel construction, copper bar rotors, and multiple cooling configurations—offering high efficiency, low noise, and seamless compatibility with variable frequency drives across all industrial applications.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-motor-TM21-H.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/21-h-series",
+    "features": [
+      "Excellent Electrical Design",
+      "Extensive electrical magnetic field analysis",
+      "Heat transfer analysis",
+      "Improved ventilation",
+      "Unique Modular Construction",
+      "Advanced techniques in core and frame construction",
+      "Advanced VPI Insulation System",
+      "Culture of quality and continuous improvement",
+      "Increased efficiency",
+      "Higher power factor"
+    ]
+  },
+  {
+    "id": 60041,
+    "name": "21- L Series Vertical",
+    "model": "21- L Series Vertical",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "The 21-L Series three-phase high-voltage motors deliver up to 6,300 kW with rugged steel construction, copper bar rotors, and a range of cooling options—engineered to meet global standards and seamlessly integrate with variable frequency drive systems.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-motor-21-L-vertical.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/21-l-series-vertical",
+    "features": [
+      "Electrical design including:",
+      "Extensive electrical magnetic field analysis",
+      "Heat transfer analysis",
+      "Improved ventilation",
+      "Unique Modular Construction",
+      "Selection of Thrust Bearings",
+      "Spherical roller thrust bearings",
+      "Tilting pad thrust bearings",
+      "Advanced techniques in core and frame construction",
+      "Advanced VPI Insulation System"
+    ]
+  },
+  {
+    "id": 60042,
+    "name": "21-VLL Series Vertical Motors",
+    "model": "21-VLL Series Vertical Motors",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "The 21-VLL series three-phase medium-voltage motors are designed for large capacity applications.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://live-tmeic.pantheonsite.io/wp-content/uploads/2025/04/74f9d904dda316d09e4691deb11388e9.png"
+    ],
+    "inStock": true,
+    "specs": [
+      "Rated Output Power: 650 kW – 6,500 kW, depending on the number of poles",
+      "Rated Voltage: 3,000 or 3,300 4,000 or 4,160 6,000 or 6,600 10,000 or 11,000",
+      "Frequency: 50 Hz, 60 Hz",
+      "Number of Poles: 12 – 28 poles",
+      "Applicable Standards: IEC60034-1 (General) JEC or NEMA IEC60034-1 or JEC-2137 IEEE112 Method F or JEC-2137",
+      "Reference ambient temp.: Maximum: +40° C; Minimum: -20° C",
+      "Insulation class: F temperature insulation",
+      "Temperature rise limit: Temperature rise limit of the stator windings when ambient temperature is 40° C uses B rise ETD method 85k, 90K",
+      "Service factor: 1.0 SF",
+      "Noise: 80dB(A): design value (4 points average value)",
+      "Protection/cooling system: Totally-enclosed type: IP55-IC611, IC81W Open drip-proof type: IP22, IP24-IC01",
+      "Starting method: Full voltage starting (Direct on line): normally considered ±10% voltage",
+      "Rotation direction: Uni-direction is standard Bi-directional is an option",
+      "Shaft end: Single shaft extension; straight shaft with parallel key",
+      "Finished color: Munsell notation 2.5PB6/2"
+    ],
+    "url": "https://www.tmeic.com/21-vll-series-vertical-motors",
+    "features": [
+      "Electromagnetic field analysis",
+      "Heat conduction analysis",
+      "Air flow system analysis",
+      "Spherical roller thrust bearings (self-cooled, air-cooled, water-cooled, oil-cooled",
+      "Tilting pad thrust bearings (air-cooled, water-cooled, oil-cooled",
+      "Drip-proof, NEMA Weather Protected",
+      "The latest technology reduces noise to 80 dBa and less, and vibration level to 1.8 mm/sec",
+      "Lower noise and vibrations address health and reliability concerns",
+      "Increased efficiency",
+      "Higher power factor"
+    ]
+  },
+  {
+    "id": 60043,
+    "name": "Custom-Designed Induction Motors",
+    "model": "Custom-Designed Induction Motors",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "TMEIC’s custom low and medium voltage induction motors deliver high performance and reliability in demanding industrial environments—ideal for fans, blowers, compressors, pumps, and conveyors—with easy installation, simplified maintenance, and full compliance with international standards.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-motor-custom-induction-brand.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/custom-designed-induction-motors",
+    "features": [
+      "Proven design and technology, manufacturing expertise, robotics, demanding quality system and testing.",
+      "Superior efficiency resulting from detailed analysis of the electromagnetic field patterns and ventilating air flows.",
+      "High mechanical strength through use of static and dynamic analysis of stator frame, rotor, shaft and bearings. Motor shafts are made of forged steel with high tensile strength.",
+      "Many years of reliable trouble-free service under difficult working conditions.",
+      "Low electrical losses, high power conversion and lower energy expenditures.",
+      "Withstands surge and minimizes electrical shorts and winding failure.",
+      "Minimizes mechanical deflection and vibration.",
+      "Permits motor longevity and uninterrupted operation."
+    ]
+  },
+  {
+    "id": 60044,
+    "name": "Custom-Designed Synchronous Motors",
+    "model": "Custom-Designed Synchronous Motors",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "Custom-Designed Synchronous Motors provide exceptional low operating costs and energy savings through reliable high-performance operation, minimal maintenance and superior efficiency.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/05/product-motor-custom-designed-synchronous_0.jpg"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/custom-designed-synchronous-motors",
+    "features": []
+  },
+  {
+    "id": 60045,
+    "name": "Rolling Mills",
+    "model": "Rolling Mills",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "AC adjustable speed motor drive systems are the preferred technology for new rolling mill installations and modernization projects.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-motor-metals-rolling-mills.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/rolling-mills",
+    "features": [
+      "High strength coil head bracing and connections will withstand magnetic forces under frequent reversing direction of rotation.",
+      "On squirrel cage motors, an optimal brazing between rotor bars and end rings will permit the motor to withstand the repeated acceleration, deceleration and reversal of rotation that is typical in this steel processing.",
+      "Detailed analysis of the electromagnetic field patterns and ventilating airflows yields an optimized motor design with maximum cooling and efficiency.",
+      "Application of TMEIC vacuum pressure insulation (VPI) system and very large autoclave can process any size of stator.",
+      "Static and dynamic strength analysis of stator, frame, rotor, shaft and bearings.",
+      "Selection of appropriate forged steel shaft with high tensile strength.",
+      "High reliability and longevity with no unplanned production interruption.",
+      "Lower energy expenditure.",
+      "High strength of insulation required for special operating duty and steel mill environment will ensure long operating life.",
+      "Greater mechanical strength to sustain the multi-directional forces, vibrations and electro-magnetic forces ensure continuous operations."
+    ]
+  },
+  {
+    "id": 60046,
+    "name": "TM-AC Series 800 Frame",
+    "model": "TM-AC Series 800 Frame",
+    "brand": "TMEIC",
+    "category": "Motors",
+    "description": "Replacing DC Auxiliary Motors with the Latest in AC Motor Technology TMEIC’s TM-AC line of green, energy-saving motors are designed to mount directly to existing systems to replace standard DC motors. They are designed to match DC motor electrical characteristics and performance.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://live-tmeic.pantheonsite.io/wp-content/uploads/2025/04/product-motor-TM-AC.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tm-ac-series-800-frame",
+    "features": [
+      "The newest induction motor is based on JEC-2137 / IEC 60034-1 standards, maintaining compatibility with mechanical dimensions and electrical performance of DC motors.",
+      "Uses the most appropriate electrical designs.",
+      "Uses the most appropriate structural designs.",
+      "TMEIC new generation of bearing designs, improves already highly reputable bearing design.",
+      "Water-resistant bearings to operate and withstand extremely harsh types of environments.",
+      "Compatibility with existing 800 Frame DC motors.",
+      "Increased availability of motor parts.",
+      "Contributes to energy saving and CO2 reduction due to improved operating efficiency.",
+      "Robust structure for longer life with reduced vibration.",
+      "Greasing interval twice as long as conventional bearings."
+    ]
+  },
+  {
+    "id": 60047,
+    "name": "Air-Cooled Type Synchronous Generators",
+    "model": "Air-Cooled Type Synchronous Generators",
+    "brand": "TMEIC",
+    "category": "Generators",
+    "description": "TMEIC’s 2- and 4-pole air-cooled synchronous generators deliver exceptional reliability for industrial applications, featuring advanced insulation systems, low vibration, and durable rotors—engineered for long service life, reduced maintenance, and superior cost performance.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-generator-air-cooled-4pole.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/air-cooled-type-synchronous-generators",
+    "features": []
+  },
+  {
+    "id": 60048,
+    "name": "Custom Designed 2-Pole Synchronous Generators",
+    "model": "Custom Designed 2-Pole Synchronous Generators",
+    "brand": "TMEIC",
+    "category": "Generators",
+    "description": "TMEIC designs and manufactures synchronous generators to specific customer’s requirements up to 100 MW. Through continuous research and development for lowest vibration levels, enhanced efficiency, and prediction and solution of natural resonances, TMEIC 2-pole synchronous generators are efficiently operating in major first class facilities throughout the globe.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-2-pole-synchronous-generators.jpg"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/custom-designed-2-pole-synchronous-generators",
+    "features": []
+  },
+  {
+    "id": 60049,
+    "name": "TM21-TG Series 4-Pole Generator for Turbine Drive",
+    "model": "TM21-TG Series 4-Pole Generator for Turbine Drive",
+    "brand": "TMEIC",
+    "category": "Generators",
+    "description": "TMEIC’s 4-Pole, air-cooled generators are custom designed to meet each customer’s requirements.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-generator-4-pole.jpg"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tm21-tg-series-4-pole-for-turbine-drive",
+    "features": [
+      "Flexibility",
+      "New Compact Design",
+      "Lower Noise and Less Vibration",
+      "Reliability",
+      "Maintenance",
+      "Installation and Commissioning",
+      "Custom-designed to meet unique application requirements and global standards",
+      "Extensive electrical field and heat transfer analysis enables a more efficient footprint",
+      "Advanced VPI insulation and solid pole rotor construction ensure performance and surge tolerance",
+      "Brushless AC exciter system minimizes wear and simplifies routine maintenance"
+    ]
+  },
+  {
+    "id": 60050,
+    "name": "TM21-TG Series 2-Pole Generator",
+    "model": "TM21-TG Series 2-Pole Generator",
+    "brand": "TMEIC",
+    "category": "Generators",
+    "description": "The TM21-TG Series generators are 2-pole, air-cooled generators.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/product-generator-2-pole.png"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/tm21-tg-series-2-pole",
+    "features": [
+      "Flexibility",
+      "New Compact Design",
+      "Lower Noise and Less Vibration",
+      "Reliability",
+      "Maintenance",
+      "Installation and Commissioning",
+      "Custom-designed to meet unique application requirements and global standards",
+      "Extensive electrical field and heat transfer analysis enables a more efficient footprint",
+      "Advanced VPI insulation and solid pole rotor construction ensure performance and surge tolerance",
+      "Brushless AC exciter system minimizes wear and simplifies routine maintenance"
+    ]
+  },
+  {
+    "id": 60051,
+    "name": "Dynamic VAR Compensation – Dyna-VAR™",
+    "model": "Dynamic VAR Compensation – Dyna-VAR™",
+    "brand": "TMEIC",
+    "category": "Software",
+    "description": "A reactive power compensation system designed to stabilize voltage and reduce equipment shutdown risks.",
+    "price": 0,
+    "rating": 4.8,
+    "reviews": 0,
+    "images": [
+      "https://tmeic.com/wp-content/uploads/2025/04/Product-MVe2-2.webp"
+    ],
+    "inStock": true,
+    "specs": [],
+    "url": "https://www.tmeic.com/dynamic-var-compensation-dyna-var",
+    "features": [
+      "Medium Voltage PWM Converter using common system hardware",
+      "Uses isolation transformer for compatibility to any customer system voltage",
+      "Water cooled to provide highest reliability:",
+      "Reduced chance of contamination",
+      "Flexibility for customer water or outdoor water-air heat exchanger",
+      "MV Ratings: (with 40ºC customer cooling water):",
+      "8 MVAR single bank",
+      "16 MVAR dual bank",
+      "24 MVAR triple bank",
+      "Improves Voltage Stability"
+    ]
+  }
+];
+
+// Export category image mapping using first product image from each category
+export const tmeicCategoryImages: Record<string, string> = {
+  'Variable Frequency Drives': 'https://tmeic.com/wp-content/uploads/2025/04/TMdrive-10-angle.png',
+  'DC Drives': 'https://live-tmeic.pantheonsite.io/wp-content/uploads/2025/06/product-dcdrives-tmdc-2.png',
+  'PV Inverters': 'https://live-tmeic.pantheonsite.io/wp-content/uploads/2025/05/Product-PV-inverter-Solar-Ware-Samurai-1500V-1.png',
+  'Energy Storage': 'https://tmeic.com/wp-content/uploads/2025/05/solarware_universal_pcs-2.png',
+  'Motors': 'https://tmeic.com/wp-content/uploads/2025/04/product-motor-21-FII_1.png',
+  'Generators': 'https://tmeic.com/wp-content/uploads/2025/04/product-generator-air-cooled-4pole.png',
+  'Software': 'https://tmeic.com/wp-content/uploads/2025/04/Product-MVe2-2.webp'
+};

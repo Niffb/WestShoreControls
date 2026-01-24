@@ -14,15 +14,15 @@ const brands = [
     description: 'Complete Factory Automation & Electric Controls Product Line',
     website: 'https://www.mitsubishielectric.com',
     categories: ['Controllers', 'Variable Frequency Drives', 'Motors', 'Circuit Breakers', 'Contactors', 'Overload Relays'],
-    productCount: 11
+    productCount: 16
   },
   {
     name: 'TMEIC',
-    logo: '/assets/images/TMEIC_logo.svg',
+    logo: '/assets/images/brands/TMEIC_logo.png',
     description: 'Full Range of High Power Drives & Industrial Systems',
     website: 'https://www.tmeic.com',
     categories: ['Variable Frequency Drives', 'Motors', 'DC Drives'],
-    productCount: 32
+    productCount: 51
   },
   {
     name: 'LS Industrial',
@@ -30,7 +30,7 @@ const brands = [
     description: 'Complete Variable Frequency Drives & Motor Controls Product Line',
     website: 'https://www.lsis.com',
     categories: ['Variable Frequency Drives', 'Contactors', 'Controllers', 'Motors'],
-    productCount: 37
+    productCount: 42
   },
   {
     name: 'ERICO',
@@ -38,7 +38,7 @@ const brands = [
     description: 'Full Line of Electrical Connection & Protection Products',
     website: 'https://www.erico.com',
     categories: ['Flexible Conductors', 'Busbars', 'Cable Management'],
-    productCount: 25
+    productCount: 24
   },
   {
     name: 'Katko',
@@ -46,44 +46,44 @@ const brands = [
     description: 'Complete Range of Enclosed Isolators & Safety Switches',
     website: 'https://www.katko.fi',
     categories: ['Enclosed Isolators'],
-    productCount: 15
+    productCount: 3080
   },
   {
     name: 'Klemsan',
     logo: '/assets/images/brands/klemsan-logo.webp',
     description: 'Full Product Line of Terminal Blocks & Connection Solutions',
     website: 'https://www.klemsan.com',
-    categories: ['Terminal Blocks', 'Accessories', 'Marking Solutions', 'Electronic Terminals', 'Terminal Marking'],
-    productCount: 120
+    categories: ['Screw Terminals', 'Quick Release', 'Spring Terminals', 'Plug Terminals', 'Power Sources', 'Automation', 'Junction Boxes', 'Cable Channels'],
+    productCount: 265
   },
   {
     name: 'Noark',
     logo: '/assets/images/brands/Noark.webp',
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
-    website: 'https://www.noark-electric.com', 
-    categories: ['Circuit Protection', 'Motor Circuit Protectors', 'Miniature Circuit Breakers', 'Surge Protective Device', 'Power Circuit Breakers', 'Molded Case Switches', 'DIN Rail Fuse Holders and Fuses', 'Enclosed Breakers'],
-    productCount: 383
+    website: 'https://www.noark-electric.com',
+    categories: ['Circuit Breakers', 'Contactors', 'Overload Relays', 'Manual Motor Starters', 'Push Buttons', 'LED Indicators', 'Power Distribution', 'Other Products'],
+    productCount: 4307
   },
   {
     name: 'Elsteel',
     logo: '/assets/images/brands/Elsteel.webp',
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     website: 'https://www.elsteel.com',
-    categories: ['Enclosures', 'Distribution Blocks', 'Power Blocks and Terminals'],
-    productCount: 8
+    categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power'],
+    productCount: 18
   }
 ]
 
 // Animated background particles
 const FloatingParticles = () => {
   // Use fixed seed values to ensure consistent server/client rendering
-  const particles = Array.from({length: 12}, (_, i) => {
+  const particles = Array.from({ length: 12 }, (_, i) => {
     // Use index-based deterministic values instead of Math.random()
     const seedX = (i * 17.3 + 23.7) % 100
     const seedY = (i * 13.1 + 31.9) % 100
     const seedSize = (i % 3) + 1
     const seedColor = i % 4
-    
+
     return {
       id: i,
       x: seedX,
@@ -134,10 +134,10 @@ export default function BrandSelection() {
   return (
     <>
       <FloatingParticles />
-      
+
       <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5 relative">
         {/* Hero Section */}
-        <motion.section   
+        <motion.section
           className="relative pt-24 pb-16 overflow-hidden"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -148,7 +148,7 @@ export default function BrandSelection() {
             <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
             <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
           </div>
-          
+
           {/* Dynamic gradient background */}
           <div className="absolute inset-0">
             <motion.div
@@ -170,24 +170,24 @@ export default function BrandSelection() {
           </div>
 
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <motion.h1 
+            <motion.h1
               className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6"
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              Select a 
+              Select a
               <span className="text-transparent bg-gradient-to-r from-red-500 to-red-900 bg-clip-text"> Brand</span>
             </motion.h1>
-           
-            <motion.div 
+
+            <motion.div
               className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full"
               initial={{ width: 0 }}
               animate={{ width: 96 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             />
-           
-            <motion.p 
+
+            <motion.p
               className="text-xl text-gray-600 max-w-3xl mx-auto mb-8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -197,7 +197,7 @@ export default function BrandSelection() {
             </motion.p>
 
             {/* Quick Stats */}
-            <motion.div 
+            <motion.div
               className="flex flex-wrap justify-center gap-8 mb-8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -222,12 +222,12 @@ export default function BrandSelection() {
                   key={brand.name}
                   initial={{ opacity: 0, y: 50, scale: 0.9 }}
                   animate={isInView ? { opacity: 1, y: 0, scale: 1 } : { opacity: 0, y: 50, scale: 0.9 }}
-                  transition={{ 
-                    delay: index * 0.1, 
+                  transition={{
+                    delay: index * 0.1,
                     duration: 0.6,
                     ease: "easeOut"
                   }}
-                  whileHover={{ 
+                  whileHover={{
                     scale: 1.02,
                     y: -5,
                     boxShadow: '0 25px 50px rgba(0,0,0,0.15)'
@@ -263,7 +263,7 @@ export default function BrandSelection() {
                       <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">
                         {brand.name}
                       </h3>
-                      
+
                       <p className="text-sm text-gray-600 mb-4 leading-relaxed">
                         {brand.description}
                       </p>
@@ -280,7 +280,7 @@ export default function BrandSelection() {
                         <p className="text-xs font-medium text-gray-500 mb-2 uppercase tracking-wider">Available Categories:</p>
                         <div className="flex flex-wrap gap-1">
                           {brand.categories.slice(0, 3).map((category) => (
-                            <span 
+                            <span
                               key={category}
                               className="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded-md group-hover:bg-red-50 group-hover:text-red-600 transition-colors"
                             >
@@ -297,7 +297,7 @@ export default function BrandSelection() {
 
                       {/* Action */}
                       <div className="flex items-center justify-between">
-                        <motion.span 
+                        <motion.span
                           className="text-red-600 font-medium group-hover:text-red-700 transition-colors flex items-center"
                           whileHover={{ x: 5 }}
                           transition={{ duration: 0.2 }}

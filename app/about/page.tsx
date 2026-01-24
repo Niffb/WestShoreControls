@@ -1,4 +1,4 @@
-import { 
+import {
   BuildingOfficeIcon,
   GlobeAmericasIcon,
   ShieldCheckIcon,
@@ -15,7 +15,7 @@ function useIntersectionObserver() {
   if (typeof window !== 'undefined') {
     const observeElements = () => {
       const elements = document.querySelectorAll('.animate-on-scroll')
-      
+
       const observer = new IntersectionObserver((entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
@@ -25,20 +25,20 @@ function useIntersectionObserver() {
             observer.unobserve(entry.target)
           }
         })
-      }, { 
-        threshold: 0.1, 
-        rootMargin: '50px 0px -50px 0px' 
+      }, {
+        threshold: 0.1,
+        rootMargin: '50px 0px -50px 0px'
       })
-      
+
       elements.forEach(el => {
         // Set initial state
         el.classList.add('animate-hidden')
         observer.observe(el)
       })
-      
+
       return () => observer.disconnect()
     }
-    
+
     // Run on mount with proper timing
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', observeElements)
@@ -86,23 +86,23 @@ export default function AboutPage() {
       <section className="relative bg-gradient-to-br from-red-50 via-white to-red-900/5 pt-32 pb-20 overflow-hidden">
         {/* Enhanced Animated Background Elements */}
         <div className="absolute inset-0 overflow-hidden">
-                  <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
-        <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-        <div className="absolute top-1/2 left-1/4 w-64 h-64 bg-gradient-to-br from-blue-200/20 to-blue-500/20 rounded-full blur-3xl"></div>
+          <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
+          <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
+          <div className="absolute top-1/2 left-1/4 w-64 h-64 bg-gradient-to-br from-blue-200/20 to-blue-500/20 rounded-full blur-3xl"></div>
         </div>
-        
+
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="inline-flex items-center gap-2 bg-red-50 border border-red-200 rounded-full px-4 py-2 text-sm text-red-700 mb-6 hero-element animate-fade-in-up hover:shadow-lg hover:scale-105 transition-all duration-300">
               <BuildingOfficeIcon className="w-4 h-4 animate-bounce-soft" />
               Est. 25+ Years
             </div>
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 hero-element animate-fade-in-up" style={{animationDelay: '0.2s'}}>
-              <span className="inline-block hero-element animate-fade-in-up" style={{animationDelay: '0.3s'}}>About</span>{' '}
-              <span className="text-transparent bg-gradient-to-r from-red-500 to-red-900 bg-clip-text inline-block hero-element animate-fade-in-up" style={{animationDelay: '0.5s'}}>Westshore Controls</span>
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 hero-element animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
+              <span className="inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.3s' }}>About</span>{' '}
+              <span className="text-transparent bg-gradient-to-r from-red-500 to-red-900 bg-clip-text inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.5s' }}>Westshore Controls</span>
             </h1>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full hero-element animate-fade-in-up" style={{animationDelay: '0.7s'}}></div>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed hero-element animate-fade-in-up" style={{animationDelay: '0.9s'}}>
+            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full hero-element animate-fade-in-up" style={{ animationDelay: '0.7s' }}></div>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed hero-element animate-fade-in-up" style={{ animationDelay: '0.9s' }}>
               Your trusted partner for electrical and automation equipment across North America and beyond
             </p>
           </div>
@@ -207,16 +207,16 @@ export default function AboutPage() {
           <div className="text-center mb-16 animate-on-scroll">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Trusted Partners</h2>
             <p className="text-gray-600 max-w-3xl mx-auto">
-              We partner with world-leading manufacturers to deliver premium industrial automation and electrical solutions. 
+              We partner with world-leading manufacturers to deliver premium industrial automation and electrical solutions.
               VAR (Value-Added Reseller) for TMEIC products and authorized distributor for other premium brands.
             </p>
           </div>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {[
               {
                 name: "TMEIC",
-                logo: getImageUrl("TMEIC_logo.svg"),
+                logo: getImageUrl("brands/TMEIC_logo.png"),
                 type: "VAR (Value-Added Reseller)",
                 since: "2019",
                 badge: "Technology Partner",
@@ -322,10 +322,10 @@ export default function AboutPage() {
               }
 
               return (
-                <div 
-                  key={partner.name} 
+                <div
+                  key={partner.name}
                   className={`bg-white rounded-xl p-6 shadow-sm border-2 transition-all duration-300 hover:shadow-xl hover:scale-105 hover:-translate-y-2 animate-on-scroll group ${getColorClasses(partner.color)}`}
-                  style={{animationDelay: `${index * 100}ms`}}
+                  style={{ animationDelay: `${index * 100}ms` }}
                 >
                   {/* Partner Badge */}
                   <div className="flex justify-between items-start mb-4">
@@ -353,7 +353,7 @@ export default function AboutPage() {
                     <h4 className="text-xs font-semibold text-gray-900 uppercase tracking-wide">Key Specialties:</h4>
                     <div className="flex flex-wrap gap-1">
                       {partner.specialties.slice(0, 3).map((specialty, idx) => (
-                        <span 
+                        <span
                           key={idx}
                           className="inline-block px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-md"
                         >
@@ -443,7 +443,7 @@ export default function AboutPage() {
                 </div>
               </div>
 
-              <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{animationDelay: '0.2s'}}>
+              <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{ animationDelay: '0.2s' }}>
                 <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
                   <span className="text-white font-bold text-xl group-hover:animate-pulse">JO</span>
                 </div>
@@ -560,7 +560,7 @@ export default function AboutPage() {
                     <div className="text-sm text-gray-600">Available during business hours</div>
                   </div>
                 </div>
-                
+
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 bg-gradient-to-r from-red-500 to-red-700 rounded-lg flex items-center justify-center">
                     <EnvelopeIcon className="w-5 h-5 text-white" />

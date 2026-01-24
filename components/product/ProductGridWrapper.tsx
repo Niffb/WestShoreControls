@@ -23,7 +23,14 @@ export default function ProductGridWrapper({ categorySlug, categoryName }: Produ
           throw new Error('Failed to load products')
         }
         const data = await response.json()
-        setProducts(data.products || [])
+        // Filter out products that only have the default West Shore logo as their image
+        const filteredProducts = (data.products || []).filter((product: Product) => {
+          const hasDefaultLogo = product.images?.length === 1 &&
+            (product.images[0] === '/images/westlogo.jpg' ||
+              product.images[0]?.includes('westlogo'))
+          return !hasDefaultLogo
+        })
+        setProducts(filteredProducts)
       } catch (err) {
         console.error('Error loading products:', err)
         setError('Failed to load products')
@@ -70,13 +77,13 @@ export default function ProductGridWrapper({ categorySlug, categoryName }: Produ
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
             </svg>
           </div>
-          
+
           <h2 className="text-2xl font-bold text-gray-900 mb-4">
             Products Coming Soon
           </h2>
-          
+
           <p className="text-lg text-gray-600 mb-8">
-            We're currently building our {categoryName.toLowerCase()} catalog. 
+            We're currently building our {categoryName.toLowerCase()} catalog.
             Our product database will be populated with high-quality products from leading manufacturers.
           </p>
 

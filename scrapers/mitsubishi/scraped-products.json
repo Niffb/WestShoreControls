@@ -1,0 +1,307 @@
+[
+  {
+    "name": "FR-A800 Series",
+    "model": "FR-A800 Series",
+    "description": "The FR‑A series combines high performance, safety compliance, vector control, USB configurability, Ethernet options, and energy-efficient design ensuring reliable, flexible use across industrial automation.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en&hash=B603D84E3883C91AA71F4901D1B94D4F",
+    "features": [
+      "High performance and high quality new VFD of the highest level.",
+      "The FR-A series offer the best drive performance in the FR series. The enhanced Real sensorless vector control and vector control serve the needs of all machinery types.",
+      "High performance and high quality new VFD of the highest level. With the enhanced drive performance and usability, the VFD is compliant with applicable safety standards."
+    ],
+    "specs": [],
+    "category": "Variable Frequency Drives",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/drv/inv/items/fr-a-series/",
+    "id": 60001,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "FR-A800 Plus Series",
+    "model": "FR-A800 Plus Series",
+    "description": "FR‑A800 Plus series VFDs build on top-tier performance to deliver crane-specific control, roll-to-roll feedback, and liquid- or air-cooled configurations, ideal for specialized industries with demanding motion profiles.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800-plus.ashx?h=372&w=660&la=en&hash=F8F00D90BC6057DF64D176BECA4118DF",
+    "features": [
+      "VFD with various functions ideal for a crane application such as reduction in tact time, load slippage prevention, etc.",
+      "The FR-A800-R2R VFD has various dedicated functions such as winding diameter calculation, providing stable winding/unwinding control independently.",
+      "Release of the new liquid cooled type VFD, FR-A800-LC\nCoolant is used for cooling the inside of the VFD. Liquid cooling enables new applications in the environments where heat is difficult to be dissipated.",
+      "Release of the new VFD for logistics and transportation\nThe FR-A800-AWH VFDs are ideal for logistics and transportation, supporting dual feedback control, full-closed control, and nine types of distance sensors."
+    ],
+    "specs": [],
+    "category": "Variable Frequency Drives",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/drv/inv/items/fr-a800-plus/",
+    "id": 60002,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "FR-F800 Series",
+    "model": "FR-F800 Series",
+    "description": "FR‑F series VFDs are specialized for fans and pumps featuring PID, advanced energy-saving modes, IPM motor support, and regenerative capabilities designed for HVAC and fluid handling systems.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en&hash=837F052B49B26446D88CC17E74843B1A",
+    "features": [
+      "In addition to various energy saving functions, functions ideal for fans and pumps are also equipped. The VFD provide the solution to your further energy saving needs.",
+      "Enhanced next-generation energy-saving VFD. Equipped various functions ideal for fans and pumps."
+    ],
+    "specs": [],
+    "category": "Variable Frequency Drives",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/drv/inv/items/fr-f-series/",
+    "id": 60003,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "FR-E800 Series",
+    "model": "FR-E800 Series",
+    "description": "FR‑E series VFDs offer industrial-grade compact performance with advanced vector control, wide environmental tolerance, energy-saving designs, and flexible communications that include TSN, Modbus, and Profinet.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en&hash=2CEAF6B962B1916FF0EE73AE480E8B6C",
+    "features": [
+      "Design future manufacturing\nFR-E800 - World's smallest class VFD with high functionality",
+      "FR-E800 - World's smallest class VFD with high functionality",
+      "Achieving the top level of driving performance in compact body, the VFD became more powerful."
+    ],
+    "specs": [],
+    "category": "Variable Frequency Drives",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/drv/inv/items/fr-e-series/",
+    "id": 60004,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "FR-D800 Series",
+    "model": "FR-D800 Series",
+    "description": "FR‑D800 VFDs deliver compact, eco-focused automation with predictive maintenance, PM motor compatibility, spring-clamp terminals, and easy Ethernet/USB setup. Perfect for compact automation in fans, pumps, and conveyors.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en&hash=D4DAC8B6D3CC4F93DF8E90DC99F00F97",
+    "features": [
+      "\"Next-generation compact VFDs”  FR-D800 are built for the long haul with unparalleled durability and reliability.",
+      "Building on the proven performance of the FR-D700 series, the FR-D800 delivers enhanced capabilities in the same compact footprint. It's easier to select, simpler to operate, and more efficient motor control than ever before.",
+      "In addition to the improved reliability and easy maintenance, pursued easier use and better performance."
+    ],
+    "specs": [],
+    "category": "Variable Frequency Drives",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/drv/inv/items/fr-d-series/",
+    "id": 60005,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "FR-XC Regeneration Converter",
+    "model": "FR-XC Regeneration Converter",
+    "description": "FR‑XC multifunction regeneration converters suppress harmonics, offer power regeneration, compact size, spring-clamp wiring, long-life components, and optional CC-Link communication. Perfect for efficient energy reuse.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/items/conv/img/fr-xc-series-main-banner.ashx?h=496&w=880&la=en&hash=8AA022D4B5D3E2769DDCF1469F0A29C3",
+    "features": [
+      "Single Solution for Both Harmonic Suppression and Power Regeneration",
+      "Choose the suitable function for your needs by using the FR-XC converter with the FR-XCB, FR-XCL, or FR-XCG reactor."
+    ],
+    "specs": [],
+    "category": "Variable Frequency Drives",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/drv/inv/items/fr-xc-series/",
+    "id": 60006,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "MELSEC iQ-R Series",
+    "model": "MELSEC iQ-R Series",
+    "description": "Get to know the MELSEC iQ-R Series from Mitsubishi Electric, offering high-speed, scalable PLC solutions for advanced industrial automation. Benefit from improved productivity with integrated control and flexible architecture.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/assets/img/large-fa-selection-tool-banner.ashx?h=540&w=960&la=en&hash=E6C9F8E174E77CE0055957F34C62C2FF",
+    "features": [
+      "The core for next-generation automation environment.",
+      "Multi-CPU architecture, configured with ultra high-speed PLC CPU and CPUs such as the motion CPU and the C controller, helps to reduce the production cycle time.",
+      ".c-text {\n    padding: 5px 10px 15px 10px;\n    margin-top: 0px;\n    }\n\nFor installing devices such as power supply and CPU module.",
+      "This module is used for providing the electrical power for the CPU, input, output, and other modules on the base unit.",
+      "The digital I/O module intefaces bit signals to the control system",
+      "Analog modules include the analog I/O module that interfaces voltage and current signals to the control system, the temperature input module that measures the temperature, and the temperature control module that controls the temperature.",
+      "The temperature input module is ideal for temperature measurement and the temperature control module is for applications requiring highly stable and responsive temperature control.",
+      "The motion module realizes high-speed and high-accuracy motion control with simple programming. The positioning module performs positioning such as helical interpolation."
+    ],
+    "specs": [],
+    "category": "Programmable Logic Controllers",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/cnt/programmable-controllers/melsec-iq-r-series/",
+    "id": 60007,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "MELSEC iQ-F Series",
+    "model": "MELSEC iQ-F Series",
+    "description": "Learn more about MELSEC iQ-F Series programmable controllers from Mitsubishi Electric engineered for scalable automation, high-speed performance, and seamless IoT integration. The FX5 series offers built-in Ethernet, advanced diagnostics, and motion control to promote industrial productivity.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/assets/img/large-fa-selection-tool-banner.ashx?h=540&w=960&la=en&hash=E6C9F8E174E77CE0055957F34C62C2FF",
+    "features": [
+      "All-in-one programmable controllers from stand-alone use to networked system applications.",
+      "This series will bring your business to the next level of industry, designed based on the concepts of outstanding performance, superior drive control, compatibility with IoT, and user centric programming.",
+      "All-in-one power supply, CPU, and I/O main unit. Built-in features include high-speed counters, positioning outputs, Ethernet, and SD card slot.",
+      "Both I/O modules with built-in power supply and without power supply available in various I/O sizes and configurations.",
+      "Options for analog inputs and outputs, temperature sensor inputs, and temperature control. FX3 series analog intelligent function modules can also be connected.",
+      "High speed counter modules. FX3 series high speed counter module can also be connected.",
+      "Simple motion module supporting SSCNET III/H. FX3 series pulse output modules can also be connected.",
+      "CC-Link IE Field Network intelligent device station module. RS-232, RS-485, RS-422 communication modules. FX3 series CC-Link master module can also be connected."
+    ],
+    "specs": [],
+    "category": "Programmable Logic Controllers",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/cnt/programmable-controllers/melsec-iq-f-series/",
+    "id": 60008,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "MELSEC-Q Series",
+    "model": "MELSEC-Q Series",
+    "description": "Unlock advanced automation with MELSEC Q Series programmable controllers, with high-speed performance, modular design, and seamless integration for industrial applications.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/assets/img/large-fa-selection-tool-banner.ashx?h=540&w=960&la=en&hash=E6C9F8E174E77CE0055957F34C62C2FF",
+    "features": [
+      "As equipment and manufacturing facilities continue to evolve on a daily basis, the series enables high-speed, high-accuracy and large volume data processing and machine control.",
+      "CPU modules for PLC. \nCPU lineup can fit any applications.",
+      ".c-text {\n    padding: 5px 10px 15px 10px;\n    margin-top: 0px;\n    }\n\nFor installing devices such as power supply and CPU module.",
+      ".c-text {\n    padding: 5px 10px 15px 10px;\n    margin-top: 0px;\n    }\n\nThis module is used for providing the electrical power for the CPU, input, output, and other modules on the base unit.",
+      "The digital I/O module intefaces bit signals to the control system.",
+      "Analog modules include the analog I/O module that interfaces voltage and current signals to the control system, the temperature input module that measures the temperature and the temperature control module that controls the temperature.",
+      "The simple motion module realizes high-speed and high-accuracy motion control with simple programming. The positioning module performs positioning such as helical interpolation.",
+      "The high-speed counter module is capable of handling high-speed pulse signals from an encoder.\nThe pulse input module performs cumulative counts by inputting measurement pulse signals such as flow rate."
+    ],
+    "specs": [],
+    "category": "Programmable Logic Controllers",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/cnt/programmable-controllers/melsec-q-series/",
+    "id": 60009,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "MELSEC-L Series",
+    "model": "MELSEC-L Series",
+    "description": "Get to know the MELSEC L Series programmable controllers from Mitsubishi Electric, designed for high-speed processing, modular scalability, and seamless integration in industrial automation systems.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/assets/img/large-fa-selection-tool-banner.ashx?h=540&w=960&la=en&hash=E6C9F8E174E77CE0055957F34C62C2FF",
+    "features": [
+      "CPU modules for PLC. \nVarious I/O functions are included as standard.",
+      "This module allows various modules to be added to extend the system according to the size of your production facility.",
+      "This module is used for providing the electrical power for the CPU, input, output, and other modules on the base unit.",
+      "The digital I/O module intefaces bit signals to the control system.",
+      "Analog modules include the analog I/O module that interfaces voltage and current signals to the control signal, the temperature input module that measures the temperature, and the temperature control module that controls the temperature.",
+      "The simple motion module realizes high-speed and high-accuracy motion control with simple programming.\nThe positioning module performs positioning such as helical interpolation.",
+      "The high-speed counter module is capable of handling high-speed pulse signals from an encoder.\nThe flexible high-speed I/O control module realizes stable I/O response due to high-speed hardware processing without being restricted by the CPU scan time. In addition, user's logic can be set to FPGA with the dedicated intuitive configuration tool.",
+      "Network module supports various network such as CC-Link IE and CC-Link."
+    ],
+    "specs": [],
+    "category": "Programmable Logic Controllers",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/cnt/programmable-controllers/melsec-l-series/",
+    "id": 60010,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "MELSEC-FX Series",
+    "model": "MELSEC-FX Series",
+    "description": "Explore MELSEC FX Series programmable controllers from Mitsubishi Electric. These compact PLCs combine CPU, I/O, and power supply in one unit for efficient automation across industries.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc_fx/pmerit/contents/plc/images/thumbnail_fx_plc.ashx?h=372&w=660&la=en&hash=019A4B18E4767B67C6811EED962D88E3",
+    "features": [
+      "Rich features and flexible system configuration in a compact size.",
+      "The MELSEC-F series PLC incorporates power supply, CPU, and I/Os into a single compact unit.\nMeets the needs of a variety of user applications with options for I/O, analog, positioning, and open network expansion.",
+      "All-in-one power supply, CPU, and I/O main unit. Built-in features include high-speed counters and positioning outputs.",
+      "Both [I/O Extension Units] with a built-in power supply and [I/O Extension Blocks] without a power supply are available in various I/O sizes and configurations.",
+      "Options for analog inputs and outputs, temperature sensor inputs, and temperature control are available.",
+      "Options are available to increase the performance of the built-in high-speed counters or provide additional high-speed counting capacity.",
+      "High-speed pulse output as well as SSCNETIII positioning options are available.",
+      "Expansion options for CC-Link and Ethernet networks as well as RS-232C and RS-485 serial communication protocols are available."
+    ],
+    "specs": [],
+    "category": "Programmable Logic Controllers",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/cnt/programmable-controllers/melsec-fx-series/",
+    "id": 60011,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "Motion Controller",
+    "model": "Motion Controller",
+    "description": "Explore Motion Controllers from Mitsubishi Electric for drive control that is high-accuracy. Discover flexible solutions for servo systems, from PLC-based to PC-based controllers.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/assets/img/large-fa-selection-tool-banner.ashx?h=540&w=960&la=en&hash=E6C9F8E174E77CE0055957F34C62C2FF",
+    "features": [
+      "Servo system controllers are control devices that achieve high-speed and high-accuracy drive control for each industrial machine.\nOur product lines include a variety of PLC system-based and industrial PC-based servo system controllers. Select suitable modules meeting your system requirements.",
+      "High-performance servo system controllers for iQ Platform",
+      "The performance leader for single axis & 1.5 axis control",
+      "Software-based controller for high-precision motion control",
+      "Optimized products with knowhow for supporting problem solutions in manufacturing",
+      "The software offering more comfortable engineering environment that strongly supports Motion system configuration",
+      "Ethernet-based open integrated network enabling seamless communication between the IT system and shop floor.",
+      "CC-Link IE incorporates high-speed I/O control, generic distributed control, synchronous motion control, and safety control enabling safety communications across multiple safety devices, all on the same network.\nThis Ethernet based open field network can flexibly configure the system corresponds to the installation environment using highly flexible twisted-pair cable."
+    ],
+    "specs": [],
+    "category": "Motion Controllers",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/cnt/motion-controllers/",
+    "id": 60012,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "GOT2000 Series",
+    "model": "GOT2000 Series",
+    "description": "Explore Mitsubishi Electric HMI solutions for intuitive control, real-time monitoring, and enhanced factory automation.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/hmi/got/img/spotlight_selection_tool_en.ashx?h=540&w=960&la=en&hash=BDF97149B5D6A6C4B283B7DEBD28043E",
+    "features": [
+      "The GOT offers art of design and manufacturing to the world.",
+      "A wide variety of lineup meets the needs of production sites. The GOT boasts\n            advanced functionality, acts as a seamless gateway to other industrial automation devices, all while\n            increasing productivity and efficiency.",
+      "The GOT SIMPLE series offers simple, but powerful models with a high reliability for easy\n              operation.",
+      "GT SoftGOT is an HMI software that allows GOT functions to operate on a personal computer\n              or panel computer.",
+      "Revolution in your screen design style. Design your beautiful screen with simple settings.",
+      "This integrated software suite includes various programming software for PLC, motion\n              control, and GOT.",
+      "Professional designs. Maximized efficiency. Intuitive operations. All made possible by GT\n              Works3. This integrated software is used to create professional screen designs for GOTs.",
+      "MELSOFT iQ AppPortal is software used to manage assets integrated for each purpose, such\n              as project files of MELSOFT products or design drawings/documents."
+    ],
+    "specs": [],
+    "category": "Human Machine Interface",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/hmi/human-machine-interface/",
+    "id": 60013,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "MELSERVO AC Servo",
+    "model": "MELSERVO AC Servo",
+    "description": "Mitsubishi Electric servo systems have become one of the most globally respected names in factory automation. The broad range of high quality servo offerings include standard safety features, multi-axis amplifiers, linear and direct drive motors, and world class performance for industrial automation applications.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/faist202411spotlighten.ashx?h=540&w=960&la=en&hash=CCCDAFB0A188261101DEA587B2BAF1B8",
+    "features": [
+      "Mitsubishi Electric Servo System - Advanced and Flexible",
+      "Mitsubishi Electric offers a variety of servo motors (Rotary, linear, and direct drive motors) for the best machine performance.",
+      "Man, machine and environment in perfect harmony.",
+      "Fast, Accurate, and Easy to Use.",
+      "Easy Operation and High Performance in a Compact Shape.",
+      "Start-up and adjustment support.",
+      "Create ready-to-use solutions for high-precision motion control in your applications.",
+      "Ethernet-based open integrated network enabling seamless communication between the IT system and shop floor."
+    ],
+    "specs": [],
+    "category": "Servo Motors",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/drv/servos/",
+    "id": 60014,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "Low-voltage Circuit Breakers",
+    "model": "Low-voltage Circuit Breakers",
+    "description": "Protect your electrical systems with circuit breakers from Mitsubishi Electric, offering high reliability, compact design, and compliance with global safety standards.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/lvd/lvcb/img/sq.ashx?h=372&w=660&la=en&hash=BF2C739F991FC7214CCCDB741357DAF8",
+    "features": [
+      "Mitsubishi Low-voltage Circuit Breakers create a future of the electrical equipment.",
+      "For over a half of a century Mitsubishi Low-voltage Circuit Breakers meet the needs of market. Including the WS-V series equipped with a new breaking technology, Mitsubishi Low-voltage Circuit Breakers have various lineups depending on the electric power market and the machinery.",
+      "Circuit breakers with spring clamp terminals.",
+      "Products as the main circuit protective device to make electrical equipment multifunctional.",
+      "Products for the protection of an overload, short-circuit basically.",
+      "Products for the protection of an overload, short-circuit and earth-leakage basically.",
+      "Products also suitable to install inside the equipment by a small size.",
+      "Circuit breakers mainly used for Photovoltaic power generation system."
+    ],
+    "specs": [],
+    "category": "Circuit Breakers",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/lvd/circuit-breakers/",
+    "id": 60015,
+    "brand": "Mitsubishi"
+  },
+  {
+    "name": "Contactors and Motor Starters",
+    "model": "Contactors and Motor Starters",
+    "description": "Learn more about Mitsubishi Electric contactors and motor starters for reliable control and protection in industrial automation.",
+    "mainImage": "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/lvd/lvsw/img/1_spotlight_e.ashx?h=540&w=960&la=en&hash=B479C3106CB20396EFB02D13E00EB619",
+    "features": [
+      "Wide selection of products that supports any usage environment.",
+      "MS-T/N Series Motor Starters feature specifications that are environmentally friendly, internationally usable, compact, easy to use and safe.They comply with many international standards, and cover a wide range of applications from switchboards to machines by high reliability.",
+      "Controls a motor and protects it from burnout.",
+      "Switches load current by using electromagnet.",
+      "Commands or transmits control circuit signals.",
+      "Protects the motor against burnout.",
+      "For use with rare load current and other usage conditions.",
+      "Low-voltage Circuit Breakers"
+    ],
+    "specs": [],
+    "category": "Contactors",
+    "url": "https://us.mitsubishielectric.com/fa/en/products/lvd/contactors-motor-starters/",
+    "id": 60016,
+    "brand": "Mitsubishi"
+  }
+]

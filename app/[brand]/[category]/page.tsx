@@ -9,7 +9,7 @@ export const dynamic = 'force-static'
 // Define the valid brands
 const validBrands = [
   'mitsubishi',
-  'noark', 
+  'noark',
   'ls-industrial',
   'tmeic',
   'erico',
@@ -23,7 +23,7 @@ const validBrands = [
 const brandDisplayNames: { [key: string]: string } = {
   'mitsubishi': 'Mitsubishi',
   'noark': 'Noark',
-  'ls-industrial': 'LS Industrial', 
+  'ls-industrial': 'LS Industrial',
   'tmeic': 'TMEIC',
   'erico': 'ERICO',
   'katko': 'Katko',
@@ -43,7 +43,7 @@ const ProductPageSkeleton = () => (
         <div className="h-6 bg-gray-200 rounded animate-pulse w-80"></div>
       </div>
     </div>
-    
+
     {/* Filters Skeleton */}
     <div className="bg-white/60 backdrop-blur-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
@@ -53,7 +53,7 @@ const ProductPageSkeleton = () => (
         </div>
       </div>
     </div>
-    
+
     {/* Products Grid Skeleton */}
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
@@ -82,14 +82,14 @@ interface Props {
 export default function BrandCategoryPage({ params }: Props) {
   const brandSlug = params.brand.toLowerCase()
   const categorySlug = params.category.toLowerCase()
-  
+
   // Check if the brand is valid
   if (!validBrands.includes(brandSlug)) {
     notFound()
   }
 
   const brandName = brandDisplayNames[brandSlug]
-  
+
   // Map category slugs to proper display names
   const categoryDisplayNames: { [key: string]: string } = {
     'variable-frequency-drives': 'Variable Frequency Drives',
@@ -97,6 +97,7 @@ export default function BrandCategoryPage({ params }: Props) {
     'pv-inverters': 'PV Inverters',
     'energy-storage': 'Energy Storage',
     'motors': 'Motors',
+    'generators': 'Generators',
     'controllers': 'Controllers',
     'software': 'Software',
     'contactors': 'Contactors',
@@ -109,7 +110,7 @@ export default function BrandCategoryPage({ params }: Props) {
     'motor-circuit-protectors': 'Motor Circuit Protectors',
     'miniature-circuit-breakers': 'Miniature Circuit Breakers',
     'industrial-controls': 'Industrial Controls',
-    'power-circuit-breakers': 'Power Circuit Breakers', 
+    'power-circuit-breakers': 'Power Circuit Breakers',
     'molded-case-circuit-breakers-mccbs': 'Molded Case Circuit Breakers (MCCBs)',
     'motor-circuit-protectors-mcps': 'Motor-Circuit Protectors (MCPs)',
     'enclosed-breakers': 'Enclosed Breakers',
@@ -170,7 +171,7 @@ export default function BrandCategoryPage({ params }: Props) {
     'i-o-modules': 'I/O Modules',
     'molded-case-switches': 'Molded Case Switches',
   }
-  
+
   // Get proper category name from mapping, fallback to title case conversion
   const categoryName = categoryDisplayNames[categorySlug] || categorySlug
     .split('-')
@@ -190,13 +191,13 @@ export async function generateStaticParams() {
   // Define categories for each brand
   const brandCategories: { [key: string]: string[] } = {
     'mitsubishi': [
-      'controllers', 
-      'variable-frequency-drives', 
-      'human-machine-interface', 
+      'controllers',
+      'variable-frequency-drives',
+      'human-machine-interface',
       'scada-systems',
       'robotics',
-      'circuit-breakers', 
-      'contactors', 
+      'circuit-breakers',
+      'contactors',
       'overload-relays',
       'field-devices',
       'energy-management',
@@ -225,7 +226,7 @@ export async function generateStaticParams() {
     'erico': ['flexible-conductors', 'busbars', 'cable-management'],
     'katko': ['enclosed-isolators', 'load-break-switches', 'switch-fuses', 'ul-csa-listed', 'connectors', 'installation-enclosures', 'accessories'],
     'klemsan': ['screw-terminals', 'quick-release', 'spring-terminals', 'plug-terminals', 'other-terminals', 'end-stops', 'power-sources', 'intermediate-relays', 'automation', 'climate', 'cam-switches', 'control-buttons', 'junction-boxes', 'thermal-printers', 'cable-channels', 'tools-and-accessories'],
-    'tmeic': ['variable-frequency-drives', 'dc-drives', 'pv-inverters', 'energy-storage', 'motors', 'controllers', 'software'],
+    'tmeic': ['variable-frequency-drives', 'dc-drives', 'pv-inverters', 'energy-storage', 'motors', 'generators', 'software'],
     'elsteel': ['modular-enclosures', 'plug-and-power', 'enclosures', 'special-enclosures', 'super-frame'],
     'westshore-controls': []
   }
@@ -239,6 +240,6 @@ export async function generateStaticParams() {
       })
     }
   }
-  
+
   return params
 } 

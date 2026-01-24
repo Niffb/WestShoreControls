@@ -58,10 +58,10 @@ export default function ProductModal({ product, isOpen, onClose, getProductImage
     
     // Otherwise, handle internally
     if (imageError) {
-      return getFallbackImageUrl(product.images?.[0] || 'products/placeholder.jpg')
+      return '/images/westlogo.jpg'
     }
     
-    return getImageUrl(product.images?.[0] || 'products/placeholder.jpg')
+    return getImageUrl(product.images?.[0] || '/images/westlogo.jpg')
   }, [getProductImage, imageError])
 
   const handleImageError = useCallback(() => {

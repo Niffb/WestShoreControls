@@ -5,10 +5,10 @@ import { useRef } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { ArrowRightIcon, ArrowLeftIcon } from '@heroicons/react/24/outline'
-import { 
-  BoltIcon, 
-  CpuChipIcon, 
-  PowerIcon, 
+import {
+  BoltIcon,
+  CpuChipIcon,
+  PowerIcon,
   WrenchScrewdriverIcon,
   LightBulbIcon,
   CogIcon,
@@ -20,9 +20,26 @@ import { ShieldCheckIcon, BuildingLibraryIcon, LinkIcon, WrenchIcon } from '@her
 
 import { cleanProducts, cleanProductsWithMitsubishi, getProductsByBrandEnhanced } from '@/lib/products/products'
 import { mitsubishiProducts } from '@/lib/products/mitsubishi-products'
-import { tmeicProducts } from '@/lib/products/tmeic-products'
-import { lsIndustrialProducts } from '@/lib/products/ls-industrial-products'
+import { mitsubishiScrapedProducts, mitsubishiCategoryImages } from '@/lib/products/mitsubishi-products-scraped'
+import { tmeicProducts as tmeicProductsOriginal } from '@/lib/products/tmeic-products'
+import { tmeicProducts as tmeicProductsScraped, tmeicCategoryImages } from '@/lib/products/tmeic-products-scraped'
+import { katkoProducts as katkoProductsScraped, katkoCategoryImages } from '@/lib/products/katko-products-scraped'
+import { lsIndustrialScraped, lsIndustrialCategoryImages } from '@/lib/products/ls-industrial-scraped'
+import { noarkScrapedProducts, noarkCategoryImages } from '@/lib/products/noark-products-scraped'
+import { klemsanScrapedProducts, klemsanCategoryImages } from '@/lib/products/klemsan-products-scraped'
+import { elsteelScrapedProducts, elsteelCategoryImages } from '@/lib/products/elsteel-products-scraped'
 import { getImageUrl } from '@/lib/config/image-config'
+
+// Use scraped products for TMEIC (has external image URLs)
+const tmeicProducts = tmeicProductsScraped
+// Use scraped products for Katko (2459 products)
+const katkoProducts = katkoProductsScraped
+// Use scraped products for Noark (4307 products)
+const noarkProducts = noarkScrapedProducts
+// Use scraped products for Klemsan (265 products)
+const klemsanProducts = klemsanScrapedProducts
+// Use scraped products for Elsteel (18 products)
+const elsteelProducts = elsteelScrapedProducts
 
 // Brand data with logos and categories (same as in BrandSelection)
 const brands = [
@@ -52,39 +69,35 @@ const brands = [
   },
   {
     name: 'TMEIC',
-    logo: getImageUrl('TMEIC_logo.svg'),
+    logo: getImageUrl('brands/TMEIC_logo.png'),
     description: 'Complete Range of High Power Drives & Industrial Systems',
-    categories: ['Variable Frequency Drives', 'DC Drives', 'PV Inverters', 'Energy Storage', 'Motors', 'Controllers', 'Software']
+    categories: ['Variable Frequency Drives', 'DC Drives', 'PV Inverters', 'Energy Storage', 'Motors', 'Generators', 'Software']
   },
   {
     name: 'Mitsubishi',
     logo: getImageUrl('brands/MitsubishiLogo.webp'),
     description: 'Complete Factory Automation & Electric Controls Product Line',
     categories: [
-      'Controllers', 
-      'Variable Frequency Drives', 
-      'Human Machine Interface', 
-      'SCADA Systems',
-      'Robotics',
-      'Circuit Breakers', 
-      'Contactors', 
-      'Overload Relays',
-      'Field Devices',
-      'Energy Management',
-      'Low Power Motors'
+      'Variable Frequency Drives',
+      'Programmable Logic Controllers',
+      'Motion Controllers',
+      'Human Machine Interface',
+      'Servo Motors',
+      'Circuit Breakers',
+      'Contactors'
     ]
   },
   {
     name: 'Noark',
     logo: getImageUrl('brands/Noark.webp'),
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
-    categories: ['Circuit Protection', 'Motor Circuit Protectors', 'Miniature Circuit Breakers', 'Molded Case Switches', 'Surge Protective Device', 'Power Circuit Breakers', 'DIN Rail Fuse Holders and Fuses', 'Enclosed Breakers']
+    categories: ['Circuit Breakers', 'Contactors', 'Overload Relays', 'Manual Motor Starters', 'Push Buttons', 'LED Indicators', 'Power Distribution', 'Other Products']
   },
   {
     name: 'Elsteel',
     logo: getImageUrl('brands/Elsteel.webp'),
     description: 'Full Range of Electrical Steel & Distribution Equipment',
-    categories: ['Modular Enclosures', 'Plug and Power', 'Enclosures', 'Special Enclosures', 'Super Frame']
+    categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power', 'Accessories', 'Software & Tools']
   }
 ]
 
@@ -153,7 +166,7 @@ const getCategoryIcon = (category: string) => {
     'Connectors': LinkIcon,
     'Installation Enclosures': BuildingLibraryIcon,
     'Accessories': WrenchIcon,
-    
+
     // Klemsan specific icons
     'Screw Terminals': WrenchScrewdriverIcon,
     'Quick Release': BoltIcon,
@@ -239,7 +252,7 @@ const getCategoryColor = (category: string) => {
     'Connectors': 'bg-purple-600',
     'Installation Enclosures': 'bg-indigo-600',
     'Accessories': 'bg-yellow-600',
-    
+
     // Klemsan specific colors
     'Screw Terminals': 'bg-orange-500',
     'Quick Release': 'bg-blue-500',
@@ -263,119 +276,125 @@ const getCategoryColor = (category: string) => {
 
 // Category representative images
 const getCategoryImage = (category: string, brand?: string) => {
-  // Use TMEIC-specific images for TMEIC brand categories
+  // Use TMEIC-specific images from scraped data (external URLs)
   if (brand === 'TMEIC') {
-    const tmeicImageMap: { [key: string]: string } = {
-      'Variable Frequency Drives': 'tmeic/TMdrive-10/TMdrive-10-angle.png',
-      'DC Drives': 'tmeic/TMdrive-DC/product-dcdrives-tmdc.png',
-      'PV Inverters': 'tmeic/SOLAR_WARE_2220/pv-inverter-2550-2220-solar-ware.png',
-      'Energy Storage': 'tmeic/Energy_Storage/solarware_universal_pcs.png',
-      'Motors': 'tmeic/21-FII_Series_Motors/product-motor-21-FII_1.png',
-      'Controllers': 'tmeic/Innovation_Series_Controller/product-controller-innovation-series.png',
-      'Software': 'tmeic/TMdrive-Navigator/product-software-tmdrive-navigator.png'
+    // Use category images from scraped data (external TMEIC website URLs)
+    if (tmeicCategoryImages[category]) {
+      return tmeicCategoryImages[category]
     }
-    
-    if (tmeicImageMap[category]) {
-      return tmeicImageMap[category]
+    // Fallback to first product image in that category
+    const product = tmeicProducts.find(p => p.category === category)
+    if (product && product.images && product.images.length > 0) {
+      return product.images[0]
     }
   }
 
-  // Use Mitsubishi-specific images for Mitsubishi brand categories
+  // Use Katko-specific images from scraped data (Shopify CDN)
+  if (brand === 'Katko') {
+    // Use category images from scraped data if available
+    if (katkoCategoryImages[category]) {
+      // Only use if it's a proper Katko image (from Shopify CDN), not CE marking
+      if (katkoCategoryImages[category].includes('cdn.shopify.com') && !katkoCategoryImages[category].includes('europa.eu')) {
+        return katkoCategoryImages[category]
+      }
+    }
+    // Fallback to first product image in that category (from Shopify CDN)
+    const product = katkoProducts.find(p =>
+      p.category === category &&
+      p.images &&
+      p.images.length > 0 &&
+      (p.images[0].includes('cdn.shopify.com') || p.images[0].includes('katko.com'))
+    )
+    if (product && product.images && product.images.length > 0) {
+      return product.images[0]
+    }
+  }
+
+  // Use Mitsubishi-specific images from scraped data
   if (brand === 'Mitsubishi') {
-    const mitsubishiImageMap: { [key: string]: string } = {
-      'Controllers': 'Mitsu Images/Melsec Q Picture.avif',
-      'Variable Frequency Drives': 'Mitsu Images/Melsevo PC Picture.avif',
-      'Human Machine Interface': 'Mitsu Images/pc_pic_got.avif',
-      'SCADA Systems': 'Mitsu Images/PC SCADA Image.avif',
-      'Robotics': 'Mitsu Images/PC Robots.avif',
-      'Circuit Breakers': 'Mitsu Images/HV Breakers Contactors.avif',
-      'Contactors': 'Mitsu Images/Mitsubishi Electric Contactors.avif',
-      'Overload Relays': 'Mitsu Images/pc_pic_relays.avif',
-      'Field Devices': 'Mitsu Images/PC Picture Devices.avif',
-      'Energy Management': 'Mitsu Images/Ecomonitor Pro Image.avif',
-      'Low Power Motors': 'Mitsu Images/PC Picture LPM.avif'
+    // Use category images from scraped data (external Mitsubishi website URLs)
+    if (mitsubishiCategoryImages[category]) {
+      return mitsubishiCategoryImages[category]
     }
-    
-    if (mitsubishiImageMap[category]) {
-      return mitsubishiImageMap[category]
+    // Fallback to first product image in that category from scraped data
+    const product = mitsubishiScrapedProducts.find(p => p.category === category)
+    if (product && product.images && product.images.length > 0) {
+      return product.images[0]
     }
   }
 
-  // Use Klemsan-specific images for Klemsan brand categories
+  // Use Klemsan-specific images for Klemsan brand categories (local images)
   if (brand === 'Klemsan') {
-    const klemsanImageMap: { [key: string]: string } = {
-      'Screw Terminals': 'categories/klemsan/screw-terminals.webp',
-      'Quick Release': 'categories/klemsan/quick-release.webp',
-      'Spring Terminals': 'categories/klemsan/spring-terminals.webp',
-      'Plug Terminals': 'categories/klemsan/plug-terminals.webp',
-      'Other Terminals': 'categories/klemsan/other-terminals.webp',
-      'End Stops': 'categories/klemsan/end-stops.webp',
-      'Power Sources': 'categories/klemsan/power-sources.webp',
-      'Intermediate Relays': 'categories/klemsan/intermediate-relays.webp',
-      'Automation': 'categories/klemsan/automation.webp',
-      'Climate': 'categories/klemsan/climate.webp',
-      'Cam Switches': 'categories/klemsan/cam-switches.webp',
-      'Control Buttons': 'categories/klemsan/control-buttons.webp',
-      'Junction Boxes': 'categories/klemsan/junction-boxes.webp',
-      'Thermal Printers': 'categories/klemsan/thermal-printers.webp',
-      'Cable Channels': 'categories/klemsan/cable-channels.webp',
-      'Tools and Accessories': 'categories/klemsan/tools-and-accessories.webp'
+    if (klemsanCategoryImages[category]) {
+      return klemsanCategoryImages[category]
     }
-    
-    if (klemsanImageMap[category]) {
-      return klemsanImageMap[category]
+    // Fallback to first product image in that category
+    const product = klemsanProducts.find(p =>
+      p.category === category &&
+      p.images &&
+      p.images.length > 0
+    )
+    if (product && product.images && product.images.length > 0) {
+      return product.images[0]
     }
   }
 
-  // Use Elsteel-specific images for Elsteel brand categories
+  // Use Elsteel-specific images for Elsteel brand categories (external from elsteel.com)
   if (brand === 'Elsteel') {
-    const elsteelImageMap: { [key: string]: string } = {
-      'Modular Enclosures': 'products/elsteel/Modular_Enclosures_modular-enclosures-300x300_504caefb.jpg',
-      'Plug and Power': 'products/elsteel/plugs_plugs_plugs-300x300_e3c1762c.jpg',
-      'Enclosures': 'products/elsteel/IP69K_IP69K_IP69K-300x300_bb3882e7.jpg',
-      'Special Enclosures': 'products/elsteel/floor_standing_cabinet_floor_standing_cabinet_floor-standing-300x300_9e491b3b.jpg',
-      'Super Frame': 'products/elsteel/techno_module_basic_elsteel_techno_module_basic_el_techno-modular-basic-300x300_b114fbc3.jpg'
+    if (elsteelCategoryImages[category]) {
+      return elsteelCategoryImages[category]
     }
-    
-    if (elsteelImageMap[category]) {
-      return elsteelImageMap[category]
+    // Fallback to first product image in that category
+    const product = elsteelProducts.find(p =>
+      p.category === category &&
+      p.images &&
+      p.images.length > 0
+    )
+    if (product && product.images && product.images.length > 0) {
+      return product.images[0]
     }
   }
 
-  // Use LS Industrial-specific images for LS Industrial brand categories
+  // Use LS Industrial-specific images for LS Industrial brand categories (local images)
   if (brand === 'LS Industrial') {
-    const lsIndustrialImageMap: { [key: string]: string } = {
-      'Variable Frequency Drives': 'products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
-      'Programmable Logic Controllers': 'products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg',
-      'Contactors': 'products/ls_industrial/Magnetic_Contactor_meta-MEC-img_b088404f.png',
-      'Circuit Breakers': 'products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg',
-      'Overload Relays': 'products/ls_industrial/Overload_Relay_susol-overload-300x300_e0fd1b9f.jpg',
-      'Softstarters': 'products/ls_industrial/Softstarters_motor-soft-starter-medium-voltage-controller-19851-5172985-300x300_1a89c0b6.jpg',
-      'I/O Modules': 'products/ls_industrial/smart-IO_smart-IO_smart-IO-300x300_d44e4fcd.jpg',
-      'Human Machine Interface': 'products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg',
-      'Motor Starters': 'products/ls_industrial/Manual_Motor_Starter_susol-circuit-breakers-300x300_622af47f.jpg'
+    if (lsIndustrialCategoryImages[category]) {
+      return lsIndustrialCategoryImages[category]
     }
-    
-    if (lsIndustrialImageMap[category]) {
-      return lsIndustrialImageMap[category]
+  }
+
+  // Use Noark-specific images for Noark brand categories (local images)
+  if (brand === 'Noark') {
+    if (noarkCategoryImages[category]) {
+      return noarkCategoryImages[category]
+    }
+    // Fallback to first product image in that category
+    const product = noarkProducts.find(p =>
+      p.category === category &&
+      p.images &&
+      p.images.length > 0 &&
+      !p.images[0].includes('placeholder') &&
+      !p.images[0].includes('noark-logo')
+    )
+    if (product && product.images && product.images.length > 0) {
+      return product.images[0]
     }
   }
 
   // Use ERICO-specific images for ERICO brand categories
   if (brand === 'ERICO') {
     const ericoImageMap: { [key: string]: string } = {
-      'Flexible Conductors': 'products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg',
-      'Busbars': 'products/erico/TCB_threaded_busbar_TCB_threaded_busbar_TCB_threaded_busbar-350x360_52c7809c.jpg',
-      'Cable Management': 'products/erico/FGBS_FGBS_FGBS-300x300_2cd174d2.jpg',
-      'Distribution Blocks': 'products/erico/BD-40A_BD-40A_BD-40A-300x300_36e975cb.jpg',
-      'Power Blocks and Terminals': 'products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.jpg',
-      'Busbar Supports': 'products/erico/UBS_Universal_Busbar_Supports_UBS_Universal_Busbar_UBS-300x300_3b919330.jpg',
-      'Connecting Clamps': 'products/erico/FC_erico_flexibar_clamp_FC_erico_flexibar_clamp_FC_erico_flexibar_clamp-350x360_8175290c.jpg',
-      'Power Terminals': 'products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.jpg',
-      'Insulators': 'products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg',
-      'Connectors': 'products/erico/XM5_threaded_busbar_connector_XM5_threaded_busbar__XM5_connector-350x360_80d380c4.jpg'
+      'Flexible Conductors': '/assets/images/products/erico/BJ_round_braid_with_crimped_lugs_BJ_round_braid_wi_BJ-round-braid-crimped-lugs-350x360_3e8fa2ee.webp',
+      'Busbars': '/assets/images/products/erico/DPCB_punched_plain_copper_busbar_double_DPCB_punch_DPCB_double_punched_busbar-350x360_feeee51d.webp',
+      'Cable Management': '/assets/images/products/erico/FGBS_FGBS_FGBS-300x300_2cd174d2.webp',
+      'Distribution Blocks': '/assets/images/products/erico/BD-40A_BD-40A_BD-40A-300x300_36e975cb.webp',
+      'Power Blocks and Terminals': '/assets/images/products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.webp',
+      'Busbar Supports': '/assets/images/products/erico/Busbar_Supports_solutions-for-electrical-power-category-img-300x300_8f79b7f0.webp',
+      'Connecting Clamps': '/assets/images/products/erico/FC_erico_flexibar_clamp_FC_erico_flexibar_clamp_FC_erico_flexibar_clamp-350x360_8175290c.webp',
+      'Power Terminals': '/assets/images/products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.webp',
+      'Insulators': '/assets/images/products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg',
+      'Connectors': '/assets/images/products/erico/XM5_threaded_busbar_connector_XM5_threaded_busbar__XM5_connector-350x360_80d380c4.webp'
     }
-    
+
     if (ericoImageMap[category]) {
       return ericoImageMap[category]
     }
@@ -390,8 +409,8 @@ const getCategoryImage = (category: string, brand?: string) => {
     'Pilot Devices': 'products/pilot_devices/Ex9PB_22mm_pushbuttons_specifications_Ex9PB_22mm_pushbuttons_specifications_fff32144.jpg',
     'Manual Motor Controllers': 'products/contactors/manual-motor-starters-Ex9SN_manual-motor-starters-_manual-motor-starters-Ex9SN1-300x300_b4553354.jpg',
     'Motor Starters': 'products/contactors/manual-motor-starters-Ex9SN_manual-motor-starters-_manual-motor-starters-Ex9SN1-300x300_b4553354.jpg',
-    'Flexible Conductors': 'products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg',
-    'Busbars': 'products/erico/TCB_threaded_busbar_TCB_threaded_busbar_TCB_threaded_busbar-350x360_52c7809c.jpg',
+    'Flexible Conductors': '/assets/images/products/erico/BJ_round_braid_with_crimped_lugs_BJ_round_braid_wi_BJ-round-braid-crimped-lugs-350x360_3e8fa2ee.webp',
+    'Busbars': '/assets/images/products/erico/DPCB_punched_plain_copper_busbar_double_DPCB_punch_DPCB_double_punched_busbar-350x360_feeee51d.webp',
     'Terminal Blocks': 'products/klemsan/OPK_EKI_112010N.webp',
     'Overload Relays': 'products/noark/Thermal_Overload_Relays_Ex9RD_Ex9RD-thermal-overload-relays-300x300_486a7e7a.jpg',
     'Motor Circuit Protectors': 'categories/Motor Circuit Protectors/Motor Circuit Protectors Stock Images.avif',
@@ -404,18 +423,18 @@ const getCategoryImage = (category: string, brand?: string) => {
     'Circuit Protection': 'categories/Motor Circuit Protectors/Motor Circuit Protectors Stock Images.avif',
     'Controllers': 'products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
     'Motors': 'products/motors/AC-motors-Ex9IE3_motor_AC-motors-Ex9IE3_motor_26e75140.jpg',
-    'Cable Management': 'products/erico/FGBS_FGBS_FGBS-300x300_2cd174d2.jpg',
+    'Cable Management': '/assets/images/products/erico/FGBS_FGBS_FGBS-300x300_2cd174d2.webp',
     'Marking Solutions': 'products/klemsan/marking-systems-klippon-connect_marking-systems-klippon-connect_marking-systems-klippon-connect_0f427544.jpg',
     'Electronic Terminals': 'products/klemsan/OPK_EKI_112010N.webp',
     'Terminal Marking': 'products/klemsan/marking-systems-klippon-connect_marking-systems-klippon-connect_marking-systems-klippon-connect_0f427544.jpg',
     'DC Drives': 'products/general/starvert-ie5_starvert-ie5_starvert-ie5_0e6fd403.jpg',
     'Enclosures': 'products/enclosures/fully-welded-ip69k.jpg',
-    'Distribution Blocks': 'products/erico/BD-40A_BD-40A_BD-40A-300x300_36e975cb.jpg',
-    'Power Blocks and Terminals': 'products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.jpg',
-    'Busbar Supports': 'products/erico/UBS_Universal_Busbar_Supports_UBS_Universal_Busbar_UBS-300x300_3b919330.jpg',
-    'Connecting Clamps': 'products/erico/FC_erico_flexibar_clamp_FC_erico_flexibar_clamp_FC_erico_flexibar_clamp-350x360_8175290c.jpg',
-    'Power Terminals': 'products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.jpg',
-    'Insulators': 'products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg',
+    'Distribution Blocks': '/assets/images/products/erico/BD-40A_BD-40A_BD-40A-300x300_36e975cb.webp',
+    'Power Blocks and Terminals': '/assets/images/products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.webp',
+    'Busbar Supports': '/assets/images/products/erico/Busbar_Supports_solutions-for-electrical-power-category-img-300x300_8f79b7f0.webp',
+    'Connecting Clamps': '/assets/images/products/erico/FC_erico_flexibar_clamp_FC_erico_flexibar_clamp_FC_erico_flexibar_clamp-350x360_8175290c.webp',
+    'Power Terminals': '/assets/images/products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.webp',
+    'Insulators': '/assets/images/products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg',
     'Load Break Switches': 'products/katko/load-break-switches/LoadSafe Product Image.png',
     'Switch Fuses': 'products/katko/switch-fuses/FuseSafe Product Image.png',
     'Enclosed Isolators': 'products/katko/enclosed-isolators/IsoSafe Product Image.png',
@@ -427,19 +446,19 @@ const getCategoryImage = (category: string, brand?: string) => {
     'Special Enclosures': 'products/special-enclosures/custom-made.jpg',
     'Super Frame': 'products/super-frame/19-inch-super-frame.jpg',
   }
-  return imageMap[category] || 'products/placeholder.jpg'
+  return imageMap[category] || '/images/westlogo.jpg'
 }
 
 // Animated background particles
 const FloatingParticles = () => {
   // Use fixed seed values to ensure consistent server/client rendering
-  const particles = Array.from({length: 12}, (_, i) => {
+  const particles = Array.from({ length: 12 }, (_, i) => {
     // Use index-based deterministic values instead of Math.random()
     const seedX = (i * 17.3 + 23.7) % 100
     const seedY = (i * 13.1 + 31.9) % 100
     const seedSize = (i % 3) + 1
     const seedColor = i % 4
-    
+
     return {
       id: i,
       x: seedX,
@@ -488,7 +507,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
 
   // Find the selected brand data
   const brandData = brands.find(brand => brand.name === selectedBrand)
-  
+
   if (!brandData) {
     return (
       <div className="min-h-screen pt-20 flex items-center justify-center">
@@ -505,55 +524,30 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
   // Get product count for each category with enhanced Mitsubishi, TMEIC, Noark, and Klemsan support
   const getCategoryProductCount = (category: string) => {
     if (selectedBrand === 'Mitsubishi') {
-      return mitsubishiProducts.filter(product => product.category === category).length
+      return mitsubishiScrapedProducts.filter(product => product.category === category).length
     }
     if (selectedBrand === 'TMEIC') {
       return tmeicProducts.filter(product => product.category === category).length
     }
+    if (selectedBrand === 'Katko') {
+      return katkoProducts.filter(product => product.category === category).length
+    }
     if (selectedBrand === 'Noark') {
-      // Handle specific Noark categories with their dedicated product arrays
-      if (category === 'Circuit Protection') {
-        return 308 // MCP products count
-      }
-      if (category === 'Motor Circuit Protectors') {
-        return 308 // MCP products count
-      }
-      if (category === 'Miniature Circuit Breakers') {
-        return 20 // MCB products count
-      }
-      if (category === 'Power Circuit Breakers') {
-        return 3 // PCB products count
-      }
-      if (category === 'Molded Case Switches') {
-        return 14 // Switches products count
-      }
-      if (category === 'Surge Protective Device') {
-        return 15 // SPD products count
-      }
-      if (category === 'DIN Rail Fuse Holders and Fuses') {
-        return 11 // Fuse Holders products count
-      }
-      if (category === 'Enclosed Breakers') {
-        return 12 // Enclosed Breakers products count
-      }
-      // For other Noark categories, use default filtering
-      return cleanProductsWithMitsubishi.filter(product => 
-        product.brand === selectedBrand && product.category === category
-      ).length
+      // Use scraped Noark products (4307 products)
+      return noarkProducts.filter(product => product.category === category).length
     }
     if (selectedBrand === 'LS Industrial') {
-      return lsIndustrialProducts.filter(product => product.category === category).length
+      return lsIndustrialScraped.filter(product => product.category === category).length
     }
     if (selectedBrand === 'Klemsan') {
-      // For Klemsan, count total models instead of products
-      const klemsanProducts = cleanProductsWithMitsubishi.filter(product => 
-        product.brand === selectedBrand && product.category === category
-      )
-      return klemsanProducts.reduce((total, product) => {
-        return total + ((product as any).models?.length || 0)
-      }, 0)
+      // Use scraped Klemsan products (265 products)
+      return klemsanProducts.filter(product => product.category === category).length
     }
-    return cleanProductsWithMitsubishi.filter(product => 
+    if (selectedBrand === 'Elsteel') {
+      // Use scraped Elsteel products (18 products)
+      return elsteelProducts.filter(product => product.category === category).length
+    }
+    return cleanProductsWithMitsubishi.filter(product =>
       product.brand === selectedBrand && product.category === category
     ).length
   }
@@ -578,19 +572,20 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
     const categoriesWithSubcategories = {
       'Mitsubishi': [
         'Variable Frequency Drives',
-        'Programmable Logic Controllers', 
+        'Programmable Logic Controllers',
         'Servo Motors',
         'Cables & Accessories',
         'Batteries & Power'
       ],
       'Noark': [
-        'Circuit Protection',
-        'Miniature Circuit Breakers',
         'Circuit Breakers',
         'Contactors',
         'Overload Relays',
+        'Manual Motor Starters',
         'Push Buttons',
-        'LED Indicators'
+        'LED Indicators',
+        'Power Distribution',
+        'Other Products'
       ],
       'LS Industrial': [
         'Variable Frequency Drives',
@@ -613,15 +608,15 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
         'Overload Relays'
       ]
     }
-    
+
     const brandCategories = categoriesWithSubcategories[brandName]
     return brandCategories ? brandCategories.includes(categoryName) : false
   }
-  
+
   // Function to get subcategories for a category
   const getSubcategories = (brandName: string, categoryName: string) => {
     // Define subcategories based on scraped families and product patterns
-    const subcategoryMappings: Record<string, Record<string, Array<{name: string, slug: string}>>> = {
+    const subcategoryMappings: Record<string, Record<string, Array<{ name: string, slug: string }>>> = {
       'Mitsubishi': {
         'Variable Frequency Drives': [
           { name: 'A800 Series', slug: 'a800-series' },
@@ -646,35 +641,31 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
         ]
       },
       'Noark': {
-        'Circuit Protection': [
-          { name: 'Miniature Circuit Breakers', slug: 'miniature-circuit-breakers' },
-          { name: 'Motor Circuit Protectors (MCPs)', slug: 'motor-circuit-protectors-mcps' },
-          { name: 'Enclosed Breakers', slug: 'enclosed-breakers' },
-          { name: 'DIN Rail Fuse Holders and Fuses', slug: 'din-rail-fuse-holders-and-fuses' },
-          { name: 'Surge Protective Device', slug: 'surge-protective-device' }
-        ],
-        'Miniature Circuit Breakers': [
-          { name: 'B1N Series', slug: 'b1n-series' },
-          { name: 'B1H Series', slug: 'b1h-series' },
-          { name: 'B1E Series', slug: 'b1e-series' },
-          { name: 'B1D Series', slug: 'b1d-series' }
+        'Circuit Breakers': [
+          { name: 'Molded Case Circuit Breakers', slug: 'mccbs' },
+          { name: 'Miniature Circuit Breakers', slug: 'mcbs' },
+          { name: 'Motor Circuit Protectors', slug: 'mcps' }
         ],
         'Contactors': [
-          { name: 'Ex9C Series', slug: 'ex9c-series' },
-          { name: 'Ex9CK Series', slug: 'ex9ck-series' },
-          { name: 'Ex9CDR Series', slug: 'ex9cdr-series' }
+          { name: 'Industrial Contactors', slug: 'industrial-contactors' }
         ],
         'Overload Relays': [
-          { name: 'Ex9R Series', slug: 'ex9r-series' },
-          { name: 'Thermal Overload Relays', slug: 'thermal-overload-relays' }
+          { name: 'Thermal Overloads', slug: 'thermal-overloads' }
+        ],
+        'Manual Motor Starters': [
+          { name: 'Motor Starters', slug: 'motor-starters' }
         ],
         'Push Buttons': [
-          { name: 'Ex9PB Series', slug: 'ex9pb-series' },
-          { name: '22mm Push Buttons', slug: '22mm-push-buttons' }
+          { name: 'Pushbuttons', slug: 'pushbuttons' }
         ],
         'LED Indicators': [
-          { name: 'Ex9IL Series', slug: 'ex9il-series' },
-          { name: '22mm LED Indicators', slug: '22mm-led-indicators' }
+          { name: 'Pilot Lights', slug: 'pilot-lights' }
+        ],
+        'Power Distribution': [
+          { name: 'Power Distribution', slug: 'power-distribution' }
+        ],
+        'Other Products': [
+          { name: 'Accessories', slug: 'accessories' }
         ]
       },
       'LS Industrial': {
@@ -705,7 +696,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
         ]
       }
     }
-    
+
     const brandSubcategories = subcategoryMappings[brandName]
     return brandSubcategories ? (brandSubcategories[categoryName] || []) : []
   }
@@ -713,10 +704,10 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
   return (
     <>
       <FloatingParticles />
-      
+
       <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5 relative">
         {/* Hero Section */}
-        <motion.section   
+        <motion.section
           className="relative pt-24 pb-16 overflow-hidden"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -727,17 +718,17 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
             <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
             <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
           </div>
-          
+
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             {/* Breadcrumb */}
-            <motion.nav 
+            <motion.nav
               className="flex items-center justify-center space-x-2 text-sm mb-8"
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}
             >
-              <Link 
-                href="/" 
+              <Link
+                href="/"
                 className="text-gray-500 hover:text-red-600 transition-colors flex items-center"
               >
                 <ArrowLeftIcon className="h-4 w-4 mr-1" />
@@ -747,7 +738,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
               <span className="text-red-600 font-medium">{selectedBrand}</span>
             </motion.nav>
 
-            <motion.div 
+            <motion.div
               className="flex items-center justify-center gap-4 mb-6"
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
@@ -766,15 +757,15 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                 Products
               </h1>
             </motion.div>
-           
-            <motion.div 
+
+            <motion.div
               className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full"
               initial={{ width: 0 }}
               animate={{ width: 96 }}
               transition={{ duration: 0.8, delay: 0.5 }}
             />
-           
-            <motion.p 
+
+            <motion.p
               className="text-xl text-gray-600 max-w-3xl mx-auto mb-8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -784,7 +775,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
             </motion.p>
 
             {/* Stats */}
-            <motion.div 
+            <motion.div
               className="flex flex-wrap justify-center gap-8 mb-8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -795,13 +786,21 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
               </div>
               <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
                 <span className="font-medium text-gray-700">
-                  {selectedBrand === 'Mitsubishi' 
-                    ? mitsubishiProducts.length 
+                  {selectedBrand === 'Mitsubishi'
+                    ? mitsubishiProducts.length
                     : selectedBrand === 'TMEIC'
-                    ? tmeicProducts.length
-                    : selectedBrand === 'LS Industrial'
-                    ? lsIndustrialProducts.length
-                    : cleanProductsWithMitsubishi.filter(p => p.brand === selectedBrand).length} Products
+                      ? tmeicProducts.length
+                      : selectedBrand === 'Katko'
+                        ? katkoProducts.length
+                        : selectedBrand === 'LS Industrial'
+                          ? lsIndustrialScraped.length
+                          : selectedBrand === 'Noark'
+                            ? noarkProducts.length
+                            : selectedBrand === 'Klemsan'
+                              ? klemsanProducts.length
+                              : selectedBrand === 'Elsteel'
+                                ? elsteelProducts.length
+                                : cleanProductsWithMitsubishi.filter(p => p.brand === selectedBrand).length} Products
                 </span>
               </div>
             </motion.div>
@@ -817,18 +816,18 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
               const colorClass = getCategoryColor(category)
               const categoryImage = getCategoryImage(category, selectedBrand)
               const brandSlug = getBrandSlug(selectedBrand)
-              
+
               return (
                 <motion.div
                   key={category}
                   initial={{ opacity: 0, y: 50, scale: 0.9 }}
                   animate={isInView ? { opacity: 1, y: 0, scale: 1 } : { opacity: 0, y: 50, scale: 0.9 }}
-                  transition={{ 
-                    delay: index * 0.1, 
+                  transition={{
+                    delay: index * 0.1,
                     duration: 0.6,
                     ease: "easeOut"
                   }}
-                  whileHover={{ 
+                  whileHover={{
                     scale: 1.02,
                     y: -5,
                     boxShadow: '0 25px 50px rgba(0,0,0,0.15)'
@@ -836,10 +835,10 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                   className="perspective-1000"
                 >
                   <Link
-                    href={hasSubcategories(selectedBrand, category) 
-                      ? `/${brandSlug}/${getCategorySlug(category)}` 
-                      : productCount === 0 
-                        ? '/contact' 
+                    href={hasSubcategories(selectedBrand, category)
+                      ? `/${brandSlug}/${getCategorySlug(category)}`
+                      : productCount === 0
+                        ? '/contact'
                         : `/${brandSlug}/${getCategorySlug(category)}`}
                     className="group relative bg-white rounded-3xl border border-gray-200/60 overflow-hidden hover:shadow-2xl hover:shadow-red-500/10 transition-all duration-500 cursor-pointer block touch-manipulation h-full backdrop-blur-sm"
                   >
@@ -855,16 +854,17 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                     {/* Product Image */}
                     <div className="relative w-full h-64 bg-white transition-all duration-300">
                       <Image
-                        src={getImageUrl(categoryImage)}
+                        src={categoryImage.startsWith('http') ? categoryImage : getImageUrl(categoryImage)}
                         alt={`${category} example`}
                         fill
                         className="object-contain p-6 group-hover:scale-110 transition-transform duration-500 z-10 relative"
                         sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                        unoptimized={categoryImage.startsWith('http')}
                       />
-                      
+
                       {/* Category Icon Overlay with enhanced visibility */}
                       <div className="absolute top-4 right-4 z-20">
-                        <motion.div 
+                        <motion.div
                           className={`${colorClass} p-3 rounded-xl shadow-xl backdrop-blur-sm border border-white/20`}
                           whileHover={{ scale: 1.15, rotate: 5 }}
                           transition={{ duration: 0.3 }}
@@ -872,7 +872,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                           <IconComponent className="h-6 w-6 text-white drop-shadow-lg" />
                         </motion.div>
                       </div>
-                      
+
                       {/* Product count badge */}
                       <div className="absolute bottom-4 left-4 z-20">
                         <div className="bg-white/90 backdrop-blur-md px-3 py-1 rounded-full shadow-lg border border-white/30">
@@ -886,20 +886,20 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                       <h3 className="text-xl font-bold text-gray-900 group-hover:text-red-600 transition-colors leading-tight mb-3 line-clamp-2">
                         {category}
                       </h3>
-                      
+
                       {/* Enhanced product count with better styling */}
-                                              <div className="flex items-center justify-between mb-4">
-                          <div className="flex items-center">
-                            <div className="w-2 h-2 bg-red-500 rounded-full mr-2"></div>
-                            <p className="text-sm font-medium text-gray-600">
-                              {productCount === 0 ? 'Please call regarding products' : `${productCount} ${selectedBrand === 'Klemsan' ? 'Models' : 'Products'} Available`}
-                            </p>
-                          </div>
+                      <div className="flex items-center justify-between mb-4">
+                        <div className="flex items-center">
+                          <div className="w-2 h-2 bg-red-500 rounded-full mr-2"></div>
+                          <p className="text-sm font-medium text-gray-600">
+                            {productCount === 0 ? 'Please call regarding products' : `${productCount} ${selectedBrand === 'Klemsan' ? 'Models' : 'Products'} Available`}
+                          </p>
                         </div>
+                      </div>
 
                       {/* Action with enhanced styling */}
                       <div className="flex items-center justify-between pt-2 border-t border-gray-100">
-                        <motion.span 
+                        <motion.span
                           className="text-red-600 font-semibold group-hover:text-red-700 transition-colors flex items-center text-sm"
                           whileHover={{ x: 5 }}
                           transition={{ duration: 0.2 }}
@@ -907,7 +907,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                           {productCount === 0 ? 'Call to Inquire' : 'View Products'}
                           <ArrowRightIcon className="h-4 w-4 ml-2 group-hover:translate-x-1 transition-transform duration-200" />
                         </motion.span>
-                        
+
                         {/* Visual indicator */}
                         <div className="w-8 h-8 bg-red-50 rounded-full flex items-center justify-center group-hover:bg-red-100 transition-colors">
                           <ArrowRightIcon className="h-4 w-4 text-red-500 group-hover:text-red-600" />
@@ -918,17 +918,17 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                 </motion.div>
               )
             })}
-            
+
             {/* Inquiry Card */}
             <motion.div
               initial={{ opacity: 0, y: 50, scale: 0.9 }}
               animate={isInView ? { opacity: 1, y: 0, scale: 1 } : { opacity: 0, y: 50, scale: 0.9 }}
-              transition={{ 
-                delay: brandData.categories.length * 0.1, 
+              transition={{
+                delay: brandData.categories.length * 0.1,
                 duration: 0.6,
                 ease: "easeOut"
               }}
-              whileHover={{ 
+              whileHover={{
                 scale: 1.02,
                 y: -5,
                 boxShadow: '0 25px 50px rgba(0,0,0,0.15)'
@@ -948,7 +948,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                 {/* Inquiry Content */}
                 <div className="relative h-64 flex flex-col items-center justify-center p-6 text-white">
                   {/* Icon */}
-                  <motion.div 
+                  <motion.div
                     className="mb-4 p-4 bg-white/20 backdrop-blur-sm rounded-2xl border border-white/30"
                     whileHover={{ scale: 1.1, rotate: 5 }}
                     transition={{ duration: 0.3 }}
@@ -957,17 +957,17 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                     </svg>
                   </motion.div>
-                  
+
                   <h3 className="text-xl font-bold text-center mb-2 leading-tight">
                     Questions About Our Products?
                   </h3>
-                  
+
                   <p className="text-white/90 text-center text-sm mb-4 line-clamp-2">
                     Need help selecting the right {selectedBrand} products for your application?
                   </p>
-                  
+
                   <div className="w-full border-t border-white/20 pt-4">
-                    <motion.span 
+                    <motion.span
                       className="text-white font-semibold group-hover:text-white/90 transition-colors flex items-center justify-center text-sm"
                       whileHover={{ x: 5 }}
                       transition={{ duration: 0.2 }}
@@ -987,7 +987,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
                         Expert Technical Support
                       </p>
                     </div>
-                    
+
                     {/* Visual indicator */}
                     <div className="w-8 h-8 bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center group-hover:bg-white/30 transition-colors">
                       <ArrowRightIcon className="h-4 w-4 text-white" />

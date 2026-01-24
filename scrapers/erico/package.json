@@ -1,0 +1,14 @@
+{
+  "name": "erico-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for nVent ERIFLEX/ERICO products",
+  "type": "module",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "generate": "node generate-products.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^21.6.1"
+  }
+}

@@ -1,0 +1,1098 @@
+/**
+ * LS Electric Smart Automation Products Generator
+ * 
+ * This script generates a complete product catalog for LS Industrial products
+ * using local images and pre-defined product information.
+ * 
+ * The LS Electric website uses JavaScript SPA rendering which makes direct
+ * scraping unreliable. Instead, we use curated product data with local images.
+ */
+
+const fs = require('fs').promises;
+const path = require('path');
+
+// Product image mapping - maps product models to LOCAL image paths
+// Using existing images in the public/assets folder
+const PRODUCT_IMAGES = {
+    // VFD Series - Low Voltage Drives
+    'M100': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'S100': '/assets/images/products/ls_industrial/Starvert_S100_medium.avif',
+    'H100': '/assets/images/products/ls_industrial/Stavert_H100_medium.avif',
+    'C100': '/assets/images/products/ls_industrial/Starvert_C100_9c6865c5-524b-4222-bf20-e6f81559794b_medium.avif',
+    'iV5': '/assets/images/products/ls_industrial/LS_starvert_iV5_LS_starvert_iV5_iV5-300x300_a5496187.jpg',
+    'iS7': '/assets/images/products/ls_industrial/Stavert_iS5_medium.avif',
+    'iP5A': '/assets/images/products/ls_industrial/Starvert_iP5A_medium.avif',
+    'iG5A': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'iC5': '/assets/images/products/ls_industrial/Starvert_iC5_medium.avif',
+    'iE5': '/assets/images/products/ls_industrial/LS_Starvert_iE5_-_VFD_medium.avif',
+    'iS5': '/assets/images/products/ls_industrial/Stavert_iS5_medium.avif',
+    
+    // Medium Voltage VFD
+    'iS8': '/assets/images/products/ls_industrial/medium_voltage_VFD_medium_voltage_VFD_medium-voltage-vfd-300x300_28da3219.jpg',
+    'iS9': '/assets/images/products/ls_industrial/medium_voltage_VFD_medium_voltage_VFD_medium-voltage-vfd-300x300_28da3219.jpg',
+    
+    // PLCs - XGT Series
+    'XGK CPU': '/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg',
+    'XGI CPU': '/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg',
+    'XGR CPU': '/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg',
+    'XGT I/O Module': '/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg',
+    'XGT Power Module': '/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg',
+    'XGB Series PLC': '/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg',
+    'XEC Series PLC': '/assets/images/products/ls_industrial/master-K_master-K_master-K-300x300_71e634ff.jpg',
+    'Master-K': '/assets/images/products/ls_industrial/master-K_master-K_master-K-300x300_71e634ff.jpg',
+    
+    // HMI Panels
+    'iXP2 Series': '/assets/images/products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg',
+    'iXP Series': '/assets/images/products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg',
+    'XP Series': '/assets/images/products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg',
+    'eXP Series': '/assets/images/products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg',
+    
+    // Servo Drives and Motors
+    'L7 Series': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'L7C Series': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'L7P Series': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'L7S Series': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'APM-SA Series': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'APM-SC Series': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    'APM-SB Series': '/assets/images/products/ls_industrial/Variable_Frequency_Drives_starvert-ie5-300x300_f025777f.jpg',
+    
+    // Contactors
+    'MC Magnetic Contactor': '/assets/images/products/ls_industrial/Magnetic_Contactor_meta-MEC-img_b088404f.png',
+    'GMC Magnetic Contactor': '/assets/images/products/ls_industrial/Magnetic_Contactor_meta-MEC-img_b088404f.png',
+    
+    // Overload Relays
+    'MT Thermal Overload Relay': '/assets/images/products/ls_industrial/Overload_Relay_susol-overload-300x300_e0fd1b9f.jpg',
+    'GTH Thermal Overload Relay': '/assets/images/products/ls_industrial/Overload_Relay_susol-overload-300x300_e0fd1b9f.jpg',
+    
+    // Softstarters
+    'SS2 Soft Starter': '/assets/images/products/ls_industrial/Softstarters_motor-soft-starter-medium-voltage-controller-19851-5172985-300x300_1a89c0b6.jpg',
+    
+    // Circuit Breakers
+    'Susol MCCB': '/assets/images/products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg',
+    'UTE/UTS MCCB': '/assets/images/products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg',
+    'ABN/ABS MCCB': '/assets/images/products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg',
+    'Susol ACB': '/assets/images/products/ls_industrial/air_circuit_breakers_air_circuit_breakers_air-circuit-breakers-300x300_35876d55.jpg',
+    'BKN MCB': '/assets/images/products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg',
+    'BKH MCB': '/assets/images/products/ls_industrial/new_Susol_UL_MCCB_new_Susol_UL_MCCB_new-Susol_UL_MCCB-300x300_655509b0.jpg',
+    
+    // I/O Modules
+    'SMART I/O': '/assets/images/products/ls_industrial/smart-IO_smart-IO_smart-IO-300x300_d44e4fcd.jpg',
+};
+
+// Complete product catalog
+const PRODUCTS = [
+    // ===============================
+    // Variable Frequency Drives - Low Voltage
+    // ===============================
+    {
+        name: 'M100',
+        model: 'M100',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'Compact vector control drive for general-purpose applications with sensorless vector control, 0.4-22kW range. Easy parameter setting with built-in keypad and intuitive operation.',
+        features: [
+            'Sensorless vector control',
+            'Built-in EMC filter',
+            'Built-in braking transistor',
+            '150% overload capacity',
+            'PID control function',
+            'RS-485 Modbus RTU communication'
+        ],
+        specs: [
+            'Power Range: 0.4-22kW',
+            'Input Voltage: 200-240V (1-phase/3-phase)',
+            'Control: V/F, Sensorless Vector',
+            'Overload: 150% for 60 seconds',
+            'Communication: RS-485 Modbus RTU'
+        ]
+    },
+    {
+        name: 'S100',
+        model: 'S100',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'IP66/NEMA 4X rated drive for harsh environments, food & beverage, and washdown applications. Completely sealed enclosure for protection against dust, water jets, and corrosion.',
+        features: [
+            'IP66/NEMA 4X rating',
+            'Washdown duty rated',
+            'Stainless steel enclosure option',
+            'Built-in EMC filter',
+            'Conformal coated PCB',
+            'Wide temperature range operation'
+        ],
+        specs: [
+            'Power Range: 0.4-22kW',
+            'Protection: IP66/NEMA 4X',
+            'Input Voltage: 200-240V, 380-480V',
+            'Operating Temperature: -20 to +50°C',
+            'Communication: RS-485 Modbus'
+        ]
+    },
+    {
+        name: 'H100',
+        model: 'H100',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'HVAC optimized drive with dedicated fan/pump algorithms, BACnet/Modbus communication, and fire mode operation. Energy-saving features for building automation systems.',
+        features: [
+            'Dedicated HVAC algorithms',
+            'BACnet MS/TP protocol',
+            'Fire mode operation',
+            'PID control with sleep/wake',
+            'Real-time clock function',
+            'Energy monitoring'
+        ],
+        specs: [
+            'Power Range: 0.75-75kW',
+            'Input Voltage: 200-240V, 380-480V',
+            'Control: V/F, Sensorless Vector',
+            'Communication: BACnet, Modbus',
+            'Fire Mode: Configurable operation'
+        ]
+    },
+    {
+        name: 'C100',
+        model: 'C100',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'Cost-effective compact drive for simple applications. Easy setup with macro functions and reliable operation for general-purpose motor control.',
+        features: [
+            'Compact design',
+            'Simple V/F control',
+            'Macro function for easy setup',
+            'Built-in braking transistor',
+            'RS-485 communication',
+            'LED keypad'
+        ],
+        specs: [
+            'Power Range: 0.4-7.5kW',
+            'Input Voltage: 200-240V (1-phase/3-phase)',
+            'Control: V/F',
+            'Overload: 150% for 60 seconds',
+            'Size: Ultra-compact'
+        ]
+    },
+    {
+        name: 'iV5',
+        model: 'iV5',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'High-performance vector drive with advanced algorithms for demanding industrial applications. Features sensor and sensorless vector control with high-speed positioning.',
+        features: [
+            'High-performance vector control',
+            'Sensor/sensorless operation',
+            'High-speed positioning',
+            'Multiple PG card options',
+            'Advanced PID control',
+            'Safe torque off (STO)'
+        ],
+        specs: [
+            'Power Range: 0.75-375kW',
+            'Input Voltage: 200-240V, 380-480V',
+            'Control: Vector (sensor/sensorless)',
+            'Speed Response: 100Hz',
+            'Safety: STO (SIL2/PLd)'
+        ]
+    },
+    {
+        name: 'iS7',
+        model: 'iS7',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'Premium vector drive with high-speed processing, regenerative capability, and safety functions. Designed for high-precision applications requiring superior dynamic performance.',
+        features: [
+            'High-speed DSP processing',
+            'Regenerative operation',
+            'Safe torque off (STO)',
+            'Built-in positioning',
+            'Multi-motor control',
+            'EtherNet/IP communication'
+        ],
+        specs: [
+            'Power Range: 0.4-500kW',
+            'Input Voltage: 200-240V, 380-480V, 500-600V',
+            'Control: Advanced Vector',
+            'Speed Response: 300Hz',
+            'Safety: STO (SIL3/PLe)'
+        ]
+    },
+    {
+        name: 'iP5A',
+        model: 'iP5A',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'Pump and fan optimized drive with PID control, sleep/wake function, and pipe-fill mode. Energy-saving algorithms specifically designed for HVAC and water/wastewater applications.',
+        features: [
+            'Pump/fan optimization',
+            'Multi-pump control',
+            'Sleep/wake function',
+            'Pipe-fill mode',
+            'Dry-run protection',
+            'Fire mode operation'
+        ],
+        specs: [
+            'Power Range: 0.75-315kW',
+            'Input Voltage: 200-240V, 380-480V',
+            'Control: V/F, Sensorless Vector',
+            'PID: Built-in with auto-tune',
+            'Multi-pump: Up to 4 pumps'
+        ]
+    },
+    {
+        name: 'iG5A',
+        model: 'iG5A',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'General-purpose sensorless vector drive with compact design and versatile I/O options. Suitable for a wide range of industrial applications with reliable performance.',
+        features: [
+            'Sensorless vector control',
+            'Compact book-style design',
+            'Built-in braking transistor',
+            'RS-485/Modbus RTU',
+            'USB parameter copy',
+            'CE/UL certified'
+        ],
+        specs: [
+            'Power Range: 0.4-22kW',
+            'Input Voltage: 200-240V (1-phase/3-phase), 380-480V',
+            'Control: V/F, Sensorless Vector',
+            'Overload: 150% for 60 seconds',
+            'Certifications: CE, UL, cUL'
+        ]
+    },
+    {
+        name: 'iC5',
+        model: 'iC5',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'Compact micro drive for small motors with simple V/F control. Ultra-small footprint for space-constrained installations with easy parameter setup.',
+        features: [
+            'Ultra-compact design',
+            'Simple V/F control',
+            'Built-in EMC filter',
+            'Built-in braking transistor',
+            'RS-485 communication',
+            'DIN rail mounting'
+        ],
+        specs: [
+            'Power Range: 0.1-2.2kW',
+            'Input Voltage: 200-240V (1-phase)',
+            'Control: V/F',
+            'Size: Ultra-compact',
+            'Mounting: Panel or DIN rail'
+        ]
+    },
+    {
+        name: 'iE5',
+        model: 'iE5',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Low Voltage VFD',
+        description: 'Economic vector drive offering essential features for standard motor control applications. Cost-effective solution with reliable performance and easy operation.',
+        features: [
+            'Sensorless vector control',
+            'Energy-saving operation',
+            'Auto-tuning function',
+            'RS-485 Modbus',
+            'Built-in PLC function',
+            'Parameter copy'
+        ],
+        specs: [
+            'Power Range: 0.4-22kW',
+            'Input Voltage: 200-240V, 380-480V',
+            'Control: V/F, Sensorless Vector',
+            'Overload: 150% for 60 seconds',
+            'Communication: RS-485 Modbus RTU'
+        ]
+    },
+    
+    // ===============================
+    // Variable Frequency Drives - Medium Voltage
+    // ===============================
+    {
+        name: 'iS8',
+        model: 'iS8',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Medium Voltage VFD',
+        description: 'Medium voltage drive 3.3kV-6.6kV with multilevel technology for large motor applications. High-efficiency operation with low harmonic distortion for critical industrial processes.',
+        features: [
+            'Multilevel topology',
+            'Low harmonic distortion',
+            'Regenerative capability',
+            'Redundant cooling',
+            'Advanced diagnostics',
+            'Remote monitoring'
+        ],
+        specs: [
+            'Power Range: 200-3000kW',
+            'Input Voltage: 3.3kV, 6.6kV',
+            'Control: Vector',
+            'Harmonics: <5% THD',
+            'Efficiency: >97%'
+        ]
+    },
+    {
+        name: 'iS9',
+        model: 'iS9',
+        category: 'Variable Frequency Drives',
+        subcategory: 'Medium Voltage VFD',
+        description: 'High-power medium voltage drive for mining, oil & gas, and heavy industrial applications. Robust design with advanced protection and redundant systems.',
+        features: [
+            'High-power capacity',
+            'Robust industrial design',
+            'Redundant systems',
+            'Advanced protection',
+            'Oil & gas certified',
+            'ATEX options available'
+        ],
+        specs: [
+            'Power Range: 500-10000kW',
+            'Input Voltage: 3.3kV, 6.6kV, 10kV',
+            'Control: Advanced Vector',
+            'Protection: Comprehensive',
+            'Certifications: Oil & gas standards'
+        ]
+    },
+    
+    // ===============================
+    // Programmable Logic Controllers
+    // ===============================
+    {
+        name: 'XGK CPU',
+        model: 'XGK',
+        category: 'Programmable Logic Controllers',
+        subcategory: 'XGT Series',
+        description: 'High-performance PLC CPU with fast scan time, large program capacity, and Ethernet built-in. Ideal for complex automation systems requiring high-speed processing.',
+        features: [
+            'High-speed processing',
+            'Large program memory',
+            'Built-in Ethernet',
+            'USB programming port',
+            'Hot-swap battery',
+            'Redundancy support'
+        ],
+        specs: [
+            'Program Capacity: Up to 512K steps',
+            'Scan Time: 0.034μs/step',
+            'I/O Points: Up to 8192',
+            'Communication: Ethernet, RS-232/485',
+            'Memory: SD card support'
+        ]
+    },
+    {
+        name: 'XGI CPU',
+        model: 'XGI',
+        category: 'Programmable Logic Controllers',
+        subcategory: 'XGT Series',
+        description: 'Intelligent PLC CPU with IEC 61131-3 languages, motion control, and safety functions. Advanced features for sophisticated automation applications.',
+        features: [
+            'IEC 61131-3 languages',
+            'Built-in motion control',
+            'Safety functions',
+            'Floating point math',
+            'PID control',
+            'Data logging'
+        ],
+        specs: [
+            'Program Capacity: Up to 256K steps',
+            'Scan Time: 0.02μs/step',
+            'Motion Axes: Up to 32',
+            'Languages: LD, ST, FB, SFC',
+            'Safety: SIL2 capable'
+        ]
+    },
+    {
+        name: 'XGR CPU',
+        model: 'XGR',
+        category: 'Programmable Logic Controllers',
+        subcategory: 'XGT Series',
+        description: 'Redundant PLC system for critical applications requiring maximum uptime and reliability. Automatic failover with bumpless transfer.',
+        features: [
+            'Hot-standby redundancy',
+            'Automatic failover',
+            'Bumpless transfer',
+            'Dual Ethernet',
+            'System monitoring',
+            'Remote diagnostics'
+        ],
+        specs: [
+            'Redundancy: Hot-standby',
+            'Transfer Time: <10ms',
+            'Availability: >99.99%',
+            'Communication: Dual Ethernet',
+            'Monitoring: Built-in diagnostics'
+        ]
+    },
+    {
+        name: 'XGT I/O Module',
+        model: 'XGT-IO',
+        category: 'Programmable Logic Controllers',
+        subcategory: 'XGT Series',
+        description: 'Digital and analog I/O modules for XGT series with high-density and fast response. Wide variety of modules for different signal types.',
+        features: [
+            'High-density I/O',
+            'Fast response time',
+            'Hot-swap capable',
+            'LED diagnostics',
+            'Multiple signal types',
+            'Spring terminal blocks'
+        ],
+        specs: [
+            'Digital I/O: 16/32/64 points',
+            'Analog I/O: 4/8/16 channels',
+            'Response: 0.1ms',
+            'Resolution: 16-bit',
+            'Isolation: 500V'
+        ]
+    },
+    {
+        name: 'XGT Power Module',
+        model: 'XGT-PS',
+        category: 'Programmable Logic Controllers',
+        subcategory: 'XGT Series',
+        description: 'Power supply modules for XGT PLC systems with various voltage and current options. Reliable power with protection features.',
+        features: [
+            'Wide input voltage range',
+            'Over-current protection',
+            'Short-circuit protection',
+            'LED status indication',
+            'Redundancy option',
+            'Conformal coating'
+        ],
+        specs: [
+            'Input: 100-240VAC, 24VDC',
+            'Output: 5V/3A, 24V/1A',
+            'Protection: OCP, SCP, OTP',
+            'Efficiency: >85%',
+            'MTBF: >100,000 hours'
+        ]
+    },
+    {
+        name: 'XGB Series PLC',
+        model: 'XGB',
+        category: 'Programmable Logic Controllers',
+        subcategory: 'XGB Series',
+        description: 'Compact all-in-one PLC with built-in I/O, suitable for small to medium automation. Cost-effective solution with comprehensive features.',
+        features: [
+            'All-in-one design',
+            'Built-in I/O',
+            'Expansion capability',
+            'Built-in RS-485',
+            'High-speed counters',
+            'Pulse output'
+        ],
+        specs: [
+            'Program: Up to 64K steps',
+            'I/O: 14-60 points built-in',
+            'Expansion: Up to 7 modules',
+            'Counters: 100kHz',
+            'Pulse Output: 100kHz'
+        ]
+    },
+    {
+        name: 'XEC Series PLC',
+        model: 'XEC',
+        category: 'Programmable Logic Controllers',
+        subcategory: 'XEC Series',
+        description: 'Economical PLC solution for basic control applications with essential features. Easy programming with LD and user-friendly software.',
+        features: [
+            'Economic design',
+            'Essential features',
+            'Easy programming',
+            'Built-in I/O',
+            'RS-485 communication',
+            'Simple expansion'
+        ],
+        specs: [
+            'Program: Up to 16K steps',
+            'I/O: 10-40 points',
+            'Communication: RS-485',
+            'Counters: 10kHz',
+            'Languages: Ladder'
+        ]
+    },
+    
+    // ===============================
+    // Human Machine Interface
+    // ===============================
+    {
+        name: 'iXP2 Series',
+        model: 'iXP2',
+        category: 'Human Machine Interface',
+        subcategory: 'XGT Panel',
+        description: 'Advanced HMI panel with multi-touch, wide viewing angle, and modern interface design. High-resolution display with powerful visualization capabilities.',
+        features: [
+            'Multi-touch operation',
+            'Wide viewing angle',
+            'High-resolution display',
+            'Built-in Ethernet',
+            'USB host/device',
+            'Recipe management'
+        ],
+        specs: [
+            'Screen Size: 7" to 15"',
+            'Resolution: Up to 1024x768',
+            'Touch: Capacitive multi-touch',
+            'Communication: Ethernet, Serial',
+            'Memory: 128MB Flash'
+        ]
+    },
+    {
+        name: 'iXP Series',
+        model: 'iXP',
+        category: 'Human Machine Interface',
+        subcategory: 'XGT Panel',
+        description: 'Industrial HMI panel with robust construction and comprehensive communication options. Reliable performance for demanding industrial environments.',
+        features: [
+            'Robust construction',
+            'Wide temperature range',
+            'Multiple protocols',
+            'Data logging',
+            'Alarm management',
+            'Scripting support'
+        ],
+        specs: [
+            'Screen Size: 4.3" to 12.1"',
+            'Resolution: Up to 800x600',
+            'Touch: Resistive',
+            'Protection: IP65 front',
+            'Operating Temp: -20 to +60°C'
+        ]
+    },
+    {
+        name: 'XP Series',
+        model: 'XP',
+        category: 'Human Machine Interface',
+        subcategory: 'XGT Panel',
+        description: 'Standard HMI panel series with reliable performance for general automation applications. Cost-effective solution with essential features.',
+        features: [
+            'Standard features',
+            'Reliable operation',
+            'Easy programming',
+            'Multiple sizes',
+            'Serial communication',
+            'Recipe function'
+        ],
+        specs: [
+            'Screen Size: 3.5" to 10.4"',
+            'Resolution: Up to 640x480',
+            'Touch: Resistive',
+            'Communication: RS-232/485',
+            'Memory: 64MB Flash'
+        ]
+    },
+    {
+        name: 'eXP Series',
+        model: 'eXP',
+        category: 'Human Machine Interface',
+        subcategory: 'eXP Panel',
+        description: 'Economic HMI panels with essential features for cost-sensitive applications. Simple interface design with reliable functionality.',
+        features: [
+            'Economic design',
+            'Essential features',
+            'Simple operation',
+            'Compact size',
+            'Serial communication',
+            'Basic logging'
+        ],
+        specs: [
+            'Screen Size: 3.5" to 7"',
+            'Resolution: Up to 480x272',
+            'Touch: Resistive',
+            'Communication: RS-232',
+            'Memory: 32MB Flash'
+        ]
+    },
+    
+    // ===============================
+    // Servo Motors
+    // ===============================
+    {
+        name: 'L7 Series',
+        model: 'L7',
+        category: 'Servo Motors',
+        subcategory: 'Servo Drive',
+        description: 'High-performance servo drive with advanced motion control and safety features. EtherCAT communication for high-speed synchronized motion.',
+        features: [
+            'High-speed response',
+            'EtherCAT communication',
+            'Safety functions (STO)',
+            'Auto-tuning',
+            'Vibration suppression',
+            'Multi-turn absolute encoder'
+        ],
+        specs: [
+            'Power Range: 0.1-7.5kW',
+            'Communication: EtherCAT',
+            'Speed Response: 3.1kHz',
+            'Safety: STO (SIL3/PLe)',
+            'Encoder: 23-bit absolute'
+        ]
+    },
+    {
+        name: 'L7C Series',
+        model: 'L7C',
+        category: 'Servo Motors',
+        subcategory: 'Servo Drive',
+        description: 'Compact servo drive for space-constrained applications with full functionality. Book-style design for side-by-side mounting.',
+        features: [
+            'Compact book-style',
+            'Full L7 functionality',
+            'Side-by-side mounting',
+            'EtherCAT ready',
+            'Auto-tuning',
+            'Built-in regeneration'
+        ],
+        specs: [
+            'Power Range: 0.1-2kW',
+            'Size: 40% smaller',
+            'Communication: EtherCAT',
+            'Mounting: Book-style',
+            'Encoder: 23-bit'
+        ]
+    },
+    {
+        name: 'L7P Series',
+        model: 'L7P',
+        category: 'Servo Motors',
+        subcategory: 'Servo Drive',
+        description: 'Precision servo drive for high-accuracy positioning applications. Enhanced resolution and low-speed stability for precision machinery.',
+        features: [
+            'High precision control',
+            'Low-speed stability',
+            'Enhanced resolution',
+            'Position accuracy',
+            'Vibration-free operation',
+            'Fine tuning options'
+        ],
+        specs: [
+            'Power Range: 0.1-3.5kW',
+            'Resolution: 27-bit',
+            'Speed Range: 0-6000rpm',
+            'Position Accuracy: ±1 pulse',
+            'Communication: EtherCAT'
+        ]
+    },
+    {
+        name: 'L7S Series',
+        model: 'L7S',
+        category: 'Servo Motors',
+        subcategory: 'Servo Drive',
+        description: 'Safety-integrated servo drive with STO, SS1, and other safety functions. Certified for machine safety applications.',
+        features: [
+            'Safe Torque Off (STO)',
+            'Safe Stop 1 (SS1)',
+            'Safe Limited Speed (SLS)',
+            'SIL3/PLe certified',
+            'TÜV approved',
+            'Integrated safety'
+        ],
+        specs: [
+            'Power Range: 0.1-7.5kW',
+            'Safety: STO, SS1, SLS',
+            'Certification: SIL3, PLe',
+            'Communication: EtherCAT FSoE',
+            'Response: <1ms'
+        ]
+    },
+    {
+        name: 'APM-SA Series',
+        model: 'APM-SA',
+        category: 'Servo Motors',
+        subcategory: 'Servo Motor',
+        description: 'High-performance AC servo motor with low inertia and high torque density. Designed for dynamic applications requiring rapid acceleration.',
+        features: [
+            'Low inertia design',
+            'High torque density',
+            'Rapid acceleration',
+            'Smooth rotation',
+            'IP67 option',
+            'Oil seal option'
+        ],
+        specs: [
+            'Power Range: 0.1-7.5kW',
+            'Speed: Up to 6000rpm',
+            'Encoder: 23-bit absolute',
+            'Protection: IP65/IP67',
+            'Brake: Optional'
+        ]
+    },
+    {
+        name: 'APM-SC Series',
+        model: 'APM-SC',
+        category: 'Servo Motors',
+        subcategory: 'Servo Motor',
+        description: 'Compact AC servo motor for small machinery and precision applications. Space-saving design with high performance.',
+        features: [
+            'Compact design',
+            'High power density',
+            'Low cogging torque',
+            'Smooth operation',
+            'Flexible mounting',
+            'Quick connector'
+        ],
+        specs: [
+            'Power Range: 0.05-0.75kW',
+            'Speed: Up to 5000rpm',
+            'Size: 40mm frame',
+            'Encoder: 17-bit',
+            'Protection: IP65'
+        ]
+    },
+    {
+        name: 'APM-SB Series',
+        model: 'APM-SB',
+        category: 'Servo Motors',
+        subcategory: 'Servo Motor',
+        description: 'Standard AC servo motor series for general industrial automation applications. Balanced performance and cost.',
+        features: [
+            'Standard performance',
+            'Cost-effective',
+            'Wide range',
+            'Reliable operation',
+            'Standard mounting',
+            'Quick delivery'
+        ],
+        specs: [
+            'Power Range: 0.2-3.5kW',
+            'Speed: Up to 3000rpm',
+            'Encoder: 20-bit',
+            'Protection: IP65',
+            'Brake: Optional'
+        ]
+    },
+    
+    // ===============================
+    // Contactors
+    // ===============================
+    {
+        name: 'MC Magnetic Contactor',
+        model: 'MC',
+        category: 'Contactors',
+        subcategory: 'Magnetic Contactors',
+        description: 'Industrial magnetic contactors for motor control up to 800A. Reliable switching with long electrical life for demanding applications.',
+        features: [
+            'Wide current range',
+            'Long electrical life',
+            'DIN rail mounting',
+            'Auxiliary contacts',
+            'Coil economizer',
+            'AC/DC coil options'
+        ],
+        specs: [
+            'Current Range: 9-800A',
+            'Coil Voltage: 24-440V AC/DC',
+            'Electrical Life: 1-3 million ops',
+            'Auxiliary: Up to 4 contacts',
+            'Mounting: DIN rail or panel'
+        ]
+    },
+    {
+        name: 'GMC Magnetic Contactor',
+        model: 'GMC',
+        category: 'Contactors',
+        subcategory: 'Magnetic Contactors',
+        description: 'Compact magnetic contactors for various switching applications. Space-saving design with reliable performance.',
+        features: [
+            'Compact design',
+            'Finger protection',
+            'Easy wiring',
+            'Snap-on auxiliaries',
+            'Low power coil',
+            'Wide voltage range'
+        ],
+        specs: [
+            'Current Range: 6-85A',
+            'Coil Voltage: 24-440V AC',
+            'Electrical Life: 2 million ops',
+            'Size: Compact',
+            'Mounting: DIN rail'
+        ]
+    },
+    
+    // ===============================
+    // Overload Relays
+    // ===============================
+    {
+        name: 'MT Thermal Overload Relay',
+        model: 'MT',
+        category: 'Overload Relays',
+        subcategory: 'Thermal Overload Relays',
+        description: 'Thermal overload relays with adjustable current setting and trip class selection. Reliable motor protection with manual/auto reset.',
+        features: [
+            'Adjustable current',
+            'Trip class selection',
+            'Manual/auto reset',
+            'Test button',
+            'Trip indication',
+            'Auxiliary contacts'
+        ],
+        specs: [
+            'Current Range: 0.12-105A',
+            'Trip Class: 10, 20, 30',
+            'Reset: Manual/Auto',
+            'Auxiliary: 1NO+1NC',
+            'Ambient: -25 to +55°C'
+        ]
+    },
+    {
+        name: 'GTH Thermal Overload Relay',
+        model: 'GTH',
+        category: 'Overload Relays',
+        subcategory: 'Thermal Overload Relays',
+        description: 'Electronic overload relays with precise motor protection and comprehensive monitoring. Advanced protection features with communication.',
+        features: [
+            'Electronic sensing',
+            'Precise protection',
+            'Phase loss protection',
+            'Ground fault detection',
+            'Communication option',
+            'Wide adjustment range'
+        ],
+        specs: [
+            'Current Range: 0.5-800A',
+            'Protection: Overload, phase loss, ground fault',
+            'Communication: Modbus RTU option',
+            'Display: Digital LED',
+            'Accuracy: ±5%'
+        ]
+    },
+    
+    // ===============================
+    // Softstarters
+    // ===============================
+    {
+        name: 'SS2 Soft Starter',
+        model: 'SS2',
+        category: 'Softstarters',
+        subcategory: 'Soft Starters',
+        description: 'Motor soft starter for smooth acceleration and reduced starting current. Built-in bypass contactor for efficient operation after starting.',
+        features: [
+            'Smooth acceleration',
+            'Soft stop function',
+            'Built-in bypass',
+            'Motor protection',
+            'Multiple start modes',
+            'RS-485 communication'
+        ],
+        specs: [
+            'Power Range: 5.5-315kW',
+            'Voltage: 200-690V',
+            'Starting Current: 2-5x FLA',
+            'Bypass: Built-in',
+            'Communication: RS-485'
+        ]
+    },
+    
+    // ===============================
+    // Circuit Breakers
+    // ===============================
+    {
+        name: 'Susol MCCB',
+        model: 'Susol-MCCB',
+        category: 'Circuit Breakers',
+        subcategory: 'Molded Case Circuit Breakers',
+        description: 'Molded case circuit breakers with high breaking capacity and compact design. Reliable protection for power distribution systems.',
+        features: [
+            'High breaking capacity',
+            'Compact design',
+            'Adjustable trip unit',
+            'Rotary handle option',
+            'Easy installation',
+            'Wide accessory range'
+        ],
+        specs: [
+            'Current Range: 16-1600A',
+            'Breaking Capacity: Up to 100kA',
+            'Voltage: Up to 690V AC',
+            'Poles: 3P, 4P',
+            'Trip Unit: Thermal-magnetic, Electronic'
+        ]
+    },
+    {
+        name: 'UTE/UTS MCCB',
+        model: 'UTE-UTS',
+        category: 'Circuit Breakers',
+        subcategory: 'Molded Case Circuit Breakers',
+        description: 'UL listed circuit breakers for North American applications. Compliant with NEC requirements and UL standards.',
+        features: [
+            'UL 489 listed',
+            'NEC compliant',
+            'High interrupting rating',
+            'Thermal-magnetic trip',
+            'Standard mounting',
+            'US market accessories'
+        ],
+        specs: [
+            'Current Range: 15-1200A',
+            'Interrupting: Up to 100kA',
+            'Voltage: 480/600V AC',
+            'Certification: UL, cUL',
+            'Standards: UL 489, CSA'
+        ]
+    },
+    {
+        name: 'ABN/ABS MCCB',
+        model: 'ABN-ABS',
+        category: 'Circuit Breakers',
+        subcategory: 'Molded Case Circuit Breakers',
+        description: 'Economy circuit breakers for general-purpose protection. Cost-effective solution with reliable performance.',
+        features: [
+            'Economy design',
+            'Reliable protection',
+            'Thermal-magnetic trip',
+            'Compact size',
+            'Easy installation',
+            'Basic accessories'
+        ],
+        specs: [
+            'Current Range: 15-400A',
+            'Breaking Capacity: Up to 42kA',
+            'Voltage: Up to 690V AC',
+            'Poles: 2P, 3P, 4P',
+            'Trip: Thermal-magnetic'
+        ]
+    },
+    {
+        name: 'Susol ACB',
+        model: 'Susol-ACB',
+        category: 'Circuit Breakers',
+        subcategory: 'Air Circuit Breakers',
+        description: 'Air circuit breakers for main distribution and large capacity switching. Advanced protection with comprehensive monitoring.',
+        features: [
+            'High rated current',
+            'Drawout design',
+            'Electronic trip unit',
+            'Zone selective interlocking',
+            'Communication ready',
+            'Advanced protection'
+        ],
+        specs: [
+            'Current Range: 800-6300A',
+            'Breaking Capacity: Up to 100kA',
+            'Voltage: Up to 690V AC',
+            'Type: Fixed, Drawout',
+            'Communication: Modbus, PROFIBUS'
+        ]
+    },
+    {
+        name: 'BKN MCB',
+        model: 'BKN',
+        category: 'Circuit Breakers',
+        subcategory: 'Miniature Circuit Breakers',
+        description: 'Miniature circuit breakers for branch circuit protection. Compact design with high performance for residential and commercial use.',
+        features: [
+            'Compact design',
+            'DIN rail mounting',
+            'Trip indication',
+            'Finger-safe terminals',
+            'Various trip curves',
+            'Accessory compatibility'
+        ],
+        specs: [
+            'Current Range: 0.5-63A',
+            'Breaking Capacity: 6/10kA',
+            'Voltage: 240/415V AC',
+            'Poles: 1P, 2P, 3P, 4P',
+            'Trip Curve: B, C, D'
+        ]
+    },
+    {
+        name: 'BKH MCB',
+        model: 'BKH',
+        category: 'Circuit Breakers',
+        subcategory: 'Miniature Circuit Breakers',
+        description: 'High-performance miniature circuit breakers with enhanced features. Higher breaking capacity for industrial applications.',
+        features: [
+            'High breaking capacity',
+            'Enhanced features',
+            'Trip indication',
+            'Auxiliary contacts option',
+            'Under-voltage release',
+            'Shunt trip option'
+        ],
+        specs: [
+            'Current Range: 0.5-125A',
+            'Breaking Capacity: 10/15kA',
+            'Voltage: 240/415V AC',
+            'Poles: 1P, 2P, 3P, 4P',
+            'Trip Curve: B, C, D'
+        ]
+    },
+    
+    // ===============================
+    // I/O Modules
+    // ===============================
+    {
+        name: 'SMART I/O',
+        model: 'SMART-IO',
+        category: 'I/O Modules',
+        subcategory: 'Remote I/O',
+        description: 'Remote I/O modules with Ethernet connectivity for distributed control. Flexible configuration with multiple I/O types.',
+        features: [
+            'Ethernet connectivity',
+            'Multiple I/O types',
+            'Flexible configuration',
+            'Hot-swap capable',
+            'LED diagnostics',
+            'DIN rail mounting'
+        ],
+        specs: [
+            'Communication: Ethernet/IP, Modbus TCP',
+            'I/O Types: Digital, Analog, Special',
+            'Points per module: Up to 32',
+            'Update Rate: 1ms',
+            'Protection: IP20'
+        ]
+    }
+];
+
+/**
+ * Main function to generate product data
+ */
+async function generateProducts() {
+    console.log('Generating LS Industrial product catalog...\n');
+    
+    const allProducts = [];
+    let id = 70001;
+    
+    for (const product of PRODUCTS) {
+        // Get image path (already includes full relative path)
+        const imagePath = PRODUCT_IMAGES[product.name] || PRODUCT_IMAGES[product.model] || '';
+        
+        allProducts.push({
+            ...product,
+            id: id++,
+            brand: 'LS Industrial',
+            mainImage: imagePath,
+            images: imagePath ? [imagePath] : [],
+            url: `https://www.ls-electric.com/products`
+        });
+        
+        const imgStatus = imagePath ? '✓ image' : '✗ no image';
+        console.log(`  ${product.name} (${imgStatus})`);
+    }
+    
+    // Save to JSON file
+    const outputPath = path.join(__dirname, 'scraped-products.json');
+    await fs.writeFile(outputPath, JSON.stringify(allProducts, null, 2));
+    
+    console.log(`\n\n=== Generation Complete ===`);
+    console.log(`✓ Saved ${allProducts.length} products to scraped-products.json`);
+    console.log(`  With images: ${allProducts.filter(p => p.mainImage).length}`);
+    console.log(`  With descriptions: ${allProducts.filter(p => p.description).length}`);
+    console.log(`  With features: ${allProducts.filter(p => p.features.length > 0).length}`);
+    console.log(`  With specs: ${allProducts.filter(p => p.specs.length > 0).length}`);
+    
+    return allProducts;
+}
+
+// Run the generator
+generateProducts()
+    .then(() => {
+        console.log('\nGeneration complete!');
+        process.exit(0);
+    })
+    .catch(err => {
+        console.error('Generation failed:', err);
+        process.exit(1);
+    });

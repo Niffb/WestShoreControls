@@ -131,10 +131,10 @@ const ProductCard = memo(({
     rootMargin: '50px'
   })
 
-  // Use the first image from the images array or fallback to placeholder
+  // Use the first image from the images array or fallback to WestShore logo
   const finalImageUrl = (product.images && product.images.length > 0) 
     ? product.images[0] 
-    : getImageUrl('products/placeholder.jpg')
+    : '/images/westlogo.jpg'
 
   const handleImageLoad = useCallback(() => {
     setImageLoaded(true)
@@ -177,14 +177,14 @@ const ProductCard = memo(({
           <div className="flex items-center">
             {/* Small product image */}
             <div className="relative w-10 h-10 mr-3 bg-gray-100 rounded-md overflow-hidden flex-shrink-0">
-              {inView && !imageError ? (
+              {inView ? (
                 <Image
-                  src={finalImageUrl}
+                  src={imageError ? '/images/westlogo.jpg' : finalImageUrl}
                   alt={product.name}
                   fill
                   sizes="40px"
                   className={`object-contain transition-opacity duration-300 ${
-                    imageLoaded ? 'opacity-100' : 'opacity-0'
+                    imageLoaded || imageError ? 'opacity-100' : 'opacity-0'
                   }`}
                   onLoad={handleImageLoad}
                   onError={handleImageError}
@@ -244,19 +244,19 @@ const ProductCard = memo(({
         <div className="flex items-center space-x-4">
           {/* Product Image */}
           <div className="relative w-16 h-16 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0">
-            {!imageLoaded && (
+            {!imageLoaded && !imageError && (
               <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse" />
             )}
             
             {inView && (
               <Image
-                src={finalImageUrl}
+                src={imageError ? '/images/westlogo.jpg' : finalImageUrl}
                 alt={`${product.name} - ${product.brand}`}
                 fill
                 sizes="64px"
                 className={`object-contain ${
                   // For VFD products using westlogo.jpg, no transitions - show immediately
-                  product.category === 'Variable Frequency Drives' 
+                  product.category === 'Variable Frequency Drives' || imageError
                     ? 'opacity-100' 
                     : `transition-opacity duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
                 }`}
@@ -300,9 +300,9 @@ const ProductCard = memo(({
       onClick={handleClick}
     >
       {/* Product Image */}
-      <div className="relative h-48 bg-gray-100 overflow-hidden">
+      <div className="relative h-48 bg-white overflow-hidden">
         {/* Loading skeleton */}
-        {!imageLoaded && (
+        {!imageLoaded && !imageError && (
           <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse flex items-center justify-center">
             <div className="w-12 h-12 bg-gray-400 rounded-lg opacity-50"></div>
           </div>
@@ -320,11 +320,11 @@ const ProductCard = memo(({
         {/* Lazy load images only when in view */}
         {inView && (
           <img
-            src={finalImageUrl}
+            src={imageError ? '/images/westlogo.jpg' : finalImageUrl}
             alt={`${product.name} - ${product.brand}`}
             className={`w-full h-full object-contain p-4 group-hover:scale-105 ${
               // For VFD products using westlogo.jpg, no transitions - show immediately
-              product.category === 'Variable Frequency Drives' 
+              product.category === 'Variable Frequency Drives' || imageError
                 ? 'opacity-100' 
                 : `transition-all duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
             }`}

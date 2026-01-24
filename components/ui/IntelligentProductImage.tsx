@@ -197,14 +197,16 @@ const IntelligentProductImage = memo(({
         </>
       )}
 
-      {/* Error fallback */}
+      {/* Error fallback - show WestShore logo */}
       {imageError && (
-        <div className="absolute inset-0 bg-gray-100 flex items-center justify-center">
-          <div className="text-gray-500 text-center">
-            <div className="w-12 h-12 bg-gray-300 rounded-lg mx-auto mb-2"></div>
-            <p className="text-xs font-medium">{product.category}</p>
-            <p className="text-xs text-gray-400 mt-1">{product.brand}</p>
-          </div>
+        <div className="absolute inset-0 bg-white flex items-center justify-center p-4">
+          <Image
+            src="/images/westlogo.jpg"
+            alt="West Shore Controls"
+            fill
+            className="object-contain p-4"
+            sizes={sizes}
+          />
         </div>
       )}
     </div>

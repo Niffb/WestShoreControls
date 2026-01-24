@@ -1,0 +1,14 @@
+{
+    "name": "mitsubishi-scraper",
+    "version": "1.0.0",
+    "description": "Scraper for Mitsubishi Electric Factory Automation products",
+    "main": "scrape.js",
+    "scripts": {
+        "scrape": "node scrape.js",
+        "generate": "node generate-products.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "cheerio": "^1.0.0-rc.12"
+    }
+}

@@ -8,6 +8,12 @@ import DynamicProductGrid from '@/components/product/DynamicProductGrid'
 import ProductDetailsModal from '@/components/product/ProductDetailsModal'
 import { Product } from '@/lib/types/shared-types'
 import { cleanProductsWithMitsubishi } from '@/lib/products/products'
+import { tmeicProducts as tmeicProductsScraped } from '@/lib/products/tmeic-products-scraped'
+import { katkoProducts as katkoProductsScraped } from '@/lib/products/katko-products-scraped'
+import { lsIndustrialScraped } from '@/lib/products/ls-industrial-scraped'
+import { noarkScrapedProducts } from '@/lib/products/noark-products-scraped'
+import { klemsanScrapedProducts } from '@/lib/products/klemsan-products-scraped'
+import { elsteelScrapedProducts } from '@/lib/products/elsteel-products-scraped'
 
 interface ProductsPageNewProps {
   selectedBrand?: string
@@ -15,10 +21,10 @@ interface ProductsPageNewProps {
   selectedSubcategory?: string
 }
 
-export default function ProductsPageNew({ 
-  selectedBrand, 
-  selectedCategory, 
-  selectedSubcategory 
+export default function ProductsPageNew({
+  selectedBrand,
+  selectedCategory,
+  selectedSubcategory
 }: ProductsPageNewProps) {
   const [filteredProducts, setFilteredProducts] = useState<Product[]>([])
   const [isLoading, setIsLoading] = useState(true)
@@ -37,26 +43,89 @@ export default function ProductsPageNew({
 
   useEffect(() => {
     const filterProducts = () => {
-      let products = cleanProductsWithMitsubishi
+      // Use scraped products for TMEIC, Katko, LS Industrial, and Noark brands, otherwise use cleanProductsWithMitsubishi
+      let products: Product[] = selectedBrand?.toLowerCase() === 'tmeic'
+        ? tmeicProductsScraped
+        : selectedBrand?.toLowerCase() === 'katko'
+          ? katkoProductsScraped
+          : selectedBrand?.toLowerCase() === 'ls industrial'
+            ? lsIndustrialScraped
+            : selectedBrand?.toLowerCase() === 'noark'
+              ? noarkScrapedProducts
+              : selectedBrand?.toLowerCase() === 'klemsan'
+                ? klemsanScrapedProducts
+                : selectedBrand?.toLowerCase() === 'elsteel'
+                  ? elsteelScrapedProducts
+                  : cleanProductsWithMitsubishi
 
-      if (selectedBrand) {
-        products = products.filter(product => 
+      if (selectedBrand && 
+          selectedBrand.toLowerCase() !== 'tmeic' && 
+          selectedBrand.toLowerCase() !== 'katko' &&
+          selectedBrand.toLowerCase() !== 'ls industrial' &&
+          selectedBrand.toLowerCase() !== 'noark' &&
+          selectedBrand.toLowerCase() !== 'klemsan' &&
+          selectedBrand.toLowerCase() !== 'elsteel') {
+        products = products.filter(product =>
           product.brand?.toLowerCase() === selectedBrand.toLowerCase()
         )
       }
 
       if (selectedCategory) {
-        products = products.filter(product => 
-          product.category?.toLowerCase().includes(selectedCategory.toLowerCase()) ||
-          product.subcategory?.toLowerCase().includes(selectedCategory.toLowerCase())
-        )
+        // Normalize category name for flexible matching
+        const normalizedSelectedCategory = selectedCategory.toLowerCase()
+
+        // For TMEIC, Katko, LS Industrial, Noark, and Klemsan brands, use exact category matching
+        if (selectedBrand?.toLowerCase() === 'tmeic' || 
+            selectedBrand?.toLowerCase() === 'katko' ||
+            selectedBrand?.toLowerCase() === 'ls industrial' ||
+            selectedBrand?.toLowerCase() === 'noark' ||
+            selectedBrand?.toLowerCase() === 'klemsan' ||
+            selectedBrand?.toLowerCase() === 'elsteel') {
+          products = products.filter(product => {
+            const productCategory = product.category?.toLowerCase() || ''
+            const productSubcategory = (product as any).subcategory?.toLowerCase() || ''
+            return productCategory === normalizedSelectedCategory || 
+                   productSubcategory === normalizedSelectedCategory
+          })
+        } else {
+          // Create variations of the category name for matching
+          const categoryVariations = [
+            normalizedSelectedCategory,
+            normalizedSelectedCategory.replace(/-/g, ' '),
+            normalizedSelectedCategory.replace(/\s+/g, '-'),
+            // Handle common variations
+            normalizedSelectedCategory === 'variable frequency drives' ? 'vfds' : '',
+            normalizedSelectedCategory === 'programmable logic controllers' ? 'plcs' : '',
+            normalizedSelectedCategory === 'circuit breakers' ? 'circuit protection' : '',
+          ].filter(Boolean)
+
+          products = products.filter(product => {
+            const productCategory = product.category?.toLowerCase() || ''
+            const productSubcategory = (product as any).subcategory?.toLowerCase() || ''
+
+            return categoryVariations.some(variation =>
+              productCategory.includes(variation) ||
+              variation.includes(productCategory) ||
+              productSubcategory.includes(variation) ||
+              variation.includes(productSubcategory)
+            )
+          })
+        }
       }
 
       if (selectedSubcategory) {
-        products = products.filter(product => 
-          product.subcategory?.toLowerCase().includes(selectedSubcategory.toLowerCase())
+        products = products.filter(product =>
+          (product as any).subcategory?.toLowerCase().includes(selectedSubcategory.toLowerCase())
         )
       }
+
+      // Filter out products that only have the default West Shore logo as their image
+      products = products.filter(product => {
+        const hasDefaultLogo = product.images?.length === 1 &&
+          (product.images[0] === '/images/westlogo.jpg' ||
+            product.images[0]?.includes('westlogo'))
+        return !hasDefaultLogo
+      })
 
       setFilteredProducts(products)
       setIsLoading(false)
@@ -133,7 +202,7 @@ export default function ProductsPageNew({
             <div className="h-6 bg-gray-200 rounded animate-pulse w-80"></div>
           </div>
         </div>
-        
+
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {Array.from({ length: 12 }).map((_, i) => (
@@ -201,7 +270,7 @@ export default function ProductsPageNew({
           )}
 
           {/* Page Title */}
-          <motion.h1 
+          <motion.h1
             className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4"
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
@@ -210,7 +279,7 @@ export default function ProductsPageNew({
             {getPageTitle()}
           </motion.h1>
 
-          <motion.p 
+          <motion.p
             className="text-xl text-gray-600 mb-8"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -220,7 +289,7 @@ export default function ProductsPageNew({
           </motion.p>
 
           {/* Product Count */}
-          <motion.div 
+          <motion.div
             className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg inline-flex"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}

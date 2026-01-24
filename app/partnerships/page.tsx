@@ -9,7 +9,7 @@ function useIntersectionObserver() {
   if (typeof window !== 'undefined') {
     const observeElements = () => {
       const elements = document.querySelectorAll('.animate-on-scroll')
-      
+
       const observer = new IntersectionObserver((entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
@@ -19,20 +19,20 @@ function useIntersectionObserver() {
             observer.unobserve(entry.target)
           }
         })
-      }, { 
-        threshold: 0.1, 
-        rootMargin: '50px 0px -50px 0px' 
+      }, {
+        threshold: 0.1,
+        rootMargin: '50px 0px -50px 0px'
       })
-      
+
       elements.forEach(el => {
         // Set initial state
         el.classList.add('animate-hidden')
         observer.observe(el)
       })
-      
+
       return () => observer.disconnect()
     }
-    
+
     // Run on mount with proper timing
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', observeElements)
@@ -87,7 +87,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "Erico",
-      logo: getImageUrl("brands/Erico.webp"), 
+      logo: getImageUrl("brands/Erico.webp"),
       type: "Stocking Distributor",
       since: "2015",
       badge: "Premium Partner",
@@ -100,7 +100,7 @@ export default function PartnershipsPage() {
     {
       name: "LS Industrial",
       logo: getImageUrl("LS.webp"),
-      type: "Stocking Distributor", 
+      type: "Stocking Distributor",
       since: "2012",
       badge: "Strategic Partner",
       description: "Comprehensive industrial automation solutions including contactors, circuit breakers, motor protection, and drives.",
@@ -113,7 +113,7 @@ export default function PartnershipsPage() {
       name: "Noark",
       logo: getImageUrl("brands/Noark.webp"),
       type: "Stocking Distributor",
-      since: "2014", 
+      since: "2014",
       badge: "Certified Partner",
       description: "High-quality electrical components including contactors, circuit breakers, and motor protection devices for industrial applications.",
       specialties: ["IEC Contactors", "Thermal Overload Relays", "Manual Motor Starters", "Circuit Breakers"],
@@ -146,7 +146,7 @@ export default function PartnershipsPage() {
       gradient: "from-purple-500 to-purple-600"
     },
     {
-      name: "Elsteel", 
+      name: "Elsteel",
       logo: getImageUrl("brands/Elsteel.webp"),
       type: "Stocking Distributor",
       since: "2018",
@@ -159,7 +159,7 @@ export default function PartnershipsPage() {
     },
     {
       name: "TMEIC",
-      logo: getImageUrl("TMEIC_logo.svg"),
+      logo: getImageUrl("brands/TMEIC_logo.png"),
       type: "VAR (Value-Added Reseller)",
       since: "2019",
       badge: "Technology Partner",
@@ -189,7 +189,7 @@ export default function PartnershipsPage() {
     },
     {
       icon: CheckCircleIcon,
-      title: "Quality Assurance", 
+      title: "Quality Assurance",
       description: "Rigorous quality standards and testing ensure reliable performance in demanding industrial environments"
     },
     {
@@ -207,7 +207,7 @@ export default function PartnershipsPage() {
   const getColorClasses = (color: string) => {
     const colors = {
       red: "border-red-200 hover:border-red-400 hover:shadow-red-100/50",
-      blue: "border-blue-200 hover:border-blue-400 hover:shadow-blue-100/50", 
+      blue: "border-blue-200 hover:border-blue-400 hover:shadow-blue-100/50",
       green: "border-green-200 hover:border-green-400 hover:shadow-green-100/50",
       orange: "border-orange-200 hover:border-orange-400 hover:shadow-orange-100/50",
       purple: "border-purple-200 hover:border-purple-400 hover:shadow-purple-100/50",
@@ -221,7 +221,7 @@ export default function PartnershipsPage() {
     const colors = {
       red: "bg-gradient-to-r from-red-100 to-red-200 text-red-800 shadow-lg",
       blue: "bg-gradient-to-r from-blue-100 to-blue-200 text-blue-800 shadow-lg",
-      green: "bg-gradient-to-r from-green-100 to-green-200 text-green-800 shadow-lg", 
+      green: "bg-gradient-to-r from-green-100 to-green-200 text-green-800 shadow-lg",
       orange: "bg-gradient-to-r from-orange-100 to-orange-200 text-orange-800 shadow-lg",
       purple: "bg-gradient-to-r from-purple-100 to-purple-200 text-purple-800 shadow-lg",
       slate: "bg-gradient-to-r from-slate-100 to-slate-200 text-slate-800 shadow-lg",
@@ -243,69 +243,69 @@ export default function PartnershipsPage() {
           <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
           <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-gradient-to-br from-red-100/20 to-red-500/20 rounded-full blur-3xl"></div>
         </div>
-        
+
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="mb-8">
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight hero-element animate-fade-in-up">
-              <span className="inline-block hero-element animate-fade-in-up" style={{animationDelay: '0.1s'}}>Our</span>{' '}
-              <span className="text-transparent bg-gradient-to-r from-red-500 to-red-900 bg-clip-text inline-block hero-element animate-fade-in-up" style={{animationDelay: '0.3s'}}>Trusted</span>
+              <span className="inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.1s' }}>Our</span>{' '}
+              <span className="text-transparent bg-gradient-to-r from-red-500 to-red-900 bg-clip-text inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.3s' }}>Trusted</span>
               <br />
-              <span className="text-transparent bg-gradient-to-r from-red-900 to-red-500 bg-clip-text inline-block hero-element animate-fade-in-up" style={{animationDelay: '0.5s'}}>Partners</span>
+              <span className="text-transparent bg-gradient-to-r from-red-900 to-red-500 bg-clip-text inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.5s' }}>Partners</span>
             </h1>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full hero-element animate-fade-in-up" style={{animationDelay: '0.7s'}}></div>
+            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full hero-element animate-fade-in-up" style={{ animationDelay: '0.7s' }}></div>
           </div>
-          
-          <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-12 leading-relaxed hero-element animate-fade-in-up" style={{animationDelay: '0.9s'}}>
-                    We partner with the world's leading manufacturers to deliver the highest quality 
-        industrial automation and electrical solutions. VAR (Value-Added Reseller) for TMEIC products and authorized distributor for other premium brands.
+
+          <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-12 leading-relaxed hero-element animate-fade-in-up" style={{ animationDelay: '0.9s' }}>
+            We partner with the world's leading manufacturers to deliver the highest quality
+            industrial automation and electrical solutions. VAR (Value-Added Reseller) for TMEIC products and authorized distributor for other premium brands.
           </p>
-          
+
           <div className="flex flex-wrap justify-center gap-8 text-sm text-gray-600 mb-12">
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{animationDelay: '1.1s'}}>
+            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{ animationDelay: '1.1s' }}>
               <CheckCircleIcon className="h-5 w-5 text-primary-500 mr-2 animate-pulse" />
               <span className="font-medium">VAR for TMEIC & Authorized Distribution</span>
             </div>
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{animationDelay: '1.3s'}}>
+            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{ animationDelay: '1.3s' }}>
               <TrophyIcon className="h-5 w-5 text-blue-500 mr-2 animate-bounce-soft" />
               <span className="font-medium">Premium Partners</span>
             </div>
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{animationDelay: '1.5s'}}>
-              <StarIcon className="h-5 w-5 text-primary-500 mr-2 animate-pulse" style={{animationDelay: '0.5s'}} />
+            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{ animationDelay: '1.5s' }}>
+              <StarIcon className="h-5 w-5 text-primary-500 mr-2 animate-pulse" style={{ animationDelay: '0.5s' }} />
               <span className="font-medium">Expert Support</span>
             </div>
           </div>
 
-                     {/* Partner Logos Preview */}
-           <div className="flex flex-wrap justify-center items-center gap-6 opacity-60">
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Mitsubishi-Electric.webp")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
-             </div>
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Erico.webp")} alt="Erico" width={64} height={48} className="object-contain" />
-             </div>
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
-             </div>
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Noark.webp")} alt="Noark" width={64} height={48} className="object-contain" />
-             </div>
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/klemsan-logo.webp")} alt="Klemsan" width={64} height={48} className="object-contain" />
-             </div>
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
-             </div>
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("brands/Elsteel.webp")} alt="Elsteel" width={64} height={48} className="object-contain" />
-             </div>
-             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
-               <Image src={getImageUrl("TMEIC_logo.svg")} alt="TMEIC" width={64} height={48} className="object-contain" />
-             </div>
-           </div>
+          {/* Partner Logos Preview */}
+          <div className="flex flex-wrap justify-center items-center gap-6 opacity-60">
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/Mitsubishi-Electric.webp")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
+            </div>
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/Erico.webp")} alt="Erico" width={64} height={48} className="object-contain" />
+            </div>
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/LS.webp")} alt="LS Industrial" width={64} height={48} className="object-contain" />
+            </div>
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/Noark.webp")} alt="Noark" width={64} height={48} className="object-contain" />
+            </div>
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/klemsan-logo.webp")} alt="Klemsan" width={64} height={48} className="object-contain" />
+            </div>
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/Katko.webp")} alt="Katko" width={64} height={48} className="object-contain" />
+            </div>
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/Elsteel.webp")} alt="Elsteel" width={64} height={48} className="object-contain" />
+            </div>
+            <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
+              <Image src={getImageUrl("brands/TMEIC_logo.png")} alt="TMEIC" width={64} height={48} className="object-contain" />
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* Partners Grid */}  
+      {/* Partners Grid */}
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16 animate-on-scroll">
@@ -313,7 +313,7 @@ export default function PartnershipsPage() {
               Industry-Leading Manufacturer Partnerships
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Each partnership represents our commitment to bringing you the most advanced, 
+              Each partnership represents our commitment to bringing you the most advanced,
               reliable, and innovative solutions in industrial automation and control.
             </p>
           </div>
@@ -330,7 +330,7 @@ export default function PartnershipsPage() {
               >
                 {/* Gradient Background Effect */}
                 <div className={`absolute inset-0 bg-gradient-to-br ${partner.gradient} opacity-0 group-hover:opacity-5 rounded-3xl transition-opacity duration-500`}></div>
-                
+
                 {/* Floating Badge */}
                 <div className={`absolute -top-3 -right-3 px-4 py-2 rounded-full text-xs font-bold ${getBadgeClasses(partner.color)} transform rotate-12 group-hover:rotate-0 transition-transform duration-300`}>
                   {partner.badge}
@@ -338,16 +338,16 @@ export default function PartnershipsPage() {
 
                 {/* Partner Header */}
                 <div className="relative flex items-start justify-between mb-8">
-                                     <div className="flex items-center space-x-8">
-                     <div className="relative w-32 h-24 bg-white rounded-2xl p-4 shadow-lg group-hover:shadow-xl transition-shadow duration-300 border-2 border-gray-100">
-                       <Image
-                         src={partner.logo}
-                         alt={`${partner.name} Logo`}
-                         fill
-                         className="object-contain p-2 transition-transform duration-300 group-hover:scale-110"
-                         sizes="128px"
-                       />
-                     </div>
+                  <div className="flex items-center space-x-8">
+                    <div className="relative w-32 h-24 bg-white rounded-2xl p-4 shadow-lg group-hover:shadow-xl transition-shadow duration-300 border-2 border-gray-100">
+                      <Image
+                        src={partner.logo}
+                        alt={`${partner.name} Logo`}
+                        fill
+                        className="object-contain p-2 transition-transform duration-300 group-hover:scale-110"
+                        sizes="128px"
+                      />
+                    </div>
                     <div>
                       <h3 className="text-2xl font-bold text-gray-900 group-hover:text-gray-800 transition-colors">
                         {partner.name}
@@ -413,7 +413,7 @@ export default function PartnershipsPage() {
               What Our Partnerships Mean for You
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Our strategic manufacturer relationships ensure you receive premium products, 
+              Our strategic manufacturer relationships ensure you receive premium products,
               expert support, and industry-leading solutions for your automation needs.
             </p>
           </div>
@@ -430,7 +430,7 @@ export default function PartnershipsPage() {
                 'from-indigo-500 to-blue-500'
               ]
               const gradient = gradients[index % gradients.length]
-              
+
               return (
                 <div
                   key={index}
@@ -466,7 +466,7 @@ export default function PartnershipsPage() {
         <div className="absolute inset-0">
           {/* Moving gradient overlay */}
           <div className="absolute inset-0 bg-gradient-to-r from-primary-500/80 via-primary-600/90 to-primary-700/80"></div>
-          
+
           {/* Geometric pattern overlay */}
           <div className="absolute inset-0 opacity-15" style={{
             backgroundImage: `
@@ -476,19 +476,19 @@ export default function PartnershipsPage() {
             `,
             backgroundSize: '50px 50px, 25px 25px, 80px 80px'
           }}></div>
-          
+
           {/* Animated diagonal stripes */}
           <div className="absolute inset-0 opacity-5" style={{
             backgroundImage: 'repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(255,255,255,0.1) 10px, rgba(255,255,255,0.1) 20px)'
           }}></div>
         </div>
-        
+
         {/* Floating animated elements */}
-        <div className="absolute top-10 left-20 w-4 h-4 bg-white/20 rounded-full animate-bounce" style={{animationDelay: '0s', animationDuration: '3s'}}></div>
-        <div className="absolute top-32 right-16 w-3 h-3 bg-white/25 rounded-full animate-bounce" style={{animationDelay: '1s', animationDuration: '4s'}}></div>
-        <div className="absolute bottom-20 left-32 w-2 h-6 bg-white/15 rounded-full animate-pulse" style={{animationDelay: '2s'}}></div>
-        <div className="absolute bottom-40 right-24 w-5 h-2 bg-white/20 rounded-full animate-pulse" style={{animationDelay: '0.5s'}}></div>
-        
+        <div className="absolute top-10 left-20 w-4 h-4 bg-white/20 rounded-full animate-bounce" style={{ animationDelay: '0s', animationDuration: '3s' }}></div>
+        <div className="absolute top-32 right-16 w-3 h-3 bg-white/25 rounded-full animate-bounce" style={{ animationDelay: '1s', animationDuration: '4s' }}></div>
+        <div className="absolute bottom-20 left-32 w-2 h-6 bg-white/15 rounded-full animate-pulse" style={{ animationDelay: '2s' }}></div>
+        <div className="absolute bottom-40 right-24 w-5 h-2 bg-white/20 rounded-full animate-pulse" style={{ animationDelay: '0.5s' }}></div>
+
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <h2 className="text-3xl font-bold text-white mb-4">
             Ready to Work with Industry Leaders?

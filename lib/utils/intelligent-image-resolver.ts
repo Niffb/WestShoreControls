@@ -125,7 +125,7 @@ const imageConfig: ImageConfig = {
     'Flexible Conductors': 'assets/images/products/erico/PBCR_braided_power_shunts_PBCR_braided_power_shunt_PBCR-power-shunt-350x360_d70d3343.jpg',
     'Screw Terminals': 'products/klemsan/product_images/AVK_2,5_Red_304124.webp',
     'Quick Release': 'products/klemsan/product_images/PYK_4E_Beige_307220.webp',
-    'default': 'assets/images/products/placeholder.jpg'
+    'default': '/images/westlogo.jpg'
   },
 
   // Brand folder mappings
@@ -161,8 +161,25 @@ export class IntelligentImageResolver {
    * Main method to resolve the best image for a product
    */
   static resolveProductImage(product: Product, preferredIndex: number = 0): string {
-    // Special handling for Variable Frequency Drives - use westlogo.jpg directly
-    if (product.category === 'Variable Frequency Drives') {
+    // Check if product already has valid images - prioritize external URLs
+    if (product.images && product.images.length > 0 && product.images[preferredIndex]) {
+      const existingImage = product.images[preferredIndex]
+      
+      // External URLs (http/https) should be returned directly
+      if (existingImage.startsWith('http://') || existingImage.startsWith('https://')) {
+        return existingImage
+      }
+      
+      if (this.isValidImagePath(existingImage)) {
+        return getImageUrl(existingImage)
+      }
+    }
+
+    // Special handling for Variable Frequency Drives without images - use westlogo.jpg directly
+    // Skip this for brands that have their own product images (LS Industrial, TMEIC, etc.)
+    if (product.category === 'Variable Frequency Drives' && 
+        product.brand !== 'LS Industrial' && 
+        product.brand !== 'TMEIC') {
       return 'images/westlogo.jpg'
     }
 
@@ -171,14 +188,6 @@ export class IntelligentImageResolver {
       const seriesImage = this.resolveSeriesImage(product)
       if (seriesImage) {
         return getImageUrl(seriesImage)
-      }
-    }
-
-    // If product already has valid images, use them
-    if (product.images && product.images.length > 0 && product.images[preferredIndex]) {
-      const existingImage = product.images[preferredIndex]
-      if (this.isValidImagePath(existingImage)) {
-        return getImageUrl(existingImage)
       }
     }
 

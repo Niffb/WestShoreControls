@@ -57,8 +57,8 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     notFound()
   }
   
-  // Handle LS Industrial routing
-  if (brandSlug === 'ls-industrial' && !['variable-frequency-drives', 'contactors', 'industrial-controls'].includes(categorySlug)) {
+  // Handle LS Industrial routing - support all categories with subcategories
+  if (brandSlug === 'ls-industrial' && !['variable-frequency-drives', 'programmable-logic-controllers', 'human-machine-interface', 'servo-motors', 'contactors', 'overload-relays', 'circuit-breakers', 'softstarters', 'i-o-modules'].includes(categorySlug)) {
     notFound()
   }
   
@@ -178,12 +178,36 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     'ex9il-series': 'Ex9IL Series',
     '22mm-led-indicators': '22mm LED Indicators',
     // LS Industrial VFD subcategories
+    'low-voltage-vfd': 'Low Voltage VFD',
+    'medium-voltage-vfd': 'Medium Voltage VFD',
     'starvert-ie5-series': 'Starvert iE5 Series',
     'starvert-ic5-series': 'Starvert iC5 Series',
     'starvert-ig5a-series': 'Starvert iG5A Series',
+    // LS Industrial PLC subcategories
+    'xgt-series': 'XGT Series',
+    'xgb-series': 'XGB Series',
+    'xec-series': 'XEC Series',
+    'master-k-series': 'Master-K Series',
+    // LS Industrial HMI subcategories
+    'xgt-panel': 'XGT Panel',
+    'exp-panel': 'eXP Panel',
+    // LS Industrial Servo subcategories
+    'servo-drive': 'Servo Drive',
+    'servo-motor': 'Servo Motor',
     // LS Industrial Contactor subcategories
+    'magnetic-contactors': 'Magnetic Contactors',
     'metasol-series': 'METASOL Series',
     'mc-series': 'MC Series',
+    // LS Industrial Overload Relay subcategories
+    'thermal-overload-relays': 'Thermal Overload Relays',
+    // LS Industrial Circuit Breaker subcategories
+    'molded-case-circuit-breakers': 'Molded Case Circuit Breakers',
+    'air-circuit-breakers': 'Air Circuit Breakers',
+    'miniature-circuit-breakers': 'Miniature Circuit Breakers',
+    // LS Industrial Softstarter subcategories
+    'soft-starters': 'Soft Starters',
+    // LS Industrial I/O Module subcategories
+    'remote-i-o': 'Remote I/O',
     // Schneider Electric Manual Motor Starter subcategories
     'gv2-series': 'GV2 Series',
     'gv3-series': 'GV3 Series',
@@ -315,12 +339,36 @@ export async function generateStaticParams() {
     { brand: 'noark', category: 'led-indicators', subcategory: 'ex9il-series' },
     { brand: 'noark', category: 'led-indicators', subcategory: '22mm-led-indicators' },
     // LS Industrial VFD subcategories
+    { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'low-voltage-vfd' },
+    { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'medium-voltage-vfd' },
     { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'starvert-ie5-series' },
     { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'starvert-ic5-series' },
     { brand: 'ls-industrial', category: 'variable-frequency-drives', subcategory: 'starvert-ig5a-series' },
+    // LS Industrial PLC subcategories
+    { brand: 'ls-industrial', category: 'programmable-logic-controllers', subcategory: 'xgt-series' },
+    { brand: 'ls-industrial', category: 'programmable-logic-controllers', subcategory: 'xgb-series' },
+    { brand: 'ls-industrial', category: 'programmable-logic-controllers', subcategory: 'xec-series' },
+    { brand: 'ls-industrial', category: 'programmable-logic-controllers', subcategory: 'master-k-series' },
+    // LS Industrial HMI subcategories
+    { brand: 'ls-industrial', category: 'human-machine-interface', subcategory: 'xgt-panel' },
+    { brand: 'ls-industrial', category: 'human-machine-interface', subcategory: 'exp-panel' },
+    // LS Industrial Servo subcategories
+    { brand: 'ls-industrial', category: 'servo-motors', subcategory: 'servo-drive' },
+    { brand: 'ls-industrial', category: 'servo-motors', subcategory: 'servo-motor' },
     // LS Industrial Contactor subcategories
+    { brand: 'ls-industrial', category: 'contactors', subcategory: 'magnetic-contactors' },
     { brand: 'ls-industrial', category: 'contactors', subcategory: 'metasol-series' },
     { brand: 'ls-industrial', category: 'contactors', subcategory: 'mc-series' },
+    // LS Industrial Overload Relay subcategories
+    { brand: 'ls-industrial', category: 'overload-relays', subcategory: 'thermal-overload-relays' },
+    // LS Industrial Circuit Breaker subcategories
+    { brand: 'ls-industrial', category: 'circuit-breakers', subcategory: 'molded-case-circuit-breakers' },
+    { brand: 'ls-industrial', category: 'circuit-breakers', subcategory: 'air-circuit-breakers' },
+    { brand: 'ls-industrial', category: 'circuit-breakers', subcategory: 'miniature-circuit-breakers' },
+    // LS Industrial Softstarter subcategories
+    { brand: 'ls-industrial', category: 'softstarters', subcategory: 'soft-starters' },
+    // LS Industrial I/O Module subcategories
+    { brand: 'ls-industrial', category: 'i-o-modules', subcategory: 'remote-i-o' },
     // Schneider Electric Manual Motor Starter subcategories
     { brand: 'schneider-electric', category: 'manual-motor-starters', subcategory: 'gv2-series' },
     { brand: 'schneider-electric', category: 'manual-motor-starters', subcategory: 'gv3-series' },

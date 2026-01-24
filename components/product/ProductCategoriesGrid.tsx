@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { 
@@ -24,7 +24,6 @@ interface ProductCategory {
   description: string
   icon: React.ComponentType<any>
   image: string
-  productCount: number
   featured: boolean
   slug: string
 }
@@ -36,7 +35,6 @@ const productCategories: ProductCategory[] = [
     description: 'Variable frequency drives for precise motor speed control and energy efficiency',
     icon: CpuChipIcon,
     image: '/Products/VFDs/Images/Mitsubishi_A800_af6dd002-312a-4881-93a5-db958e43ad71_medium.avif',
-    productCount: 544,
     featured: true,
     slug: 'drives-vfds'
   },
@@ -46,7 +44,6 @@ const productCategories: ProductCategory[] = [
     description: 'High-precision servo motors for accurate positioning and motion control',
     icon: CogIcon,
     image: '/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif',
-    productCount: 139,
     featured: true,
     slug: 'servo-motors'
   },
@@ -56,7 +53,6 @@ const productCategories: ProductCategory[] = [
     description: 'Circuit protection devices including MCBs, MCCBs, and motor protection',
     icon: BoltIcon,
     image: '/assets/images/products/noark/Molded_Case_Circuit_Breakers_MCCB-category-300x300_ce635280.webp',
-    productCount: 794,
     featured: true,
     slug: 'circuit-breakers-protection'
   },
@@ -66,7 +62,6 @@ const productCategories: ProductCategory[] = [
     description: 'Electromagnetic switches for motor control and power switching applications',
     icon: WrenchScrewdriverIcon,
     image: '/assets/images/products/contactors/standard-NR-IEC-contactors-Ex9C_standard-NR-IEC-co_standard-NR-IEC-contactors-Ex9C-300x300_8410f80d.webp',
-    productCount: 120,
     featured: true,
     slug: 'contactors'
   },
@@ -76,7 +71,6 @@ const productCategories: ProductCategory[] = [
     description: 'Motor protection relays to prevent damage from overcurrent conditions',
     icon: ShieldCheckIcon,
     image: '/assets/images/products/circuit_breakers/meta-mec_and_metasol_overload_meta-mec_and_metasol_meta-mec-overload-300x300_ae08a150.webp',
-    productCount: 622,
     featured: false,
     slug: 'overload-relays'
   },
@@ -86,7 +80,6 @@ const productCategories: ProductCategory[] = [
     description: 'Programmable logic controllers for industrial automation and control',
     icon: ComputerDesktopIcon,
     image: '/assets/images/products/vfd/simple_plc_functionnality_plc_5cf0a389.webp',
-    productCount: 95,
     featured: true,
     slug: 'plcs'
   },
@@ -96,7 +89,6 @@ const productCategories: ProductCategory[] = [
     description: 'Manual motor starting switches with integrated overload protection',
     icon: HandRaisedIcon,
     image: '/assets/images/products/circuit_breakers/susol_circuit_breakers_and_manual_motor_starters_s_susol-circuit-breakers_9e6518a3.webp',
-    productCount: 45,
     featured: false,
     slug: 'manual-motor-starters'
   },
@@ -106,7 +98,6 @@ const productCategories: ProductCategory[] = [
     description: 'Power distribution equipment including panels, busbars, and switchgear',
     icon: RectangleStackIcon,
     image: '/assets/images/products/busbars/eriflex_flexibar_busbar_eriflex-flexibar-busbar_eriflex-flexibar-busbar_a7557744.webp',
-    productCount: 110,
     featured: false,
     slug: 'power-distribution'
   },
@@ -116,7 +107,6 @@ const productCategories: ProductCategory[] = [
     description: 'Custom-engineered control panels designed for your specific applications',
     icon: BuildingOffice2Icon,
     image: '/assets/images/products/general/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI_35b20c5b.webp',
-    productCount: 25,
     featured: true,
     slug: 'custom-control-panels'
   },
@@ -126,7 +116,6 @@ const productCategories: ProductCategory[] = [
     description: 'LED pilot lights and indicators for status indication and signaling',
     icon: LightBulbIcon,
     image: '/assets/images/products/noark/22_mm_Pilot_Devices_indicator-lights-category-300x300_3bdf9523.webp',
-    productCount: 60,
     featured: false,
     slug: 'led-indicators'
   },
@@ -136,7 +125,6 @@ const productCategories: ProductCategory[] = [
     description: 'Industrial push buttons, switches, and operator interface devices',
     icon: CursorArrowRaysIcon,
     image: '/assets/images/products/noark/22_mm_Pushbuttons_Ex9PB_pushbuttons-category-300x300_12540e52.webp',
-    productCount: 80,
     featured: false,
     slug: 'push-buttons'
   }
@@ -145,6 +133,36 @@ const productCategories: ProductCategory[] = [
 export default function ProductCategoriesGrid() {
   const [filter, setFilter] = useState<'categories' | 'brands'>('categories')
   const [imageErrors, setImageErrors] = useState<{[key: string]: boolean}>({})
+  const [productCounts, setProductCounts] = useState<Record<string, number>>({})
+  const [totalProducts, setTotalProducts] = useState<number>(0)
+  const [isLoadingCounts, setIsLoadingCounts] = useState(true)
+
+  // Fetch product counts from API
+  useEffect(() => {
+    async function fetchCounts() {
+      try {
+        const response = await fetch('/api/products/counts')
+        if (response.ok) {
+          const data = await response.json()
+          if (data.success) {
+            setProductCounts(data.counts)
+            setTotalProducts(data.total)
+          }
+        }
+      } catch (error) {
+        console.error('Error fetching product counts:', error)
+      } finally {
+        setIsLoadingCounts(false)
+      }
+    }
+    
+    fetchCounts()
+  }, [])
+
+  // Get product count for a category slug
+  const getProductCount = (slug: string): number => {
+    return productCounts[slug] || 0
+  }
 
   const filteredCategories = productCategories
 
@@ -221,7 +239,11 @@ export default function ProductCategoriesGrid() {
                   {/* Product Count Badge */}
                   <div className="absolute bottom-3 left-3">
                     <span className="bg-white/90 backdrop-blur-sm text-gray-700 text-sm font-medium px-2 py-1 rounded-full">
-                      {category.productCount} products
+                      {isLoadingCounts ? (
+                        <span className="inline-block w-8 h-4 bg-gray-200 rounded animate-pulse"></span>
+                      ) : (
+                        `${getProductCount(category.slug).toLocaleString()} products`
+                      )}
                     </span>
                   </div>
                 </div>
@@ -281,7 +303,11 @@ export default function ProductCategoriesGrid() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div className="text-center">
               <div className="text-3xl font-bold text-red-600 mb-1">
-                {productCategories.reduce((sum, cat) => sum + cat.productCount, 0).toLocaleString()}
+                {isLoadingCounts ? (
+                  <span className="inline-block w-16 h-8 bg-gray-200 rounded animate-pulse"></span>
+                ) : (
+                  totalProducts.toLocaleString()
+                )}
               </div>
               <div className="text-sm text-gray-600">Total Products</div>
             </div>

@@ -97,7 +97,7 @@ export default function ProductGrid({ products, categoryName }: ProductGridProps
       <div className="relative h-48 w-full bg-gray-100 flex items-center justify-center overflow-hidden">
         {!imageErrors[product.id] ? (
           <Image
-            src={product.images?.[0] || '/images/products/placeholder.jpg'}
+            src={product.images?.[0] || '/images/westlogo.jpg'}
             alt={product.name || 'Product image'}
             fill
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -105,10 +105,13 @@ export default function ProductGrid({ products, categoryName }: ProductGridProps
             onError={() => handleImageError(product.id)}
           />
         ) : (
-          <div className="text-gray-400 text-sm text-center p-4">
-            <XCircleIcon className="h-10 w-10 mx-auto mb-2" />
-            Image Not Available
-          </div>
+          <Image
+            src="/images/westlogo.jpg"
+            alt="West Shore Controls"
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            className="object-contain p-4"
+          />
         )}
       </div>
       <div className="p-4 flex-grow flex flex-col">

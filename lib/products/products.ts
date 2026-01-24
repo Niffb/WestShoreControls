@@ -1,10 +1,15 @@
 import { Product } from '@/lib/types/shared-types'
 import { klemsanProducts } from './klemsan-products'
+import { klemsanScrapedProducts, klemsanCategoryImages } from './klemsan-products-scraped'
 import { mitsubishiProducts } from './mitsubishi-products'
 import { tmeicProducts } from './tmeic-products'
 import { getAllKatkoProducts } from './katko-products'
+import { katkoProducts as katkoScrapedProducts, katkoCategoryImages } from './katko-products-scraped'
 import { ericoProducts } from './erico-products'
+import { ericoScrapedProducts, ericoCategoryImages } from './erico-products-scraped'
+import { elsteelScrapedProducts, elsteelCategoryImages } from './elsteel-products-scraped'
 import { lsIndustrialProducts } from './ls-industrial-products'
+import { lsIndustrialScraped, getScrapedCategories as getLsScrapedCategories, getScrapedSubcategories as getLsScrapedSubcategories } from './ls-industrial-scraped'
 
 // Import Noark products
 import { noarkMCBProducts } from './noark-mcb-products'
@@ -20,8 +25,12 @@ import { noarkB1NQProducts } from './noark-b1nq-products'
 
 // Import scraped products
 import { mitsubishiScrapedProducts } from './scraped/mitsubishi-scraped-products'
-import { noarkScrapedProducts } from './scraped/noark-scraped-products'
+import { noarkScrapedProducts as noarkScrapedOld } from './scraped/noark-scraped-products'
+import { noarkScrapedProducts as noarkScrapedNew, noarkCategoryImages } from './noark-products-scraped'
 import { schneiderelectricScrapedProducts } from './scraped/schneider-electric-scraped-products'
+
+// Use the consolidated Noark scraped products (4307 products)
+const noarkScrapedProducts = noarkScrapedNew
 // import { allenbradleyScrapedProducts } from './scraped/allen-bradley-scraped-products' // REMOVED - Allen Bradley PLCs
 import { nventScrapedProducts } from './scraped/nvent-scraped-products'
 import { unknownScrapedProducts } from './scraped/unknown-scraped-products'
@@ -49,7 +58,7 @@ const mappedPCBProducts: Product[] = pcbProducts.map((pcb, index) => ({
 // Generate random realistic prices based on product type
 const generatePrice = (category: string, name: string): { price: number; originalPrice?: number } => {
   let basePrice = 100
-  
+
   // Set base prices by category
   switch (category.toLowerCase()) {
     case 'variable frequency drives':
@@ -82,7 +91,7 @@ const generatePrice = (category: string, name: string): { price: number; origina
     default:
       basePrice = Math.random() * 200 + 50  // $50-$250
   }
-  
+
   // 30% chance of having a discount
   const hasDiscount = Math.random() < 0.3
   if (hasDiscount) {
@@ -90,7 +99,7 @@ const generatePrice = (category: string, name: string): { price: number; origina
     const discountedPrice = Math.round(basePrice * 0.8)
     return { price: discountedPrice, originalPrice }
   }
-  
+
   return { price: Math.round(basePrice) }
 }
 
@@ -141,7 +150,7 @@ export const allProducts: Product[] = [
     id: 2,
     name: "KEA Fire-Rated Aluminium Isolator 125A",
     model: "KEA-FR-125A",
-    brand: "Katko", 
+    brand: "Katko",
     category: "Enclosed Isolators",
     description: "KEA fire-rated aluminium enclosed isolator designed to conform to F200 class (200°C for 3 hours) or F300 class (300°C for 2 hours) of EN 12101-3. IP66 rated with excellent corrosion and UV resistance. Perfect for critical safety applications requiring fire protection.",
     price: 495,
@@ -158,7 +167,7 @@ export const allProducts: Product[] = [
     name: "KER Stainless Steel Visual Isolator 400A",
     model: "KER-VS-400A",
     brand: "Katko",
-    category: "Enclosed Isolators", 
+    category: "Enclosed Isolators",
     description: "KER stainless steel visual isolating switch with visual status indication window. AISI 316L construction for superior corrosion resistance and hygiene requirements. IP66 rated with padlockable handle and door interlock mechanism.",
     price: 725,
     rating: 4.7,
@@ -323,7 +332,7 @@ export const allProducts: Product[] = [
     price: 485,
     rating: 4.9,
     reviews: 187,
-    images: ["products/elsteel/Modular_Enclosures_modular-enclosures-300x300_504caefb.jpg"],
+    images: ["https://elsteel.com/web/image/1455-3d891454/tm_pnl.jpg"],
     badge: "Popular",
     inStock: true,
     specs: ["200mm Grid System", "Tested & Certified", "Flexible Design", "Universal Compatibility"],
@@ -340,7 +349,7 @@ export const allProducts: Product[] = [
     originalPrice: 750,
     rating: 4.8,
     reviews: 142,
-    images: ["products/elsteel/busbars_elsteel_busbars_elsteel_busbars-elsteel-300x300_387b9243.jpg"],
+    images: ["https://elsteel.com/web/image/4568-4507088c/ModularMain.jpg"],
     badge: "Sale",
     inStock: true,
     specs: ["Copper & Aluminum Compatible", "Design Verified", "Fully Flexible", "Market Leading"],
@@ -356,7 +365,7 @@ export const allProducts: Product[] = [
     price: 325,
     rating: 4.7,
     reviews: 96,
-    images: ["products/elsteel/elsteel_techno_module_light_elsteel_techno_module__module-light-300x300_a91bf58d.jpg"],
+    images: ["https://elsteel.com/web/image/1452-657478d8/tm_light%20%281%29.jpg"],
     inStock: true,
     specs: ["Compact Design", "Same Flexibility", "Smaller Panels", "Reliable Construction"],
     features: ["Space Efficient", "Flexible Design", "Proven Reliability", "Easy Installation"]
@@ -372,7 +381,7 @@ export const allProducts: Product[] = [
     originalPrice: 350,
     rating: 4.6,
     reviews: 203,
-    images: ["products/elsteel/instant_panel_instant_panel_instant-panel-300x300_91886171.jpg"],
+    images: ["https://elsteel.com/web/image/1453-1205b036/instant_plate_panel.jpg"],
     badge: "Sale",
     inStock: true,
     specs: ["15 Min Assembly", "Up to 400A", "200mm Grid", "Cost Effective"],
@@ -388,7 +397,7 @@ export const allProducts: Product[] = [
     price: 850,
     rating: 4.9,
     reviews: 78,
-    images: ["products/elsteel/plugs_plugs_plugs-300x300_e3c1762c.jpg"],
+    images: ["https://elsteel.com/web/image/7222-87abf689/White%20%26%20Red.png"],
     badge: "New",
     inStock: true,
     specs: ["Design verified IEC 61439-2", "Infinite Modifications", "Live Power Supply", "Vertical Busbar System"],
@@ -404,7 +413,7 @@ export const allProducts: Product[] = [
     price: 425,
     rating: 4.8,
     reviews: 112,
-    images: ["products/elsteel/IP69K_IP69K_IP69K-300x300_bb3882e7.jpg"],
+    images: ["https://elsteel.com/web/image/1447-74600c0e/Modular-Background.jpg"],
     badge: "High IP Rating",
     inStock: true,
     specs: ["IP69K Rating", "Double Gasket", "Double Lip Door", "High Pressure Resistant"],
@@ -420,7 +429,7 @@ export const allProducts: Product[] = [
     price: 245,
     rating: 4.7,
     reviews: 89,
-    images: ["products/elsteel/mild-steel-box_mild-steel-box_mild-steel-box-300x300_76658e42.jpg"],
+    images: ["https://elsteel.com/web/image/1448-e1fdb411/bh.jpg"],
     inStock: true,
     specs: ["Fully Welded", "High IP Rating", "Textured Paint Finish", "Mounting Plate Included"],
     features: ["Corrosion Resistant", "Custom Inserts", "Indoor Use", "Durable Construction"]
@@ -436,7 +445,7 @@ export const allProducts: Product[] = [
     originalPrice: 750,
     rating: 4.9,
     reviews: 156,
-    images: ["products/elsteel/stainles_steel_box_stainles_steel_box_ss-box-300x300_7e0de335.jpg"],
+    images: ["https://elsteel.com/web/image/1449-d5e6b90b/tm_light%20%281%29.jpg"],
     badge: "Sale",
     inStock: true,
     specs: ["AISI 304/316 Grade", "Wet Grinded Steel", "Outdoor Rated", "Easy to Clean"],
@@ -452,7 +461,7 @@ export const allProducts: Product[] = [
     price: 185,
     rating: 4.6,
     reviews: 203,
-    images: ["products/elsteel/terminal_box_terminal_box_terminal-box-300x300_7f91fa48.jpg"],
+    images: ["https://elsteel.com/web/image/1450-0f0a68ed/instant_plate_panel.jpg"],
     inStock: true,
     specs: ["High Standards", "Multiple Material Options", "Powder Coated", "Wide Application Range"],
     features: ["Electrical Applications", "Electro-mechanical Ready", "Quality Construction", "Versatile Use"]
@@ -467,7 +476,7 @@ export const allProducts: Product[] = [
     price: 950,
     rating: 4.9,
     reviews: 67,
-    images: ["products/elsteel/floor_standing_cabinet_floor_standing_cabinet_floor-standing-300x300_9e491b3b.jpg"],
+    images: ["https://elsteel.com/web/image/1461-8a976d9e/Asset%2054%402x.png"],
     badge: "Custom",
     inStock: true,
     specs: ["Your Design", "Superior Quality", "Any RAL Colour", "Customized Cutouts"],
@@ -484,7 +493,7 @@ export const allProducts: Product[] = [
     originalPrice: 780,
     rating: 4.8,
     reviews: 94,
-    images: ["products/elsteel/inserts_inserts_inserts-300x300_5c24e245.jpg"],
+    images: ["https://elsteel.com/web/image/1462-e42bab36/Asset%2052%402x.png"],
     badge: "Sale",
     inStock: true,
     specs: ["Special Sizes", "Tight Space Solutions", "Mild Steel or Stainless", "Custom Angles"],
@@ -501,7 +510,7 @@ export const allProducts: Product[] = [
     rating: 4.9,
     reviews: 156,
     images: [
-      "products/elsteel/techno_module_basic_elsteel_techno_module_basic_el_techno-modular-basic-300x300_b114fbc3.jpg"
+      "https://elsteel.com/web/image/1418-69b4a9db/TMD-BG-1.jpg"
     ],
     badge: "High Tech",
     inStock: true,
@@ -524,12 +533,13 @@ export const allProducts: Product[] = [
 // Combined products including Mitsubishi, TMEIC, Katko, Erico, LS Industrial, and Noark when needed
 export const getAllProductsIncludingMitsubishi = (): Product[] => {
   return [
-    ...allProducts, 
-    ...mitsubishiProducts, 
-    ...tmeicProducts, 
-    ...getAllKatkoProducts(), 
-    ...ericoProducts, 
-    ...lsIndustrialProducts,
+    ...allProducts,
+    ...mitsubishiProducts,
+    ...tmeicProducts,
+    ...katkoScrapedProducts, // 2459 scraped Katko products
+    ...ericoProducts,
+    ...ericoScrapedProducts, // 74 scraped ERICO/ERIFLEX products from nVent
+    ...lsIndustrialScraped, // 42 scraped LS Industrial products with complete data
     ...noarkMCBProducts,
     ...noarkMCPProducts,
     ...mappedPCBProducts,
@@ -714,15 +724,15 @@ export const getProductsByCategory = (category: string): Product[] => {
 export const getProductsByBrandEnhanced = (brand: string): Product[] => {
   // Filter all products by brand for comprehensive support
   const allProductsList = getAllProductsIncludingMitsubishi()
-  const filteredByBrand = allProductsList.filter(product => 
+  const filteredByBrand = allProductsList.filter(product =>
     product.brand.toLowerCase() === brand.toLowerCase()
   )
-  
+
   // Return filtered products, or fallback to specific brand logic
   if (filteredByBrand.length > 0) {
     return filteredByBrand
   }
-  
+
   // Fallback to original brand-specific logic
   switch (brand.toLowerCase()) {
     case 'mitsubishi':
@@ -730,11 +740,11 @@ export const getProductsByBrandEnhanced = (brand: string): Product[] => {
     case 'tmeic':
       return tmeicProducts
     case 'katko':
-      return getAllKatkoProducts()
+      return katkoScrapedProducts
     case 'noark':
       return [
         ...noarkMCBProducts,
-        ...noarkMCPProducts, 
+        ...noarkMCPProducts,
         ...mappedPCBProducts,
         ...noarkSPDProducts,
         ...noarkSwitchesProducts,
@@ -746,17 +756,19 @@ export const getProductsByBrandEnhanced = (brand: string): Product[] => {
         ...noarkScrapedProducts
       ]
     case 'klemsan':
-      return klemsanProducts
+      return klemsanScrapedProducts
     case 'erico':
-      return ericoProducts
+      return [...ericoProducts, ...ericoScrapedProducts]
     case 'ls industrial':
-      return lsIndustrialProducts
+      return lsIndustrialScraped
     case 'schneider electric':
       return schneiderelectricScrapedProducts
     case 'allen bradley':
       return [] // REMOVED - Allen Bradley PLCs
     case 'nvent':
       return nventScrapedProducts
+    case 'elsteel':
+      return elsteelScrapedProducts
     default:
       return []
   }
@@ -768,43 +780,44 @@ export const cleanProducts: Product[] = allProducts.filter(product => {
   if (product.description.match(/^High-quality .* from .*/)) {
     return false
   }
-  
+
   // Remove non-product items
   if (['About', 'Terms and Conditions', 'Privacy Policy'].includes(product.name)) {
     return false
   }
-  
+
   // Remove products with placeholder images (but allow Klemsan products to use placeholders)
   if (product.images[0] === "/images/products/placeholder.jpg" && product.brand !== 'Klemsan') {
     return false
   }
-  
+
   // Remove products with generic descriptions that don't provide value
   if (product.description.startsWith('Product found on')) {
     return false
   }
-  
+
   // Remove products that are just category page links
   if (product.url?.includes('product-category') && product.description.length < 50) {
     return false
   }
-  
+
   // Remove products with very short, non-descriptive descriptions (but allow Klemsan products)
   if (product.brand !== 'Klemsan' && product.description.length < 20 && !product.specs?.length) {
     return false
   }
-  
+
   return true
 })
 
 // Enhanced clean products that include Mitsubishi, TMEIC, Katko, Erico, LS Industrial, and Noark products
 export const cleanProductsWithMitsubishi = [
-  ...cleanProducts, 
-  ...mitsubishiProducts, 
-  ...tmeicProducts, 
-  ...getAllKatkoProducts(), 
-  ...ericoProducts, 
-  ...lsIndustrialProducts,
+  ...cleanProducts,
+  ...mitsubishiProducts,
+  ...tmeicProducts,
+  ...getAllKatkoProducts(),
+  ...ericoProducts,
+  ...ericoScrapedProducts,
+  ...lsIndustrialScraped, // 42 scraped LS Industrial products with complete data
   ...noarkMCBProducts,
   ...noarkMCPProducts,
   ...mappedPCBProducts,
@@ -834,11 +847,12 @@ export const searchProductsEnhanced = (query: string): Product[] => {
     ...noarkB1NQProducts,
     ...klemsanProducts,
     ...ericoProducts,
-    ...lsIndustrialProducts
+    ...ericoScrapedProducts,
+    ...lsIndustrialScraped
   ]
-  
+
   const lowercaseQuery = query.toLowerCase()
-  return searchProducts.filter(product => 
+  return searchProducts.filter(product =>
     product.name.toLowerCase().includes(lowercaseQuery) ||
     product.description.toLowerCase().includes(lowercaseQuery) ||
     product.brand.toLowerCase().includes(lowercaseQuery) ||
@@ -849,4 +863,7 @@ export const searchProductsEnhanced = (query: string): Product[] => {
 // Get product by ID
 export const getProductById = (id: number): Product | undefined => {
   return cleanProducts.find(product => product.id === id)
-} 
+}
+
+// Export category images for brands
+export { noarkCategoryImages, klemsanCategoryImages, elsteelCategoryImages }

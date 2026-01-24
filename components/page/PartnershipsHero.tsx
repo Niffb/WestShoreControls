@@ -8,7 +8,7 @@ export default function PartnershipsHero() {
   const partnerships = [
     {
       name: 'TMEIC',
-      logo: getImageUrl('TMEIC_logo.svg'),
+      logo: getImageUrl('brands/TMEIC_logo.png'),
       alt: 'TMEIC Logo'
     },
     {
@@ -34,15 +34,15 @@ export default function PartnershipsHero() {
     {
       name: 'Katko',
       logo: getImageUrl('brands/Katko.webp'),
-              alt: 'Katko Logo'
-      },
-      {
-        name: 'Elsteel',
-        logo: getImageUrl('brands/Elsteel.webp'),
-        alt: 'Elsteel Logo'
-      },
-      {
-        name: 'Klemsan',
+      alt: 'Katko Logo'
+    },
+    {
+      name: 'Elsteel',
+      logo: getImageUrl('brands/Elsteel.webp'),
+      alt: 'Elsteel Logo'
+    },
+    {
+      name: 'Klemsan',
       logo: getImageUrl('brands/klemsan-logo.webp'),
       alt: 'Klemsan Logo'
     }
@@ -53,7 +53,7 @@ export default function PartnershipsHero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
-          <motion.h2 
+          <motion.h2
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
@@ -62,7 +62,7 @@ export default function PartnershipsHero() {
           >
             Trusted by Industry Leaders
           </motion.h2>
-          <motion.p 
+          <motion.p
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
@@ -74,7 +74,7 @@ export default function PartnershipsHero() {
         </div>
 
         {/* Partnerships Logos Grid */}
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
@@ -87,12 +87,12 @@ export default function PartnershipsHero() {
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
-              transition={{ 
-                duration: 0.5, 
+              transition={{
+                duration: 0.5,
                 delay: index * 0.1 + 0.3,
                 ease: "easeOut"
               }}
-              whileHover={{ 
+              whileHover={{
                 scale: 1.05,
                 transition: { duration: 0.2 }
               }}
@@ -107,7 +107,7 @@ export default function PartnershipsHero() {
                   sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 16vw"
                 />
               </div>
-              
+
               {/* Tooltip */}
               <div className="absolute -top-10 sm:-top-12 left-1/2 transform -translate-x-1/2 bg-gray-900 text-white text-xs sm:text-sm py-1.5 sm:py-2 px-2 sm:px-3 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none whitespace-nowrap z-10">
                 {partner.name}
@@ -118,7 +118,7 @@ export default function PartnershipsHero() {
         </motion.div>
 
         {/* Optional subtitle */}
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
@@ -126,7 +126,7 @@ export default function PartnershipsHero() {
           className="text-center mt-12"
         >
           <p className="text-sm text-gray-500">
-                          VAR (Value-Added Reseller) for TMEIC products and authorized distributor with access to complete product catalogs from all premium brand partners
+            VAR (Value-Added Reseller) for TMEIC products and authorized distributor with access to complete product catalogs from all premium brand partners
           </p>
         </motion.div>
       </div>

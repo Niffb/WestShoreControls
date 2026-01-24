@@ -22,20 +22,25 @@ export const getImageUrl = (imagePath: string): string => {
     return `${IMAGE_BASE_URL}/brands/westlogo.webp` // Use local public fallback
   }
 
+  // Handle external URLs (http:// or https://) - pass through without modification
+  if (imagePath.startsWith('http://') || imagePath.startsWith('https://')) {
+    return imagePath
+  }
+
   // Remove leading slash if present
   const cleanPath = imagePath.startsWith('/') ? imagePath.slice(1) : imagePath
-  
+
   // Handle specific problematic paths first
   if (cleanPath === 'assets/images/products/westlogo.jpg' || cleanPath === 'westlogo.jpg') {
     return `${IMAGE_BASE_URL}/westlogo.jpg`
   }
-  
+
   // Check if this is an assets image
   if (cleanPath.startsWith('assets/images/')) {
     // Keep assets path structure intact
     return `/${cleanPath}`
   }
-  
+
   // Handle series_images paths (now in public directory)
   if (cleanPath.startsWith('series_images/') || imagePath.startsWith('/series_images/')) {
     const seriesPath = cleanPath.replace(/^(\/)?series_images\//, '')
@@ -44,24 +49,24 @@ export const getImageUrl = (imagePath: string): string => {
     if (hasExtension) {
       return `/series_images/${seriesPath}`
     }
-    
+
     // If no extension, try common extensions for series images
     // Most series images are JPG, but some are PNG
     const extensionsToTry = ['.jpg', '.png', '.jpeg', '.webp', '.avif']
-    
+
     // For now, return the path with .jpg extension as most series images are JPG
     return `/series_images/${seriesPath}.jpg`
   }
-  
+
   // Handle hardcoded /images/ paths - normalize to relative paths
   if (cleanPath.startsWith('images/') || imagePath.startsWith('/images/')) {
     const finalPath = cleanPath.replace(/^(\/)?images\//, '')
     return `${IMAGE_BASE_URL}/${finalPath}`
   }
-  
+
   // Handle legacy paths (for backward compatibility)
   const relativePath = cleanPath
-  
+
   // Handle legacy category paths
   let processedPath = relativePath
   if (processedPath.includes('categories/images/categories/')) {
@@ -75,7 +80,7 @@ export const getImageUrl = (imagePath: string): string => {
 
   // Check if the path already has an extension
   const hasExtension = IMAGE_EXTENSIONS.some(ext => processedPath.toLowerCase().endsWith(ext))
-  
+
   // If no extension, use appropriate format based on path
   if (!hasExtension && !processedPath.includes('placeholder')) {
     // For Noark products, use .jpg as they are stored in that format
@@ -86,15 +91,15 @@ export const getImageUrl = (imagePath: string): string => {
       processedPath = `${processedPath}.webp`
     }
   }
-  
+
   // Return final URL with optimized path
   const finalUrl = `${IMAGE_BASE_URL}/${processedPath}`
-  
+
   // Debug logging for development
   if (typeof window !== 'undefined' && process.env.NODE_ENV === 'development') {
     console.log(`[getImageUrl] Input: ${imagePath}, Output: ${finalUrl}`)
   }
-  
+
   return finalUrl
 }
 
@@ -102,7 +107,7 @@ export const getImageUrl = (imagePath: string): string => {
 export const getOptimizedImageUrl = (imagePath: string) => {
   const baseUrl = getImageUrl(imagePath)
   const basePath = baseUrl.replace(/\.[^/.]+$/, '')
-  
+
   return {
     webp: `${basePath}.webp`,
     avif: `${basePath}.avif`,
@@ -118,17 +123,22 @@ export const getFallbackImageUrl = (originalPath: string): string => {
     return `${IMAGE_BASE_URL}/brands/westlogo.webp` // Use local public fallback
   }
 
+  // For external URLs, return the default fallback (external images should handle their own fallbacks)
+  if (originalPath.startsWith('http://') || originalPath.startsWith('https://')) {
+    return `${IMAGE_BASE_URL}/brands/westlogo.webp`
+  }
+
   const cleanPath = originalPath.startsWith('/') ? originalPath.slice(1) : originalPath
-  
+
   // Handle hardcoded /images/ paths - normalize to relative paths
   if (cleanPath.startsWith('images/') || originalPath.startsWith('/images/')) {
     const finalPath = cleanPath.replace(/^(\/)?images\//, '')
     return `${IMAGE_BASE_URL}/${finalPath}`
   }
-  
+
   // Handle assets/images prefix
-  let relativePath = cleanPath.startsWith('assets/images/') 
-    ? cleanPath.replace('assets/images/', '') 
+  let relativePath = cleanPath.startsWith('assets/images/')
+    ? cleanPath.replace('assets/images/', '')
     : cleanPath
 
   // Handle legacy category paths
@@ -138,7 +148,7 @@ export const getFallbackImageUrl = (originalPath: string): string => {
 
   // Try different extensions if the original fails
   const basePath = relativePath.replace(/\.[^/.]+$/, '')
-  
+
   // Try extensions in appropriate order based on path
   let extensionsToTry: string[]
   if (relativePath.includes('noark/') || relativePath.includes('products/noark/')) {
@@ -148,12 +158,12 @@ export const getFallbackImageUrl = (originalPath: string): string => {
     // For other images, try WebP first for performance
     extensionsToTry = ['.webp', '.avif', '.jpg', '.png', '.jpeg']
   }
-  
+
   // Return the first path with fallback to public directory
   for (const ext of extensionsToTry) {
     return `${IMAGE_BASE_URL}/${basePath}${ext}`
   }
-  
+
   // Return placeholder if all else fails
   return `${IMAGE_BASE_URL}/brands/westlogo.webp`
 }
@@ -167,7 +177,7 @@ export const preloadCriticalImages = () => {
     'brands/LS.webp',
     'brands/Mitsubishi-Electric.webp',
     'brands/MitsubishiLogo.webp',
-    'TMEIC_logo.svg',
+    'brands/TMEIC_logo.png',
     'brands/Erico.webp',
     'brands/Katko.webp',
     'brands/klemsan-logo.webp',
