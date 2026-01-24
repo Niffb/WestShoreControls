@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
+  // Note: 'standalone' output removed for Vercel compatibility
+  // Use 'standalone' only for Docker/Node.js deployments
 
   // Asset prefix for static exports
   assetPrefix: '',
