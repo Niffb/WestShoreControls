@@ -198,8 +198,7 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     'magnetic-contactors': 'Magnetic Contactors',
     'metasol-series': 'METASOL Series',
     'mc-series': 'MC Series',
-    // LS Industrial Overload Relay subcategories
-    'thermal-overload-relays': 'Thermal Overload Relays',
+    // LS Industrial Overload Relay subcategories (uses shared 'thermal-overload-relays' key)
     // LS Industrial Circuit Breaker subcategories
     'molded-case-circuit-breakers': 'Molded Case Circuit Breakers',
     'air-circuit-breakers': 'Air Circuit Breakers',
