@@ -199,10 +199,8 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     'metasol-series': 'METASOL Series',
     'mc-series': 'MC Series',
     // LS Industrial Overload Relay subcategories (uses shared 'thermal-overload-relays' key)
-    // LS Industrial Circuit Breaker subcategories
-    'molded-case-circuit-breakers': 'Molded Case Circuit Breakers',
+    // LS Industrial Circuit Breaker subcategories (uses shared 'molded-case-circuit-breakers' and 'miniature-circuit-breakers' keys)
     'air-circuit-breakers': 'Air Circuit Breakers',
-    'miniature-circuit-breakers': 'Miniature Circuit Breakers',
     // LS Industrial Softstarter subcategories
     'soft-starters': 'Soft Starters',
     // LS Industrial I/O Module subcategories

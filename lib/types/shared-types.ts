@@ -4,6 +4,7 @@ export interface Product {
   id: number
   name: string
   model?: string
+  sku?: string
   brand: string
   category: string
   subcategory?: string

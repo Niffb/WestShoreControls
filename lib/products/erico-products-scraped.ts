@@ -49,7 +49,7 @@ export const ericoStats = {
   totalProducts: ericoScrapedProducts.length,
   withFeatures: ericoScrapedProducts.filter(p => p.features && p.features.length > 0).length,
   withSpecs: ericoScrapedProducts.filter(p => p.specs && p.specs.length > 0).length,
-  categories: [...new Set(ericoScrapedProducts.map(p => p.category))].length,
+  categories: Array.from(new Set(ericoScrapedProducts.map(p => p.category))).length,
   source: 'nVent ERIFLEX'
 }
 
@@ -60,7 +60,7 @@ export function getEricoProductsByCategory(category: string): Product[] {
 }
 
 export function getEricoCategories(): string[] {
-  return [...new Set(ericoScrapedProducts.map(p => p.category))]
+  return Array.from(new Set(ericoScrapedProducts.map(p => p.category)))
 }
 
 export default ericoScrapedProducts
