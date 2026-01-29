@@ -1,6 +1,7 @@
 {
     "name": "mitsubishi-scraper",
     "version": "1.0.0",
+    "type": "module",
     "description": "Scraper for Mitsubishi Electric Factory Automation products",
     "main": "scrape.js",
     "scripts": {
