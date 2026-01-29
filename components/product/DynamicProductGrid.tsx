@@ -296,11 +296,11 @@ const ProductCard = memo(({
       variants={itemVariants}
       initial="hidden"
       animate={inView ? "visible" : "hidden"}
-      className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 group cursor-pointer overflow-hidden border border-gray-100"
+      className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 group cursor-pointer overflow-hidden border border-gray-100 flex flex-col h-full"
       onClick={handleClick}
     >
       {/* Product Image */}
-      <div className="relative h-48 bg-white overflow-hidden">
+      <div className="relative h-48 bg-white overflow-hidden flex-shrink-0">
         {/* Loading skeleton */}
         {!imageLoaded && !imageError && (
           <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse flex items-center justify-center">
@@ -336,9 +336,9 @@ const ProductCard = memo(({
       </div>
 
       {/* Product Info */}
-      <div className="p-4">
+      <div className="p-4 flex flex-col flex-grow">
         <div className="mb-2">
-          <h3 className="text-lg font-semibold text-gray-900 line-clamp-2 group-hover:text-primary-600 transition-colors">
+          <h3 className="text-lg font-semibold text-gray-900 line-clamp-2 group-hover:text-primary-600 transition-colors min-h-[3.5rem]">
             {product.name}
           </h3>
         </div>
@@ -347,38 +347,21 @@ const ProductCard = memo(({
           {product.brand} • {product.category}
         </p>
         
-        <p className="text-gray-600 text-sm line-clamp-3 mb-3">
+        <p className="text-gray-600 text-sm line-clamp-3 mb-3 flex-grow">
           {product.description}
         </p>
 
-        {/* Product specs preview */}
-        {product.specs && product.specs.length > 0 && (
-          <div className="border-t pt-3">
-            <p className="text-xs text-gray-500 mb-1">Key Specifications:</p>
-            <div className="flex flex-wrap gap-1">
-              {product.specs.slice(0, 2).map((spec, index) => (
-                <span
-                  key={index}
-                  className="inline-block px-2 py-1 bg-gray-100 text-xs text-gray-600 rounded"
-                >
-                  {spec.length > 20 ? `${spec.substring(0, 20)}...` : spec}
-                </span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {/* View Details Button */}
+        {/* View Details Button - always at bottom */}
         {onClick && (
           <button
             onClick={(e) => {
               e.stopPropagation()
               handleClick()
             }}
-            className="mt-4 w-full bg-red-600 text-white py-2 px-4 rounded-lg hover:bg-red-700 transition-colors flex items-center justify-center gap-2 font-medium"
+            className="mt-auto w-full bg-red-600 text-white py-2 px-4 rounded-lg hover:bg-red-700 transition-colors flex items-center justify-center gap-2 font-medium"
           >
             <EyeIcon className="h-5 w-5" />
-            View Details
+            Details
           </button>
         )}
       </div>
@@ -566,7 +549,7 @@ export default function DynamicProductGrid({
           </div>
         </div>
       ) : (
-        <div className={`grid grid-cols-1 ${viewMode === 'grid' ? 'sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4' : ''} gap-4`}>
+        <div className={`grid grid-cols-1 ${viewMode === 'grid' ? 'sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 auto-rows-fr' : ''} gap-4`}>
           <AnimatePresence>
             {visibleItems.map((product, index) => (
               <ProductCard 

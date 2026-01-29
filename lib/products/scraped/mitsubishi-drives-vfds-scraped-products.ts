@@ -16,7 +16,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3724,7 +3724,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3742,7 +3742,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3760,7 +3760,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3958,7 +3958,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4012,7 +4012,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4030,7 +4030,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4048,7 +4048,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4066,7 +4066,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4084,7 +4084,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4102,7 +4102,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4120,7 +4120,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4138,7 +4138,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4156,7 +4156,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4174,7 +4174,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4192,7 +4192,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4210,7 +4210,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4228,7 +4228,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4246,7 +4246,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4264,7 +4264,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4282,7 +4282,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4300,7 +4300,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4318,7 +4318,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4336,7 +4336,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4354,7 +4354,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4372,7 +4372,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4390,7 +4390,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4408,7 +4408,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4426,7 +4426,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4444,7 +4444,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4462,7 +4462,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4480,7 +4480,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4498,7 +4498,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4516,7 +4516,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4534,7 +4534,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4552,7 +4552,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4570,7 +4570,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4588,7 +4588,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4606,7 +4606,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4624,7 +4624,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4642,7 +4642,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4660,7 +4660,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4678,7 +4678,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4696,7 +4696,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4714,7 +4714,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4840,7 +4840,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4858,7 +4858,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4876,7 +4876,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4894,7 +4894,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4912,7 +4912,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4930,7 +4930,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4948,7 +4948,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4966,7 +4966,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -4984,7 +4984,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5002,7 +5002,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5020,7 +5020,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5038,7 +5038,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5056,7 +5056,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5074,7 +5074,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5092,7 +5092,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5110,7 +5110,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5128,7 +5128,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5146,7 +5146,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5164,7 +5164,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5182,7 +5182,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5200,7 +5200,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5398,7 +5398,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5416,7 +5416,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5434,7 +5434,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5452,7 +5452,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5470,7 +5470,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5488,7 +5488,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5506,7 +5506,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5524,7 +5524,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5542,7 +5542,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5560,7 +5560,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5578,7 +5578,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5596,7 +5596,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5614,7 +5614,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5632,7 +5632,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5650,7 +5650,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5668,7 +5668,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5686,7 +5686,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5704,7 +5704,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5722,7 +5722,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5740,7 +5740,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5758,7 +5758,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5776,7 +5776,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5794,7 +5794,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5812,7 +5812,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5830,7 +5830,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5848,7 +5848,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5866,7 +5866,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5884,7 +5884,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5902,7 +5902,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5920,7 +5920,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5938,7 +5938,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5956,7 +5956,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5974,7 +5974,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -5992,7 +5992,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6010,7 +6010,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6028,7 +6028,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6046,7 +6046,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6064,7 +6064,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6082,7 +6082,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6100,7 +6100,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6118,7 +6118,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6136,7 +6136,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6154,7 +6154,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6172,7 +6172,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6190,7 +6190,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6208,7 +6208,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6226,7 +6226,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6244,7 +6244,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6262,7 +6262,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6280,7 +6280,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6298,7 +6298,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6316,7 +6316,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6334,7 +6334,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6352,7 +6352,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6370,7 +6370,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6388,7 +6388,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6406,7 +6406,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6424,7 +6424,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6442,7 +6442,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6460,7 +6460,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6478,7 +6478,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6496,7 +6496,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6514,7 +6514,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6532,7 +6532,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6550,7 +6550,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6568,7 +6568,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6586,7 +6586,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6604,7 +6604,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6622,7 +6622,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6640,7 +6640,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6658,7 +6658,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6676,7 +6676,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6694,7 +6694,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6712,7 +6712,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6730,7 +6730,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6748,7 +6748,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6766,7 +6766,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6784,7 +6784,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6802,7 +6802,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6820,7 +6820,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6838,7 +6838,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6856,7 +6856,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6874,7 +6874,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6892,7 +6892,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6910,7 +6910,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6928,7 +6928,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6946,7 +6946,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6964,7 +6964,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -6982,7 +6982,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7000,7 +7000,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7018,7 +7018,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7036,7 +7036,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7054,7 +7054,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7072,7 +7072,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7090,7 +7090,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7108,7 +7108,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7126,7 +7126,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7144,7 +7144,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7162,7 +7162,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7180,7 +7180,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7198,7 +7198,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7216,7 +7216,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7234,7 +7234,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7252,7 +7252,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7270,7 +7270,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7288,7 +7288,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7306,7 +7306,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7324,7 +7324,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7342,7 +7342,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7360,7 +7360,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7378,7 +7378,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7396,7 +7396,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7414,7 +7414,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7432,7 +7432,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7450,7 +7450,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7468,7 +7468,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7486,7 +7486,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7504,7 +7504,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7522,7 +7522,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7540,7 +7540,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7558,7 +7558,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7576,7 +7576,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7594,7 +7594,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7612,7 +7612,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7630,7 +7630,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7648,7 +7648,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7666,7 +7666,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7684,7 +7684,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7702,7 +7702,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7720,7 +7720,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7738,7 +7738,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7756,7 +7756,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7774,7 +7774,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7792,7 +7792,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7810,7 +7810,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7828,7 +7828,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7846,7 +7846,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7864,7 +7864,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7882,7 +7882,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7900,7 +7900,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7918,7 +7918,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7936,7 +7936,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7954,7 +7954,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7972,7 +7972,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -7990,7 +7990,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8008,7 +8008,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8026,7 +8026,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8044,7 +8044,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8062,7 +8062,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8080,7 +8080,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8098,7 +8098,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8116,7 +8116,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8134,7 +8134,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8152,7 +8152,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8170,7 +8170,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8188,7 +8188,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8206,7 +8206,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8224,7 +8224,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8242,7 +8242,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8260,7 +8260,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8278,7 +8278,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8296,7 +8296,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8314,7 +8314,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8332,7 +8332,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8350,7 +8350,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8368,7 +8368,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8386,7 +8386,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8404,7 +8404,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8422,7 +8422,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8440,7 +8440,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8458,7 +8458,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8476,7 +8476,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8494,7 +8494,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8512,7 +8512,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8530,7 +8530,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8548,7 +8548,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8566,7 +8566,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8584,7 +8584,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8602,7 +8602,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8620,7 +8620,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8638,7 +8638,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8656,7 +8656,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8674,7 +8674,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8692,7 +8692,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8710,7 +8710,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8728,7 +8728,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8746,7 +8746,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8764,7 +8764,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8782,7 +8782,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8800,7 +8800,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8818,7 +8818,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8836,7 +8836,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8854,7 +8854,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8872,7 +8872,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8890,7 +8890,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8908,7 +8908,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8926,7 +8926,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8944,7 +8944,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8962,7 +8962,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8980,7 +8980,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -8998,7 +8998,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9016,7 +9016,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9034,7 +9034,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9052,7 +9052,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9070,7 +9070,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9088,7 +9088,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9106,7 +9106,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9124,7 +9124,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9142,7 +9142,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9160,7 +9160,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9178,7 +9178,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9196,7 +9196,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9214,7 +9214,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9232,7 +9232,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9250,7 +9250,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9268,7 +9268,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9286,7 +9286,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9304,7 +9304,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9322,7 +9322,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9340,7 +9340,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9358,7 +9358,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9376,7 +9376,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9394,7 +9394,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9412,7 +9412,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9430,7 +9430,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9448,7 +9448,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9466,7 +9466,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9484,7 +9484,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9502,7 +9502,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9520,7 +9520,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9538,7 +9538,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9556,7 +9556,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9574,7 +9574,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9592,7 +9592,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9610,7 +9610,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9628,7 +9628,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9646,7 +9646,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9664,7 +9664,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9682,7 +9682,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9700,7 +9700,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9718,7 +9718,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9736,7 +9736,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9754,7 +9754,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9772,7 +9772,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9790,7 +9790,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9808,7 +9808,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9826,7 +9826,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9844,7 +9844,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9862,7 +9862,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9880,7 +9880,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9898,7 +9898,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9916,7 +9916,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9934,7 +9934,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9952,7 +9952,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9970,7 +9970,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -9988,7 +9988,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10006,7 +10006,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10024,7 +10024,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10042,7 +10042,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10060,7 +10060,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10078,7 +10078,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10096,7 +10096,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10114,7 +10114,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10132,7 +10132,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10150,7 +10150,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10168,7 +10168,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10186,7 +10186,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10204,7 +10204,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10222,7 +10222,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10240,7 +10240,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10258,7 +10258,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10276,7 +10276,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10294,7 +10294,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10312,7 +10312,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10330,7 +10330,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10348,7 +10348,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10366,7 +10366,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10384,7 +10384,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10402,7 +10402,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10420,7 +10420,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10438,7 +10438,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10456,7 +10456,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10474,7 +10474,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10492,7 +10492,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10510,7 +10510,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10528,7 +10528,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10546,7 +10546,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10564,7 +10564,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10582,7 +10582,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10600,7 +10600,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10618,7 +10618,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10636,7 +10636,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10654,7 +10654,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10672,7 +10672,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10690,7 +10690,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10708,7 +10708,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10726,7 +10726,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10744,7 +10744,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10762,7 +10762,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10780,7 +10780,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10798,7 +10798,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10816,7 +10816,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10834,7 +10834,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10852,7 +10852,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10870,7 +10870,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10888,7 +10888,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10906,7 +10906,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10924,7 +10924,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10942,7 +10942,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10960,7 +10960,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10978,7 +10978,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -10996,7 +10996,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11014,7 +11014,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11032,7 +11032,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11050,7 +11050,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11068,7 +11068,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11086,7 +11086,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11104,7 +11104,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11122,7 +11122,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11140,7 +11140,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11158,7 +11158,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11176,7 +11176,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11194,7 +11194,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11212,7 +11212,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11230,7 +11230,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11248,7 +11248,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11266,7 +11266,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -11284,7 +11284,7 @@ export const mitsubishidrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],

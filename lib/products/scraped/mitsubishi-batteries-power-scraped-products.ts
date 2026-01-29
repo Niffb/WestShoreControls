@@ -16,7 +16,7 @@ export const mitsubishibatteries_powerScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const mitsubishibatteries_powerScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const mitsubishibatteries_powerScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const mitsubishibatteries_powerScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const mitsubishibatteries_powerScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
     ],
     "inStock": true,
     "specs": [],

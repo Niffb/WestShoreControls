@@ -14,7 +14,7 @@ export const mitsubishiCategoryImages: { [key: string]: string } = {
     'Programmable Logic Controllers': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc/img/sq.ashx',
     'Motion Controllers': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/assets/img/large-fa-selection-tool-banner.ashx',
     'Human Machine Interface': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/hmi/got/img/spotlight_selection_tool_en.ashx',
-    'Servo Motors': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/faist202411spotlighten.ashx',
+    'Servo Motors': 'https://www.mitsubishielectric.com/fa/products/drv/servo/items/assets/img/mr_j5_top.png',
     'Circuit Breakers': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/lvd/lvcb/img/sq.ashx',
     'Contactors': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/lvd/lvsw/img/1_spotlight_e.ashx'
 }

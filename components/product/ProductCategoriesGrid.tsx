@@ -43,7 +43,7 @@ const productCategories: ProductCategory[] = [
     name: 'Servo Motors',
     description: 'High-precision servo motors for accurate positioning and motion control',
     icon: CogIcon,
-    image: 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/servo/img/thumbnail-mr-j5.ashx?h=372&w=660&la=en',
+    image: 'https://www.mitsubishielectric.com/fa/products/drv/servo/items/assets/img/mr_j5_top.png',
     featured: true,
     slug: 'servo-motors'
   },
