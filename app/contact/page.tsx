@@ -91,7 +91,7 @@ export default function ContactPage() {
         <div className="absolute inset-0 overflow-hidden">
                   <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
         <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-          <div className="absolute top-1/3 right-1/4 w-64 h-64 bg-gradient-to-br from-blue-200/20 to-blue-500/20 rounded-full blur-3xl animate-float" style={{animationDelay: '2s'}}></div>
+          <div className="absolute top-1/3 right-1/4 w-64 h-64 bg-gradient-to-br from-red-200/20 to-red-500/20 rounded-full blur-3xl animate-float" style={{animationDelay: '2s'}}></div>
         </div>
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -150,14 +150,14 @@ export default function ContactPage() {
                 {/* Email */}
                 <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
                   <div className="text-center">
-                    <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
-                      <EnvelopeIcon className="w-8 h-8 text-blue-600 group-hover:animate-pulse" />
+                    <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+                      <EnvelopeIcon className="w-8 h-8 text-red-600 group-hover:animate-pulse" />
                     </div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Email Support</h3>
                     <p className="text-gray-600 mb-4">Send detailed inquiries and documentation</p>
                     <a 
                       href="mailto:info@westshorecontrols.com" 
-                      className="text-blue-600 hover:text-blue-700 font-semibold transition-colors break-all"
+                      className="text-red-600 hover:text-red-700 font-semibold transition-colors break-all"
                     >
                       info@westshorecontrols.com
                     </a>
@@ -167,12 +167,12 @@ export default function ContactPage() {
                 {/* Fax */}
                 <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
                   <div className="text-center">
-                    <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
-                      <PrinterIcon className="w-8 h-8 text-green-600 group-hover:animate-wiggle" />
+                    <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+                      <PrinterIcon className="w-8 h-8 text-red-600 group-hover:animate-wiggle" />
                     </div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Fax Documents</h3>
                     <p className="text-gray-600 mb-4">For technical drawings and specifications</p>
-                    <span className="text-green-600 font-semibold text-lg">
+                    <span className="text-red-600 font-semibold text-lg">
                       (+1) 604 943 1661
                     </span>
                   </div>
@@ -273,22 +273,22 @@ export default function ContactPage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
             {/* Mike Marelic */}
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group">
-              <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+              <div className="w-20 h-20 bg-gradient-to-br from-red-500 to-red-700 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
                 <span className="text-white font-bold text-xl group-hover:animate-pulse">MM</span>
               </div>
               <h4 className="text-xl font-semibold text-gray-900 mb-2">Mike Marelic</h4>
-              <p className="text-blue-600 font-medium mb-3">Sales</p>
+              <p className="text-red-600 font-medium mb-3">Sales</p>
               <p className="text-gray-600 text-sm mb-4">Dedicated sales professional helping customers find the perfect electrical and automation solutions.</p>
               <div className="space-y-2">
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <PhoneIcon className="w-4 h-4" />
-                  <a href="tel:+17789956473" className="text-blue-600 hover:text-blue-700 transition-colors">
+                  <a href="tel:+17789956473" className="text-red-600 hover:text-red-700 transition-colors">
                     (+1) 778 995 6473
                   </a>
                 </div>
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <EnvelopeIcon className="w-4 h-4" />
-                  <a href="mailto:mmarelic@westshorecontrols.com" className="text-blue-600 hover:text-blue-700 transition-colors break-all">
+                  <a href="mailto:mmarelic@westshorecontrols.com" className="text-red-600 hover:text-red-700 transition-colors break-all">
                     mmarelic@westshorecontrols.com
                   </a>
                 </div>
@@ -297,22 +297,22 @@ export default function ContactPage() {
 
             {/* Mark Jesty */}
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{animationDelay: '0.2s'}}>
-              <div className="w-20 h-20 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+              <div className="w-20 h-20 bg-gradient-to-br from-red-600 to-red-800 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
                 <span className="text-white font-bold text-xl group-hover:animate-pulse">MJ</span>
               </div>
               <h4 className="text-xl font-semibold text-gray-900 mb-2">Mark Jesty</h4>
-              <p className="text-green-600 font-medium mb-3">Sales Manager</p>
+              <p className="text-red-600 font-medium mb-3">Sales Manager</p>
               <p className="text-gray-600 text-sm mb-4">Experienced sales manager leading our team to deliver exceptional customer service and technical expertise.</p>
               <div className="space-y-2">
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <PhoneIcon className="w-4 h-4" />
-                  <a href="tel:+16043740918" className="text-green-600 hover:text-green-700 transition-colors">
+                  <a href="tel:+16043740918" className="text-red-600 hover:text-red-700 transition-colors">
                     (+1) 604 374 0918
                   </a>
                 </div>
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <EnvelopeIcon className="w-4 h-4" />
-                  <a href="mailto:mjesty@westshorecontrols.com" className="text-green-600 hover:text-green-700 transition-colors break-all">
+                  <a href="mailto:mjesty@westshorecontrols.com" className="text-red-600 hover:text-red-700 transition-colors break-all">
                     mjesty@westshorecontrols.com
                   </a>
                 </div>
@@ -321,22 +321,22 @@ export default function ContactPage() {
 
             {/* John Oldham */}
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{animationDelay: '0.4s'}}>
-              <div className="w-20 h-20 bg-gradient-to-br from-purple-500 to-purple-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+              <div className="w-20 h-20 bg-gradient-to-br from-red-700 to-red-900 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
                 <span className="text-white font-bold text-xl group-hover:animate-pulse">JO</span>
               </div>
               <h4 className="text-xl font-semibold text-gray-900 mb-2">John Oldham</h4>
-              <p className="text-purple-600 font-medium mb-3">Sales</p>
+              <p className="text-red-600 font-medium mb-3">Sales</p>
               <p className="text-gray-600 text-sm mb-4">Experienced sales professional providing expert guidance and support for industrial automation and electrical solutions.</p>
               <div className="space-y-2">
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <PhoneIcon className="w-4 h-4" />
-                  <a href="tel:+16043774977" className="text-purple-600 hover:text-purple-700 transition-colors">
+                  <a href="tel:+16043774977" className="text-red-600 hover:text-red-700 transition-colors">
                     (+1) 604 377 4977
                   </a>
                 </div>
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <EnvelopeIcon className="w-4 h-4" />
-                  <a href="mailto:joldham@westshorecontrols.com" className="text-purple-600 hover:text-purple-700 transition-colors break-all">
+                  <a href="mailto:joldham@westshorecontrols.com" className="text-red-600 hover:text-red-700 transition-colors break-all">
                     joldham@westshorecontrols.com
                   </a>
                 </div>
@@ -359,22 +359,22 @@ export default function ContactPage() {
           <div className="flex justify-center">
             {/* Jose Torrecampo */}
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group max-w-sm">
-              <div className="w-20 h-20 bg-gradient-to-br from-orange-500 to-orange-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+              <div className="w-20 h-20 bg-gradient-to-br from-red-600 to-red-800 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
                 <span className="text-white font-bold text-xl group-hover:animate-pulse">JT</span>
               </div>
                               <h4 className="text-xl font-semibold text-gray-900 mb-2">Jose Torrecampo, FEC, P.Eng</h4>
-                <p className="text-orange-600 font-medium mb-3">Technical Service</p>
+                <p className="text-red-600 font-medium mb-3">Technical Service</p>
                 <p className="text-gray-600 text-sm mb-4">Technical service specialist providing technical consulting and engineering solutions for complex automation projects.</p>
               <div className="space-y-2">
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <PhoneIcon className="w-4 h-4" />
-                  <a href="tel:+16048050175" className="text-orange-600 hover:text-orange-700 transition-colors">
+                  <a href="tel:+16048050175" className="text-red-600 hover:text-red-700 transition-colors">
                     (+1) 604 805 0175
                   </a>
                 </div>
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                   <EnvelopeIcon className="w-4 h-4" />
-                  <a href="mailto:jtorrecampo@westshorecontrols.com" className="text-orange-600 hover:text-orange-700 transition-colors break-all">
+                  <a href="mailto:jtorrecampo@westshorecontrols.com" className="text-red-600 hover:text-red-700 transition-colors break-all">
                     jtorrecampo@westshorecontrols.com
                   </a>
                 </div>
@@ -449,8 +449,8 @@ export default function ContactPage() {
             {/* Canadian Office - Burnaby */}
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-8 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{animationDelay: '0.1s'}}>
               <div className="flex items-center space-x-3 mb-6">
-                <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
-                  <BuildingOfficeIcon className="w-6 h-6 text-blue-600 group-hover:animate-bounce-soft" />
+                <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+                  <BuildingOfficeIcon className="w-6 h-6 text-red-600 group-hover:animate-bounce-soft" />
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900">Burnaby Office</h3>
@@ -499,8 +499,8 @@ export default function ContactPage() {
             {/* USA Shipping */}
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-8 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{animationDelay: '0.2s'}}>
               <div className="flex items-center space-x-3 mb-6">
-                <div className="w-12 h-12 bg-accent-orange/20 rounded-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
-                  <TruckIcon className="w-6 h-6 text-accent-orange group-hover:animate-wiggle" />
+                <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+                  <TruckIcon className="w-6 h-6 text-red-600 group-hover:animate-wiggle" />
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900">USA Shipping</h3>
@@ -551,8 +551,8 @@ export default function ContactPage() {
 
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-xl transition-shadow duration-300">
-              <div className="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <GlobeAmericasIcon className="w-8 h-8 text-primary-600" />
+              <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <GlobeAmericasIcon className="w-8 h-8 text-red-600" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">United States</h3>
               <p className="text-gray-600">
@@ -561,8 +561,8 @@ export default function ContactPage() {
             </div>
 
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-xl transition-shadow duration-300">
-              <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <GlobeAmericasIcon className="w-8 h-8 text-blue-600" />
+              <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <GlobeAmericasIcon className="w-8 h-8 text-red-600" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Canada</h3>
               <p className="text-gray-600">
@@ -571,8 +571,8 @@ export default function ContactPage() {
             </div>
 
             <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-xl transition-shadow duration-300">
-              <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <GlobeAmericasIcon className="w-8 h-8 text-green-600" />
+              <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <GlobeAmericasIcon className="w-8 h-8 text-red-600" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Global</h3>
               <p className="text-gray-600">

@@ -88,7 +88,7 @@ export default function AboutPage() {
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
           <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-          <div className="absolute top-1/2 left-1/4 w-64 h-64 bg-gradient-to-br from-blue-200/20 to-blue-500/20 rounded-full blur-3xl"></div>
+          <div className="absolute top-1/2 left-1/4 w-64 h-64 bg-gradient-to-br from-red-200/20 to-red-500/20 rounded-full blur-3xl"></div>
         </div>
 
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -165,34 +165,34 @@ export default function AboutPage() {
               {/* Feature Grid */}
               <div className="grid sm:grid-cols-2 gap-6">
                 <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <GlobeAmericasIcon className="w-6 h-6 text-primary-500 group-hover:animate-bounce-soft" />
+                  <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
+                    <GlobeAmericasIcon className="w-6 h-6 text-red-600 group-hover:animate-bounce-soft" />
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-primary-600 transition-colors">Global Reach</h3>
+                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">Global Reach</h3>
                   <p className="text-sm text-gray-600">Delivering throughout the United States, Canada, and internationally</p>
                 </div>
 
                 <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <ShieldCheckIcon className="w-6 h-6 text-green-600 group-hover:animate-pulse" />
+                  <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
+                    <ShieldCheckIcon className="w-6 h-6 text-red-600 group-hover:animate-pulse" />
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-green-600 transition-colors">Quality Assured</h3>
+                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">Quality Assured</h3>
                   <p className="text-sm text-gray-600">Industry proven products with comprehensive certifications</p>
                 </div>
 
                 <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <UserGroupIcon className="w-6 h-6 text-blue-600 group-hover:animate-wiggle" />
+                  <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
+                    <UserGroupIcon className="w-6 h-6 text-red-600 group-hover:animate-wiggle" />
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">Expert Support</h3>
+                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">Expert Support</h3>
                   <p className="text-sm text-gray-600">Knowledgeable sales agents and technical support team</p>
                 </div>
 
                 <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-accent-orange/20 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <BuildingOfficeIcon className="w-6 h-6 text-accent-orange group-hover:animate-bounce-soft" />
+                  <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
+                    <BuildingOfficeIcon className="w-6 h-6 text-red-600 group-hover:animate-bounce-soft" />
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-accent-orange transition-colors">Trusted Partners</h3>
+                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">Trusted Partners</h3>
                   <p className="text-sm text-gray-600">Direct partnerships with leading manufacturers</p>
                 </div>
               </div>
@@ -221,8 +221,7 @@ export default function AboutPage() {
                 since: "2019",
                 badge: "Technology Partner",
                 description: "Leading manufacturer of high-power electrical and industrial systems including generators, drives, motors, PV inverters, and advanced control systems.",
-                specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors"],
-                color: "indigo"
+                specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors"]
               },
               {
                 name: "Mitsubishi Electric",
@@ -231,8 +230,7 @@ export default function AboutPage() {
                 since: "2010",
                 badge: "Diamond Partner",
                 description: "World-leading industrial automation and control solutions, including PLCs, HMIs, variable frequency drives, and motion control systems.",
-                specialties: ["PLCs & Controllers", "HMI & Displays", "Variable Frequency Drives", "Motion Control"],
-                color: "red"
+                specialties: ["PLCs & Controllers", "HMI & Displays", "Variable Frequency Drives", "Motion Control"]
               },
               {
                 name: "Noark",
@@ -241,8 +239,7 @@ export default function AboutPage() {
                 since: "2014",
                 badge: "Certified Partner",
                 description: "High-quality electrical components including contactors, circuit breakers, and motor protection devices for industrial applications.",
-                specialties: ["IEC Contactors", "Thermal Overload Relays", "Manual Motor Starters", "Circuit Breakers"],
-                color: "orange"
+                specialties: ["IEC Contactors", "Thermal Overload Relays", "Manual Motor Starters", "Circuit Breakers"]
               },
               {
                 name: "LS Industrial",
@@ -251,8 +248,7 @@ export default function AboutPage() {
                 since: "2012",
                 badge: "Strategic Partner",
                 description: "Comprehensive industrial automation solutions including contactors, circuit breakers, motor protection, and drives.",
-                specialties: ["Contactors & Relays", "Circuit Breakers", "Motor Starters", "Variable Frequency Drives"],
-                color: "green"
+                specialties: ["Contactors & Relays", "Circuit Breakers", "Motor Starters", "Variable Frequency Drives"]
               },
               {
                 name: "Erico",
@@ -261,8 +257,7 @@ export default function AboutPage() {
                 since: "2015",
                 badge: "Premium Partner",
                 description: "Global leader in electrical and industrial metal joining solutions, grounding and bonding systems, and electrical protection products.",
-                specialties: ["Grounding Systems", "Flexible Conductors", "Distribution Blocks", "Busbars"],
-                color: "blue"
+                specialties: ["Grounding Systems", "Flexible Conductors", "Distribution Blocks", "Busbars"]
               },
               {
                 name: "Katko",
@@ -271,8 +266,7 @@ export default function AboutPage() {
                 since: "2016",
                 badge: "Trusted Partner",
                 description: "UL Listed manual motor controllers and industrial control solutions designed for safety and reliability in demanding environments.",
-                specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches", "Industrial Controls"],
-                color: "purple"
+                specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches", "Industrial Controls"]
               },
               {
                 name: "Klemsan",
@@ -281,8 +275,7 @@ export default function AboutPage() {
                 since: "2017",
                 badge: "Technology Partner",
                 description: "Turkish manufacturer specializing in terminal blocks, industrial automation components, and electrical connection solutions.",
-                specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties", "Marking Solutions"],
-                color: "blue"
+                specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties", "Marking Solutions"]
               },
               {
                 name: "Elsteel",
@@ -291,45 +284,17 @@ export default function AboutPage() {
                 since: "2018",
                 badge: "Approved Partner",
                 description: "Specialized electrical steel and industrial metal solutions for electrical infrastructure and industrial applications.",
-                specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication", "Electrical Infrastructure"],
-                color: "slate"
+                specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication", "Electrical Infrastructure"]
               }
-            ].map((partner, index) => {
-              const getColorClasses = (color: string) => {
-                const colors = {
-                  red: "border-red-200 hover:border-red-400 bg-red-50/50",
-                  blue: "border-blue-200 hover:border-blue-400 bg-blue-50/50",
-                  green: "border-green-200 hover:border-green-400 bg-green-50/50",
-                  orange: "border-orange-200 hover:border-orange-400 bg-orange-50/50",
-                  purple: "border-purple-200 hover:border-purple-400 bg-purple-50/50",
-                  slate: "border-slate-200 hover:border-slate-400 bg-slate-50/50",
-                  indigo: "border-indigo-200 hover:border-indigo-400 bg-indigo-50/50"
-                }
-                return colors[color as keyof typeof colors] || colors.slate
-              }
-
-              const getBadgeColor = (color: string) => {
-                const colors = {
-                  red: "bg-red-100 text-red-800",
-                  blue: "bg-blue-100 text-blue-800",
-                  green: "bg-green-100 text-green-800",
-                  orange: "bg-orange-100 text-orange-800",
-                  purple: "bg-purple-100 text-purple-800",
-                  slate: "bg-slate-100 text-slate-800",
-                  indigo: "bg-indigo-100 text-indigo-800"
-                }
-                return colors[color as keyof typeof colors] || colors.slate
-              }
-
-              return (
+            ].map((partner, index) => (
                 <div
                   key={partner.name}
-                  className={`bg-white rounded-xl p-6 shadow-sm border-2 transition-all duration-300 hover:shadow-xl hover:scale-105 hover:-translate-y-2 animate-on-scroll group ${getColorClasses(partner.color)}`}
+                  className="bg-white rounded-xl p-6 shadow-sm border-2 border-red-200 hover:border-red-400 bg-red-50/30 transition-all duration-300 hover:shadow-xl hover:scale-105 hover:-translate-y-2 animate-on-scroll group"
                   style={{ animationDelay: `${index * 100}ms` }}
                 >
                   {/* Partner Badge */}
                   <div className="flex justify-between items-start mb-4">
-                    <span className={`inline-block px-3 py-1 rounded-full text-xs font-semibold ${getBadgeColor(partner.color)}`}>
+                    <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold bg-red-100 text-red-800">
                       {partner.badge}
                     </span>
                     <span className="text-xs text-gray-500">Since {partner.since}</span>
@@ -337,7 +302,7 @@ export default function AboutPage() {
 
                   {/* Partner Logo/Name */}
                   <div className="text-center mb-4">
-                    <h3 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors mb-2">
+                    <h3 className="text-lg font-bold text-gray-900 group-hover:text-red-600 transition-colors mb-2">
                       {partner.name}
                     </h3>
                     <p className="text-sm text-gray-600 font-medium">{partner.type}</p>
@@ -368,8 +333,7 @@ export default function AboutPage() {
                     </div>
                   </div>
                 </div>
-              )
-            })}
+              ))}
           </div>
 
           {/* Partnership Benefits Summary */}
@@ -390,16 +354,16 @@ export default function AboutPage() {
                 <p className="text-sm text-gray-600">Value-Added Reseller for TMEIC and authorized distribution ensuring authentic products with enhanced support</p>
               </div>
 
-              <div className="text-center p-6 rounded-xl bg-gradient-to-br from-blue-50 to-blue-100 border border-blue-200">
-                <div className="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="text-center p-6 rounded-xl bg-gradient-to-br from-red-50 to-red-100 border border-red-200">
+                <div className="w-12 h-12 bg-red-600 rounded-full flex items-center justify-center mx-auto mb-4">
                   <UserGroupIcon className="w-6 h-6 text-white" />
                 </div>
                 <h4 className="font-semibold text-gray-900 mb-2">Expert Support</h4>
                 <p className="text-sm text-gray-600">Direct access to manufacturer technical teams and application engineers for complex projects</p>
               </div>
 
-              <div className="text-center p-6 rounded-xl bg-gradient-to-br from-green-50 to-green-100 border border-green-200">
-                <div className="w-12 h-12 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="text-center p-6 rounded-xl bg-gradient-to-br from-red-50 to-red-100 border border-red-200">
+                <div className="w-12 h-12 bg-red-700 rounded-full flex items-center justify-center mx-auto mb-4">
                   <CheckBadgeIcon className="w-6 h-6 text-white" />
                 </div>
                 <h4 className="font-semibold text-gray-900 mb-2">Quality Assurance</h4>
@@ -444,11 +408,11 @@ export default function AboutPage() {
               </div>
 
               <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{ animationDelay: '0.2s' }}>
-                <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
+                <div className="w-20 h-20 bg-gradient-to-br from-red-600 to-red-800 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
                   <span className="text-white font-bold text-xl group-hover:animate-pulse">JO</span>
                 </div>
                 <h4 className="text-xl font-semibold text-gray-900 mb-2">John Oldham</h4>
-                <p className="text-blue-600 font-medium mb-3">VFD Specialist</p>
+                <p className="text-red-600 font-medium mb-3">VFD Specialist</p>
                 <p className="text-gray-600 text-sm mb-4">Expert in Variable Frequency Drives with specialization in Mining and Forestry Industries automation systems.</p>
                 <div className="space-y-2">
                   <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
@@ -463,16 +427,16 @@ export default function AboutPage() {
               </div>
 
               <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-xl transition-shadow">
-                <div className="w-20 h-20 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-20 h-20 bg-gradient-to-br from-red-700 to-red-900 rounded-full flex items-center justify-center mx-auto mb-4">
                   <span className="text-white font-bold text-xl">JT</span>
                 </div>
                 <h4 className="text-xl font-semibold text-gray-900 mb-2">Jose Torrecampo, FEC, P.Eng</h4>
-                <p className="text-green-600 font-medium mb-3">Technical Service</p>
+                <p className="text-red-600 font-medium mb-3">Technical Service</p>
                 <p className="text-gray-600 text-sm mb-4">Technical service specialist providing technical consulting and engineering solutions for complex automation projects.</p>
                 <div className="space-y-2">
                   <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
                     <PhoneIcon className="w-4 h-4" />
-                    <a href="tel:+16048050175" className="text-green-600 hover:text-green-700 transition-colors">
+                    <a href="tel:+16048050175" className="text-red-600 hover:text-red-700 transition-colors">
                       (+1) 604 805 0175
                     </a>
                   </div>
@@ -490,7 +454,7 @@ export default function AboutPage() {
             <h3 className="text-2xl font-bold text-gray-900 mb-8 text-center">Our Dedicated Support</h3>
             <div className="grid md:grid-cols-2 gap-8">
               <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-8 text-center hover:shadow-xl transition-shadow">
-                <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-20 h-20 bg-gradient-to-br from-red-500 to-red-700 rounded-full flex items-center justify-center mx-auto mb-4">
                   <UserGroupIcon className="w-10 h-10 text-white" />
                 </div>
                 <h4 className="text-xl font-semibold text-gray-900 mb-2">Sales & Customer Service</h4>
@@ -508,7 +472,7 @@ export default function AboutPage() {
               </div>
 
               <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-8 text-center hover:shadow-xl transition-shadow">
-                <div className="w-20 h-20 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-20 h-20 bg-gradient-to-br from-red-600 to-red-800 rounded-full flex items-center justify-center mx-auto mb-4">
                   <ShieldCheckIcon className="w-10 h-10 text-white" />
                 </div>
                 <h4 className="text-xl font-semibold text-gray-900 mb-2">Technical Support</h4>

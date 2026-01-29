@@ -16,7 +16,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 160,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 113,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 196,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 16,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 158,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const mitsubishicables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],

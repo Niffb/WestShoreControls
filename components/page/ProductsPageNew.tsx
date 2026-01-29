@@ -14,6 +14,43 @@ import { lsIndustrialScraped } from '@/lib/products/ls-industrial-scraped'
 import { noarkScrapedProducts } from '@/lib/products/noark-products-scraped'
 import { klemsanScrapedProducts } from '@/lib/products/klemsan-products-scraped'
 import { elsteelScrapedProducts } from '@/lib/products/elsteel-products-scraped'
+// Import detailed Mitsubishi products with unique IDs (underscore-named files have 100000+ IDs)
+import { mitsubishiScrapedProducts } from '@/lib/products/mitsubishi-products-scraped'
+import { mitsubishiDrives_vfdsScrapedProducts } from '@/lib/products/scraped/mitsubishi-drives_vfds-scraped-products'
+import { mitsubishiBatteries_powerScrapedProducts } from '@/lib/products/scraped/mitsubishi-batteries_power-scraped-products'
+import { mitsubishiCables_accessoriesScrapedProducts } from '@/lib/products/scraped/mitsubishi-cables_accessories-scraped-products'
+import { mitsubishiCircuit_breakersScrapedProducts } from '@/lib/products/scraped/mitsubishi-circuit_breakers-scraped-products'
+import { mitsubishiServo_motorsScrapedProducts } from '@/lib/products/scraped/mitsubishi-servo_motors-scraped-products'
+import { mitsubishiPower_distributionScrapedProducts } from '@/lib/products/scraped/mitsubishi-power_distribution-scraped-products'
+import { mitsubishiOther_productsScrapedProducts } from '@/lib/products/scraped/mitsubishi-other_products-scraped-products'
+
+// Combined Mitsubishi products - detailed products where available, series for others
+// Filter out series products for categories that have detailed products
+const detailedCategories = new Set([
+  'variable frequency drives',
+  'batteries & power',
+  'cables & accessories', 
+  'circuit breakers',
+  'servo motors',
+  'power distribution',
+  'other products'
+])
+
+// Keep series products only for categories without detailed products (PLCs, HMI, Motion Controllers, Contactors)
+const seriesProductsForMissingCategories = mitsubishiScrapedProducts.filter(
+  p => !detailedCategories.has(p.category?.toLowerCase() || '')
+)
+
+const allMitsubishiProducts: Product[] = [
+  ...seriesProductsForMissingCategories, // Series for PLCs, HMI, Motion Controllers, Contactors
+  ...mitsubishiDrives_vfdsScrapedProducts, // 627 VFD products with unique IDs
+  ...mitsubishiBatteries_powerScrapedProducts,
+  ...mitsubishiCables_accessoriesScrapedProducts,
+  ...mitsubishiCircuit_breakersScrapedProducts,
+  ...mitsubishiServo_motorsScrapedProducts,
+  ...mitsubishiPower_distributionScrapedProducts,
+  ...mitsubishiOther_productsScrapedProducts,
+]
 
 interface ProductsPageNewProps {
   selectedBrand?: string
@@ -43,7 +80,7 @@ export default function ProductsPageNew({
 
   useEffect(() => {
     const filterProducts = () => {
-      // Use scraped products for TMEIC, Katko, LS Industrial, and Noark brands, otherwise use cleanProductsWithMitsubishi
+      // Use brand-specific product sources for known brands
       let products: Product[] = selectedBrand?.toLowerCase() === 'tmeic'
         ? tmeicProductsScraped
         : selectedBrand?.toLowerCase() === 'katko'
@@ -56,15 +93,19 @@ export default function ProductsPageNew({
                 ? klemsanScrapedProducts
                 : selectedBrand?.toLowerCase() === 'elsteel'
                   ? elsteelScrapedProducts
-                  : cleanProductsWithMitsubishi
+                  : selectedBrand?.toLowerCase() === 'mitsubishi'
+                    ? allMitsubishiProducts // Use combined Mitsubishi products
+                    : cleanProductsWithMitsubishi
 
+      // For brands not explicitly handled above, filter by brand name
       if (selectedBrand && 
           selectedBrand.toLowerCase() !== 'tmeic' && 
           selectedBrand.toLowerCase() !== 'katko' &&
           selectedBrand.toLowerCase() !== 'ls industrial' &&
           selectedBrand.toLowerCase() !== 'noark' &&
           selectedBrand.toLowerCase() !== 'klemsan' &&
-          selectedBrand.toLowerCase() !== 'elsteel') {
+          selectedBrand.toLowerCase() !== 'elsteel' &&
+          selectedBrand.toLowerCase() !== 'mitsubishi') {
         products = products.filter(product =>
           product.brand?.toLowerCase() === selectedBrand.toLowerCase()
         )
@@ -74,13 +115,14 @@ export default function ProductsPageNew({
         // Normalize category name for flexible matching
         const normalizedSelectedCategory = selectedCategory.toLowerCase()
 
-        // For TMEIC, Katko, LS Industrial, Noark, and Klemsan brands, use exact category matching
+        // For explicitly handled brands, use exact category matching
         if (selectedBrand?.toLowerCase() === 'tmeic' || 
             selectedBrand?.toLowerCase() === 'katko' ||
             selectedBrand?.toLowerCase() === 'ls industrial' ||
             selectedBrand?.toLowerCase() === 'noark' ||
             selectedBrand?.toLowerCase() === 'klemsan' ||
-            selectedBrand?.toLowerCase() === 'elsteel') {
+            selectedBrand?.toLowerCase() === 'elsteel' ||
+            selectedBrand?.toLowerCase() === 'mitsubishi') {
           products = products.filter(product => {
             const productCategory = product.category?.toLowerCase() || ''
             const productSubcategory = (product as any).subcategory?.toLowerCase() || ''

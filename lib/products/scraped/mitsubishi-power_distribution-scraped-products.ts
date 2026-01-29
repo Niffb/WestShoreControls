@@ -16,7 +16,7 @@ export const mitsubishiPower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 20,
     "images": [
-      "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],

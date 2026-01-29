@@ -29,6 +29,42 @@ import { noarkScrapedProducts, noarkCategoryImages } from '@/lib/products/noark-
 import { klemsanScrapedProducts, klemsanCategoryImages } from '@/lib/products/klemsan-products-scraped'
 import { elsteelScrapedProducts, elsteelCategoryImages } from '@/lib/products/elsteel-products-scraped'
 import { getImageUrl } from '@/lib/config/image-config'
+// Import detailed Mitsubishi products with unique IDs
+import { mitsubishiDrives_vfdsScrapedProducts } from '@/lib/products/scraped/mitsubishi-drives_vfds-scraped-products'
+import { mitsubishiBatteries_powerScrapedProducts } from '@/lib/products/scraped/mitsubishi-batteries_power-scraped-products'
+import { mitsubishiCables_accessoriesScrapedProducts } from '@/lib/products/scraped/mitsubishi-cables_accessories-scraped-products'
+import { mitsubishiCircuit_breakersScrapedProducts } from '@/lib/products/scraped/mitsubishi-circuit_breakers-scraped-products'
+import { mitsubishiServo_motorsScrapedProducts } from '@/lib/products/scraped/mitsubishi-servo_motors-scraped-products'
+import { mitsubishiPower_distributionScrapedProducts } from '@/lib/products/scraped/mitsubishi-power_distribution-scraped-products'
+import { mitsubishiOther_productsScrapedProducts } from '@/lib/products/scraped/mitsubishi-other_products-scraped-products'
+import { Product } from '@/lib/types/shared-types'
+
+// Combined Mitsubishi products - detailed products where available, series for others
+const detailedMitsubishiCategories = new Set([
+  'variable frequency drives',
+  'batteries & power',
+  'cables & accessories', 
+  'circuit breakers',
+  'servo motors',
+  'power distribution',
+  'other products'
+])
+
+// Keep series products only for categories without detailed products (PLCs, HMI, Motion Controllers, Contactors)
+const mitsubishiSeriesForMissingCategories = mitsubishiScrapedProducts.filter(
+  p => !detailedMitsubishiCategories.has(p.category?.toLowerCase() || '')
+)
+
+const allMitsubishiDetailedProducts: Product[] = [
+  ...mitsubishiSeriesForMissingCategories, // Series for PLCs, HMI, Motion Controllers, Contactors
+  ...mitsubishiDrives_vfdsScrapedProducts, // 627 VFD products
+  ...mitsubishiBatteries_powerScrapedProducts, // 5 products
+  ...mitsubishiCables_accessoriesScrapedProducts, // 10 products
+  ...mitsubishiCircuit_breakersScrapedProducts, // 341 products
+  ...mitsubishiServo_motorsScrapedProducts, // 543 products
+  ...mitsubishiPower_distributionScrapedProducts, // 1 product
+  ...mitsubishiOther_productsScrapedProducts, // 63 products
+]
 
 // Use scraped products for TMEIC (has external image URLs)
 const tmeicProducts = tmeicProductsScraped
@@ -316,8 +352,13 @@ const getCategoryImage = (category: string, brand?: string) => {
     if (mitsubishiCategoryImages[category]) {
       return mitsubishiCategoryImages[category]
     }
-    // Fallback to first product image in that category from scraped data
-    const product = mitsubishiScrapedProducts.find(p => p.category === category)
+    // Fallback to first product image in that category from detailed products
+    const product = allMitsubishiDetailedProducts.find(p => 
+      p.category === category && 
+      p.images && 
+      p.images.length > 0 &&
+      !p.images[0].includes('westlogo')
+    )
     if (product && product.images && product.images.length > 0) {
       return product.images[0]
     }
@@ -524,7 +565,8 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
   // Get product count for each category with enhanced Mitsubishi, TMEIC, Noark, and Klemsan support
   const getCategoryProductCount = (category: string) => {
     if (selectedBrand === 'Mitsubishi') {
-      return mitsubishiScrapedProducts.filter(product => product.category === category).length
+      // Use the combined detailed products for accurate counts
+      return allMitsubishiDetailedProducts.filter(product => product.category === category).length
     }
     if (selectedBrand === 'TMEIC') {
       return tmeicProducts.filter(product => product.category === category).length
@@ -787,7 +829,7 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
               <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
                 <span className="font-medium text-gray-700">
                   {selectedBrand === 'Mitsubishi'
-                    ? mitsubishiProducts.length
+                    ? allMitsubishiDetailedProducts.length
                     : selectedBrand === 'TMEIC'
                       ? tmeicProducts.length
                       : selectedBrand === 'Katko'

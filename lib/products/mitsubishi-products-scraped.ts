@@ -11,9 +11,9 @@ import { Product } from '@/lib/types/shared-types'
 // Category images mapping for the brand page
 export const mitsubishiCategoryImages: { [key: string]: string } = {
     'Variable Frequency Drives': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx',
-    'Programmable Logic Controllers': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc/img/sq.ashx',
-    'Motion Controllers': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/assets/img/large-fa-selection-tool-banner.ashx',
-    'Human Machine Interface': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/hmi/got/img/spotlight_selection_tool_en.ashx',
+    'Programmable Logic Controllers': 'https://www.mitsubishielectric.com/fa/products/cnt/plcr/items/img/thumbnail-cpu.jpg',
+    'Motion Controllers': 'https://www.mitsubishielectric.com/fa/products/cnt/motion/items/img/thumbnail-q170.jpg',
+    'Human Machine Interface': 'https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/img/mainvisual-got.jpg',
     'Servo Motors': 'https://www.mitsubishielectric.com/fa/products/drv/servo/items/assets/img/mr_j5_top.png',
     'Circuit Breakers': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/lvd/lvcb/img/sq.ashx',
     'Contactors': 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/lvd/lvsw/img/1_spotlight_e.ashx'
@@ -162,7 +162,7 @@ export const mitsubishiScrapedProducts: Product[] = [
         "rating": 4.8,
         "reviews": 0,
         "images": [
-            "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc/img/sq.ashx?h=372&w=660&la=en&hash=C7D8E9F0A1B2C3D4E5F6A7B8C9D0E1F2"
+            "https://www.mitsubishielectric.com/fa/products/cnt/plcr/items/img/thumbnail-cpu.jpg"
         ],
         "inStock": true,
         "specs": [],
@@ -185,7 +185,7 @@ export const mitsubishiScrapedProducts: Product[] = [
         "rating": 4.8,
         "reviews": 0,
         "images": [
-            "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc/img/iq-f.ashx?h=372&w=660&la=en&hash=D8E9F0A1B2C3D4E5F6A7B8C9D0E1F2A3"
+            "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/cpu/img/thumbnail-fx5u.jpg"
         ],
         "inStock": true,
         "specs": [],
@@ -207,7 +207,7 @@ export const mitsubishiScrapedProducts: Product[] = [
         "rating": 4.8,
         "reviews": 0,
         "images": [
-            "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc/img/q-series.ashx?h=372&w=660&la=en&hash=E9F0A1B2C3D4E5F6A7B8C9D0E1F2A3B4"
+            "https://www.mitsubishielectric.com/fa/products/cnt/plcq/items/img/thumbnail-cpu.jpg"
         ],
         "inStock": true,
         "specs": [],
@@ -229,7 +229,7 @@ export const mitsubishiScrapedProducts: Product[] = [
         "rating": 4.8,
         "reviews": 0,
         "images": [
-            "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc/img/l-series.ashx?h=372&w=660&la=en&hash=F0A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5"
+            "https://www.mitsubishielectric.com/fa/products/cnt/plcl/items/img/thumbnail-cpu.jpg"
         ],
         "inStock": true,
         "specs": [],
@@ -251,7 +251,7 @@ export const mitsubishiScrapedProducts: Product[] = [
         "rating": 4.8,
         "reviews": 0,
         "images": [
-            "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/cnt/plc/img/fx-series.ashx?h=372&w=660&la=en&hash=A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5D6"
+            "https://www.mitsubishielectric.com/fa/products/cnt/plcfx/items/img/thumbnail-fx3.jpg"
         ],
         "inStock": true,
         "specs": [],

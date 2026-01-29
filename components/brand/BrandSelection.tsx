@@ -6,7 +6,50 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { ArrowRightIcon } from '@heroicons/react/24/outline'
 
-// Brand data with logos and available categories
+// Import product data for accurate counts
+import { tmeicProducts } from '@/lib/products/tmeic-products-scraped'
+import { katkoProducts } from '@/lib/products/katko-products-scraped'
+import { lsIndustrialScraped } from '@/lib/products/ls-industrial-scraped'
+import { noarkScrapedProducts } from '@/lib/products/noark-products-scraped'
+import { klemsanScrapedProducts } from '@/lib/products/klemsan-products-scraped'
+import { elsteelScrapedProducts } from '@/lib/products/elsteel-products-scraped'
+import { ericoScrapedProducts } from '@/lib/products/erico-products-scraped'
+// Import detailed Mitsubishi products
+import { mitsubishiScrapedProducts } from '@/lib/products/mitsubishi-products-scraped'
+import { mitsubishiDrives_vfdsScrapedProducts } from '@/lib/products/scraped/mitsubishi-drives_vfds-scraped-products'
+import { mitsubishiBatteries_powerScrapedProducts } from '@/lib/products/scraped/mitsubishi-batteries_power-scraped-products'
+import { mitsubishiCables_accessoriesScrapedProducts } from '@/lib/products/scraped/mitsubishi-cables_accessories-scraped-products'
+import { mitsubishiCircuit_breakersScrapedProducts } from '@/lib/products/scraped/mitsubishi-circuit_breakers-scraped-products'
+import { mitsubishiServo_motorsScrapedProducts } from '@/lib/products/scraped/mitsubishi-servo_motors-scraped-products'
+import { mitsubishiPower_distributionScrapedProducts } from '@/lib/products/scraped/mitsubishi-power_distribution-scraped-products'
+import { mitsubishiOther_productsScrapedProducts } from '@/lib/products/scraped/mitsubishi-other_products-scraped-products'
+
+// Calculate Mitsubishi total products
+const detailedMitsubishiCategories = new Set([
+  'variable frequency drives',
+  'batteries & power',
+  'cables & accessories', 
+  'circuit breakers',
+  'servo motors',
+  'power distribution',
+  'other products'
+])
+
+const mitsubishiSeriesForMissingCategories = mitsubishiScrapedProducts.filter(
+  p => !detailedMitsubishiCategories.has(p.category?.toLowerCase() || '')
+)
+
+const totalMitsubishiProducts = 
+  mitsubishiSeriesForMissingCategories.length +
+  mitsubishiDrives_vfdsScrapedProducts.length +
+  mitsubishiBatteries_powerScrapedProducts.length +
+  mitsubishiCables_accessoriesScrapedProducts.length +
+  mitsubishiCircuit_breakersScrapedProducts.length +
+  mitsubishiServo_motorsScrapedProducts.length +
+  mitsubishiPower_distributionScrapedProducts.length +
+  mitsubishiOther_productsScrapedProducts.length
+
+// Brand data with logos and available categories - using dynamic product counts
 const brands = [
   {
     name: 'Mitsubishi',
@@ -14,7 +57,7 @@ const brands = [
     description: 'Complete Factory Automation & Electric Controls Product Line',
     website: 'https://www.mitsubishielectric.com',
     categories: ['Controllers', 'Variable Frequency Drives', 'Motors', 'Circuit Breakers', 'Contactors', 'Overload Relays'],
-    productCount: 16
+    productCount: totalMitsubishiProducts
   },
   {
     name: 'TMEIC',
@@ -22,7 +65,7 @@ const brands = [
     description: 'Full Range of High Power Drives & Industrial Systems',
     website: 'https://www.tmeic.com',
     categories: ['Variable Frequency Drives', 'Motors', 'DC Drives'],
-    productCount: 51
+    productCount: tmeicProducts.length
   },
   {
     name: 'LS Industrial',
@@ -30,7 +73,7 @@ const brands = [
     description: 'Complete Variable Frequency Drives & Motor Controls Product Line',
     website: 'https://www.lsis.com',
     categories: ['Variable Frequency Drives', 'Contactors', 'Controllers', 'Motors'],
-    productCount: 42
+    productCount: lsIndustrialScraped.length
   },
   {
     name: 'ERICO',
@@ -38,7 +81,7 @@ const brands = [
     description: 'Full Line of Electrical Connection & Protection Products',
     website: 'https://www.erico.com',
     categories: ['Flexible Conductors', 'Busbars', 'Cable Management'],
-    productCount: 24
+    productCount: ericoScrapedProducts.length
   },
   {
     name: 'Katko',
@@ -46,7 +89,7 @@ const brands = [
     description: 'Complete Range of Enclosed Isolators & Safety Switches',
     website: 'https://www.katko.fi',
     categories: ['Enclosed Isolators'],
-    productCount: 3080
+    productCount: katkoProducts.length
   },
   {
     name: 'Klemsan',
@@ -54,7 +97,7 @@ const brands = [
     description: 'Full Product Line of Terminal Blocks & Connection Solutions',
     website: 'https://www.klemsan.com',
     categories: ['Screw Terminals', 'Quick Release', 'Spring Terminals', 'Plug Terminals', 'Power Sources', 'Automation', 'Junction Boxes', 'Cable Channels'],
-    productCount: 265
+    productCount: klemsanScrapedProducts.length
   },
   {
     name: 'Noark',
@@ -62,7 +105,7 @@ const brands = [
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
     website: 'https://www.noark-electric.com',
     categories: ['Circuit Breakers', 'Contactors', 'Overload Relays', 'Manual Motor Starters', 'Push Buttons', 'LED Indicators', 'Power Distribution', 'Other Products'],
-    productCount: 4307
+    productCount: noarkScrapedProducts.length
   },
   {
     name: 'Elsteel',
@@ -70,7 +113,7 @@ const brands = [
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     website: 'https://www.elsteel.com',
     categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power'],
-    productCount: 18
+    productCount: elsteelScrapedProducts.length
   }
 ]
 
