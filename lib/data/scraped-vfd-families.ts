@@ -23,7 +23,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.770366623344186,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -51,7 +51,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.668598042276112,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -79,7 +79,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.875847341712359,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -107,7 +107,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.690857784328323,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -135,7 +135,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.691856793249453,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -163,7 +163,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.711694499957183,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -191,7 +191,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.538792451262186,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -219,7 +219,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.646848417750412,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -247,7 +247,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.658415427796379,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -275,7 +275,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.574915354225508,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -303,7 +303,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.575702803577112,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -331,7 +331,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.648615628129135,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -359,7 +359,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.952857828828139,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -387,7 +387,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.79835745968625,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -415,7 +415,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.583815013061147,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -443,7 +443,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.800967293487774,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -471,7 +471,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.768263729153053,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -499,7 +499,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.635577886038247,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -527,7 +527,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.951441845778356,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -555,7 +555,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6002891844313005,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -583,7 +583,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.585328896345948,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -611,7 +611,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.593698871347341,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -639,7 +639,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.710535759665305,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -667,7 +667,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.621808928419654,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -695,7 +695,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.50099529053104,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -723,7 +723,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.708201851962803,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -751,7 +751,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.951769767022476,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -779,7 +779,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.581846046341971,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -807,7 +807,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6067333843156995,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -835,7 +835,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5969382537975125,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -863,7 +863,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.584914329807408,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -891,7 +891,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.62864694536723,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -919,7 +919,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.649405959534322,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -947,7 +947,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.61460815325267,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -975,7 +975,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.901010972127404,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1003,7 +1003,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9056918116972525,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1031,7 +1031,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.982668290631764,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1059,7 +1059,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.839819116978159,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1087,7 +1087,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.91574575027288,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1115,7 +1115,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.847490692045669,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1143,7 +1143,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.859701850929229,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1171,7 +1171,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.903079704548201,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1199,7 +1199,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.847915258520949,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1226,7 +1226,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.82936821949744,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1253,7 +1253,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.867218009510871,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1280,7 +1280,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.570881576154413,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1307,7 +1307,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.748936980408,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1335,7 +1335,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.879810768437733,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1363,7 +1363,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.995417040154353,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1391,7 +1391,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.734029642242727,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1419,7 +1419,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.870280846577009,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1447,7 +1447,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.847034660767262,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1475,7 +1475,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.942914839138041,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1503,7 +1503,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.72384300719388,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1531,7 +1531,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.705447054063064,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1559,7 +1559,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.707181569167159,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1587,7 +1587,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.706199869805603,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1615,7 +1615,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.961293037269669,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1643,7 +1643,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.717986789613512,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1671,7 +1671,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.726275465458507,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1699,7 +1699,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.568687344065167,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1727,7 +1727,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.859326938794252,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1755,7 +1755,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9223169634969315,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1783,7 +1783,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.672397082163475,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1811,7 +1811,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.893263247464773,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1839,7 +1839,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.549002818900553,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1867,7 +1867,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.652756191063419,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1895,7 +1895,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.681954756393331,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1923,7 +1923,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.902272778151087,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1951,7 +1951,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.910479111703017,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -1979,7 +1979,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.519281522331131,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2007,7 +2007,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.764038722026821,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2035,7 +2035,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.771346913349269,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2063,7 +2063,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.818270089110308,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2091,7 +2091,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.938330330084901,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2119,7 +2119,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.666528001512335,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2147,7 +2147,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.918069215419685,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2175,7 +2175,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.98300305491274,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2203,7 +2203,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.92502239166193,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2231,7 +2231,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.577508008589912,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2259,7 +2259,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.653038979186565,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2287,7 +2287,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.547704628405816,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2315,7 +2315,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.887481843744102,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2343,7 +2343,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.862983700128504,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2371,7 +2371,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.689625313900075,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2399,7 +2399,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.838389279144458,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2427,7 +2427,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.994155678690096,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2455,7 +2455,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8134642982925255,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2483,7 +2483,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.832306246749856,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2511,7 +2511,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.584480796070912,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2539,7 +2539,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.821273842558622,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2566,7 +2566,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.788105910535436,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2593,7 +2593,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.800738696252498,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2620,7 +2620,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.641903150331424,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2647,7 +2647,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.885271824214435,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2675,7 +2675,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.964079369391296,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2703,7 +2703,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.598374814204156,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2731,7 +2731,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.846210680388171,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2759,7 +2759,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.896221597667385,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2787,7 +2787,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.82349692695235,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2815,7 +2815,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.906288712587943,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2843,7 +2843,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.756503744224361,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2871,7 +2871,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.785869761428993,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2899,7 +2899,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.765396789361865,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2927,7 +2927,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.937132358144444,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2955,7 +2955,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.671375147480565,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -2983,7 +2983,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7538966538176854,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3011,7 +3011,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.948450183983409,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3039,7 +3039,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.590978490597007,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3067,7 +3067,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.884494192480408,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3095,7 +3095,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.577544089430483,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3123,7 +3123,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.562244715865345,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3151,7 +3151,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.861540620319294,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3179,7 +3179,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.692915374890099,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3207,7 +3207,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.876848280226908,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3235,7 +3235,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.984016466197858,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3263,7 +3263,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.75846053424334,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3291,7 +3291,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.571876847238482,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3319,7 +3319,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.918217613032619,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3347,7 +3347,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.518135501215263,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3375,7 +3375,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.862294518127133,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3403,7 +3403,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.635155507658446,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3431,7 +3431,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.783600507248543,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3459,7 +3459,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.547774607146231,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3487,7 +3487,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5500040820933565,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3515,7 +3515,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.534395521452293,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3574,7 +3574,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.821030236282954,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3601,7 +3601,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.820075307346483,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3628,7 +3628,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.777536130917947,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3655,7 +3655,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.570506640405972,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3682,7 +3682,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.911242836139643,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3709,7 +3709,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.923839842467871,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3736,7 +3736,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.948790637713028,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3763,7 +3763,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.726443223179087,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3790,7 +3790,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.554133823250882,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3818,7 +3818,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.681490249844081,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3846,7 +3846,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.662695153579301,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3874,7 +3874,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5071046784326585,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3902,7 +3902,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9764112053492,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3930,7 +3930,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6964848807477795,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3958,7 +3958,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.875250465705681,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -3986,7 +3986,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.77225671631315,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4014,7 +4014,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.973202980113767,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4042,7 +4042,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.734905577848933,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4070,7 +4070,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.89259978197495,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4097,7 +4097,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.613819640590939,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4124,7 +4124,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.990003967577936,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4152,7 +4152,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.611051939674451,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4180,7 +4180,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.989399527821556,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4208,7 +4208,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.775320357113529,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4236,7 +4236,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.809913847300258,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4264,7 +4264,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7764230297252634,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4292,7 +4292,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.703625788653645,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4320,7 +4320,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8192853944749485,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4348,7 +4348,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.830878644408025,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4376,7 +4376,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.50550688474346,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4404,7 +4404,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.669640766858437,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4432,7 +4432,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.908282004220462,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4460,7 +4460,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.531921342355977,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4488,7 +4488,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.584111845446269,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4516,7 +4516,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.542542291718169,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4544,7 +4544,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.531125349389034,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4572,7 +4572,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.98635471768202,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4600,7 +4600,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.608713202246706,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4628,7 +4628,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.711645784230398,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4656,7 +4656,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.513489975889206,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4684,7 +4684,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.671499018138421,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4712,7 +4712,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.919793629442028,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4740,7 +4740,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.539540304496415,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4768,7 +4768,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.877418708053483,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4796,7 +4796,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.966228840511818,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4824,7 +4824,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.726536914780544,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4852,7 +4852,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.915821793112288,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4879,7 +4879,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.712757010486898,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4906,7 +4906,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.957082205333641,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4933,7 +4933,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.601461512488216,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4960,7 +4960,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.969409303673677,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -4987,7 +4987,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.753979042615745,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5014,7 +5014,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.586782164984337,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5041,7 +5041,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.902129238645018,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5068,7 +5068,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.741829733359555,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5096,7 +5096,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6688998230229,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5124,7 +5124,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.893461840838505,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5152,7 +5152,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.606691610086336,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5180,7 +5180,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.783884609058973,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5208,7 +5208,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.672854127534342,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5236,7 +5236,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.882406382278415,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5264,7 +5264,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.818345150321433,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5291,7 +5291,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.541908405669188,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5318,7 +5318,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.644534865582736,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5346,7 +5346,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.520493623616645,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5374,7 +5374,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.545703264519744,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5402,7 +5402,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.696944759786595,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5430,7 +5430,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.842141638623574,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5458,7 +5458,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5947185298133775,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5486,7 +5486,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5947259517369945,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5514,7 +5514,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.650376817094217,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5542,7 +5542,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.757814901583183,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5570,7 +5570,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.769565491276484,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5598,7 +5598,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.946922244682596,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5626,7 +5626,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.754776047587103,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5654,7 +5654,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.532664491633224,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5682,7 +5682,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.921566365235394,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5710,7 +5710,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.643022150462269,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5738,7 +5738,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.624870905705111,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5766,7 +5766,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.629797006208077,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5794,7 +5794,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.656872235013822,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5822,7 +5822,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6906301906571715,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5850,7 +5850,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.629054917883885,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5878,7 +5878,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.606383565641511,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5906,7 +5906,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.757254378271308,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5933,7 +5933,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.820653376998499,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5961,7 +5961,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.525180323050009,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -5989,7 +5989,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.804906132122002,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6017,7 +6017,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.97982148323489,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6045,7 +6045,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.844670098698467,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6073,7 +6073,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.839002581405379,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6101,7 +6101,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.921174833725979,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6129,7 +6129,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.816003824550694,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6157,7 +6157,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.657263354325245,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6185,7 +6185,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8562338053885785,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6213,7 +6213,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.857574297340261,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6241,7 +6241,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7131334586910505,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6269,7 +6269,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.778742442300771,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6297,7 +6297,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.821754786837301,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6325,7 +6325,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.798182398322487,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6353,7 +6353,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.733156612176363,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6381,7 +6381,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.609463310358582,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6408,7 +6408,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9769421929781785,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6436,7 +6436,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.915734260239089,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6464,7 +6464,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.93444360092179,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6492,7 +6492,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.631118132706109,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6520,7 +6520,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.614386620626111,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6548,7 +6548,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.63959009156073,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6576,7 +6576,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.92549640071432,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6604,7 +6604,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.577981942620056,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6632,7 +6632,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.694054326324746,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6660,7 +6660,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.995972594021162,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6688,7 +6688,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.646125624088458,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6716,7 +6716,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.576281145770123,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6744,7 +6744,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.950006703239952,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6772,7 +6772,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.595565148862815,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6800,7 +6800,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.570405279197445,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6828,7 +6828,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.827501386836986,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-f800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -6885,7 +6885,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.706786953558782,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -6914,7 +6914,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.731726122705181,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -6943,7 +6943,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.803504845420712,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -6972,7 +6972,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.735947952340447,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7030,7 +7030,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.943966157569366,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7053,7 +7053,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.78783179893888,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7076,7 +7076,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9493743066728,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7099,7 +7099,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.628485603766739,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7122,7 +7122,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.58969730588892,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7145,7 +7145,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.707433352114147,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7197,7 +7197,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.620877590881647,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7221,7 +7221,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8443579638254795,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7245,7 +7245,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.762769890661952,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7269,7 +7269,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6247265279804175,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7293,7 +7293,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.77838301147152,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7317,7 +7317,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.784050603762574,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7341,7 +7341,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5383918094953115,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7365,7 +7365,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8694706872981595,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7389,7 +7389,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.972650118053593,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7413,7 +7413,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.835759467730445,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7438,7 +7438,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.658292481372631,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7463,7 +7463,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.763778681616358,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7488,7 +7488,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9060404627133565,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7513,7 +7513,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.899936536809201,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7538,7 +7538,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.52623437838328,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7563,7 +7563,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.836087755715864,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7588,7 +7588,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.862212327929057,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7613,7 +7613,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.773336116865862,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7638,7 +7638,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.793221350640116,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7663,7 +7663,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.965173977011716,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7688,7 +7688,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.658881484773078,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7713,7 +7713,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.51605776608329,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7738,7 +7738,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.926094163232008,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7763,7 +7763,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.523008107626739,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7788,7 +7788,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6891499209469645,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7813,7 +7813,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.551998717254039,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7838,7 +7838,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.995043362803647,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7863,7 +7863,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.998259466234613,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7888,7 +7888,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.556964698680995,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7913,7 +7913,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.566146765515576,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7939,7 +7939,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.960768033059767,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7965,7 +7965,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5130958167022355,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -7991,7 +7991,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.651348073519468,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8017,7 +8017,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.930843690130878,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8043,7 +8043,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.551651641365385,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8069,7 +8069,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.770142659582858,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8095,7 +8095,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.578732116520427,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8121,7 +8121,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.532123203257969,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8147,7 +8147,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.573875773708952,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8173,7 +8173,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.740137465065326,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8199,7 +8199,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.700697947850848,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8223,7 +8223,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.916407766387096,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8247,7 +8247,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.833949136611307,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8271,7 +8271,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.989223815347912,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8295,7 +8295,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.862485455348145,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8319,7 +8319,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.648455930514924,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8343,7 +8343,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.635621674954544,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8367,7 +8367,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.927436234798861,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8391,7 +8391,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.528745276636805,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8415,7 +8415,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8373322343437355,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8439,7 +8439,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.696376250132152,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8463,7 +8463,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.671690723837715,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8487,7 +8487,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.567419599436271,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8511,7 +8511,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.856326706468998,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8535,7 +8535,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.868911357507421,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8559,7 +8559,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.872519571595855,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8583,7 +8583,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.663230234189128,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8607,7 +8607,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.873965173326786,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8631,7 +8631,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9784030229131515,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8655,7 +8655,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8348679048963294,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8679,7 +8679,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.737064548284466,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8704,7 +8704,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.847460522335204,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8728,7 +8728,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8479605689230585,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8753,7 +8753,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.912687662504528,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8778,7 +8778,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.641743749313086,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8803,7 +8803,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.534547956253075,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8828,7 +8828,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.629079682884706,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8853,7 +8853,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.854963926177867,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8878,7 +8878,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.559893095449609,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8903,7 +8903,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.633593734555126,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8928,7 +8928,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5737063950478145,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8953,7 +8953,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7829474229197695,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -8978,7 +8978,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.552255483213484,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9003,7 +9003,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.621497893548933,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9028,7 +9028,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.677624886931274,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9053,7 +9053,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.787025013885458,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9078,7 +9078,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.963665533387334,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9103,7 +9103,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9304765123438745,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9127,7 +9127,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.91558567991296,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9151,7 +9151,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.797618813786126,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9175,7 +9175,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.832082244887169,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9200,7 +9200,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.538032036438535,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9225,7 +9225,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.539982207846538,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9249,7 +9249,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.825716419902383,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9273,7 +9273,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.58457482471212,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9297,7 +9297,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.631491945950886,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9321,7 +9321,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.808966591145003,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9345,7 +9345,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.782077186538427,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9369,7 +9369,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.986094098915805,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9393,7 +9393,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.795296291334788,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9417,7 +9417,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5036803224244935,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9442,7 +9442,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.830649978999446,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9467,7 +9467,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.809643297280418,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9492,7 +9492,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.913682568094815,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9517,7 +9517,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9722010535899015,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9542,7 +9542,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.545384762893803,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9567,7 +9567,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.512050458999978,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9592,7 +9592,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.679288759400416,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9617,7 +9617,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.703496301594301,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9642,7 +9642,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.667192705091808,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9667,7 +9667,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.917074940722621,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9692,7 +9692,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.67533443014209,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9717,7 +9717,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9204290448706445,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9742,7 +9742,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.566860629252362,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9767,7 +9767,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.815664388172826,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9792,7 +9792,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.891834536655341,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9817,7 +9817,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6188614568123185,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9842,7 +9842,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.833854826858483,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9866,7 +9866,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.971964575988225,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9890,7 +9890,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.938440391468291,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9914,7 +9914,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.70631661358243,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9938,7 +9938,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.634605005928331,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9962,7 +9962,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.956485987812069,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -9986,7 +9986,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.810226874228679,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10010,7 +10010,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.908276758627588,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10034,7 +10034,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.885904389362608,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10058,7 +10058,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.775998779822064,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10082,7 +10082,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.841437865525171,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10135,7 +10135,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6419297481478,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10161,7 +10161,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.915137752544111,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10187,7 +10187,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7613601496652835,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10213,7 +10213,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.93434830555533,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10239,7 +10239,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.824915626490381,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10265,7 +10265,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5679591439723435,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10291,7 +10291,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.751107322008514,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10317,7 +10317,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.955558607780322,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10343,7 +10343,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.633352017093146,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10369,7 +10369,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.780803829389045,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10395,7 +10395,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.711702750736528,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10420,7 +10420,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.541177524358933,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10445,7 +10445,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.951710218055249,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10470,7 +10470,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.510068705435164,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10495,7 +10495,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.745251827355635,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10520,7 +10520,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.946738163190457,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10545,7 +10545,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.753402906365789,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10570,7 +10570,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.518480963195131,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10595,7 +10595,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7103747520765324,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10620,7 +10620,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.729114354267188,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10645,7 +10645,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.825156378376959,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10670,7 +10670,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.985368062201825,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10695,7 +10695,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.60225945422138,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10720,7 +10720,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8473496790918205,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10745,7 +10745,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.79945189212991,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10771,7 +10771,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7657017432837705,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10797,7 +10797,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6636235904079495,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10823,7 +10823,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.834799017819205,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10849,7 +10849,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.947681292525529,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10875,7 +10875,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.833293208493273,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10901,7 +10901,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7352780326643025,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10927,7 +10927,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6974712395132485,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10953,7 +10953,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5652044539386205,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -10979,7 +10979,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.663391128443044,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11005,7 +11005,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.686843571554416,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11030,7 +11030,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.540453590100041,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11055,7 +11055,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.937479934875222,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11080,7 +11080,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.770441970585638,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11105,7 +11105,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.59415747689577,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11131,7 +11131,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5852545161282094,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11155,7 +11155,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.786567630239807,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11179,7 +11179,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.618348010454171,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11203,7 +11203,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7887086647977135,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11227,7 +11227,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.795836355944869,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11251,7 +11251,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.645824614898984,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11275,7 +11275,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.699384105543715,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11299,7 +11299,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.842795140604075,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11323,7 +11323,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.827946904455855,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11347,7 +11347,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.995468131044499,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11371,7 +11371,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.565988240781893,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11396,7 +11396,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.779083976916686,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11421,7 +11421,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.763831887908179,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11446,7 +11446,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.912763399366513,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11471,7 +11471,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.689170093600931,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11496,7 +11496,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5782845328630986,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11521,7 +11521,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.750730239218105,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11546,7 +11546,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.759171137212808,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11571,7 +11571,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.752183269164154,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11596,7 +11596,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.798981388426267,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -11650,7 +11650,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.884862252256303,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11673,7 +11673,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.822062349079845,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11698,7 +11698,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.675862913163028,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11723,7 +11723,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.913261397702309,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11746,7 +11746,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.78247489073799,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11771,7 +11771,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7995200903439015,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11796,7 +11796,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8014764979836135,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11821,7 +11821,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.634298895703617,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11846,7 +11846,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.674004873297397,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11869,7 +11869,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.641694367383749,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11894,7 +11894,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.685904775280975,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11919,7 +11919,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.919623922919442,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11942,7 +11942,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.873205433202737,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11967,7 +11967,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.736715210799911,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -11992,7 +11992,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.841432430659012,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12015,7 +12015,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.99939662763898,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12040,7 +12040,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.745317286528603,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12065,7 +12065,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.979891127978946,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12090,7 +12090,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.584591013257627,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12113,7 +12113,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.767430484721849,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12138,7 +12138,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.628336878091084,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12161,7 +12161,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.65819274791219,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12186,7 +12186,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.582922892499777,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12211,7 +12211,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.685377441315306,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12236,7 +12236,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.882751438571734,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12259,7 +12259,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.652255593499426,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12284,7 +12284,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.645181983898201,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12309,7 +12309,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.771296581675325,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12332,7 +12332,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5747613047037055,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12357,7 +12357,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.631465782235089,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12382,7 +12382,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.882401756203836,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12407,7 +12407,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.642921038555949,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12432,7 +12432,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.975680280252593,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12455,7 +12455,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.704414317686545,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12480,7 +12480,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.584800020679349,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12505,7 +12505,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.756067768104078,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12528,7 +12528,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5492628390784615,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12553,7 +12553,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.693293397007856,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12576,7 +12576,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.878284957024487,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12601,7 +12601,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.949993126598573,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12624,7 +12624,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.816897091904263,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12649,7 +12649,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.748797729844197,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12674,7 +12674,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.861797071814549,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12699,7 +12699,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.646451181036045,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12724,7 +12724,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.751285796637531,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12749,7 +12749,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.547537910053446,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12772,7 +12772,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8432952166678405,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12797,7 +12797,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.78930391633898,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12822,7 +12822,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8081703526902855,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12845,7 +12845,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.550383265475995,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12870,7 +12870,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.504446967396311,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12895,7 +12895,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.816155104097987,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12918,7 +12918,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.553156929242499,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12943,7 +12943,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.610506257476941,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12968,7 +12968,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.90371135685401,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -12991,7 +12991,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.649015354148705,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13016,7 +13016,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.891997243312122,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13041,7 +13041,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.516970379674026,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13066,7 +13066,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.51277982530218,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13091,7 +13091,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.579429364332977,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13114,7 +13114,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.91122058135387,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13139,7 +13139,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.849886741943099,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13164,7 +13164,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.871900539741082,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13187,7 +13187,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8707242391273935,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13212,7 +13212,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.51654889046248,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13237,7 +13237,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.680952125741942,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13260,7 +13260,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.991505911923832,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13285,7 +13285,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.509971477386818,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13310,7 +13310,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.839231435996169,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13335,7 +13335,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.562911304057869,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13358,7 +13358,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.62050051009395,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13383,7 +13383,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.739277008204525,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13406,7 +13406,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.949058625028455,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13431,7 +13431,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.884137277924978,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13454,7 +13454,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.523133859247934,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13479,7 +13479,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.901621772894455,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13504,7 +13504,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.573139176219504,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13529,7 +13529,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.94724889122594,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13554,7 +13554,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.846468958926905,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13579,7 +13579,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.685058793554675,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13604,7 +13604,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.95698717688217,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13627,7 +13627,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.644812513666338,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13652,7 +13652,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.978175772464627,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13677,7 +13677,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.710817029880609,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13700,7 +13700,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.551025068345203,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13725,7 +13725,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.787567437506261,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13748,7 +13748,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.743583274619783,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13773,7 +13773,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.638732591918123,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13796,7 +13796,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.551622912003595,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13821,7 +13821,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.718533835041806,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13846,7 +13846,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.86841812120667,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13869,7 +13869,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.989045445936154,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13894,7 +13894,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.880931930306499,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13919,7 +13919,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.664012671128697,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13942,7 +13942,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.706575344790068,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13967,7 +13967,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.813255364044874,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -13992,7 +13992,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.559374636044846,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14015,7 +14015,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.95684768046139,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14040,7 +14040,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.719179902649273,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14065,7 +14065,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.738534424381248,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14088,7 +14088,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.52113686055621,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14113,7 +14113,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.674087408349955,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14136,7 +14136,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5481245374671655,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14161,7 +14161,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.548477755887081,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14184,7 +14184,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7254935696802844,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14209,7 +14209,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.916381742032163,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14232,7 +14232,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7747278592391265,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14257,7 +14257,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.800826917014794,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14280,7 +14280,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8780932156669055,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14305,7 +14305,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.795340703017958,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14328,7 +14328,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.530011592724028,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14382,7 +14382,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.807702498024988,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14405,7 +14405,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6104253841957945,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14428,7 +14428,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.732564780171058,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14451,7 +14451,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.607240904777835,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14474,7 +14474,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.565176743206799,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14497,7 +14497,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.819431940552456,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14520,7 +14520,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6546354778679575,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14543,7 +14543,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7747778123801075,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14566,7 +14566,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.859951225315473,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14589,7 +14589,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.765053619222085,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14612,7 +14612,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.564402421601636,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14635,7 +14635,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.543411290573704,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14658,7 +14658,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.531341199494197,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14681,7 +14681,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.78535595932413,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14704,7 +14704,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.923747649931563,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14727,7 +14727,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.506475134419093,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14750,7 +14750,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.848803696051712,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14773,7 +14773,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.922833850083335,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14796,7 +14796,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.743513116210825,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14819,7 +14819,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.806734442368053,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14842,7 +14842,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.970242983327108,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14865,7 +14865,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.670246747891266,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14888,7 +14888,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6787224994008945,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14911,7 +14911,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.613936094651242,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14934,7 +14934,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9086792029560105,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -14957,7 +14957,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.866507387031745,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail_d800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15009,7 +15009,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.728232739896547,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15032,7 +15032,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7390512465135215,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15055,7 +15055,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.556982395950737,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15078,7 +15078,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.871687433748479,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15101,7 +15101,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.923386716732681,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15124,7 +15124,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.558043040626467,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15147,7 +15147,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.678379077297831,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15172,7 +15172,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.661662265641342,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15195,7 +15195,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.690851213728624,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15218,7 +15218,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.942771935020179,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15241,7 +15241,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.687772898384613,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15264,7 +15264,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.922473498883257,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15287,7 +15287,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6799119691442,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15312,7 +15312,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.584821576684909,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15335,7 +15335,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.700729959651097,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15358,7 +15358,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.96910788556287,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15381,7 +15381,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9495902275173576,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15404,7 +15404,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.818955821363105,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15427,7 +15427,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.508811034278476,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15450,7 +15450,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.966876222504809,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15475,7 +15475,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.693839015390904,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15498,7 +15498,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.88045125321258,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15523,7 +15523,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.621797431102968,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15546,7 +15546,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.981326106527241,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15569,7 +15569,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.70214542642265,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15592,7 +15592,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.50021989399432,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15615,7 +15615,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.917906366882253,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15638,7 +15638,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.700052821354934,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15661,7 +15661,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.849427360199952,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15684,7 +15684,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.537124826927073,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15707,7 +15707,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.818795116993248,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15730,7 +15730,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.812141276538634,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15755,7 +15755,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.841998054837748,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15778,7 +15778,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.62469270881127,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15801,7 +15801,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.837749641254688,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15824,7 +15824,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.591131992917903,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15847,7 +15847,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6127212371491595,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15870,7 +15870,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.560864839066394,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15893,7 +15893,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.629444294756743,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15916,7 +15916,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.637293819832699,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15939,7 +15939,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.653530903017662,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15964,7 +15964,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.611107575321011,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -15987,7 +15987,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.742945017419133,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16012,7 +16012,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.991019324321894,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16035,7 +16035,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.700399935171565,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16058,7 +16058,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.706403260969875,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16081,7 +16081,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.927694683781167,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16104,7 +16104,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.579410123431183,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16127,7 +16127,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.793613924471443,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16150,7 +16150,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.56570748810116,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16173,7 +16173,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.797421321855101,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16196,7 +16196,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.965698361007954,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16221,7 +16221,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.950090363173427,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16246,7 +16246,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.591150388523537,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16269,7 +16269,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6836971753064205,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16292,7 +16292,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.657695530424792,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16315,7 +16315,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.855267320876606,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16338,7 +16338,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.824422485512425,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16361,7 +16361,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.784301006290597,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16384,7 +16384,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.702009114681507,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16407,7 +16407,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.873506327254258,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16430,7 +16430,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.900090020636382,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16455,7 +16455,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.980341143431925,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16478,7 +16478,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.657198220814139,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16503,7 +16503,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.654862845469901,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16526,7 +16526,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.819906768974902,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16549,7 +16549,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.785700995525402,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16572,7 +16572,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.620177361547093,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16595,7 +16595,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.991852725146689,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16618,7 +16618,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.581163279898801,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16641,7 +16641,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.573108358504559,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16664,7 +16664,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7071083729083645,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16687,7 +16687,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9527241077509,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16712,7 +16712,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.914486922070921,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16737,7 +16737,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.717916664433595,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16760,7 +16760,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.865205857228297,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16783,7 +16783,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.675722432523876,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16806,7 +16806,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.792886105456795,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16829,7 +16829,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.614159416416296,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16852,7 +16852,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.885710757257572,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16875,7 +16875,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.965374161838106,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16898,7 +16898,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.936230302457421,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16921,7 +16921,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.847724989763611,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16944,7 +16944,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.803021306189849,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16967,7 +16967,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.794495886558468,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -16990,7 +16990,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.856531071871383,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17013,7 +17013,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.59376479203356,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17036,7 +17036,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.645506652052985,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17061,7 +17061,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.998401398624136,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17084,7 +17084,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7931940443894,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17109,7 +17109,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.629726690098788,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17132,7 +17132,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.535008617557518,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17155,7 +17155,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.753498223676584,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17178,7 +17178,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8119287278763405,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17201,7 +17201,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.648255499252475,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17224,7 +17224,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.62461574762,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17247,7 +17247,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.641247986353205,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17270,7 +17270,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.96925408187994,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17293,7 +17293,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.75914695478005,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17318,7 +17318,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.551223136057042,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17341,7 +17341,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.876138157446065,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17366,7 +17366,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.542035091572041,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17389,7 +17389,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.604610478173116,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17412,7 +17412,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.599815845013785,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17435,7 +17435,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5802730239009035,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17458,7 +17458,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.84744376819511,
         "reviews": 39,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17481,7 +17481,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.784782681298777,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17504,7 +17504,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.649754050324251,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17527,7 +17527,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.994010780850729,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17550,7 +17550,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.917210768125607,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17573,7 +17573,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.603114739085983,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17596,7 +17596,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.593229609922383,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17619,7 +17619,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.641946372454757,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17642,7 +17642,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.617707968518713,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17665,7 +17665,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.670713501563039,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17688,7 +17688,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8707549367253025,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17711,7 +17711,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.993891006474001,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17734,7 +17734,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.928032625367291,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17757,7 +17757,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.880659558106505,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17780,7 +17780,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.68978352731063,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17803,7 +17803,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.517892997290804,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17826,7 +17826,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9221115959953865,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17849,7 +17849,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.817406483063982,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17872,7 +17872,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.732285790915998,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17895,7 +17895,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.589996285120635,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17916,7 +17916,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7915709483724065,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17937,7 +17937,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5227099000922015,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17958,7 +17958,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.611952067079914,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -17979,7 +17979,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.548468620769841,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18000,7 +18000,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.72062906868249,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18021,7 +18021,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.709526244082988,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18044,7 +18044,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.920915873661746,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18067,7 +18067,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.557921201719907,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18090,7 +18090,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.836576590768403,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18113,7 +18113,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.692441759716377,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18136,7 +18136,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.581070401294398,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18159,7 +18159,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7978778260574355,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18182,7 +18182,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.78312581046663,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18205,7 +18205,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.986655438528874,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18228,7 +18228,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.706167275303346,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18251,7 +18251,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.697811241293683,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18274,7 +18274,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.521924395034113,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18297,7 +18297,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6321030060669015,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18320,7 +18320,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.729000349912071,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18343,7 +18343,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.988426140171625,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18366,7 +18366,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9438832469307705,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18389,7 +18389,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.869333517206325,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18412,7 +18412,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.815367859135733,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18435,7 +18435,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.820543708510751,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18458,7 +18458,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.739456256784693,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18481,7 +18481,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.827490538014055,
         "reviews": 48,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18504,7 +18504,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.691436297159973,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18527,7 +18527,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.784375250933696,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18550,7 +18550,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.579263810016799,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18573,7 +18573,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.99427618066484,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18596,7 +18596,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9347921739948175,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18619,7 +18619,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.576422347030079,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18642,7 +18642,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.53166453135289,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18665,7 +18665,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.91154243687706,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18688,7 +18688,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.571597813712109,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18711,7 +18711,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.979244175242432,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18734,7 +18734,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5515245686238055,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18757,7 +18757,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9048159313816395,
         "reviews": 19,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18780,7 +18780,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.528978975603397,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18803,7 +18803,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.796027869220218,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18826,7 +18826,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5402842104216905,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18849,7 +18849,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6866825091679,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18872,7 +18872,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.582693935781766,
         "reviews": 52,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18895,7 +18895,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.513472251117993,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18918,7 +18918,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.521322585819815,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18941,7 +18941,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.988534882400968,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -18964,7 +18964,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.813987979443877,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19016,7 +19016,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.648433623708888,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19038,7 +19038,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.645542113403051,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19060,7 +19060,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.970677389426388,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19082,7 +19082,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.683659601742524,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19104,7 +19104,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.99553442619727,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19126,7 +19126,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.97912182915947,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19148,7 +19148,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.553003473458777,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19170,7 +19170,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.581471746297601,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19192,7 +19192,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.987246392828133,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19214,7 +19214,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8146648640189245,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19236,7 +19236,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.675096792267599,
         "reviews": 9,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19258,7 +19258,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.829257660667177,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19280,7 +19280,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5708836226828815,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19302,7 +19302,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.603803921064131,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19324,7 +19324,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.864642812236908,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19346,7 +19346,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.849782866757755,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19368,7 +19368,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.743680548553058,
         "reviews": 12,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19390,7 +19390,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6841496834874405,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19412,7 +19412,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.903086889163943,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19434,7 +19434,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.578525430737924,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19454,7 +19454,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.727893958499797,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19474,7 +19474,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.645272419779654,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19494,7 +19494,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.76719572654748,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19514,7 +19514,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.9934917442188125,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19534,7 +19534,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.587380486396773,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19554,7 +19554,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.575341763126911,
         "reviews": 36,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19574,7 +19574,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.692874663740739,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19594,7 +19594,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.507305156614702,
         "reviews": 21,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19614,7 +19614,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.713550760278569,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19634,7 +19634,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.975019993310299,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19654,7 +19654,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.679904332955938,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19674,7 +19674,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.736817832907869,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19694,7 +19694,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.844755249756155,
         "reviews": 29,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19714,7 +19714,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.559505095181373,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19734,7 +19734,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.560330154959776,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19754,7 +19754,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.76676205394743,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19774,7 +19774,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.506580518719157,
         "reviews": 34,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19794,7 +19794,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.533372553861228,
         "reviews": 6,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19814,7 +19814,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.607768305460697,
         "reviews": 42,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19834,7 +19834,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.685960034154724,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19854,7 +19854,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.549590707235,
         "reviews": 40,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19874,7 +19874,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.95841069634809,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19894,7 +19894,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.820074587017922,
         "reviews": 43,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19914,7 +19914,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.641606341534056,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19934,7 +19934,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.519034115679934,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19954,7 +19954,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.761934646135628,
         "reviews": 23,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19974,7 +19974,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.87489946784513,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -19994,7 +19994,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.814798705624728,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20014,7 +20014,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.828032375378231,
         "reviews": 31,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20034,7 +20034,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.980029697660119,
         "reviews": 53,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20056,7 +20056,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.955659323582765,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20078,7 +20078,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.525224371887406,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20100,7 +20100,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.513955934484686,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20122,7 +20122,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.686627279750326,
         "reviews": 16,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20144,7 +20144,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.996239638777274,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20166,7 +20166,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.615083042016652,
         "reviews": 17,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20188,7 +20188,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.958274658395049,
         "reviews": 18,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20210,7 +20210,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.779900202155248,
         "reviews": 50,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20232,7 +20232,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.921332162065735,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20254,7 +20254,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.858932559885159,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-e800.ashx?h=372&w=660&la=en"
         ],
         "inStock": true,
         "specs": [
@@ -20305,7 +20305,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.721432857201778,
         "reviews": 8,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20330,7 +20330,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.930340930322738,
         "reviews": 45,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20355,7 +20355,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.5958215140638465,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20380,7 +20380,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.67108094157696,
         "reviews": 49,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20405,7 +20405,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.6074648216868335,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20430,7 +20430,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.64475154172254,
         "reviews": 38,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20455,7 +20455,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.584198283935354,
         "reviews": 41,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20480,7 +20480,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.508848045683933,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20505,7 +20505,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.897796331669388,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20530,7 +20530,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.979240939657415,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20555,7 +20555,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.705417794853145,
         "reviews": 7,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20580,7 +20580,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.762625449324307,
         "reviews": 24,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20605,7 +20605,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.864512762428622,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20630,7 +20630,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.731978959140764,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20655,7 +20655,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.728626618577568,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20680,7 +20680,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.91926335417127,
         "reviews": 30,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20705,7 +20705,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.670652389633866,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20730,7 +20730,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.691285829848797,
         "reviews": 15,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20755,7 +20755,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.950223607218286,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20780,7 +20780,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.72561452067736,
         "reviews": 46,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20834,7 +20834,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.663555955502905,
         "reviews": 47,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20860,7 +20860,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.830185540825264,
         "reviews": 54,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20886,7 +20886,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.516309632816864,
         "reviews": 35,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20912,7 +20912,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.654921284957073,
         "reviews": 10,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20938,7 +20938,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.739256510527153,
         "reviews": 26,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20964,7 +20964,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.990327593217673,
         "reviews": 14,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -20990,7 +20990,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.767304972650648,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21016,7 +21016,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.768780278157135,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21042,7 +21042,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.752381915078345,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21068,7 +21068,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.96095460602864,
         "reviews": 22,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21094,7 +21094,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.658780807348832,
         "reviews": 37,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21120,7 +21120,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.924907299397265,
         "reviews": 5,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21146,7 +21146,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.985769100921896,
         "reviews": 11,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21172,7 +21172,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.7712943740512666,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21198,7 +21198,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.8881316184615,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21224,7 +21224,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.942997502313484,
         "reviews": 25,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21250,7 +21250,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.60283920621171,
         "reviews": 32,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21276,7 +21276,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.586845014949827,
         "reviews": 44,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21302,7 +21302,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.964849413750088,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21328,7 +21328,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.775383191985495,
         "reviews": 51,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21354,7 +21354,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.659299445982391,
         "reviews": 33,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21380,7 +21380,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.944109745790993,
         "reviews": 20,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21406,7 +21406,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.731458774475454,
         "reviews": 27,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21432,7 +21432,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.903335379994952,
         "reviews": 28,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
@@ -21458,7 +21458,7 @@ export const scrapedVFDFamilies: ProductFamily[] = [
         "rating": 4.560880044861037,
         "reviews": 13,
         "images": [
-          "/images/westlogo.jpg"
+          "/Products/VFDs/Images/LS_Starvert_iE5_-_VFD_medium.avif"
         ],
         "inStock": true,
         "specs": [
