@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Note: 'standalone' output removed for Vercel compatibility
-  // Use 'standalone' only for Docker/Node.js deployments
+  // Required for Docker / Google Cloud Run (see Dockerfile). Vercel ignores this for its own build.
+  output: 'standalone',
 
   // Asset prefix for static exports
   assetPrefix: '',
