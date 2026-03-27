@@ -1,0 +1,59 @@
+# Cloud Build config — uses the repo Dockerfile instead of the buildpack auto-detector.
+#
+# Cloud Build substitutions used:
+#   $PROJECT_ID   — auto-injected by Cloud Build
+#   $COMMIT_SHA   — auto-injected by Cloud Build
+#   $_SERVICE     — override in the Cloud Build trigger if you need a different service name
+#   $_REGION      — override in the Cloud Build trigger if you need a different region
+#
+# Default service / region match the GitHub Actions workflow.
+
+substitutions:
+  _SERVICE: westshorecontrols2
+  _REGION: us-central1
+  _IMAGE: us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE
+
+options:
+  logging: CLOUD_LOGGING_ONLY
+  machineType: E2_HIGHCPU_8
+
+steps:
+  # 1. Build the Docker image with the repo Dockerfile
+  - name: gcr.io/cloud-builders/docker
+    args:
+      - build
+      - --tag
+      - $_IMAGE:$COMMIT_SHA
+      - --tag
+      - $_IMAGE:latest
+      - --build-arg
+      - BUILDKIT_INLINE_CACHE=1
+      - --cache-from
+      - $_IMAGE:latest
+      - .
+    env:
+      - DOCKER_BUILDKIT=1
+
+  # 2. Push both tags to Artifact Registry
+  - name: gcr.io/cloud-builders/docker
+    args: [push, --all-tags, $_IMAGE]
+
+  # 3. Deploy to Cloud Run
+  - name: gcr.io/google.com/cloudsdktool/cloud-sdk
+    entrypoint: gcloud
+    args:
+      - run
+      - deploy
+      - $_SERVICE
+      - --image
+      - $_IMAGE:$COMMIT_SHA
+      - --region
+      - $_REGION
+      - --platform
+      - managed
+      - --allow-unauthenticated
+      - --quiet
+
+images:
+  - $_IMAGE:$COMMIT_SHA
+  - $_IMAGE:latest
