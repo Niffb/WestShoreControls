@@ -1,49 +1,47 @@
-# Cloud Build config — uses the repo Dockerfile instead of the buildpack auto-detector.
+# Cloud Build config — Dockerfile-based build for Cloud Run.
 #
-# Cloud Build substitutions used:
-#   $PROJECT_ID   — auto-injected by Cloud Build
-#   $COMMIT_SHA   — auto-injected by Cloud Build
-#   $_SERVICE     — override in the Cloud Build trigger if you need a different service name
-#   $_REGION      — override in the Cloud Build trigger if you need a different region
-#
-# Default service / region match the GitHub Actions workflow.
+# $PROJECT_ID and $COMMIT_SHA are injected automatically by Cloud Build.
+# Override _SERVICE or _REGION in the trigger's Substitution variables if needed.
 
 substitutions:
   _SERVICE: westshorecontrols2
   _REGION: us-central1
-  _IMAGE: us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE
 
 options:
   logging: CLOUD_LOGGING_ONLY
   machineType: E2_HIGHCPU_8
 
 steps:
-  # 1. Pull the latest image for layer cache (failure is ok on first run)
+  # 1. Pull latest image to seed layer cache (ok to fail on first run)
   - name: gcr.io/cloud-builders/docker
     entrypoint: bash
     args:
       - -c
-      - docker pull $_IMAGE:latest || true
+      - |
+        docker pull us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE:latest || true
 
-  # 2. Build the Docker image with the repo Dockerfile
+  # 2. Build image using repo Dockerfile
   - name: gcr.io/cloud-builders/docker
     args:
       - build
       - --tag
-      - $_IMAGE:$COMMIT_SHA
+      - us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE:$COMMIT_SHA
       - --tag
-      - $_IMAGE:latest
+      - us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE:latest
       - --cache-from
-      - $_IMAGE:latest
+      - us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE:latest
       - --build-arg
       - BUILDKIT_INLINE_CACHE=1
       - .
     env:
       - DOCKER_BUILDKIT=1
 
-  # 3. Push both tags to Artifact Registry
+  # 3. Push both tags
   - name: gcr.io/cloud-builders/docker
-    args: [push, --all-tags, $_IMAGE]
+    args:
+      - push
+      - --all-tags
+      - us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE
 
   # 4. Deploy to Cloud Run
   - name: gcr.io/google.com/cloudsdktool/cloud-sdk
@@ -53,7 +51,7 @@ steps:
       - deploy
       - $_SERVICE
       - --image
-      - $_IMAGE:$COMMIT_SHA
+      - us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE:$COMMIT_SHA
       - --region
       - $_REGION
       - --platform
@@ -62,5 +60,5 @@ steps:
       - --quiet
 
 images:
-  - $_IMAGE:$COMMIT_SHA
-  - $_IMAGE:latest
+  - us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE:$COMMIT_SHA
+  - us-central1-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/$_SERVICE:latest
