@@ -3,10 +3,10 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import { 
-  CpuChipIcon, 
-  CogIcon, 
-  BoltIcon, 
+import {
+  CpuChipIcon,
+  CogIcon,
+  BoltIcon,
   WrenchScrewdriverIcon,
   ShieldCheckIcon,
   ComputerDesktopIcon,
@@ -22,9 +22,8 @@ interface ProductCategory {
   id: string
   name: string
   description: string
-  icon: React.ComponentType<any>
+  icon: React.ComponentType<React.SVGProps<SVGSVGElement>>
   image: string
-  featured: boolean
   slug: string
 }
 
@@ -35,7 +34,6 @@ const productCategories: ProductCategory[] = [
     description: 'Variable frequency drives for precise motor speed control and energy efficiency',
     icon: CpuChipIcon,
     image: '/Products/VFDs/Images/Mitsubishi_A800_af6dd002-312a-4881-93a5-db958e43ad71_medium.avif',
-    featured: true,
     slug: 'drives-vfds'
   },
   {
@@ -44,7 +42,6 @@ const productCategories: ProductCategory[] = [
     description: 'High-precision servo motors for accurate positioning and motion control',
     icon: CogIcon,
     image: '/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif',
-    featured: true,
     slug: 'servo-motors'
   },
   {
@@ -53,7 +50,6 @@ const productCategories: ProductCategory[] = [
     description: 'Circuit protection devices including MCBs, MCCBs, and motor protection',
     icon: BoltIcon,
     image: '/assets/images/products/noark/Molded_Case_Circuit_Breakers_MCCB-category-300x300_ce635280.webp',
-    featured: true,
     slug: 'circuit-breakers-protection'
   },
   {
@@ -62,7 +58,6 @@ const productCategories: ProductCategory[] = [
     description: 'Electromagnetic switches for motor control and power switching applications',
     icon: WrenchScrewdriverIcon,
     image: '/assets/images/products/contactors/standard-NR-IEC-contactors-Ex9C_standard-NR-IEC-co_standard-NR-IEC-contactors-Ex9C-300x300_8410f80d.webp',
-    featured: true,
     slug: 'contactors'
   },
   {
@@ -71,7 +66,6 @@ const productCategories: ProductCategory[] = [
     description: 'Motor protection relays to prevent damage from overcurrent conditions',
     icon: ShieldCheckIcon,
     image: '/assets/images/products/circuit_breakers/meta-mec_and_metasol_overload_meta-mec_and_metasol_meta-mec-overload-300x300_ae08a150.webp',
-    featured: false,
     slug: 'overload-relays'
   },
   {
@@ -80,7 +74,6 @@ const productCategories: ProductCategory[] = [
     description: 'Programmable logic controllers for industrial automation and control',
     icon: ComputerDesktopIcon,
     image: '/assets/images/products/vfd/simple_plc_functionnality_plc_5cf0a389.webp',
-    featured: true,
     slug: 'plcs'
   },
   {
@@ -89,7 +82,6 @@ const productCategories: ProductCategory[] = [
     description: 'Manual motor starting switches with integrated overload protection',
     icon: HandRaisedIcon,
     image: '/assets/images/products/circuit_breakers/susol_circuit_breakers_and_manual_motor_starters_s_susol-circuit-breakers_9e6518a3.webp',
-    featured: false,
     slug: 'manual-motor-starters'
   },
   {
@@ -98,7 +90,6 @@ const productCategories: ProductCategory[] = [
     description: 'Power distribution equipment including panels, busbars, and switchgear',
     icon: RectangleStackIcon,
     image: '/assets/images/products/busbars/eriflex_flexibar_busbar_eriflex-flexibar-busbar_eriflex-flexibar-busbar_a7557744.webp',
-    featured: false,
     slug: 'power-distribution'
   },
   {
@@ -107,7 +98,6 @@ const productCategories: ProductCategory[] = [
     description: 'Custom-engineered control panels designed for your specific applications',
     icon: BuildingOffice2Icon,
     image: '/assets/images/products/general/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI_35b20c5b.webp',
-    featured: true,
     slug: 'custom-control-panels'
   },
   {
@@ -116,7 +106,6 @@ const productCategories: ProductCategory[] = [
     description: 'LED pilot lights and indicators for status indication and signaling',
     icon: LightBulbIcon,
     image: '/assets/images/products/noark/22_mm_Pilot_Devices_indicator-lights-category-300x300_3bdf9523.webp',
-    featured: false,
     slug: 'led-indicators'
   },
   {
@@ -125,7 +114,6 @@ const productCategories: ProductCategory[] = [
     description: 'Industrial push buttons, switches, and operator interface devices',
     icon: CursorArrowRaysIcon,
     image: '/assets/images/products/noark/22_mm_Pushbuttons_Ex9PB_pushbuttons-category-300x300_12540e52.webp',
-    featured: false,
     slug: 'push-buttons'
   }
 ]
@@ -137,7 +125,6 @@ export default function ProductCategoriesGrid() {
   const [totalProducts, setTotalProducts] = useState<number>(0)
   const [isLoadingCounts, setIsLoadingCounts] = useState(true)
 
-  // Fetch product counts from API
   useEffect(() => {
     async function fetchCounts() {
       try {
@@ -155,16 +142,13 @@ export default function ProductCategoriesGrid() {
         setIsLoadingCounts(false)
       }
     }
-    
+
     fetchCounts()
   }, [])
 
-  // Get product count for a category slug
   const getProductCount = (slug: string): number => {
     return productCounts[slug] || 0
   }
-
-  const filteredCategories = productCategories
 
   const handleImageError = (categoryId: string) => {
     setImageErrors(prev => ({ ...prev, [categoryId]: true }))
@@ -172,14 +156,14 @@ export default function ProductCategoriesGrid() {
 
   return (
     <div>
-      {/* Filter Buttons */}
+      {/* Filter Toggle */}
       <div className="flex justify-center mb-8">
-        <div className="bg-white rounded-lg p-1 shadow-sm border">
+        <div className="bg-gray-100 rounded-lg p-1">
           <button
             onClick={() => setFilter('categories')}
-            className={`px-6 py-2 rounded-md font-medium transition-colors ${
+            className={`px-6 py-2 rounded-md font-medium text-sm transition-colors ${
               filter === 'categories'
-                ? 'bg-red-600 text-white'
+                ? 'bg-white text-gray-900 shadow-sm'
                 : 'text-gray-600 hover:text-gray-900'
             }`}
           >
@@ -187,9 +171,9 @@ export default function ProductCategoriesGrid() {
           </button>
           <button
             onClick={() => setFilter('brands')}
-            className={`px-6 py-2 rounded-md font-medium transition-colors ${
+            className={`px-6 py-2 rounded-md font-medium text-sm transition-colors ${
               filter === 'brands'
-                ? 'bg-red-600 text-white'
+                ? 'bg-white text-gray-900 shadow-sm'
                 : 'text-gray-600 hover:text-gray-900'
             }`}
           >
@@ -198,20 +182,17 @@ export default function ProductCategoriesGrid() {
         </div>
       </div>
 
-      {/* Content Area */}
       {filter === 'categories' ? (
-        /* Categories Grid */
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredCategories.map((category) => {
+          {productCategories.map((category) => {
             const IconComponent = category.icon
-            
+
             return (
               <Link
                 key={category.id}
                 href={`/products/${category.slug}`}
-                className="group bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 hover:border-red-200"
+                className="group bg-white rounded-lg border border-gray-200 hover:shadow-md transition-shadow duration-200 overflow-hidden"
               >
-                {/* Image Section */}
                 <div className="relative h-48 bg-gray-100 overflow-hidden">
                   {!imageErrors[category.id] ? (
                     <Image
@@ -222,23 +203,12 @@ export default function ProductCategoriesGrid() {
                       onError={() => handleImageError(category.id)}
                     />
                   ) : (
-                    <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-red-50 to-red-100">
-                      <IconComponent className="w-16 h-16 text-red-600" />
+                    <div className="w-full h-full flex items-center justify-center bg-gray-50">
+                      <IconComponent className="w-16 h-16 text-gray-300" />
                     </div>
                   )}
-                  
-                  {/* Featured Badge */}
-                  {category.featured && (
-                    <div className="absolute top-3 right-3">
-                      <span className="bg-red-600 text-white text-xs font-semibold px-2 py-1 rounded-full">
-                        Featured
-                      </span>
-                    </div>
-                  )}
-
-                  {/* Product Count Badge */}
                   <div className="absolute bottom-3 left-3">
-                    <span className="bg-white/90 backdrop-blur-sm text-gray-700 text-sm font-medium px-2 py-1 rounded-full">
+                    <span className="bg-white/90 backdrop-blur-sm text-gray-700 text-sm font-medium px-2 py-1 rounded">
                       {isLoadingCounts ? (
                         <span className="inline-block w-8 h-4 bg-gray-200 rounded animate-pulse"></span>
                       ) : (
@@ -248,33 +218,23 @@ export default function ProductCategoriesGrid() {
                   </div>
                 </div>
 
-                {/* Content Section */}
                 <div className="p-6">
                   <div className="flex items-start gap-3 mb-3">
-                    <div className="flex-shrink-0 p-2 bg-red-50 rounded-lg group-hover:bg-red-100 transition-colors">
-                      <IconComponent className="w-6 h-6 text-red-600" />
+                    <div className="flex-shrink-0 p-2 bg-gray-50 rounded-md">
+                      <IconComponent className="w-5 h-5 text-gray-600" />
                     </div>
-                    <div className="flex-1">
-                      <h3 className="text-lg font-semibold text-gray-900 group-hover:text-red-600 transition-colors">
-                        {category.name}
-                      </h3>
-                    </div>
+                    <h3 className="text-lg font-semibold text-gray-900">
+                      {category.name}
+                    </h3>
                   </div>
-                  
                   <p className="text-gray-600 text-sm leading-relaxed mb-4">
                     {category.description}
                   </p>
-
                   <div className="flex items-center justify-between">
-                    <span className="text-red-600 font-medium text-sm group-hover:text-red-700">
-                      Explore Products
+                    <span className="text-primary-600 font-medium text-sm">
+                      View Products
                     </span>
-                    <svg 
-                      className="w-4 h-4 text-red-600 group-hover:translate-x-1 transition-transform" 
-                      fill="none" 
-                      viewBox="0 0 24 24" 
-                      stroke="currentColor"
-                    >
+                    <svg className="w-4 h-4 text-primary-600 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                     </svg>
                   </div>
@@ -284,25 +244,18 @@ export default function ProductCategoriesGrid() {
           })}
         </div>
       ) : (
-        /* Brands Selection */
         <BrandGrid />
       )}
 
-      {/* Stats Section - Only show for categories */}
       {filter === 'categories' && (
-        <div className="mt-16 bg-white rounded-xl p-8 shadow-sm border border-gray-100">
+        <div className="mt-16 bg-gray-50 rounded-xl p-8 border border-gray-200">
           <div className="text-center mb-8">
-            <h3 className="text-2xl font-bold text-gray-900 mb-2">
-              Our Product Portfolio
-            </h3>
-            <p className="text-gray-600">
-              Comprehensive selection from industry-leading manufacturers
-            </p>
+            <h3 className="text-2xl font-bold text-gray-900 mb-2">Our Product Portfolio</h3>
+            <p className="text-gray-600">Comprehensive selection from industry-leading manufacturers</p>
           </div>
-          
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div className="text-center">
-              <div className="text-3xl font-bold text-red-600 mb-1">
+              <div className="text-3xl font-bold text-gray-900 mb-1">
                 {isLoadingCounts ? (
                   <span className="inline-block w-16 h-8 bg-gray-200 rounded animate-pulse"></span>
                 ) : (
@@ -312,21 +265,15 @@ export default function ProductCategoriesGrid() {
               <div className="text-sm text-gray-600">Total Products</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-red-600 mb-1">
-                {productCategories.length}
-              </div>
+              <div className="text-3xl font-bold text-gray-900 mb-1">{productCategories.length}</div>
               <div className="text-sm text-gray-600">Categories</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-red-600 mb-1">
-                15+
-              </div>
+              <div className="text-3xl font-bold text-gray-900 mb-1">15+</div>
               <div className="text-sm text-gray-600">Brands</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-red-600 mb-1">
-                24/7
-              </div>
+              <div className="text-3xl font-bold text-gray-900 mb-1">24/7</div>
               <div className="text-sm text-gray-600">Support</div>
             </div>
           </div>

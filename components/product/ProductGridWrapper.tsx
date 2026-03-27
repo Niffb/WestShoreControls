@@ -116,35 +116,6 @@ export default function ProductGridWrapper({ categorySlug, categoryName }: Produ
   }
 
   return (
-    <>
-      {/* Category Stats */}
-      <div className="mb-8 bg-white rounded-lg shadow-sm border p-6">
-        <div className="flex flex-col md:flex-row md:items-center md:justify-between">
-          <div>
-            <h2 className="text-2xl font-bold text-gray-900 mb-2">
-              Available Products
-            </h2>
-            <p className="text-gray-600">
-              {products.length} products available in {categoryName}
-            </p>
-          </div>
-          <div className="mt-4 md:mt-0 flex items-center gap-4">
-            <div className="text-center">
-              <div className="text-2xl font-bold text-red-600">{products.length}</div>
-              <div className="text-sm text-gray-600">Products</div>
-            </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-green-600">
-                {products.filter(p => p.inStock).length}
-              </div>
-              <div className="text-sm text-gray-600">In Stock</div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Products Grid */}
-      <ProductGrid products={products} categoryName={categoryName} />
-    </>
+    <ProductGrid products={products} categoryName={categoryName} />
   )
 }

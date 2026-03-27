@@ -1,46 +1,8 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { ChevronRightIcon, HomeIcon, CogIcon } from '@heroicons/react/24/outline'
+import { ChevronRightIcon, HomeIcon } from '@heroicons/react/24/outline'
 import ProductGridWrapper from '@/components/product/ProductGridWrapper'
-
-// Enhanced Intersection Observer hook for smooth scroll animations
-function useIntersectionObserver() {
-  if (typeof window !== 'undefined') {
-    const observeElements = () => {
-      const elements = document.querySelectorAll('.animate-on-scroll')
-      
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            // Add the visible class which triggers the animation
-            entry.target.classList.add('animate-visible')
-            // Remove the observer after animation triggers
-            observer.unobserve(entry.target)
-          }
-        })
-      }, { 
-        threshold: 0.1, 
-        rootMargin: '50px 0px -50px 0px' 
-      })
-      
-      elements.forEach(el => {
-        // Set initial state
-        el.classList.add('animate-hidden')
-        observer.observe(el)
-      })
-      
-      return () => observer.disconnect()
-    }
-    
-    // Run on mount with proper timing
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', observeElements)
-    } else {
-      requestAnimationFrame(observeElements)
-    }
-  }
-}
 
 // Category configuration
 const categoryConfig = {
@@ -126,19 +88,15 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
 export default function CategoryPage({ params }: CategoryPageProps) {
   const category = categoryConfig[params.category as keyof typeof categoryConfig]
   
-  // Initialize scroll animations
-  useIntersectionObserver()
-  
   if (!category) {
     notFound()
   }
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Breadcrumb */}
-      <div className="bg-white border-b pt-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <nav className="flex items-center space-x-2 text-sm">
+      <section className="border-b border-gray-100 bg-gray-50/50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <nav className="flex items-center space-x-2 text-sm mb-4">
             <Link href="/" className="text-gray-500 hover:text-gray-700 flex items-center">
               <HomeIcon className="w-4 h-4 mr-1" />
               Home
@@ -150,50 +108,21 @@ export default function CategoryPage({ params }: CategoryPageProps) {
             <ChevronRightIcon className="w-4 h-4 text-gray-400" />
             <span className="text-gray-900 font-medium">{category.name}</span>
           </nav>
-        </div>
-      </div>
-
-      {/* Hero Section */}
-      <section className="relative py-24 bg-gradient-to-br from-red-50 via-white to-red-900/5 overflow-hidden">
-        {/* Enhanced Animated Background Elements */}
-        <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
-          <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-gradient-to-br from-red-100/20 to-red-500/20 rounded-full blur-3xl"></div>
-        </div>
-        
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className="mb-8">
-            <div className="inline-flex items-center gap-2 bg-red-50 border border-red-200 rounded-full px-4 py-2 text-sm text-red-700 mb-6 hero-element animate-fade-in-up hover:shadow-lg hover:scale-105 transition-all duration-300">
-              <CogIcon className="w-4 h-4 animate-bounce-soft" />
-              {category.name}
-            </div>
-            <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight hero-element animate-fade-in-up">
-              <span className="inline-block hero-element animate-fade-in-up" style={{animationDelay: '0.1s'}}>{category.name.split(' ')[0]}</span>{' '}
-              {category.name.split(' ').length > 1 && (
-                <span className="text-transparent bg-gradient-to-r from-red-500 to-red-900 bg-clip-text inline-block hero-element animate-fade-in-up" style={{animationDelay: '0.3s'}}>
-                  {category.name.split(' ').slice(1).join(' ')}
-                </span>
-              )}
-            </h1>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full hero-element animate-fade-in-up" style={{animationDelay: '0.7s'}}></div>
-          </div>
-          
-          <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-12 leading-relaxed hero-element animate-fade-in-up" style={{animationDelay: '0.9s'}}>
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
+            {category.name}
+          </h1>
+          <p className="mt-2 text-gray-600 max-w-3xl">
             {category.longDescription}
           </p>
         </div>
       </section>
 
-      {/* Content Section */}
-      <section className="py-20">
+      <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="animate-on-scroll">
-            <ProductGridWrapper 
-              categorySlug={params.category} 
-              categoryName={category.name}
-            />
-          </div>
+          <ProductGridWrapper 
+            categorySlug={params.category} 
+            categoryName={category.name}
+          />
         </div>
       </section>
     </div>

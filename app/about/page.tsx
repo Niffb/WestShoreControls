@@ -10,44 +10,6 @@ import {
 import ContactCard from '@/components/ui/ContactCard'
 import { getImageUrl } from '@/lib/config/image-config'
 
-// Enhanced Intersection Observer hook for smooth scroll animations
-function useIntersectionObserver() {
-  if (typeof window !== 'undefined') {
-    const observeElements = () => {
-      const elements = document.querySelectorAll('.animate-on-scroll')
-
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            // Add the visible class which triggers the animation
-            entry.target.classList.add('animate-visible')
-            // Remove the observer after animation triggers
-            observer.unobserve(entry.target)
-          }
-        })
-      }, {
-        threshold: 0.1,
-        rootMargin: '50px 0px -50px 0px'
-      })
-
-      elements.forEach(el => {
-        // Set initial state
-        el.classList.add('animate-hidden')
-        observer.observe(el)
-      })
-
-      return () => observer.disconnect()
-    }
-
-    // Run on mount with proper timing
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', observeElements)
-    } else {
-      requestAnimationFrame(observeElements)
-    }
-  }
-}
-
 export const metadata = {
   title: 'About Us - Westshore Controls | 25+ Years Industrial Experience',
   description: 'Learn about Westshore Controls Ltd., an American and Canadian VAR (Value-Added Reseller) for TMEIC products and authorized distributor of electrical and automation equipment & systems.',
@@ -57,13 +19,6 @@ export const metadata = {
     'VAR TMEIC',
     'value-added reseller',
     'industrial automation company',
-    'electrical distributor history',
-    'automation equipment distributor',
-    'UL certified distributor',
-    'CSA approved distributor',
-    'ETL listed products',
-    'North American distributor',
-    'global electrical distributor'
   ],
   openGraph: {
     title: 'About Westshore Controls - 25+ Years Industrial Experience',
@@ -77,12 +32,9 @@ export const metadata = {
 }
 
 export default function AboutPage() {
-  // Initialize scroll animations
-  useIntersectionObserver()
-
   return (
     <div className="bg-white">
-      {/* Page Heading - Minimal */}
+      {/* Page Heading */}
       <section className="border-b border-gray-100 bg-gray-50/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
           <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
@@ -98,8 +50,7 @@ export default function AboutPage() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-16 items-start">
-            {/* Company Story */}
-            <div className="space-y-8 animate-on-scroll">
+            <div className="space-y-8">
               <div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Who We Are</h2>
                 <div className="space-y-6 text-gray-600 leading-relaxed">
@@ -107,7 +58,7 @@ export default function AboutPage() {
                     <strong className="text-gray-900">Westshore Controls Ltd.</strong> is an American and Canadian VAR (Value-Added Reseller) for TMEIC products and authorized distributor of Electrical and Automation equipment & systems. We carry <strong className="text-gray-900">all factory and automation products</strong> from our partner brands including TMEIC, Erico, Elsteel, Katko, LS Industrial, Mitsubishi, Klemsan, and Noark, delivering throughout the United States, Canada and Globally.
                   </p>
                   <p>
-                    Our comprehensive product portfolio includes complete automation solutions, electrical components, motor control systems, circuit protection devices, and industrial controls. We work daily to guarantee the most up to date and technical information on our products. Our company strives to reduce both manufacturing and maintenance costs in the Electrical and Automation sectors while offering maximum value.
+                    Our comprehensive product portfolio includes complete automation solutions, electrical components, motor control systems, circuit protection devices, and industrial controls. We work daily to guarantee the most up to date and technical information on our products.
                   </p>
                   <p>
                     In order to offer competitive prices and provide maximum satisfaction and assistance to our customers, we source <strong className="text-gray-900">complete product lines</strong> from internationally recognized companies with UL, CSA, and ETL approved certifications.
@@ -115,31 +66,23 @@ export default function AboutPage() {
                 </div>
               </div>
 
-              {/* Certifications */}
-              <div className="bg-gray-50 rounded-2xl p-8">
+              <div className="bg-gray-50 rounded-xl p-8 border border-gray-200">
                 <h3 className="text-xl font-semibold text-gray-900 mb-4 flex items-center">
                   <CheckBadgeIcon className="w-6 h-6 text-gray-600 mr-2" />
                   Certified & Approved
                 </h3>
                 <div className="grid grid-cols-3 gap-4">
-                  <div className="bg-white rounded-lg p-4 text-center border border-gray-200">
-                    <div className="font-semibold text-gray-900">UL</div>
-                    <div className="text-sm text-gray-600">Listed</div>
-                  </div>
-                  <div className="bg-white rounded-lg p-4 text-center border border-gray-200">
-                    <div className="font-semibold text-gray-900">CSA</div>
-                    <div className="text-sm text-gray-600">Certified</div>
-                  </div>
-                  <div className="bg-white rounded-lg p-4 text-center border border-gray-200">
-                    <div className="font-semibold text-gray-900">ETL</div>
-                    <div className="text-sm text-gray-600">Approved</div>
-                  </div>
+                  {['UL', 'CSA', 'ETL'].map((cert) => (
+                    <div key={cert} className="bg-white rounded-lg p-4 text-center border border-gray-200">
+                      <div className="font-semibold text-gray-900">{cert}</div>
+                      <div className="text-sm text-gray-600">{cert === 'UL' ? 'Listed' : cert === 'CSA' ? 'Certified' : 'Approved'}</div>
+                    </div>
+                  ))}
                 </div>
               </div>
             </div>
 
-            {/* Key Features & Stats */}
-            <div className="space-y-8 animate-on-scroll">
+            <div className="space-y-8">
               <div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Commitment</h2>
                 <p className="text-gray-600 leading-relaxed mb-8">
@@ -147,39 +90,21 @@ export default function AboutPage() {
                 </p>
               </div>
 
-              {/* Feature Grid */}
               <div className="grid sm:grid-cols-2 gap-6">
-                <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <GlobeAmericasIcon className="w-6 h-6 text-gray-700 group-hover:animate-bounce-soft" />
+                {[
+                  { icon: GlobeAmericasIcon, title: 'Global Reach', desc: 'Delivering throughout the United States, Canada, and internationally' },
+                  { icon: ShieldCheckIcon, title: 'Quality Assured', desc: 'Industry proven products with comprehensive certifications' },
+                  { icon: UserGroupIcon, title: 'Expert Support', desc: 'Knowledgeable sales agents and technical support team' },
+                  { icon: BuildingOfficeIcon, title: 'Trusted Partners', desc: 'Direct partnerships with leading manufacturers' },
+                ].map((item) => (
+                  <div key={item.title} className="bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow">
+                    <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center mb-4">
+                      <item.icon className="w-6 h-6 text-gray-700" />
+                    </div>
+                    <h3 className="font-semibold text-gray-900 mb-2">{item.title}</h3>
+                    <p className="text-sm text-gray-600">{item.desc}</p>
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-gray-700 transition-colors">Global Reach</h3>
-                  <p className="text-sm text-gray-600">Delivering throughout the United States, Canada, and internationally</p>
-                </div>
-
-                <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <ShieldCheckIcon className="w-6 h-6 text-gray-700 group-hover:animate-pulse" />
-                  </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-gray-700 transition-colors">Quality Assured</h3>
-                  <p className="text-sm text-gray-600">Industry proven products with comprehensive certifications</p>
-                </div>
-
-                <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <UserGroupIcon className="w-6 h-6 text-gray-700 group-hover:animate-wiggle" />
-                  </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-gray-700 transition-colors">Expert Support</h3>
-                  <p className="text-sm text-gray-600">Knowledgeable sales agents and technical support team</p>
-                </div>
-
-                <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 group">
-                  <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
-                    <BuildingOfficeIcon className="w-6 h-6 text-gray-700 group-hover:animate-bounce-soft" />
-                  </div>
-                  <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-gray-700 transition-colors">Trusted Partners</h3>
-                  <p className="text-sm text-gray-600">Direct partnerships with leading manufacturers</p>
-                </div>
+                ))}
               </div>
             </div>
           </div>
@@ -189,180 +114,69 @@ export default function AboutPage() {
       {/* Partner Brands */}
       <section className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16 animate-on-scroll">
+          <div className="text-center mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Trusted Partners</h2>
             <p className="text-gray-600 max-w-3xl mx-auto">
               We partner with world-leading manufacturers to deliver premium industrial automation and electrical solutions.
-              VAR (Value-Added Reseller) for TMEIC products and authorized distributor for other premium brands.
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {[
-              {
-                name: "TMEIC",
-                logo: getImageUrl("brands/TMEIC_logo.png"),
-                type: "VAR (Value-Added Reseller)",
-                since: "2019",
-                badge: "Technology Partner",
-                description: "Leading manufacturer of high-power electrical and industrial systems including generators, drives, motors, PV inverters, and advanced control systems.",
-                specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors"],
-                color: "indigo"
-              },
-              {
-                name: "Mitsubishi Electric",
-                logo: getImageUrl("brands/Mitsubishi-Electric.webp"),
-                type: "Authorized Distributor",
-                since: "2010",
-                badge: "Diamond Partner",
-                description: "World-leading industrial automation and control solutions, including PLCs, HMIs, variable frequency drives, and motion control systems.",
-                specialties: ["PLCs & Controllers", "HMI & Displays", "Variable Frequency Drives", "Motion Control"],
-                color: "red"
-              },
-              {
-                name: "Noark",
-                logo: getImageUrl("brands/Noark.webp"),
-                type: "Stocking Distributor",
-                since: "2014",
-                badge: "Certified Partner",
-                description: "High-quality electrical components including contactors, circuit breakers, and motor protection devices for industrial applications.",
-                specialties: ["IEC Contactors", "Thermal Overload Relays", "Manual Motor Starters", "Circuit Breakers"],
-                color: "orange"
-              },
-              {
-                name: "LS Industrial",
-                logo: getImageUrl("LS.webp"),
-                type: "Stocking Distributor",
-                since: "2012",
-                badge: "Strategic Partner",
-                description: "Comprehensive industrial automation solutions including contactors, circuit breakers, motor protection, and drives.",
-                specialties: ["Contactors & Relays", "Circuit Breakers", "Motor Starters", "Variable Frequency Drives"],
-                color: "green"
-              },
-              {
-                name: "Erico",
-                logo: getImageUrl("brands/Erico.webp"),
-                type: "Stocking Distributor",
-                since: "2015",
-                badge: "Premium Partner",
-                description: "Global leader in electrical and industrial metal joining solutions, grounding and bonding systems, and electrical protection products.",
-                specialties: ["Grounding Systems", "Flexible Conductors", "Distribution Blocks", "Busbars"],
-                color: "blue"
-              },
-              {
-                name: "Katko",
-                logo: getImageUrl("Katko.webp"),
-                type: "Stocking Distributor",
-                since: "2016",
-                badge: "Trusted Partner",
-                description: "UL Listed manual motor controllers and industrial control solutions designed for safety and reliability in demanding environments.",
-                specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches", "Industrial Controls"],
-                color: "purple"
-              },
-              {
-                name: "Klemsan",
-                logo: getImageUrl("brands/klemsan-logo.webp"),
-                type: "Stocking Distributor",
-                since: "2017",
-                badge: "Technology Partner",
-                description: "Turkish manufacturer specializing in terminal blocks, industrial automation components, and electrical connection solutions.",
-                specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties", "Marking Solutions"],
-                color: "blue"
-              },
-              {
-                name: "Elsteel",
-                logo: getImageUrl("brands/Elsteel.webp"),
-                type: "Stocking Distributor",
-                since: "2018",
-                badge: "Approved Partner",
-                description: "Specialized electrical steel and industrial metal solutions for electrical infrastructure and industrial applications.",
-                specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication", "Electrical Infrastructure"],
-                color: "slate"
-              }
-            ].map((partner, index) => (
-                <div
-                  key={partner.name}
-                  className="bg-white rounded-xl p-6 shadow-sm border-2 border-gray-200 hover:border-gray-300 transition-all duration-300 hover:shadow-xl hover:scale-105 hover:-translate-y-2 animate-on-scroll group"
-                  style={{ animationDelay: `${index * 100}ms` }}
-                >
-                  {/* Partner Badge */}
-                  <div className="flex justify-between items-start mb-4">
-                    <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-800">
-                      {partner.badge}
-                    </span>
-                    <span className="text-xs text-gray-500">Since {partner.since}</span>
-                  </div>
-
-                  {/* Partner Logo/Name */}
-                  <div className="text-center mb-4">
-                    <h3 className="text-lg font-bold text-gray-900 group-hover:text-gray-700 transition-colors mb-2">
-                      {partner.name}
-                    </h3>
-                    <p className="text-sm text-gray-600 font-medium">{partner.type}</p>
-                  </div>
-
-                  {/* Description */}
-                  <p className="text-sm text-gray-600 mb-4 leading-relaxed line-clamp-3">
-                    {partner.description}
-                  </p>
-
-                  {/* Key Specialties */}
-                  <div className="space-y-2">
-                    <h4 className="text-xs font-semibold text-gray-900 uppercase tracking-wide">Key Specialties:</h4>
-                    <div className="flex flex-wrap gap-1">
-                      {partner.specialties.slice(0, 3).map((specialty, idx) => (
-                        <span
-                          key={idx}
-                          className="inline-block px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-md"
-                        >
-                          {specialty}
-                        </span>
-                      ))}
-                      {partner.specialties.length > 3 && (
-                        <span className="inline-block px-2 py-1 bg-gray-100 text-gray-500 text-xs rounded-md">
-                          +{partner.specialties.length - 3} more
-                        </span>
-                      )}
-                    </div>
+              { name: "TMEIC", type: "VAR (Value-Added Reseller)", since: "2019", badge: "Technology Partner", description: "Leading manufacturer of high-power electrical and industrial systems.", specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors"] },
+              { name: "Mitsubishi Electric", type: "Authorized Distributor", since: "2010", badge: "Diamond Partner", description: "World-leading industrial automation and control solutions.", specialties: ["PLCs & Controllers", "HMI & Displays", "Variable Frequency Drives", "Motion Control"] },
+              { name: "Noark", type: "Stocking Distributor", since: "2014", badge: "Certified Partner", description: "High-quality electrical components for industrial applications.", specialties: ["IEC Contactors", "Thermal Overload Relays", "Manual Motor Starters", "Circuit Breakers"] },
+              { name: "LS Industrial", type: "Stocking Distributor", since: "2012", badge: "Strategic Partner", description: "Comprehensive industrial automation solutions.", specialties: ["Contactors & Relays", "Circuit Breakers", "Motor Starters", "Variable Frequency Drives"] },
+              { name: "Erico", type: "Stocking Distributor", since: "2015", badge: "Premium Partner", description: "Global leader in electrical joining and protection products.", specialties: ["Grounding Systems", "Flexible Conductors", "Distribution Blocks", "Busbars"] },
+              { name: "Katko", type: "Stocking Distributor", since: "2016", badge: "Trusted Partner", description: "UL Listed manual motor controllers and industrial control solutions.", specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches"] },
+              { name: "Klemsan", type: "Stocking Distributor", since: "2017", badge: "Technology Partner", description: "Terminal blocks, industrial automation components.", specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties"] },
+              { name: "Elsteel", type: "Stocking Distributor", since: "2018", badge: "Approved Partner", description: "Specialized electrical steel and industrial metal solutions.", specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication"] }
+            ].map((partner) => (
+              <div key={partner.name} className="bg-white rounded-xl p-6 border border-gray-200 hover:shadow-md transition-shadow">
+                <div className="flex justify-between items-start mb-4">
+                  <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-800">{partner.badge}</span>
+                  <span className="text-xs text-gray-500">Since {partner.since}</span>
+                </div>
+                <div className="text-center mb-4">
+                  <h3 className="text-lg font-bold text-gray-900 mb-2">{partner.name}</h3>
+                  <p className="text-sm text-gray-600 font-medium">{partner.type}</p>
+                </div>
+                <p className="text-sm text-gray-600 mb-4 leading-relaxed line-clamp-3">{partner.description}</p>
+                <div className="space-y-2">
+                  <h4 className="text-xs font-semibold text-gray-900 uppercase tracking-wide">Key Specialties:</h4>
+                  <div className="flex flex-wrap gap-1">
+                    {partner.specialties.slice(0, 3).map((s) => (
+                      <span key={s} className="inline-block px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded">{s}</span>
+                    ))}
+                    {partner.specialties.length > 3 && (
+                      <span className="inline-block px-2 py-1 bg-gray-100 text-gray-500 text-xs rounded">+{partner.specialties.length - 3} more</span>
+                    )}
                   </div>
                 </div>
-              )
+              </div>
             ))}
           </div>
 
           {/* Partnership Benefits Summary */}
-          <div className="mt-16 bg-white rounded-2xl p-8 shadow-lg border border-gray-200 animate-on-scroll">
+          <div className="mt-16 bg-white rounded-xl p-8 border border-gray-200">
             <div className="text-center mb-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Partnership Benefits</h3>
-              <p className="text-gray-600 max-w-2xl mx-auto">
-                Our strategic partnerships enable us to deliver exceptional value and support to our customers
-              </p>
+              <p className="text-gray-600 max-w-2xl mx-auto">Our strategic partnerships enable us to deliver exceptional value and support</p>
             </div>
-
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <div className="text-center p-6 rounded-xl bg-gray-50 border border-gray-200">
-                <div className="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <ShieldCheckIcon className="w-6 h-6 text-white" />
+              {[
+                { icon: ShieldCheckIcon, title: 'VAR & Distribution Services', desc: 'Value-Added Reseller for TMEIC and authorized distribution ensuring authentic products with enhanced support' },
+                { icon: UserGroupIcon, title: 'Expert Support', desc: 'Direct access to manufacturer technical teams and application engineers for complex projects' },
+                { icon: CheckBadgeIcon, title: 'Quality Assurance', desc: 'Rigorous quality standards and testing ensure reliable performance in demanding industrial environments' },
+              ].map((item) => (
+                <div key={item.title} className="text-center p-6 rounded-xl bg-gray-50 border border-gray-200">
+                  <div className="w-12 h-12 bg-gray-900 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <item.icon className="w-6 h-6 text-white" />
+                  </div>
+                  <h4 className="font-semibold text-gray-900 mb-2">{item.title}</h4>
+                  <p className="text-sm text-gray-600">{item.desc}</p>
                 </div>
-                <h4 className="font-semibold text-gray-900 mb-2">VAR & Distribution Services</h4>
-                <p className="text-sm text-gray-600">Value-Added Reseller for TMEIC and authorized distribution ensuring authentic products with enhanced support</p>
-              </div>
-
-              <div className="text-center p-6 rounded-xl bg-gray-50 border border-gray-200">
-                <div className="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <UserGroupIcon className="w-6 h-6 text-white" />
-                </div>
-                <h4 className="font-semibold text-gray-900 mb-2">Expert Support</h4>
-                <p className="text-sm text-gray-600">Direct access to manufacturer technical teams and application engineers for complex projects</p>
-              </div>
-
-              <div className="text-center p-6 rounded-xl bg-gray-50 border border-gray-200">
-                <div className="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <CheckBadgeIcon className="w-6 h-6 text-white" />
-                </div>
-                <h4 className="font-semibold text-gray-900 mb-2">Quality Assurance</h4>
-                <p className="text-sm text-gray-600">Rigorous quality standards and testing ensure reliable performance in demanding industrial environments</p>
-              </div>
+              ))}
             </div>
           </div>
         </div>
@@ -371,117 +185,68 @@ export default function AboutPage() {
       {/* Our Team Section */}
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16 animate-on-scroll">
+          <div className="text-center mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Meet Our Team</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Our experienced professionals are dedicated to providing exceptional service and technical expertise
             </p>
           </div>
 
-          {/* Management Team */}
           <div className="mb-16">
             <h3 className="text-2xl font-bold text-gray-900 mb-8 text-center">Leadership Team</h3>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-              <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group">
-                <div className="w-20 h-20 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
-                  <span className="text-white font-bold text-xl group-hover:animate-pulse">RO</span>
-                </div>
-                <h4 className="text-xl font-semibold text-gray-900 mb-2">Robert Oldham</h4>
-                <p className="text-gray-600 font-medium mb-3">President</p>
-                <p className="text-gray-600 text-sm mb-4">Leading Westshore Controls with expertise in Industrial Control Equipment Distribution and Sales.</p>
-                <div className="space-y-2">
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <PhoneIcon className="w-4 h-4" />
-                    <span>(+1) 604 817 0987</span>
+              {[
+                { initials: 'RO', name: 'Robert Oldham', role: 'President', desc: 'Leading Westshore Controls with expertise in Industrial Control Equipment Distribution and Sales.', phone: '(+1) 604 817 0987' },
+                { initials: 'JO', name: 'John Oldham', role: 'VFD Specialist', desc: 'Expert in Variable Frequency Drives with specialization in Mining and Forestry Industries automation systems.', phone: '(+1) 604 817 0987' },
+                { initials: 'JT', name: 'Jose Torrecampo, FEC, P.Eng', role: 'Technical Service', desc: 'Technical service specialist providing technical consulting and engineering solutions for complex automation projects.', phone: '(+1) 604 805 0175' },
+              ].map((member) => (
+                <div key={member.initials} className="bg-white rounded-xl border border-gray-200 p-6 text-center hover:shadow-md transition-shadow">
+                  <div className="w-16 h-16 bg-gray-900 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <span className="text-white font-bold text-lg">{member.initials}</span>
                   </div>
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <EnvelopeIcon className="w-4 h-4" />
-                    <span>info@westshorecontrols.com</span>
-                  </div>
-                </div>
-              </div>
-
-              <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-2xl hover:scale-105 hover:-translate-y-2 transition-all duration-300 animate-on-scroll group" style={{ animationDelay: '0.2s' }}>
-                <div className="w-20 h-20 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 group-hover:rotate-6 transition-all duration-300">
-                  <span className="text-white font-bold text-xl group-hover:animate-pulse">JO</span>
-                </div>
-                <h4 className="text-xl font-semibold text-gray-900 mb-2">John Oldham</h4>
-                <p className="text-gray-600 font-medium mb-3">VFD Specialist</p>
-                <p className="text-gray-600 text-sm mb-4">Expert in Variable Frequency Drives with specialization in Mining and Forestry Industries automation systems.</p>
-                <div className="space-y-2">
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <PhoneIcon className="w-4 h-4" />
-                    <span>(+1) 604 817 0987</span>
-                  </div>
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <EnvelopeIcon className="w-4 h-4" />
-                    <span>info@westshorecontrols.com</span>
+                  <h4 className="text-xl font-semibold text-gray-900 mb-2">{member.name}</h4>
+                  <p className="text-sm text-primary-600 font-medium mb-3">{member.role}</p>
+                  <p className="text-gray-600 text-sm mb-4">{member.desc}</p>
+                  <div className="space-y-2">
+                    <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                      <PhoneIcon className="w-4 h-4" />
+                      <span>{member.phone}</span>
+                    </div>
+                    <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                      <EnvelopeIcon className="w-4 h-4" />
+                      <span>info@westshorecontrols.com</span>
+                    </div>
                   </div>
                 </div>
-              </div>
-
-              <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-6 text-center hover:shadow-xl transition-shadow">
-                <div className="w-20 h-20 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <span className="text-white font-bold text-xl">JT</span>
-                </div>
-                <h4 className="text-xl font-semibold text-gray-900 mb-2">Jose Torrecampo, FEC, P.Eng</h4>
-                <p className="text-gray-600 font-medium mb-3">Technical Service</p>
-                <p className="text-gray-600 text-sm mb-4">Technical service specialist providing technical consulting and engineering solutions for complex automation projects.</p>
-                <div className="space-y-2">
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <PhoneIcon className="w-4 h-4" />
-                    <a href="tel:+16048050175" className="text-gray-900 hover:text-gray-700 transition-colors">
-                      (+1) 604 805 0175
-                    </a>
-                  </div>
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <EnvelopeIcon className="w-4 h-4" />
-                    <span>info@westshorecontrols.com</span>
-                  </div>
-                </div>
-              </div>
+              ))}
             </div>
           </div>
 
-          {/* Contact Our Team */}
           <div>
             <h3 className="text-2xl font-bold text-gray-900 mb-8 text-center">Our Dedicated Support</h3>
             <div className="grid md:grid-cols-2 gap-8">
-              <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-8 text-center hover:shadow-xl transition-shadow">
-                <div className="w-20 h-20 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <UserGroupIcon className="w-10 h-10 text-white" />
-                </div>
-                <h4 className="text-xl font-semibold text-gray-900 mb-2">Sales & Customer Service</h4>
-                <p className="text-gray-600 mb-4">Our knowledgeable sales agents work with you to provide accessible, economical, and high quality electrical and automation equipment.</p>
-                <div className="space-y-2">
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <PhoneIcon className="w-4 h-4" />
-                    <span>(+1) 604 817 0987</span>
+              {[
+                { icon: UserGroupIcon, title: 'Sales & Customer Service', desc: 'Our knowledgeable sales agents work with you to provide accessible, economical, and high quality electrical and automation equipment.' },
+                { icon: ShieldCheckIcon, title: 'Technical Support', desc: 'Excellent technical support and customer service is always available to guide you in choosing, purchasing, and maintaining your equipment.' },
+              ].map((dept) => (
+                <div key={dept.title} className="bg-white rounded-xl border border-gray-200 p-8 text-center hover:shadow-md transition-shadow">
+                  <div className="w-16 h-16 bg-gray-900 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <dept.icon className="w-8 h-8 text-white" />
                   </div>
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <EnvelopeIcon className="w-4 h-4" />
-                    <span>info@westshorecontrols.com</span>
-                  </div>
-                </div>
-              </div>
-
-              <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-8 text-center hover:shadow-xl transition-shadow">
-                <div className="w-20 h-20 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <ShieldCheckIcon className="w-10 h-10 text-white" />
-                </div>
-                <h4 className="text-xl font-semibold text-gray-900 mb-2">Technical Support</h4>
-                <p className="text-gray-600 mb-4">Excellent technical support and customer service is always available to guide you in choosing, purchasing, and maintaining your equipment.</p>
-                <div className="space-y-2">
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <PhoneIcon className="w-4 h-4" />
-                    <span>(+1) 604 817 0987</span>
-                  </div>
-                  <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
-                    <EnvelopeIcon className="w-4 h-4" />
-                    <span>info@westshorecontrols.com</span>
+                  <h4 className="text-xl font-semibold text-gray-900 mb-2">{dept.title}</h4>
+                  <p className="text-gray-600 mb-4">{dept.desc}</p>
+                  <div className="space-y-2">
+                    <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                      <PhoneIcon className="w-4 h-4" />
+                      <span>(+1) 604 817 0987</span>
+                    </div>
+                    <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
+                      <EnvelopeIcon className="w-4 h-4" />
+                      <span>info@westshorecontrols.com</span>
+                    </div>
                   </div>
                 </div>
-              </div>
+              ))}
             </div>
           </div>
         </div>
@@ -498,55 +263,37 @@ export default function AboutPage() {
                   To assist you in choosing, purchasing, and maintaining your items, our excellent technical support and customer service is always available to guide you.
                 </p>
                 <p>
-                  You can contact us anytime via phone, fax, mail, e-mail or simply through our website for immediate assistance. By purchasing from our product line, your company will be reassured in knowing that our product is industry proven.
+                  You can contact us anytime via phone, fax, mail, e-mail or simply through our website for immediate assistance.
                 </p>
                 <p className="text-gray-900 font-semibold">
                   We thank you very much for your business and interest in our family of exceptional certified electrical products.
                 </p>
               </div>
             </div>
-
-            <div className="bg-gray-100 rounded-2xl p-8">
+            <div className="bg-gray-50 rounded-xl p-8 border border-gray-200">
               <h3 className="text-xl font-semibold text-gray-900 mb-6">Get in Touch</h3>
-              <div className="space-y-4">
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center">
-                    <PhoneIcon className="w-5 h-5 text-white" />
+              <div className="space-y-4 mb-6">
+                {[
+                  { icon: PhoneIcon, title: 'Phone Support', desc: 'Available during business hours' },
+                  { icon: EnvelopeIcon, title: 'Email Support', desc: '24/7 response within 24 hours' },
+                  { icon: GlobeAmericasIcon, title: 'Website Support', desc: 'Immediate online assistance' },
+                ].map((item) => (
+                  <div key={item.title} className="flex items-center gap-3">
+                    <div className="w-10 h-10 bg-gray-900 rounded-lg flex items-center justify-center">
+                      <item.icon className="w-5 h-5 text-white" />
+                    </div>
+                    <div>
+                      <div className="font-medium text-gray-900">{item.title}</div>
+                      <div className="text-sm text-gray-600">{item.desc}</div>
+                    </div>
                   </div>
-                  <div>
-                    <div className="font-medium text-gray-900">Phone Support</div>
-                    <div className="text-sm text-gray-600">Available during business hours</div>
-                  </div>
-                </div>
-
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center">
-                    <EnvelopeIcon className="w-5 h-5 text-white" />
-                  </div>
-                  <div>
-                    <div className="font-medium text-gray-900">Email Support</div>
-                    <div className="text-sm text-gray-600">24/7 response within 24 hours</div>
-                  </div>
-                </div>
-
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center">
-                    <GlobeAmericasIcon className="w-5 h-5 text-white" />
-                  </div>
-                  <div>
-                    <div className="font-medium text-gray-900">Website Support</div>
-                    <div className="text-sm text-gray-600">Immediate online assistance</div>
-                  </div>
-                </div>
+                ))}
               </div>
-
-              <div className="mt-6">
-                <ContactCard variant="compactNeutral" showEmail={true} showHours={true} />
-              </div>
+              <ContactCard variant="compactNeutral" showEmail={true} showHours={true} />
             </div>
           </div>
         </div>
       </section>
     </div>
   )
-} 
+}

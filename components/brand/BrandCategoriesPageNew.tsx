@@ -1,10 +1,8 @@
 'use client'
 
-import { motion, useInView } from 'framer-motion'
-import { useRef } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import { ArrowRightIcon, ArrowLeftIcon } from '@heroicons/react/24/outline'
+import { ArrowRightIcon, HomeIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
 import {
   BoltIcon,
   CpuChipIcon,
@@ -449,62 +447,11 @@ const getCategoryImage = (category: string, brand?: string) => {
   return imageMap[category] || '/images/westlogo.jpg'
 }
 
-// Animated background particles
-const FloatingParticles = () => {
-  // Use fixed seed values to ensure consistent server/client rendering
-  const particles = Array.from({ length: 12 }, (_, i) => {
-    // Use index-based deterministic values instead of Math.random()
-    const seedX = (i * 17.3 + 23.7) % 100
-    const seedY = (i * 13.1 + 31.9) % 100
-    const seedSize = (i % 3) + 1
-    const seedColor = i % 4
-
-    return {
-      id: i,
-      x: seedX,
-      y: seedY,
-      size: seedSize,
-      color: ['#ef4444', '#f97316', '#3b82f6', '#10b981'][seedColor]
-    }
-  })
-
-  return (
-    <div className="fixed inset-0 pointer-events-none z-0">
-      {particles.map((particle, index) => (
-        <motion.div
-          key={particle.id}
-          className="absolute rounded-full opacity-20"
-          style={{
-            left: `${particle.x}%`,
-            top: `${particle.y}%`,
-            width: particle.size,
-            height: particle.size,
-            backgroundColor: particle.color,
-          }}
-          animate={{
-            y: [0, -30, 0],
-            x: [0, (index % 2 === 0 ? 10 : -10), 0],
-            scale: [1, 1.2, 1],
-          }}
-          transition={{
-            duration: (index % 3) + 2,
-            repeat: Infinity,
-            ease: "easeInOut",
-          }}
-        />
-      ))}
-    </div>
-  )
-}
-
 interface Props {
   selectedBrand: string
 }
 
 export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
-  const ref = useRef(null)
-  const isInView = useInView(ref, { once: true, margin: "-100px" })
-
   // Find the selected brand data
   const brandData = brands.find(brand => brand.name === selectedBrand)
 
@@ -701,116 +648,66 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
     return brandSubcategories ? (brandSubcategories[categoryName] || []) : []
   }
 
+  const getTotalProducts = () => {
+    if (selectedBrand === 'Mitsubishi') return mitsubishiProducts.length
+    if (selectedBrand === 'TMEIC') return tmeicProducts.length
+    if (selectedBrand === 'Katko') return katkoProducts.length
+    if (selectedBrand === 'LS Industrial') return lsIndustrialScraped.length
+    if (selectedBrand === 'Noark') return noarkProducts.length
+    if (selectedBrand === 'Klemsan') return klemsanProducts.length
+    if (selectedBrand === 'Elsteel') return elsteelProducts.length
+    return cleanProductsWithMitsubishi.filter(p => p.brand === selectedBrand).length
+  }
+
   return (
-    <>
-      <FloatingParticles />
+    <div className="min-h-screen bg-white">
+      {/* Header */}
+      <section className="border-b border-gray-100 bg-gray-50/50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <nav className="flex items-center space-x-2 text-sm mb-4">
+            <Link href="/" className="text-gray-500 hover:text-gray-700 flex items-center">
+              <HomeIcon className="w-4 h-4 mr-1" />
+              Home
+            </Link>
+            <ChevronRightIcon className="w-4 h-4 text-gray-400" />
+            <Link href="/products" className="text-gray-500 hover:text-gray-700">
+              Products
+            </Link>
+            <ChevronRightIcon className="w-4 h-4 text-gray-400" />
+            <span className="text-gray-900 font-medium">{selectedBrand}</span>
+          </nav>
 
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5 relative">
-        {/* Hero Section */}
-        <motion.section
-          className="relative pt-24 pb-16 overflow-hidden"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.8 }}
-        >
-          {/* Animated Background Elements */}
-          <div className="absolute inset-0 overflow-hidden">
-            <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
-            <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-          </div>
-
-          <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            {/* Breadcrumb */}
-            <motion.nav
-              className="flex items-center justify-center space-x-2 text-sm mb-8"
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
-            >
-              <Link
-                href="/"
-                className="text-gray-500 hover:text-red-600 transition-colors flex items-center"
-              >
-                <ArrowLeftIcon className="h-4 w-4 mr-1" />
-                Home
-              </Link>
-              <span className="text-gray-400">/</span>
-              <span className="text-red-600 font-medium">{selectedBrand}</span>
-            </motion.nav>
-
-            <motion.div
-              className="flex items-center justify-center gap-4 mb-6"
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, delay: 0.3 }}
-            >
-              <div className="flex items-center bg-white rounded-xl px-4 py-2 shadow-lg">
-                <Image
-                  src={brandData.logo}
-                  alt={`${brandData.name} logo`}
-                  width={120}
-                  height={40}
-                  className="max-w-full max-h-20 object-contain group-hover:scale-110 transition-transform duration-300"
-                />
-              </div>
-              <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900">
-                Products
+          <div className="flex items-center gap-4 mb-3">
+            <div className="bg-white rounded-lg px-3 py-2 border border-gray-200">
+              <Image
+                src={brandData.logo}
+                alt={`${brandData.name} logo`}
+                width={100}
+                height={36}
+                className="max-h-12 w-auto object-contain"
+              />
+            </div>
+            <div>
+              <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
+                {selectedBrand} Products
               </h1>
-            </motion.div>
-
-            <motion.div
-              className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full"
-              initial={{ width: 0 }}
-              animate={{ width: 96 }}
-              transition={{ duration: 0.8, delay: 0.5 }}
-            />
-
-            <motion.p
-              className="text-xl text-gray-600 max-w-3xl mx-auto mb-8"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, delay: 0.4 }}
-            >
-              {brandData.description} - Select a product category to explore our products
-            </motion.p>
-
-            {/* Stats */}
-            <motion.div
-              className="flex flex-wrap justify-center gap-8 mb-8"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, delay: 0.6 }}
-            >
-              <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
-                <span className="font-medium text-gray-700">{brandData.categories.length} Categories</span>
-              </div>
-              <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
-                <span className="font-medium text-gray-700">
-                  {selectedBrand === 'Mitsubishi'
-                    ? mitsubishiProducts.length
-                    : selectedBrand === 'TMEIC'
-                      ? tmeicProducts.length
-                      : selectedBrand === 'Katko'
-                        ? katkoProducts.length
-                        : selectedBrand === 'LS Industrial'
-                          ? lsIndustrialScraped.length
-                          : selectedBrand === 'Noark'
-                            ? noarkProducts.length
-                            : selectedBrand === 'Klemsan'
-                              ? klemsanProducts.length
-                              : selectedBrand === 'Elsteel'
-                                ? elsteelProducts.length
-                                : cleanProductsWithMitsubishi.filter(p => p.brand === selectedBrand).length} Products
-                </span>
-              </div>
-            </motion.div>
+              <p className="text-sm text-gray-500 mt-1">
+                {brandData.categories.length} categories &middot; {getTotalProducts().toLocaleString()} products
+              </p>
+            </div>
           </div>
-        </motion.section>
 
-        {/* Product Categories Grid */}
-        <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16" ref={ref}>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
-            {brandData.categories.map((category, index) => {
+          <p className="text-gray-600 max-w-3xl">
+            {brandData.description}
+          </p>
+        </div>
+      </section>
+
+      {/* Categories Grid */}
+      <section className="py-12">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {brandData.categories.map((category) => {
               const productCount = getCategoryProductCount(category)
               const IconComponent = getCategoryIcon(category)
               const colorClass = getCategoryColor(category)
@@ -818,187 +715,106 @@ export default function BrandCategoriesPageNew({ selectedBrand }: Props) {
               const brandSlug = getBrandSlug(selectedBrand)
 
               return (
-                <motion.div
+                <Link
                   key={category}
-                  initial={{ opacity: 0, y: 50, scale: 0.9 }}
-                  animate={isInView ? { opacity: 1, y: 0, scale: 1 } : { opacity: 0, y: 50, scale: 0.9 }}
-                  transition={{
-                    delay: index * 0.1,
-                    duration: 0.6,
-                    ease: "easeOut"
-                  }}
-                  whileHover={{
-                    scale: 1.02,
-                    y: -5,
-                    boxShadow: '0 25px 50px rgba(0,0,0,0.15)'
-                  }}
-                  className="perspective-1000"
+                  href={productCount === 0
+                    ? '/contact'
+                    : `/${brandSlug}/${getCategorySlug(category)}`}
+                  className="group bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-md transition-all duration-200 block"
                 >
-                  <Link
-                    href={hasSubcategories(selectedBrand, category)
-                      ? `/${brandSlug}/${getCategorySlug(category)}`
-                      : productCount === 0
-                        ? '/contact'
-                        : `/${brandSlug}/${getCategorySlug(category)}`}
-                    className="group relative bg-white rounded-3xl border border-gray-200/60 overflow-hidden hover:shadow-2xl hover:shadow-red-500/10 transition-all duration-500 cursor-pointer block touch-manipulation h-full backdrop-blur-sm"
-                  >
-                    {/* Subtle hover gradient that doesn't interfere with white blend */}
-                    <motion.div
-                      className="absolute inset-0 opacity-0 group-hover:opacity-100 pointer-events-none"
-                      style={{
-                        background: 'linear-gradient(135deg, rgba(239, 68, 68, 0.02), transparent 60%)'
-                      }}
-                      transition={{ duration: 0.4 }}
+                  <div className="relative w-full h-52 bg-gray-50">
+                    <Image
+                      src={categoryImage.startsWith('http') ? categoryImage : getImageUrl(categoryImage)}
+                      alt={`${category} example`}
+                      fill
+                      className="object-contain p-6 group-hover:scale-105 transition-transform duration-300"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                      unoptimized={categoryImage.startsWith('http')}
                     />
-
-                    {/* Product Image */}
-                    <div className="relative w-full h-64 bg-white transition-all duration-300">
-                      <Image
-                        src={categoryImage.startsWith('http') ? categoryImage : getImageUrl(categoryImage)}
-                        alt={`${category} example`}
-                        fill
-                        className="object-contain p-6 group-hover:scale-110 transition-transform duration-500 z-10 relative"
-                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                        unoptimized={categoryImage.startsWith('http')}
-                      />
-
-                      {/* Category Icon Overlay with enhanced visibility */}
-                      <div className="absolute top-4 right-4 z-20">
-                        <motion.div
-                          className={`${colorClass} p-3 rounded-xl shadow-xl backdrop-blur-sm border border-white/20`}
-                          whileHover={{ scale: 1.15, rotate: 5 }}
-                          transition={{ duration: 0.3 }}
-                        >
-                          <IconComponent className="h-6 w-6 text-white drop-shadow-lg" />
-                        </motion.div>
-                      </div>
-
-                      {/* Product count badge */}
-                      <div className="absolute bottom-4 left-4 z-20">
-                        <div className="bg-white/90 backdrop-blur-md px-3 py-1 rounded-full shadow-lg border border-white/30">
-                          <span className="text-xs font-semibold text-gray-700">{productCount === 0 ? 'Please call regarding products' : productCount} Items</span>
-                        </div>
+                    <div className="absolute top-3 right-3">
+                      <div className={`${colorClass} p-2 rounded-lg`}>
+                        <IconComponent className="h-5 w-5 text-white" />
                       </div>
                     </div>
+                  </div>
 
-                    {/* Category Info */}
-                    <div className="p-6 relative z-10 bg-white">
-                      <h3 className="text-xl font-bold text-gray-900 group-hover:text-red-600 transition-colors leading-tight mb-3 line-clamp-2">
-                        {category}
-                      </h3>
+                  <div className="p-5">
+                    <h3 className="text-lg font-semibold text-gray-900 group-hover:text-red-600 transition-colors mb-2 line-clamp-2">
+                      {category}
+                    </h3>
 
-                      {/* Enhanced product count with better styling */}
-                      <div className="flex items-center justify-between mb-4">
-                        <div className="flex items-center">
-                          <div className="w-2 h-2 bg-red-500 rounded-full mr-2"></div>
-                          <p className="text-sm font-medium text-gray-600">
-                            {productCount === 0 ? 'Please call regarding products' : `${productCount} ${selectedBrand === 'Klemsan' ? 'Models' : 'Products'} Available`}
-                          </p>
-                        </div>
-                      </div>
+                    <p className="text-sm text-gray-500 mb-4">
+                      {productCount === 0
+                        ? 'Contact us for availability'
+                        : `${productCount} ${selectedBrand === 'Klemsan' ? 'models' : 'products'} available`}
+                    </p>
 
-                      {/* Action with enhanced styling */}
-                      <div className="flex items-center justify-between pt-2 border-t border-gray-100">
-                        <motion.span
-                          className="text-red-600 font-semibold group-hover:text-red-700 transition-colors flex items-center text-sm"
-                          whileHover={{ x: 5 }}
-                          transition={{ duration: 0.2 }}
-                        >
-                          {productCount === 0 ? 'Call to Inquire' : 'View Products'}
-                          <ArrowRightIcon className="h-4 w-4 ml-2 group-hover:translate-x-1 transition-transform duration-200" />
-                        </motion.span>
-
-                        {/* Visual indicator */}
-                        <div className="w-8 h-8 bg-red-50 rounded-full flex items-center justify-center group-hover:bg-red-100 transition-colors">
-                          <ArrowRightIcon className="h-4 w-4 text-red-500 group-hover:text-red-600" />
-                        </div>
-                      </div>
+                    <div className="flex items-center justify-between pt-3 border-t border-gray-100">
+                      <span className="text-sm font-medium text-red-600 group-hover:text-red-700 flex items-center">
+                        {productCount === 0 ? 'Inquire' : 'View Products'}
+                        <ArrowRightIcon className="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform" />
+                      </span>
                     </div>
-                  </Link>
-                </motion.div>
+                  </div>
+                </Link>
               )
             })}
 
             {/* Inquiry Card */}
-            <motion.div
-              initial={{ opacity: 0, y: 50, scale: 0.9 }}
-              animate={isInView ? { opacity: 1, y: 0, scale: 1 } : { opacity: 0, y: 50, scale: 0.9 }}
-              transition={{
-                delay: brandData.categories.length * 0.1,
-                duration: 0.6,
-                ease: "easeOut"
-              }}
-              whileHover={{
-                scale: 1.02,
-                y: -5,
-                boxShadow: '0 25px 50px rgba(0,0,0,0.15)'
-              }}
-              className="perspective-1000"
+            <Link
+              href="/contact"
+              className="group bg-gray-900 rounded-lg overflow-hidden hover:bg-gray-800 transition-colors block"
             >
-              <Link
-                href="/contact"
-                className="group relative bg-gradient-to-br from-red-500 to-red-700 rounded-3xl border border-red-300/30 overflow-hidden hover:shadow-2xl hover:shadow-red-500/30 transition-all duration-500 cursor-pointer block touch-manipulation h-full backdrop-blur-sm"
-              >
-                {/* Animated gradient overlay */}
-                <motion.div
-                  className="absolute inset-0 bg-gradient-to-br from-red-400/20 to-red-800/20 opacity-0 group-hover:opacity-100 pointer-events-none"
-                  transition={{ duration: 0.4 }}
-                />
-
-                {/* Inquiry Content */}
-                <div className="relative h-64 flex flex-col items-center justify-center p-6 text-white">
-                  {/* Icon */}
-                  <motion.div
-                    className="mb-4 p-4 bg-white/20 backdrop-blur-sm rounded-2xl border border-white/30"
-                    whileHover={{ scale: 1.1, rotate: 5 }}
-                    transition={{ duration: 0.3 }}
-                  >
-                    <svg className="h-8 w-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
-                    </svg>
-                  </motion.div>
-
-                  <h3 className="text-xl font-bold text-center mb-2 leading-tight">
-                    Questions About Our Products?
-                  </h3>
-
-                  <p className="text-white/90 text-center text-sm mb-4 line-clamp-2">
-                    Need help selecting the right {selectedBrand} products for your application?
-                  </p>
-
-                  <div className="w-full border-t border-white/20 pt-4">
-                    <motion.span
-                      className="text-white font-semibold group-hover:text-white/90 transition-colors flex items-center justify-center text-sm"
-                      whileHover={{ x: 5 }}
-                      transition={{ duration: 0.2 }}
-                    >
-                      Inquire Now
-                      <ArrowRightIcon className="h-4 w-4 ml-2 group-hover:translate-x-1 transition-transform duration-200" />
-                    </motion.span>
-                  </div>
+              <div className="h-full flex flex-col items-center justify-center p-8 text-center">
+                <div className="mb-4 p-3 bg-white/10 rounded-lg">
+                  <svg className="h-7 w-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+                  </svg>
                 </div>
 
-                {/* Bottom section with CTA */}
-                <div className="p-6 relative z-10 bg-white/10 backdrop-blur-sm border-t border-white/20">
-                  <div className="flex items-center justify-between">
-                    <div className="flex items-center">
-                      <div className="w-2 h-2 bg-white rounded-full mr-2"></div>
-                      <p className="text-sm font-medium text-white/90">
-                        Expert Technical Support
-                      </p>
-                    </div>
+                <h3 className="text-lg font-semibold text-white mb-2">
+                  Need Help Selecting Products?
+                </h3>
 
-                    {/* Visual indicator */}
-                    <div className="w-8 h-8 bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center group-hover:bg-white/30 transition-colors">
-                      <ArrowRightIcon className="h-4 w-4 text-white" />
-                    </div>
-                  </div>
-                </div>
-              </Link>
-            </motion.div>
+                <p className="text-gray-400 text-sm mb-6">
+                  Our team can help you find the right {selectedBrand} products for your application.
+                </p>
+
+                <span className="text-sm font-medium text-white flex items-center">
+                  Contact Us
+                  <ArrowRightIcon className="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform" />
+                </span>
+              </div>
+            </Link>
           </div>
-        </section>
-      </div>
-    </>
+        </div>
+      </section>
+
+      {/* CTA Section */}
+      <section className="border-t border-gray-100 bg-gray-50/50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
+          <h2 className="text-xl font-semibold text-gray-900 mb-2">
+            Authorized {selectedBrand} Distributor
+          </h2>
+          <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
+            Westshore Controls provides the complete {selectedBrand} product line with expert technical support and competitive pricing.
+          </p>
+          <div className="flex items-center justify-center gap-4">
+            <Link
+              href="/contact"
+              className="inline-flex items-center px-5 py-2.5 bg-gray-900 text-white text-sm font-medium rounded-lg hover:bg-gray-800 transition-colors"
+            >
+              Request a Quote
+            </Link>
+            <Link
+              href="/products"
+              className="inline-flex items-center px-5 py-2.5 border border-gray-300 text-gray-700 text-sm font-medium rounded-lg hover:bg-gray-50 transition-colors"
+            >
+              Browse All Brands
+            </Link>
+          </div>
+        </div>
+      </section>
+    </div>
   )
 } 

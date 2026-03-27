@@ -1,8 +1,7 @@
 'use client'
 
 import { useState, useEffect, useCallback } from 'react'
-import { motion } from 'framer-motion'
-import { ArrowLeftIcon } from '@heroicons/react/24/outline'
+import { HomeIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
 import Link from 'next/link'
 import DynamicProductGrid from '@/components/product/DynamicProductGrid'
 import ProductDetailsModal from '@/components/product/ProductDetailsModal'
@@ -194,24 +193,22 @@ export default function ProductsPageNew({
 
   if (isLoading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
-        <div className="pt-24 pb-8">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="h-6 bg-gray-200 rounded animate-pulse mb-4 w-64"></div>
-            <div className="h-12 bg-gray-200 rounded animate-pulse mb-4 w-96"></div>
-            <div className="h-6 bg-gray-200 rounded animate-pulse w-80"></div>
+      <div className="min-h-screen bg-white">
+        <div className="border-b border-gray-100 bg-gray-50/50">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+            <div className="h-4 bg-gray-200 rounded animate-pulse mb-4 w-48"></div>
+            <div className="h-8 bg-gray-200 rounded animate-pulse mb-3 w-72"></div>
+            <div className="h-5 bg-gray-200 rounded animate-pulse w-96"></div>
           </div>
         </div>
-
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
             {Array.from({ length: 12 }).map((_, i) => (
-              <div key={i} className="bg-white rounded-xl shadow-lg overflow-hidden">
-                <div className="h-48 bg-gray-200 animate-pulse"></div>
-                <div className="p-4">
+              <div key={i} className="bg-white rounded-lg border border-gray-200 overflow-hidden">
+                <div className="h-44 bg-gray-100 animate-pulse"></div>
+                <div className="p-5">
                   <div className="h-4 bg-gray-200 rounded animate-pulse mb-2"></div>
-                  <div className="h-3 bg-gray-200 rounded animate-pulse mb-2 w-3/4"></div>
-                  <div className="h-3 bg-gray-200 rounded animate-pulse w-1/2"></div>
+                  <div className="h-3 bg-gray-200 rounded animate-pulse w-3/4"></div>
                 </div>
               </div>
             ))}
@@ -222,99 +219,66 @@ export default function ProductsPageNew({
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
-      {/* Hero Section */}
-      <section className="relative pt-24 pb-8 overflow-hidden">
-        <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
-          <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-        </div>
-
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Breadcrumbs */}
-          <nav className="flex mb-6" aria-label="Breadcrumb">
-            <ol className="inline-flex items-center space-x-1 md:space-x-3">
-              {breadcrumbs.map((breadcrumb, index) => (
-                <li key={breadcrumb.name} className="inline-flex items-center">
-                  {index > 0 && (
-                    <svg className="w-6 h-6 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-                    </svg>
-                  )}
-                  {index === breadcrumbs.length - 1 ? (
-                    <span className="ml-1 text-sm font-medium text-gray-500 md:ml-2">
-                      {breadcrumb.name}
-                    </span>
-                  ) : (
-                    <Link
-                      href={breadcrumb.href}
-                      className="ml-1 text-sm font-medium text-gray-700 hover:text-red-600 md:ml-2"
-                    >
-                      {breadcrumb.name}
-                    </Link>
-                  )}
-                </li>
-              ))}
-            </ol>
+    <div className="min-h-screen bg-white">
+      <section className="border-b border-gray-100 bg-gray-50/50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <nav className="flex items-center space-x-2 text-sm mb-4" aria-label="Breadcrumb">
+            {breadcrumbs.map((breadcrumb, index) => (
+              <span key={breadcrumb.name} className="inline-flex items-center">
+                {index > 0 && (
+                  <ChevronRightIcon className="w-4 h-4 text-gray-400 mr-2" />
+                )}
+                {index === 0 ? (
+                  <Link
+                    href={breadcrumb.href}
+                    className="text-gray-500 hover:text-gray-700 flex items-center"
+                  >
+                    <HomeIcon className="w-4 h-4 mr-1" />
+                    {breadcrumb.name}
+                  </Link>
+                ) : index === breadcrumbs.length - 1 ? (
+                  <span className="text-gray-900 font-medium">
+                    {breadcrumb.name}
+                  </span>
+                ) : (
+                  <Link
+                    href={breadcrumb.href}
+                    className="text-gray-500 hover:text-gray-700"
+                  >
+                    {breadcrumb.name}
+                  </Link>
+                )}
+              </span>
+            ))}
           </nav>
 
-          {/* Back Button */}
-          {breadcrumbs.length > 2 && (
-            <Link
-              href={breadcrumbs[breadcrumbs.length - 2].href}
-              className="inline-flex items-center text-sm text-gray-600 hover:text-red-600 mb-4 transition-colors"
-            >
-              <ArrowLeftIcon className="h-4 w-4 mr-1" />
-              Back to {breadcrumbs[breadcrumbs.length - 2].name}
-            </Link>
-          )}
-
-          {/* Page Title */}
-          <motion.h1
-            className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4"
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-          >
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
             {getPageTitle()}
-          </motion.h1>
-
-          <motion.p
-            className="text-xl text-gray-600 mb-8"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.2 }}
-          >
+          </h1>
+          <p className="mt-2 text-gray-600 max-w-3xl">
             {getPageDescription()}
-          </motion.p>
-
-          {/* Product Count */}
-          <motion.div
-            className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg inline-flex"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.4 }}
-          >
-            <span className="font-medium text-gray-700">
-              {filteredProducts.length} Products Found
-            </span>
-          </motion.div>
+          </p>
+          {filteredProducts.length > 0 && (
+            <p className="mt-2 text-sm text-gray-500">
+              {filteredProducts.length} products available
+            </p>
+          )}
         </div>
       </section>
 
-      {/* Products Grid */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
-        <DynamicProductGrid
-          products={filteredProducts}
-          onProductClick={handleProductClick}
-          enablePagination={true}
-          itemsPerPage={24}
-          showSearch={true}
-          searchPlaceholder={`Search ${selectedBrand || ''} products...`}
-        />
+      <section className="py-12">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <DynamicProductGrid
+            products={filteredProducts}
+            onProductClick={handleProductClick}
+            enablePagination={true}
+            itemsPerPage={24}
+            showSearch={true}
+            searchPlaceholder={`Search ${selectedBrand || ''} products...`}
+          />
+        </div>
       </section>
 
-      {/* Product Details Modal */}
       <ProductDetailsModal
         product={selectedProduct}
         isOpen={isModalOpen}

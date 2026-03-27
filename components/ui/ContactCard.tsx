@@ -1,6 +1,5 @@
 'use client'
 
-import { motion } from 'framer-motion'
 import { PhoneIcon, EnvelopeIcon, ClockIcon } from '@heroicons/react/24/outline'
 
 interface ContactCardProps {
@@ -10,9 +9,9 @@ interface ContactCardProps {
   className?: string
 }
 
-export default function ContactCard({ 
-  variant = 'default', 
-  showEmail = true, 
+export default function ContactCard({
+  variant = 'default',
+  showEmail = true,
   showHours = false,
   className = ""
 }: ContactCardProps) {
@@ -24,34 +23,30 @@ export default function ContactCard({
     const isNeutral = variant === 'inlineNeutral'
     return (
       <div className={`flex flex-col sm:flex-row gap-3 ${className}`}>
-        <motion.a
-          href={`tel:+16048170987`}
-          className={`group font-semibold px-6 py-3 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center ${
+        <a
+          href="tel:+16048170987"
+          className={`font-semibold px-6 py-3 rounded-md transition-colors duration-200 flex items-center justify-center ${
             isNeutral
               ? 'bg-white text-gray-900 hover:bg-gray-100'
-              : 'bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white'
+              : 'bg-primary-600 hover:bg-primary-700 text-white'
           }`}
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
         >
-          <PhoneIcon className="w-5 h-5 mr-2 group-hover:animate-bounce" />
+          <PhoneIcon className="w-5 h-5 mr-2" />
           <span>Call Now: {phone}</span>
-        </motion.a>
-        
+        </a>
+
         {showEmail && (
-          <motion.a
+          <a
             href={`mailto:${email}`}
-            className={`group font-semibold px-6 py-3 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center ${
+            className={`font-semibold px-6 py-3 rounded-md transition-colors duration-200 flex items-center justify-center ${
               isNeutral
-                ? 'bg-transparent border-2 border-white text-white hover:bg-white/10'
-                : 'bg-white border-2 border-primary-500 text-primary-600 hover:bg-primary-50'
+                ? 'bg-transparent border border-white text-white hover:bg-white/10'
+                : 'bg-white border border-primary-600 text-primary-600 hover:bg-primary-50'
             }`}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
           >
-            <EnvelopeIcon className="w-5 h-5 mr-2 group-hover:animate-pulse" />
+            <EnvelopeIcon className="w-5 h-5 mr-2" />
             <span>Send Email</span>
-          </motion.a>
+          </a>
         )}
       </div>
     )
@@ -60,48 +55,41 @@ export default function ContactCard({
   if (variant === 'compact' || variant === 'compactNeutral') {
     const isNeutral = variant === 'compactNeutral'
     return (
-      <motion.div 
-        className={`bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-xl transition-all duration-300 ${className}`}
-        whileHover={{ y: -5 }}
-      >
+      <div className={`bg-white rounded-xl border border-gray-200 p-6 ${className}`}>
         <div className="text-center">
-          <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${
-            isNeutral ? 'bg-gray-800' : 'bg-gradient-to-r from-primary-500 to-primary-600'
+          <div className={`w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4 ${
+            isNeutral ? 'bg-gray-900' : 'bg-primary-600'
           }`}>
-            <PhoneIcon className="w-8 h-8 text-white" />
+            <PhoneIcon className="w-7 h-7 text-white" />
           </div>
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Contact Us</h3>
           <p className="text-gray-600 text-sm mb-4">Get expert support for your electrical needs</p>
-          
+
           <div className="space-y-3">
-            <motion.a
-              href={`tel:+16048170987`}
-              className={`group block font-medium py-2 px-4 rounded-lg transition-all duration-200 ${
-                isNeutral ? 'bg-gray-800 hover:bg-gray-700 text-white' : 'bg-primary-500 hover:bg-primary-600 text-white'
+            <a
+              href="tel:+16048170987"
+              className={`block font-medium py-2 px-4 rounded-md transition-colors duration-200 ${
+                isNeutral ? 'bg-gray-900 hover:bg-gray-800 text-white' : 'bg-primary-600 hover:bg-primary-700 text-white'
               }`}
-              whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
             >
               <div className="flex items-center justify-center">
-                <PhoneIcon className="w-4 h-4 mr-2 group-hover:animate-bounce" />
+                <PhoneIcon className="w-4 h-4 mr-2" />
                 <span>{phone}</span>
               </div>
-            </motion.a>
-            
+            </a>
+
             {showEmail && (
-              <motion.a
+              <a
                 href={`mailto:${email}`}
-                className="group block bg-gray-100 hover:bg-gray-200 text-gray-700 font-medium py-2 px-4 rounded-lg transition-all duration-200"
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
+                className="block bg-gray-100 hover:bg-gray-200 text-gray-700 font-medium py-2 px-4 rounded-md transition-colors duration-200"
               >
                 <div className="flex items-center justify-center">
-                  <EnvelopeIcon className="w-4 h-4 mr-2 group-hover:animate-pulse" />
+                  <EnvelopeIcon className="w-4 h-4 mr-2" />
                   <span className="text-sm">Email Us</span>
                 </div>
-              </motion.a>
+              </a>
             )}
-            
+
             {showHours && (
               <div className="flex items-center justify-center text-xs text-gray-500 mt-2">
                 <ClockIcon className="w-3 h-3 mr-1" />
@@ -110,58 +98,50 @@ export default function ContactCard({
             )}
           </div>
         </div>
-      </motion.div>
+      </div>
     )
   }
 
-  // Default variant - full contact card
   return (
-    <motion.div 
-      className={`bg-white rounded-xl shadow-lg border border-gray-200 p-8 hover:shadow-xl transition-all duration-300 ${className}`}
-      whileHover={{ y: -5 }}
-    >
+    <div className={`bg-white rounded-xl border border-gray-200 p-8 ${className}`}>
       <div className="text-center">
-        <div className="w-20 h-20 bg-gradient-to-r from-primary-500 to-primary-600 rounded-full flex items-center justify-center mx-auto mb-6">
-          <PhoneIcon className="w-10 h-10 text-white" />
+        <div className="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-6">
+          <PhoneIcon className="w-8 h-8 text-white" />
         </div>
         <h3 className="text-2xl font-semibold text-gray-900 mb-2">Get In Touch</h3>
         <p className="text-gray-600 mb-6">Ready to help with your electrical and automation needs</p>
-        
+
         <div className="space-y-4">
-          <motion.a
-            href={`tel:+16048170987`}
-            className="group block bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white font-semibold py-4 px-6 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl"
-            whileHover={{ scale: 1.02 }}
-            whileTap={{ scale: 0.98 }}
+          <a
+            href="tel:+16048170987"
+            className="block bg-primary-600 hover:bg-primary-700 text-white font-semibold py-4 px-6 rounded-md transition-colors duration-200"
           >
             <div className="flex items-center justify-center">
-              <PhoneIcon className="w-5 h-5 mr-3 group-hover:animate-bounce" />
+              <PhoneIcon className="w-5 h-5 mr-3" />
               <div>
                 <div className="font-bold">Call Now</div>
                 <div className="text-sm opacity-90">{phone}</div>
               </div>
             </div>
-          </motion.a>
-          
+          </a>
+
           {showEmail && (
-            <motion.a
+            <a
               href={`mailto:${email}`}
-              className="group block bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold py-3 px-6 rounded-lg transition-all duration-300"
-              whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
+              className="block bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold py-3 px-6 rounded-md transition-colors duration-200"
             >
               <div className="flex items-center justify-center">
-                <EnvelopeIcon className="w-5 h-5 mr-3 group-hover:animate-pulse" />
+                <EnvelopeIcon className="w-5 h-5 mr-3" />
                 <div>
                   <div className="font-medium">Send Email</div>
                   <div className="text-xs text-gray-500">{email}</div>
                 </div>
               </div>
-            </motion.a>
+            </a>
           )}
-          
+
           {showHours && (
-            <div className="bg-gray-50 rounded-lg p-3 mt-4">
+            <div className="bg-gray-50 rounded-md p-3 mt-4">
               <div className="flex items-center justify-center text-sm text-gray-600">
                 <ClockIcon className="w-4 h-4 mr-2" />
                 <div>
@@ -173,6 +153,6 @@ export default function ContactCard({
           )}
         </div>
       </div>
-    </motion.div>
+    </div>
   )
-} 
+}

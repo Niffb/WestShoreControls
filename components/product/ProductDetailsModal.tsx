@@ -254,21 +254,6 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
                         </div>
                       )}
 
-                      {/* Stock Status */}
-                      <div className="flex items-center gap-2">
-                        {product.inStock !== false ? (
-                          <>
-                            <CheckCircleIcon className="h-5 w-5 text-green-500" />
-                            <span className="text-sm text-green-600 font-medium">In Stock</span>
-                          </>
-                        ) : (
-                          <>
-                            <XMarkIcon className="h-5 w-5 text-red-500" />
-                            <span className="text-sm text-red-600 font-medium">Contact for Availability</span>
-                          </>
-                        )}
-                      </div>
-
                       {/* Action Buttons */}
                       <div className="bg-gray-50 p-4 rounded-xl mt-4">
                         <div className="flex justify-center gap-3">

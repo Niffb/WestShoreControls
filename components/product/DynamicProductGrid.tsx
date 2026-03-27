@@ -215,17 +215,12 @@ const ProductCard = memo(({
           </p>
         </td>
         
-        {/* Status */}
         <td className="p-3 hidden lg:table-cell">
-          {product.inStock ? (
-            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
-              In Stock
-            </span>
-          ) : (
-            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-red-100 text-red-800">
-              Out of Stock
-            </span>
-          )}
+          <p className="text-sm text-gray-600 line-clamp-1">
+            {product.specs && product.specs.length > 2
+              ? product.specs.slice(2, 4).join(' · ')
+              : '—'}
+          </p>
         </td>
       </motion.tr>
     );
@@ -296,37 +291,22 @@ const ProductCard = memo(({
       variants={itemVariants}
       initial="hidden"
       animate={inView ? "visible" : "hidden"}
-      className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 group cursor-pointer overflow-hidden border border-gray-100"
+      className="bg-white rounded-lg border border-gray-200 hover:shadow-md transition-shadow group cursor-pointer overflow-hidden flex flex-col h-full"
       onClick={handleClick}
     >
-      {/* Product Image */}
-      <div className="relative h-48 bg-white overflow-hidden">
-        {/* Loading skeleton */}
+      <div className="relative h-44 bg-gray-50 overflow-hidden flex-shrink-0">
         {!imageLoaded && !imageError && (
-          <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse flex items-center justify-center">
-            <div className="w-12 h-12 bg-gray-400 rounded-lg opacity-50"></div>
-          </div>
+          <div className="absolute inset-0 bg-gray-100 animate-pulse" />
         )}
-        
-        {/* Badge - disabled since product-loader Product type doesn't have badge field */}
-        {/* {product.badge && product.category !== "Variable Frequency Drives" && (
-          <div className="absolute top-3 left-3 z-10">
-            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800">
-              {product.badge}
-            </span>
-          </div>
-        )} */}
 
-        {/* Lazy load images only when in view */}
         {inView && (
           <img
             src={imageError ? '/images/westlogo.jpg' : finalImageUrl}
             alt={`${product.name} - ${product.brand}`}
-            className={`w-full h-full object-contain p-4 group-hover:scale-105 ${
-              // For VFD products using westlogo.jpg, no transitions - show immediately
+            className={`w-full h-full object-contain p-4 ${
               product.category === 'Variable Frequency Drives' || imageError
                 ? 'opacity-100' 
-                : `transition-all duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
+                : `transition-opacity duration-300 ${imageLoaded ? 'opacity-100' : 'opacity-0'}`
             }`}
             onLoad={handleImageLoad}
             onError={handleImageError}
@@ -335,51 +315,24 @@ const ProductCard = memo(({
         )}
       </div>
 
-      {/* Product Info */}
-      <div className="p-4">
-        <div className="mb-2">
-          <h3 className="text-lg font-semibold text-gray-900 line-clamp-2 group-hover:text-primary-600 transition-colors">
-            {product.name}
-          </h3>
-        </div>
+      <div className="p-4 flex flex-col flex-grow">
+        <h3 className="font-semibold text-gray-900 mb-1 line-clamp-2 group-hover:text-primary-600 transition-colors">
+          {product.name}
+        </h3>
         
-        <p className="text-sm text-primary-600 font-medium mb-2">
-          {product.brand} • {product.category}
+        <p className="text-xs text-gray-500 font-medium mb-2">
+          {product.brand} · {product.category}
         </p>
         
-        <p className="text-gray-600 text-sm line-clamp-3 mb-3">
+        <p className="text-sm text-gray-500 line-clamp-2 mb-3 flex-grow">
           {product.description}
         </p>
 
-        {/* Product specs preview */}
-        {product.specs && product.specs.length > 0 && (
-          <div className="border-t pt-3">
-            <p className="text-xs text-gray-500 mb-1">Key Specifications:</p>
-            <div className="flex flex-wrap gap-1">
-              {product.specs.slice(0, 2).map((spec, index) => (
-                <span
-                  key={index}
-                  className="inline-block px-2 py-1 bg-gray-100 text-xs text-gray-600 rounded"
-                >
-                  {spec.length > 20 ? `${spec.substring(0, 20)}...` : spec}
-                </span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {/* View Details Button */}
         {onClick && (
-          <button
-            onClick={(e) => {
-              e.stopPropagation()
-              handleClick()
-            }}
-            className="mt-4 w-full bg-red-600 text-white py-2 px-4 rounded-lg hover:bg-red-700 transition-colors flex items-center justify-center gap-2 font-medium"
-          >
-            <EyeIcon className="h-5 w-5" />
+          <span className="inline-flex items-center gap-1.5 text-sm font-medium text-primary-600 mt-auto">
+            <EyeIcon className="w-4 h-4" />
             View Details
-          </button>
+          </span>
         )}
       </div>
     </motion.div>
@@ -432,12 +385,12 @@ const ProductCardSkeleton = ({ viewMode }: { viewMode: 'grid' | 'list' | 'table'
   }
 
   return (
-    <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100">
-      <div className="h-48 bg-gray-200 animate-pulse"></div>
+    <div className="bg-white rounded-lg border border-gray-200 overflow-hidden">
+      <div className="h-44 bg-gray-100 animate-pulse"></div>
       <div className="p-4">
-        <div className="h-5 bg-gray-200 rounded w-3/4 mb-3 animate-pulse"></div>
-        <div className="h-4 bg-gray-200 rounded w-1/2 mb-3 animate-pulse"></div>
-        <div className="h-4 bg-gray-200 rounded w-5/6 animate-pulse"></div>
+        <div className="h-4 bg-gray-200 rounded w-3/4 mb-2 animate-pulse"></div>
+        <div className="h-3 bg-gray-200 rounded w-1/2 mb-2 animate-pulse"></div>
+        <div className="h-3 bg-gray-200 rounded w-5/6 animate-pulse"></div>
       </div>
     </div>
   )
@@ -538,7 +491,7 @@ export default function DynamicProductGrid({
                     Specifications
                   </th>
                   <th scope="col" className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider hidden lg:table-cell">
-                    Status
+                    More specs
                   </th>
                 </tr>
               </thead>

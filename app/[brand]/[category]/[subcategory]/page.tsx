@@ -230,7 +230,30 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
   }
 
   return (
-    <Suspense fallback={<div className="min-h-screen pt-20 flex items-center justify-center">Loading...</div>}>
+    <Suspense fallback={
+      <div className="min-h-screen bg-white">
+        <div className="border-b border-gray-100 bg-gray-50/50">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+            <div className="h-4 bg-gray-200 rounded animate-pulse mb-4 w-48"></div>
+            <div className="h-8 bg-gray-200 rounded animate-pulse mb-2 w-72"></div>
+            <div className="h-4 bg-gray-200 rounded animate-pulse w-96"></div>
+          </div>
+        </div>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {Array.from({ length: 8 }).map((_, i) => (
+              <div key={i} className="bg-white rounded-lg border border-gray-200 overflow-hidden">
+                <div className="h-48 bg-gray-100 animate-pulse"></div>
+                <div className="p-4">
+                  <div className="h-4 bg-gray-200 rounded animate-pulse mb-2"></div>
+                  <div className="h-3 bg-gray-200 rounded animate-pulse w-3/4"></div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    }>
       <ProductsPageNew selectedBrand={brandName} selectedCategory={subcategoryName} />
     </Suspense>
   )

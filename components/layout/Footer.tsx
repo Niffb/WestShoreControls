@@ -1,8 +1,9 @@
-import { 
-  PhoneIcon, 
-  EnvelopeIcon, 
+import {
+  PhoneIcon,
+  EnvelopeIcon,
   MapPinIcon
 } from '@heroicons/react/24/outline'
+import Link from 'next/link'
 
 export default function Footer() {
   const quickLinks = [
@@ -27,11 +28,8 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Main Footer Content */}
         <div className="py-8 lg:py-10">
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-6 lg:gap-8">
-            
-            {/* Company Info - Compact */}
             <div className="lg:col-span-1">
               <div className="mb-4">
                 <h3 className="text-lg font-bold mb-2">
@@ -41,7 +39,7 @@ export default function Footer() {
                   Professional electrical components and control systems.
                 </p>
               </div>
-              
+
               <div className="space-y-2 text-sm">
                 <div className="flex items-center">
                   <PhoneIcon className="h-4 w-4 text-primary-500 mr-2 flex-shrink-0" />
@@ -58,58 +56,55 @@ export default function Footer() {
               </div>
             </div>
 
-            {/* Quick Links */}
             <div className="lg:col-span-1">
               <h4 className="text-sm font-semibold mb-3 text-white">Quick Links</h4>
               <ul className="space-y-2">
                 {quickLinks.map((link) => (
                   <li key={link.name}>
-                    <a 
-                      href={link.href} 
-                      className="text-sm text-gray-400 hover:text-primary-500 transition-colors"
+                    <Link
+                      href={link.href}
+                      className="text-sm text-gray-400 hover:text-white transition-colors"
                     >
                       {link.name}
-                    </a>
+                    </Link>
                   </li>
                 ))}
               </ul>
             </div>
 
-            {/* Manufacturers - Compact Grid */}
             <div className="lg:col-span-2">
               <h4 className="text-sm font-semibold mb-3 text-white">Our Brands</h4>
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
                 {manufacturers.map((manufacturer) => (
-                  <a 
+                  <Link
                     key={manufacturer.name}
-                    href={manufacturer.href} 
-                    className="text-sm text-gray-400 hover:text-primary-500 transition-colors py-1"
+                    href={manufacturer.href}
+                    className="text-sm text-gray-400 hover:text-white transition-colors py-1"
                   >
                     {manufacturer.name}
-                  </a>
+                  </Link>
                 ))}
               </div>
             </div>
           </div>
         </div>
 
-        {/* Bottom Footer - Compact */}
         <div className="py-4 border-t border-gray-800">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
             <div className="text-gray-400 text-xs">
-              © 2025 Westshore Controls. All rights reserved.
+              &copy; {new Date().getFullYear()} Westshore Controls. All rights reserved.
             </div>
             <div className="flex space-x-4 text-xs">
-              <a href="/contact" className="text-gray-400 hover:text-primary-500 transition-colors">
+              <Link href="/contact" className="text-gray-400 hover:text-white transition-colors">
                 Privacy Policy
-              </a>
-              <a href="/terms" className="text-gray-400 hover:text-primary-500 transition-colors">
+              </Link>
+              <Link href="/terms" className="text-gray-400 hover:text-white transition-colors">
                 Terms and Conditions
-              </a>
+              </Link>
             </div>
           </div>
         </div>
       </div>
     </footer>
   )
-} 
+}
