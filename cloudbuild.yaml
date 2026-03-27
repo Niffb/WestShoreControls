@@ -18,7 +18,14 @@ options:
   machineType: E2_HIGHCPU_8
 
 steps:
-  # 1. Build the Docker image with the repo Dockerfile
+  # 1. Pull the latest image for layer cache (failure is ok on first run)
+  - name: gcr.io/cloud-builders/docker
+    entrypoint: bash
+    args:
+      - -c
+      - docker pull $_IMAGE:latest || true
+
+  # 2. Build the Docker image with the repo Dockerfile
   - name: gcr.io/cloud-builders/docker
     args:
       - build
@@ -26,19 +33,19 @@ steps:
       - $_IMAGE:$COMMIT_SHA
       - --tag
       - $_IMAGE:latest
-      - --build-arg
-      - BUILDKIT_INLINE_CACHE=1
       - --cache-from
       - $_IMAGE:latest
+      - --build-arg
+      - BUILDKIT_INLINE_CACHE=1
       - .
     env:
       - DOCKER_BUILDKIT=1
 
-  # 2. Push both tags to Artifact Registry
+  # 3. Push both tags to Artifact Registry
   - name: gcr.io/cloud-builders/docker
     args: [push, --all-tags, $_IMAGE]
 
-  # 3. Deploy to Cloud Run
+  # 4. Deploy to Cloud Run
   - name: gcr.io/google.com/cloudsdktool/cloud-sdk
     entrypoint: gcloud
     args:
