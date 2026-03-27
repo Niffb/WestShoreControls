@@ -1,77 +1,107 @@
 /**
  * Mitsubishi Electric Factory Automation Products Scraper
  * 
- * Scrapes products from the US Mitsubishi Electric website.
- * Handles the site's embedded <style> tags and filters navigation items.
+ * Comprehensive scraper that crawls all product categories and sub-products
+ * from the US Mitsubishi Electric website.
+ * Saves image URLs as arrays like other brand scrapers.
  */
 
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs').promises;
-const path = require('path');
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import fs from 'fs/promises';
+import path from 'path';
 
 const BASE_URL = 'https://us.mitsubishielectric.com';
-const REQUEST_DELAY = 1200;
+const REQUEST_DELAY = 1000;
 
-// Product categories with their listing pages
-const CATEGORIES = [
-    // Variable Frequency Drives
+// Main product category pages to crawl for sub-products
+const CATEGORY_PAGES = [
+    // Drive Products - Inverters
     {
-        name: 'Variable Frequency Drives',
-        products: [
-            { name: 'FR-A800 Series', url: '/fa/en/products/drv/inv/items/fr-a-series/' },
-            { name: 'FR-A800 Plus Series', url: '/fa/en/products/drv/inv/items/fr-a800-plus/' },
-            { name: 'FR-F800 Series', url: '/fa/en/products/drv/inv/items/fr-f-series/' },
-            { name: 'FR-E800 Series', url: '/fa/en/products/drv/inv/items/fr-e-series/' },
-            { name: 'FR-D800 Series', url: '/fa/en/products/drv/inv/items/fr-d-series/' },
-            { name: 'FR-XC Regeneration Converter', url: '/fa/en/products/drv/inv/items/fr-xc-series/' },
+        category: 'Variable Frequency Drives',
+        url: '/fa/en/products/drive-products/inverters-freqrol/',
+        subPages: [
+            '/fa/en/products/drive-products/inverters-freqrol/fra/',
+            '/fa/en/products/drive-products/inverters-freqrol/fra800plus/',
+            '/fa/en/products/drive-products/inverters-freqrol/frf/',
+            '/fa/en/products/drive-products/inverters-freqrol/fre/',
+            '/fa/en/products/drive-products/inverters-freqrol/frd/',
+            '/fa/en/products/drive-products/inverters-freqrol/regenerative-converter/',
         ]
     },
-    // Programmable Controllers
+    // Drive Products - Servos
     {
-        name: 'Programmable Logic Controllers',
-        products: [
-            { name: 'MELSEC iQ-R Series', url: '/fa/en/products/cnt/programmable-controllers/melsec-iq-r-series/' },
-            { name: 'MELSEC iQ-F Series', url: '/fa/en/products/cnt/programmable-controllers/melsec-iq-f-series/' },
-            { name: 'MELSEC-Q Series', url: '/fa/en/products/cnt/programmable-controllers/melsec-q-series/' },
-            { name: 'MELSEC-L Series', url: '/fa/en/products/cnt/programmable-controllers/melsec-l-series/' },
-            { name: 'MELSEC-FX Series', url: '/fa/en/products/cnt/programmable-controllers/melsec-fx-series/' },
+        category: 'Servo Systems',
+        url: '/fa/en/products/drive-products/ac-servos-melservo/',
+        subPages: [
+            '/fa/en/products/drive-products/ac-servos-melservo/mrj5/',
+            '/fa/en/products/drive-products/ac-servos-melservo/mrjet/',
+            '/fa/en/products/drive-products/ac-servos-melservo/melservoj4/',
+            '/fa/en/products/drive-products/ac-servos-melservo/mrje/',
+            '/fa/en/products/drive-products/ac-servos-melservo/melservo-jn/',
+            '/fa/en/products/drive-products/ac-servos-melservo/melservo-others/',
         ]
     },
-    // Motion Controllers
+    // Controllers - PLCs
     {
-        name: 'Motion Controllers',
-        products: [
-            { name: 'Motion Controller', url: '/fa/en/products/cnt/motion-controllers/' },
+        category: 'Programmable Logic Controllers',
+        url: '/fa/en/products/controllers/programmable-controllers-melsec/',
+        subPages: [
+            '/fa/en/products/cnt/programmable-controllers/melsec-iq-r-series/',
+            '/fa/en/products/cnt/programmable-controllers/melsec-iq-f-series/',
+            '/fa/en/products/cnt/programmable-controllers/melsec-q-series/',
+            '/fa/en/products/cnt/programmable-controllers/melsec-l-series/',
+            '/fa/en/products/cnt/programmable-controllers/melsec-fx-series/',
+            '/fa/en/products/cnt/programmable-controllers/melsec-qs-ws-series/',
+            '/fa/en/products/cnt/programmable-controllers/melsec-a-features/',
         ]
     },
-    // HMI
+    // Controllers - Motion
     {
-        name: 'Human Machine Interface',
-        products: [
-            { name: 'GOT2000 Series', url: '/fa/en/products/hmi/human-machine-interface/' },
-        ]
+        category: 'Motion Controllers',
+        url: '/fa/en/products/controllers/motion-controllers/',
+        subPages: []
     },
-    // Servo Motors
+    // Controllers - CNC
     {
-        name: 'Servo Motors',
-        products: [
-            { name: 'MELSERVO AC Servo', url: '/fa/en/products/drv/servos/' },
-        ]
+        category: 'CNC Systems',
+        url: '/fa/en/products/controllers/computerized-numerical-controllers-cncs/',
+        subPages: []
     },
-    // Circuit Breakers
+    // Visualization - HMI
     {
-        name: 'Circuit Breakers',
-        products: [
-            { name: 'Low-voltage Circuit Breakers', url: '/fa/en/products/lvd/circuit-breakers/' },
-        ]
+        category: 'Human Machine Interface',
+        url: '/fa/en/products/visualization/human-machine-interfaces-hmis-got/',
+        subPages: []
     },
-    // Contactors
+    // Robots
     {
-        name: 'Contactors',
-        products: [
-            { name: 'Contactors and Motor Starters', url: '/fa/en/products/lvd/contactors-motor-starters/' },
-        ]
+        category: 'Industrial Robots',
+        url: '/fa/en/products/industrial-robots-melfa/',
+        subPages: []
+    },
+    // Low Voltage Products
+    {
+        category: 'Circuit Breakers',
+        url: '/fa/en/products/lvpdp/low-voltage-circuit-breakers/',
+        subPages: []
+    },
+    {
+        category: 'Contactors & Motor Starters',
+        url: '/fa/en/products/lvpdp/contactors-and-motor-starters/',
+        subPages: []
+    },
+    // Edge Computing
+    {
+        category: 'Edge Computing',
+        url: '/fa/en/products/edge/melipc/',
+        subPages: []
+    },
+    // Power Monitoring
+    {
+        category: 'Power Monitoring',
+        url: '/fa/en/products/pmp/power-management-meters/',
+        subPages: []
     },
 ];
 
@@ -83,12 +113,16 @@ const GARBAGE_PATTERNS = [
     'distributor locator', 'site map', 'contact', 'careers', 'news', 'events',
     'facebook', 'twitter', 'linkedin', 'youtube', 'instagram', 'privacy',
     'cookie', 'terms', 'footer', 'header', 'menu', 'login', 'search',
-    'newsletter', 'subscribe', 'copyright', 'follow us', 'home',
-    // Navigation series links
-    'vfds (inverters-freqrol)', 'fr-a800 series', 'fr-a800 plus series',
-    'fr-f series', 'fr-e series', 'fr-d series', 'fr-xc series',
-    'melsec iq-r', 'melsec iq-f', 'melsec-q', 'melsec-l', 'melsec-fx',
-    'got2000', 'melservo'
+    'newsletter', 'subscribe', 'copyright', 'follow us', 'home', 'join us',
+    'support', 'request a product', 'contact sales', 'how can we help',
+    'select & quote', 'shop now', 'find a distributor'
+];
+
+// Image patterns to exclude
+const EXCLUDE_IMAGE_PATTERNS = [
+    'logo', 'icon', 'favicon', '1x1', 'spacer', 'blank',
+    'header-all', 'footer', 'social', 'arrow', 'button',
+    'chicklet', 'contact', 'quote', 'join'
 ];
 
 /**
@@ -96,8 +130,14 @@ const GARBAGE_PATTERNS = [
  */
 async function fetchPage(url) {
     try {
-        console.log(`  Fetching: ${url}`);
-        const response = await axios.get(url, {
+        // Skip external URLs
+        if (url.startsWith('http') && !url.includes('us.mitsubishielectric.com')) {
+            return null;
+        }
+        
+        const fullUrl = url.startsWith('http') ? url : BASE_URL + url;
+        console.log(`  Fetching: ${fullUrl}`);
+        const response = await axios.get(fullUrl, {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -112,13 +152,32 @@ async function fetchPage(url) {
 }
 
 /**
- * Remove style and script tags from element before extracting text
+ * Check if an image URL should be excluded
  */
-function getCleanText($, selector) {
-    const $el = $(selector).first().clone();
-    // Remove style and script tags
-    $el.find('style, script').remove();
-    return $el.text().replace(/\s+/g, ' ').trim();
+function shouldExcludeImage(url) {
+    if (!url) return true;
+    const lowerUrl = url.toLowerCase();
+    return EXCLUDE_IMAGE_PATTERNS.some(pattern => lowerUrl.includes(pattern));
+}
+
+/**
+ * Normalize image URL to full absolute URL
+ */
+function normalizeImageUrl(src) {
+    if (!src) return null;
+    if (src.startsWith('//')) return 'https:' + src;
+    if (src.startsWith('/')) return BASE_URL + src;
+    if (!src.startsWith('http')) return BASE_URL + '/' + src;
+    return src;
+}
+
+/**
+ * Check if text is garbage/navigation
+ */
+function isGarbageText(text) {
+    if (!text || text.length < 10) return true;
+    const lowerText = text.toLowerCase();
+    return GARBAGE_PATTERNS.some(p => lowerText.includes(p));
 }
 
 /**
@@ -130,170 +189,435 @@ function getMetaDescription($) {
 }
 
 /**
- * Get product image - looking for actual product images
+ * Detect category from URL path
  */
-function getProductImage($) {
-    // Priority 1: Product list images (.c-linkWithImage img) - these are the actual product images
-    const productListSelectors = [
-        '.c-linkWithImage img',
-        '.c-linkWithImage__image img',
-        '.l-productList img'
-    ];
-
-    for (const sel of productListSelectors) {
-        const $img = $(sel).first();
-        let src = $img.attr('src') || $img.attr('data-src');
-        if (src && src.includes('/-/media/') && !src.includes('logo')) {
-            if (src.startsWith('//')) src = 'https:' + src;
-            else if (src.startsWith('/')) src = BASE_URL + src;
-            return src;
-        }
+function detectCategoryFromUrl(url) {
+    const lowerUrl = url.toLowerCase();
+    
+    if (lowerUrl.includes('/inverters-freqrol/') || lowerUrl.includes('/drv/inv/')) {
+        return 'Variable Frequency Drives';
     }
-
-    // Priority 2: Main visual/hero images
-    const heroSelectors = [
-        '.c-mainVisual img',
-        '.p-product-visual img',
-        'article img[src*="product"]',
-        'main img[src*="/-/media/"]'
-    ];
-
-    for (const sel of heroSelectors) {
-        const $img = $(sel).first();
-        let src = $img.attr('src') || $img.attr('data-src');
-        if (src && !src.includes('logo') && !src.includes('icon') && !src.includes('1x1')) {
-            if (src.startsWith('//')) src = 'https:' + src;
-            else if (src.startsWith('/')) src = BASE_URL + src;
-            return src;
-        }
+    if (lowerUrl.includes('/ac-servos-melservo/') || lowerUrl.includes('/drv/servo/')) {
+        return 'Servo Systems';
     }
-
-    // Priority 3: Any image with /-/media/images/webredesign/products in the path
-    $('img').each((_, el) => {
-        let src = $(el).attr('src');
-        if (src && src.includes('/webredesign/products/')) {
-            if (src.startsWith('/')) src = BASE_URL + src;
-            return src;
-        }
-    });
-
-    return '';
+    if (lowerUrl.includes('/programmable-controllers/') || lowerUrl.includes('/cnt/programmable-controllers/')) {
+        return 'Programmable Logic Controllers';
+    }
+    if (lowerUrl.includes('/motion-controllers/') || lowerUrl.includes('/cnt/motion-controllers/')) {
+        return 'Motion Controllers';
+    }
+    if (lowerUrl.includes('/computerized-numerical-controllers/') || lowerUrl.includes('/cnt/cnc/')) {
+        return 'CNC Systems';
+    }
+    if (lowerUrl.includes('/human-machine-interface/') || lowerUrl.includes('/hmi/')) {
+        return 'Human Machine Interface';
+    }
+    if (lowerUrl.includes('/industrial-robots/') || lowerUrl.includes('/rbt/')) {
+        return 'Industrial Robots';
+    }
+    if (lowerUrl.includes('/collaborative-robot/')) {
+        return 'Collaborative Robots';
+    }
+    if (lowerUrl.includes('/circuit-breakers/') || lowerUrl.includes('/lvd/circuit-breakers/')) {
+        return 'Circuit Breakers';
+    }
+    if (lowerUrl.includes('/contactors/') || lowerUrl.includes('/lvpdp/contactors/')) {
+        return 'Contactors & Motor Starters';
+    }
+    if (lowerUrl.includes('/melipc/') || lowerUrl.includes('/edge/')) {
+        return 'Edge Computing';
+    }
+    if (lowerUrl.includes('/power-meters/') || lowerUrl.includes('/pmng/') || lowerUrl.includes('/pmp/')) {
+        return 'Power Monitoring';
+    }
+    if (lowerUrl.includes('/laser-processing/') || lowerUrl.includes('/laser/')) {
+        return 'Laser Processing Machines';
+    }
+    if (lowerUrl.includes('/electrical-discharge/') || lowerUrl.includes('/edm/')) {
+        return 'Electrical Discharge Machines';
+    }
+    if (lowerUrl.includes('/mx-automation-controllers/')) {
+        return 'Programmable Automation Controllers';
+    }
+    if (lowerUrl.includes('/simple-application-controllers/')) {
+        return 'Simple Application Controllers';
+    }
+    if (lowerUrl.includes('/network-related-products/') || lowerUrl.includes('/cclink/')) {
+        return 'Industrial Networks';
+    }
+    if (lowerUrl.includes('/visualization/') && !lowerUrl.includes('/hmi/')) {
+        return 'Visualization Software';
+    }
+    if (lowerUrl.includes('/software/')) {
+        return 'Engineering Software';
+    }
+    
+    return null;
 }
 
 /**
- * Extract real features (not navigation items)
+ * Get product images - returns array of image URLs
+ */
+function getProductImages($) {
+    const images = [];
+    
+    // Priority 1: Open Graph image
+    const ogImage = $('meta[property="og:image"]').attr('content');
+    if (ogImage && !shouldExcludeImage(ogImage)) {
+        const normalizedOg = normalizeImageUrl(ogImage);
+        if (normalizedOg) images.push(normalizedOg);
+    }
+
+    // Priority 2: Product images in main content
+    const productSelectors = [
+        '.c-linkWithImage img',
+        '.c-linkWithImage__image img',
+        '.l-productList img',
+        '.product-image img',
+        'article img[src*="products"]',
+        'main img[src*="/-/media/"]'
+    ];
+
+    for (const sel of productSelectors) {
+        $(sel).each((_, el) => {
+            let src = $(el).attr('src') || $(el).attr('data-src');
+            if (src && !shouldExcludeImage(src)) {
+                const normalized = normalizeImageUrl(src);
+                if (normalized && !images.includes(normalized)) {
+                    images.push(normalized);
+                }
+            }
+        });
+    }
+
+    // Priority 3: Any product-related images
+    $('img').each((_, el) => {
+        let src = $(el).attr('src');
+        if (src && (src.includes('/products/') || src.includes('/-/media/images/')) && !shouldExcludeImage(src)) {
+            const normalized = normalizeImageUrl(src);
+            if (normalized && !images.includes(normalized)) {
+                images.push(normalized);
+            }
+        }
+    });
+
+    return images.slice(0, 5);
+}
+
+/**
+ * Extract features from product page
  */
 function extractFeatures($) {
     const features = [];
+    const $main = $('main, article, .l-contents, .content');
 
-    // Look for feature sections in main content
-    const $main = $('main, article, .l-contents');
-
+    // Look for feature text in paragraphs
     $main.find('p, .c-text, .c-lead').each((_, el) => {
-        const text = $(el).text().trim();
-        // Only include substantial text that's not garbage
-        if (text.length > 30 && text.length < 400 &&
-            !GARBAGE_PATTERNS.some(p => text.toLowerCase().includes(p))) {
+        const text = $(el).text().trim().replace(/\s+/g, ' ');
+        if (text.length > 30 && text.length < 500 && !isGarbageText(text) && !text.includes('{')) {
             features.push(text);
         }
     });
 
-    // Also check for bullet points
-    $main.find('ul li, .c-list li').each((_, el) => {
-        const text = $(el).text().trim();
-        if (text.length > 15 && text.length < 200 &&
-            !GARBAGE_PATTERNS.some(p => text.toLowerCase().includes(p)) &&
-            !text.includes('{')) { // No CSS
+    // Look for bullet points
+    $main.find('ul li').each((_, el) => {
+        const text = $(el).text().trim().replace(/\s+/g, ' ');
+        if (text.length > 15 && text.length < 300 && !isGarbageText(text) && !text.includes('{')) {
             features.push(text);
         }
     });
 
-    // Deduplicate and limit
     return [...new Set(features)].slice(0, 8);
 }
 
 /**
- * Scrape a single product page
+ * Check if a URL should be excluded
  */
-async function scrapeProduct(productInfo, categoryName) {
-    const fullUrl = BASE_URL + productInfo.url;
-    const $ = await fetchPage(fullUrl);
+function shouldExcludeUrl(href) {
+    if (!href) return true;
+    
+    const excludePatterns = [
+        '#', 'search', 'knowledge-base', 'getdocument', 'support-tools',
+        'contact', 'dropdowns', '.pdf', 'login', 'account', 'mailto:',
+        'twitter.com', 'facebook.com', 'linkedin.com', 'youtube.com',
+        'instagram.com', 'mx.mitsubishielectric', 'fr-mitsubishielectric',
+        'shop1.us.mitsubishielectric', 'returnurl', 'share.php', 'share?'
+    ];
+    
+    const lowerHref = href.toLowerCase();
+    return excludePatterns.some(pattern => lowerHref.includes(pattern));
+}
 
-    if (!$) {
-        return {
-            name: productInfo.name,
-            model: productInfo.name,
-            description: '',
-            mainImage: '',
-            features: [],
-            specs: [],
-            category: categoryName,
-            url: fullUrl
-        };
+/**
+ * Extract sub-product links from a category/series page
+ */
+function extractSubProductLinks($, baseUrl) {
+    const links = new Set();
+    
+    // Look for product links in the Product List section
+    $('a[href*="/products/"]').each((_, el) => {
+        const href = $(el).attr('href');
+        
+        // Skip excluded URLs
+        if (shouldExcludeUrl(href)) return;
+        
+        // Only process URLs from the same domain
+        if (href.startsWith('http') && !href.includes('us.mitsubishielectric.com')) return;
+        
+        // Normalize the URL
+        let fullUrl = href;
+        if (href.startsWith('/')) {
+            fullUrl = href;
+        } else if (href.startsWith('http')) {
+            // Extract path from full URL
+            try {
+                const url = new URL(href);
+                fullUrl = url.pathname;
+            } catch (e) {
+                return;
+            }
+        } else {
+            fullUrl = '/' + href;
+        }
+        
+        // Only include product-related URLs from us.mitsubishielectric.com
+        if (fullUrl.includes('/products/') && fullUrl.startsWith('/fa/en/')) {
+            links.add(fullUrl);
+        }
+    });
+    
+    return Array.from(links);
+}
+
+/**
+ * Scrape individual product details from a page
+ */
+async function scrapeProductPage(url, defaultCategory) {
+    const $ = await fetchPage(url);
+    if (!$) return null;
+
+    // Get product name from h1 or title
+    let name = $('h1').first().text().trim();
+    if (!name || name.length > 100) {
+        name = $('title').text().replace(/\s*\|.*$/, '').trim();
     }
+    
+    // Clean up the name
+    name = name.replace(/\s+/g, ' ').trim();
+    
+    if (!name || isGarbageText(name)) return null;
 
-    // Use the defined product name (these are clean)
-    const name = productInfo.name;
-
-    // Get description from meta (this works well)
     const description = getMetaDescription($);
-
-    // Get image
-    const mainImage = getProductImage($);
-
-    // Get features
+    const images = getProductImages($);
     const features = extractFeatures($);
+    
+    // Detect category from URL, fallback to default
+    const detectedCategory = detectCategoryFromUrl(url);
+    const category = detectedCategory || defaultCategory;
 
     return {
         name,
-        model: productInfo.name,
+        model: name,
         description,
-        mainImage,
+        images,
         features,
         specs: [],
-        category: categoryName,
-        url: fullUrl
+        category,
+        url: url.startsWith('http') ? url : BASE_URL + url
     };
+}
+
+/**
+ * Scrape products from a series page that lists multiple sub-products
+ */
+async function scrapeSeriesPage($, url, defaultCategory) {
+    const products = [];
+    
+    // Find product items on the page
+    const productItems = [];
+    
+    // Pattern 1: Product List with links
+    $('.c-linkWithImage, .product-item, [class*="product-list"] > *').each((_, el) => {
+        const $el = $(el);
+        const $link = $el.find('a').first();
+        const $img = $el.find('img').first();
+        const name = $link.text().trim() || $el.find('h2, h3, h4').first().text().trim();
+        const href = $link.attr('href');
+        const imgSrc = $img.attr('src') || $img.attr('data-src');
+        const desc = $el.find('p').first().text().trim();
+        
+        if (name && name.length > 2 && name.length < 100 && !isGarbageText(name)) {
+            productItems.push({ name, href, imgSrc, desc });
+        }
+    });
+
+    // Pattern 2: Section headers with descriptions
+    $('h3, h4').each((_, el) => {
+        const $el = $(el);
+        const name = $el.text().trim();
+        const $parent = $el.parent();
+        const $link = $parent.find('a').first();
+        const $img = $parent.find('img').first();
+        const href = $link.attr('href') || $el.find('a').attr('href');
+        const imgSrc = $img.attr('src') || $img.attr('data-src');
+        const desc = $parent.find('p').first().text().trim();
+        
+        if (name && name.length > 2 && name.length < 100 && !isGarbageText(name) &&
+            !productItems.find(p => p.name === name)) {
+            productItems.push({ name, href, imgSrc, desc });
+        }
+    });
+
+    // Create product entries
+    for (const item of productItems) {
+        if (item.name && !isGarbageText(item.name)) {
+            const images = [];
+            if (item.imgSrc && !shouldExcludeImage(item.imgSrc)) {
+                const normalized = normalizeImageUrl(item.imgSrc);
+                if (normalized) images.push(normalized);
+            }
+            
+            // Detect category from the item's URL if available
+            const itemUrl = item.href ? (item.href.startsWith('http') ? item.href : BASE_URL + item.href) : (url.startsWith('http') ? url : BASE_URL + url);
+            const detectedCategory = detectCategoryFromUrl(itemUrl) || detectCategoryFromUrl(url);
+            const category = detectedCategory || defaultCategory;
+            
+            products.push({
+                name: item.name,
+                model: item.name,
+                description: item.desc || '',
+                images,
+                features: [],
+                specs: [],
+                category,
+                url: itemUrl
+            });
+        }
+    }
+
+    return products;
 }
 
 /**
  * Main scraping function
  */
 async function scrapeAllProducts() {
-    console.log('Starting Mitsubishi Electric product scraping...\n');
+    console.log('Starting Mitsubishi Electric Factory Automation comprehensive scraping...\n');
 
     const allProducts = [];
+    const scrapedUrls = new Set();
     let id = 60001;
 
-    for (const category of CATEGORIES) {
-        console.log(`\n=== ${category.name} ===`);
+    for (const categoryInfo of CATEGORY_PAGES) {
+        console.log(`\n=== ${categoryInfo.category} ===`);
+        
+        // Scrape main category page
+        const $ = await fetchPage(categoryInfo.url);
+        if (!$) {
+            await sleep(REQUEST_DELAY);
+            continue;
+        }
 
-        for (const product of category.products) {
-            console.log(`\nScraping: ${product.name}`);
+        // Get products from the category page itself
+        const categoryProducts = await scrapeSeriesPage($, categoryInfo.url, categoryInfo.category);
+        
+        for (const product of categoryProducts) {
+            if (!scrapedUrls.has(product.url)) {
+                product.id = id++;
+                product.brand = 'Mitsubishi';
+                allProducts.push(product);
+                scrapedUrls.add(product.url);
+                console.log(`  ✓ ${product.name} (${product.images.length} images)`);
+            }
+        }
 
-            const scrapedProduct = await scrapeProduct(product, category.name);
-            scrapedProduct.id = id++;
-            scrapedProduct.brand = 'Mitsubishi';
+        // Find additional product links on the page
+        const subLinks = extractSubProductLinks($, categoryInfo.url);
+        
+        // Combine with predefined sub-pages
+        const allSubPages = [...new Set([...categoryInfo.subPages, ...subLinks])];
+        
+        await sleep(REQUEST_DELAY);
 
-            allProducts.push(scrapedProduct);
+        // Scrape each sub-page
+        for (const subUrl of allSubPages) {
+            if (scrapedUrls.has(subUrl) || scrapedUrls.has(BASE_URL + subUrl)) continue;
+            if (shouldExcludeUrl(subUrl)) continue;
+            
+            const $sub = await fetchPage(subUrl);
+            if (!$sub) {
+                await sleep(REQUEST_DELAY);
+                continue;
+            }
 
-            const imgIcon = scrapedProduct.mainImage ? '✓' : '✗';
-            console.log(`  ${imgIcon} ${scrapedProduct.name} (${scrapedProduct.features.length} features)`);
+            // First, try to get the main product from this page
+            const mainProduct = await scrapeProductPage(subUrl, categoryInfo.category);
+            if (mainProduct && mainProduct.name && !scrapedUrls.has(mainProduct.url)) {
+                mainProduct.id = id++;
+                mainProduct.brand = 'Mitsubishi';
+                allProducts.push(mainProduct);
+                scrapedUrls.add(mainProduct.url);
+                console.log(`  ✓ ${mainProduct.name} (${mainProduct.images.length} images, ${mainProduct.features.length} features)`);
+            }
+
+            // Then, get any sub-products listed on this page
+            const subProducts = await scrapeSeriesPage($sub, subUrl, categoryInfo.category);
+            for (const product of subProducts) {
+                // Avoid duplicates by checking name similarity
+                const isDuplicate = allProducts.some(p => 
+                    p.name === product.name || 
+                    p.url === product.url ||
+                    (p.name.includes(product.name) && p.category === product.category)
+                );
+                
+                if (!isDuplicate && product.name && !isGarbageText(product.name)) {
+                    product.id = id++;
+                    product.brand = 'Mitsubishi';
+                    allProducts.push(product);
+                    scrapedUrls.add(product.url);
+                    console.log(`    → ${product.name} (${product.images.length} images)`);
+                }
+            }
 
             await sleep(REQUEST_DELAY);
         }
     }
 
+    // Deduplicate by name within same category
+    const uniqueProducts = [];
+    const seenNames = new Map();
+    
+    for (const product of allProducts) {
+        const key = `${product.category}:${product.name}`;
+        if (!seenNames.has(key)) {
+            seenNames.set(key, true);
+            uniqueProducts.push(product);
+        }
+    }
+
+    // Re-assign IDs
+    uniqueProducts.forEach((p, i) => p.id = 60001 + i);
+
     // Save output
-    const outputPath = path.join(__dirname, 'scraped-products.json');
-    await fs.writeFile(outputPath, JSON.stringify(allProducts, null, 2));
+    const outputPath = path.join(process.cwd(), 'scraped-products.json');
+    await fs.writeFile(outputPath, JSON.stringify(uniqueProducts, null, 2));
 
     console.log(`\n\n=== Scraping Complete ===`);
-    console.log(`✓ Saved ${allProducts.length} products to scraped-products.json`);
-    console.log(`  With images: ${allProducts.filter(p => p.mainImage).length}`);
-    console.log(`  With features: ${allProducts.filter(p => p.features.length > 0).length}`);
+    console.log(`✓ Saved ${uniqueProducts.length} products to scraped-products.json`);
+    console.log(`  With images: ${uniqueProducts.filter(p => p.images.length > 0).length}`);
+    console.log(`  With features: ${uniqueProducts.filter(p => p.features.length > 0).length}`);
+    
+    // Category breakdown
+    const categories = {};
+    for (const p of uniqueProducts) {
+        categories[p.category] = (categories[p.category] || 0) + 1;
+    }
+    console.log(`\n  Products by category:`);
+    for (const [cat, count] of Object.entries(categories)) {
+        console.log(`    - ${cat}: ${count}`);
+    }
 
-    return allProducts;
+    return uniqueProducts;
 }
 
 // Run

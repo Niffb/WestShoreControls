@@ -16,7 +16,7 @@ export const mitsubishiPower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],

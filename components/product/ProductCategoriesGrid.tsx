@@ -33,7 +33,7 @@ const productCategories: ProductCategory[] = [
     name: 'Drives / VFDs',
     description: 'Variable frequency drives for precise motor speed control and energy efficiency',
     icon: CpuChipIcon,
-    image: '/Products/VFDs/Images/Mitsubishi_A800_af6dd002-312a-4881-93a5-db958e43ad71_medium.avif',
+    image: 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en',
     slug: 'drives-vfds'
   },
   {
@@ -41,7 +41,7 @@ const productCategories: ProductCategory[] = [
     name: 'Servo Motors',
     description: 'High-precision servo motors for accurate positioning and motion control',
     icon: CogIcon,
-    image: '/Products/Servo-Motors/images/Mitsubishi_MELSERVO_J5_medium.avif',
+    image: 'https://www.mitsubishielectric.com/fa/products/drv/servo/items/assets/img/mr_j5_top.png',
     slug: 'servo-motors'
   },
   {
@@ -201,6 +201,7 @@ export default function ProductCategoriesGrid() {
                       fill
                       className="object-cover group-hover:scale-105 transition-transform duration-300"
                       onError={() => handleImageError(category.id)}
+                      unoptimized={category.image.startsWith('http')}
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center bg-gray-50">

@@ -16,7 +16,7 @@ export const mitsubishipower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const mitsubishipower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const mitsubishipower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const mitsubishipower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const mitsubishipower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],

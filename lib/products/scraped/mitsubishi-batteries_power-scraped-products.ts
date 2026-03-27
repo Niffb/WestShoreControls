@@ -16,7 +16,7 @@ export const mitsubishiBatteries_powerScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const mitsubishiBatteries_powerScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const mitsubishiBatteries_powerScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const mitsubishiBatteries_powerScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const mitsubishiBatteries_powerScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/images/westlogo.jpg"
     ],
     "inStock": true,
     "specs": [],

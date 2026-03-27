@@ -32,23 +32,25 @@ import { hartingother_productsScrapedProducts } from './harting-other-products-s
 import { hartingpower_distributionScrapedProducts } from './harting-power-distribution-scraped-products';
 import { hoffmanplcsScrapedProducts } from './hoffman-plcs-scraped-products';
 import { honeywellpower_distributionScrapedProducts } from './honeywell-power-distribution-scraped-products';
-import { mitsubishibatteries_powerScrapedProducts } from './mitsubishi-batteries-power-scraped-products';
-import { mitsubishiBatteries_powerScrapedProducts } from './mitsubishi-batteries_power-scraped-products';
-import { mitsubishicables_accessoriesScrapedProducts } from './mitsubishi-cables-accessories-scraped-products';
-import { mitsubishiCables_accessoriesScrapedProducts } from './mitsubishi-cables_accessories-scraped-products';
-import { mitsubishicircuit_breakersScrapedProducts } from './mitsubishi-circuit-breakers-scraped-products';
-import { mitsubishiCircuit_breakersScrapedProducts } from './mitsubishi-circuit_breakers-scraped-products';
-import { mitsubishicontactorsScrapedProducts } from './mitsubishi-contactors-scraped-products';
-import { mitsubishidrives_vfdsScrapedProducts } from './mitsubishi-drives-vfds-scraped-products';
-import { mitsubishiDrives_vfdsScrapedProducts } from './mitsubishi-drives_vfds-scraped-products';
-import { mitsubishiother_productsScrapedProducts } from './mitsubishi-other-products-scraped-products';
-import { mitsubishiOther_productsScrapedProducts } from './mitsubishi-other_products-scraped-products';
-import { mitsubishiplcsScrapedProducts } from './mitsubishi-plcs-scraped-products';
-import { mitsubishipower_distributionScrapedProducts } from './mitsubishi-power-distribution-scraped-products';
-import { mitsubishiPower_distributionScrapedProducts } from './mitsubishi-power_distribution-scraped-products';
-import { mitsubishiScrapedProducts } from './mitsubishi-scraped-products';
-import { mitsubishiservo_motorsScrapedProducts } from './mitsubishi-servo-motors-scraped-products';
-import { mitsubishiServo_motorsScrapedProducts } from './mitsubishi-servo_motors-scraped-products';
+// REMOVED - Mitsubishi products now handled separately via mitsubishi-products-scraped.ts
+// These files have ID collisions and incorrect images - use mitsubishiScrapedProducts instead
+// import { mitsubishibatteries_powerScrapedProducts } from './mitsubishi-batteries-power-scraped-products';
+// import { mitsubishiBatteries_powerScrapedProducts } from './mitsubishi-batteries_power-scraped-products';
+// import { mitsubishicables_accessoriesScrapedProducts } from './mitsubishi-cables-accessories-scraped-products';
+// import { mitsubishiCables_accessoriesScrapedProducts } from './mitsubishi-cables_accessories-scraped-products';
+// import { mitsubishicircuit_breakersScrapedProducts } from './mitsubishi-circuit-breakers-scraped-products';
+// import { mitsubishiCircuit_breakersScrapedProducts } from './mitsubishi-circuit_breakers-scraped-products';
+// import { mitsubishicontactorsScrapedProducts } from './mitsubishi-contactors-scraped-products';
+// import { mitsubishidrives_vfdsScrapedProducts } from './mitsubishi-drives-vfds-scraped-products';
+// import { mitsubishiDrives_vfdsScrapedProducts } from './mitsubishi-drives_vfds-scraped-products';
+// import { mitsubishiother_productsScrapedProducts } from './mitsubishi-other-products-scraped-products';
+// import { mitsubishiOther_productsScrapedProducts } from './mitsubishi-other_products-scraped-products';
+// import { mitsubishiplcsScrapedProducts } from './mitsubishi-plcs-scraped-products';
+// import { mitsubishipower_distributionScrapedProducts } from './mitsubishi-power-distribution-scraped-products';
+// import { mitsubishiPower_distributionScrapedProducts } from './mitsubishi-power_distribution-scraped-products';
+// import { mitsubishiScrapedProducts } from './mitsubishi-scraped-products';
+// import { mitsubishiservo_motorsScrapedProducts } from './mitsubishi-servo-motors-scraped-products';
+// import { mitsubishiServo_motorsScrapedProducts } from './mitsubishi-servo_motors-scraped-products';
 import { noarkcircuit_breakersScrapedProducts } from './noark-circuit-breakers-scraped-products';
 import { noarkCircuit_breakersScrapedProducts } from './noark-circuit_breakers-scraped-products';
 import { noarkcontactorsScrapedProducts } from './noark-contactors-scraped-products';
@@ -131,23 +133,24 @@ export const allScrapedProducts: Product[] = [
   ...hartingpower_distributionScrapedProducts,
   ...hoffmanplcsScrapedProducts,
   ...honeywellpower_distributionScrapedProducts,
-  ...mitsubishibatteries_powerScrapedProducts,
-  ...mitsubishiBatteries_powerScrapedProducts,
-  ...mitsubishicables_accessoriesScrapedProducts,
-  ...mitsubishiCables_accessoriesScrapedProducts,
-  ...mitsubishicircuit_breakersScrapedProducts,
-  ...mitsubishiCircuit_breakersScrapedProducts,
-  ...mitsubishicontactorsScrapedProducts,
-  ...mitsubishidrives_vfdsScrapedProducts,
-  ...mitsubishiDrives_vfdsScrapedProducts,
-  ...mitsubishiother_productsScrapedProducts,
-  ...mitsubishiOther_productsScrapedProducts,
-  ...mitsubishiplcsScrapedProducts,
-  ...mitsubishipower_distributionScrapedProducts,
-  ...mitsubishiPower_distributionScrapedProducts,
-  ...mitsubishiScrapedProducts,
-  ...mitsubishiservo_motorsScrapedProducts,
-  ...mitsubishiServo_motorsScrapedProducts,
+  // REMOVED - Mitsubishi products now handled separately via mitsubishi-products-scraped.ts
+  // ...mitsubishibatteries_powerScrapedProducts,
+  // ...mitsubishiBatteries_powerScrapedProducts,
+  // ...mitsubishicables_accessoriesScrapedProducts,
+  // ...mitsubishiCables_accessoriesScrapedProducts,
+  // ...mitsubishicircuit_breakersScrapedProducts,
+  // ...mitsubishiCircuit_breakersScrapedProducts,
+  // ...mitsubishicontactorsScrapedProducts,
+  // ...mitsubishidrives_vfdsScrapedProducts,
+  // ...mitsubishiDrives_vfdsScrapedProducts,
+  // ...mitsubishiother_productsScrapedProducts,
+  // ...mitsubishiOther_productsScrapedProducts,
+  // ...mitsubishiplcsScrapedProducts,
+  // ...mitsubishipower_distributionScrapedProducts,
+  // ...mitsubishiPower_distributionScrapedProducts,
+  // ...mitsubishiScrapedProducts,
+  // ...mitsubishiservo_motorsScrapedProducts,
+  // ...mitsubishiServo_motorsScrapedProducts,
   ...noarkcircuit_breakersScrapedProducts,
   ...noarkCircuit_breakersScrapedProducts,
   ...noarkcontactorsScrapedProducts,
