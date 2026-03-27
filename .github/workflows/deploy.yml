@@ -1,3 +1,15 @@
+# Deploy to Google Cloud Run (Docker image → GCR → Cloud Run)
+#
+# Required GitHub repository secrets (Settings → Secrets and variables → Actions):
+#   GCP_PROJECT_ID   — GCP project ID (e.g. my-project-123)
+#   GCP_SA_KEY       — Full JSON body of a service account key with at least:
+#                      - Artifact Registry / Container Registry (push images)
+#                      - Cloud Run Admin (deploy)
+#                      - Service Account User (if deploying as another SA)
+#
+# Optional: use Workload Identity Federation instead of a JSON key — see
+# https://github.com/google-github-actions/auth#workload-identity-federation
+
 name: Deploy to Cloud Run
 
 on:
@@ -15,26 +27,43 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: 'read'
-      id-token: 'write'
+      contents: read
+      id-token: write
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Google Auth
+      # Fails fast with a clear message if the JSON key secret is missing
+      - name: Check required secrets
+        run: |
+          if [ -z "$GCP_PROJECT_ID" ]; then
+            echo "::error::Secret GCP_PROJECT_ID is not set. Add it under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          if [ -z "$GCP_SA_KEY" ]; then
+            echo "::error::Secret GCP_SA_KEY is not set or empty."
+            echo "Create a service account key in GCP (IAM → Service Accounts → Keys → Add JSON key)."
+            echo "Paste the entire JSON file as the value of repository secret GCP_SA_KEY."
+            exit 1
+          fi
+        env:
+          GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Authenticate to Google Cloud
         id: auth
-        uses: google-github-actions/auth@v1
+        uses: google-github-actions/auth@v2
         with:
           credentials_json: ${{ secrets.GCP_SA_KEY }}
 
       - name: Set up Cloud SDK
-        uses: google-github-actions/setup-gcloud@v1
+        uses: google-github-actions/setup-gcloud@v2
 
       - name: Authorize Docker push
-        run: gcloud auth configure-docker
+        run: gcloud auth configure-docker --quiet
 
-      - name: Build and Push Container
+      - name: Build and push container
         run: |-
           docker build -t gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:${{ github.sha }} .
           docker push gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:${{ github.sha }}
@@ -45,4 +74,4 @@ jobs:
             --image gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:${{ github.sha }} \
             --region ${{ env.REGION }} \
             --platform managed \
-            --allow-unauthenticated 
+            --allow-unauthenticated
