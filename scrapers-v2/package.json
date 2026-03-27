@@ -1,0 +1,22 @@
+{
+  "name": "westshore-scrapers-v2",
+  "version": "1.0.0",
+  "description": "Product catalog scrapers for all Westshore Controls partner brands",
+  "type": "module",
+  "scripts": {
+    "scrape:katko": "node katko/scrape.js",
+    "scrape:tmeic": "node tmeic/scrape.js",
+    "scrape:klemsan": "node klemsan/scrape.js",
+    "scrape:elsteel": "node elsteel/scrape.js",
+    "scrape:mitsubishi": "node mitsubishi/scrape.js",
+    "scrape:noark": "node noark/scrape.js",
+    "scrape:erico": "node erico/scrape.js",
+    "scrape:ls-industrial": "node ls-industrial/scrape.js",
+    "scrape:all": "node katko/scrape.js & node tmeic/scrape.js & node mitsubishi/scrape.js & node klemsan/scrape.js & node elsteel/scrape.js & node noark/scrape.js & node erico/scrape.js & node ls-industrial/scrape.js & wait"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "puppeteer-core": "^23.0.0"
+  }
+}
