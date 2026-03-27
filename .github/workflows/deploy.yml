@@ -1,13 +1,14 @@
 # Deploy to Google Cloud Run (Docker image → GCR → Cloud Run)
 #
-# Required GitHub repository secrets (Settings → Secrets and variables → Actions):
-#   GCP_PROJECT_ID   — GCP project ID (e.g. my-project-123)
-#   GCP_SA_KEY       — Full JSON body of a service account key with at least:
-#                      - Artifact Registry / Container Registry (push images)
-#                      - Cloud Run Admin (deploy)
-#                      - Service Account User (if deploying as another SA)
+# Required GitHub secret (Settings → Secrets and variables → Actions):
+#   GCP_SA_KEY — Full JSON of a service account key. The workflow reads
+#                `project_id` from this file, so you do NOT need a separate
+#                GCP_PROJECT_ID secret.
 #
-# Optional: use Workload Identity Federation instead of a JSON key — see
+# The service account needs permission to push to GCR/Artifact Registry and
+# deploy to Cloud Run for that project.
+#
+# Optional: Workload Identity Federation (no JSON key) — see
 # https://github.com/google-github-actions/auth#workload-identity-federation
 
 name: Deploy to Cloud Run
@@ -18,7 +19,6 @@ on:
       - main
 
 env:
-  PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
   REGION: us-central1
   SERVICE_NAME: westshorecontrols-production
 
@@ -34,21 +34,22 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # Fails fast with a clear message if the JSON key secret is missing
-      - name: Check required secrets
+      - name: Resolve GCP project from service account key
+        id: gcp
         run: |
-          if [ -z "$GCP_PROJECT_ID" ]; then
-            echo "::error::Secret GCP_PROJECT_ID is not set. Add it under Settings → Secrets and variables → Actions."
-            exit 1
-          fi
           if [ -z "$GCP_SA_KEY" ]; then
-            echo "::error::Secret GCP_SA_KEY is not set or empty."
-            echo "Create a service account key in GCP (IAM → Service Accounts → Keys → Add JSON key)."
-            echo "Paste the entire JSON file as the value of repository secret GCP_SA_KEY."
+            echo "::error::GCP_SA_KEY is not set. Add it under Settings → Secrets and variables → Actions."
+            echo "Paste the full JSON from IAM → Service Accounts → Keys → Add key (JSON)."
             exit 1
           fi
+          PROJECT_ID=$(echo "$GCP_SA_KEY" | jq -r .project_id)
+          if [ -z "$PROJECT_ID" ] || [ "$PROJECT_ID" = "null" ]; then
+            echo "::error::Could not read project_id from GCP_SA_KEY. Is it valid service account JSON?"
+            exit 1
+          fi
+          echo "project_id=$PROJECT_ID" >> "$GITHUB_OUTPUT"
+          echo "Using GCP project: $PROJECT_ID"
         env:
-          GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
 
       - name: Authenticate to Google Cloud
@@ -65,13 +66,13 @@ jobs:
 
       - name: Build and push container
         run: |-
-          docker build -t gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:${{ github.sha }} .
-          docker push gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:${{ github.sha }}
+          docker build -t gcr.io/${{ steps.gcp.outputs.project_id }}/${{ env.SERVICE_NAME }}:${{ github.sha }} .
+          docker push gcr.io/${{ steps.gcp.outputs.project_id }}/${{ env.SERVICE_NAME }}:${{ github.sha }}
 
       - name: Deploy to Cloud Run
         run: |-
           gcloud run deploy ${{ env.SERVICE_NAME }} \
-            --image gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:${{ github.sha }} \
+            --image gcr.io/${{ steps.gcp.outputs.project_id }}/${{ env.SERVICE_NAME }}:${{ github.sha }} \
             --region ${{ env.REGION }} \
             --platform managed \
             --allow-unauthenticated
