@@ -285,20 +285,6 @@ export default function About() {
               whileHover={{ scale: 1.02 }}
               transition={{ duration: 0.3 }}
             >
-              {/* Animated background elements */}
-              <motion.div
-                className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-primary-200/50 to-transparent rounded-full"
-                animate={{ 
-                  scale: [1, 1.2, 1],
-                  rotate: [0, 180, 360] 
-                }}
-                transition={{ 
-                  duration: 8,
-                  repeat: Infinity,
-                  ease: "linear" 
-                }}
-              />
-              
               <div className="grid grid-cols-2 gap-6 relative z-10">
                 {stats.map((stat, index) => (
                   <motion.div 
@@ -319,32 +305,6 @@ export default function About() {
                 ))}
               </div>
             </motion.div>
-            
-            {/* Enhanced decorative elements */}
-            <motion.div 
-              className="absolute -top-4 -right-4 w-24 h-24 bg-primary-500 rounded-full opacity-10"
-              animate={{ 
-                scale: [1, 1.1, 1],
-                rotate: [0, 90, 0] 
-              }}
-              transition={{ 
-                duration: 4,
-                repeat: Infinity,
-                ease: "easeInOut" 
-              }}
-            />
-            <motion.div 
-              className="absolute -bottom-4 -left-4 w-16 h-16 bg-accent-orange rounded-full opacity-10"
-              animate={{ 
-                scale: [1, 1.2, 1],
-                rotate: [0, -90, 0] 
-              }}
-              transition={{ 
-                duration: 3,
-                repeat: Infinity,
-                ease: "easeInOut" 
-              }}
-            />
           </motion.div>
         </div>
 
@@ -399,15 +359,15 @@ export default function About() {
               >
                 {/* Background decoration */}
                 <motion.div
-                  className="absolute inset-0 bg-gradient-to-br from-red-50/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                  className="absolute inset-0 bg-gradient-to-br from-gray-50/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
                 />
                 <motion.div
-                  className="absolute -top-20 -right-20 w-40 h-40 bg-red-100 rounded-full opacity-20 group-hover:scale-110 transition-transform duration-500"
+                  className="absolute -top-20 -right-20 w-40 h-40 bg-gray-200 rounded-full opacity-20 group-hover:scale-110 transition-transform duration-500"
                 />
                 
                 <div className="relative z-10">
                   <motion.div 
-                    className="w-24 h-24 bg-gradient-to-br from-red-500 to-red-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300"
+                    className="w-24 h-24 bg-gradient-to-br from-gray-500 to-gray-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300"
                     whileHover={{ rotate: 360 }}
                     transition={{ duration: 0.6 }}
                   >
@@ -415,7 +375,7 @@ export default function About() {
                   </motion.div>
                   
                   <h5 className="text-xl font-bold text-gray-900 mb-2">Robert Oldham</h5>
-                  <div className="inline-block bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium mb-4">
+                  <div className="inline-block bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm font-medium mb-4">
                     President
                   </div>
                   
@@ -457,15 +417,15 @@ export default function About() {
               >
                 {/* Background decoration */}
                 <motion.div
-                  className="absolute inset-0 bg-gradient-to-br from-blue-50/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                  className="absolute inset-0 bg-gradient-to-br from-gray-50/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
                 />
                 <motion.div
-                  className="absolute -top-20 -right-20 w-40 h-40 bg-blue-100 rounded-full opacity-20 group-hover:scale-110 transition-transform duration-500"
+                  className="absolute -top-20 -right-20 w-40 h-40 bg-gray-200 rounded-full opacity-20 group-hover:scale-110 transition-transform duration-500"
                 />
                 
                 <div className="relative z-10">
                   <motion.div 
-                    className="w-24 h-24 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300"
+                    className="w-24 h-24 bg-gradient-to-br from-gray-500 to-gray-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300"
                     whileHover={{ rotate: 360 }}
                     transition={{ duration: 0.6 }}
                   >
@@ -473,7 +433,7 @@ export default function About() {
                   </motion.div>
                   
                   <h5 className="text-xl font-bold text-gray-900 mb-2">John Oldham</h5>
-                  <div className="inline-block bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-sm font-medium mb-4">
+                  <div className="inline-block bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm font-medium mb-4">
                     VFD Specialist
                   </div>
                   
@@ -483,9 +443,9 @@ export default function About() {
                   </p>
                   
                   <div className="flex flex-wrap justify-center gap-2 mb-4">
-                    <span className="bg-blue-50 text-blue-700 text-xs px-2 py-1 rounded">VFDs</span>
-                    <span className="bg-blue-50 text-blue-700 text-xs px-2 py-1 rounded">Mining</span>
-                    <span className="bg-blue-50 text-blue-700 text-xs px-2 py-1 rounded">Forestry</span>
+                    <span className="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded">VFDs</span>
+                    <span className="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded">Mining</span>
+                    <span className="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded">Forestry</span>
                   </div>
                   
                   <div className="flex justify-center space-x-4">
@@ -521,15 +481,15 @@ export default function About() {
               >
                 {/* Background decoration */}
                 <motion.div
-                  className="absolute inset-0 bg-gradient-to-br from-green-50/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                  className="absolute inset-0 bg-gradient-to-br from-gray-50/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
                 />
                 <motion.div
-                  className="absolute -top-20 -right-20 w-40 h-40 bg-green-100 rounded-full opacity-20 group-hover:scale-110 transition-transform duration-500"
+                  className="absolute -top-20 -right-20 w-40 h-40 bg-gray-200 rounded-full opacity-20 group-hover:scale-110 transition-transform duration-500"
                 />
                 
                 <div className="relative z-10">
                   <motion.div 
-                    className="w-24 h-24 bg-gradient-to-br from-green-500 to-green-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300"
+                    className="w-24 h-24 bg-gradient-to-br from-gray-500 to-gray-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300"
                     whileHover={{ rotate: 360 }}
                     transition={{ duration: 0.6 }}
                   >
@@ -537,7 +497,7 @@ export default function About() {
                   </motion.div>
                   
                   <h5 className="text-xl font-bold text-gray-900 mb-2">Jose Torrecampo, FEC, P.Eng</h5>
-                  <div className="inline-block bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-medium mb-4">
+                  <div className="inline-block bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm font-medium mb-4">
                     Technical Service
                   </div>
                   
@@ -547,9 +507,9 @@ export default function About() {
                   </p>
                   
                   <div className="flex flex-wrap justify-center gap-2 mb-4">
-                    <span className="bg-green-50 text-green-700 text-xs px-2 py-1 rounded">Engineering</span>
-                    <span className="bg-green-50 text-green-700 text-xs px-2 py-1 rounded">Consulting</span>
-                    <span className="bg-green-50 text-green-700 text-xs px-2 py-1 rounded">Automation</span>
+                    <span className="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded">Engineering</span>
+                    <span className="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded">Consulting</span>
+                    <span className="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded">Automation</span>
                   </div>
                   
                   <div className="flex justify-center space-x-4">
@@ -747,46 +707,6 @@ export default function About() {
               repeat: Infinity,
               ease: "easeInOut",
               repeatDelay: 2
-            }}
-          />
-          
-          {/* Floating decorative elements */}
-          <motion.div 
-            className="absolute top-4 left-8 w-3 h-3 bg-white/20 rounded-full"
-            animate={{
-              y: [0, -15, 0],
-              opacity: [0.2, 0.6, 0.2],
-              scale: [1, 1.2, 1]
-            }}
-            transition={{
-              duration: 4,
-              repeat: Infinity,
-              delay: 0
-            }}
-          />
-          <motion.div 
-            className="absolute top-8 right-12 w-2 h-2 bg-white/30 rounded-full"
-            animate={{
-              y: [0, 12, 0],
-              opacity: [0.3, 0.7, 0.3],
-              scale: [1, 1.3, 1]
-            }}
-            transition={{
-              duration: 3.5,
-              repeat: Infinity,
-              delay: 1
-            }}
-          />
-          <motion.div 
-            className="absolute bottom-6 left-16 w-4 h-1 bg-white/15 rounded-full"
-            animate={{
-              x: [0, 20, 0],
-              opacity: [0.15, 0.5, 0.15]
-            }}
-            transition={{
-              duration: 5,
-              repeat: Infinity,
-              delay: 2
             }}
           />
           

@@ -42,7 +42,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <Header />
-        <main className="min-h-screen">
+        <main className="min-h-screen pt-28">
           {children}
         </main>
         <Footer />

@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import Image from 'next/image'
 import Link from 'next/link'
-import { DocumentArrowDownIcon, FolderIcon, ArrowLeftIcon, ChevronDownIcon } from '@heroicons/react/24/outline'
+import { DocumentArrowDownIcon, ArrowLeftIcon, ChevronDownIcon } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
 
 interface Catalog {
@@ -158,85 +158,26 @@ export default function CatalogsPageComponent() {
   const totalCatalogs = catalogs.reduce((sum, brand) => sum + brand.catalogs.length, 0)
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-red-900/5">
-      {/* Hero Section */}
-      <motion.section
-        className="relative pt-24 pb-16 overflow-hidden"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.8 }}
-      >
-        {/* Animated Background Elements */}
-        <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
-          <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-        </div>
-
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          {/* Breadcrumb */}
-          <motion.nav
-            className="flex items-center justify-center space-x-2 text-sm mb-8"
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
-          >
-            <Link
-              href="/"
-              className="text-gray-500 hover:text-red-600 transition-colors flex items-center"
-            >
+    <div className="min-h-screen bg-white">
+      {/* Page Heading - Minimal */}
+      <section className="border-b border-gray-100 bg-gray-50/50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <nav className="flex items-center space-x-2 text-sm text-gray-500 mb-4">
+            <Link href="/" className="hover:text-primary-600 transition-colors flex items-center">
               <ArrowLeftIcon className="h-4 w-4 mr-1" />
               Home
             </Link>
-            <span className="text-gray-400">/</span>
-            <span className="text-red-600 font-medium">Catalogs</span>
-          </motion.nav>
-
-          <motion.div
-            className="flex items-center justify-center gap-4 mb-6"
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.3 }}
-          >
-            <div className="p-3 bg-red-100 rounded-full">
-              <FolderIcon className="h-8 w-8 text-red-600" />
-            </div>
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900">
-              Product Catalogs
-            </h1>
-          </motion.div>
-
-          <motion.div
-            className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full"
-            initial={{ width: 0 }}
-            animate={{ width: 96 }}
-            transition={{ duration: 0.8, delay: 0.5 }}
-          />
-
-          <motion.p
-            className="text-xl text-gray-600 max-w-3xl mx-auto mb-8"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.4 }}
-          >
-            Download comprehensive product catalogs and technical documentation from our premium brand partners
-          </motion.p>
-
-          {/* Stats */}
-          <motion.div
-            className="flex flex-wrap justify-center gap-8 mb-8"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.6 }}
-          >
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
-              <span className="font-medium text-gray-700">{catalogs.length} Brands</span>
-            </div>
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
-              <span className="font-medium text-gray-700">{totalCatalogs} Catalogs</span>
-            </div>
-          </motion.div>
+            <span>/</span>
+            <span className="text-primary-600 font-medium">Catalogs</span>
+          </nav>
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
+            Product <span className="text-primary-600">Catalogs</span>
+          </h1>
+          <p className="mt-2 text-gray-600 max-w-2xl">
+            Download catalogs and technical documentation from our brand partners. {catalogs.length} brands, {totalCatalogs} catalogs available.
+          </p>
         </div>
-      </motion.section>
+      </section>
 
       {/* Catalogs Grid with Dropdowns */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">

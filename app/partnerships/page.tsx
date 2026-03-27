@@ -204,79 +204,23 @@ export default function PartnershipsPage() {
     }
   ]
 
-  const getColorClasses = (color: string) => {
-    const colors = {
-      red: "border-red-200 hover:border-red-400 hover:shadow-red-100/50",
-      blue: "border-blue-200 hover:border-blue-400 hover:shadow-blue-100/50",
-      green: "border-green-200 hover:border-green-400 hover:shadow-green-100/50",
-      orange: "border-orange-200 hover:border-orange-400 hover:shadow-orange-100/50",
-      purple: "border-purple-200 hover:border-purple-400 hover:shadow-purple-100/50",
-      slate: "border-slate-200 hover:border-slate-400 hover:shadow-slate-100/50",
-      indigo: "border-indigo-200 hover:border-indigo-400 hover:shadow-indigo-100/50"
-    }
-    return colors[color as keyof typeof colors] || colors.slate
-  }
-
-  const getBadgeClasses = (color: string) => {
-    const colors = {
-      red: "bg-gradient-to-r from-red-100 to-red-200 text-red-800 shadow-lg",
-      blue: "bg-gradient-to-r from-blue-100 to-blue-200 text-blue-800 shadow-lg",
-      green: "bg-gradient-to-r from-green-100 to-green-200 text-green-800 shadow-lg",
-      orange: "bg-gradient-to-r from-orange-100 to-orange-200 text-orange-800 shadow-lg",
-      purple: "bg-gradient-to-r from-purple-100 to-purple-200 text-purple-800 shadow-lg",
-      slate: "bg-gradient-to-r from-slate-100 to-slate-200 text-slate-800 shadow-lg",
-      indigo: "bg-gradient-to-r from-indigo-100 to-indigo-200 text-indigo-800 shadow-lg"
-    }
-    return colors[color as keyof typeof colors] || colors.slate
-  }
-
   // Initialize scroll animations
   useIntersectionObserver()
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Hero Section */}
-      <section className="relative pt-32 pb-24 bg-gradient-to-br from-red-50 via-white to-red-900/5 overflow-hidden">
-        {/* Enhanced Animated Background Elements */}
-        <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/30 to-red-800/30 rounded-full blur-3xl"></div>
-          <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/30 to-red-200/30 rounded-full blur-3xl"></div>
-          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-gradient-to-br from-red-100/20 to-red-500/20 rounded-full blur-3xl"></div>
-        </div>
-
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className="mb-8">
-            <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight hero-element animate-fade-in-up">
-              <span className="inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.1s' }}>Our</span>{' '}
-              <span className="text-transparent bg-gradient-to-r from-red-500 to-red-900 bg-clip-text inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.3s' }}>Trusted</span>
-              <br />
-              <span className="text-transparent bg-gradient-to-r from-red-900 to-red-500 bg-clip-text inline-block hero-element animate-fade-in-up" style={{ animationDelay: '0.5s' }}>Partners</span>
-            </h1>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-red-900 mx-auto mb-8 rounded-full hero-element animate-fade-in-up" style={{ animationDelay: '0.7s' }}></div>
-          </div>
-
-          <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-12 leading-relaxed hero-element animate-fade-in-up" style={{ animationDelay: '0.9s' }}>
-            We partner with the world's leading manufacturers to deliver the highest quality
-            industrial automation and electrical solutions. VAR (Value-Added Reseller) for TMEIC products and authorized distributor for other premium brands.
+      {/* Page Heading - Minimal */}
+      <section className="border-b border-gray-100 bg-gray-50/50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
+            Our <span className="text-gray-700">Trusted Partners</span>
+          </h1>
+          <p className="mt-2 text-gray-600 max-w-2xl">
+            VAR for TMEIC and authorized distributor for premium brands. Partnering with world-leading manufacturers for industrial automation and electrical solutions.
           </p>
 
-          <div className="flex flex-wrap justify-center gap-8 text-sm text-gray-600 mb-12">
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{ animationDelay: '1.1s' }}>
-              <CheckCircleIcon className="h-5 w-5 text-primary-500 mr-2 animate-pulse" />
-              <span className="font-medium">VAR for TMEIC & Authorized Distribution</span>
-            </div>
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{ animationDelay: '1.3s' }}>
-              <TrophyIcon className="h-5 w-5 text-blue-500 mr-2 animate-bounce-soft" />
-              <span className="font-medium">Premium Partners</span>
-            </div>
-            <div className="flex items-center bg-white/60 backdrop-blur-sm px-4 py-2 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 hero-element animate-fade-in-up" style={{ animationDelay: '1.5s' }}>
-              <StarIcon className="h-5 w-5 text-primary-500 mr-2 animate-pulse" style={{ animationDelay: '0.5s' }} />
-              <span className="font-medium">Expert Support</span>
-            </div>
-          </div>
-
           {/* Partner Logos Preview */}
-          <div className="flex flex-wrap justify-center items-center gap-6 opacity-60">
+          <div className="flex flex-wrap items-center gap-6 mt-6 opacity-60">
             <div className="w-20 h-16 bg-white rounded-xl shadow-lg flex items-center justify-center p-2">
               <Image src={getImageUrl("brands/Mitsubishi-Electric.webp")} alt="Mitsubishi Electric" width={64} height={48} className="object-contain" />
             </div>
@@ -322,17 +266,14 @@ export default function PartnershipsPage() {
             {partners.map((partner, index) => (
               <div
                 key={partner.name}
-                className={`group relative bg-white rounded-3xl p-8 border-2 transition-all duration-500 hover:shadow-2xl hover:scale-[1.02] hover:-translate-y-2 ${getColorClasses(partner.color)}`}
+                className="group relative bg-white rounded-3xl p-8 border-2 border-gray-200 hover:border-gray-300 transition-all duration-500 hover:shadow-2xl hover:scale-[1.02] hover:-translate-y-2"
                 style={{
                   animationDelay: `${index * 150}ms`,
                   animationFillMode: 'both'
                 }}
               >
-                {/* Gradient Background Effect */}
-                <div className={`absolute inset-0 bg-gradient-to-br ${partner.gradient} opacity-0 group-hover:opacity-5 rounded-3xl transition-opacity duration-500`}></div>
-
                 {/* Floating Badge */}
-                <div className={`absolute -top-3 -right-3 px-4 py-2 rounded-full text-xs font-bold ${getBadgeClasses(partner.color)} transform rotate-12 group-hover:rotate-0 transition-transform duration-300`}>
+                <div className="absolute -top-3 -right-3 px-4 py-2 rounded-full text-xs font-bold bg-gray-100 text-gray-800 transform rotate-12 group-hover:rotate-0 transition-transform duration-300">
                   {partner.badge}
                 </div>
 
@@ -367,7 +308,7 @@ export default function PartnershipsPage() {
                 {/* Specialties */}
                 <div className="mb-8">
                   <h4 className="text-sm font-bold text-gray-900 mb-4 flex items-center">
-                    <div className={`w-2 h-2 rounded-full bg-gradient-to-r ${partner.gradient} mr-2`}></div>
+                    <div className="w-2 h-2 rounded-full bg-gray-500 mr-2"></div>
                     Key Specialties
                   </h4>
                   <div className="flex flex-wrap gap-2">
@@ -385,7 +326,7 @@ export default function PartnershipsPage() {
                 {/* Footer */}
                 <div className="flex items-center justify-between pt-6 border-t border-gray-100">
                   <div className="flex items-center text-sm text-gray-500">
-                    <CheckCircleIcon className="h-5 w-5 text-primary-500 mr-2" />
+                    <CheckCircleIcon className="h-5 w-5 text-gray-500 mr-2" />
                     <span className="font-medium">Authorized Partner</span>
                   </div>
                   {partner.website !== "#" && (
@@ -393,7 +334,7 @@ export default function PartnershipsPage() {
                       href={partner.website}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className={`px-4 py-2 bg-gradient-to-r ${partner.gradient} text-white rounded-lg text-sm font-medium hover:shadow-lg transform hover:scale-105 transition-all duration-200`}
+                      className="px-4 py-2 bg-gray-800 hover:bg-gray-700 text-white rounded-lg text-sm font-medium hover:shadow-lg transform hover:scale-105 transition-all duration-200"
                     >
                       Learn More →
                     </a>
@@ -421,15 +362,6 @@ export default function PartnershipsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {benefits.map((benefit, index) => {
               const IconComponent = benefit.icon
-              const gradients = [
-                'from-red-500 to-pink-500',
-                'from-blue-500 to-cyan-500',
-                'from-green-500 to-emerald-500',
-                'from-purple-500 to-violet-500',
-                'from-orange-500 to-yellow-500',
-                'from-indigo-500 to-blue-500'
-              ]
-              const gradient = gradients[index % gradients.length]
 
               return (
                 <div
@@ -441,7 +373,7 @@ export default function PartnershipsPage() {
                   }}
                 >
                   <div className="relative flex justify-center mb-6">
-                    <div className={`w-16 h-16 rounded-2xl bg-gradient-to-br ${gradient} p-0.5 group-hover:scale-110 transition-transform duration-300`}>
+                    <div className="w-16 h-16 rounded-2xl bg-gray-100 p-0.5 group-hover:scale-110 transition-transform duration-300 border border-gray-200">
                       <div className="w-full h-full bg-white rounded-2xl flex items-center justify-center">
                         <IconComponent className="h-8 w-8 text-gray-700" />
                       </div>
@@ -461,56 +393,25 @@ export default function PartnershipsPage() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-20 bg-primary-600 relative overflow-hidden">
-        {/* Animated texture backgrounds */}
-        <div className="absolute inset-0">
-          {/* Moving gradient overlay */}
-          <div className="absolute inset-0 bg-gradient-to-r from-primary-500/80 via-primary-600/90 to-primary-700/80"></div>
-
-          {/* Geometric pattern overlay */}
-          <div className="absolute inset-0 opacity-15" style={{
-            backgroundImage: `
-              radial-gradient(circle at 30% 30%, rgba(255,255,255,0.3) 2px, transparent 2px),
-              radial-gradient(circle at 70% 70%, rgba(255,255,255,0.2) 1px, transparent 1px),
-              linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.1) 50%, transparent 70%)
-            `,
-            backgroundSize: '50px 50px, 25px 25px, 80px 80px'
-          }}></div>
-
-          {/* Animated diagonal stripes */}
-          <div className="absolute inset-0 opacity-5" style={{
-            backgroundImage: 'repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(255,255,255,0.1) 10px, rgba(255,255,255,0.1) 20px)'
-          }}></div>
-        </div>
-
-        {/* Floating animated elements */}
-        <div className="absolute top-10 left-20 w-4 h-4 bg-white/20 rounded-full animate-bounce" style={{ animationDelay: '0s', animationDuration: '3s' }}></div>
-        <div className="absolute top-32 right-16 w-3 h-3 bg-white/25 rounded-full animate-bounce" style={{ animationDelay: '1s', animationDuration: '4s' }}></div>
-        <div className="absolute bottom-20 left-32 w-2 h-6 bg-white/15 rounded-full animate-pulse" style={{ animationDelay: '2s' }}></div>
-        <div className="absolute bottom-40 right-24 w-5 h-2 bg-white/20 rounded-full animate-pulse" style={{ animationDelay: '0.5s' }}></div>
-
+      <section className="py-20 bg-gray-900 relative overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
           <h2 className="text-3xl font-bold text-white mb-4">
             Ready to Work with Industry Leaders?
           </h2>
-          <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Contact us today to learn how our manufacturer partnerships can benefit your next project.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               href="/contact"
-              className="group px-8 py-3 bg-white text-primary-600 font-semibold rounded-lg hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 hover:shadow-xl relative overflow-hidden"
+              className="group px-8 py-3 bg-white text-gray-900 font-semibold rounded-lg hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 hover:shadow-xl"
             >
-              <div className="absolute inset-0 bg-gradient-to-r from-transparent via-gray-100/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-              <div className="absolute inset-0 bg-gradient-to-r from-primary-50/50 to-transparent transform -translate-x-full group-hover:translate-x-full transition-transform duration-700"></div>
               <span className="relative z-10">Get a Quote</span>
             </a>
             <a
               href="/products"
-              className="group px-8 py-3 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-primary-600 transition-all duration-300 transform hover:scale-105 hover:shadow-xl relative overflow-hidden"
+              className="group px-8 py-3 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-gray-900 transition-all duration-300 transform hover:scale-105 hover:shadow-xl"
             >
-              <div className="absolute inset-0 bg-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-              <div className="absolute inset-0 border-2 border-white/50 rounded-lg scale-110 opacity-0 group-hover:opacity-50 group-hover:scale-100 transition-all duration-300"></div>
               <span className="relative z-10">Browse Products</span>
             </a>
           </div>

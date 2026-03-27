@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { PhoneIcon, EnvelopeIcon, ClockIcon } from '@heroicons/react/24/outline'
 
 interface ContactCardProps {
-  variant?: 'default' | 'compact' | 'inline'
+  variant?: 'default' | 'compact' | 'compactNeutral' | 'inline' | 'inlineNeutral'
   showEmail?: boolean
   showHours?: boolean
   className?: string
@@ -20,12 +20,17 @@ export default function ContactCard({
   const email = "info@westshorecontrols.com"
   const hours = "Mon-Fri 8AM-5PM PST"
 
-  if (variant === 'inline') {
+  if (variant === 'inline' || variant === 'inlineNeutral') {
+    const isNeutral = variant === 'inlineNeutral'
     return (
       <div className={`flex flex-col sm:flex-row gap-3 ${className}`}>
         <motion.a
           href={`tel:+16048170987`}
-          className="group bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white font-semibold px-6 py-3 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center"
+          className={`group font-semibold px-6 py-3 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center ${
+            isNeutral
+              ? 'bg-white text-gray-900 hover:bg-gray-100'
+              : 'bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white'
+          }`}
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
@@ -36,7 +41,11 @@ export default function ContactCard({
         {showEmail && (
           <motion.a
             href={`mailto:${email}`}
-            className="group bg-white border-2 border-primary-500 text-primary-600 hover:bg-primary-50 font-semibold px-6 py-3 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center"
+            className={`group font-semibold px-6 py-3 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center ${
+              isNeutral
+                ? 'bg-transparent border-2 border-white text-white hover:bg-white/10'
+                : 'bg-white border-2 border-primary-500 text-primary-600 hover:bg-primary-50'
+            }`}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
@@ -48,14 +57,17 @@ export default function ContactCard({
     )
   }
 
-  if (variant === 'compact') {
+  if (variant === 'compact' || variant === 'compactNeutral') {
+    const isNeutral = variant === 'compactNeutral'
     return (
       <motion.div 
         className={`bg-white rounded-xl shadow-lg border border-gray-200 p-6 hover:shadow-xl transition-all duration-300 ${className}`}
         whileHover={{ y: -5 }}
       >
         <div className="text-center">
-          <div className="w-16 h-16 bg-gradient-to-r from-primary-500 to-primary-600 rounded-full flex items-center justify-center mx-auto mb-4">
+          <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${
+            isNeutral ? 'bg-gray-800' : 'bg-gradient-to-r from-primary-500 to-primary-600'
+          }`}>
             <PhoneIcon className="w-8 h-8 text-white" />
           </div>
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Contact Us</h3>
@@ -64,7 +76,9 @@ export default function ContactCard({
           <div className="space-y-3">
             <motion.a
               href={`tel:+16048170987`}
-              className="group block bg-primary-500 hover:bg-primary-600 text-white font-medium py-2 px-4 rounded-lg transition-all duration-200"
+              className={`group block font-medium py-2 px-4 rounded-lg transition-all duration-200 ${
+                isNeutral ? 'bg-gray-800 hover:bg-gray-700 text-white' : 'bg-primary-500 hover:bg-primary-600 text-white'
+              }`}
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
             >

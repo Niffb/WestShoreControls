@@ -125,8 +125,6 @@ const Background = ({ isWindows }: { isWindows: boolean }) => useMemo(() => {
     return (
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-gradient-to-br from-slate-50 via-white to-red-900/5" />
-        <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-red-200/20 to-red-800/20 rounded-full blur-3xl opacity-60" />
-        <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-br from-red-800/20 to-red-200/20 rounded-full blur-3xl opacity-60" />
       </div>
     )
   }
@@ -142,31 +140,6 @@ const Background = ({ isWindows }: { isWindows: boolean }) => useMemo(() => {
   )
 }, [isWindows])
 
-const FloatingElements = ({ isWindows }: { isWindows: boolean }) => useMemo(() => {
-  if (isWindows) {
-    return (
-      <div className="absolute inset-0 z-10 pointer-events-none">
-        <div className="absolute top-20 right-20 w-6 h-6 bg-primary-500/30 rounded-full" />
-        <div className="absolute bottom-40 left-10 w-4 h-8 bg-accent-orange/30 rounded" />
-      </div>
-    )
-  }
-  return (
-    <div className="absolute inset-0 z-10 pointer-events-none">
-      <motion.div 
-        className="absolute top-20 right-20 w-6 h-6 bg-primary-500/40 rounded-full"
-        animate={{ y: [-5, 5, -5] }}
-        transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" }}
-      />
-      <motion.div 
-        className="absolute bottom-40 left-10 w-4 h-8 bg-accent-orange/40 rounded"
-        animate={{ y: [-4, 4, -4] }}
-        transition={{ duration: 10, repeat: Infinity, ease: "easeInOut", delay: 1 }}
-      />
-    </div>
-  )
-}, [isWindows])
-
 
 // --- Main Hero Component ---
 
@@ -177,8 +150,6 @@ export default function Hero() {
     <section className="relative min-h-screen overflow-hidden">
       {/* Removed background image, keeping only gradient background */}
       <Background isWindows={isWindows} />
-      
-      <FloatingElements isWindows={isWindows} />
 
       <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20">
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center min-h-[65vh] sm:min-h-[70vh]">
