@@ -41,6 +41,7 @@ export default function Header() {
     }
 
     window.addEventListener('scroll', scrollHandler, { passive: true })
+    handleScroll()
     return () => window.removeEventListener('scroll', scrollHandler)
   }, [])
 

@@ -10,57 +10,49 @@ const brands = [
     logo: '/assets/images/brands/MitsubishiLogo.webp',
     description: 'Complete Factory Automation & Electric Controls Product Line',
     categories: ['Controllers', 'Variable Frequency Drives', 'Motors', 'Circuit Breakers', 'Contactors', 'Overload Relays'],
-    productCount: 16
   },
   {
     name: 'TMEIC',
     logo: '/assets/images/brands/TMEIC_logo.png',
     description: 'Full Range of High Power Drives & Industrial Systems',
     categories: ['Variable Frequency Drives', 'Motors', 'DC Drives'],
-    productCount: 51
   },
   {
     name: 'LS Industrial',
     logo: '/assets/images/brands/LS.webp',
     description: 'Complete Variable Frequency Drives & Motor Controls Product Line',
     categories: ['Variable Frequency Drives', 'Contactors', 'Controllers', 'Motors'],
-    productCount: 42
   },
   {
     name: 'ERICO',
     logo: '/assets/images/brands/Erico.webp',
     description: 'Full Line of Electrical Connection & Protection Products',
     categories: ['Flexible Conductors', 'Busbars', 'Cable Management'],
-    productCount: 24
   },
   {
     name: 'Katko',
     logo: '/assets/images/brands/Katko.webp',
     description: 'Complete Range of Enclosed Isolators & Safety Switches',
     categories: ['Enclosed Isolators'],
-    productCount: 3080
   },
   {
     name: 'Klemsan',
     logo: '/assets/images/brands/klemsan-logo.webp',
     description: 'Full Product Line of Terminal Blocks & Connection Solutions',
     categories: ['Screw Terminals', 'Quick Release', 'Spring Terminals', 'Plug Terminals', 'Power Sources', 'Automation', 'Junction Boxes', 'Cable Channels'],
-    productCount: 265
   },
   {
     name: 'Noark',
     logo: '/assets/images/brands/Noark.webp',
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
     categories: ['Circuit Protection', 'Motor Circuit Protectors', 'Miniature Circuit Breakers', 'Surge Protective Device', 'Power Circuit Breakers', 'Molded Case Switches', 'DIN Rail Fuse Holders and Fuses', 'Enclosed Breakers'],
-    productCount: 4307
   },
   {
     name: 'Elsteel',
     logo: '/assets/images/brands/Elsteel.webp',
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power'],
-    productCount: 18
-  }
+  },
 ]
 
 export default function BrandGrid() {
@@ -90,12 +82,6 @@ export default function BrandGrid() {
               <p className="text-sm text-gray-600 mb-4 leading-relaxed">
                 {brand.description}
               </p>
-
-              <div className="flex items-center justify-between mb-4">
-                <span className="text-sm font-medium text-gray-700">
-                  {brand.productCount.toLocaleString()} Products Available
-                </span>
-              </div>
 
               <div className="mb-5">
                 <p className="text-xs font-medium text-gray-500 mb-2 uppercase tracking-wider">Available Categories:</p>

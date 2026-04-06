@@ -121,33 +121,31 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
   }
 
   const handleCatalogClick = () => {
+    /** Vendor-hosted PDFs and document hubs (no files in our repo). */
     const brandCatalogs: { [key: string]: string } = {
-      'ls industrial': '/downloads/catalogs/ls-industrial-factory-automation-catalog-2024.pdf',
-      'ls-industrial': '/downloads/catalogs/ls-industrial-factory-automation-catalog-2024.pdf',
+      'ls industrial': 'https://www.lselectricamerica.com/manual/',
+      'ls-industrial': 'https://www.lselectricamerica.com/manual/',
       'mitsubishi': 'https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1',
       'mitsubishi electric': 'https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1',
-      'noark': '/downloads/catalogs/noark-product-catalogue.pdf',
-      'klemsan': '/downloads/catalogs/automation-klemsan.pdf',
-      'katko': '/downloads/catalogs/katko-product-catalogue-2021.pdf',
-      'elsteel': '/downloads/catalogs/elsteel-techno-module-brochure.pdf',
-      'tmeic': '/downloads/catalogs/tmeic-product-catalog.pdf',
-      'erico': '/downloads/catalogs/erico-product-catalog.pdf',
+      'noark': 'https://na.noark-electric.com/master-catalogs/',
+      'klemsan': 'https://www.klemsan.com.tr/documents-and-videos',
+      'katko': 'https://katko.com/pages/downloads',
+      'elsteel': 'https://www.elsteel.com/brochures',
+      'tmeic': '/api/catalog-download?id=tmeic-mve2-app-guide',
+      'erico': 'https://www.nvent.com/en-us/erico/resource-library',
     }
 
     const brandKey = product.brand?.toLowerCase() || ''
     const catalogUrl = brandCatalogs[brandKey] || '/catalogs'
 
+    if (catalogUrl.startsWith('/api/')) {
+      window.location.href = catalogUrl
+      return
+    }
     if (catalogUrl.startsWith('http')) {
       window.open(catalogUrl, '_blank', 'noopener,noreferrer')
-    } else if (catalogUrl === '/catalogs') {
-      window.location.href = catalogUrl
     } else {
-      const link = document.createElement('a')
-      link.href = catalogUrl
-      link.target = '_blank'
-      document.body.appendChild(link)
-      link.click()
-      document.body.removeChild(link)
+      window.location.href = catalogUrl
     }
   }
 

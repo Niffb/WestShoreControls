@@ -19,7 +19,6 @@ interface TeamMember {
   position: string
   phone: string
   email: string
-  specialties?: string[]
 }
 
 interface Department {
@@ -41,21 +40,18 @@ export default function About() {
           position: 'President',
           phone: '(604) 817-0987',
           email: 'info@westshorecontrols.com',
-          specialties: ['Industrial Control Equipment', 'Distribution & Sales']
         },
         {
           name: 'John Oldham',
           position: 'VFD Specialist',
           phone: '(604) 817-0987',
           email: 'info@westshorecontrols.com',
-          specialties: ['Variable Frequency Drives', 'Mining & Forestry Industries']
         },
         {
           name: 'Jose Torrecampo, FEC, P.Eng',
           position: 'Technical Service',
           phone: '(604) 817-0987',
           email: 'info@westshorecontrols.com',
-          specialties: ['Engineering Solutions', 'Technical Consulting']
         }
       ]
     },
@@ -69,7 +65,6 @@ export default function About() {
           position: 'Technical Specialists',
           phone: '(604) 817-0987',
           email: 'info@westshorecontrols.com',
-          specialties: ['Product Selection', 'Installation Guidance', 'Troubleshooting']
         }
       ]
     },
@@ -83,7 +78,6 @@ export default function About() {
           position: 'Customer Representatives',
           phone: '(604) 817-0987',
           email: 'info@westshorecontrols.com',
-          specialties: ['Order Management', 'Shipping Coordination', 'Customer Relations']
         }
       ]
     }
@@ -216,12 +210,10 @@ export default function About() {
                 {
                   initials: 'JO', name: 'John Oldham', role: 'VFD Specialist',
                   bio: 'Expert in Variable Frequency Drives with specialized knowledge in Mining and Forestry Industries automation systems and solutions.',
-                  tags: ['VFDs', 'Mining', 'Forestry']
                 },
                 {
                   initials: 'JT', name: 'Jose Torrecampo, FEC, P.Eng', role: 'Technical Service',
                   bio: 'Technical service specialist providing technical consulting and engineering solutions for complex automation projects and system integrations.',
-                  tags: ['Engineering', 'Consulting', 'Automation']
                 }
               ].map((member) => (
                 <div key={member.initials} className="bg-white rounded-xl border border-gray-200 p-8 text-center hover:shadow-md transition-shadow">
@@ -231,13 +223,6 @@ export default function About() {
                   <h5 className="text-xl font-bold text-gray-900 mb-2">{member.name}</h5>
                   <div className="text-sm text-primary-600 font-medium mb-4">{member.role}</div>
                   <p className="text-gray-600 text-sm leading-relaxed mb-6">{member.bio}</p>
-                  {member.tags && (
-                    <div className="flex flex-wrap justify-center gap-2 mb-4">
-                      {member.tags.map((tag) => (
-                        <span key={tag} className="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded">{tag}</span>
-                      ))}
-                    </div>
-                  )}
                   <div className="flex justify-center space-x-4">
                     <a href="tel:(604) 817-0987" className="flex items-center text-primary-600 hover:text-primary-700 transition-colors">
                       <PhoneIcon className="w-4 h-4 mr-1" />
@@ -257,30 +242,23 @@ export default function About() {
           <div>
             <h4 className="text-2xl font-bold text-gray-900 mb-8 text-center">Our Support Teams</h4>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
               {departments.map((dept, deptIndex) => {
                 const IconComponent = dept.icon
                 return (
                   <div
                     key={deptIndex}
-                    className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-md transition-shadow"
+                    className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-md transition-shadow flex flex-col h-full"
                   >
-                    <div className="w-12 h-12 bg-primary-50 rounded-lg flex items-center justify-center mb-4">
-                      <IconComponent className="h-6 w-6 text-primary-600" />
-                    </div>
-                    <h5 className="text-lg font-semibold text-gray-900 mb-2">{dept.name}</h5>
-                    <p className="text-gray-600 text-sm leading-relaxed mb-4">{dept.description}</p>
-                    {dept.members[0]?.specialties && (
-                      <div className="flex flex-wrap gap-1 mb-4">
-                        {dept.members[0].specialties.slice(0, 3).map((specialty, specIndex) => (
-                          <span key={specIndex} className="inline-block bg-primary-50 text-primary-700 text-xs px-2 py-1 rounded">
-                            {specialty}
-                          </span>
-                        ))}
+                    <div className="flex-1 min-h-0">
+                      <div className="w-12 h-12 bg-primary-50 rounded-lg flex items-center justify-center mb-4">
+                        <IconComponent className="h-6 w-6 text-primary-600" />
                       </div>
-                    )}
-                    <div className="pt-4 border-t border-gray-200">
-                      <ContactCard variant="compact" showEmail={false} showHours={false} className="!p-3 !border-0" />
+                      <h5 className="text-lg font-semibold text-gray-900 mb-2">{dept.name}</h5>
+                      <p className="text-gray-600 text-sm leading-relaxed">{dept.description}</p>
+                    </div>
+                    <div className="pt-4 mt-auto border-t border-gray-200 shrink-0">
+                      <ContactCard variant="supportTeamCta" showEmail={false} showHours={false} className="!p-0 !border-0 !bg-transparent !rounded-none" />
                     </div>
                   </div>
                 )

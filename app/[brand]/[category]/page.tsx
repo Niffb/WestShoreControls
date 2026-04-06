@@ -1,6 +1,7 @@
 import { Suspense } from 'react'
 import { notFound } from 'next/navigation'
 import ProductsPageNew from '@/components/page/ProductsPageNew'
+import { getFilteredProducts } from '@/lib/products/server-products'
 
 // Performance optimization - enable static generation
 export const revalidate = 3600 // 1 hour
@@ -65,7 +66,7 @@ interface Props {
   }
 }
 
-export default function BrandCategoryPage({ params }: Props) {
+export default async function BrandCategoryPage({ params }: Props) {
   const brandSlug = params.brand.toLowerCase()
   const categorySlug = params.category.toLowerCase()
 
@@ -164,10 +165,20 @@ export default function BrandCategoryPage({ params }: Props) {
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ')
 
+  // Fetch products on the server to significantly reduce client JS bundle size
+  const initialProducts = await getFilteredProducts({ 
+    brand: brandName, 
+    category: categoryName 
+  })
+
   // Use ProductsPageNew for all brands to ensure consistent styling
   return (
     <Suspense fallback={<ProductPageSkeleton />}>
-      <ProductsPageNew selectedBrand={brandName} selectedCategory={categoryName} />
+      <ProductsPageNew 
+        selectedBrand={brandName} 
+        selectedCategory={categoryName} 
+        initialProducts={initialProducts}
+      />
     </Suspense>
   )
 }
@@ -228,4 +239,4 @@ export async function generateStaticParams() {
   }
 
   return params
-} 
+}

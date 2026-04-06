@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import {
@@ -121,35 +121,6 @@ const productCategories: ProductCategory[] = [
 export default function ProductCategoriesGrid() {
   const [filter, setFilter] = useState<'categories' | 'brands'>('categories')
   const [imageErrors, setImageErrors] = useState<{[key: string]: boolean}>({})
-  const [productCounts, setProductCounts] = useState<Record<string, number>>({})
-  const [totalProducts, setTotalProducts] = useState<number>(0)
-  const [isLoadingCounts, setIsLoadingCounts] = useState(true)
-
-  useEffect(() => {
-    async function fetchCounts() {
-      try {
-        const response = await fetch('/api/products/counts')
-        if (response.ok) {
-          const data = await response.json()
-          if (data.success) {
-            setProductCounts(data.counts)
-            setTotalProducts(data.total)
-          }
-        }
-      } catch (error) {
-        console.error('Error fetching product counts:', error)
-      } finally {
-        setIsLoadingCounts(false)
-      }
-    }
-
-    fetchCounts()
-  }, [])
-
-  const getProductCount = (slug: string): number => {
-    return productCounts[slug] || 0
-  }
-
   const handleImageError = (categoryId: string) => {
     setImageErrors(prev => ({ ...prev, [categoryId]: true }))
   }
@@ -177,7 +148,7 @@ export default function ProductCategoriesGrid() {
                 : 'text-gray-600 hover:text-gray-900'
             }`}
           >
-            Brands (8)
+            Brands
           </button>
         </div>
       </div>
@@ -208,15 +179,6 @@ export default function ProductCategoriesGrid() {
                       <IconComponent className="w-16 h-16 text-gray-300" />
                     </div>
                   )}
-                  <div className="absolute bottom-3 left-3">
-                    <span className="bg-white/90 backdrop-blur-sm text-gray-700 text-sm font-medium px-2 py-1 rounded">
-                      {isLoadingCounts ? (
-                        <span className="inline-block w-8 h-4 bg-gray-200 rounded animate-pulse"></span>
-                      ) : (
-                        `${getProductCount(category.slug).toLocaleString()} products`
-                      )}
-                    </span>
-                  </div>
                 </div>
 
                 <div className="p-6">
@@ -246,39 +208,6 @@ export default function ProductCategoriesGrid() {
         </div>
       ) : (
         <BrandGrid />
-      )}
-
-      {filter === 'categories' && (
-        <div className="mt-16 bg-gray-50 rounded-xl p-8 border border-gray-200">
-          <div className="text-center mb-8">
-            <h3 className="text-2xl font-bold text-gray-900 mb-2">Our Product Portfolio</h3>
-            <p className="text-gray-600">Comprehensive selection from industry-leading manufacturers</p>
-          </div>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 mb-1">
-                {isLoadingCounts ? (
-                  <span className="inline-block w-16 h-8 bg-gray-200 rounded animate-pulse"></span>
-                ) : (
-                  totalProducts.toLocaleString()
-                )}
-              </div>
-              <div className="text-sm text-gray-600">Total Products</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 mb-1">{productCategories.length}</div>
-              <div className="text-sm text-gray-600">Categories</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 mb-1">15+</div>
-              <div className="text-sm text-gray-600">Brands</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 mb-1">24/7</div>
-              <div className="text-sm text-gray-600">Support</div>
-            </div>
-          </div>
-        </div>
       )}
     </div>
   )

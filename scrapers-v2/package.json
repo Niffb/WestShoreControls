@@ -12,6 +12,7 @@
     "scrape:noark": "node noark/scrape.js",
     "scrape:erico": "node erico/scrape.js",
     "scrape:ls-industrial": "node ls-industrial/scrape.js",
+    "scrape:catalog-links": "node catalogs/scrape-catalog-links.js",
     "scrape:all": "node katko/scrape.js & node tmeic/scrape.js & node mitsubishi/scrape.js & node klemsan/scrape.js & node elsteel/scrape.js & node noark/scrape.js & node erico/scrape.js & node ls-industrial/scrape.js & wait"
   },
   "dependencies": {

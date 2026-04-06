@@ -1,6 +1,11 @@
 import { Suspense } from 'react'
 import { notFound } from 'next/navigation'
 import ProductsPageNew from '@/components/page/ProductsPageNew'
+import { getFilteredProducts } from '@/lib/products/server-products'
+
+// Performance optimization - enable static generation
+export const revalidate = 3600 // 1 hour
+export const dynamic = 'force-static'
 
 // Define the valid brands
 const validBrands = [
@@ -32,7 +37,7 @@ interface Props {
   }
 }
 
-export default function BrandCategorySubcategoryPage({ params }: Props) {
+export default async function BrandCategorySubcategoryPage({ params }: Props) {
   const brandSlug = params.brand.toLowerCase()
   const categorySlug = params.category.toLowerCase()
   const subcategorySlug = params.subcategory.toLowerCase()
@@ -47,33 +52,18 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     notFound()
   }
   
-  // Handle Klemsan routing - support terminal-blocks, electrical-accessories, and automation categories
+  // Handle Klemsan routing
   if (brandSlug === 'klemsan' && !['terminal-blocks', 'electrical-accessories', 'automation'].includes(categorySlug)) {
     notFound()
   }
 
-  // Handle Mitsubishi routing - support all categories with subcategories
+  // Handle Mitsubishi routing
   if (brandSlug === 'mitsubishi' && !['variable-frequency-drives', 'controllers', 'human-machine-interface', 'circuit-breakers', 'servo-motors', 'batteries-power'].includes(categorySlug)) {
     notFound()
   }
   
-  // Handle LS Industrial routing - support all categories with subcategories
+  // Handle LS Industrial routing
   if (brandSlug === 'ls-industrial' && !['variable-frequency-drives', 'programmable-logic-controllers', 'human-machine-interface', 'servo-motors', 'contactors', 'overload-relays', 'circuit-breakers', 'softstarters', 'i-o-modules'].includes(categorySlug)) {
-    notFound()
-  }
-  
-  // Handle Schneider Electric routing
-  if (brandSlug === 'schneider-electric' && !['manual-motor-starters', 'servo-motors', 'overload-relays'].includes(categorySlug)) {
-    notFound()
-  }
-  
-  // Handle ABB routing
-  if (brandSlug === 'abb' && !['power-distribution'].includes(categorySlug)) {
-    notFound()
-  }
-  
-  // Handle General Electric routing
-  if (brandSlug === 'general-electric' && !['circuit-breakers', 'contactors', 'programmable-logic-controllers', 'power-distribution', 'overload-relays'].includes(categorySlug)) {
     notFound()
   }
 
@@ -97,7 +87,7 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     'm4n-series-400a-630a': 'M4N Series (400A-630A)',
     'm5n-series-600a-800a': 'M5N Series (600A-800A)',
     'm6n-series-800a-1200a': 'M6N Series (800A-1200A)',
-    // Industrial Controls subcategories (both data-defined and component-generated)
+    // Industrial Controls subcategories
     'contactors': 'Contactors',
     'motor-starters': 'Motor Starters', 
     'overload-relays': 'Overload Relays',
@@ -229,6 +219,12 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
     notFound()
   }
 
+  // Fetch products on the server
+  const initialProducts = await getFilteredProducts({ 
+    brand: brandName, 
+    category: subcategoryName 
+  })
+
   return (
     <Suspense fallback={
       <div className="min-h-screen bg-white">
@@ -254,7 +250,11 @@ export default function BrandCategorySubcategoryPage({ params }: Props) {
         </div>
       </div>
     }>
-      <ProductsPageNew selectedBrand={brandName} selectedCategory={subcategoryName} />
+      <ProductsPageNew 
+        selectedBrand={brandName} 
+        selectedCategory={subcategoryName} 
+        initialProducts={initialProducts}
+      />
     </Suspense>
   )
 }
@@ -287,7 +287,7 @@ export async function generateStaticParams() {
     { brand: 'noark', category: 'industrial-controls', subcategory: 'manual-motor-starters' },
     { brand: 'noark', category: 'industrial-controls', subcategory: 'solid-state-soft-starters' },
     { brand: 'noark', category: 'industrial-controls', subcategory: 'pilot-devices' },
-    // Special Applications subcategories (including both URL formats to be safe)
+    // Special Applications subcategories
     { brand: 'noark', category: 'special-applications', subcategory: 'custom-solutions' },
     { brand: 'noark', category: 'special-applications', subcategory: 'marine' },
     { brand: 'noark', category: 'special-applications', subcategory: 'marine-applications' },
@@ -296,7 +296,7 @@ export async function generateStaticParams() {
     { brand: 'noark', category: 'switchboards', subcategory: 'lv-switchboards' },
     { brand: 'noark', category: 'switchboards', subcategory: 'motor-control-centers' },
     { brand: 'noark', category: 'switchboards', subcategory: 'distribution-panels' },
-    // Power T&D subcategories (fixed to match actual subcategories in noarkPowerTDCategory)
+    // Power T&D subcategories
     { brand: 'noark', category: 'power-transmission-distribution', subcategory: 'power-transformers' },
     { brand: 'noark', category: 'power-transmission-distribution', subcategory: 'distribution-equipment' },
     { brand: 'noark', category: 'power-transmission-distribution', subcategory: 'protection-systems' },
@@ -401,4 +401,4 @@ export async function generateStaticParams() {
   ]
   
   return params
-} 
+}

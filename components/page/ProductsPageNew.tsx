@@ -3,67 +3,34 @@
 import { useState, useEffect, useCallback } from 'react'
 import { HomeIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
 import Link from 'next/link'
-import DynamicProductGrid from '@/components/product/DynamicProductGrid'
-import ProductDetailsModal from '@/components/product/ProductDetailsModal'
+import dynamic from 'next/dynamic'
 import { Product } from '@/lib/types/shared-types'
-import { cleanProductsWithMitsubishi } from '@/lib/products/products'
-import { tmeicProducts as tmeicProductsScraped } from '@/lib/products/tmeic-products-scraped'
-import { katkoProducts as katkoProductsScraped } from '@/lib/products/katko-products-scraped'
-import { lsIndustrialScraped } from '@/lib/products/ls-industrial-scraped'
-import { noarkScrapedProducts } from '@/lib/products/noark-products-scraped'
-import { klemsanScrapedProducts } from '@/lib/products/klemsan-products-scraped'
-import { elsteelScrapedProducts } from '@/lib/products/elsteel-products-scraped'
-// Import detailed Mitsubishi products with unique IDs (underscore-named files have 100000+ IDs)
-import { mitsubishiScrapedProducts } from '@/lib/products/mitsubishi-products-scraped'
-import { mitsubishiDrives_vfdsScrapedProducts } from '@/lib/products/scraped/mitsubishi-drives_vfds-scraped-products'
-import { mitsubishiBatteries_powerScrapedProducts } from '@/lib/products/scraped/mitsubishi-batteries_power-scraped-products'
-import { mitsubishiCables_accessoriesScrapedProducts } from '@/lib/products/scraped/mitsubishi-cables_accessories-scraped-products'
-import { mitsubishiCircuit_breakersScrapedProducts } from '@/lib/products/scraped/mitsubishi-circuit_breakers-scraped-products'
-import { mitsubishiServo_motorsScrapedProducts } from '@/lib/products/scraped/mitsubishi-servo_motors-scraped-products'
-import { mitsubishiPower_distributionScrapedProducts } from '@/lib/products/scraped/mitsubishi-power_distribution-scraped-products'
-import { mitsubishiOther_productsScrapedProducts } from '@/lib/products/scraped/mitsubishi-other_products-scraped-products'
 
-// Combined Mitsubishi products - detailed products where available, series for others
-// Filter out series products for categories that have detailed products
-const detailedCategories = new Set([
-  'variable frequency drives',
-  'batteries & power',
-  'cables & accessories', 
-  'circuit breakers',
-  'servo motors',
-  'power distribution',
-  'other products'
-])
+// Dynamic imports for components that use heavy icons or large logic
+const DynamicProductGrid = dynamic(() => import('@/components/product/DynamicProductGrid'), {
+  loading: () => <div className="h-96 animate-pulse bg-gray-50 rounded-lg"></div>,
+  ssr: true
+})
 
-// Keep series products only for categories without detailed products (PLCs, HMI, Motion Controllers, Contactors)
-const seriesProductsForMissingCategories = mitsubishiScrapedProducts.filter(
-  p => !detailedCategories.has(p.category?.toLowerCase() || '')
-)
-
-const allMitsubishiProducts: Product[] = [
-  ...seriesProductsForMissingCategories, // Series for PLCs, HMI, Motion Controllers, Contactors
-  ...mitsubishiDrives_vfdsScrapedProducts, // 627 VFD products with unique IDs
-  ...mitsubishiBatteries_powerScrapedProducts,
-  ...mitsubishiCables_accessoriesScrapedProducts,
-  ...mitsubishiCircuit_breakersScrapedProducts,
-  ...mitsubishiServo_motorsScrapedProducts,
-  ...mitsubishiPower_distributionScrapedProducts,
-  ...mitsubishiOther_productsScrapedProducts,
-]
+const ProductDetailsModal = dynamic(() => import('@/components/product/ProductDetailsModal'), {
+  ssr: false
+})
 
 interface ProductsPageNewProps {
   selectedBrand?: string
   selectedCategory?: string
   selectedSubcategory?: string
+  initialProducts?: Product[]
 }
 
 export default function ProductsPageNew({
   selectedBrand,
   selectedCategory,
-  selectedSubcategory
+  selectedSubcategory,
+  initialProducts = []
 }: ProductsPageNewProps) {
-  const [filteredProducts, setFilteredProducts] = useState<Product[]>([])
-  const [isLoading, setIsLoading] = useState(true)
+  const [filteredProducts, setFilteredProducts] = useState<Product[]>(initialProducts)
+  const [isLoading, setIsLoading] = useState(initialProducts.length === 0)
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null)
   const [isModalOpen, setIsModalOpen] = useState(false)
 
@@ -77,103 +44,15 @@ export default function ProductsPageNew({
     setSelectedProduct(null)
   }, [])
 
+  // Update filtered products when initialProducts change
   useEffect(() => {
-    const filterProducts = () => {
-      // Use brand-specific product sources for known brands
-      let products: Product[] = selectedBrand?.toLowerCase() === 'tmeic'
-        ? tmeicProductsScraped
-        : selectedBrand?.toLowerCase() === 'katko'
-          ? katkoProductsScraped
-          : selectedBrand?.toLowerCase() === 'ls industrial'
-            ? lsIndustrialScraped
-            : selectedBrand?.toLowerCase() === 'noark'
-              ? noarkScrapedProducts
-              : selectedBrand?.toLowerCase() === 'klemsan'
-                ? klemsanScrapedProducts
-                : selectedBrand?.toLowerCase() === 'elsteel'
-                  ? elsteelScrapedProducts
-                  : selectedBrand?.toLowerCase() === 'mitsubishi'
-                    ? allMitsubishiProducts // Use combined Mitsubishi products
-                    : cleanProductsWithMitsubishi
-
-      // For brands not explicitly handled above, filter by brand name
-      if (selectedBrand && 
-          selectedBrand.toLowerCase() !== 'tmeic' && 
-          selectedBrand.toLowerCase() !== 'katko' &&
-          selectedBrand.toLowerCase() !== 'ls industrial' &&
-          selectedBrand.toLowerCase() !== 'noark' &&
-          selectedBrand.toLowerCase() !== 'klemsan' &&
-          selectedBrand.toLowerCase() !== 'elsteel' &&
-          selectedBrand.toLowerCase() !== 'mitsubishi') {
-        products = products.filter(product =>
-          product.brand?.toLowerCase() === selectedBrand.toLowerCase()
-        )
-      }
-
-      if (selectedCategory) {
-        // Normalize category name for flexible matching
-        const normalizedSelectedCategory = selectedCategory.toLowerCase()
-
-        // For explicitly handled brands, use exact category matching
-        if (selectedBrand?.toLowerCase() === 'tmeic' || 
-            selectedBrand?.toLowerCase() === 'katko' ||
-            selectedBrand?.toLowerCase() === 'ls industrial' ||
-            selectedBrand?.toLowerCase() === 'noark' ||
-            selectedBrand?.toLowerCase() === 'klemsan' ||
-            selectedBrand?.toLowerCase() === 'elsteel' ||
-            selectedBrand?.toLowerCase() === 'mitsubishi') {
-          products = products.filter(product => {
-            const productCategory = product.category?.toLowerCase() || ''
-            const productSubcategory = (product as any).subcategory?.toLowerCase() || ''
-            return productCategory === normalizedSelectedCategory || 
-                   productSubcategory === normalizedSelectedCategory
-          })
-        } else {
-          // Create variations of the category name for matching
-          const categoryVariations = [
-            normalizedSelectedCategory,
-            normalizedSelectedCategory.replace(/-/g, ' '),
-            normalizedSelectedCategory.replace(/\s+/g, '-'),
-            // Handle common variations
-            normalizedSelectedCategory === 'variable frequency drives' ? 'vfds' : '',
-            normalizedSelectedCategory === 'programmable logic controllers' ? 'plcs' : '',
-            normalizedSelectedCategory === 'circuit breakers' ? 'circuit protection' : '',
-          ].filter(Boolean)
-
-          products = products.filter(product => {
-            const productCategory = product.category?.toLowerCase() || ''
-            const productSubcategory = (product as any).subcategory?.toLowerCase() || ''
-
-            return categoryVariations.some(variation =>
-              productCategory.includes(variation) ||
-              variation.includes(productCategory) ||
-              productSubcategory.includes(variation) ||
-              variation.includes(productSubcategory)
-            )
-          })
-        }
-      }
-
-      if (selectedSubcategory) {
-        products = products.filter(product =>
-          (product as any).subcategory?.toLowerCase().includes(selectedSubcategory.toLowerCase())
-        )
-      }
-
-      // Filter out products that only have the default West Shore logo as their image
-      products = products.filter(product => {
-        const hasDefaultLogo = product.images?.length === 1 &&
-          (product.images[0] === '/images/westlogo.jpg' ||
-            product.images[0]?.includes('westlogo'))
-        return !hasDefaultLogo
-      })
-
-      setFilteredProducts(products)
+    if (initialProducts.length > 0) {
+      setFilteredProducts(initialProducts)
+      setIsLoading(false)
+    } else {
       setIsLoading(false)
     }
-
-    filterProducts()
-  }, [selectedBrand, selectedCategory, selectedSubcategory])
+  }, [initialProducts])
 
   const getBreadcrumbs = () => {
     const breadcrumbs = [
@@ -233,7 +112,7 @@ export default function ProductsPageNew({
 
   const breadcrumbs = getBreadcrumbs()
 
-  if (isLoading) {
+  if (isLoading && initialProducts.length === 0) {
     return (
       <div className="min-h-screen bg-white">
         <div className="border-b border-gray-100 bg-gray-50/50">
@@ -300,11 +179,6 @@ export default function ProductsPageNew({
           <p className="mt-2 text-gray-600 max-w-3xl">
             {getPageDescription()}
           </p>
-          {filteredProducts.length > 0 && (
-            <p className="mt-2 text-sm text-gray-500">
-              {filteredProducts.length} products available
-            </p>
-          )}
         </div>
       </section>
 

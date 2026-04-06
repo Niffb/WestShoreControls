@@ -1,11 +1,10 @@
 'use client'
 
-import { useState, useCallback, useRef, useEffect } from 'react'
+import { useState, useCallback } from 'react'
 import Image from 'next/image'
-import { useInView } from 'react-intersection-observer'
 import { motion } from 'framer-motion'
-import { usePerformanceMonitor, imagePreloader } from '@/lib/utils/performance-utils'
-import { getImageUrl, getOptimizedImageUrl } from '@/lib/config/image-config'
+import { usePerformanceMonitor } from '@/lib/utils/performance-utils'
+import { getImageUrl } from '@/lib/config/image-config'
 
 interface OptimizedImageProps {
   src: string
@@ -22,11 +21,14 @@ interface OptimizedImageProps {
   blurDataURL?: string
   onLoad?: () => void
   onError?: () => void
-  lazy?: boolean
-  webp?: boolean
-  preload?: boolean
 }
 
+/**
+ * OptimizedImage component that leverages Next.js built-in image optimization.
+ * Now that sharp is installed and unoptimized: false is set in next.config.js,
+ * Next.js will automatically handle resizing, format conversion (WebP/AVIF),
+ * and lazy loading.
+ */
 export default function OptimizedImage({
   src,
   alt,
@@ -41,79 +43,12 @@ export default function OptimizedImage({
   placeholder = 'empty',
   blurDataURL,
   onLoad,
-  onError,
-  lazy = true,
-  webp = true,
-  preload = false
+  onError
 }: OptimizedImageProps) {
   const [isLoaded, setIsLoaded] = useState(false)
   const [hasError, setHasError] = useState(false)
-  // Detect the original format from the src and start with that
-  const getInitialFormat = (src: string): 'webp' | 'avif' | 'jpg' | 'png' | 'fallback' => {
-    if (src.toLowerCase().includes('.avif')) return 'avif'
-    if (src.toLowerCase().includes('.webp')) return 'webp'
-    if (src.toLowerCase().includes('.jpg') || src.toLowerCase().includes('.jpeg')) return 'jpg'
-    if (src.toLowerCase().includes('.png')) return 'png'
-    return 'webp' // default fallback
-  }
-  
-  const [currentFormat, setCurrentFormat] = useState<'webp' | 'avif' | 'jpg' | 'png' | 'fallback'>(() => getInitialFormat(src))
-  const imageRef = useRef<HTMLDivElement>(null)
   const { startMeasure } = usePerformanceMonitor()
 
-  // Intersection observer for lazy loading
-  const { ref, inView } = useInView({
-    triggerOnce: true,
-    threshold: 0.1,
-    rootMargin: '50px',
-    skip: !lazy || priority
-  })
-
-  const imageFormats = getOptimizedImageUrl(src)
-  
-  // Function to get the current image source based on format preference
-  const getCurrentSrc = () => {
-    switch (currentFormat) {
-      case 'avif':
-        return imageFormats.avif
-      case 'webp':
-        return imageFormats.webp
-      case 'jpg':
-        return imageFormats.jpg
-      case 'png':
-        return imageFormats.png
-      default:
-        return imageFormats.fallback
-    }
-  }
-
-  // Preload image when component mounts or comes into view
-  useEffect(() => {
-    const shouldLoad = !lazy || priority || inView
-    
-    if (shouldLoad && src && !getCurrentSrc()) {
-      // Try fallback formats in order: avif -> webp -> jpg -> png -> fallback
-      switch (currentFormat) {
-        case 'avif':
-          setCurrentFormat('webp')
-          break
-        case 'webp':
-          setCurrentFormat('jpg')
-          break
-        case 'jpg':
-          setCurrentFormat('png')
-          break
-        case 'png':
-          setCurrentFormat('fallback')
-          break
-        default:
-          // If all formats fail, keep the fallback
-          break
-      }
-    }
-  }, [src, lazy, priority, inView, getCurrentSrc])
-
-  // Handle image load
   const handleLoad = useCallback(() => {
     const endMeasure = startMeasure('image-load')
     setIsLoaded(true)
@@ -121,82 +56,32 @@ export default function OptimizedImage({
     endMeasure()
   }, [onLoad, startMeasure])
 
-  // Handle image error
   const handleError = useCallback(() => {
-    console.warn(`Failed to load image: ${getCurrentSrc()}`)
-    
-    // Try fallback formats based on current format
-    if (currentFormat === 'avif') {
-      setCurrentFormat('webp')
-      return
-    } else if (currentFormat === 'webp') {
-      setCurrentFormat('jpg')
-      return
-    } else if (currentFormat === 'jpg') {
-      setCurrentFormat('png')
-      return
-    } else if (currentFormat === 'png') {
-      setCurrentFormat('fallback')
-      return
-    }
-    
-    // If all formats fail, set error state
     setHasError(true)
     onError?.()
-  }, [getCurrentSrc, onError, currentFormat])
+  }, [onError])
 
-  // Generate blur placeholder
-  const generateBlurDataURL = (w: number = 10, h: number = 10) => {
-    const canvas = document.createElement('canvas')
-    canvas.width = w
-    canvas.height = h
-    const ctx = canvas.getContext('2d')
-    if (ctx) {
-      ctx.fillStyle = '#f3f4f6'
-      ctx.fillRect(0, 0, w, h)
-    }
-    return canvas.toDataURL()
-  }
+  // Don't render if no src
+  if (!src) return null
 
-  // Don't render if no src or error with no fallback
-  if (!src || (hasError && !alt)) {
-    return null
-  }
-
-  // Render placeholder while loading
-  if (!getCurrentSrc() || (!isLoaded && lazy && !priority)) {
-    return (
-      <div
-        ref={ref}
-        className={`${className} bg-gray-100 animate-pulse flex items-center justify-center`}
-        style={fill ? undefined : { width, height }}
-      >
-        <div className="text-gray-400 text-sm">Loading...</div>
-      </div>
-    )
-  }
+  // Resolve source URL
+  const resolvedSrc = src.startsWith('http') ? src : getImageUrl(src)
 
   return (
     <div
-      ref={ref}
       className={`relative overflow-hidden ${className}`}
       style={fill ? undefined : { width, height }}
     >
-      {/* Loading overlay */}
-      {!isLoaded && (
-        <motion.div
-          className="absolute inset-0 bg-gray-100 flex items-center justify-center z-10"
-          initial={{ opacity: 1 }}
-          animate={{ opacity: isLoaded ? 0 : 1 }}
-          transition={{ duration: 0.3 }}
-        >
-          <div className="animate-spin w-6 h-6 border-2 border-gray-300 border-t-blue-500 rounded-full" />
-        </motion.div>
+      {/* Loading overlay - only show for non-priority images */}
+      {!isLoaded && !hasError && !priority && (
+        <div className="absolute inset-0 bg-gray-100 flex items-center justify-center z-10">
+          <div className="animate-spin w-6 h-6 border-2 border-gray-300 border-t-primary-500 rounded-full" />
+        </div>
       )}
 
-      {/* Main image */}
+      {/* Main image - using Next.js Image for automatic optimization */}
       <Image
-        src={getCurrentSrc()}
+        src={hasError ? '/images/westlogo.jpg' : resolvedSrc}
         alt={alt}
         width={fill ? undefined : width}
         height={fill ? undefined : height}
@@ -211,23 +96,17 @@ export default function OptimizedImage({
            objectFit === 'fill' ? 'object-fill' : 
            objectFit === 'none' ? 'object-none' : 'object-scale-down'}`}
         placeholder={placeholder}
-        blurDataURL={
-          blurDataURL || 
-          (placeholder === 'blur' && typeof window !== 'undefined' ? 
-            generateBlurDataURL(width || 10, height || 10) : undefined)
-        }
+        blurDataURL={blurDataURL}
         onLoad={handleLoad}
         onError={handleError}
-        loading={priority ? 'eager' : 'lazy'}
       />
 
-      {/* Error fallback */}
+      {/* Error fallback info overlay */}
       {hasError && (
-        <div className="absolute inset-0 bg-gray-100 flex items-center justify-center">
-          <div className="text-gray-400 text-sm text-center p-4">
-            <div className="mb-2">📷</div>
-            <div>Image unavailable</div>
-            {alt && <div className="text-xs mt-1">{alt}</div>}
+        <div className="absolute inset-0 bg-gray-50 flex flex-col items-center justify-center p-2">
+          <div className="text-gray-400 text-xs text-center">
+            <div className="mb-1 text-lg">📷</div>
+            <div className="line-clamp-1">{alt}</div>
           </div>
         </div>
       )}
@@ -252,8 +131,6 @@ export const ProductImage = ({
       objectFit="contain"
       priority={priority}
       sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
-      webp
-      lazy={!priority}
       {...props}
     />
   )
@@ -274,11 +151,9 @@ export const HeroImage = ({
       className={className}
       objectFit="cover"
       priority
-      quality={95}
+      quality={90}
       sizes="100vw"
-      webp
-      preload
       {...props}
     />
   )
-} 
+}

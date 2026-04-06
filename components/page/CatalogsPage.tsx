@@ -1,15 +1,13 @@
 'use client'
 
-import { useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import { DocumentArrowDownIcon, ArrowLeftIcon, ChevronDownIcon } from '@heroicons/react/24/outline'
+import { ChevronRightIcon } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
 
 interface Catalog {
   title: string
   description: string
-  size: string
   pages: number
   downloadUrl: string
 }
@@ -20,190 +18,265 @@ interface CatalogBrand {
   catalogs: Catalog[]
 }
 
-export default function CatalogsPageComponent() {
-  const [expandedBrands, setExpandedBrands] = useState<string[]>([])
+function catalogLinkProps(url: string, title: string) {
+  const safeFilename =
+    title
+      .replace(/[^a-z0-9]+/gi, '-')
+      .replace(/^-|-$/g, '')
+      .toLowerCase()
+      .slice(0, 72) || 'catalog'
 
-  const toggleBrand = (brand: string) => {
-    setExpandedBrands(prev =>
-      prev.includes(brand)
-        ? prev.filter(b => b !== brand)
-        : [...prev, brand]
-    )
+  if (url.startsWith('/api/catalog-download')) {
+    return {
+      title: 'Download PDF through Westshore Controls',
+      download: `${safeFilename}.pdf`,
+    }
   }
 
-  const catalogs: CatalogBrand[] = [
-    {
-      brand: "LS Industrial",
-      logo: getImageUrl("brands/LS.webp"),
-      catalogs: [
-        { title: "Factory Automation Catalog 2024", description: "Complete range of industrial automation products including contactors, circuit breakers, motor starters, and control systems.", size: "9.5 MB", pages: 400, downloadUrl: "/downloads/catalogs/ls-industrial-factory-automation-catalog-2024.pdf" }
-      ]
-    },
-    {
-      brand: "Mitsubishi Electric",
-      logo: getImageUrl("brands/MitsubishiLogo.webp"),
-      catalogs: [
-        { title: "LES Product Catalogue 2025", description: "Comprehensive catalog featuring Mitsubishi Electric's complete range of industrial automation solutions and motor drives.", size: "Online", pages: 438, downloadUrl: "https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1" }
-      ]
-    },
-    {
-      brand: "Noark",
-      logo: getImageUrl("brands/Noark.webp"),
-      catalogs: [
-        { title: "Noark Product Catalogue", description: "Complete range of circuit breakers, contactors, motor protection devices, and electrical components.", size: "6.5 MB", pages: 120, downloadUrl: "/downloads/catalogs/noark-product-catalogue.pdf" }
-      ]
-    },
-    {
-      brand: "Klemsan",
-      logo: getImageUrl("brands/klemsan-logo.webp"),
-      catalogs: [
-        { title: "Automation Components Catalog", description: "Industrial automation components including relays, power supplies, terminal blocks, and control accessories.", size: "12 MB", pages: 200, downloadUrl: "/downloads/catalogs/automation-klemsan.pdf" },
-        { title: "Accessories & Connection Solutions", description: "Terminal blocks, connection accessories, marking systems, and installation tools.", size: "6.8 MB", pages: 150, downloadUrl: "/downloads/catalogs/klemsan-accessories.pdf" }
-      ]
-    },
-    {
-      brand: "Katko",
-      logo: getImageUrl("brands/Katko.webp"),
-      catalogs: [
-        { title: "Product Catalogue 2021", description: "Complete range of enclosed isolating switches, motor controls, and safety disconnect switches.", size: "41 MB", pages: 300, downloadUrl: "/downloads/catalogs/katko-product-catalogue-2021.pdf" }
-      ]
-    },
-    {
-      brand: "Elsteel",
-      logo: getImageUrl("brands/Elsteel.webp"),
-      catalogs: [
-        { title: '19" Super Frame Brochure', description: '19" Super Frame cabinets for telecommunications, data communication, and UPS applications.', size: "19.5 MB", pages: 48, downloadUrl: "/downloads/catalogs/elsteel-19-super-frame-brochure.pdf" },
-        { title: "Box Brochure", description: "Mild steel and stainless steel boxes including terminal boxes and custom enclosures.", size: "12.9 MB", pages: 32, downloadUrl: "/downloads/catalogs/elsteel-box-brochure.pdf" },
-        { title: "Special Enclosures", description: "Custom made enclosures manufactured to your specific needs and requirements.", size: "1.1 MB", pages: 8, downloadUrl: "/downloads/catalogs/elsteel-special-enclosures.pdf" },
-        { title: "Plug & Power Solutions", description: "Modular plug and power distribution systems for industrial applications.", size: "6.9 MB", pages: 20, downloadUrl: "/downloads/catalogs/elsteel-plug-and-power.pdf" },
-        { title: "Techno Module Brochure", description: "200mm grid solution offering flexibility, reliability, and safety for panel builders.", size: "7.3 MB", pages: 28, downloadUrl: "/downloads/catalogs/elsteel-techno-module-brochure.pdf" },
-        { title: "Techno Module Light", description: "Compact version of Techno Module for space-efficient solutions.", size: "37.1 MB", pages: 64, downloadUrl: "/downloads/catalogs/elsteel-techno-module-light-brochure.pdf" }
-      ]
-    }
-  ]
+  return {
+    target: '_blank' as const,
+    rel: 'noopener noreferrer' as const,
+    title: 'Opens partner site in a new tab',
+  }
+}
 
-  const totalCatalogs = catalogs.reduce((sum, brand) => sum + brand.catalogs.length, 0)
+function linkMeta(url: string) {
+  if (url.startsWith('/api/catalog-download')) return 'PDF download'
+  return 'Partner site · new tab'
+}
 
+const catalogs: CatalogBrand[] = [
+  {
+    brand: 'LS Industrial',
+    logo: getImageUrl('brands/LS.webp'),
+    catalogs: [
+      {
+        title: 'Manuals, catalogs & downloads',
+        description: 'Official LS Electric Americas hub for manuals, catalogs, certificates, software, and technical data.',
+        pages: 0,
+        downloadUrl: 'https://www.lselectricamerica.com/manual/',
+      },
+    ],
+  },
+  {
+    brand: 'Mitsubishi Electric',
+    logo: getImageUrl('brands/MitsubishiLogo.webp'),
+    catalogs: [
+      {
+        title: 'LES Product Catalogue',
+        description: 'Industrial automation and motor drives (online viewer).',
+        pages: 466,
+        downloadUrl: 'https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1',
+      },
+    ],
+  },
+  {
+    brand: 'TMEIC',
+    logo: getImageUrl('brands/TMEIC_logo.png'),
+    catalogs: [
+      {
+        title: 'TMdrive MVe2 application guide',
+        description: 'Medium-voltage multilevel IGBT drive reference.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=tmeic-mve2-app-guide',
+      },
+    ],
+  },
+  {
+    brand: 'ERICO',
+    logo: getImageUrl('brands/Erico.webp'),
+    catalogs: [
+      {
+        title: 'Resource library',
+        description: 'Grounding, bonding, and electrical infrastructure downloads.',
+        pages: 0,
+        downloadUrl: 'https://www.nvent.com/en-us/erico/resource-library',
+      },
+    ],
+  },
+  {
+    brand: 'Noark',
+    logo: getImageUrl('brands/Noark.webp'),
+    catalogs: [
+      {
+        title: 'Master catalogs & downloads',
+        description: 'Circuit breakers, contactors, motor protection, and switchboards.',
+        pages: 0,
+        downloadUrl: 'https://na.noark-electric.com/master-catalogs/',
+      },
+    ],
+  },
+  {
+    brand: 'Klemsan',
+    logo: getImageUrl('brands/klemsan-logo.webp'),
+    catalogs: [
+      {
+        title: 'Automation components',
+        description: 'Relays, power supplies, terminal blocks, and automation catalogs.',
+        pages: 0,
+        downloadUrl: 'https://www.klemsan.com.tr/documents-and-videos',
+      },
+      {
+        title: 'Accessories & connection solutions',
+        description: 'Marking, installation tools, and wiring ducts.',
+        pages: 0,
+        downloadUrl: 'https://www.klemsan.com.tr/documents-and-videos',
+      },
+    ],
+  },
+  {
+    brand: 'Katko',
+    logo: getImageUrl('brands/Katko.webp'),
+    catalogs: [
+      {
+        title: 'IsoSafe catalogue',
+        description: 'Enclosed isolating switches.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=katko-isosafe',
+      },
+      {
+        title: 'LoadSafe catalogue',
+        description: 'Load-break switches and disconnects.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=katko-loadsafe',
+      },
+      {
+        title: 'ConnectSafe catalogue',
+        description: 'Connectors and terminal blocks.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=katko-connectsafe',
+      },
+      {
+        title: 'All downloads & certificates',
+        description: 'Brochures, UL/CSA docs, and certificates on Katko’s site.',
+        pages: 0,
+        downloadUrl: 'https://katko.com/pages/downloads',
+      },
+    ],
+  },
+  {
+    brand: 'Elsteel',
+    logo: getImageUrl('brands/Elsteel.webp'),
+    catalogs: [
+      {
+        title: 'Techno Module brochure',
+        description: '200mm grid modular system for panel builders.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=elsteel-techno-module',
+      },
+      {
+        title: 'Techno Module Light brochure',
+        description: 'Compact Techno Module line.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=elsteel-techno-module-light',
+      },
+      {
+        title: 'Box brochure',
+        description: 'Steel and stainless boxes and terminal enclosures.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=elsteel-box',
+      },
+      {
+        title: 'Special enclosures',
+        description: 'Custom enclosure solutions.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=elsteel-special-enclosures',
+      },
+      {
+        title: 'Plug & Power solutions',
+        description: 'Modular plug and power distribution.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=elsteel-plug-power',
+      },
+      {
+        title: '19" Super Frame brochure',
+        description: 'Telecom, data, and UPS applications.',
+        pages: 0,
+        downloadUrl: '/api/catalog-download?id=elsteel-19-super-frame',
+      },
+    ],
+  },
+]
+
+export default function CatalogsPageComponent() {
   return (
-    <div className="min-h-screen bg-white">
-      {/* Page Heading */}
+    <div className="bg-white min-h-screen">
       <section className="border-b border-gray-100 bg-gray-50/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-          <nav className="flex items-center space-x-2 text-sm text-gray-500 mb-4">
-            <Link href="/" className="hover:text-primary-600 transition-colors flex items-center">
-              <ArrowLeftIcon className="h-4 w-4 mr-1" />
-              Home
-            </Link>
-            <span>/</span>
-            <span className="text-primary-600 font-medium">Catalogs</span>
-          </nav>
           <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
-            Product <span className="text-primary-600">Catalogs</span>
+            Product <span className="text-gray-700">Catalogs</span>
           </h1>
           <p className="mt-2 text-gray-600 max-w-2xl">
-            Download catalogs and technical documentation from our brand partners. {catalogs.length} brands, {totalCatalogs} catalogs available.
+            PDFs download through our site where available. Other entries link to the manufacturer’s library in a new tab.
           </p>
         </div>
       </section>
 
-      {/* Catalogs Grid */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 pb-20">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {catalogs.map((brand) => {
-            const isExpanded = expandedBrands.includes(brand.brand)
-
-            return (
-              <div key={brand.brand} className="group">
-                <div className="bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-md transition-shadow">
-                  <button
-                    onClick={() => toggleBrand(brand.brand)}
-                    className="w-full p-5 flex items-center justify-between bg-gray-50 hover:bg-gray-100 transition-colors"
-                  >
-                    <div className="flex items-center gap-4">
-                      <div className="relative w-14 h-14 rounded-lg overflow-hidden bg-white p-2 border border-gray-100 flex-shrink-0">
-                        <Image
-                          src={brand.logo}
-                          alt={`${brand.brand} logo`}
-                          fill
-                          className="object-contain"
-                        />
-                      </div>
-                      <div className="text-left">
-                        <h2 className="text-lg font-bold text-gray-900">
-                          {brand.brand}
-                        </h2>
-                        <span className="text-sm text-gray-500">
-                          {brand.catalogs.length} {brand.catalogs.length === 1 ? 'Catalog' : 'Catalogs'}
-                        </span>
-                      </div>
-                    </div>
-                    <div className={`p-2 rounded-full bg-gray-200 transition-transform duration-200 ${isExpanded ? 'rotate-180' : ''}`}>
-                      <ChevronDownIcon className="h-5 w-5 text-gray-600" />
-                    </div>
-                  </button>
-
-                  {isExpanded && (
-                    <div className="p-4 pt-0 space-y-3 border-t border-gray-100">
-                      {brand.catalogs.map((catalog, index) => (
-                        <a
-                          key={index}
-                          href={catalog.downloadUrl}
-                          {...(catalog.downloadUrl.startsWith('http')
-                            ? { target: '_blank', rel: 'noopener noreferrer' }
-                            : {}
-                          )}
-                          className="block p-4 rounded-lg bg-gray-50 hover:bg-primary-50 border border-gray-100 hover:border-primary-200 transition-colors duration-150"
-                        >
-                          <div className="flex items-start gap-3">
-                            <div className="p-2 rounded-lg bg-primary-100 text-primary-600 flex-shrink-0">
-                              <DocumentArrowDownIcon className="h-5 w-5" />
-                            </div>
-                            <div className="flex-1 min-w-0">
-                              <h3 className="font-semibold text-gray-900 text-sm mb-1">
-                                {catalog.title}
-                              </h3>
-                              <p className="text-xs text-gray-500 line-clamp-2 mb-2">
-                                {catalog.description}
-                              </p>
-                              <div className="flex items-center gap-3 text-xs text-gray-400">
-                                <span>{catalog.size}</span>
-                                <span>&middot;</span>
-                                <span>{catalog.pages} pages</span>
-                              </div>
-                            </div>
-                          </div>
-                        </a>
-                      ))}
-                    </div>
-                  )}
+      <section className="py-12 sm:py-16">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="divide-y divide-gray-200">
+            {catalogs.map((brand) => (
+              <div key={brand.brand} className="py-10 first:pt-0">
+                <div className="flex items-center gap-3 mb-6">
+                  <div className="relative h-10 w-10 shrink-0">
+                    <Image
+                      src={brand.logo}
+                      alt={`${brand.brand} logo`}
+                      fill
+                      className="object-contain"
+                      sizes="40px"
+                    />
+                  </div>
+                  <h2 className="text-lg font-semibold text-gray-900">{brand.brand}</h2>
                 </div>
+                <ul className="space-y-0 border-t border-gray-100">
+                  {brand.catalogs.map((catalog, index) => (
+                    <li key={`${catalog.title}-${index}`}>
+                      <a
+                        href={catalog.downloadUrl}
+                        {...catalogLinkProps(catalog.downloadUrl, catalog.title)}
+                        className="group flex items-start justify-between gap-4 py-4 border-b border-gray-100 last:border-b-0 text-left w-full"
+                      >
+                        <span className="min-w-0 flex-1">
+                          <span className="block font-medium text-gray-900 group-hover:text-gray-700">
+                            {catalog.title}
+                          </span>
+                          <span className="mt-0.5 block text-sm text-gray-500">
+                            {catalog.description}
+                            {catalog.pages > 0 && (
+                              <span className="text-gray-400"> · {catalog.pages} pages</span>
+                            )}
+                          </span>
+                          <span className="mt-1 block text-xs text-gray-400">
+                            {linkMeta(catalog.downloadUrl)}
+                          </span>
+                        </span>
+                        <ChevronRightIcon
+                          className="h-5 w-5 shrink-0 text-gray-300 group-hover:text-gray-500 mt-0.5"
+                          aria-hidden
+                        />
+                      </a>
+                    </li>
+                  ))}
+                </ul>
               </div>
-            )
-          })}
-        </div>
-      </section>
+            ))}
+          </div>
 
-      {/* CTA */}
-      <section className="py-16 bg-gray-900">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold text-white mb-4">Need Technical Support?</h2>
-          <p className="text-gray-400 mb-8">
-            Our technical team is here to help you select the right products for your application.
-          </p>
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link
-              href="/contact"
-              className="inline-flex items-center px-8 py-3 bg-white text-gray-900 font-semibold rounded-md hover:bg-gray-100 transition-colors"
-            >
-              Contact Technical Support
-            </Link>
+          <p className="mt-12 text-center text-sm text-gray-500">
+            Need help choosing a catalog or product?{' '}
+            <Link href="/contact" className="text-gray-700 underline underline-offset-2 hover:no-underline">
+              Contact us
+            </Link>{' '}
+            or call{' '}
             <a
               href="tel:+16048170987"
-              className="inline-flex items-center px-8 py-3 border border-white text-white font-semibold rounded-md hover:bg-white hover:text-gray-900 transition-colors"
+              className="text-gray-700 underline underline-offset-2 hover:no-underline"
             >
-              Call (604) 817-0987
+              (604) 817-0987
             </a>
-          </div>
+            .
+          </p>
         </div>
       </section>
     </div>

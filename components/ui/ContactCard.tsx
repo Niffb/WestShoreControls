@@ -3,7 +3,7 @@
 import { PhoneIcon, EnvelopeIcon, ClockIcon } from '@heroicons/react/24/outline'
 
 interface ContactCardProps {
-  variant?: 'default' | 'compact' | 'compactNeutral' | 'inline' | 'inlineNeutral'
+  variant?: 'default' | 'compact' | 'compactNeutral' | 'inline' | 'inlineNeutral' | 'supportTeamCta'
   showEmail?: boolean
   showHours?: boolean
   className?: string
@@ -48,6 +48,22 @@ export default function ContactCard({
             <span>Send Email</span>
           </a>
         )}
+      </div>
+    )
+  }
+
+  if (variant === 'supportTeamCta') {
+    return (
+      <div className={`text-center ${className}`}>
+        <p className="text-sm font-medium text-gray-900 mb-1">Contact Us</p>
+        <p className="text-xs text-gray-500 mb-3">Expert support for your electrical needs</p>
+        <a
+          href="tel:+16048170987"
+          className="w-full font-medium py-3 px-4 rounded-md transition-colors duration-200 bg-primary-600 hover:bg-primary-700 text-white inline-flex items-center justify-center gap-2"
+        >
+          <PhoneIcon className="w-4 h-4 shrink-0" />
+          <span>{phone}</span>
+        </a>
       </div>
     )
   }

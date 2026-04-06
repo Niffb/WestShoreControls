@@ -1,28 +1,8 @@
-import { Suspense } from 'react'
-import dynamic from 'next/dynamic'
 import { Metadata } from 'next'
 import Hero from '@/components/layout/Hero'
-import { PageHeaderSkeleton } from '@/components/ui/LoadingSkeletons'
-
-// Lazy load non-critical components for better initial page load
-const PartnershipsHero = dynamic(() => import('@/components/page/PartnershipsHero'), {
-  loading: () => <PageHeaderSkeleton />,
-  ssr: true
-})
-
-
-
-// BrandSelection component will be rebuilt with new product system
-
-const About = dynamic(() => import('@/components/page/About'), {
-  loading: () => <PageHeaderSkeleton />,
-  ssr: true
-})
-
-const Partnership = dynamic(() => import('@/components/page/Partnership'), {
-  loading: () => <PageHeaderSkeleton />,
-  ssr: true
-})
+import PartnershipsHero from '@/components/page/PartnershipsHero'
+import About from '@/components/page/About'
+import Partnership from '@/components/page/Partnership'
 
 // Enhanced metadata for the home page
 export const metadata: Metadata = {
@@ -118,10 +98,7 @@ export default function Home() {
       {/* Critical above-the-fold content */}
       <Hero />
       
-      {/* Lazy-loaded sections with loading states */}
-      <Suspense fallback={<PageHeaderSkeleton />}>
-        <PartnershipsHero />
-      </Suspense>
+      <PartnershipsHero />
       
       <section id="brands">
         <div className="bg-gray-50 py-16">
@@ -132,13 +109,9 @@ export default function Home() {
         </div>
       </section>
       
-      <Suspense fallback={<PageHeaderSkeleton />}>
-        <About />
-      </Suspense>
-      
-      <Suspense fallback={<PageHeaderSkeleton />}>
-        <Partnership />
-      </Suspense>
+      <About />
+
+      <Partnership />
     </>
   )
 } 

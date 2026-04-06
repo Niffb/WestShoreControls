@@ -2,6 +2,7 @@ import { Suspense } from 'react'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import BrandCategoriesPageNew from '@/components/brand/BrandCategoriesPageNew'
+import { getBrandCategoryCounts } from '@/lib/products/server-products'
 
 // Performance optimization - enable static generation
 export const revalidate = 3600 // 1 hour
@@ -115,7 +116,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-export default function BrandPage({ params }: Props) {
+export default async function BrandPage({ params }: Props) {
   const brandSlug = params.brand.toLowerCase()
   
   // Check if the brand is valid
@@ -124,6 +125,9 @@ export default function BrandPage({ params }: Props) {
   }
 
   const brandName = brandDisplayNames[brandSlug]
+
+  // Calculate category counts on the server
+  const categoryCounts = await getBrandCategoryCounts(brandName)
 
   // Enhanced loading skeleton
   const BrandPageSkeleton = () => (
@@ -153,7 +157,7 @@ export default function BrandPage({ params }: Props) {
 
   return (
     <Suspense fallback={<BrandPageSkeleton />}>
-      <BrandCategoriesPageNew selectedBrand={brandName} />
+      <BrandCategoriesPageNew selectedBrand={brandName} categoryCounts={categoryCounts} />
     </Suspense>
   )
 }
@@ -163,4 +167,4 @@ export async function generateStaticParams() {
   return validBrands.map((brand) => ({
     brand: brand,
   }))
-} 
+}

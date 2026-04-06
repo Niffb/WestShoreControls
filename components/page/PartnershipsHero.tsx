@@ -16,9 +16,9 @@ export default function PartnershipsHero() {
   ]
 
   return (
-    <section className="py-16 bg-white border-b border-gray-100">
+    <section className="pt-6 sm:pt-8 pb-12 sm:pb-14 bg-white border-b border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-12">
+        <div className="text-center mb-8 sm:mb-10">
           <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">
             Trusted by Industry Leaders
           </h2>
@@ -43,7 +43,7 @@ export default function PartnershipsHero() {
           ))}
         </div>
 
-        <div className="text-center mt-12">
+        <div className="text-center mt-8 sm:mt-10">
           <p className="text-sm text-gray-500">
             VAR (Value-Added Reseller) for TMEIC products and authorized distributor with access to complete product catalogs from all premium brand partners
           </p>

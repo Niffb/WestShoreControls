@@ -1,7 +1,9 @@
 import type { Metadata } from 'next'
+import { Suspense } from 'react'
 import { Inter } from 'next/font/google'
 import './globals.css'
 import Header from '@/components/layout/Header'
+import HeaderFallback from '@/components/layout/HeaderFallback'
 import Footer from '@/components/layout/Footer'
 import PerformanceMonitorComponent from '@/components/ui/PerformanceMonitor'
 
@@ -41,7 +43,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Header />
+        <Suspense fallback={<HeaderFallback />}>
+          <Header />
+        </Suspense>
         <main className="min-h-screen pt-24">
           {children}
         </main>

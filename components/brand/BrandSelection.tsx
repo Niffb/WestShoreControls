@@ -1,55 +1,11 @@
 'use client'
 
 import { motion, useInView } from 'framer-motion'
-import { useRef, useState, useEffect } from 'react'
+import { useRef } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { ArrowRightIcon } from '@heroicons/react/24/outline'
 
-// Import product data for accurate counts
-import { tmeicProducts } from '@/lib/products/tmeic-products-scraped'
-import { katkoProducts } from '@/lib/products/katko-products-scraped'
-import { lsIndustrialScraped } from '@/lib/products/ls-industrial-scraped'
-import { noarkScrapedProducts } from '@/lib/products/noark-products-scraped'
-import { klemsanScrapedProducts } from '@/lib/products/klemsan-products-scraped'
-import { elsteelScrapedProducts } from '@/lib/products/elsteel-products-scraped'
-import { ericoScrapedProducts } from '@/lib/products/erico-products-scraped'
-// Import detailed Mitsubishi products
-import { mitsubishiScrapedProducts } from '@/lib/products/mitsubishi-products-scraped'
-import { mitsubishiDrives_vfdsScrapedProducts } from '@/lib/products/scraped/mitsubishi-drives_vfds-scraped-products'
-import { mitsubishiBatteries_powerScrapedProducts } from '@/lib/products/scraped/mitsubishi-batteries_power-scraped-products'
-import { mitsubishiCables_accessoriesScrapedProducts } from '@/lib/products/scraped/mitsubishi-cables_accessories-scraped-products'
-import { mitsubishiCircuit_breakersScrapedProducts } from '@/lib/products/scraped/mitsubishi-circuit_breakers-scraped-products'
-import { mitsubishiServo_motorsScrapedProducts } from '@/lib/products/scraped/mitsubishi-servo_motors-scraped-products'
-import { mitsubishiPower_distributionScrapedProducts } from '@/lib/products/scraped/mitsubishi-power_distribution-scraped-products'
-import { mitsubishiOther_productsScrapedProducts } from '@/lib/products/scraped/mitsubishi-other_products-scraped-products'
-
-// Calculate Mitsubishi total products
-const detailedMitsubishiCategories = new Set([
-  'variable frequency drives',
-  'batteries & power',
-  'cables & accessories', 
-  'circuit breakers',
-  'servo motors',
-  'power distribution',
-  'other products'
-])
-
-const mitsubishiSeriesForMissingCategories = mitsubishiScrapedProducts.filter(
-  p => !detailedMitsubishiCategories.has(p.category?.toLowerCase() || '')
-)
-
-const totalMitsubishiProducts = 
-  mitsubishiSeriesForMissingCategories.length +
-  mitsubishiDrives_vfdsScrapedProducts.length +
-  mitsubishiBatteries_powerScrapedProducts.length +
-  mitsubishiCables_accessoriesScrapedProducts.length +
-  mitsubishiCircuit_breakersScrapedProducts.length +
-  mitsubishiServo_motorsScrapedProducts.length +
-  mitsubishiPower_distributionScrapedProducts.length +
-  mitsubishiOther_productsScrapedProducts.length
-
-// Brand data with logos and available categories - using dynamic product counts
 const brands = [
   {
     name: 'Mitsubishi',
@@ -57,7 +13,6 @@ const brands = [
     description: 'Complete Factory Automation & Electric Controls Product Line',
     website: 'https://www.mitsubishielectric.com',
     categories: ['Controllers', 'Variable Frequency Drives', 'Motors', 'Circuit Breakers', 'Contactors', 'Overload Relays'],
-    productCount: totalMitsubishiProducts
   },
   {
     name: 'TMEIC',
@@ -65,7 +20,6 @@ const brands = [
     description: 'Full Range of High Power Drives & Industrial Systems',
     website: 'https://www.tmeic.com',
     categories: ['Variable Frequency Drives', 'Motors', 'DC Drives'],
-    productCount: tmeicProducts.length
   },
   {
     name: 'LS Industrial',
@@ -73,7 +27,6 @@ const brands = [
     description: 'Complete Variable Frequency Drives & Motor Controls Product Line',
     website: 'https://www.lsis.com',
     categories: ['Variable Frequency Drives', 'Contactors', 'Controllers', 'Motors'],
-    productCount: lsIndustrialScraped.length
   },
   {
     name: 'ERICO',
@@ -81,7 +34,6 @@ const brands = [
     description: 'Full Line of Electrical Connection & Protection Products',
     website: 'https://www.erico.com',
     categories: ['Flexible Conductors', 'Busbars', 'Cable Management'],
-    productCount: ericoScrapedProducts.length
   },
   {
     name: 'Katko',
@@ -89,7 +41,6 @@ const brands = [
     description: 'Complete Range of Enclosed Isolators & Safety Switches',
     website: 'https://www.katko.fi',
     categories: ['Enclosed Isolators'],
-    productCount: katkoProducts.length
   },
   {
     name: 'Klemsan',
@@ -97,7 +48,6 @@ const brands = [
     description: 'Full Product Line of Terminal Blocks & Connection Solutions',
     website: 'https://www.klemsan.com',
     categories: ['Screw Terminals', 'Quick Release', 'Spring Terminals', 'Plug Terminals', 'Power Sources', 'Automation', 'Junction Boxes', 'Cable Channels'],
-    productCount: klemsanScrapedProducts.length
   },
   {
     name: 'Noark',
@@ -105,7 +55,6 @@ const brands = [
     description: 'Complete Circuit Protection & Industrial Controls Product Line',
     website: 'https://www.noark-electric.com',
     categories: ['Circuit Breakers', 'Contactors', 'Overload Relays', 'Manual Motor Starters', 'Push Buttons', 'LED Indicators', 'Power Distribution', 'Other Products'],
-    productCount: noarkScrapedProducts.length
   },
   {
     name: 'Elsteel',
@@ -113,8 +62,7 @@ const brands = [
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     website: 'https://www.elsteel.com',
     categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power'],
-    productCount: elsteelScrapedProducts.length
-  }
+  },
 ]
 
 // Animated background particles
@@ -168,11 +116,6 @@ const FloatingParticles = () => {
 export default function BrandSelection() {
   const ref = useRef(null)
   const isInView = useInView(ref, { once: true, margin: "-100px" })
-
-  // Calculate total products across all brands
-  const getTotalProductCount = () => {
-    return brands.reduce((total, brand) => total + brand.productCount, 0)
-  }
 
   return (
     <>
@@ -231,28 +174,13 @@ export default function BrandSelection() {
             />
 
             <motion.p
-              className="text-xl text-gray-600 max-w-3xl mx-auto mb-8"
+              className="text-xl text-gray-600 max-w-3xl mx-auto"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.3 }}
             >
               We carry <strong className="text-gray-900">complete product lines</strong> from our trusted brand partners. Explore comprehensive factory and automation solutions from industry-leading manufacturers.
             </motion.p>
-
-            {/* Quick Stats */}
-            <motion.div
-              className="flex flex-wrap justify-center gap-8 mb-8"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, delay: 0.5 }}
-            >
-              <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
-                <span className="font-medium text-gray-700">{brands.length} Trusted Brands</span>
-              </div>
-              <div className="flex items-center bg-white/60 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg">
-                <span className="font-medium text-gray-700">{getTotalProductCount().toLocaleString()}+ Products</span>
-              </div>
-            </motion.div>
           </div>
         </motion.section>
 
@@ -310,13 +238,6 @@ export default function BrandSelection() {
                       <p className="text-sm text-gray-600 mb-4 leading-relaxed">
                         {brand.description}
                       </p>
-
-                      {/* Product Count */}
-                      <div className="flex items-center justify-between mb-4">
-                        <span className="text-sm font-medium text-gray-700">
-                          {brand.productCount.toLocaleString()} Products Available
-                        </span>
-                      </div>
 
                       {/* Categories */}
                       <div className="mb-6">
