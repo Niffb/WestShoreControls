@@ -3,4 +3,4 @@
 
 [[build.env]]
   name = "GOOGLE_NODEJS_VERSION"
-  value = "20.x"
+  value = "22.x"
