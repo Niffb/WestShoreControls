@@ -55,8 +55,6 @@ optimize-images.sh
 # Scrapers and build scripts (not needed for production runtime)
 scrapers/
 scrapers-v2/
-scripts/
-generate-favicon.js
 cloudbuild.yaml
 
 # Data source files (only if they are processed into public/assets during build)
