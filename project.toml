@@ -1,4 +1,6 @@
-[[build]]
-  id = "google.nodejs.runtime"
-  [build.config]
-    node_version = "20.x"
+# Google Cloud Buildpacks configuration
+# Reference: https://github.com/GoogleCloudPlatform/buildpacks/blob/main/README.md
+
+[[build.env]]
+  name = "GOOGLE_NODEJS_VERSION"
+  value = "20.x"
