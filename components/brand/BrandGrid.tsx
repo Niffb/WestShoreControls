@@ -110,7 +110,6 @@ export default function BrandGrid() {
 
               <div className="flex items-center text-primary-600 font-medium text-sm group-hover:text-primary-700 transition-colors">
                 Browse Products
-                <ArrowRightIcon className="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform" />
               </div>
             </div>
           </Link>

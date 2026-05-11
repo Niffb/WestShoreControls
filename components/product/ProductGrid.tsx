@@ -73,7 +73,6 @@ export default function ProductGrid({ products, categoryName }: ProductGridProps
           {product.description || 'No description available'}
         </p>
         <span className="inline-flex items-center gap-1.5 text-sm font-medium text-primary-600">
-          <EyeIcon className="w-4 h-4" />
           View Details
         </span>
       </div>

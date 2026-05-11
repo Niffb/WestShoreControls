@@ -85,9 +85,14 @@ export default function PartnershipsPage() {
                   {partner.badge}
                 </div>
                 <div className="flex items-start space-x-6 mb-6">
-                  <div className="relative w-24 h-16 bg-white rounded-lg p-2 border border-gray-100 flex-shrink-0">
+                  <a 
+                    href={partner.website} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="relative w-24 h-16 bg-white rounded-lg p-2 border border-gray-100 flex-shrink-0 hover:border-primary-300 transition-colors"
+                  >
                     <Image src={partner.logo} alt={`${partner.name} Logo`} fill className="object-contain p-1" sizes="96px" />
-                  </div>
+                  </a>
                   <div>
                     <h3 className="text-xl font-bold text-gray-900">{partner.name}</h3>
                     <p className="text-sm text-gray-500 font-medium">{partner.type} since {partner.since}</p>

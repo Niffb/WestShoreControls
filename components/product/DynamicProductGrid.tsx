@@ -330,7 +330,6 @@ const ProductCard = memo(({
 
         {onClick && (
           <span className="inline-flex items-center gap-1.5 text-sm font-medium text-primary-600 mt-auto">
-            <EyeIcon className="w-4 h-4" />
             View Details
           </span>
         )}

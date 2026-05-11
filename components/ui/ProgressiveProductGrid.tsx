@@ -154,7 +154,7 @@ const ProductGridItem = ({ product, onViewDetails }: { product: Product; onViewD
 
   return (
     <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200 overflow-hidden">
-      <div className="aspect-square bg-gray-100 relative">
+      <div className="aspect-square bg-gray-100 relative cursor-pointer" onClick={() => onViewDetails(product)}>
         {/* Loading skeleton */}
         {!imageLoaded && (
           <div className="absolute inset-0 bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 animate-pulse flex items-center justify-center">
@@ -234,9 +234,6 @@ const ProductGridItem = ({ product, onViewDetails }: { product: Product; onViewD
             className="w-full inline-flex items-center justify-center px-4 py-2 bg-red-600 text-white font-medium rounded-lg hover:bg-red-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
           >
             View Details
-            <svg className="ml-2 h-4 w-4" fill="currentColor" viewBox="0 0 20 20">
-              <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-            </svg>
           </button>
         </div>
       </div>

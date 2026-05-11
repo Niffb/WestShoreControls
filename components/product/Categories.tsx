@@ -69,7 +69,8 @@ export const categories = [
     count: 'Alfa Electric ATV',
     color: 'bg-blue-600',
     slug: 'atv-indoor-filter-fans-ul-certified',
-    brands: ['Alfa-Electric']
+    brands: ['Alfa-Electric'],
+    customHref: '/alfa-electric'
   }
 ]
 
@@ -148,7 +149,7 @@ export default function Categories() {
                 className="perspective-1000"
               >
                 <Link
-                  href={`/${category.brands[0].toLowerCase().replace(/\s+/g, '-')}/${encodeURIComponent(category.slug.toLowerCase().replace(/\s+/g, '-'))}`}
+                  href={(category as any).customHref || `/${category.brands[0].toLowerCase().replace(/\s+/g, '-')}/${encodeURIComponent(category.slug.toLowerCase().replace(/\s+/g, '-'))}`}
                   className="group relative bg-white rounded-xl border border-gray-200 p-6 sm:p-8 hover:shadow-xl transition-all duration-300 cursor-pointer block overflow-hidden touch-manipulation"
                 >
                   {/* Animated background gradient */}

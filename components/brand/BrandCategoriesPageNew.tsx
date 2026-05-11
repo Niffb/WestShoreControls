@@ -410,11 +410,6 @@ export default function BrandCategoriesPageNew({
                       sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                       unoptimized={categoryImage.startsWith('http')}
                     />
-                    <div className="absolute top-3 right-3">
-                      <div className={`${colorClass} p-2 rounded-lg`}>
-                        <IconComponent className="h-5 w-5 text-white" />
-                      </div>
-                    </div>
                   </div>
 
                   <div className="p-5">
@@ -431,7 +426,6 @@ export default function BrandCategoriesPageNew({
                     <div className="flex items-center justify-between pt-3 border-t border-gray-100">
                       <span className="text-sm font-medium text-primary-600 group-hover:text-primary-700 flex items-center">
                         {productCount === 0 ? 'Inquire' : 'View Products'}
-                        <ArrowRightIcon className="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform" />
                       </span>
                     </div>
                   </div>
