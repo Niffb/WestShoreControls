@@ -52,9 +52,23 @@ README.md
 compress-images.sh
 optimize-images.sh
 
+# Scrapers and build scripts (not needed for production runtime)
+scrapers/
+scrapers-v2/
+scripts/
+generate-favicon.js
+cloudbuild.yaml
+
+# Data source files (only if they are processed into public/assets during build)
+# If the app reads these at runtime, keep them.
+# Based on my research, the app uses lib/data, so we'll keep that.
+# But 'Products/' seems to be a raw data folder.
+Products/
+
 # Testing
 __tests__/
 test/
 tests/
 *.test.*
 *.spec.* 
+ 

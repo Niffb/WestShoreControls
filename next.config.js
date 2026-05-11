@@ -22,8 +22,6 @@ const nextConfig = {
   // Optimize for large data sets
   experimental: {
     largePageDataBytes: 128 * 1024, // 128KB
-    workerThreads: false,
-    cpus: 1,
     scrollRestoration: true,
     // Enable Server Components
     serverComponentsExternalPackages: ['sharp', 'onnxruntime-node'],
