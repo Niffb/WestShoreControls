@@ -57,6 +57,10 @@ scrapers/
 scrapers-v2/
 cloudbuild.yaml
 
+# Large static assets that can be ignored if not used directly by build
+public/downloads/catalogs/
+public/downloads/mitsubishi/
+
 # Data source files (only if they are processed into public/assets during build)
 # If the app reads these at runtime, keep them.
 # Based on my research, the app uses lib/data, so we'll keep that.

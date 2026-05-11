@@ -1,0 +1,4 @@
+[[build]]
+  id = "google.nodejs.runtime"
+  [build.config]
+    node_version = "20.x"
