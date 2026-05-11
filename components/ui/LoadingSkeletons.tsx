@@ -37,16 +37,6 @@ export function ProductCardSkeleton() {
           <div className="h-4 bg-gray-200 rounded animate-pulse w-2/3"></div>
         </div>
         
-        {/* Rating skeleton */}
-        <div className="flex items-center mb-4">
-          <div className="flex space-x-1">
-            {[...Array(5)].map((_, i) => (
-              <div key={i} className="w-4 h-4 bg-gray-200 rounded animate-pulse"></div>
-            ))}
-          </div>
-          <div className="ml-2 w-16 h-4 bg-gray-200 rounded animate-pulse"></div>
-        </div>
-        
         {/* Button skeleton */}
         <div className="w-full h-10 bg-gray-200 rounded-lg animate-pulse"></div>
       </div>

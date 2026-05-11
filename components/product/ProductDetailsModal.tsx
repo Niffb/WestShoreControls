@@ -8,7 +8,6 @@ import { Product } from '@/lib/types/shared-types'
 import {
   XMarkIcon,
   CheckCircleIcon,
-  StarIcon,
   HeartIcon,
   ShoppingCartIcon,
   DocumentTextIcon,
@@ -83,17 +82,6 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
     }
     
     return getImageUrl(imagePath)
-  }
-
-  const renderStars = (rating: number) => {
-    return [...Array(5)].map((_, i) => (
-      <StarIcon
-        key={i}
-        className={`h-5 w-5 ${
-          i < Math.floor(rating) ? 'fill-yellow-400 text-yellow-400' : 'text-gray-300'
-        }`}
-      />
-    ))
   }
 
   const renderFeatures = () => {
