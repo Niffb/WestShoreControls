@@ -196,6 +196,30 @@ const catalogs: CatalogBrand[] = [
       },
     ],
   },
+  {
+    brand: 'Alfa Electric',
+    logo: '/assets/images/brands/alfa-electric.png',
+    catalogs: [
+      {
+        title: 'ATV Series Filter Fans',
+        description: 'Complete technical specifications for the ATV filter fan series.',
+        pages: 0,
+        downloadUrl: 'https://alfaelectric.com/en/ventilation/fan-filter-units/atv-filter-fan-units-ce-ul/',
+      },
+      {
+        title: 'Outdoor Application Filter Fans',
+        description: 'Filter fan units designed for outdoor environments.',
+        pages: 0,
+        downloadUrl: 'https://alfaelectric.com/en/ventilation/fan-filter-units/atv-filter-fan-units-for-outdoor-applications/',
+      },
+      {
+        title: 'Full Product Catalog',
+        description: 'Explore the complete range of enclosure climate control products.',
+        pages: 0,
+        downloadUrl: 'https://alfaelectric.com/en/catalogues/',
+      },
+    ],
+  },
 ]
 
 export default function CatalogsPageComponent() {

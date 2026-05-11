@@ -10,6 +10,7 @@ import { ericoScrapedProducts, ericoCategoryImages } from './erico-products-scra
 import { elsteelScrapedProducts, elsteelCategoryImages } from './elsteel-products-scraped'
 import { lsIndustrialProducts } from './ls-industrial-products'
 import { lsIndustrialScraped, getScrapedCategories as getLsScrapedCategories, getScrapedSubcategories as getLsScrapedSubcategories } from './ls-industrial-scraped'
+import { alfaElectricProducts } from './alfa-electric-products'
 
 // Import Noark products
 import { noarkMCBProducts } from './noark-mcb-products'
@@ -534,6 +535,7 @@ export const allProducts: Product[] = [
 export const getAllProductsIncludingMitsubishi = (): Product[] => {
   return [
     ...allProducts,
+    ...alfaElectricProducts,
     ...mitsubishiProducts,
     ...tmeicProducts,
     ...katkoScrapedProducts, // 2459 scraped Katko products
@@ -573,6 +575,8 @@ export const productCategories: string[] = [
   "Modular Enclosures",
   "Special Enclosures",
   "Super Frame",
+  "ATV Indoor Filter Fans UL Certified",
+  "ATV Outdoor Filter Fans UL Certified",
   // Klemsan Categories (assumed from existing products)
   "Terminal Blocks",
   "Screw Terminals",
@@ -616,6 +620,7 @@ export const productCategories: string[] = [
 // Product brands  
 export const productBrands: string[] = [
   'All Brands',
+  "Alfa Electric",
   "Elsteel",
   "ERICO",
   "Katko",
@@ -769,6 +774,8 @@ export const getProductsByBrandEnhanced = (brand: string): Product[] => {
       return nventScrapedProducts
     case 'elsteel':
       return elsteelScrapedProducts
+    case 'alfa electric':
+      return alfaElectricProducts
     default:
       return []
   }
@@ -801,8 +808,8 @@ export const cleanProducts: Product[] = allProducts.filter(product => {
     return false
   }
 
-  // Remove products with very short, non-descriptive descriptions (but allow Klemsan products)
-  if (product.brand !== 'Klemsan' && product.description.length < 20 && !product.specs?.length) {
+  // Remove products with very short, non-descriptive descriptions (but allow Klemsan and Alfa Electric products)
+  if (!['Klemsan', 'Alfa Electric'].includes(product.brand) && product.description.length < 20 && !product.specs?.length) {
     return false
   }
 
@@ -812,6 +819,7 @@ export const cleanProducts: Product[] = allProducts.filter(product => {
 // Enhanced clean products that include Mitsubishi, TMEIC, Katko, Erico, LS Industrial, and Noark products
 export const cleanProductsWithMitsubishi = [
   ...cleanProducts,
+  ...alfaElectricProducts,
   ...mitsubishiProducts,
   ...tmeicProducts,
   ...getAllKatkoProducts(),
@@ -835,6 +843,7 @@ export const searchProductsEnhanced = (query: string): Product[] => {
   const searchProducts = [
     ...mitsubishiProducts,
     ...tmeicProducts,
+    ...alfaElectricProducts,
     ...noarkMCBProducts,
     ...noarkMCPProducts,
     ...mappedPCBProducts,
@@ -866,4 +875,4 @@ export const getProductById = (id: number): Product | undefined => {
 }
 
 // Export category images for brands
-export { noarkCategoryImages, klemsanCategoryImages, elsteelCategoryImages }
+export { noarkCategoryImages, klemsanCategoryImages, elsteelCategoryImages, alfaElectricProducts }

@@ -31,7 +31,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-600 leading-relaxed max-w-2xl">
-              We carry <strong className="text-gray-900">all factory and automation products</strong> from industry-leading brands including TMEIC, Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, and Elsteel. Your complete source for electrical and automation solutions.
+              We carry <strong className="text-gray-900">all factory and automation products</strong> from industry-leading brands including TMEIC, Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, Alfa Electric, and Elsteel. Your complete source for electrical and automation solutions.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 items-stretch sm:items-start w-full sm:w-auto">

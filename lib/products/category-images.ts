@@ -45,3 +45,10 @@ export const katkoCategoryImages: Record<string, string> = {
 export const lsIndustrialCategoryImages: Record<string, string> = {
   'Variable Frequency Drives': 'products/ls-industrial/vfd-starvert.webp',
 }
+
+export const alfaElectricCategoryImages: Record<string, string> = {
+  'ATV Indoor Filter Fans UL Certified': 'https://alfaelectric.com/wp-content/uploads/2022/05/ATV-43-44__1-FRONTE-RETRO.png',
+  'ATV Outdoor Filter Fans UL Certified': 'https://alfaelectric.com/wp-content/uploads/2022/05/ATV-43-44__1-FRONTE-RETRO.png',
+  'Ventilation': 'https://alfaelectric.com/wp-content/uploads/2022/05/ATV-43-44__1-FRONTE-RETRO.png',
+  'Thermal Management': 'https://alfaelectric.com/wp-content/uploads/2022/05/ATV-43-44__1-FRONTE-RETRO.png',
+}

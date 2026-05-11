@@ -23,7 +23,8 @@ import {
   mitsubishiCategoryImages,
   tmeicCategoryImages,
   katkoCategoryImages,
-  lsIndustrialCategoryImages
+  lsIndustrialCategoryImages,
+  alfaElectricCategoryImages
 } from '@/lib/products/category-images'
 
 interface BrandCategoriesPageNewProps {
@@ -88,6 +89,12 @@ const brands = [
     logo: getImageUrl('brands/Elsteel.webp'),
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power', 'Accessories', 'Software & Tools']
+  },
+  {
+    name: 'Alfa Electric',
+    logo: getImageUrl('brands/alfa-electric.png'),
+    description: 'Complete Thermal Management & Ventilation Solutions - Certified Filter Fans, Heaters & Thermostats',
+    categories: ['ATV Indoor Filter Fans UL Certified', 'ATV Outdoor Filter Fans UL Certified']
   }
 ]
 
@@ -267,7 +274,8 @@ const getCategoryImage = (category: string, brand?: string) => {
     'Klemsan': klemsanCategoryImages,
     'Elsteel': elsteelCategoryImages,
     'LS Industrial': lsIndustrialCategoryImages,
-    'Noark': noarkCategoryImages
+    'Noark': noarkCategoryImages,
+    'Alfa Electric': alfaElectricCategoryImages
   }
 
   if (brand && brandImages[brand]?.[category]) {

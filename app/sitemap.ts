@@ -12,7 +12,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'noark',
     'klemsan',
     'erico',
-    'ls-industrial'
+    'ls-industrial',
+    'alfa-electric'
   ]
   
   // Brand-to-categories mapping
@@ -58,6 +59,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
       'circuit-protection',
       'human-machine-interface',
       'power-transmission-distribution'
+    ],
+    'alfa-electric': [
+      'atv-indoor-filter-fans-ul-certified',
+      'atv-outdoor-filter-fans-ul-certified'
     ]
   }
   

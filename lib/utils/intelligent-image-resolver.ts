@@ -137,7 +137,8 @@ const imageConfig: ImageConfig = {
     'TMEIC': 'tmeic',
     'Katko': 'katko',
     'ERICO': 'erico',
-    'Klemsan': 'klemsan'
+    'Klemsan': 'klemsan',
+    'Alfa Electric': 'alfa-electric'
   },
 
   // Category to subfolder mappings

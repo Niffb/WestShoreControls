@@ -22,7 +22,8 @@ export default function Footer() {
     { name: 'Katko', href: '/katko' },
     { name: 'Klemsan', href: '/klemsan' },
     { name: 'Mitsubishi', href: '/mitsubishi' },
-    { name: 'Elsteel', href: '/partnerships' }
+    { name: 'Elsteel', href: '/elsteel' },
+    { name: 'Alfa Electric', href: '/alfa-electric' }
   ]
 
   return (
@@ -33,7 +34,7 @@ export default function Footer() {
             <div className="lg:col-span-1">
               <div className="mb-4">
                 <h3 className="text-lg font-bold mb-2">
-                  <span className="text-primary-500">Westshore</span> Controls
+                  <span className="text-primary-500">Westshore</span> Controls LTD
                 </h3>
                 <p className="text-sm text-gray-400 mb-4">
                   Professional electrical components and control systems.
@@ -92,7 +93,7 @@ export default function Footer() {
         <div className="py-4 border-t border-gray-800">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
             <div className="text-gray-400 text-xs">
-              &copy; {new Date().getFullYear()} Westshore Controls. All rights reserved.
+              &copy; {new Date().getFullYear()} Westshore Controls LTD. All rights reserved.
             </div>
             <div className="flex space-x-4 text-xs">
               <Link href="/contact" className="text-gray-400 hover:text-white transition-colors">

@@ -7,7 +7,7 @@ import ContactCard from '@/components/ui/ContactCard'
 
 export const metadata: Metadata = {
   title: 'Partnerships | Westshore Controls - Authorized Industrial Partners',
-  description: 'Discover our trusted partnerships with leading manufacturers like Mitsubishi Electric, Erico, LS Industrial, Noark, Katko, and Elsteel.',
+  description: 'Discover our trusted partnerships with leading manufacturers like Mitsubishi Electric, Erico, LS Industrial, Noark, Katko, Alfa Electric, and Elsteel.',
   keywords: [
     'industrial partnerships',
     'VAR distributor',
@@ -34,7 +34,8 @@ export default function PartnershipsPage() {
     { name: "Klemsan", logo: getImageUrl("brands/klemsan-logo.webp"), type: "Stocking Distributor", since: "2017", badge: "Technology Partner", description: "Turkish manufacturer specializing in terminal blocks, industrial automation components, and electrical connection solutions.", specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties", "Marking Solutions"], website: "https://www.klemsan.com" },
     { name: "Katko", logo: getImageUrl("Katko.webp"), type: "Stocking Distributor", since: "2016", badge: "Trusted Partner", description: "UL Listed manual motor controllers and industrial control solutions designed for safety and reliability.", specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches", "Industrial Controls"], website: "https://www.katko.fi" },
     { name: "Elsteel", logo: getImageUrl("brands/Elsteel.webp"), type: "Stocking Distributor", since: "2018", badge: "Approved Partner", description: "Specialized electrical steel and industrial metal solutions for electrical infrastructure and industrial applications.", specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication", "Electrical Infrastructure"], website: "https://www.elsteel.com" },
-    { name: "TMEIC", logo: getImageUrl("brands/TMEIC_logo.png"), type: "VAR (Value-Added Reseller)", since: "2019", badge: "Technology Partner", description: "Leading manufacturer of high-power electrical and industrial systems including generators, drives, motors, PV inverters.", specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors"], website: "https://www.tmeic.com" }
+    { name: "TMEIC", logo: getImageUrl("brands/TMEIC_logo.png"), type: "VAR (Value-Added Reseller)", since: "2019", badge: "Technology Partner", description: "Leading manufacturer of high-power electrical and industrial systems including generators, drives, motors, PV inverters.", specialties: ["Medium Voltage Drives", "PV Inverters", "Generators", "Motors"], website: "https://www.tmeic.com" },
+    { name: "Alfa Electric", logo: "/assets/images/brands/alfa-electric.png", type: "Authorized Distributor", since: "2026", badge: "Specialty Partner", description: "Specialized in high-quality certified filter fans and thermal management solutions for electrical enclosures.", specialties: ["Certified Filter Fans", "Thermal Management"], website: "https://alfaelectric.com" }
   ]
 
   const benefits = [

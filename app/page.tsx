@@ -7,7 +7,7 @@ import Partnership from '@/components/page/Partnership'
 // Enhanced metadata for the home page
 export const metadata: Metadata = {
   title: 'Westshore Controls - Complete Factory & Automation Product Lines',
-  description: 'Complete product lines from leading brands: TMEIC (VAR), Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, and Elsteel. All factory and automation products available. Delivering throughout the United States, Canada and Globally.',
+  description: 'Complete product lines from leading brands: TMEIC (VAR), Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, Alfa Electric, and Elsteel. All factory and automation products available. Delivering throughout the United States, Canada and Globally.',
   keywords: [
     'complete electrical equipment lines',
     'full industrial automation catalogs',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Westshore Controls - Complete Factory & Automation Product Lines',
-    description: 'Complete product catalogs from TMEIC, Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, and Elsteel. Your source for all factory and automation products.',
+    description: 'Complete product catalogs from TMEIC, Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, Alfa Electric, and Elsteel. Your source for all factory and automation products.',
     type: 'website',
     url: 'https://westshorecontrols.com/',
     siteName: 'Westshore Controls',
@@ -50,7 +50,7 @@ export default function Home() {
     "@type": "WebSite",
     "name": "Westshore Controls",
     "url": "https://westshorecontrols.com",
-    "description": "Complete product lines from leading factory and automation brands. VAR (Value-Added Reseller) for TMEIC products and authorized distributor carrying all products from Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, and Elsteel.",
+    "description": "Complete product lines from leading factory and automation brands. VAR (Value-Added Reseller) for TMEIC products and authorized distributor carrying all products from Mitsubishi, LS Industrial, Noark, ERICO, Katko, Klemsan, Alfa Electric, and Elsteel.",
     "publisher": {
       "@type": "Organization",
       "name": "Westshore Controls Ltd.",

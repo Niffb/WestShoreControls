@@ -61,6 +61,11 @@ const categoryConfig = {
     description: 'Industrial push buttons, switches, and operator interface devices',
     longDescription: 'Industrial push buttons, selector switches, emergency stops, and operator interface devices designed for reliable operation in demanding industrial environments.',
   },
+  'filter-fans': {
+    name: 'Filter Fans / Climate Control',
+    description: 'Enclosure climate control and thermal management solutions for industrial equipment',
+    longDescription: 'Complete range of Alfa Electric filter fans and enclosure climate control solutions. Designed for effective thermal management of electrical enclosures, featuring quick installation and tool-free filter replacement.',
+  },
 }
 
 interface CategoryPageProps {

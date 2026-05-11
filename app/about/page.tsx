@@ -55,7 +55,7 @@ export default function AboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Who We Are</h2>
                 <div className="space-y-6 text-gray-600 leading-relaxed">
                   <p>
-                    <strong className="text-gray-900">Westshore Controls Ltd.</strong> is an American and Canadian VAR (Value-Added Reseller) for TMEIC products and authorized distributor of Electrical and Automation equipment & systems. We carry <strong className="text-gray-900">all factory and automation products</strong> from our partner brands including TMEIC, Erico, Elsteel, Katko, LS Industrial, Mitsubishi, Klemsan, and Noark, delivering throughout the United States, Canada and Globally.
+                    <strong className="text-gray-900">Westshore Controls Ltd.</strong> is an American and Canadian VAR (Value-Added Reseller) for TMEIC products and authorized distributor of Electrical and Automation equipment & systems. We carry <strong className="text-gray-900">all factory and automation products</strong> from our partner brands including TMEIC, Erico, Elsteel, Katko, LS Industrial, Mitsubishi, Klemsan, Alfa Electric, and Noark, delivering throughout the United States, Canada and Globally.
                   </p>
                   <p>
                     Our comprehensive product portfolio includes complete automation solutions, electrical components, motor control systems, circuit protection devices, and industrial controls. We work daily to guarantee the most up to date and technical information on our products.
@@ -130,7 +130,8 @@ export default function AboutPage() {
               { name: "Erico", type: "Stocking Distributor", since: "2015", badge: "Premium Partner", description: "Global leader in electrical joining and protection products.", specialties: ["Grounding Systems", "Flexible Conductors", "Distribution Blocks", "Busbars"] },
               { name: "Katko", type: "Stocking Distributor", since: "2016", badge: "Trusted Partner", description: "UL Listed manual motor controllers and industrial control solutions.", specialties: ["Manual Motor Controllers", "UL Listed Products", "Safety Switches"] },
               { name: "Klemsan", type: "Stocking Distributor", since: "2017", badge: "Technology Partner", description: "Terminal blocks, industrial automation components.", specialties: ["Terminal Blocks", "Industrial Connectors", "Cable Ties"] },
-              { name: "Elsteel", type: "Stocking Distributor", since: "2018", badge: "Approved Partner", description: "Specialized electrical steel and industrial metal solutions.", specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication"] }
+              { name: "Elsteel", type: "Stocking Distributor", since: "2018", badge: "Approved Partner", description: "Specialized electrical steel and industrial metal solutions.", specialties: ["Electrical Steel", "Industrial Metals", "Custom Fabrication"] },
+              { name: "Alfa Electric", type: "Authorized Distributor", since: "2026", badge: "New Partner", description: "Enclosure climate control and thermal management solutions.", specialties: ["Filter Fans", "Heaters", "Thermostats", "Ventilation"] }
             ].map((partner) => (
               <div key={partner.name} className="bg-white rounded-xl p-6 border border-gray-200 hover:shadow-md transition-shadow">
                 <div className="flex justify-between items-start mb-4">

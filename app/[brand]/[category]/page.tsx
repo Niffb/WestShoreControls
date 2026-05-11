@@ -17,6 +17,7 @@ const validBrands = [
   'katko',
   'klemsan',
   'elsteel',
+  'alfa-electric',
   'westshore-controls'
 ]
 
@@ -30,6 +31,7 @@ const brandDisplayNames: { [key: string]: string } = {
   'katko': 'Katko',
   'klemsan': 'Klemsan',
   'elsteel': 'Elsteel',
+  'alfa-electric': 'Alfa Electric',
   'westshore-controls': 'Westshore Controls'
 }
 
@@ -157,6 +159,12 @@ export default async function BrandCategoryPage({ params }: Props) {
     'softstarters': 'Softstarters',
     'i-o-modules': 'I/O Modules',
     'molded-case-switches': 'Molded Case Switches',
+    'atv-indoor-filter-fans-ul-certified': 'ATV Indoor Filter Fans UL Certified',
+    'atv-outdoor-filter-fans-ul-certified': 'ATV Outdoor Filter Fans UL Certified',
+    'ventilation': 'Ventilation',
+    'thermal-management': 'Thermal Management',
+    'heaters': 'Heaters',
+    'thermostats': 'Thermostats',
   }
 
   // Get proper category name from mapping, fallback to title case conversion
@@ -225,6 +233,7 @@ export async function generateStaticParams() {
     'klemsan': ['screw-terminals', 'quick-release', 'spring-terminals', 'plug-terminals', 'other-terminals', 'end-stops', 'power-sources', 'intermediate-relays', 'automation', 'climate', 'cam-switches', 'control-buttons', 'junction-boxes', 'thermal-printers', 'cable-channels', 'tools-and-accessories'],
     'tmeic': ['variable-frequency-drives', 'dc-drives', 'pv-inverters', 'energy-storage', 'motors', 'generators', 'software'],
     'elsteel': ['modular-enclosures', 'plug-and-power', 'enclosures', 'special-enclosures', 'super-frame'],
+    'alfa-electric': ['atv-indoor-filter-fans-ul-certified', 'atv-outdoor-filter-fans-ul-certified'],
     'westshore-controls': []
   }
 

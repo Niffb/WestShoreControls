@@ -18,6 +18,7 @@ const validBrands = [
   'katko',
   'klemsan',
   'elsteel',
+  'alfa-electric',
   'westshore-controls'
 ]
 
@@ -31,6 +32,7 @@ const brandDisplayNames: { [key: string]: string } = {
   'katko': 'Katko',
   'klemsan': 'Klemsan',
   'elsteel': 'Elsteel',
+  'alfa-electric': 'Alfa Electric',
   'westshore-controls': 'Westshore Controls'
 }
 
@@ -44,6 +46,7 @@ const brandDescriptions: { [key: string]: string } = {
   'katko': 'Complete Katko UL Listed manual motor controllers and industrial control solutions catalog. Full range of safety switches, motor protection, and reliable industrial controls.',
   'klemsan': 'Complete Klemsan terminal blocks, industrial connectors, and electrical connection solutions catalog. Full product line from Turkish manufacturer of high-quality automation components.',
   'elsteel': 'Complete Elsteel electrical steel and industrial metal solutions catalog for electrical infrastructure. Full range including custom fabrication and metal processing services.',
+  'alfa-electric': 'Complete Alfa Electric thermal management and ventilation solutions catalog - certified filter fans, heaters, and thermostats for electrical enclosures. Full range of enclosure climate control products.',
   'westshore-controls': 'Westshore Controls complete product catalog - all electrical and automation equipment from leading manufacturers. Your trusted source for complete factory and automation product lines.'
 }
 
@@ -57,6 +60,7 @@ const brandKeywords: { [key: string]: string[] } = {
   'katko': ['Katko', 'complete range', 'full catalog', 'manual motor controllers', 'UL listed', 'safety switches', 'motor protection', 'industrial controls'],
   'klemsan': ['Klemsan', 'complete product line', 'full catalog', 'terminal blocks', 'industrial connectors', 'cable ties', 'marking solutions', 'automation components'],
   'elsteel': ['Elsteel', 'complete range', 'full product line', 'electrical steel', 'industrial metals', 'custom fabrication', 'electrical infrastructure', 'metal processing'],
+  'alfa-electric': ['Alfa Electric', 'complete product line', 'full catalog', 'filter fans', 'heaters', 'thermostats', 'thermal management', 'ventilation', 'enclosure cooling', 'ATV indoor filter fans', 'ATV outdoor filter fans'],
   'westshore-controls': ['Westshore Controls', 'complete catalogs', 'all products', 'electrical equipment', 'automation equipment', 'industrial distributor', 'VAR', 'electrical solutions', 'factory automation']
 }
 

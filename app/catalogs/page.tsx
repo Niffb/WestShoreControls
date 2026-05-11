@@ -3,7 +3,7 @@ import CatalogsPageComponent from '@/components/page/CatalogsPage'
 
 export const metadata: Metadata = {
   title: 'Product Catalogs & Downloads | Westshore Controls - Industrial Equipment',
-  description: 'Download comprehensive product catalogs from leading manufacturers including Mitsubishi Electric, ERICO, LS Industrial, Noark, Klemsan, Katko, TMEIC, and Elsteel. Technical specifications, product guides, and installation manuals.',
+  description: 'Download comprehensive product catalogs from leading manufacturers including Mitsubishi Electric, ERICO, LS Industrial, Noark, Klemsan, Katko, TMEIC, Alfa Electric, and Elsteel. Technical specifications, product guides, and installation manuals.',
   keywords: [
     'product catalogs',
     'industrial equipment catalogs',

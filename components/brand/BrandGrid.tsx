@@ -53,6 +53,12 @@ const brands = [
     description: 'Full Range of Electrical Steel & Distribution Equipment',
     categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power'],
   },
+  {
+    name: 'Alfa Electric',
+    logo: '/assets/images/brands/alfa-electric.png',
+    description: 'Complete Thermal Management & Ventilation Solutions',
+    categories: ['Certified Filter Fans', 'Ventilation', 'Thermal Management', 'Heaters', 'Thermostats'],
+  },
 ]
 
 export default function BrandGrid() {

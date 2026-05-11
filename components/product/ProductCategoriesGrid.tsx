@@ -14,7 +14,8 @@ import {
   RectangleStackIcon,
   BuildingOffice2Icon,
   LightBulbIcon,
-  CursorArrowRaysIcon
+  CursorArrowRaysIcon,
+  BeakerIcon
 } from '@heroicons/react/24/outline'
 import { BrandGrid } from '@/components/brand'
 
@@ -22,9 +23,9 @@ interface ProductCategory {
   id: string
   name: string
   description: string
-  icon: React.ComponentType<React.SVGProps<SVGSVGElement>>
   image: string
   slug: string
+  customHref?: string
 }
 
 const productCategories: ProductCategory[] = [
@@ -32,7 +33,6 @@ const productCategories: ProductCategory[] = [
     id: 'drives-vfds',
     name: 'Drives / VFDs',
     description: 'Variable frequency drives for precise motor speed control and energy efficiency',
-    icon: CpuChipIcon,
     image: 'https://us.mitsubishielectric.com/fa/en/-/media/images/webredesign/products/drv/inv/img/thumbnail-a800.ashx?h=372&w=660&la=en',
     slug: 'drives-vfds'
   },
@@ -40,7 +40,6 @@ const productCategories: ProductCategory[] = [
     id: 'servo-motors',
     name: 'Servo Motors',
     description: 'High-precision servo motors for accurate positioning and motion control',
-    icon: CogIcon,
     image: 'https://www.mitsubishielectric.com/fa/products/drv/servo/items/assets/img/mr_j5_top.png',
     slug: 'servo-motors'
   },
@@ -48,7 +47,6 @@ const productCategories: ProductCategory[] = [
     id: 'circuit-breakers',
     name: 'Circuit Breakers / Protection',
     description: 'Circuit protection devices including MCBs, MCCBs, and motor protection',
-    icon: BoltIcon,
     image: '/assets/images/products/noark/Molded_Case_Circuit_Breakers_MCCB-category-300x300_ce635280.webp',
     slug: 'circuit-breakers-protection'
   },
@@ -56,7 +54,6 @@ const productCategories: ProductCategory[] = [
     id: 'contactors',
     name: 'Contactors',
     description: 'Electromagnetic switches for motor control and power switching applications',
-    icon: WrenchScrewdriverIcon,
     image: '/assets/images/products/contactors/standard-NR-IEC-contactors-Ex9C_standard-NR-IEC-co_standard-NR-IEC-contactors-Ex9C-300x300_8410f80d.webp',
     slug: 'contactors'
   },
@@ -64,7 +61,6 @@ const productCategories: ProductCategory[] = [
     id: 'overload-relays',
     name: 'Overload Relays',
     description: 'Motor protection relays to prevent damage from overcurrent conditions',
-    icon: ShieldCheckIcon,
     image: '/assets/images/products/circuit_breakers/meta-mec_and_metasol_overload_meta-mec_and_metasol_meta-mec-overload-300x300_ae08a150.webp',
     slug: 'overload-relays'
   },
@@ -72,7 +68,6 @@ const productCategories: ProductCategory[] = [
     id: 'plcs',
     name: 'PLCs',
     description: 'Programmable logic controllers for industrial automation and control',
-    icon: ComputerDesktopIcon,
     image: '/assets/images/products/vfd/simple_plc_functionnality_plc_5cf0a389.webp',
     slug: 'plcs'
   },
@@ -80,7 +75,6 @@ const productCategories: ProductCategory[] = [
     id: 'manual-motor-starters',
     name: 'Manual Motor Starters',
     description: 'Manual motor starting switches with integrated overload protection',
-    icon: HandRaisedIcon,
     image: '/assets/images/products/circuit_breakers/susol_circuit_breakers_and_manual_motor_starters_s_susol-circuit-breakers_9e6518a3.webp',
     slug: 'manual-motor-starters'
   },
@@ -88,7 +82,6 @@ const productCategories: ProductCategory[] = [
     id: 'power-distribution',
     name: 'Power Distribution',
     description: 'Power distribution equipment including panels, busbars, and switchgear',
-    icon: RectangleStackIcon,
     image: '/assets/images/products/busbars/eriflex_flexibar_busbar_eriflex-flexibar-busbar_eriflex-flexibar-busbar_a7557744.webp',
     slug: 'power-distribution'
   },
@@ -96,7 +89,6 @@ const productCategories: ProductCategory[] = [
     id: 'custom-control-panels',
     name: 'Custom Control Panels',
     description: 'Custom-engineered control panels designed for your specific applications',
-    icon: BuildingOffice2Icon,
     image: '/assets/images/products/general/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI_35b20c5b.webp',
     slug: 'custom-control-panels'
   },
@@ -104,7 +96,6 @@ const productCategories: ProductCategory[] = [
     id: 'led-indicators',
     name: 'LED Indicators',
     description: 'LED pilot lights and indicators for status indication and signaling',
-    icon: LightBulbIcon,
     image: '/assets/images/products/noark/22_mm_Pilot_Devices_indicator-lights-category-300x300_3bdf9523.webp',
     slug: 'led-indicators'
   },
@@ -112,9 +103,16 @@ const productCategories: ProductCategory[] = [
     id: 'push-buttons',
     name: 'Push Buttons',
     description: 'Industrial push buttons, switches, and operator interface devices',
-    icon: CursorArrowRaysIcon,
     image: '/assets/images/products/noark/22_mm_Pushbuttons_Ex9PB_pushbuttons-category-300x300_12540e52.webp',
     slug: 'push-buttons'
+  },
+  {
+    id: 'filter-fans',
+    name: 'Filter Fans / Climate Control',
+    description: 'Enclosure climate control and thermal management solutions for industrial equipment',
+    image: 'https://alfaelectric.com/wp-content/uploads/2022/05/ATV-43-44__1-FRONTE-RETRO.png',
+    slug: 'filter-fans',
+    customHref: '/alfa-electric'
   }
 ]
 
@@ -156,12 +154,10 @@ export default function ProductCategoriesGrid() {
       {filter === 'categories' ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {productCategories.map((category) => {
-            const IconComponent = category.icon
-
             return (
               <Link
                 key={category.id}
-                href={`/products/${category.slug}`}
+                href={category.customHref || `/products/${category.slug}`}
                 className="group bg-white rounded-lg border border-gray-200 hover:shadow-md transition-shadow duration-200 overflow-hidden"
               >
                 <div className="relative h-48 bg-gray-100 overflow-hidden">
@@ -175,17 +171,14 @@ export default function ProductCategoriesGrid() {
                       unoptimized={category.image.startsWith('http')}
                     />
                   ) : (
-                    <div className="w-full h-full flex items-center justify-center bg-gray-50">
-                      <IconComponent className="w-16 h-16 text-gray-300" />
+                    <div className="w-full h-full flex items-center justify-center bg-gray-50 text-gray-400">
+                      <span className="text-xs uppercase tracking-widest font-medium">Image coming soon</span>
                     </div>
                   )}
                 </div>
 
                 <div className="p-6">
                   <div className="flex items-start gap-3 mb-3">
-                    <div className="flex-shrink-0 p-2 bg-gray-50 rounded-md">
-                      <IconComponent className="w-5 h-5 text-gray-600" />
-                    </div>
                     <h3 className="text-lg font-semibold text-gray-900">
                       {category.name}
                     </h3>

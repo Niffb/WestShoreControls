@@ -12,7 +12,8 @@ export default function PartnershipsHero() {
     { name: 'Noark', logo: getImageUrl('brands/Noark.webp'), alt: 'Noark Logo' },
     { name: 'Katko', logo: getImageUrl('brands/Katko.webp'), alt: 'Katko Logo' },
     { name: 'Elsteel', logo: getImageUrl('brands/Elsteel.webp'), alt: 'Elsteel Logo' },
-    { name: 'Klemsan', logo: getImageUrl('brands/klemsan-logo.webp'), alt: 'Klemsan Logo' }
+    { name: 'Klemsan', logo: getImageUrl('brands/klemsan-logo.webp'), alt: 'Klemsan Logo' },
+    { name: 'Alfa Electric', logo: '/assets/images/brands/alfa-electric.png', alt: 'Alfa Electric Logo' }
   ]
 
   return (

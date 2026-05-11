@@ -6,7 +6,8 @@ import {
   PowerIcon, 
   WrenchScrewdriverIcon,
   LightBulbIcon,
-  CogIcon 
+  CogIcon,
+  BeakerIcon
 } from '@heroicons/react/24/outline'
 import Link from 'next/link'
 import { motion, useInView } from 'framer-motion'
@@ -16,7 +17,6 @@ export const categories = [
   {
     name: 'Variable Frequency Drives',
     description: 'LS Industrial motor speed control drives',
-    icon: CpuChipIcon,
     count: 'LS Industrial',
     color: 'bg-primary-500',
     slug: 'Variable Frequency Drives',
@@ -25,7 +25,6 @@ export const categories = [
   {
     name: 'Contactors and Relays',
     description: 'Noark and LS Industrial switching devices',
-    icon: BoltIcon,
     count: 'Noark & LS Industrial',
     color: 'bg-accent-blue',
     slug: 'Contactors and Relays',
@@ -35,7 +34,6 @@ export const categories = [
   {
     name: 'Enclosed Isolators',
     description: 'Katko enclosed isolators and switchgear solutions',
-    icon: CogIcon,
     count: 'Katko Products',
     color: 'bg-accent-purple',
     slug: 'Enclosed Isolators',
@@ -44,7 +42,6 @@ export const categories = [
   {
     name: 'Flexible Conductors',
     description: 'ERICO® FLEXIBAR® and copper braids',
-    icon: WrenchScrewdriverIcon,
     count: 'ERICO Products',
     color: 'bg-accent-orange',
     slug: 'Flexible Conductors',
@@ -53,7 +50,6 @@ export const categories = [
   {
     name: 'DIN Rail Miniature Circuit Breakers',
     description: 'Noark UL 489 & UL 1077 circuit breakers',
-    icon: PowerIcon,
     count: 'Noark Products',
     color: 'bg-primary-600',
     slug: 'DIN Rail Miniature Circuit Breakers',
@@ -62,11 +58,18 @@ export const categories = [
   {
     name: '22 mm Pilot Devices',
     description: 'Noark pushbuttons and indicator lights',
-    icon: LightBulbIcon,
     count: 'Noark Ex9PB & Ex9IL',
     color: 'bg-gray-600',
     slug: '22 mm Pilot Devices',
     brands: ['Noark']
+  },
+  {
+    name: 'Filter Fans',
+    description: 'Alfa Electric enclosure cooling and thermal management',
+    count: 'Alfa Electric ATV',
+    color: 'bg-blue-600',
+    slug: 'atv-indoor-filter-fans-ul-certified',
+    brands: ['Alfa-Electric']
   }
 ]
 
@@ -127,7 +130,6 @@ export default function Categories() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
           {categories.map((category, index) => {
-            const IconComponent = category.icon
             return (
               <motion.div
                 key={category.name}
@@ -159,13 +161,6 @@ export default function Categories() {
                   />
 
                   <div className="flex items-center mb-4 sm:mb-6 relative z-10">
-                    <motion.div 
-                      className={`${category.color} p-2.5 sm:p-3 rounded-lg mr-3 sm:mr-4 flex-shrink-0`}
-                      whileHover={{ scale: 1.1, rotate: 5 }}
-                      transition={{ duration: 0.3 }}
-                    >
-                      <IconComponent className="h-6 w-6 sm:h-8 sm:w-8 text-white" />
-                    </motion.div>
                     <div className="min-w-0">
                       <h3 className="text-lg sm:text-xl font-semibold text-gray-900 group-hover:text-primary-500 transition-colors leading-tight">
                         {category.name}

@@ -13,7 +13,7 @@ import { mitsubishiCircuit_breakersScrapedProducts } from './scraped/mitsubishi-
 import { mitsubishiServo_motorsScrapedProducts } from './scraped/mitsubishi-servo_motors-scraped-products'
 import { mitsubishiPower_distributionScrapedProducts } from './scraped/mitsubishi-power_distribution-scraped-products'
 import { mitsubishiOther_productsScrapedProducts } from './scraped/mitsubishi-other_products-scraped-products'
-import { cleanProductsWithMitsubishi } from './products'
+import { cleanProductsWithMitsubishi, alfaElectricProducts } from './products'
 
 // Combined Mitsubishi products - detailed products where available, series for others
 const detailedCategories = new Set([
@@ -67,17 +67,19 @@ export async function getFilteredProducts({
               ? elsteelScrapedProducts
               : brand?.toLowerCase() === 'mitsubishi'
                 ? allMitsubishiProducts
-                : cleanProductsWithMitsubishi
+                : brand?.toLowerCase() === 'alfa-electric' || brand?.toLowerCase() === 'alfa electric'
+                  ? alfaElectricProducts
+                  : cleanProductsWithMitsubishi
 
   // For brands not explicitly handled above, filter by brand name
-  const handledBrands = ['tmeic', 'katko', 'ls industrial', 'ls-industrial', 'noark', 'klemsan', 'elsteel', 'mitsubishi']
+  const handledBrands = ['tmeic', 'katko', 'ls industrial', 'ls-industrial', 'noark', 'klemsan', 'elsteel', 'mitsubishi', 'alfa-electric', 'alfa electric']
   if (brand && !handledBrands.includes(brand.toLowerCase())) {
-    products = products.filter(product =>
+    products = (products || []).filter(product =>
       product.brand?.toLowerCase() === brand.toLowerCase()
     )
   }
 
-  if (category) {
+  if (category && products) {
     const normalizedCategory = category.toLowerCase()
 
     if (handledBrands.includes(brand?.toLowerCase() || '')) {
@@ -111,14 +113,14 @@ export async function getFilteredProducts({
     }
   }
 
-  if (subcategory) {
+  if (subcategory && products) {
     products = products.filter(product =>
       (product as any).subcategory?.toLowerCase().includes(subcategory.toLowerCase())
     )
   }
 
   // Filter out products that only have the default West Shore logo as their image
-  products = products.filter(product => {
+  products = (products || []).filter(product => {
     const hasDefaultLogo = product.images?.length === 1 &&
       (product.images[0] === '/images/westlogo.jpg' ||
         product.images[0]?.includes('westlogo'))

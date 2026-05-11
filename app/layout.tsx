@@ -11,8 +11,8 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Westshore Controls - Industrial Automation & Electrical Products',
-  description: 'Leading supplier of industrial automation and electrical products. Featuring Mitsubishi Electric, Noark, LS Industrial, and more. Quality components for industrial applications.',
-  keywords: 'industrial automation, electrical products, Mitsubishi Electric, Noark, LS Industrial, variable frequency drives, circuit breakers, contactors, PLCs',
+  description: 'Leading supplier of industrial automation and electrical products. Featuring Mitsubishi Electric, Noark, LS Industrial, Alfa Electric, and more. Quality components for industrial applications.',
+  keywords: 'industrial automation, electrical products, Mitsubishi Electric, Noark, LS Industrial, Alfa Electric, variable frequency drives, circuit breakers, contactors, PLCs',
   authors: [{ name: 'Westshore Controls' }],
   openGraph: {
     title: 'Westshore Controls - Industrial Automation & Electrical Products',

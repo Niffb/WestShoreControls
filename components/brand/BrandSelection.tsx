@@ -63,6 +63,13 @@ const brands = [
     website: 'https://www.elsteel.com',
     categories: ['Modular Enclosures', 'Enclosures', 'Special Enclosures', 'Super Frame', 'Plug and Power'],
   },
+  {
+    name: 'Alfa Electric',
+    logo: '/assets/images/brands/alfa-electric.png',
+    description: 'Complete Thermal Management & Ventilation Solutions',
+    website: 'https://alfaelectric.com',
+    categories: ['Certified Filter Fans', 'Ventilation', 'Thermal Management', 'Heaters', 'Thermostats'],
+  },
 ]
 
 // Animated background particles
