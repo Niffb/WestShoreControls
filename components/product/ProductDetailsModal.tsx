@@ -233,18 +233,6 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
                         </div>
                       )}
 
-                      {/* Rating */}
-                      {product.rating && (
-                        <div className="flex items-center gap-4">
-                          <div className="flex items-center gap-1">
-                            {renderStars(product.rating)}
-                            <span className="text-sm text-gray-600 ml-2">
-                              ({product.reviews || 0} reviews)
-                            </span>
-                          </div>
-                        </div>
-                      )}
-
                       {/* Category */}
                       {product.category && (
                         <div className="inline-flex items-center gap-2 bg-gray-100 px-3 py-1 rounded-full">
