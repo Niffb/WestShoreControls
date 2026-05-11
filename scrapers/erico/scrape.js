@@ -663,7 +663,7 @@ async function scrapeAllProducts() {
     const categories = [...new Set(uniqueProducts.map(p => p.category))];
 
     // Save to JSON
-    const outputPath = path.join(process.cwd(), 'scraped-products.json');
+    const outputPath = path.join(process.cwd(), '../../lib/data/erico/scraped-products.json');
     await fs.writeFile(outputPath, JSON.stringify(uniqueProducts, null, 2));
 
     console.log('\n=== Scraping Complete ===');

@@ -1727,7 +1727,7 @@ async function generateProducts() {
     }
     
     // Save to JSON file
-    const outputPath = path.join(__dirname, 'scraped-products.json');
+    const outputPath = path.join(__dirname, '../../lib/data/erico/scraped-products.json');
     await fs.writeFile(outputPath, JSON.stringify(allProducts, null, 2));
     
     // Group by category for summary

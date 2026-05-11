@@ -1,5 +1,5 @@
 import { Product } from '@/lib/types/shared-types'
-import scrapedData from '../../scrapers/erico/scraped-products.json'
+import scrapedData from '../data/erico/scraped-products.json'
 
 /**
  * ERICO/ERIFLEX Products - Loaded from scraper JSON
