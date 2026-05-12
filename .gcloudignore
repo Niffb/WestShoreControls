@@ -1,0 +1,30 @@
+# Exclude from Cloud Build source upload — speeds up all triggers.
+# The Dockerfile handles what actually goes into the image.
+
+.git
+.gitignore
+
+# Local build output (rebuilt inside Docker)
+.next/
+node_modules/
+
+# Scrapers — not needed at runtime or build time
+scrapers/
+scrapers-v2/
+
+# Docs / dev tooling
+docs/
+*.md
+lighthouse-report.html
+optimize-images.sh
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor noise
+.DS_Store
+*.log
+.vscode/
+.idea/

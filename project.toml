@@ -4,3 +4,23 @@
 [[build.env]]
   name = "GOOGLE_NODEJS_VERSION"
   value = "22.x"
+
+# Give Next.js enough heap to avoid OOM during build
+[[build.env]]
+  name = "NODE_OPTIONS"
+  value = "--max-old-space-size=8192"
+
+# Disable Next.js telemetry in CI
+[[build.env]]
+  name = "NEXT_TELEMETRY_DISABLED"
+  value = "1"
+
+# Run the Next.js build step
+[[build.env]]
+  name = "GOOGLE_BUILD_COMMAND"
+  value = "npm run build"
+
+# Start the production server
+[[build.env]]
+  name = "GOOGLE_ENTRYPOINT"
+  value = "npm start"
