@@ -19,6 +19,7 @@ import {
   DocumentIcon
 } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
+import RequestQuoteModal from './RequestQuoteModal'
 
 interface ProductDetailsModalProps {
   product: Product | null
@@ -29,6 +30,7 @@ interface ProductDetailsModalProps {
 export default function ProductDetailsModal({ product, isOpen, onClose }: ProductDetailsModalProps) {
   const [imageError, setImageError] = useState(false)
   const [mounted, setMounted] = useState(false)
+  const [quoteOpen, setQuoteOpen] = useState(false)
 
   // Ensure component is mounted (client-side)
   useEffect(() => {
@@ -238,13 +240,13 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
                             <DocumentArrowDownIcon className="h-5 w-5" />
                             Catalog
                           </button>
-                          <a
-                            href={`mailto:mmarelic@westshorecontrols.com,mjesty@westshorecontrols.com?subject=Quote Request: ${encodeURIComponent(product.name || 'Product')}&body=${encodeURIComponent(`Hello,\n\nI would like to request a quote for the following product:\n\nProduct: ${product.name || ''}\nModel: ${product.model || ''}\nBrand: ${product.brand || ''}\n\nPlease provide pricing and availability.\n\nThank you`)}`}
+                          <button
+                            onClick={() => setQuoteOpen(true)}
                             className="px-6 py-3 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-colors font-medium flex items-center gap-2"
                           >
                             <ShoppingCartIcon className="h-5 w-5" />
                             Request Quote
-                          </a>
+                          </button>
                         </div>
                       </div>
                     </div>
@@ -322,5 +324,16 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
     </AnimatePresence>
   )
 
-  return createPortal(modalContent, document.body)
+  return (
+    <>
+      <RequestQuoteModal
+        isOpen={quoteOpen}
+        onClose={() => setQuoteOpen(false)}
+        productName={product?.name}
+        productModel={product?.model}
+        productBrand={product?.brand}
+      />
+      {createPortal(modalContent, document.body)}
+    </>
+  )
 }
