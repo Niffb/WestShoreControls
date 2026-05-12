@@ -3,6 +3,7 @@ import { getImageUrl } from '@/lib/config/image-config'
 import mitsuADrives from '@/lib/data/mitsu-a-drives.json'
 import frDrives from '@/lib/data/fra860.json'
 import frFDrives from '@/lib/data/fr-f.json'
+import mitsuDDrives from '@/lib/data/mitsu-d-drives.json'
 
 // Define types for the JSON data
 interface DriveData {
@@ -1466,7 +1467,41 @@ export const mitsubishiProducts: Product[] = [
   })),
 
   // Add FR-F drives from frFDrives JSON
-  ...frfDriveProducts
+  ...frfDriveProducts,
+
+  // Add FR-D700 Series drives
+  ...(mitsuDDrives as DriveData[]).map((drive, index) => ({
+    id: 54000 + index,
+    name: `Mitsubishi ${drive.sku} Inverter`,
+    model: drive.sku,
+    brand: "Mitsubishi",
+    category: "Variable Frequency Drives",
+    subcategory: "FR-D700 Series Inverters",
+    description: drive.description,
+    price: undefined,
+    rating: 4.6,
+    reviews: 42,
+    images: ["assets/images/products/mitsubishi/drives/Mitsubishi_D700_Series_300x300_72a55542-e148-4d3c-aa1b-ef4bcddb54fd_medium.avif"],
+    inStock: drive.availability === "IN STOCK",
+    badge: drive.availability === "IN STOCK" ? "In Stock" : undefined,
+    specs: [
+      "FREQROL FR-D700 Series",
+      drive.description.match(/\d+HP/) ? drive.description.match(/\d+HP/)![0] :
+        drive.description.match(/\d+kW/) ? drive.description.match(/\d+kW/)![0] : "Multiple power ratings",
+      drive.description.includes("200Vac") || drive.description.includes("200V") ? "200-240VAC Input" :
+        drive.description.includes("380Vac") || drive.description.includes("380V") ? "380-480VAC Input" :
+        drive.description.includes("100Vac") ? "100-120VAC Input" : "Input voltage varies by model",
+      "Frequency output 0.2-400Hz"
+    ],
+    url: `https://shop1.us.mitsubishielectric.com/products/${drive.sku}`,
+    features: [
+      "Compact footprint for space-constrained installations",
+      "Simple parameter setup",
+      "Built-in Modbus RTU communication",
+      "Advanced motor protection functions",
+      "Energy-saving operation"
+    ]
+  }))
 ]
 
 // Helper functions for product management

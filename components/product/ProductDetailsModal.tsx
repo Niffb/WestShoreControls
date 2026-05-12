@@ -113,8 +113,8 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
     const brandCatalogs: { [key: string]: string } = {
       'ls industrial': 'https://www.lselectricamerica.com/manual/',
       'ls-industrial': 'https://www.lselectricamerica.com/manual/',
-      'mitsubishi': 'https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1',
-      'mitsubishi electric': 'https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1',
+      'mitsubishi': 'https://dl.mitsubishielectric.com/dl/fa/document/catalog/inv/l06036/l06036j.pdf',
+      'mitsubishi electric': 'https://dl.mitsubishielectric.com/dl/fa/document/catalog/inv/l06036/l06036j.pdf',
       'noark': 'https://na.noark-electric.com/master-catalogs/',
       'klemsan': 'https://www.klemsan.com.tr/documents-and-videos',
       'katko': 'https://katko.com/pages/downloads',
@@ -238,10 +238,13 @@ export default function ProductDetailsModal({ product, isOpen, onClose }: Produc
                             <DocumentArrowDownIcon className="h-5 w-5" />
                             Catalog
                           </button>
-                          <button className="px-6 py-3 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-colors font-medium flex items-center gap-2">
+                          <a
+                            href={`mailto:mmarelic@westshorecontrols.com,mjesty@westshorecontrols.com?subject=Quote Request: ${encodeURIComponent(product.name || 'Product')}&body=${encodeURIComponent(`Hello,\n\nI would like to request a quote for the following product:\n\nProduct: ${product.name || ''}\nModel: ${product.model || ''}\nBrand: ${product.brand || ''}\n\nPlease provide pricing and availability.\n\nThank you`)}`}
+                            className="px-6 py-3 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-colors font-medium flex items-center gap-2"
+                          >
                             <ShoppingCartIcon className="h-5 w-5" />
                             Request Quote
-                          </button>
+                          </a>
                         </div>
                       </div>
                     </div>

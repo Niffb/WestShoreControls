@@ -47,26 +47,20 @@ function linkMeta(url: string) {
 
 const catalogs: CatalogBrand[] = [
   {
-    brand: 'LS Industrial',
-    logo: getImageUrl('brands/LS.webp'),
-    catalogs: [
-      {
-        title: 'Manuals, catalogs & downloads',
-        description: 'Official LS Electric Americas hub for manuals, catalogs, certificates, software, and technical data.',
-        pages: 0,
-        downloadUrl: 'https://www.lselectricamerica.com/manual/',
-      },
-    ],
-  },
-  {
     brand: 'Mitsubishi Electric',
     logo: getImageUrl('brands/MitsubishiLogo.webp'),
     catalogs: [
       {
-        title: 'LES Product Catalogue',
-        description: 'Industrial automation and motor drives (online viewer).',
-        pages: 466,
-        downloadUrl: 'https://library.mitsubishielectric.co.uk/pdf/book/LES_Product_Catalogue#page-1',
+        title: 'VFD & Automation Catalog',
+        description: 'Inverter and variable frequency drive product catalog for industrial automation applications.',
+        pages: 0,
+        downloadUrl: 'https://dl.mitsubishielectric.com/dl/fa/document/catalog/inv/l06036/l06036j.pdf',
+      },
+      {
+        title: 'FA Products Website',
+        description: 'Browse the full Mitsubishi Electric Factory Automation product lineup online.',
+        pages: 0,
+        downloadUrl: 'https://www.mitsubishielectric.com/fa/products/index.html',
       },
     ],
   },
@@ -217,6 +211,18 @@ const catalogs: CatalogBrand[] = [
         description: 'Explore the complete range of enclosure climate control products.',
         pages: 0,
         downloadUrl: 'https://alfaelectric.com/en/catalogues/',
+      },
+    ],
+  },
+  {
+    brand: 'LS Industrial',
+    logo: getImageUrl('brands/LS.webp'),
+    catalogs: [
+      {
+        title: 'Manuals, catalogs & downloads',
+        description: 'Official LS Electric Americas hub for manuals, catalogs, certificates, software, and technical data.',
+        pages: 0,
+        downloadUrl: 'https://www.lselectricamerica.com/manual/',
       },
     ],
   },

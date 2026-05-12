@@ -9,6 +9,7 @@
     "scrape:klemsan": "node klemsan/scrape.js",
     "scrape:elsteel": "node elsteel/scrape.js",
     "scrape:mitsubishi": "node mitsubishi/scrape.js",
+    "scrape:mitsubishi-d-drives": "node mitsubishi/scrape-d-drives.js",
     "scrape:noark": "node noark/scrape.js",
     "scrape:erico": "node erico/scrape.js",
     "scrape:ls-industrial": "node ls-industrial/scrape.js",
