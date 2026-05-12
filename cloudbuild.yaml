@@ -5,7 +5,7 @@
 
 substitutions:
   _SERVICE: westshorecontrols2
-  _REGION: northamerica-south1
+  _REGION: us-central1
 
 options:
   logging: CLOUD_LOGGING_ONLY
