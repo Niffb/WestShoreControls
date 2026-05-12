@@ -4,8 +4,7 @@ import React, { useState, useCallback, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import Image from 'next/image'
 import { 
-  XMarkIcon, 
-  HeartIcon, 
+  XMarkIcon,
   ShoppingCartIcon,
   CheckCircleIcon,
   ExclamationTriangleIcon,
@@ -262,13 +261,13 @@ export default function ProductModal({ product, isOpen, onClose, getProductImage
                       {/* Action Buttons */}
                       <div className="bg-gray-50 p-4 rounded-xl mt-4">
                         <div className="flex justify-center gap-3">
-                          <button className="p-3 bg-white border border-gray-300 rounded-xl hover:bg-gray-50 transition-colors">
-                            <HeartIcon className="h-5 w-5 text-gray-600" />
-                          </button>
-                          <button className="px-6 py-3 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-colors font-medium flex items-center gap-2">
+                          <a
+                            href={`mailto:mmarelic@westshorecontrols.com,mjesty@westshorecontrols.com?subject=Quote Request: ${encodeURIComponent(product.name || 'Product')}&body=${encodeURIComponent(`Hello,\n\nI would like to request a quote for the following product:\n\nProduct: ${product.name || ''}\nModel: ${product.model || ''}\nBrand: ${product.brand || ''}\n\nPlease provide pricing and availability.\n\nThank you`)}`}
+                            className="px-6 py-3 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-colors font-medium flex items-center gap-2"
+                          >
                             <ShoppingCartIcon className="h-5 w-5" />
-                            Contact Us
-                          </button>
+                            Request Quote
+                          </a>
                         </div>
                       </div>
                     </div>
