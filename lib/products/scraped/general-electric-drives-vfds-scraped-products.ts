@@ -16,7 +16,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE2M.jpg?v=1652611898"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 200,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE3M.jpg?v=1652601722"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 196,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AREMOTECABLE2M.jpg?v=1652616903"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 133,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AREMOTECABLE3M.jpg?v=1652616925"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AREMOTECABLE5M.jpg?v=1652616943"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE2M.jpg?v=1652611898"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 152,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE3M.jpg?v=1652601722"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100LCDDIGITALKEYPAD.jpg?v=1652611833"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 152,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7REMOTECABLE2M.jpg?v=1652548265"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 135,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7REMOTECABLE3M.jpg?v=1652548337"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE1.jpg?v=1652602007"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 202,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE4.jpg?v=1652602035"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE3.jpg?v=1652602109"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 182,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE2.jpg?v=1652602255"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 161,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE5.jpg?v=1652602346"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE6.jpg?v=1652602384"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 170,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Starvert_S100_dbbf2e7c-2b68-49ea-9b4b-416a9a0ae8f8.jpg?v=1604680096"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE9.jpg?v=1652602419"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE8.jpg?v=1652602463"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 210,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEA.jpg?v=1652602571"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEB.jpg?v=1652602595"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEC.jpg?v=1652602645"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 170,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEE.jpg?v=1652602684"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULED.jpg?v=1652602734"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEG.jpg?v=1652602781"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 114,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEF.jpg?v=1652602808"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 159,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEH.jpg?v=1652602834"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const generalelectricdrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 165,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEI.jpg?v=1652602897"
     ],
     "inStock": true,
     "specs": [],

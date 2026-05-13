@@ -16,7 +16,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_ac77cf60-68d6-4707-8902-0262c1c95af8.jpg?v=1614964590"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5e3dc2fe-bf6c-4d98-b252-05920931648f.jpg?v=1614964591"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7a3f1b40-15b1-46a8-9465-c4295d3d0eef.jpg?v=1614964592"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_3afafa1d-94df-494a-998b-18c858cf5973.jpg?v=1614964593"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_f4adc197-449e-4780-8d49-4d3681db4b58.jpg?v=1614964594"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_992692fe-7ec4-41ff-a18e-c2481da5afc9.jpg?v=1651916573"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_c0909a1f-89bd-4126-b301-bba1fe3dc598.jpg?v=1614965282"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_32e969fa-b0d2-49ce-8198-d5785e404d84.jpg?v=1614965283"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_dadedc3d-4ac4-41b3-8b61-902c2d204c3e.jpg?v=1614965284"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_74fb3ff5-89d7-4eff-96a0-9cdc3cc6dbb1.jpg?v=1614965285"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7f1b97b9-ab58-4fa3-8f2e-e4ae959d288f.jpg?v=1614964582"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_66a0678b-e078-45f2-b5ed-197fcc3267d4.jpg?v=1614964582"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_6aa9100d-4330-4550-a58f-d24eed3d56f0.jpg?v=1614964583"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_330fe380-8dd4-499e-a3af-802fa062a4e3.jpg?v=1614964584"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_ebd13fd8-126a-44d6-888f-36e8d568da5d.jpg?v=1614964585"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_8cdf4ed8-717f-4888-842f-52ecfbcb15c7.jpg?v=1614965286"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_4b8803e0-89a1-4ee8-99d3-8e836d9b2757.jpg?v=1614965287"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5d2c6e8e-3c3f-476f-91c2-0fe35b4a1a6b.jpg?v=1614965289"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_e7b902f3-6fc5-4d19-af2b-900fc33be69b.jpg?v=1614965288"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_b2d62212-9d23-4cba-bd65-562fb7b3d211.jpg?v=1614965289"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_d2d57366-422b-4aee-b1e8-3b52e1d6d89e.jpg?v=1614965290"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_a895aecf-b63f-45b9-9b0d-8cecf3cfa64a.jpg?v=1614965291"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_783d1474-f2c0-4d5d-823e-f3e2f4b55590.jpg?v=1614965292"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5837159a-5a64-4cc9-af22-37b86d289936.jpg?v=1614965293"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_9db462d9-e5e1-461a-bb65-2ad6d64c3f73.jpg?v=1614965294"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_63c10ca0-7e36-48bb-be1c-5a8fd819520f.jpg?v=1614964586"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_beb669ef-d7a6-491f-bad8-fbd5372cbfa9.jpg?v=1614964587"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_4b2af293-bc70-4e66-8454-ae6b36a2a505.jpg?v=1614964588"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_18ad6b66-0489-49f2-a012-b63ef6d0774c.jpg?v=1614964589"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_c48df202-4fef-4bf2-ba82-1b07cc53eeac.jpg?v=1614964590"
     ],
     "inStock": true,
     "specs": [],

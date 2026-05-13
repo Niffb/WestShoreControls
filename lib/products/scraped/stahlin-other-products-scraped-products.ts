@@ -16,7 +16,7 @@ export const stahlinother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB10.jpg?v=1629044551"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const stahlinother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB10.jpg?v=1629044551"
     ],
     "inStock": true,
     "specs": [],

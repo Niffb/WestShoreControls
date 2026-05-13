@@ -16,7 +16,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNA.jpg?v=1628003258"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNA_d7c21f6d-5702-46be-9b99-efe0d2df2d98.jpg?v=1628003294"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNB.jpg?v=1628003548"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNB_f15df165-4957-4b0e-bbf1-02141df5bb71.jpg?v=1628003611"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA.jpg?v=1628006488"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA_36326667-ba95-447f-84e7-484a63dc054b.jpg?v=1628006588"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA_6ed12587-5049-40dc-89ba-28628dfaa383.jpg?v=1628006615"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/DRA51.jpg?v=1627981010"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51.jpg?v=1627922990"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_a4a27703-4786-4e69-862e-a8f1af418f30.jpg?v=1627923147"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_cfe3793c-3bbe-40d1-9e21-fc6abab96d18.jpg?v=1627923166"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_effd11a7-3978-4ab1-aa00-0ee847cdd1e9.jpg?v=1627923195"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_c54722dc-9d25-40d4-9936-1cb8c6c29752.jpg?v=1627923211"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_00c29673-671a-4db2-9576-621112dbd999.jpg?v=1627923240"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_09bf6892-3718-4c3a-a4df-5d6286cdc983.jpg?v=1627923282"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_7a972c96-ca40-43f9-8de4-46188e4bc347.jpg?v=1627923298"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNTA.jpg?v=1628006192"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNTA_00a18a56-c42b-4ddd-83b1-b17584b57000.jpg?v=1628006231"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51.jpg?v=1627923605"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_df874d34-4534-4c13-98db-7f9cb7802fb4.jpg?v=1627923636"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_9b831baa-89c6-4d82-a38a-eebaee8f04df.jpg?v=1627923661"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_eee129cc-2a42-4f4b-abc1-4ea7bb3a8f8c.jpg?v=1627923676"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_84e5b14a-6e00-4126-969a-30ec0155a02a.jpg?v=1627923694"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ERH51B.jpg?v=1627981156"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ERH51B_3ceee85b-f9f2-47ee-a39d-518568119757.jpg?v=1627981212"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111.jpg?v=1627919785"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211.jpg?v=1627919942"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111_6dc05612-938e-4c28-a10b-c4ed6946d18b.jpg?v=1627919998"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_edbc6e5c-2acf-4259-9b86-685fb678f07f.jpg?v=1627920034"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_65b194d5-dc8d-44bf-83b3-5bc9c601be09.jpg?v=1627920081"
     ],
     "inStock": true,
     "specs": [],

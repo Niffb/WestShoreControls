@@ -16,7 +16,7 @@ export const unknownbatteries_powerScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 179,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07BB-L.jpg?v=1650457934"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownbatteries_powerScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07BB-L.jpg?v=1650457934"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownbatteries_powerScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 204,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07BB-L.jpg?v=1650457934"
     ],
     "inStock": true,
     "specs": [],

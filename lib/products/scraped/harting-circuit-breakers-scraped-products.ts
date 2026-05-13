@@ -16,7 +16,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 112,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a6796fa1-3024-433c-a6d4-4f1662553753.jpg?v=1628099815"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 124,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f5b1f753-4b02-466c-9410-ff6c7ddf8605.jpg?v=1628099887"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_bd48da39-0a80-449c-9c92-5b1b37f73692.jpg?v=1628101306"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a6796fa1-3024-433c-a6d4-4f1662553753.jpg?v=1628099815"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f5b1f753-4b02-466c-9410-ff6c7ddf8605.jpg?v=1628099887"
     ],
     "inStock": true,
     "specs": [],

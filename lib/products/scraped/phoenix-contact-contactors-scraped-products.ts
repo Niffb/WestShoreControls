@@ -16,7 +16,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e50d67d5-af32-48fd-a8d3-9e690d61d79b.jpg?v=1604682449"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 212,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_c00d0cc5-f9ff-42ff-af45-8bcaa0498397.jpg?v=1604682448"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 179,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1411f7ac-20b8-4472-a3cc-c30680896579.jpg?v=1604682451"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 189,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f8d41145-bb04-4f4a-a42d-693709069fc0.jpg?v=1604682452"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d2955dda-402c-4be9-9fd3-0684311762fa.jpg?v=1604682453"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_45e751e2-9d64-40e4-8e71-5dda527deec9.jpg?v=1607084968"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_9a58052e-73ef-4358-9a45-7bbb8e7f4abb.jpg?v=1607084969"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 191,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_ab259741-0027-4bbb-bd64-1bc5553d3f02.jpg?v=1607084970"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_48230592-280e-4f5b-8066-a3e6311e5465.jpg?v=1607084972"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_bc072560-6bc8-40e2-ade4-3b16ba783fda.jpg?v=1607084973"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d6628832-5fbb-424f-8ca4-c37a1a479216.jpg?v=1607084978"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_245d6c14-cbd0-462d-96a7-71b254578a3c.jpg?v=1607084979"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_16b70441-bdde-4428-ac2a-1dc06e386132.jpg?v=1607084980"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_972c0da0-8e6b-4264-84c5-675cfbd134be.jpg?v=1607084981"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 179,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f2dfc393-2998-4942-8370-2da8771b20bc.jpg?v=1607084983"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 176,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_695d82b6-a03c-49f7-8624-656ad2882ee5.jpg?v=1607084984"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2a508a7f-d62d-4e42-a7cb-906c055345f6.jpg?v=1607084985"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 158,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_5e131a49-55d1-4797-99ce-30e9b40c0613.jpg?v=1607089205"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_7dfe4c15-195b-4f4b-9552-106a2579aa64.jpg?v=1607089206"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e0698c72-3d3c-4c57-9cdf-13c18f8479f7.jpg?v=1607089210"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e83dbb88-6b00-4607-bcbe-438c1347b42c.jpg?v=1607089211"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0a287169-a655-4b4f-9e5d-180bd70bf111.jpg?v=1607089212"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_08768521-78cd-4ffb-9fc6-422d11ded71f.jpg?v=1607089213"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_4931b19a-c1de-483f-ad36-dd1afd1c3340.jpg?v=1604682381"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6a3f223f-c542-4827-b529-d093f486815e.jpg?v=1604682382"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 186,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8a5e32e3-907e-41d1-b679-f16559eda65f.jpg?v=1604682383"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 145,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2a2e67f5-e819-4d4f-abfc-7bacbb830004.jpg?v=1604682385"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 153,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors.jpg?v=1604682384"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6ebf5a92-86f8-4518-b24c-c78376715bca.jpg?v=1604682386"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 114,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_985ea36b-dbe7-4472-92fb-fa58defbcee5.jpg?v=1604682388"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 120,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_aa6acba7-ffd2-4deb-a0c7-044017c46337.jpg?v=1604682387"
     ],
     "inStock": true,
     "specs": [],
@@ -5398,7 +5398,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_bd42d5d3-9bf4-4f3c-a6a2-8af28fbb50c9.jpg?v=1604682389"
     ],
     "inStock": true,
     "specs": [],
@@ -5416,7 +5416,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 134,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_fecdec43-ae9c-4c68-82db-c73a6b8d103a.jpg?v=1604682390"
     ],
     "inStock": true,
     "specs": [],
@@ -5434,7 +5434,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_68f77c1c-5907-46ec-a10f-ab81ef689898.jpg?v=1604682391"
     ],
     "inStock": true,
     "specs": [],
@@ -5452,7 +5452,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_5854ca17-d90e-459d-a8ec-e455e093fb75.jpg?v=1604682392"
     ],
     "inStock": true,
     "specs": [],
@@ -5470,7 +5470,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_c9946c16-764e-42e1-8eb2-de361a6dcedc.jpg?v=1604682393"
     ],
     "inStock": true,
     "specs": [],
@@ -5884,7 +5884,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_fefcd6cf-1802-4608-9055-7a5ebec66018.jpg?v=1604682429"
     ],
     "inStock": true,
     "specs": [],
@@ -5902,7 +5902,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0bf2a87f-b191-4768-82bc-44f369abac78.jpg?v=1604682430"
     ],
     "inStock": true,
     "specs": [],
@@ -5920,7 +5920,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 188,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_562b6518-591c-4524-8099-218e83c6bc12.jpg?v=1604682431"
     ],
     "inStock": true,
     "specs": [],
@@ -5938,7 +5938,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e896d6bc-deb6-49c8-ac35-29ed5786a3ae.jpg?v=1604682434"
     ],
     "inStock": true,
     "specs": [],
@@ -5956,7 +5956,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 184,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_01c6cbd7-3662-470a-9ca9-d025a68d65f5.jpg?v=1604682433"
     ],
     "inStock": true,
     "specs": [],
@@ -5974,7 +5974,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_980f75fc-4dc7-4c97-bfb4-c6d77e5ff1ac.jpg?v=1604682436"
     ],
     "inStock": true,
     "specs": [],
@@ -5992,7 +5992,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 133,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_70664a5d-e608-42ea-badc-85e934f1abe0.jpg?v=1604682435"
     ],
     "inStock": true,
     "specs": [],
@@ -6010,7 +6010,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_5e49c8d3-d368-4d41-b53b-de7b3b73b90d.jpg?v=1604682437"
     ],
     "inStock": true,
     "specs": [],
@@ -6028,7 +6028,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_98013f41-a9e3-4c67-8bda-8b6769357213.jpg?v=1604682438"
     ],
     "inStock": true,
     "specs": [],
@@ -6046,7 +6046,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 137,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_cd6e6b7b-d506-4289-b0dc-dd1c6c44e568.jpg?v=1604682439"
     ],
     "inStock": true,
     "specs": [],
@@ -6064,7 +6064,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2433a6ec-a2a0-4762-87fb-c865818a5656.jpg?v=1604682401"
     ],
     "inStock": true,
     "specs": [],
@@ -6082,7 +6082,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 183,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b6f5f641-afb2-417c-ba24-4034cde45031.jpg?v=1604682402"
     ],
     "inStock": true,
     "specs": [],
@@ -6100,7 +6100,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f5a798f6-63e0-4948-b34b-6d5fd56d6370.jpg?v=1604682404"
     ],
     "inStock": true,
     "specs": [],
@@ -6118,7 +6118,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 201,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_fdd77c57-f690-428b-bb26-6ccd9ac1a412.jpg?v=1604682405"
     ],
     "inStock": true,
     "specs": [],
@@ -6136,7 +6136,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1eaab903-211b-4c71-9140-f118ee470c7f.jpg?v=1604682406"
     ],
     "inStock": true,
     "specs": [],
@@ -6154,7 +6154,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d13b0f34-9a45-4e61-9c12-2d9bd2ef13f3.jpg?v=1604682407"
     ],
     "inStock": true,
     "specs": [],
@@ -6172,7 +6172,7 @@ export const phoenixcontactcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 162,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6884340c-f9bc-4740-bf5d-9d5a72ec2a75.jpg?v=1604682408"
     ],
     "inStock": true,
     "specs": [],

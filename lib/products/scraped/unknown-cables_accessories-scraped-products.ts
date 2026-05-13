@@ -16,7 +16,7 @@ export const unknownCables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SC-FRPC.jpg?v=1629044432"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownCables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SC-FRPC.jpg?v=1629044432"
     ],
     "inStock": true,
     "specs": [],

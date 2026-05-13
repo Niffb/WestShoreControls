@@ -16,7 +16,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC52.jpg?v=1627922378"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 204,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC51.jpg?v=1627922319"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC53.jpg?v=1627922029"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111.jpg?v=1627919785"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 148,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211.jpg?v=1627919942"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111_6dc05612-938e-4c28-a10b-c4ed6946d18b.jpg?v=1627919998"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_edbc6e5c-2acf-4259-9b86-685fb678f07f.jpg?v=1627920034"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_65b194d5-dc8d-44bf-83b3-5bc9c601be09.jpg?v=1627920081"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 121,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c297f45a-8dfb-4e4a-b497-1f92ec9ed724.jpg?v=1627982109"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_a46ddae4-1242-46ef-b981-3c60a2421cd9.jpg?v=1627982126"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_734f730c-cc4b-47ca-8980-d775d3d0c020.jpg?v=1627982142"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 206,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_48b905db-cc0b-4225-a4aa-03b85439852c.jpg?v=1627982157"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_bee5d9be-b66f-4269-9c66-b18fd2a6f8c5.jpg?v=1627982173"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 168,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_517ed6ad-2ffa-47d9-8db0-e9da6a6c2f24.jpg?v=1627982187"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 171,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3c65bbdf-c3d9-47a3-8730-3c1e3fcaa487.jpg?v=1627982202"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c3d95dee-365c-4ba6-ab31-92abd6a82296.jpg?v=1627982215"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 146,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_90011587-665c-4815-8566-455f4f180888.jpg?v=1627982228"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3e7fe24b-d9a7-405b-a92f-1679f8524e22.jpg?v=1627982241"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 193,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_ac4dc9e2-cb51-4975-9087-77862e26539a.jpg?v=1627982256"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c2377976-94ae-4db4-b8b5-ed0a8d9c4e67.jpg?v=1627982276"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 116,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNEA.jpg?v=1628003815"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/WPB51B.jpg?v=1627981687"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 141,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/WPB51Y.jpg?v=1627981850"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 140,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_6305e14d-3d7b-4d70-8417-6df70db0e7a2.jpg?v=1627981897"
     ],
     "inStock": true,
     "specs": [],

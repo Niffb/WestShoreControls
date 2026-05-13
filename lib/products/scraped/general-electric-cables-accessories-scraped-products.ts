@@ -16,7 +16,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 179,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20_1.jpg?v=1650457974"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20_3.jpg?v=1650458072"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20_5.jpg?v=1650458112"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 153,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-1.jpg?v=1629040803"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 176,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-3.jpg?v=1629040830"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 163,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-5.jpg?v=1629040850"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB201.jpg?v=1629044461"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 132,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB203.jpg?v=1629044480"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 119,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB205.jpg?v=1629044514"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 211,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB201.jpg?v=1629044461"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 114,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB203.jpg?v=1629044480"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 172,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB205.jpg?v=1629044514"
     ],
     "inStock": true,
     "specs": [],

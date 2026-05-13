@@ -538,7 +538,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 173,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KKV322CC.png?v=1610526879"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 200,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W160OHMJ.jpg?v=1652616278"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W200OHMJ.jpg?v=1652616330"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 155,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB-ST0.6KW33OHMJ.jpg?v=1652616353"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 120,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB-ST0.6KW130OHMJ.jpg?v=1652616376"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST0.8KW20OHMJ.jpg?v=1652616398"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 123,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST1.0KW85OHMJ.jpg?v=1652616434"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 187,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST1.2KW15OHMJ.jpg?v=1652616454"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 192,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST1.2KW60OHMJ.jpg?v=1652616479"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 141,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.0KW40OHMJ.jpg?v=1652616505"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 171,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.4KW8OHMJ.jpg?v=1652616565"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 158,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.4KW10OHMJ.jpg?v=1652616594"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.4KW30OHMJ.jpg?v=1652616623"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST3.6KW5OHMJ.jpg?v=1652616657"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const unknownoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST3.6KW20OHMJ.jpg?v=1652616697"
     ],
     "inStock": true,
     "specs": [],

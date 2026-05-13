@@ -16,7 +16,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 142,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_8dd2be00-cf72-408c-8bb6-82e1efca924e.jpg?v=1604682330"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_d1b7e197-a4cd-41fc-9a70-39305b3b8575.jpg?v=1604682322"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_114e16bb-ec51-4dba-895e-42bda5d62842.jpg?v=1604682322"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 165,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_1fb41df7-e96d-4d01-81c0-cadcf7f7aec7.jpg?v=1604682323"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 198,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_0b816632-b659-4a63-9196-8538619c2591.jpg?v=1604682329"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_474574c0-d97d-4040-8a6a-0ad75bf443a7.jpg?v=1604682324"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_4e331aac-8985-49ab-8002-617138d4d0f2.jpg?v=1604682341"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_7c3fba15-91fd-4582-bfd9-554e41398824.jpg?v=1604682340"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_b4987e9c-3a95-4f6f-a297-f6488c23e7b2.jpg?v=1604682337"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 153,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_76b23a7b-3669-4c78-bcb1-89bf8ded9fea.jpg?v=1604682339"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 201,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_56113c4d-04ed-4a55-945d-160fbd02557b.jpg?v=1604682341"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 181,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_42dcb674-e826-45be-aa7f-8e152268ff63.jpg?v=1604682338"
     ],
     "inStock": true,
     "specs": [],

@@ -16,7 +16,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 119,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_23f8bea7-ec08-423b-b163-550934bab336.jpg?v=1604682464"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 117,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d11bc445-13aa-4147-8664-6c7cb44e260e.jpg?v=1604682463"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 176,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_3c67e414-0c42-4d1e-8e77-316f9c1af689.jpg?v=1604682465"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_aa854890-f92e-4ac8-ba89-e7c685179bba.jpg?v=1604682466"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 112,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_7d63242b-8aeb-49a1-90dd-22e9c5fe02b1.jpg?v=1604682492"
     ],
     "inStock": true,
     "specs": [],

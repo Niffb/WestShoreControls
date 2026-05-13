@@ -16,7 +16,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA.png?v=1610525709"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_544c1520-d4d6-4f20-bb52-ebb4cbd768aa.png?v=1610525711"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_b0e75777-3e39-41ef-8a58-81ed76b4ad03.png?v=1610525712"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 161,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_f3dd8474-70f3-44e5-992d-cf1f6f89138d.png?v=1610525714"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-LU08-01.jpg?v=1629040672"
     ],
     "inStock": true,
     "specs": [],

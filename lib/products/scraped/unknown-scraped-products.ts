@@ -13,7 +13,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07BB-L.jpg?v=1650457934"
     ],
     "inStock": true,
     "specs": [],
@@ -31,7 +31,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07BB-L.jpg?v=1650457934"
     ],
     "inStock": true,
     "specs": [],
@@ -49,7 +49,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07BB-L.jpg?v=1650457934"
     ],
     "inStock": true,
     "specs": [],
@@ -68,7 +68,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07B.jpg?v=1629044316"
     ],
     "inStock": true,
     "specs": [],
@@ -86,7 +86,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-1.jpg?v=1629040803"
     ],
     "inStock": true,
     "specs": [],
@@ -105,7 +105,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-3.jpg?v=1629040830"
     ],
     "inStock": true,
     "specs": [],
@@ -123,7 +123,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-5.jpg?v=1629040850"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-1.jpg?v=1629040803"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-3.jpg?v=1629040830"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB20-5.jpg?v=1629040850"
     ],
     "inStock": true,
     "specs": [],
@@ -252,7 +252,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SC-FRPC.jpg?v=1629044432"
     ],
     "inStock": true,
     "specs": [],
@@ -270,7 +270,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB201.jpg?v=1629044461"
     ],
     "inStock": true,
     "specs": [],
@@ -288,7 +288,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB203.jpg?v=1629044480"
     ],
     "inStock": true,
     "specs": [],
@@ -306,7 +306,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB205.jpg?v=1629044514"
     ],
     "inStock": true,
     "specs": [],
@@ -325,7 +325,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SC-FRPC.jpg?v=1629044432"
     ],
     "inStock": false,
     "specs": [],
@@ -343,7 +343,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB201.jpg?v=1629044461"
     ],
     "inStock": true,
     "specs": [],
@@ -362,7 +362,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB203.jpg?v=1629044480"
     ],
     "inStock": true,
     "specs": [],
@@ -380,7 +380,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CB205.jpg?v=1629044514"
     ],
     "inStock": true,
     "specs": [],
@@ -398,7 +398,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rotary_Handle_e1106b8c-a569-4bc0-a850-f672713576a1.png?v=1757164336"
     ],
     "inStock": false,
     "specs": [],
@@ -416,7 +416,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rotary_Handle_7ed69ec5-d055-4c02-b86e-941a9cc6c478.png?v=1757164337"
     ],
     "inStock": true,
     "specs": [],
@@ -434,7 +434,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rotary_Handle_6338c1c8-82da-4199-8a09-bb90a611ba45.png?v=1757164338"
     ],
     "inStock": false,
     "specs": [],
@@ -452,7 +452,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rotary_Handle_00ea44b6-0308-447c-9b42-dbf69e10cded.png?v=1757164340"
     ],
     "inStock": true,
     "specs": [],
@@ -654,7 +654,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-2LLUL.jpg?v=1653379685"
     ],
     "inStock": true,
     "specs": [],
@@ -672,7 +672,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-2LLUL.jpg?v=1653379703"
     ],
     "inStock": true,
     "specs": [],
@@ -690,7 +690,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-2LLUL.jpg?v=1653379651"
     ],
     "inStock": true,
     "specs": [],
@@ -709,7 +709,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-2LLUL.jpg?v=1653379560"
     ],
     "inStock": true,
     "specs": [],
@@ -728,7 +728,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-2LLUL.jpg?v=1653379540"
     ],
     "inStock": true,
     "specs": [],
@@ -747,7 +747,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-2LLUL.jpg?v=1653379507"
     ],
     "inStock": true,
     "specs": [],
@@ -765,7 +765,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-2LLUL.jpg?v=1653379493"
     ],
     "inStock": true,
     "specs": [],
@@ -783,7 +783,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-2LLUL.jpg?v=1653379475"
     ],
     "inStock": true,
     "specs": [],
@@ -802,7 +802,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-2LLUL.jpg?v=1653379407"
     ],
     "inStock": true,
     "specs": [],
@@ -820,7 +820,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-2LLUL.jpg?v=1653379452"
     ],
     "inStock": true,
     "specs": [],
@@ -839,7 +839,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-2LLUL.jpg?v=1653379685"
     ],
     "inStock": false,
     "specs": [],
@@ -857,7 +857,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-2LLUL.jpg?v=1653379703"
     ],
     "inStock": true,
     "specs": [],
@@ -875,7 +875,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-2LLUL.jpg?v=1653379651"
     ],
     "inStock": true,
     "specs": [],
@@ -893,7 +893,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-2LLUL.jpg?v=1653379560"
     ],
     "inStock": true,
     "specs": [],
@@ -911,7 +911,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-2LLUL.jpg?v=1653379540"
     ],
     "inStock": true,
     "specs": [],
@@ -930,7 +930,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-2LLUL.jpg?v=1653379507"
     ],
     "inStock": true,
     "specs": [],
@@ -948,7 +948,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-2LLUL.jpg?v=1653379493"
     ],
     "inStock": true,
     "specs": [],
@@ -966,7 +966,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-2LLUL.jpg?v=1653379475"
     ],
     "inStock": true,
     "specs": [],
@@ -984,7 +984,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-2LLUL.jpg?v=1653379452"
     ],
     "inStock": true,
     "specs": [],
@@ -1003,7 +1003,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-2LLUL.jpg?v=1653379407"
     ],
     "inStock": true,
     "specs": [],
@@ -1021,7 +1021,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS.jpg?v=1628096378"
     ],
     "inStock": true,
     "specs": [],
@@ -1040,7 +1040,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0dd50515-a47e-42d3-9388-eb84826b758d.jpg?v=1628096458"
     ],
     "inStock": true,
     "specs": [],
@@ -1059,7 +1059,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e4983e6d-4665-4121-a3af-5cd05c512fd5.jpg?v=1628096518"
     ],
     "inStock": true,
     "specs": [],
@@ -1077,7 +1077,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c4a914b3-f664-4691-b0c4-a2521e99fa9e.jpg?v=1628096555"
     ],
     "inStock": true,
     "specs": [],
@@ -1095,7 +1095,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9d4f6f50-8726-4b7f-8b0d-65299a673939.jpg?v=1628096591"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_db55de24-617a-4fc5-9d39-c09a41dd3b72.jpg?v=1628096610"
     ],
     "inStock": true,
     "specs": [],
@@ -1133,7 +1133,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_be96878b-a0bf-4234-9524-cf38b99d3664.jpg?v=1628096628"
     ],
     "inStock": true,
     "specs": [],
@@ -1151,7 +1151,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7c74f88a-bab5-4f2b-b9e2-003670910315.jpg?v=1628096696"
     ],
     "inStock": false,
     "specs": [],
@@ -1169,7 +1169,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_5abb1f20-d7ea-4e37-a78b-37ac9c0de357.jpg?v=1628096725"
     ],
     "inStock": true,
     "specs": [],
@@ -1188,7 +1188,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ddedb06e-9fd4-42d7-be4d-e13495a14094.jpg?v=1628096747"
     ],
     "inStock": true,
     "specs": [],
@@ -1206,7 +1206,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7203a6e0-c987-44c1-a2ce-a7f3722c6f82.jpg?v=1628096777"
     ],
     "inStock": true,
     "specs": [],
@@ -1225,7 +1225,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f56d8a26-26ed-4025-9b26-03ec3d7e3323.jpg?v=1628096798"
     ],
     "inStock": true,
     "specs": [],
@@ -1244,7 +1244,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_299d3039-4fb5-444c-9e4e-bcab998bc787.jpg?v=1628096821"
     ],
     "inStock": true,
     "specs": [],
@@ -1263,7 +1263,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0b30759f-c4a5-46fe-a871-1efad35d0ff2.jpg?v=1628096967"
     ],
     "inStock": true,
     "specs": [],
@@ -1282,7 +1282,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7ff56cc5-9903-4a99-9ac9-24b75c3692ae.jpg?v=1628097002"
     ],
     "inStock": true,
     "specs": [],
@@ -1300,7 +1300,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_de88df1e-1873-449b-9d0c-e655a4b2c465.jpg?v=1628097191"
     ],
     "inStock": true,
     "specs": [],
@@ -1319,7 +1319,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7557fcb4-8468-4088-a4c0-7414a4f2896c.jpg?v=1628097209"
     ],
     "inStock": true,
     "specs": [],
@@ -1338,7 +1338,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e6e11d51-157a-4d01-87d2-6991da5c1750.jpg?v=1628097231"
     ],
     "inStock": true,
     "specs": [],
@@ -1356,7 +1356,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_af75a236-fb9a-4bc5-a7f2-65eeee14d412.jpg?v=1628097257"
     ],
     "inStock": true,
     "specs": [],
@@ -1374,7 +1374,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ff903416-52ec-4960-9611-38607ce135cf.jpg?v=1628097277"
     ],
     "inStock": false,
     "specs": [],
@@ -1392,7 +1392,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_50687f40-b760-431f-b266-5ace5ae3c377.jpg?v=1628097296"
     ],
     "inStock": true,
     "specs": [],
@@ -1410,7 +1410,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c5bb87be-23a2-4d75-9e49-122e50eb2b45.jpg?v=1628097336"
     ],
     "inStock": true,
     "specs": [],
@@ -1429,7 +1429,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_93999de1-6e68-4cc7-9399-c6da0a8f3a58.jpg?v=1628097357"
     ],
     "inStock": true,
     "specs": [],
@@ -1447,7 +1447,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fab5fdda-60fc-4609-926a-4eaa55afb4c5.jpg?v=1628097380"
     ],
     "inStock": true,
     "specs": [],
@@ -1465,7 +1465,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ddb65773-6200-409f-8cbc-eb8172d86631.jpg?v=1628097398"
     ],
     "inStock": true,
     "specs": [],
@@ -1483,7 +1483,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_49a7d69e-a6e2-41b1-92fc-48102931b742.jpg?v=1628097420"
     ],
     "inStock": true,
     "specs": [],
@@ -1501,7 +1501,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_57272495-6f40-4a83-8463-fef2600eab51.jpg?v=1628097441"
     ],
     "inStock": false,
     "specs": [],
@@ -1519,7 +1519,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1d13f4a1-bc0e-42ed-bb51-fffef70a072b.jpg?v=1628097463"
     ],
     "inStock": true,
     "specs": [],
@@ -1537,7 +1537,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9e6367e5-f53c-495f-a0cd-0accc6e2321b.jpg?v=1628097499"
     ],
     "inStock": true,
     "specs": [],
@@ -1556,7 +1556,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1346f57a-cea3-4b14-93d8-b13c9dd80134.jpg?v=1628097519"
     ],
     "inStock": true,
     "specs": [],
@@ -1574,7 +1574,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_519249f1-de2a-44ed-a293-2c68bfe5ee65.jpg?v=1628097537"
     ],
     "inStock": true,
     "specs": [],
@@ -1592,7 +1592,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_5af5d97c-dfc1-4e6d-9042-ea234ac411cb.jpg?v=1628097554"
     ],
     "inStock": true,
     "specs": [],
@@ -1610,7 +1610,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a0d60c45-777a-45e2-88c8-019f031a263a.jpg?v=1628097579"
     ],
     "inStock": true,
     "specs": [],
@@ -1628,7 +1628,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8c224a8f-44e3-427d-816a-e1aa44e01230.jpg?v=1628097593"
     ],
     "inStock": true,
     "specs": [],
@@ -1646,7 +1646,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_acc98a20-fb85-4bef-a373-c40273b35fd7.jpg?v=1628097610"
     ],
     "inStock": true,
     "specs": [],
@@ -1664,7 +1664,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_6fd81b25-9a92-4f60-a4e2-6f8c86f03b00.jpg?v=1628097628"
     ],
     "inStock": true,
     "specs": [],
@@ -1682,7 +1682,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a077ec8a-3bed-40a3-a60f-fe7b5289179b.jpg?v=1628097667"
     ],
     "inStock": true,
     "specs": [],
@@ -1701,7 +1701,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a2b54076-09c2-4056-9eb5-b73b25d352ab.jpg?v=1628097683"
     ],
     "inStock": true,
     "specs": [],
@@ -1719,7 +1719,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8c0fdcd9-9521-46ff-a7e5-aa10f8f77303.jpg?v=1628097702"
     ],
     "inStock": true,
     "specs": [],
@@ -1737,7 +1737,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a78a814c-0044-44ca-8a4b-1200b1c61ad7.jpg?v=1628097723"
     ],
     "inStock": true,
     "specs": [],
@@ -1756,7 +1756,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c7939729-c7c1-4827-abd7-3399c0bb8814.jpg?v=1628097748"
     ],
     "inStock": true,
     "specs": [],
@@ -1774,7 +1774,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8d8bc599-1bfb-4abb-bec8-145aaf5e9ada.jpg?v=1628097782"
     ],
     "inStock": true,
     "specs": [],
@@ -1793,7 +1793,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_073531be-ac0b-496d-9295-89a231bd255c.jpg?v=1628097805"
     ],
     "inStock": true,
     "specs": [],
@@ -1811,7 +1811,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_82c9acc3-3ed6-4f3f-8e30-067c18d7b43c.jpg?v=1628097843"
     ],
     "inStock": true,
     "specs": [],
@@ -1829,7 +1829,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_bf28dd81-4ab0-4aec-b1c1-5ba78b191677.jpg?v=1628097859"
     ],
     "inStock": true,
     "specs": [],
@@ -1847,7 +1847,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8e1c94f3-f270-474c-98f9-4e44b91f1154.jpg?v=1628097882"
     ],
     "inStock": true,
     "specs": [],
@@ -1865,7 +1865,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_594eaa28-8f50-4819-8d93-e8d154a88ea7.jpg?v=1628097900"
     ],
     "inStock": true,
     "specs": [],
@@ -1884,7 +1884,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fb216ca5-363e-465c-87c0-52692f8675bc.jpg?v=1628097928"
     ],
     "inStock": true,
     "specs": [],
@@ -1902,7 +1902,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9b56bd0d-8ea2-4751-ace8-932d3b4b088c.jpg?v=1628098051"
     ],
     "inStock": true,
     "specs": [],
@@ -1921,7 +1921,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_972a4ce6-aaf9-4461-9fec-5503485ec0f3.jpg?v=1628099029"
     ],
     "inStock": true,
     "specs": [],
@@ -1939,7 +1939,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a089956b-416b-4551-bc48-1a03529a07da.jpg?v=1628098069"
     ],
     "inStock": true,
     "specs": [],
@@ -1957,7 +1957,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f6f2b7e3-4371-459a-b919-a18f0c78d150.jpg?v=1628098098"
     ],
     "inStock": true,
     "specs": [],
@@ -1976,7 +1976,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_66576cb0-3005-46e8-ae9d-589b9b13a216.jpg?v=1628098137"
     ],
     "inStock": false,
     "specs": [],
@@ -1994,7 +1994,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ec42966a-3a65-431c-9c3e-397b06408c07.jpg?v=1628098163"
     ],
     "inStock": true,
     "specs": [],
@@ -2013,7 +2013,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1687fe41-40b7-4b56-bff8-a4093a8cbd35.jpg?v=1628098182"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fbd82103-0bcf-4b3b-a189-3d330aa29c5c.jpg?v=1628098206"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_4aa99891-e4e7-4ffd-acf2-21b1fbf54b9b.jpg?v=1628098267"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8844969a-bc17-4082-a1be-5808b7a8dde9.jpg?v=1628098318"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9e3a4967-28c9-4e10-be91-c59ad846634b.jpg?v=1628098338"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ec1c435a-9e36-4b4e-a446-3f23d22380b2.jpg?v=1628098358"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_296ec1ee-497b-4364-ad6c-69b2e8dc29e8.jpg?v=1628098382"
     ],
     "inStock": false,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d826a701-1301-4bad-9fbb-bc9cda8c362d.jpg?v=1628098398"
     ],
     "inStock": false,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1d2bf5e4-6bcf-471e-9728-4c8a3e571298.jpg?v=1628098415"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_bc01f2d8-3309-4a68-a8a4-a29a5bde9c64.jpg?v=1628098444"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_6612d101-9d69-4e41-9192-b314c7412e98.jpg?v=1628098466"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f8e33b41-7c8f-4f55-a6be-e4cc42c3d0e0.jpg?v=1628098486"
     ],
     "inStock": true,
     "specs": [],
@@ -2231,7 +2231,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8dac0cfb-ea64-4f96-877a-b7b15dccfe95.jpg?v=1628098511"
     ],
     "inStock": true,
     "specs": [],
@@ -2250,7 +2250,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_054b61c3-20c8-4ed3-a654-9d33115a5326.jpg?v=1628098546"
     ],
     "inStock": false,
     "specs": [],
@@ -2268,7 +2268,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_91592b7b-17dc-417b-9ced-d396d2ea34d1.jpg?v=1628098564"
     ],
     "inStock": true,
     "specs": [],
@@ -2286,7 +2286,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_05a92776-c1df-4a6c-be65-0be5500fa650.jpg?v=1628098580"
     ],
     "inStock": true,
     "specs": [],
@@ -2305,7 +2305,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_2067632f-f5fb-404e-8f87-5a1e0e2f16d9.jpg?v=1628098594"
     ],
     "inStock": false,
     "specs": [],
@@ -2323,7 +2323,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_cfa8cfca-6863-4b9f-afd6-eeaa4d9a24bf.jpg?v=1628098615"
     ],
     "inStock": true,
     "specs": [],
@@ -2341,7 +2341,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d531cc8a-9072-4bab-b86b-2d6a5d98945b.jpg?v=1628098637"
     ],
     "inStock": false,
     "specs": [],
@@ -2359,7 +2359,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8a170f0b-58fb-4e65-aa69-54cbdd05bd15.jpg?v=1628098664"
     ],
     "inStock": false,
     "specs": [],
@@ -2377,7 +2377,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ca762519-1300-42dd-b156-ef58fc36550e.jpg?v=1628098685"
     ],
     "inStock": true,
     "specs": [],
@@ -2395,7 +2395,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f53d6fd0-04a4-46ea-bc2a-8c5ca6ea5945.jpg?v=1628098708"
     ],
     "inStock": true,
     "specs": [],
@@ -2414,7 +2414,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_db2603de-4edd-49e9-8541-5c5232d3754f.jpg?v=1628098722"
     ],
     "inStock": true,
     "specs": [],
@@ -2433,7 +2433,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9f9b6d6f-901c-4b7b-b343-10d677508709.jpg?v=1628098741"
     ],
     "inStock": false,
     "specs": [],
@@ -2452,7 +2452,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_dacb84b2-f537-417a-acdd-3666c20bfa06.jpg?v=1628098753"
     ],
     "inStock": true,
     "specs": [],
@@ -2470,7 +2470,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_4d08d156-2d42-4a63-86d5-80597ebe8f50.jpg?v=1628098773"
     ],
     "inStock": true,
     "specs": [],
@@ -2488,7 +2488,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_78f0e408-1364-4934-b9aa-bdc8d850fb89.jpg?v=1628098787"
     ],
     "inStock": true,
     "specs": [],
@@ -2506,7 +2506,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_629274fc-c787-4b0e-ae31-dba86572806f.jpg?v=1628098809"
     ],
     "inStock": true,
     "specs": [],
@@ -2542,7 +2542,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b7694024-1c02-4a47-a3a6-c438bd970e1c.jpg?v=1628098844"
     ],
     "inStock": true,
     "specs": [],
@@ -2561,7 +2561,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1307f0d4-7e61-43bc-ab41-a4f5554d5231.jpg?v=1628098860"
     ],
     "inStock": true,
     "specs": [],
@@ -2579,7 +2579,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker.jpg?v=1628399245"
     ],
     "inStock": true,
     "specs": [],
@@ -2597,7 +2597,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_dd1fe48e-2c0d-4118-ae08-61ba47af58ec.jpg?v=1628399246"
     ],
     "inStock": true,
     "specs": [],
@@ -2616,7 +2616,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_470a83e4-716e-4893-b23c-578358eae51f.jpg?v=1628399247"
     ],
     "inStock": false,
     "specs": [],
@@ -2634,7 +2634,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_6d676af2-0d71-42d6-b551-8d1f5fc8415c.jpg?v=1628399249"
     ],
     "inStock": true,
     "specs": [],
@@ -2652,7 +2652,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_3ba83709-cf7f-4007-8a56-966e6bd35c18.jpg?v=1628399250"
     ],
     "inStock": true,
     "specs": [],
@@ -2671,7 +2671,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_643ca674-abab-41f1-bbed-e23f1ae62dfa.jpg?v=1628399251"
     ],
     "inStock": true,
     "specs": [],
@@ -2689,7 +2689,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_0178f7db-5426-430d-8371-74b1982f7b7e.jpg?v=1628399252"
     ],
     "inStock": true,
     "specs": [],
@@ -2707,7 +2707,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_aa9d10e9-0186-456d-b0cc-8cc02324f3b2.jpg?v=1628399254"
     ],
     "inStock": true,
     "specs": [],
@@ -2726,7 +2726,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_914d0e8f-98d7-4e03-8ed5-973e0b7304ba.jpg?v=1628399255"
     ],
     "inStock": true,
     "specs": [],
@@ -2744,7 +2744,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_b68e77af-2966-48a2-b5b3-156c0e836ce3.jpg?v=1628399256"
     ],
     "inStock": true,
     "specs": [],
@@ -2762,7 +2762,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_6752ee12-6143-4b08-a13e-3fc583a2dd5e.jpg?v=1628399257"
     ],
     "inStock": true,
     "specs": [],
@@ -2780,7 +2780,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_73c9d72d-0b08-444b-b5db-c955c9156e9d.jpg?v=1628399258"
     ],
     "inStock": true,
     "specs": [],
@@ -2799,7 +2799,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_a9fb4900-842e-45fa-91dd-008e85ddfef4.jpg?v=1628399260"
     ],
     "inStock": false,
     "specs": [],
@@ -2817,7 +2817,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_81ad5fcb-7f2c-4a52-9370-021ac3f26b98.jpg?v=1628399261"
     ],
     "inStock": true,
     "specs": [],
@@ -2835,7 +2835,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_0f898d3a-7ac2-42f7-92dd-cf680cbee7b8.jpg?v=1628399262"
     ],
     "inStock": false,
     "specs": [],
@@ -2854,7 +2854,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_d4bc3d08-9e33-48bb-9a43-87066626a565.jpg?v=1628399263"
     ],
     "inStock": true,
     "specs": [],
@@ -2872,7 +2872,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_28bdc4c9-df15-403b-96c5-9cfd259970eb.jpg?v=1628399264"
     ],
     "inStock": true,
     "specs": [],
@@ -2890,7 +2890,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_d8fab2f5-2adc-408d-9e9b-a481fc44743f.jpg?v=1628399266"
     ],
     "inStock": true,
     "specs": [],
@@ -2908,7 +2908,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_88968773-3b4b-4094-a5fa-200f418cba41.jpg?v=1628399267"
     ],
     "inStock": true,
     "specs": [],
@@ -2927,7 +2927,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_26b1914f-f473-4722-be73-ea5424c704e3.jpg?v=1628399268"
     ],
     "inStock": false,
     "specs": [],
@@ -2945,7 +2945,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_9a1322f3-9629-4782-835c-6aff7812f8d2.jpg?v=1628399269"
     ],
     "inStock": true,
     "specs": [],
@@ -2964,7 +2964,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_1643942e-c79b-4d6d-b6bd-0fbe9d2e7e8d.jpg?v=1628399271"
     ],
     "inStock": true,
     "specs": [],
@@ -2982,7 +2982,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_bcab7b62-d32f-43f2-b777-c71ca704c966.jpg?v=1628399272"
     ],
     "inStock": true,
     "specs": [],
@@ -3000,7 +3000,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_4679ad4b-b1ee-47e7-80c0-83a9ac6b558d.jpg?v=1628399273"
     ],
     "inStock": true,
     "specs": [],
@@ -3018,7 +3018,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f47919c6-93b5-4b57-9844-9981fac49494.jpg?v=1628399274"
     ],
     "inStock": true,
     "specs": [],
@@ -3036,7 +3036,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_6bb5b2f8-e560-46eb-a5d4-0d9734a0bae8.jpg?v=1628399275"
     ],
     "inStock": true,
     "specs": [],
@@ -3054,7 +3054,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_3309bd65-6bb2-45a5-9ab3-941f35a59f62.jpg?v=1628399277"
     ],
     "inStock": false,
     "specs": [],
@@ -3072,7 +3072,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_1f8e6086-aa3d-438b-96a3-ec9288dd9037.jpg?v=1628399278"
     ],
     "inStock": true,
     "specs": [],
@@ -3090,7 +3090,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_ba8056ad-4d76-4898-92e8-1898a09b3da0.jpg?v=1628399279"
     ],
     "inStock": true,
     "specs": [],
@@ -3108,7 +3108,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f8db7c6a-9b19-4ef3-af39-7cb9e85e21e6.jpg?v=1628399280"
     ],
     "inStock": true,
     "specs": [],
@@ -3127,7 +3127,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_bfedba2c-4541-4758-9092-2454c3937e4d.jpg?v=1628399282"
     ],
     "inStock": false,
     "specs": [],
@@ -3145,7 +3145,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f189ffd9-09b0-43b0-af3a-217951d53b3d.jpg?v=1628399283"
     ],
     "inStock": false,
     "specs": [],
@@ -3164,7 +3164,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f1e1079a-4b49-479b-9b2d-df608f6f63c7.jpg?v=1628399285"
     ],
     "inStock": true,
     "specs": [],
@@ -3182,7 +3182,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_b64f7da3-76c0-45cf-bd64-9eaca6dc3462.jpg?v=1628399286"
     ],
     "inStock": false,
     "specs": [],
@@ -3201,7 +3201,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_398ab2b5-9ab7-4f0c-8f61-4d2537cd2e47.jpg?v=1628399289"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_3d2b0b67-6b98-44d6-9cb6-8ce7af43b475.jpg?v=1628399290"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_538dcfc2-7f57-47e7-ad47-3249f895c1d2.jpg?v=1628399291"
     ],
     "inStock": true,
     "specs": [],
@@ -3257,7 +3257,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_4840063a-c974-4905-bfbd-4d16582e5e4c.jpg?v=1628399292"
     ],
     "inStock": true,
     "specs": [],
@@ -6931,7 +6931,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a55c9a2c-7cee-4867-9dea-ce5e5aeafd7c.jpg?v=1628100123"
     ],
     "inStock": true,
     "specs": [],
@@ -6949,7 +6949,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d21b9083-a087-4167-b19a-f40b7b800382.jpg?v=1628100203"
     ],
     "inStock": true,
     "specs": [],
@@ -6967,7 +6967,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_6dc3b342-417b-4677-a99a-6b642bc0f19a.jpg?v=1628100229"
     ],
     "inStock": true,
     "specs": [],
@@ -6985,7 +6985,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7186c734-c7f2-47f2-927d-1dc699172feb.jpg?v=1628100254"
     ],
     "inStock": true,
     "specs": [],
@@ -7003,7 +7003,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_956bb6fe-c4a0-423f-9121-4a9774c5b1fd.jpg?v=1628100283"
     ],
     "inStock": true,
     "specs": [],
@@ -7022,7 +7022,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0b52b09a-1580-4ef0-a24a-157d3ac13c69.jpg?v=1628100309"
     ],
     "inStock": true,
     "specs": [],
@@ -7040,7 +7040,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a276b5b1-ca00-4950-b715-85b0ab042eb7.jpg?v=1628100331"
     ],
     "inStock": true,
     "specs": [],
@@ -7059,7 +7059,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_2fb58077-bb20-4c90-a008-89a3e94aa960.jpg?v=1628100352"
     ],
     "inStock": true,
     "specs": [],
@@ -7077,7 +7077,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0a1610ab-9869-4c65-831b-8f86278581e7.jpg?v=1628100378"
     ],
     "inStock": true,
     "specs": [],
@@ -7096,7 +7096,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_01da9409-4b51-4a33-9514-46a2ddf70783.jpg?v=1628100411"
     ],
     "inStock": true,
     "specs": [],
@@ -7115,7 +7115,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_2f3e9a97-2fe0-4b9f-b0c7-f910091a1f9a.jpg?v=1628100429"
     ],
     "inStock": true,
     "specs": [],
@@ -7133,7 +7133,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_25d99c61-1c25-4d05-9f18-103d60724518.jpg?v=1628100505"
     ],
     "inStock": true,
     "specs": [],
@@ -7866,7 +7866,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker.jpg?v=1628104530"
     ],
     "inStock": true,
     "specs": [],
@@ -7884,7 +7884,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_c1b3fbb1-5f14-4bc7-b98e-f602647b3e5d.jpg?v=1628104532"
     ],
     "inStock": true,
     "specs": [],
@@ -7902,7 +7902,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_b4de78e5-c349-4535-bd4d-ed0a98bd6d6c.jpg?v=1628104533"
     ],
     "inStock": false,
     "specs": [],
@@ -7920,7 +7920,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_8be9e3f0-3d03-4e9f-b838-c732dda62ad0.jpg?v=1628104534"
     ],
     "inStock": false,
     "specs": [],
@@ -7938,7 +7938,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_feac232b-6714-436e-8f92-7237806f8a1f.jpg?v=1628104535"
     ],
     "inStock": true,
     "specs": [],
@@ -7956,7 +7956,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_44774f4b-7c95-4d05-967b-5f32b1e89b4c.jpg?v=1628104536"
     ],
     "inStock": true,
     "specs": [],
@@ -7975,7 +7975,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_678694f2-9f43-4508-be0a-ec1483355f76.jpg?v=1628104537"
     ],
     "inStock": false,
     "specs": [],
@@ -7993,7 +7993,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_75fc195d-b965-49da-9960-242b7b27cd07.jpg?v=1628104538"
     ],
     "inStock": true,
     "specs": [],
@@ -8011,7 +8011,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_0fdd5fe9-cc1b-49b7-8fdb-7939bccc0122.jpg?v=1628104539"
     ],
     "inStock": true,
     "specs": [],
@@ -8029,7 +8029,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_1c0002c1-a630-408f-bef3-fd5c7fc3702c.jpg?v=1628104542"
     ],
     "inStock": true,
     "specs": [],
@@ -8047,7 +8047,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_bb3e344f-f0b8-437d-9ad6-a61ef6b6fa01.jpg?v=1628104541"
     ],
     "inStock": false,
     "specs": [],
@@ -8065,7 +8065,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_7dfbc0aa-77b6-48a2-b9b0-5029be4228a6.jpg?v=1628104543"
     ],
     "inStock": true,
     "specs": [],
@@ -8084,7 +8084,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_a95ec96b-c8ba-4cff-81b8-b4ce6962e1b9.jpg?v=1628104544"
     ],
     "inStock": true,
     "specs": [],
@@ -8102,7 +8102,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_f98f7e42-c79b-4cf8-9ad3-2f7e7264310d.jpg?v=1628104545"
     ],
     "inStock": true,
     "specs": [],
@@ -8120,7 +8120,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_911e839d-2b81-45cc-9084-60f38c0b33c5.jpg?v=1628104546"
     ],
     "inStock": true,
     "specs": [],
@@ -8138,7 +8138,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_b8d6ab39-06c6-4898-9a8f-470cee3fae9f.jpg?v=1628104547"
     ],
     "inStock": true,
     "specs": [],
@@ -8156,7 +8156,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_cb6910d4-4a81-4683-835b-bc453a1c975f.jpg?v=1628104548"
     ],
     "inStock": true,
     "specs": [],
@@ -8175,7 +8175,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_d0255a11-6a0b-4a9c-8150-2065adde784c.jpg?v=1628104549"
     ],
     "inStock": true,
     "specs": [],
@@ -8194,7 +8194,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_c573a424-1961-49c9-8b3f-b7b87f6a941a.jpg?v=1628104550"
     ],
     "inStock": true,
     "specs": [],
@@ -8212,7 +8212,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_411282fd-3949-45e9-a83a-670bbe2cd026.jpg?v=1628104551"
     ],
     "inStock": true,
     "specs": [],
@@ -8231,7 +8231,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_b64e4fd2-5657-4fdc-a3e2-692a2456fc2d.jpg?v=1628104552"
     ],
     "inStock": true,
     "specs": [],
@@ -8249,7 +8249,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_ebaa21cc-7ffd-4c7c-992e-6b98a16f66b3.jpg?v=1628104553"
     ],
     "inStock": true,
     "specs": [],
@@ -8267,7 +8267,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_9ea66647-fa85-42ef-8b85-fcd757112614.jpg?v=1628104554"
     ],
     "inStock": true,
     "specs": [],
@@ -8285,7 +8285,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_e4c658b3-663f-4fe2-9781-47415ba4d25d.jpg?v=1628104555"
     ],
     "inStock": true,
     "specs": [],
@@ -8303,7 +8303,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_c4d88da0-cdc4-401f-a6ec-d81f17c8ba11.jpg?v=1628104556"
     ],
     "inStock": true,
     "specs": [],
@@ -8321,7 +8321,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_379af35a-80b2-4291-9265-eeecfa5be2a2.jpg?v=1628104557"
     ],
     "inStock": true,
     "specs": [],
@@ -8340,7 +8340,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_8e258597-7bbc-44b0-8805-fa253652ca13.jpg?v=1628104558"
     ],
     "inStock": true,
     "specs": [],
@@ -8359,7 +8359,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_b645da0e-3156-4530-a636-633dfdf29880.jpg?v=1628104559"
     ],
     "inStock": true,
     "specs": [],
@@ -8378,7 +8378,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_bf5af8ed-9ef9-4897-a001-a151735348d0.jpg?v=1628104560"
     ],
     "inStock": true,
     "specs": [],
@@ -8396,7 +8396,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_001728ec-c5e0-4f4d-b233-698fd6257c71.jpg?v=1628104561"
     ],
     "inStock": true,
     "specs": [],
@@ -8415,7 +8415,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_69f36b8c-4f0d-4dec-b217-e3f0a0249748.jpg?v=1628104562"
     ],
     "inStock": true,
     "specs": [],
@@ -8434,7 +8434,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_eccc153c-82bb-49bb-b5b3-0052cd8044aa.jpg?v=1628104563"
     ],
     "inStock": true,
     "specs": [],
@@ -8452,7 +8452,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_1f6bbd2a-71ab-4e46-a2b8-2d806d068f49.jpg?v=1628104564"
     ],
     "inStock": true,
     "specs": [],
@@ -8471,7 +8471,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_84abf611-bdd8-4faa-a6d8-335006a07c1c.jpg?v=1628104565"
     ],
     "inStock": true,
     "specs": [],
@@ -8489,7 +8489,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_d9f85aa1-ce0e-4485-ba43-42ddf19d888b.jpg?v=1628104566"
     ],
     "inStock": true,
     "specs": [],
@@ -8507,7 +8507,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_7a394cba-6931-4f4f-8911-3fec8a01bda4.jpg?v=1628104567"
     ],
     "inStock": true,
     "specs": [],
@@ -8525,7 +8525,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_54f48a5b-a202-4766-916d-fc0e81fa74c3.jpg?v=1628104568"
     ],
     "inStock": true,
     "specs": [],
@@ -8543,7 +8543,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_e13cddf3-aa18-440a-8874-938e856484bc.jpg?v=1628104569"
     ],
     "inStock": false,
     "specs": [],
@@ -8561,7 +8561,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/1_Pole_-_LS_Mini_Circuit_Breaker_2aa96494-d3e6-4e1b-86b9-12614b4441df.jpg?v=1628104570"
     ],
     "inStock": true,
     "specs": [],
@@ -8579,7 +8579,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-250-3LLUL.jpg?v=1653475902"
     ],
     "inStock": true,
     "specs": [],
@@ -8597,7 +8597,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-300-3LLUL.jpg?v=1653475921"
     ],
     "inStock": true,
     "specs": [],
@@ -8615,7 +8615,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-400-3LLUL.jpg?v=1653475939"
     ],
     "inStock": true,
     "specs": [],
@@ -8633,7 +8633,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-350-3LLUL.jpg?v=1653475956"
     ],
     "inStock": true,
     "specs": [],
@@ -8651,7 +8651,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FMU-300-3LLUL.jpg?v=1653475978"
     ],
     "inStock": false,
     "specs": [],
@@ -8669,7 +8669,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FMU-400-3LLUL.jpg?v=1653475997"
     ],
     "inStock": true,
     "specs": [],
@@ -8687,7 +8687,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-ATU-400-3LLUL.jpg?v=1653476017"
     ],
     "inStock": true,
     "specs": [],
@@ -8705,7 +8705,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-ATU-300-3LLUL.jpg?v=1653476034"
     ],
     "inStock": true,
     "specs": [],
@@ -8723,7 +8723,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-250-3LLUL.jpg?v=1653476054"
     ],
     "inStock": true,
     "specs": [],
@@ -8742,7 +8742,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-300-3LLUL.jpg?v=1653476071"
     ],
     "inStock": true,
     "specs": [],
@@ -8761,7 +8761,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-350-3LLUL.jpg?v=1653476092"
     ],
     "inStock": true,
     "specs": [],
@@ -8779,7 +8779,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-400-3LLUL.jpg?v=1653476112"
     ],
     "inStock": true,
     "specs": [],
@@ -8798,7 +8798,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FMU-300-3LLUL.jpg?v=1653476130"
     ],
     "inStock": true,
     "specs": [],
@@ -8816,7 +8816,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-ATU-300-3LLUL.jpg?v=1653476148"
     ],
     "inStock": true,
     "specs": [],
@@ -8835,7 +8835,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FMU-400-3LLUL.jpg?v=1653476164"
     ],
     "inStock": true,
     "specs": [],
@@ -8853,7 +8853,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-250-3LLUL.jpg?v=1653476187"
     ],
     "inStock": true,
     "specs": [],
@@ -8872,7 +8872,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-ATU-400-3LLUL.jpg?v=1653476204"
     ],
     "inStock": true,
     "specs": [],
@@ -8890,7 +8890,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-300-3LLUL.jpg?v=1653476223"
     ],
     "inStock": true,
     "specs": [],
@@ -8908,7 +8908,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-350-3LLUL.jpg?v=1653476239"
     ],
     "inStock": true,
     "specs": [],
@@ -8927,7 +8927,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-400-3LLUL.jpg?v=1653476256"
     ],
     "inStock": true,
     "specs": [],
@@ -8945,7 +8945,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FMU-400-3LLUL.jpg?v=1653476273"
     ],
     "inStock": true,
     "specs": [],
@@ -8964,7 +8964,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FMU-300-3LLUL.jpg?v=1653476294"
     ],
     "inStock": true,
     "specs": [],
@@ -8983,7 +8983,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-ATU-300-3LLUL.jpg?v=1653476320"
     ],
     "inStock": true,
     "specs": [],
@@ -9002,7 +9002,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-ATU-400-3LLUL.jpg?v=1653476357"
     ],
     "inStock": true,
     "specs": [],
@@ -9021,7 +9021,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-MCS-400-3LLUL.jpg?v=1653476389"
     ],
     "inStock": true,
     "specs": [],
@@ -9039,7 +9039,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-MCP-320-3LLUL.jpg?v=1653476408"
     ],
     "inStock": true,
     "specs": [],
@@ -9058,7 +9058,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-300-3LLUL.jpg?v=1653476449"
     ],
     "inStock": true,
     "specs": [],
@@ -9076,7 +9076,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-250-3LLUL.jpg?v=1653476465"
     ],
     "inStock": true,
     "specs": [],
@@ -9095,7 +9095,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-350-3LLUL.jpg?v=1653476485"
     ],
     "inStock": true,
     "specs": [],
@@ -9114,7 +9114,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-400-3LLUL.jpg?v=1653476512"
     ],
     "inStock": true,
     "specs": [],
@@ -9132,7 +9132,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FMU-300-3LLUL.jpg?v=1653476547"
     ],
     "inStock": true,
     "specs": [],
@@ -9150,7 +9150,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-ATU-300-3LLUL.jpg?v=1653476565"
     ],
     "inStock": false,
     "specs": [],
@@ -9168,7 +9168,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FMU-400-3LLUL.jpg?v=1653476583"
     ],
     "inStock": true,
     "specs": [],
@@ -9186,7 +9186,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-ATU-400-3LLUL.jpg?v=1653476648"
     ],
     "inStock": true,
     "specs": [],
@@ -9205,7 +9205,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-300-3LLUL.jpg?v=1653476672"
     ],
     "inStock": true,
     "specs": [],
@@ -9224,7 +9224,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-250-3LLUL.jpg?v=1653476692"
     ],
     "inStock": false,
     "specs": [],
@@ -9242,7 +9242,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-350-3LLUL.jpg?v=1653476735"
     ],
     "inStock": true,
     "specs": [],
@@ -9260,7 +9260,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FMU-300-3LLUL.jpg?v=1653476763"
     ],
     "inStock": true,
     "specs": [],
@@ -9279,7 +9279,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-400-3LLUL.jpg?v=1653476780"
     ],
     "inStock": true,
     "specs": [],
@@ -9298,7 +9298,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FMU-400-3LLUL.jpg?v=1653476808"
     ],
     "inStock": true,
     "specs": [],
@@ -9316,7 +9316,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-ATU-300-3LLUL.jpg?v=1653476838"
     ],
     "inStock": true,
     "specs": [],
@@ -9334,7 +9334,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-250-3LLUL.jpg?v=1653476865"
     ],
     "inStock": true,
     "specs": [],
@@ -9352,7 +9352,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-ATU-400-3LLUL.jpg?v=1653476886"
     ],
     "inStock": true,
     "specs": [],
@@ -9370,7 +9370,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-300-3LLUL.jpg?v=1653476921"
     ],
     "inStock": true,
     "specs": [],
@@ -9388,7 +9388,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-350-3LLUL.jpg?v=1653476962"
     ],
     "inStock": true,
     "specs": [],
@@ -9406,7 +9406,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-400-3LLUL.jpg?v=1653476988"
     ],
     "inStock": true,
     "specs": [],
@@ -9424,7 +9424,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FMU-300-3LLUL.jpg?v=1653477041"
     ],
     "inStock": true,
     "specs": [],
@@ -9442,7 +9442,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FMU-400-3LLUL.jpg?v=1653477059"
     ],
     "inStock": true,
     "specs": [],
@@ -9460,7 +9460,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-ATU-400-3LLUL.jpg?v=1653477090"
     ],
     "inStock": true,
     "specs": [],
@@ -9478,7 +9478,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-ATU-300-3LLUL.jpg?v=1653477110"
     ],
     "inStock": true,
     "specs": [],
@@ -9496,7 +9496,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-50-3LLUL.jpg?v=1653384132"
     ],
     "inStock": true,
     "specs": [],
@@ -9514,7 +9514,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-40-3LLUL.jpg?v=1653384192"
     ],
     "inStock": true,
     "specs": [],
@@ -9532,7 +9532,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-60-3LLUL.jpg?v=1653384230"
     ],
     "inStock": true,
     "specs": [],
@@ -9550,7 +9550,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-70-3LLUL.jpg?v=1653384268"
     ],
     "inStock": true,
     "specs": [],
@@ -9568,7 +9568,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-80-3LLUL.jpg?v=1653384290"
     ],
     "inStock": true,
     "specs": [],
@@ -9586,7 +9586,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-90-3LLUL.jpg?v=1653384322"
     ],
     "inStock": true,
     "specs": [],
@@ -9605,7 +9605,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-100-3LLUL.jpg?v=1653384343"
     ],
     "inStock": true,
     "specs": [],
@@ -9624,7 +9624,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-150-3LLUL.jpg?v=1653458067"
     ],
     "inStock": true,
     "specs": [],
@@ -9642,7 +9642,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-125-3LLUL.jpg?v=1653458108"
     ],
     "inStock": true,
     "specs": [],
@@ -9661,7 +9661,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-60-3LLUL.jpg?v=1653458140"
     ],
     "inStock": true,
     "specs": [],
@@ -9680,7 +9680,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-40-3LLUL.jpg?v=1653458166"
     ],
     "inStock": true,
     "specs": [],
@@ -9698,7 +9698,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-80-3LLUL.jpg?v=1653458205"
     ],
     "inStock": true,
     "specs": [],
@@ -9716,7 +9716,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-100-3LLUL.jpg?v=1653458262"
     ],
     "inStock": true,
     "specs": [],
@@ -9734,7 +9734,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-150-3LLUL.jpg?v=1653458324"
     ],
     "inStock": true,
     "specs": [],
@@ -9752,7 +9752,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-ATU-100-3LLUL.jpg?v=1653458378"
     ],
     "inStock": true,
     "specs": [],
@@ -9770,7 +9770,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-ATU-150-3LLUL.jpg?v=1653458444"
     ],
     "inStock": true,
     "specs": [],
@@ -9789,7 +9789,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-40-3LLUL.jpg?v=1653458490"
     ],
     "inStock": true,
     "specs": [],
@@ -9808,7 +9808,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-60-3LLUL.jpg?v=1653458570"
     ],
     "inStock": true,
     "specs": [],
@@ -9826,7 +9826,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-50-3LLUL.jpg?v=1653458621"
     ],
     "inStock": true,
     "specs": [],
@@ -9845,7 +9845,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-70-3LLUL.jpg?v=1653458660"
     ],
     "inStock": true,
     "specs": [],
@@ -9863,7 +9863,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-80-3LLUL.jpg?v=1653458693"
     ],
     "inStock": true,
     "specs": [],
@@ -9882,7 +9882,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-90-3LLUL.jpg?v=1653458723"
     ],
     "inStock": true,
     "specs": [],
@@ -9901,7 +9901,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-125-3LLUL.jpg?v=1653458772"
     ],
     "inStock": true,
     "specs": [],
@@ -9919,7 +9919,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-100-3LLUL.jpg?v=1653458797"
     ],
     "inStock": true,
     "specs": [],
@@ -9937,7 +9937,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-150-3LLUL.jpg?v=1653458862"
     ],
     "inStock": true,
     "specs": [],
@@ -9955,7 +9955,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-40-3LLUL.jpg?v=1653458899"
     ],
     "inStock": false,
     "specs": [],
@@ -9974,7 +9974,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-60-3LLUL.jpg?v=1653458923"
     ],
     "inStock": true,
     "specs": [],
@@ -9992,7 +9992,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-80-3LLUL.jpg?v=1653458969"
     ],
     "inStock": true,
     "specs": [],
@@ -10011,7 +10011,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-100-3LLUL.jpg?v=1653459060"
     ],
     "inStock": true,
     "specs": [],
@@ -10029,7 +10029,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-150-3LLUL.jpg?v=1653459116"
     ],
     "inStock": false,
     "specs": [],
@@ -10047,7 +10047,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-ATU-100-3LLUL.jpg?v=1653459179"
     ],
     "inStock": true,
     "specs": [],
@@ -10065,7 +10065,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-ATU-150-3LLUL.jpg?v=1653459263"
     ],
     "inStock": true,
     "specs": [],
@@ -10083,7 +10083,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-40-3LLUL.jpg?v=1653459328"
     ],
     "inStock": true,
     "specs": [],
@@ -10101,7 +10101,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-50-3LLUL.jpg?v=1653459380"
     ],
     "inStock": true,
     "specs": [],
@@ -10120,7 +10120,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-70-3LLUL.jpg?v=1653459424"
     ],
     "inStock": true,
     "specs": [],
@@ -10138,7 +10138,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-60-3LLUL.jpg?v=1653459484"
     ],
     "inStock": true,
     "specs": [],
@@ -10157,7 +10157,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-80-3LLUL.jpg?v=1653459547"
     ],
     "inStock": true,
     "specs": [],
@@ -10175,7 +10175,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-90-3LLUL.jpg?v=1653459623"
     ],
     "inStock": true,
     "specs": [],
@@ -10194,7 +10194,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-125-3LLUL.jpg?v=1653459652"
     ],
     "inStock": true,
     "specs": [],
@@ -10212,7 +10212,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-100-3LLUL.jpg?v=1653459691"
     ],
     "inStock": true,
     "specs": [],
@@ -10231,7 +10231,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-150-3LLUL.jpg?v=1653459775"
     ],
     "inStock": true,
     "specs": [],
@@ -10249,7 +10249,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-60-3LLUL.jpg?v=1653459812"
     ],
     "inStock": true,
     "specs": [],
@@ -10268,7 +10268,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-40-3LLUL.jpg?v=1653459851"
     ],
     "inStock": true,
     "specs": [],
@@ -10286,7 +10286,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-80-3LLUL.jpg?v=1653459894"
     ],
     "inStock": true,
     "specs": [],
@@ -10305,7 +10305,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-100-3LLUL.jpg?v=1653459926"
     ],
     "inStock": true,
     "specs": [],
@@ -10324,7 +10324,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-150-3LLUL.jpg?v=1653459988"
     ],
     "inStock": true,
     "specs": [],
@@ -10342,7 +10342,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-ATU-100-3LLUL.jpg?v=1653460031"
     ],
     "inStock": true,
     "specs": [],
@@ -10361,7 +10361,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-ATU-150-3LLUL.jpg?v=1653460068"
     ],
     "inStock": true,
     "specs": [],
@@ -10379,7 +10379,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-1.6-3LLUL.jpg?v=1653460095"
     ],
     "inStock": true,
     "specs": [],
@@ -10397,7 +10397,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-6.3-3LLUL.jpg?v=1653460423"
     ],
     "inStock": true,
     "specs": [],
@@ -10415,7 +10415,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-3.2-3LLUL.jpg?v=1653460487"
     ],
     "inStock": true,
     "specs": [],
@@ -10433,7 +10433,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-20-3LLUL.jpg?v=1653460522"
     ],
     "inStock": true,
     "specs": [],
@@ -10451,7 +10451,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-12-3LLUL.jpg?v=1653460548"
     ],
     "inStock": true,
     "specs": [],
@@ -10470,7 +10470,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-32-3LLUL.jpg?v=1653460574"
     ],
     "inStock": false,
     "specs": [],
@@ -10488,7 +10488,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-60-3LLUL.jpg?v=1653460625"
     ],
     "inStock": true,
     "specs": [],
@@ -10506,7 +10506,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-50-3LLUL.jpg?v=1653460675"
     ],
     "inStock": true,
     "specs": [],
@@ -10525,7 +10525,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-100-3LLUL.jpg?v=1653460703"
     ],
     "inStock": true,
     "specs": [],
@@ -10543,7 +10543,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-150-3LLUL.jpg?v=1653460754"
     ],
     "inStock": true,
     "specs": [],
@@ -10561,7 +10561,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCS-150-3LLUL.jpg?v=1653460793"
     ],
     "inStock": true,
     "specs": [],
@@ -10579,7 +10579,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-50-3LLUL.jpg?v=1653460843"
     ],
     "inStock": true,
     "specs": [],
@@ -10598,7 +10598,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-40-3LLUL.jpg?v=1653460891"
     ],
     "inStock": true,
     "specs": [],
@@ -10616,7 +10616,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-60-3LLUL.jpg?v=1653460940"
     ],
     "inStock": true,
     "specs": [],
@@ -10635,7 +10635,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-70-3LLUL.jpg?v=1653460973"
     ],
     "inStock": true,
     "specs": [],
@@ -10653,7 +10653,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-90-3LLUL.jpg?v=1653461013"
     ],
     "inStock": true,
     "specs": [],
@@ -10671,7 +10671,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-80-3LLUL.jpg?v=1653461064"
     ],
     "inStock": true,
     "specs": [],
@@ -10689,7 +10689,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-100-3LLUL.jpg?v=1653461099"
     ],
     "inStock": true,
     "specs": [],
@@ -10708,7 +10708,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-125-3LLUL.jpg?v=1653461140"
     ],
     "inStock": false,
     "specs": [],
@@ -10727,7 +10727,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-150-3LLUL.jpg?v=1653461168"
     ],
     "inStock": true,
     "specs": [],
@@ -10745,7 +10745,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-40-3LLUL.jpg?v=1653461190"
     ],
     "inStock": false,
     "specs": [],
@@ -10763,7 +10763,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-60-3LLUL.jpg?v=1653461216"
     ],
     "inStock": true,
     "specs": [],
@@ -10781,7 +10781,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-80-3LLUL.jpg?v=1653461241"
     ],
     "inStock": true,
     "specs": [],
@@ -10799,7 +10799,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-100-3LLUL.jpg?v=1653461265"
     ],
     "inStock": true,
     "specs": [],
@@ -10818,7 +10818,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-150-3LLUL.jpg?v=1653461359"
     ],
     "inStock": false,
     "specs": [],
@@ -10837,7 +10837,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-ATU-100-3LLUL.jpg?v=1653461387"
     ],
     "inStock": true,
     "specs": [],
@@ -10856,7 +10856,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-40-3LLUL.jpg?v=1653461412"
     ],
     "inStock": true,
     "specs": [],
@@ -10875,7 +10875,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-ATU-150-3LLUL.jpg?v=1653461443"
     ],
     "inStock": true,
     "specs": [],
@@ -10893,7 +10893,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-50-3LLUL.jpg?v=1653461465"
     ],
     "inStock": true,
     "specs": [],
@@ -10912,7 +10912,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-60-3LLUL.jpg?v=1653461492"
     ],
     "inStock": true,
     "specs": [],
@@ -10930,7 +10930,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-70-3LLUL.jpg?v=1653461550"
     ],
     "inStock": true,
     "specs": [],
@@ -10948,7 +10948,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-80-3LLUL.jpg?v=1653461599"
     ],
     "inStock": true,
     "specs": [],
@@ -10967,7 +10967,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-90-3LLUL.jpg?v=1653461647"
     ],
     "inStock": true,
     "specs": [],
@@ -10985,7 +10985,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-100-3LLUL.jpg?v=1653461681"
     ],
     "inStock": true,
     "specs": [],
@@ -11003,7 +11003,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-125-3LLUL.jpg?v=1653461765"
     ],
     "inStock": true,
     "specs": [],
@@ -11021,7 +11021,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-150-3LLUL.jpg?v=1653461823"
     ],
     "inStock": true,
     "specs": [],
@@ -11039,7 +11039,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-40-3LLUL.jpg?v=1653461856"
     ],
     "inStock": true,
     "specs": [],
@@ -11057,7 +11057,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-60-3LLUL.jpg?v=1653461925"
     ],
     "inStock": true,
     "specs": [],
@@ -11075,7 +11075,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-80-3LLUL.jpg?v=1653461956"
     ],
     "inStock": true,
     "specs": [],
@@ -11093,7 +11093,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-150-3LLUL.jpg?v=1653461995"
     ],
     "inStock": false,
     "specs": [],
@@ -11111,7 +11111,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-100-3LLUL.jpg?v=1653462021"
     ],
     "inStock": true,
     "specs": [],
@@ -11130,7 +11130,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-ATU-100-3LLUL.jpg?v=1653462068"
     ],
     "inStock": true,
     "specs": [],
@@ -11148,7 +11148,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-ATU-150-3LLUL.jpg?v=1653462097"
     ],
     "inStock": true,
     "specs": [],
@@ -11166,7 +11166,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-40-3LLUL.jpg?v=1653462126"
     ],
     "inStock": true,
     "specs": [],
@@ -11184,7 +11184,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-50-3LLUL.jpg?v=1653462237"
     ],
     "inStock": true,
     "specs": [],
@@ -11203,7 +11203,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-60-3LLUL.jpg?v=1653462281"
     ],
     "inStock": true,
     "specs": [],
@@ -11221,7 +11221,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-80-3LLUL.jpg?v=1653462311"
     ],
     "inStock": true,
     "specs": [],
@@ -11239,7 +11239,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-70-3LLUL.jpg?v=1653462352"
     ],
     "inStock": true,
     "specs": [],
@@ -11258,7 +11258,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-100-3LLUL.jpg?v=1653462385"
     ],
     "inStock": true,
     "specs": [],
@@ -11276,7 +11276,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-90-3LLUL.jpg?v=1653462540"
     ],
     "inStock": true,
     "specs": [],
@@ -11294,7 +11294,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-125-3LLUL.jpg?v=1653462586"
     ],
     "inStock": true,
     "specs": [],
@@ -11312,7 +11312,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-150-3LLUL.jpg?v=1653462610"
     ],
     "inStock": true,
     "specs": [],
@@ -11330,7 +11330,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-40-3LLUL.jpg?v=1653462635"
     ],
     "inStock": false,
     "specs": [],
@@ -11348,7 +11348,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-60-3LLUL.jpg?v=1653470235"
     ],
     "inStock": true,
     "specs": [],
@@ -11366,7 +11366,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-80-3LLUL.jpg?v=1653470523"
     ],
     "inStock": true,
     "specs": [],
@@ -11384,7 +11384,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-100-3LLUL.jpg?v=1653470557"
     ],
     "inStock": true,
     "specs": [],
@@ -11402,7 +11402,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-150-3LLUL.jpg?v=1653470592"
     ],
     "inStock": false,
     "specs": [],
@@ -11421,7 +11421,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-ATU-100-3LLUL.jpg?v=1653470633"
     ],
     "inStock": true,
     "specs": [],
@@ -11439,7 +11439,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150_cee36484-e05e-47b8-9766-8fc804da1812.jpg?v=1604681089"
     ],
     "inStock": true,
     "specs": [],
@@ -11531,7 +11531,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Screenshot2022-04-05at6.13.32PM.png?v=1649160831"
     ],
     "inStock": false,
     "specs": [],
@@ -11549,7 +11549,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_46ae7159-a5d3-4d4a-a909-e5590e15ca48.jpg?v=1628099601"
     ],
     "inStock": true,
     "specs": [],
@@ -11567,7 +11567,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0ac634d7-e422-45dc-9082-19a3640607f8.jpg?v=1628099618"
     ],
     "inStock": true,
     "specs": [],
@@ -11585,7 +11585,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1bdfa2aa-7220-4512-8546-3bbf9405386d.jpg?v=1628099634"
     ],
     "inStock": true,
     "specs": [],
@@ -11603,7 +11603,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e0634236-7cdf-4055-8811-8774c33c4946.jpg?v=1628099647"
     ],
     "inStock": true,
     "specs": [],
@@ -11622,7 +11622,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_5917a683-6965-473b-9fd2-c2ae6e1a8e2b.jpg?v=1628099662"
     ],
     "inStock": true,
     "specs": [],
@@ -11641,7 +11641,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_3374c39f-1438-4e34-ae6f-1d18ae7c2037.jpg?v=1628099676"
     ],
     "inStock": true,
     "specs": [],
@@ -11660,7 +11660,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker.jpg?v=1628105550"
     ],
     "inStock": false,
     "specs": [],
@@ -11678,7 +11678,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_0699abad-b53d-4613-ac05-aeb196030f8d.jpg?v=1628105551"
     ],
     "inStock": true,
     "specs": [],
@@ -11696,7 +11696,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_3d9a6780-0fff-47e4-832b-cbd942a2c5a8.jpg?v=1628105552"
     ],
     "inStock": true,
     "specs": [],
@@ -11714,7 +11714,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_b847cd8f-3dd0-480c-8169-629e7bc2f1f2.jpg?v=1628105553"
     ],
     "inStock": true,
     "specs": [],
@@ -11732,7 +11732,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_89aa19ee-7a1f-428b-ae9b-59beeb9550d6.jpg?v=1628105554"
     ],
     "inStock": true,
     "specs": [],
@@ -11751,7 +11751,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_8dec1a18-5ed8-4c97-8363-45795cef8fd8.jpg?v=1628105555"
     ],
     "inStock": true,
     "specs": [],
@@ -11769,7 +11769,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a5b8a0f1-c0ad-4de2-a9fa-9c943d5c398d.jpg?v=1628105556"
     ],
     "inStock": true,
     "specs": [],
@@ -11787,7 +11787,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_f8938b73-05ca-4b55-ac62-82ea25f73bdc.jpg?v=1628105557"
     ],
     "inStock": true,
     "specs": [],
@@ -11806,7 +11806,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_b56f5f2c-3c6d-4555-acc1-d6c0acc2782c.jpg?v=1628105558"
     ],
     "inStock": false,
     "specs": [],
@@ -11824,7 +11824,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_5669540f-f231-4438-a59c-697a6fa18ce2.jpg?v=1628105559"
     ],
     "inStock": true,
     "specs": [],
@@ -11842,7 +11842,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_ddf290b4-b703-4e19-8de1-ffa7710a4de3.jpg?v=1628105561"
     ],
     "inStock": true,
     "specs": [],
@@ -11860,7 +11860,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_03cb141b-7313-43c1-a122-46c96630143b.jpg?v=1628105562"
     ],
     "inStock": false,
     "specs": [],
@@ -11878,7 +11878,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_2c4dd3e1-271e-40c9-98bb-365eafe16b80.jpg?v=1628105563"
     ],
     "inStock": true,
     "specs": [],
@@ -11897,7 +11897,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_15f1c7fc-8423-4026-9668-54f2639857d9.jpg?v=1628105564"
     ],
     "inStock": true,
     "specs": [],
@@ -11915,7 +11915,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_6c45f4bc-cddb-4dc1-ae26-41e7308a563b.jpg?v=1628105565"
     ],
     "inStock": true,
     "specs": [],
@@ -11933,7 +11933,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a0a80acd-3333-4a67-ac28-561b4422f067.jpg?v=1628105566"
     ],
     "inStock": true,
     "specs": [],
@@ -11952,7 +11952,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_7867ba0d-2119-47eb-a20e-5e4c90856242.jpg?v=1628105567"
     ],
     "inStock": false,
     "specs": [],
@@ -11970,7 +11970,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_9e660b88-28c0-43c5-b49c-833a5af79f34.jpg?v=1628105568"
     ],
     "inStock": true,
     "specs": [],
@@ -11989,7 +11989,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_fc1723ff-8b93-4aa9-982d-4cec16635a80.jpg?v=1628105569"
     ],
     "inStock": false,
     "specs": [],
@@ -12007,7 +12007,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_2023550f-e957-4d14-9207-1e7dc6358c6e.jpg?v=1628105570"
     ],
     "inStock": true,
     "specs": [],
@@ -12025,7 +12025,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_435292c9-aa3b-446d-8170-9492096a703c.jpg?v=1628105571"
     ],
     "inStock": true,
     "specs": [],
@@ -12044,7 +12044,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_cb909d1b-8ae9-425e-8866-4f1ec6e48fbf.jpg?v=1628105572"
     ],
     "inStock": true,
     "specs": [],
@@ -12062,7 +12062,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_2be85693-e481-4859-ab4f-dcae026d485e.jpg?v=1628105573"
     ],
     "inStock": true,
     "specs": [],
@@ -12080,7 +12080,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_014ceebe-58c7-4ec7-8bcd-83831e0bdff0.jpg?v=1628105574"
     ],
     "inStock": true,
     "specs": [],
@@ -12099,7 +12099,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_178070fb-ca6a-4e59-8db2-ee9db2acf6ae.jpg?v=1628105575"
     ],
     "inStock": true,
     "specs": [],
@@ -12117,7 +12117,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_c389432d-c3ba-4f86-bf61-cd5952f056d0.jpg?v=1628105576"
     ],
     "inStock": true,
     "specs": [],
@@ -12136,7 +12136,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_0d063daf-efe4-414a-90af-c50642dd67fb.jpg?v=1628105577"
     ],
     "inStock": true,
     "specs": [],
@@ -12154,7 +12154,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_69db3a27-37aa-4f1c-be55-4f40b5487654.jpg?v=1628105578"
     ],
     "inStock": true,
     "specs": [],
@@ -12172,7 +12172,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_31665f65-732e-4c98-af5e-8b3dbe8f47e7.jpg?v=1628105579"
     ],
     "inStock": true,
     "specs": [],
@@ -12190,7 +12190,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_7f998814-33f7-4d2c-8622-15444f864c61.jpg?v=1628105580"
     ],
     "inStock": true,
     "specs": [],
@@ -12208,7 +12208,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a047fe1d-d1e0-422a-abf8-e6c266ad2559.jpg?v=1628105581"
     ],
     "inStock": true,
     "specs": [],
@@ -12227,7 +12227,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_756cd79a-f2b4-4c08-bfbc-782bd593d12d.jpg?v=1628105582"
     ],
     "inStock": true,
     "specs": [],
@@ -12245,7 +12245,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a016bd0b-9f07-41e1-824f-31da97de77be.jpg?v=1628105583"
     ],
     "inStock": true,
     "specs": [],
@@ -12263,7 +12263,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a4584b2c-38c8-46e0-8514-12d4e62185f4.jpg?v=1628105584"
     ],
     "inStock": true,
     "specs": [],
@@ -12282,7 +12282,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_b5856414-8a18-4841-8dd7-69806250343a.jpg?v=1628105585"
     ],
     "inStock": true,
     "specs": [],
@@ -12301,7 +12301,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_6a6ef2a7-84e6-49d6-b5af-95e404874d6a.jpg?v=1628105586"
     ],
     "inStock": false,
     "specs": [],
@@ -12319,7 +12319,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_9b46ab0f-c9c2-4e04-8808-b125c0985f0f.jpg?v=1628105587"
     ],
     "inStock": true,
     "specs": [],
@@ -12337,7 +12337,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a931e25b-63a7-43b2-a7f9-32b532fac47d.jpg?v=1628105588"
     ],
     "inStock": true,
     "specs": [],
@@ -12355,7 +12355,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_5b13de18-b2c5-4bb7-b2d6-12e617ca2382.jpg?v=1628105589"
     ],
     "inStock": true,
     "specs": [],
@@ -12373,7 +12373,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_46ae7159-a5d3-4d4a-a909-e5590e15ca48.jpg?v=1628099601"
     ],
     "inStock": true,
     "specs": [],
@@ -12391,7 +12391,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0ac634d7-e422-45dc-9082-19a3640607f8.jpg?v=1628099618"
     ],
     "inStock": false,
     "specs": [],
@@ -12409,7 +12409,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1bdfa2aa-7220-4512-8546-3bbf9405386d.jpg?v=1628099634"
     ],
     "inStock": true,
     "specs": [],
@@ -12427,7 +12427,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e0634236-7cdf-4055-8811-8774c33c4946.jpg?v=1628099647"
     ],
     "inStock": true,
     "specs": [],
@@ -12445,7 +12445,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_5917a683-6965-473b-9fd2-c2ae6e1a8e2b.jpg?v=1628099662"
     ],
     "inStock": true,
     "specs": [],
@@ -12463,7 +12463,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_3374c39f-1438-4e34-ae6f-1d18ae7c2037.jpg?v=1628099676"
     ],
     "inStock": false,
     "specs": [],
@@ -12481,7 +12481,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-15-2LLUL.jpg?v=1653379389"
     ],
     "inStock": true,
     "specs": [],
@@ -12500,7 +12500,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-2LLUL.jpg?v=1653379407"
     ],
     "inStock": true,
     "specs": [],
@@ -12519,7 +12519,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-2LLUL.jpg?v=1653379452"
     ],
     "inStock": true,
     "specs": [],
@@ -12538,7 +12538,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-2LLUL.jpg?v=1653379475"
     ],
     "inStock": true,
     "specs": [],
@@ -12556,7 +12556,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-2LLUL.jpg?v=1653379493"
     ],
     "inStock": true,
     "specs": [],
@@ -12574,7 +12574,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-2LLUL.jpg?v=1653379507"
     ],
     "inStock": true,
     "specs": [],
@@ -12593,7 +12593,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-2LLUL.jpg?v=1653379540"
     ],
     "inStock": true,
     "specs": [],
@@ -12611,7 +12611,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-2LLUL.jpg?v=1653379560"
     ],
     "inStock": true,
     "specs": [],
@@ -12629,7 +12629,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-2LLUL.jpg?v=1653379651"
     ],
     "inStock": true,
     "specs": [],
@@ -12648,7 +12648,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-2LLUL.jpg?v=1653379685"
     ],
     "inStock": true,
     "specs": [],
@@ -12666,7 +12666,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-2LLUL.jpg?v=1653379703"
     ],
     "inStock": true,
     "specs": [],
@@ -12684,7 +12684,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-15-2LLUL.jpg?v=1653379724"
     ],
     "inStock": false,
     "specs": [],
@@ -12703,7 +12703,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-20-2LLUL.jpg?v=1653379746"
     ],
     "inStock": true,
     "specs": [],
@@ -12721,7 +12721,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-25-2LLUL.jpg?v=1653379767"
     ],
     "inStock": true,
     "specs": [],
@@ -12739,7 +12739,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-30-2LLUL.jpg?v=1653379790"
     ],
     "inStock": true,
     "specs": [],
@@ -12757,7 +12757,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-40-2LLUL.jpg?v=1653379813"
     ],
     "inStock": true,
     "specs": [],
@@ -12776,7 +12776,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-50-2LLUL.jpg?v=1653379836"
     ],
     "inStock": false,
     "specs": [],
@@ -12794,7 +12794,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-60-2LLUL.jpg?v=1653379861"
     ],
     "inStock": true,
     "specs": [],
@@ -12813,7 +12813,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-70-2LLUL.jpg?v=1653379891"
     ],
     "inStock": true,
     "specs": [],
@@ -12832,7 +12832,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-80-2LLUL.jpg?v=1653379922"
     ],
     "inStock": true,
     "specs": [],
@@ -12850,7 +12850,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-90-2LLUL.jpg?v=1653379966"
     ],
     "inStock": true,
     "specs": [],
@@ -12868,7 +12868,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-100-2LLUL.jpg?v=1653379986"
     ],
     "inStock": true,
     "specs": [],
@@ -12886,7 +12886,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-15-3LLUL.jpg?v=1653380030"
     ],
     "inStock": true,
     "specs": [],
@@ -12904,7 +12904,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-3LLUL.jpg?v=1653380059"
     ],
     "inStock": true,
     "specs": [],
@@ -12922,7 +12922,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-3LLUL.jpg?v=1653380085"
     ],
     "inStock": true,
     "specs": [],
@@ -12940,7 +12940,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-3LLUL.jpg?v=1653380106"
     ],
     "inStock": true,
     "specs": [],
@@ -12958,7 +12958,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-3LLUL.jpg?v=1653380132"
     ],
     "inStock": true,
     "specs": [],
@@ -12976,7 +12976,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-3LLUL.jpg?v=1653380156"
     ],
     "inStock": true,
     "specs": [],
@@ -12994,7 +12994,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-3LLUL.jpg?v=1653380173"
     ],
     "inStock": true,
     "specs": [],
@@ -13013,7 +13013,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-3LLUL.jpg?v=1653380198"
     ],
     "inStock": true,
     "specs": [],
@@ -13031,7 +13031,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-3LLUL.jpg?v=1653380230"
     ],
     "inStock": true,
     "specs": [],
@@ -13049,7 +13049,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-3LLUL.jpg?v=1653380258"
     ],
     "inStock": true,
     "specs": [],
@@ -13067,7 +13067,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-3LLUL.jpg?v=1653380288"
     ],
     "inStock": true,
     "specs": [],
@@ -13085,7 +13085,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-25-3LLUL.jpg?v=1653380309"
     ],
     "inStock": true,
     "specs": [],
@@ -13103,7 +13103,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-40-3LLUL.jpg?v=1653380335"
     ],
     "inStock": true,
     "specs": [],
@@ -13122,7 +13122,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-60-3LLUL.jpg?v=1653380362"
     ],
     "inStock": true,
     "specs": [],
@@ -13140,7 +13140,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-80-3LLUL.jpg?v=1653380382"
     ],
     "inStock": true,
     "specs": [],
@@ -13158,7 +13158,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-100-3LLUL.jpg?v=1653380402"
     ],
     "inStock": true,
     "specs": [],
@@ -13176,7 +13176,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-15-3LLUL.jpg?v=1653380449"
     ],
     "inStock": true,
     "specs": [],
@@ -13195,7 +13195,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-20-3LLUL.jpg?v=1653380472"
     ],
     "inStock": true,
     "specs": [],
@@ -13213,7 +13213,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-25-3LLUL.jpg?v=1653380491"
     ],
     "inStock": true,
     "specs": [],
@@ -13231,7 +13231,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-30-3LLUL.jpg?v=1653380510"
     ],
     "inStock": false,
     "specs": [],
@@ -13249,7 +13249,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-40-3LLUL.jpg?v=1653380543"
     ],
     "inStock": true,
     "specs": [],
@@ -13267,7 +13267,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-50-3LLUL.jpg?v=1653380573"
     ],
     "inStock": true,
     "specs": [],
@@ -13285,7 +13285,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-60-3LLUL.jpg?v=1653380593"
     ],
     "inStock": true,
     "specs": [],
@@ -13303,7 +13303,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-70-3LLUL.jpg?v=1653380627"
     ],
     "inStock": true,
     "specs": [],
@@ -13321,7 +13321,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-80-3LLUL.jpg?v=1653380648"
     ],
     "inStock": true,
     "specs": [],
@@ -13339,7 +13339,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-90-3LLUL.jpg?v=1653380667"
     ],
     "inStock": true,
     "specs": [],
@@ -13357,7 +13357,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-100-3LLUL.jpg?v=1653380696"
     ],
     "inStock": true,
     "specs": [],
@@ -13376,7 +13376,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-25-3LLUL.jpg?v=1653380722"
     ],
     "inStock": true,
     "specs": [],
@@ -13395,7 +13395,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-40-3LLUL.jpg?v=1653380740"
     ],
     "inStock": true,
     "specs": [],
@@ -13414,7 +13414,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-60-3LLUL.jpg?v=1653380768"
     ],
     "inStock": true,
     "specs": [],
@@ -13432,7 +13432,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-80-3LLUL.jpg?v=1653380786"
     ],
     "inStock": true,
     "specs": [],
@@ -13450,7 +13450,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-100-3LLUL.jpg?v=1653380806"
     ],
     "inStock": true,
     "specs": [],
@@ -13468,7 +13468,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-MCS-100-3LLUL.jpg?v=1653380823"
     ],
     "inStock": true,
     "specs": [],
@@ -13487,7 +13487,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-MCS-100-3LLUL.jpg?v=1653380840"
     ],
     "inStock": true,
     "specs": [],
@@ -13506,7 +13506,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-15-2LLUL.jpg?v=1653380860"
     ],
     "inStock": false,
     "specs": [],
@@ -13525,7 +13525,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-20-2LLUL.jpg?v=1653380906"
     ],
     "inStock": true,
     "specs": [],
@@ -13543,7 +13543,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-25-2LLUL.jpg?v=1653380944"
     ],
     "inStock": true,
     "specs": [],
@@ -13561,7 +13561,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-30-2LLUL.jpg?v=1653380967"
     ],
     "inStock": true,
     "specs": [],
@@ -13579,7 +13579,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-40-2LLUL.jpg?v=1653380989"
     ],
     "inStock": false,
     "specs": [],
@@ -13597,7 +13597,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-50-2LLUL.jpg?v=1653381009"
     ],
     "inStock": true,
     "specs": [],
@@ -13615,7 +13615,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-60-2LLUL.jpg?v=1653381045"
     ],
     "inStock": true,
     "specs": [],
@@ -13633,7 +13633,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-70-2LLUL.jpg?v=1653381062"
     ],
     "inStock": true,
     "specs": [],
@@ -13651,7 +13651,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-80-2LLUL.jpg?v=1653381083"
     ],
     "inStock": true,
     "specs": [],
@@ -13669,7 +13669,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-90-2LLUL.jpg?v=1653381100"
     ],
     "inStock": true,
     "specs": [],
@@ -13687,7 +13687,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-100-2LLUL.jpg?v=1653381130"
     ],
     "inStock": true,
     "specs": [],
@@ -13705,7 +13705,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-15-2LLUL.jpg?v=1653381163"
     ],
     "inStock": true,
     "specs": [],
@@ -13723,7 +13723,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-20-2LLUL.jpg?v=1653381208"
     ],
     "inStock": true,
     "specs": [],
@@ -13741,7 +13741,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-25-2LLUL.jpg?v=1653381230"
     ],
     "inStock": true,
     "specs": [],
@@ -13759,7 +13759,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-30-2LLUL.jpg?v=1653381254"
     ],
     "inStock": true,
     "specs": [],
@@ -13777,7 +13777,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-40-2LLUL.jpg?v=1653381274"
     ],
     "inStock": true,
     "specs": [],
@@ -13795,7 +13795,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-50-2LLUL.jpg?v=1653381294"
     ],
     "inStock": true,
     "specs": [],
@@ -13813,7 +13813,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-60-2LLUL.jpg?v=1653381315"
     ],
     "inStock": true,
     "specs": [],
@@ -13832,7 +13832,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-70-2LLUL.jpg?v=1653381336"
     ],
     "inStock": true,
     "specs": [],
@@ -13850,7 +13850,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-80-2LLUL.jpg?v=1653381367"
     ],
     "inStock": false,
     "specs": [],
@@ -13868,7 +13868,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-90-2LLUL.jpg?v=1653381385"
     ],
     "inStock": true,
     "specs": [],
@@ -13887,7 +13887,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-100-2LLUL.jpg?v=1653381414"
     ],
     "inStock": true,
     "specs": [],
@@ -13906,7 +13906,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-15-3LLUL.jpg?v=1653381434"
     ],
     "inStock": true,
     "specs": [],
@@ -13924,7 +13924,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-20-3LLUL.jpg?v=1653381460"
     ],
     "inStock": true,
     "specs": [],
@@ -13943,7 +13943,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-25-3LLUL.jpg?v=1653381482"
     ],
     "inStock": true,
     "specs": [],
@@ -13961,7 +13961,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-30-3LLUL.jpg?v=1653381506"
     ],
     "inStock": true,
     "specs": [],
@@ -13980,7 +13980,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-40-3LLUL.jpg?v=1653381532"
     ],
     "inStock": true,
     "specs": [],
@@ -13998,7 +13998,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-50-3LLUL.jpg?v=1653381596"
     ],
     "inStock": false,
     "specs": [],
@@ -14016,7 +14016,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-60-3LLUL.jpg?v=1653381632"
     ],
     "inStock": true,
     "specs": [],
@@ -14035,7 +14035,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-70-3LLUL.jpg?v=1653381676"
     ],
     "inStock": true,
     "specs": [],
@@ -14053,7 +14053,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-80-3LLUL.jpg?v=1653381697"
     ],
     "inStock": true,
     "specs": [],
@@ -14071,7 +14071,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-90-3LLUL.jpg?v=1653381717"
     ],
     "inStock": true,
     "specs": [],
@@ -14089,7 +14089,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-100-3LLUL.jpg?v=1653381786"
     ],
     "inStock": true,
     "specs": [],
@@ -14107,7 +14107,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-25-3LLUL.jpg?v=1653381929"
     ],
     "inStock": true,
     "specs": [],
@@ -14126,7 +14126,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-40-3LLUL.jpg?v=1653381956"
     ],
     "inStock": true,
     "specs": [],
@@ -14144,7 +14144,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-60-3LLUL.jpg?v=1653381975"
     ],
     "inStock": true,
     "specs": [],
@@ -14163,7 +14163,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-80-3LLUL.jpg?v=1653381996"
     ],
     "inStock": true,
     "specs": [],
@@ -14181,7 +14181,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-100-3LLUL.jpg?v=1653382019"
     ],
     "inStock": true,
     "specs": [],
@@ -14200,7 +14200,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-15-3LLUL.jpg?v=1653382037"
     ],
     "inStock": true,
     "specs": [],
@@ -14218,7 +14218,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-20-3LLUL.jpg?v=1653382081"
     ],
     "inStock": true,
     "specs": [],
@@ -14236,7 +14236,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-25-3LLUL.jpg?v=1653382101"
     ],
     "inStock": true,
     "specs": [],
@@ -14254,7 +14254,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-30-3LLUL.jpg?v=1653382132"
     ],
     "inStock": false,
     "specs": [],
@@ -14273,7 +14273,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-40-3LLUL.jpg?v=1653382155"
     ],
     "inStock": true,
     "specs": [],
@@ -14291,7 +14291,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-50-3LLUL.jpg?v=1653382185"
     ],
     "inStock": true,
     "specs": [],
@@ -14309,7 +14309,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-60-3LLUL.jpg?v=1653382225"
     ],
     "inStock": false,
     "specs": [],
@@ -14328,7 +14328,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-70-3LLUL.jpg?v=1653382242"
     ],
     "inStock": true,
     "specs": [],
@@ -14347,7 +14347,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-80-3LLUL.jpg?v=1653382261"
     ],
     "inStock": true,
     "specs": [],
@@ -14366,7 +14366,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-90-3LLUL.jpg?v=1653382280"
     ],
     "inStock": true,
     "specs": [],
@@ -14385,7 +14385,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-100-3LLUL.jpg?v=1653382305"
     ],
     "inStock": true,
     "specs": [],
@@ -14404,7 +14404,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-25-3LLUL.jpg?v=1653382324"
     ],
     "inStock": true,
     "specs": [],
@@ -14423,7 +14423,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-40-3LLUL.jpg?v=1653382349"
     ],
     "inStock": true,
     "specs": [],
@@ -14441,7 +14441,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-60-3LLUL.jpg?v=1653382371"
     ],
     "inStock": true,
     "specs": [],
@@ -14459,7 +14459,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-80-3LLUL.jpg?v=1653382393"
     ],
     "inStock": true,
     "specs": [],
@@ -14477,7 +14477,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-100-3LLUL.jpg?v=1653382424"
     ],
     "inStock": true,
     "specs": [],
@@ -14495,7 +14495,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_01181362-bf53-4153-b5ed-2c91c8120380.jpg?v=1628099466"
     ],
     "inStock": true,
     "specs": [],
@@ -14513,7 +14513,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0b5fbf52-afd4-4f4b-a500-8adf748f87af.jpg?v=1628099481"
     ],
     "inStock": true,
     "specs": [],
@@ -14531,7 +14531,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_772da245-e665-4b5d-8f09-f3f03ac2a46c.jpg?v=1628099496"
     ],
     "inStock": true,
     "specs": [],
@@ -14549,7 +14549,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d3770f6e-33b7-4535-9ffc-b0650f7c2ad4.jpg?v=1628099512"
     ],
     "inStock": true,
     "specs": [],
@@ -14567,7 +14567,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7c97dc10-e2bd-4879-a368-0c71b226a28a.jpg?v=1628099526"
     ],
     "inStock": true,
     "specs": [],
@@ -14585,7 +14585,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9b7586e5-1767-4803-9671-12e78b395967.jpg?v=1628099568"
     ],
     "inStock": true,
     "specs": [],
@@ -14603,7 +14603,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_25085bec-c1ba-4cfa-9c55-bde3d62590cc.jpg?v=1628100947"
     ],
     "inStock": true,
     "specs": [],
@@ -14622,7 +14622,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b9e73a52-42fb-4451-8e77-c30a4dd2bcae.jpg?v=1628100990"
     ],
     "inStock": false,
     "specs": [],
@@ -14640,7 +14640,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8d6eba95-e421-4838-bdd5-f8b460ddfa18.jpg?v=1628101026"
     ],
     "inStock": true,
     "specs": [],
@@ -14658,7 +14658,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_39430366-a0ea-4af0-8d25-614cb5f09ed3.jpg?v=1628101054"
     ],
     "inStock": true,
     "specs": [],
@@ -14676,7 +14676,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_19523437-08b6-46bd-9c2a-86bc80127cd8.jpg?v=1628099798"
     ],
     "inStock": true,
     "specs": [],
@@ -14694,7 +14694,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a6796fa1-3024-433c-a6d4-4f1662553753.jpg?v=1628099815"
     ],
     "inStock": true,
     "specs": [],
@@ -14712,7 +14712,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fd564119-9baa-4630-a04e-f4016a66d50a.jpg?v=1628099830"
     ],
     "inStock": true,
     "specs": [],
@@ -14730,7 +14730,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c72ddd7f-b5ec-4efa-a501-d3fad51d9586.jpg?v=1628099843"
     ],
     "inStock": true,
     "specs": [],
@@ -14748,7 +14748,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f5b1f753-4b02-466c-9410-ff6c7ddf8605.jpg?v=1628099887"
     ],
     "inStock": false,
     "specs": [],
@@ -14766,7 +14766,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b6cd7b23-c262-4cab-8287-49cb0668e6fe.jpg?v=1628099901"
     ],
     "inStock": true,
     "specs": [],
@@ -14785,7 +14785,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b32b13e0-b862-4f25-8269-ed42b6e78bc7.jpg?v=1628099917"
     ],
     "inStock": true,
     "specs": [],
@@ -14804,7 +14804,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f7d6142f-38ce-43bb-9f39-2b8e5b76f247.jpg?v=1628099931"
     ],
     "inStock": false,
     "specs": [],
@@ -14822,7 +14822,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e01771d7-b0ce-450b-95a0-91b8f7488d98.jpg?v=1628099946"
     ],
     "inStock": false,
     "specs": [],
@@ -14841,7 +14841,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b0318a26-3806-4d31-843e-64fcab2f0078.jpg?v=1628099960"
     ],
     "inStock": true,
     "specs": [],
@@ -14859,7 +14859,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_dd991e8e-8b38-4041-beb2-7363adc7d4ff.jpg?v=1628099976"
     ],
     "inStock": true,
     "specs": [],
@@ -14877,7 +14877,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD_TS_FixedLockingDevices.jpg?v=1649165179"
     ],
     "inStock": true,
     "specs": [],
@@ -14895,7 +14895,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_236b6de1-0d51-4bfa-825e-56f8af644781.jpg?v=1628101155"
     ],
     "inStock": true,
     "specs": [],
@@ -14913,7 +14913,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d15dbcfc-8023-4c28-9995-9fdee75e6e0e.jpg?v=1628101182"
     ],
     "inStock": true,
     "specs": [],
@@ -14931,7 +14931,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_282497b9-bae7-4215-ae59-3f82487afb9b.jpg?v=1628101239"
     ],
     "inStock": true,
     "specs": [],
@@ -14968,7 +14968,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_bd48da39-0a80-449c-9c92-5b1b37f73692.jpg?v=1628101306"
     ],
     "inStock": true,
     "specs": [],
@@ -14986,7 +14986,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_33faec70-d807-46e9-bf56-59b53247f128.jpg?v=1628101321"
     ],
     "inStock": true,
     "specs": [],
@@ -15005,7 +15005,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_96c3f925-766f-4780-b977-60b52da31390.jpg?v=1628101353"
     ],
     "inStock": true,
     "specs": [],
@@ -15024,7 +15024,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FTU-500-3LLUL.jpg?v=1653490015"
     ],
     "inStock": true,
     "specs": [],
@@ -15042,7 +15042,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FTU-600-3LLUL.jpg?v=1653490073"
     ],
     "inStock": true,
     "specs": [],
@@ -15060,7 +15060,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FMU-600-3LLUL.jpg?v=1653490115"
     ],
     "inStock": true,
     "specs": [],
@@ -15078,7 +15078,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FMU-500-3LLUL.jpg?v=1653490228"
     ],
     "inStock": false,
     "specs": [],
@@ -15096,7 +15096,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-ATU-500-3LLUL.jpg?v=1653490322"
     ],
     "inStock": true,
     "specs": [],
@@ -15115,7 +15115,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-ATU-600-3LLUL.jpg?v=1653490359"
     ],
     "inStock": false,
     "specs": [],
@@ -15133,7 +15133,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FTU-500-3LLUL.jpg?v=1653490400"
     ],
     "inStock": true,
     "specs": [],
@@ -15151,7 +15151,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FTU-600-3LLUL.jpg?v=1653490425"
     ],
     "inStock": true,
     "specs": [],
@@ -15170,7 +15170,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FMU-500-3LLUL.jpg?v=1653490455"
     ],
     "inStock": true,
     "specs": [],
@@ -15188,7 +15188,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FMU-600-3LLUL.jpg?v=1653490484"
     ],
     "inStock": true,
     "specs": [],
@@ -15206,7 +15206,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-ATU-500-3LLUL.jpg?v=1653490510"
     ],
     "inStock": true,
     "specs": [],
@@ -15225,7 +15225,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FTU-500-3LLUL.jpg?v=1653490552"
     ],
     "inStock": true,
     "specs": [],
@@ -15243,7 +15243,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-ATU-600-3LLUL.jpg?v=1653490607"
     ],
     "inStock": true,
     "specs": [],
@@ -15261,7 +15261,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FTU-600-3LLUL.jpg?v=1653490656"
     ],
     "inStock": true,
     "specs": [],
@@ -15280,7 +15280,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FMU-500-3LLUL.jpg?v=1653490679"
     ],
     "inStock": true,
     "specs": [],
@@ -15298,7 +15298,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FMU-600-3LLUL.jpg?v=1653490707"
     ],
     "inStock": true,
     "specs": [],
@@ -15316,7 +15316,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-ATU-500-3LLUL.jpg?v=1653490731"
     ],
     "inStock": true,
     "specs": [],
@@ -15335,7 +15335,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-ATU-600-3LLUL.jpg?v=1653490759"
     ],
     "inStock": true,
     "specs": [],
@@ -15354,7 +15354,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-MCS-600-3LLUL.jpg?v=1653490788"
     ],
     "inStock": true,
     "specs": [],
@@ -15373,7 +15373,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FTU-500-3LLUL.jpg?v=1653490819"
     ],
     "inStock": true,
     "specs": [],
@@ -15392,7 +15392,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-MCP-500-3LLUL.jpg?v=1653490847"
     ],
     "inStock": true,
     "specs": [],
@@ -15410,7 +15410,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FTU-600-3LLUL.jpg?v=1653490865"
     ],
     "inStock": true,
     "specs": [],
@@ -15428,7 +15428,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FMU-600-3LLUL.jpg?v=1653490901"
     ],
     "inStock": true,
     "specs": [],
@@ -15446,7 +15446,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FMU-500-3LLUL.jpg?v=1653490931"
     ],
     "inStock": true,
     "specs": [],
@@ -15464,7 +15464,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-ATU-500-3LLUL.jpg?v=1653490949"
     ],
     "inStock": true,
     "specs": [],
@@ -15482,7 +15482,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-ATU-600-3LLUL.jpg?v=1653490972"
     ],
     "inStock": true,
     "specs": [],
@@ -15500,7 +15500,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FTU-500-3LLUL.jpg?v=1653491032"
     ],
     "inStock": true,
     "specs": [],
@@ -15518,7 +15518,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FTU-600-3LLUL.jpg?v=1653491072"
     ],
     "inStock": true,
     "specs": [],
@@ -15537,7 +15537,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FMU-500-3LLUL.jpg?v=1653491128"
     ],
     "inStock": true,
     "specs": [],
@@ -15555,7 +15555,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FMU-600-3LLUL.jpg?v=1653491184"
     ],
     "inStock": true,
     "specs": [],
@@ -15574,7 +15574,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-ATU-500-3LLUL.jpg?v=1653491212"
     ],
     "inStock": true,
     "specs": [],
@@ -15592,7 +15592,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-ATU-600-3LLUL.jpg?v=1653491259"
     ],
     "inStock": true,
     "specs": [],
@@ -15611,7 +15611,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FTU-500-3LLUL.jpg?v=1653491303"
     ],
     "inStock": true,
     "specs": [],
@@ -15629,7 +15629,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FTU-600-3LLUL.jpg?v=1653491345"
     ],
     "inStock": true,
     "specs": [],
@@ -15648,7 +15648,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FMU-500-3LLUL.jpg?v=1653491374"
     ],
     "inStock": true,
     "specs": [],
@@ -15666,7 +15666,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FMU-600-3LLUL.jpg?v=1653491414"
     ],
     "inStock": true,
     "specs": [],
@@ -15684,7 +15684,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-ATU-500-3LLUL.jpg?v=1653491440"
     ],
     "inStock": true,
     "specs": [],
@@ -15702,7 +15702,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-ATU-600-3LLUL.jpg?v=1653491496"
     ],
     "inStock": false,
     "specs": [],
@@ -15720,7 +15720,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_00085e7e-c25e-4c64-8b92-af463c4609b6.jpg?v=1628099715"
     ],
     "inStock": true,
     "specs": [],
@@ -15738,7 +15738,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_19523437-08b6-46bd-9c2a-86bc80127cd8.jpg?v=1628099798"
     ],
     "inStock": true,
     "specs": [],
@@ -15756,7 +15756,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a6796fa1-3024-433c-a6d4-4f1662553753.jpg?v=1628099815"
     ],
     "inStock": true,
     "specs": [],
@@ -15775,7 +15775,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fd564119-9baa-4630-a04e-f4016a66d50a.jpg?v=1628099830"
     ],
     "inStock": true,
     "specs": [],
@@ -15793,7 +15793,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c72ddd7f-b5ec-4efa-a501-d3fad51d9586.jpg?v=1628099843"
     ],
     "inStock": true,
     "specs": [],
@@ -15811,7 +15811,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f5b1f753-4b02-466c-9410-ff6c7ddf8605.jpg?v=1628099887"
     ],
     "inStock": true,
     "specs": [],
@@ -15829,7 +15829,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b6cd7b23-c262-4cab-8287-49cb0668e6fe.jpg?v=1628099901"
     ],
     "inStock": true,
     "specs": [],
@@ -15847,7 +15847,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b32b13e0-b862-4f25-8269-ed42b6e78bc7.jpg?v=1628099917"
     ],
     "inStock": true,
     "specs": [],
@@ -15866,7 +15866,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f7d6142f-38ce-43bb-9f39-2b8e5b76f247.jpg?v=1628099931"
     ],
     "inStock": true,
     "specs": [],
@@ -15885,7 +15885,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e01771d7-b0ce-450b-95a0-91b8f7488d98.jpg?v=1628099946"
     ],
     "inStock": true,
     "specs": [],
@@ -15904,7 +15904,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b0318a26-3806-4d31-843e-64fcab2f0078.jpg?v=1628099960"
     ],
     "inStock": true,
     "specs": [],
@@ -15923,7 +15923,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_dd991e8e-8b38-4041-beb2-7363adc7d4ff.jpg?v=1628099976"
     ],
     "inStock": true,
     "specs": [],
@@ -15942,7 +15942,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-175-3LLUL.jpg?v=1653470704"
     ],
     "inStock": true,
     "specs": [],
@@ -15961,7 +15961,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-150-3LLUL.jpg?v=1653470745"
     ],
     "inStock": true,
     "specs": [],
@@ -15979,7 +15979,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-200-3LLUL.jpg?v=1653470784"
     ],
     "inStock": true,
     "specs": [],
@@ -15997,7 +15997,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-225-3LLUL.jpg?v=1653470805"
     ],
     "inStock": true,
     "specs": [],
@@ -16016,7 +16016,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-250-3LLUL.jpg?v=1653470827"
     ],
     "inStock": true,
     "specs": [],
@@ -16035,7 +16035,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FMU-160-3LLUL.jpg?v=1653470848"
     ],
     "inStock": true,
     "specs": [],
@@ -16053,7 +16053,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FMU-200-3LLUL.jpg?v=1653470869"
     ],
     "inStock": true,
     "specs": [],
@@ -16072,7 +16072,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FMU-250-3LLUL.jpg?v=1653470889"
     ],
     "inStock": false,
     "specs": [],
@@ -16091,7 +16091,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-ATU-160-3LLUL.jpg?v=1653470918"
     ],
     "inStock": true,
     "specs": [],
@@ -16110,7 +16110,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-ATU-250-3LLUL.jpg?v=1653470939"
     ],
     "inStock": true,
     "specs": [],
@@ -16129,7 +16129,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-ATU-200-3LLUL.jpg?v=1653470965"
     ],
     "inStock": false,
     "specs": [],
@@ -16148,7 +16148,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-150-3LLUL.jpg?v=1653470983"
     ],
     "inStock": true,
     "specs": [],
@@ -16167,7 +16167,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-175-3LLUL.jpg?v=1653472110"
     ],
     "inStock": false,
     "specs": [],
@@ -16186,7 +16186,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-200-3LLUL.jpg?v=1653472164"
     ],
     "inStock": true,
     "specs": [],
@@ -16204,7 +16204,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-225-3LLUL.jpg?v=1653472194"
     ],
     "inStock": true,
     "specs": [],
@@ -16223,7 +16223,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-250-3LLUL.jpg?v=1653472218"
     ],
     "inStock": true,
     "specs": [],
@@ -16241,7 +16241,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FMU-160-3LLUL.jpg?v=1653472249"
     ],
     "inStock": false,
     "specs": [],
@@ -16259,7 +16259,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FMU-200-3LLUL.jpg?v=1653472278"
     ],
     "inStock": true,
     "specs": [],
@@ -16277,7 +16277,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FMU-250-3LLUL.jpg?v=1653472307"
     ],
     "inStock": true,
     "specs": [],
@@ -16296,7 +16296,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-ATU-160-3LLUL.jpg?v=1653472349"
     ],
     "inStock": true,
     "specs": [],
@@ -16314,7 +16314,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-ATU-200-3LLUL.jpg?v=1653472386"
     ],
     "inStock": true,
     "specs": [],
@@ -16332,7 +16332,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-ATU-250-3LLUL.jpg?v=1653472415"
     ],
     "inStock": true,
     "specs": [],
@@ -16350,7 +16350,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-150-3LLUL.jpg?v=1653472439"
     ],
     "inStock": false,
     "specs": [],
@@ -16368,7 +16368,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-200-3LLUL.jpg?v=1653472464"
     ],
     "inStock": true,
     "specs": [],
@@ -16386,7 +16386,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-175-3LLUL.jpg?v=1653472490"
     ],
     "inStock": true,
     "specs": [],
@@ -16404,7 +16404,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-225-3LLUL.jpg?v=1653472518"
     ],
     "inStock": true,
     "specs": [],
@@ -16422,7 +16422,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-250-3LLUL.jpg?v=1653472540"
     ],
     "inStock": true,
     "specs": [],
@@ -16440,7 +16440,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FMU-160-3LLUL.jpg?v=1653472565"
     ],
     "inStock": true,
     "specs": [],
@@ -16458,7 +16458,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FMU-250-3LLUL.jpg?v=1653472593"
     ],
     "inStock": true,
     "specs": [],
@@ -16476,7 +16476,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FMU-200-3LLUL.jpg?v=1653472621"
     ],
     "inStock": true,
     "specs": [],
@@ -16494,7 +16494,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-ATU-160-3LLUL.jpg?v=1653472638"
     ],
     "inStock": true,
     "specs": [],
@@ -16513,7 +16513,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-ATU-200-3LLUL.jpg?v=1653472660"
     ],
     "inStock": false,
     "specs": [],
@@ -16532,7 +16532,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-ATU-250-3LLUL.jpg?v=1653472708"
     ],
     "inStock": true,
     "specs": [],
@@ -16551,7 +16551,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-MCP-220-3LLUL.jpg?v=1653472726"
     ],
     "inStock": true,
     "specs": [],
@@ -16569,7 +16569,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-MCS-175-3LLUL.jpg?v=1653472748"
     ],
     "inStock": true,
     "specs": [],
@@ -16588,7 +16588,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-150-3LLUL.jpg?v=1653472768"
     ],
     "inStock": true,
     "specs": [],
@@ -16606,7 +16606,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-MCS-250-3LLUL.jpg?v=1653472790"
     ],
     "inStock": true,
     "specs": [],
@@ -16625,7 +16625,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-175-3LLUL.jpg?v=1653472810"
     ],
     "inStock": true,
     "specs": [],
@@ -16643,7 +16643,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-200-3LLUL.jpg?v=1653472833"
     ],
     "inStock": false,
     "specs": [],
@@ -16661,7 +16661,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-225-3LLUL.jpg?v=1653472865"
     ],
     "inStock": true,
     "specs": [],
@@ -16680,7 +16680,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-250-3LLUL.jpg?v=1653472903"
     ],
     "inStock": true,
     "specs": [],
@@ -16698,7 +16698,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FMU-160-3LLUL.jpg?v=1653472931"
     ],
     "inStock": true,
     "specs": [],
@@ -16717,7 +16717,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FMU-200-3LLUL.jpg?v=1653472955"
     ],
     "inStock": true,
     "specs": [],
@@ -16735,7 +16735,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FMU-250-3LLUL.jpg?v=1653472977"
     ],
     "inStock": true,
     "specs": [],
@@ -16753,7 +16753,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-ATU-160-3LLUL.jpg?v=1653473013"
     ],
     "inStock": true,
     "specs": [],
@@ -16771,7 +16771,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-ATU-200-3LLUL.jpg?v=1653473034"
     ],
     "inStock": true,
     "specs": [],
@@ -16790,7 +16790,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-ATU-250-3LLUL.jpg?v=1653473057"
     ],
     "inStock": false,
     "specs": [],
@@ -16808,7 +16808,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-150-3LLUL.jpg?v=1653473074"
     ],
     "inStock": true,
     "specs": [],
@@ -16826,7 +16826,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-175-3LLUL.jpg?v=1653473096"
     ],
     "inStock": true,
     "specs": [],
@@ -16844,7 +16844,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-200-3LLUL.jpg?v=1653473164"
     ],
     "inStock": true,
     "specs": [],
@@ -16863,7 +16863,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-225-3LLUL.jpg?v=1653473218"
     ],
     "inStock": true,
     "specs": [],
@@ -16882,7 +16882,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-250-3LLUL.jpg?v=1653475433"
     ],
     "inStock": true,
     "specs": [],
@@ -16900,7 +16900,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FMU-160-3LLUL.jpg?v=1653475451"
     ],
     "inStock": true,
     "specs": [],
@@ -16918,7 +16918,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FMU-250-3LLUL.jpg?v=1653475478"
     ],
     "inStock": true,
     "specs": [],
@@ -16936,7 +16936,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FMU-200-3LLUL.jpg?v=1653475494"
     ],
     "inStock": true,
     "specs": [],
@@ -16954,7 +16954,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-ATU-200-3LLUL.jpg?v=1653475514"
     ],
     "inStock": false,
     "specs": [],
@@ -16972,7 +16972,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-ATU-160-3LLUL.jpg?v=1653475533"
     ],
     "inStock": true,
     "specs": [],
@@ -16990,7 +16990,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-ATU-250-3LLUL.jpg?v=1653475555"
     ],
     "inStock": true,
     "specs": [],
@@ -17008,7 +17008,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-150-3LLUL.jpg?v=1653475582"
     ],
     "inStock": false,
     "specs": [],
@@ -17026,7 +17026,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-175-3LLUL.jpg?v=1653475618"
     ],
     "inStock": true,
     "specs": [],
@@ -17044,7 +17044,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-200-3LLUL.jpg?v=1653475678"
     ],
     "inStock": false,
     "specs": [],
@@ -17062,7 +17062,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-225-3LLUL.jpg?v=1653475702"
     ],
     "inStock": true,
     "specs": [],
@@ -17081,7 +17081,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FMU-160-3LLUL.jpg?v=1653475722"
     ],
     "inStock": true,
     "specs": [],
@@ -17100,7 +17100,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-250-3LLUL.jpg?v=1653475748"
     ],
     "inStock": true,
     "specs": [],
@@ -17118,7 +17118,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FMU-250-3LLUL.jpg?v=1653475767"
     ],
     "inStock": true,
     "specs": [],
@@ -17136,7 +17136,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FMU-200-3LLUL.jpg?v=1653475789"
     ],
     "inStock": true,
     "specs": [],
@@ -17154,7 +17154,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-ATU-200-3LLUL.jpg?v=1653475809"
     ],
     "inStock": true,
     "specs": [],
@@ -17172,7 +17172,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-ATU-160-3LLUL.jpg?v=1653475828"
     ],
     "inStock": true,
     "specs": [],
@@ -17190,7 +17190,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-ATU-250-3LLUL.jpg?v=1653475845"
     ],
     "inStock": true,
     "specs": [],
@@ -17208,7 +17208,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-400-3LLUL.jpg?v=1653491963"
     ],
     "inStock": true,
     "specs": [],
@@ -17227,7 +17227,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-400-3LLUL.jpg?v=1653492002"
     ],
     "inStock": true,
     "specs": [],
@@ -17245,7 +17245,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-400-3LLUL.jpg?v=1653492037"
     ],
     "inStock": true,
     "specs": [],
@@ -17263,7 +17263,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-400-3LLUL.jpg?v=1653492077"
     ],
     "inStock": true,
     "specs": [],
@@ -17282,7 +17282,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG2-400-3LLUL.jpg?v=1653492119"
     ],
     "inStock": true,
     "specs": [],
@@ -17300,7 +17300,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-400-3LLUL.jpg?v=1653492149"
     ],
     "inStock": false,
     "specs": [],
@@ -17318,7 +17318,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG6-400-3LLUL.jpg?v=1653492185"
     ],
     "inStock": true,
     "specs": [],
@@ -17336,7 +17336,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-400-3LLUL.jpg?v=1653492272"
     ],
     "inStock": true,
     "specs": [],
@@ -17354,7 +17354,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-400-3LLUL.jpg?v=1653492303"
     ],
     "inStock": true,
     "specs": [],
@@ -17373,7 +17373,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-400-3LLUL.jpg?v=1653492342"
     ],
     "inStock": true,
     "specs": [],
@@ -17392,7 +17392,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-400-3LLUL.jpg?v=1653492377"
     ],
     "inStock": true,
     "specs": [],
@@ -17410,7 +17410,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-400-3LLUL.jpg?v=1653492451"
     ],
     "inStock": true,
     "specs": [],
@@ -17428,7 +17428,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-400-3LLUL.jpg?v=1653492478"
     ],
     "inStock": true,
     "specs": [],
@@ -17446,7 +17446,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-400-3LLUL.jpg?v=1653492500"
     ],
     "inStock": true,
     "specs": [],
@@ -17465,7 +17465,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-400-3LLUL.jpg?v=1653492677"
     ],
     "inStock": true,
     "specs": [],
@@ -17483,7 +17483,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-400-3LLUL.jpg?v=1653492721"
     ],
     "inStock": true,
     "specs": [],
@@ -17501,7 +17501,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-400-3LLUL.jpg?v=1653492762"
     ],
     "inStock": false,
     "specs": [],
@@ -17519,7 +17519,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-400-3LLUL.jpg?v=1653492812"
     ],
     "inStock": true,
     "specs": [],
@@ -17538,7 +17538,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-400-3LLUL.jpg?v=1653492848"
     ],
     "inStock": true,
     "specs": [],
@@ -17557,7 +17557,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-400-3LLUL.jpg?v=1653492923"
     ],
     "inStock": true,
     "specs": [],
@@ -17575,7 +17575,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-400-3LLUL.jpg?v=1653493025"
     ],
     "inStock": true,
     "specs": [],
@@ -17593,7 +17593,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_779fe005-9dd3-48f5-9ca1-1df983234d1a.jpg?v=1606920657"
     ],
     "inStock": true,
     "specs": [],
@@ -17611,7 +17611,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC1-400-3LLUL.jpg?v=1653493054"
     ],
     "inStock": true,
     "specs": [],
@@ -17629,7 +17629,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-400-3LLUL.jpg?v=1653493081"
     ],
     "inStock": true,
     "specs": [],
@@ -17647,7 +17647,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-400-3LLUL.jpg?v=1653493111"
     ],
     "inStock": true,
     "specs": [],
@@ -17665,7 +17665,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC7-400-3LLUL.jpg?v=1653493138"
     ],
     "inStock": true,
     "specs": [],
@@ -17683,7 +17683,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-400-3LLUL.jpg?v=1653493178"
     ],
     "inStock": true,
     "specs": [],
@@ -17701,7 +17701,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-400-3LLUL.jpg?v=1653493200"
     ],
     "inStock": true,
     "specs": [],
@@ -17720,7 +17720,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-400-3LLUL.jpg?v=1653493228"
     ],
     "inStock": true,
     "specs": [],
@@ -17738,7 +17738,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-400-3LLUL.jpg?v=1653493290"
     ],
     "inStock": true,
     "specs": [],
@@ -17757,7 +17757,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-400-3LLUL.jpg?v=1653493313"
     ],
     "inStock": true,
     "specs": [],
@@ -17775,7 +17775,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-400-3LLUL.jpg?v=1653493345"
     ],
     "inStock": false,
     "specs": [],
@@ -17793,7 +17793,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC6-400-3LLUL.jpg?v=1653493372"
     ],
     "inStock": true,
     "specs": [],
@@ -17811,7 +17811,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-400-3LLUL.jpg?v=1653493408"
     ],
     "inStock": true,
     "specs": [],
@@ -17829,7 +17829,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-400-3LLUL.jpg?v=1653493443"
     ],
     "inStock": true,
     "specs": [],
@@ -17848,7 +17848,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-400-3LLUL.jpg?v=1653493469"
     ],
     "inStock": true,
     "specs": [],
@@ -17866,7 +17866,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-400-3LLUL.jpg?v=1653493540"
     ],
     "inStock": true,
     "specs": [],
@@ -17884,7 +17884,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-400-3LLUL.jpg?v=1653493577"
     ],
     "inStock": true,
     "specs": [],
@@ -17902,7 +17902,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-600-3LLUL.jpg?v=1653493631"
     ],
     "inStock": true,
     "specs": [],
@@ -17920,7 +17920,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-600-3LLUL.jpg?v=1653493661"
     ],
     "inStock": true,
     "specs": [],
@@ -17938,7 +17938,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-600-3LLUL.jpg?v=1653493692"
     ],
     "inStock": true,
     "specs": [],
@@ -17957,7 +17957,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-600-3LLUL.jpg?v=1653493738"
     ],
     "inStock": true,
     "specs": [],
@@ -17975,7 +17975,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG2-600-3LLUL.jpg?v=1653493815"
     ],
     "inStock": true,
     "specs": [],
@@ -17993,7 +17993,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-600-3LLUL.jpg?v=1653493843"
     ],
     "inStock": true,
     "specs": [],
@@ -18011,7 +18011,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_b9c57e89-5836-49bf-a4b4-12f9ab58bde6.jpg?v=1606920689"
     ],
     "inStock": true,
     "specs": [],
@@ -18029,7 +18029,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-600-3LLUL.jpg?v=1653493924"
     ],
     "inStock": true,
     "specs": [],
@@ -18048,7 +18048,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-600-3LLUL.jpg?v=1653493967"
     ],
     "inStock": true,
     "specs": [],
@@ -18067,7 +18067,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-600-3LLUL.jpg?v=1653494025"
     ],
     "inStock": false,
     "specs": [],
@@ -18085,7 +18085,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-600-3LLUL.jpg?v=1653494057"
     ],
     "inStock": true,
     "specs": [],
@@ -18104,7 +18104,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-600-3LLUL.jpg?v=1653494083"
     ],
     "inStock": false,
     "specs": [],
@@ -18122,7 +18122,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-600-3LLUL.jpg?v=1653494112"
     ],
     "inStock": true,
     "specs": [],
@@ -18140,7 +18140,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-600-3LLUL.jpg?v=1653494165"
     ],
     "inStock": true,
     "specs": [],
@@ -18159,7 +18159,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-600-3LLUL.jpg?v=1653494187"
     ],
     "inStock": true,
     "specs": [],
@@ -18178,7 +18178,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-600-3LLUL.jpg?v=1653494225"
     ],
     "inStock": true,
     "specs": [],
@@ -18196,7 +18196,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-600-3LLUL.jpg?v=1653494275"
     ],
     "inStock": true,
     "specs": [],
@@ -18214,7 +18214,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-600-3LLUL.jpg?v=1653494316"
     ],
     "inStock": true,
     "specs": [],
@@ -18232,7 +18232,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-600-3LLUL.jpg?v=1653494375"
     ],
     "inStock": true,
     "specs": [],
@@ -18250,7 +18250,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-600-3LLUL.jpg?v=1653494408"
     ],
     "inStock": true,
     "specs": [],
@@ -18269,7 +18269,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX6-600-3LLUL.jpg?v=1653494462"
     ],
     "inStock": true,
     "specs": [],
@@ -18288,7 +18288,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-600-3LLUL.jpg?v=1653494505"
     ],
     "inStock": true,
     "specs": [],
@@ -18307,7 +18307,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC1-600-3LLUL.jpg?v=1653494525"
     ],
     "inStock": true,
     "specs": [],
@@ -18326,7 +18326,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-600-3LLUL.jpg?v=1653494551"
     ],
     "inStock": true,
     "specs": [],
@@ -18344,7 +18344,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-600-3LLUL.jpg?v=1653494578"
     ],
     "inStock": true,
     "specs": [],
@@ -18362,7 +18362,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC7-600-3LLUL.jpg?v=1653494623"
     ],
     "inStock": true,
     "specs": [],
@@ -18380,7 +18380,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-600-3LLUL.jpg?v=1653494649"
     ],
     "inStock": true,
     "specs": [],
@@ -18398,7 +18398,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-600-3LLUL.jpg?v=1653494682"
     ],
     "inStock": true,
     "specs": [],
@@ -18416,7 +18416,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-600-3LLUL.jpg?v=1653494705"
     ],
     "inStock": true,
     "specs": [],
@@ -18434,7 +18434,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-600-3LLUL.jpg?v=1653494742"
     ],
     "inStock": true,
     "specs": [],
@@ -18452,7 +18452,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-600-3LLUL.jpg?v=1653494781"
     ],
     "inStock": true,
     "specs": [],
@@ -18471,7 +18471,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-600-3LLUL.jpg?v=1653494811"
     ],
     "inStock": true,
     "specs": [],
@@ -18489,7 +18489,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC6-600-3LLUL.jpg?v=1653494844"
     ],
     "inStock": true,
     "specs": [],
@@ -18507,7 +18507,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-600-3LLUL.jpg?v=1653494873"
     ],
     "inStock": true,
     "specs": [],
@@ -18525,7 +18525,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-600-3LLUL.jpg?v=1653494893"
     ],
     "inStock": true,
     "specs": [],
@@ -18543,7 +18543,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-600-3LLUL.jpg?v=1653494918"
     ],
     "inStock": true,
     "specs": [],
@@ -18562,7 +18562,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-600-3LLUL.jpg?v=1653494936"
     ],
     "inStock": true,
     "specs": [],
@@ -18580,7 +18580,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-600-3LLUL.jpg?v=1653494977"
     ],
     "inStock": true,
     "specs": [],
@@ -18599,7 +18599,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-630-3LLUL.jpg?v=1653495004"
     ],
     "inStock": true,
     "specs": [],
@@ -18617,7 +18617,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-630-3LLUL.jpg?v=1653495045"
     ],
     "inStock": true,
     "specs": [],
@@ -18635,7 +18635,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-630-3LLUL.jpg?v=1653495085"
     ],
     "inStock": true,
     "specs": [],
@@ -18653,7 +18653,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-630-3LLUL.jpg?v=1653495113"
     ],
     "inStock": true,
     "specs": [],
@@ -18672,7 +18672,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG2-630-3LLUL.jpg?v=1653495150"
     ],
     "inStock": true,
     "specs": [],
@@ -18690,7 +18690,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-630-3LLUL.jpg?v=1653495197"
     ],
     "inStock": true,
     "specs": [],
@@ -18709,7 +18709,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG6-630-3LLUL.jpg?v=1653495231"
     ],
     "inStock": true,
     "specs": [],
@@ -18728,7 +18728,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-630-3LLUL.jpg?v=1653495267"
     ],
     "inStock": true,
     "specs": [],
@@ -18746,7 +18746,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-630-3LLUL.jpg?v=1653495295"
     ],
     "inStock": true,
     "specs": [],
@@ -18765,7 +18765,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-630-3LLUL.jpg?v=1653495334"
     ],
     "inStock": true,
     "specs": [],
@@ -18784,7 +18784,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-630-3LLUL.jpg?v=1653495381"
     ],
     "inStock": true,
     "specs": [],
@@ -18802,7 +18802,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-630-3LLUL.jpg?v=1653495427"
     ],
     "inStock": true,
     "specs": [],
@@ -18820,7 +18820,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-630-3LLUL.jpg?v=1653495465"
     ],
     "inStock": true,
     "specs": [],
@@ -18838,7 +18838,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-630-3LLUL.jpg?v=1653495545"
     ],
     "inStock": true,
     "specs": [],
@@ -18857,7 +18857,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-630-3LLUL.jpg?v=1653495575"
     ],
     "inStock": true,
     "specs": [],
@@ -18875,7 +18875,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-630-3LLUL.jpg?v=1653495598"
     ],
     "inStock": true,
     "specs": [],
@@ -18893,7 +18893,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-630-3LLUL.jpg?v=1653495623"
     ],
     "inStock": true,
     "specs": [],
@@ -18912,7 +18912,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-630-3LLUL.jpg?v=1653495648"
     ],
     "inStock": true,
     "specs": [],
@@ -18930,7 +18930,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-630-3LLUL.jpg?v=1653495679"
     ],
     "inStock": false,
     "specs": [],
@@ -18949,7 +18949,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-630-3LLUL.jpg?v=1653495738"
     ],
     "inStock": true,
     "specs": [],
@@ -18967,7 +18967,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX6-630-3LLUL.jpg?v=1653495765"
     ],
     "inStock": true,
     "specs": [],
@@ -18985,7 +18985,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-630-3LLUL.jpg?v=1653495787"
     ],
     "inStock": true,
     "specs": [],
@@ -19003,7 +19003,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC1-630-3LLUL.jpg?v=1653495812"
     ],
     "inStock": true,
     "specs": [],
@@ -19022,7 +19022,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-630-3LLUL.jpg?v=1653495836"
     ],
     "inStock": true,
     "specs": [],
@@ -19040,7 +19040,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-630-3LLUL.jpg?v=1653495857"
     ],
     "inStock": false,
     "specs": [],
@@ -19059,7 +19059,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC7-630-3LLUL.jpg?v=1653495888"
     ],
     "inStock": false,
     "specs": [],
@@ -19077,7 +19077,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-630-3LLUL.jpg?v=1653495910"
     ],
     "inStock": true,
     "specs": [],
@@ -19095,7 +19095,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-630-3LLUL.jpg?v=1653495963"
     ],
     "inStock": true,
     "specs": [],
@@ -19114,7 +19114,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-630-3LLUL.jpg?v=1653495986"
     ],
     "inStock": true,
     "specs": [],
@@ -19133,7 +19133,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-630-3LLUL.jpg?v=1653496021"
     ],
     "inStock": true,
     "specs": [],
@@ -19151,7 +19151,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-630-3LLUL.jpg?v=1653496056"
     ],
     "inStock": true,
     "specs": [],
@@ -19170,7 +19170,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-630-3LLUL.jpg?v=1653496112"
     ],
     "inStock": true,
     "specs": [],
@@ -19188,7 +19188,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_01e64bf6-4d79-4500-9487-43d708b688c8.jpg?v=1606920770"
     ],
     "inStock": true,
     "specs": [],
@@ -19207,7 +19207,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-630-3LLUL.jpg?v=1653496142"
     ],
     "inStock": true,
     "specs": [],
@@ -19226,7 +19226,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-630-3LLUL.jpg?v=1653551560"
     ],
     "inStock": false,
     "specs": [],
@@ -19244,7 +19244,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-630-3LLUL.jpg?v=1653551596"
     ],
     "inStock": true,
     "specs": [],
@@ -19262,7 +19262,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-630-3LLUL.jpg?v=1653551623"
     ],
     "inStock": true,
     "specs": [],
@@ -19280,7 +19280,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-630-3LLUL.jpg?v=1653551641"
     ],
     "inStock": true,
     "specs": [],
@@ -19299,7 +19299,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-800-3LLUL.jpg?v=1653551667"
     ],
     "inStock": true,
     "specs": [],
@@ -19317,7 +19317,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-800-3LLUL.jpg?v=1653551691"
     ],
     "inStock": true,
     "specs": [],
@@ -19335,7 +19335,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-800-3LLUL.jpg?v=1653551717"
     ],
     "inStock": true,
     "specs": [],
@@ -19353,7 +19353,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-800-3LLUL.jpg?v=1653551741"
     ],
     "inStock": true,
     "specs": [],
@@ -19371,7 +19371,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_757a9da2-7578-41fb-9664-a3b25d519fe2.jpg?v=1606920781"
     ],
     "inStock": true,
     "specs": [],
@@ -19389,7 +19389,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-800-3LLUL.jpg?v=1653551787"
     ],
     "inStock": false,
     "specs": [],
@@ -19407,7 +19407,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG6-800-3LLUL.jpg?v=1653551822"
     ],
     "inStock": true,
     "specs": [],
@@ -19425,7 +19425,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-800-3LLUL.jpg?v=1653551852"
     ],
     "inStock": true,
     "specs": [],
@@ -19443,7 +19443,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-800-3LLUL.jpg?v=1653551877"
     ],
     "inStock": true,
     "specs": [],
@@ -19461,7 +19461,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-800-3LLUL.jpg?v=1653551896"
     ],
     "inStock": true,
     "specs": [],
@@ -19479,7 +19479,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-800-3LLUL.jpg?v=1653551915"
     ],
     "inStock": true,
     "specs": [],
@@ -19497,7 +19497,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-800-3LLUL.jpg?v=1653551942"
     ],
     "inStock": true,
     "specs": [],
@@ -19515,7 +19515,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-800-3LLUL.jpg?v=1653551961"
     ],
     "inStock": true,
     "specs": [],
@@ -19533,7 +19533,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-800-3LLUL.jpg?v=1653551981"
     ],
     "inStock": true,
     "specs": [],
@@ -19551,7 +19551,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-800-3LLUL.jpg?v=1653551999"
     ],
     "inStock": true,
     "specs": [],
@@ -19569,7 +19569,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-800-3LLUL.jpg?v=1653552017"
     ],
     "inStock": true,
     "specs": [],
@@ -19588,7 +19588,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-800-3LLUL.jpg?v=1653552037"
     ],
     "inStock": false,
     "specs": [],
@@ -19607,7 +19607,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-800-3LLUL.jpg?v=1653552057"
     ],
     "inStock": true,
     "specs": [],
@@ -19626,7 +19626,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-800-3LLUL.jpg?v=1653552075"
     ],
     "inStock": true,
     "specs": [],
@@ -19645,7 +19645,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-800-3LLUL.jpg?v=1653552096"
     ],
     "inStock": true,
     "specs": [],
@@ -19663,7 +19663,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX6-800-3LLUL.jpg?v=1653552113"
     ],
     "inStock": true,
     "specs": [],
@@ -19682,7 +19682,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-800-3LLUL.jpg?v=1653552135"
     ],
     "inStock": true,
     "specs": [],
@@ -19700,7 +19700,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_4e35a082-d8f1-44ce-9057-aaf9a59dc0c0.jpg?v=1606920801"
     ],
     "inStock": true,
     "specs": [],
@@ -19719,7 +19719,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-800-3LLUL.jpg?v=1653552733"
     ],
     "inStock": true,
     "specs": [],
@@ -19737,7 +19737,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-800-3LLUL.jpg?v=1653552780"
     ],
     "inStock": true,
     "specs": [],
@@ -19755,7 +19755,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_24141b9d-7746-4c66-a794-584e4a548b74.jpg?v=1606920806"
     ],
     "inStock": true,
     "specs": [],
@@ -19773,7 +19773,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-800-3LLUL.jpg?v=1653552903"
     ],
     "inStock": true,
     "specs": [],
@@ -19791,7 +19791,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-800-3LLUL.jpg?v=1653552939"
     ],
     "inStock": true,
     "specs": [],
@@ -19809,7 +19809,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-800-3LLUL.jpg?v=1653552986"
     ],
     "inStock": true,
     "specs": [],
@@ -19827,7 +19827,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-800-3LLUL.jpg?v=1653553041"
     ],
     "inStock": true,
     "specs": [],
@@ -19846,7 +19846,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-800-3LLUL.jpg?v=1653553112"
     ],
     "inStock": true,
     "specs": [],
@@ -19865,7 +19865,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-800-3LLUL.jpg?v=1653553192"
     ],
     "inStock": true,
     "specs": [],
@@ -19883,7 +19883,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC6-800-3LLUL.jpg?v=1653553247"
     ],
     "inStock": true,
     "specs": [],
@@ -19901,7 +19901,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-800-3LLUL.jpg?v=1653553288"
     ],
     "inStock": true,
     "specs": [],
@@ -19919,7 +19919,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-800-3LLUL.jpg?v=1653553331"
     ],
     "inStock": true,
     "specs": [],
@@ -19938,7 +19938,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-800-3LLUL.jpg?v=1653553360"
     ],
     "inStock": true,
     "specs": [],
@@ -19956,7 +19956,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-800-3LLUL.jpg?v=1653553384"
     ],
     "inStock": true,
     "specs": [],
@@ -19974,7 +19974,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-800-3LLUL.jpg?v=1653553412"
     ],
     "inStock": true,
     "specs": [],
@@ -19993,7 +19993,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG0-400-3LLUL.jpg?v=1653553436"
     ],
     "inStock": true,
     "specs": [],
@@ -20011,7 +20011,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG5-400-3LLUL.jpg?v=1653553462"
     ],
     "inStock": true,
     "specs": [],
@@ -20030,7 +20030,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG0-400-3LLUL.jpg?v=1653553484"
     ],
     "inStock": true,
     "specs": [],
@@ -20048,7 +20048,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG1-400-3LLUL.jpg?v=1653553506"
     ],
     "inStock": true,
     "specs": [],
@@ -20066,7 +20066,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG2-400-3LLUL.jpg?v=1653553523"
     ],
     "inStock": true,
     "specs": [],
@@ -20084,7 +20084,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG5-400-3LLUL.jpg?v=1653553553"
     ],
     "inStock": true,
     "specs": [],
@@ -20102,7 +20102,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG6-400-3LLUL.jpg?v=1653553585"
     ],
     "inStock": true,
     "specs": [],
@@ -20121,7 +20121,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG7-400-3LLUL.jpg?v=1653553610"
     ],
     "inStock": true,
     "specs": [],
@@ -20139,7 +20139,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE0-400-3LLUL.jpg?v=1653553641"
     ],
     "inStock": true,
     "specs": [],
@@ -20158,7 +20158,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE1-400-3LLUL.jpg?v=1653553676"
     ],
     "inStock": true,
     "specs": [],
@@ -20176,7 +20176,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE2-400-3LLUL.jpg?v=1653553692"
     ],
     "inStock": true,
     "specs": [],
@@ -20194,7 +20194,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE5-400-3LLUL.jpg?v=1653553816"
     ],
     "inStock": true,
     "specs": [],
@@ -20213,7 +20213,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE6-400-3LLUL.jpg?v=1653553880"
     ],
     "inStock": true,
     "specs": [],
@@ -20231,7 +20231,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE7-400-3LLUL.jpg?v=1653553911"
     ],
     "inStock": true,
     "specs": [],
@@ -20249,7 +20249,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC1-400-3LLUL.jpg?v=1653554027"
     ],
     "inStock": true,
     "specs": [],
@@ -20267,7 +20267,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC2-400-3LLUL.jpg?v=1653554094"
     ],
     "inStock": true,
     "specs": [],
@@ -20285,7 +20285,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC6-400-3LLUL.jpg?v=1653554117"
     ],
     "inStock": true,
     "specs": [],
@@ -20303,7 +20303,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC7-400-3LLUL.jpg?v=1653554157"
     ],
     "inStock": true,
     "specs": [],
@@ -20321,7 +20321,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX1-400-3LLUL.jpg?v=1653554192"
     ],
     "inStock": false,
     "specs": [],
@@ -20339,7 +20339,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX2-400-3LLUL.jpg?v=1653554360"
     ],
     "inStock": false,
     "specs": [],
@@ -20357,7 +20357,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX6-400-3LLUL.jpg?v=1653554382"
     ],
     "inStock": true,
     "specs": [],
@@ -20375,7 +20375,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX7-400-3LLUL.jpg?v=1653554403"
     ],
     "inStock": true,
     "specs": [],
@@ -20394,7 +20394,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC1-400-3LLUL.jpg?v=1653554420"
     ],
     "inStock": true,
     "specs": [],
@@ -20412,7 +20412,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC2-400-3LLUL.jpg?v=1653554564"
     ],
     "inStock": true,
     "specs": [],
@@ -20431,7 +20431,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC6-400-3LLUL.jpg?v=1653554590"
     ],
     "inStock": true,
     "specs": [],
@@ -20449,7 +20449,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC7-400-3LLUL.jpg?v=1653554609"
     ],
     "inStock": true,
     "specs": [],
@@ -20467,7 +20467,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX1-400-3LLUL.jpg?v=1653554627"
     ],
     "inStock": true,
     "specs": [],
@@ -20485,7 +20485,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX2-400-3LLUL.jpg?v=1653554646"
     ],
     "inStock": true,
     "specs": [],
@@ -20503,7 +20503,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX6-400-3LLUL.jpg?v=1653554668"
     ],
     "inStock": true,
     "specs": [],
@@ -20522,7 +20522,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX7-400-3LLUL.jpg?v=1653554686"
     ],
     "inStock": true,
     "specs": [],
@@ -20541,7 +20541,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC1-400-3LLUL.jpg?v=1653555548"
     ],
     "inStock": true,
     "specs": [],
@@ -20559,7 +20559,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC2-400-3LLUL.jpg?v=1653555574"
     ],
     "inStock": true,
     "specs": [],
@@ -20577,7 +20577,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC6-400-3LLUL.jpg?v=1653555606"
     ],
     "inStock": false,
     "specs": [],
@@ -20595,7 +20595,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC7-400-3LLUL.jpg?v=1653555626"
     ],
     "inStock": true,
     "specs": [],
@@ -20614,7 +20614,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX1-400-3LLUL.jpg?v=1653555645"
     ],
     "inStock": true,
     "specs": [],
@@ -20632,7 +20632,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX2-400-3LLUL.jpg?v=1653555664"
     ],
     "inStock": true,
     "specs": [],
@@ -20651,7 +20651,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX6-400-3LLUL.jpg?v=1653555682"
     ],
     "inStock": true,
     "specs": [],
@@ -20669,7 +20669,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX7-400-3LLUL.jpg?v=1653555702"
     ],
     "inStock": true,
     "specs": [],
@@ -20688,7 +20688,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG0-600-3LLUL.jpg?v=1653555724"
     ],
     "inStock": true,
     "specs": [],
@@ -20706,7 +20706,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG5-600-3LLUL.jpg?v=1653555745"
     ],
     "inStock": true,
     "specs": [],
@@ -20725,7 +20725,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG0-600-3LLUL.jpg?v=1653555763"
     ],
     "inStock": true,
     "specs": [],
@@ -20743,7 +20743,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG1-600-3LLUL.jpg?v=1653555786"
     ],
     "inStock": true,
     "specs": [],
@@ -20761,7 +20761,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG2-600-3LLUL.jpg?v=1653555804"
     ],
     "inStock": true,
     "specs": [],
@@ -20780,7 +20780,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG5-600-3LLUL.jpg?v=1653555824"
     ],
     "inStock": true,
     "specs": [],
@@ -20799,7 +20799,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG6-600-3LLUL.jpg?v=1653555850"
     ],
     "inStock": true,
     "specs": [],
@@ -20817,7 +20817,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG7-600-3LLUL.jpg?v=1653555867"
     ],
     "inStock": true,
     "specs": [],
@@ -20836,7 +20836,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE0-600-3LLUL.jpg?v=1653555887"
     ],
     "inStock": true,
     "specs": [],
@@ -20854,7 +20854,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE1-600-3LLUL.jpg?v=1653555904"
     ],
     "inStock": true,
     "specs": [],
@@ -20872,7 +20872,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-150-3LLUL.jpg?v=1653470745"
     ],
     "inStock": false,
     "specs": [],
@@ -20890,7 +20890,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-175-3LLUL.jpg?v=1653472110"
     ],
     "inStock": true,
     "specs": [],
@@ -20908,7 +20908,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_2d87a706-61ff-492a-b9fb-349ac1bc0140.jpg?v=1628399287"
     ],
     "inStock": true,
     "specs": [],
@@ -21127,7 +21127,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_5e566c79-41d8-476b-9509-291246acf5a7.jpg?v=1604682447"
     ],
     "inStock": true,
     "specs": [],
@@ -21146,7 +21146,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e50d67d5-af32-48fd-a8d3-9e690d61d79b.jpg?v=1604682449"
     ],
     "inStock": true,
     "specs": [],
@@ -21165,7 +21165,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_c00d0cc5-f9ff-42ff-af45-8bcaa0498397.jpg?v=1604682448"
     ],
     "inStock": true,
     "specs": [],
@@ -21183,7 +21183,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1411f7ac-20b8-4472-a3cc-c30680896579.jpg?v=1604682451"
     ],
     "inStock": true,
     "specs": [],
@@ -21202,7 +21202,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f8d41145-bb04-4f4a-a42d-693709069fc0.jpg?v=1604682452"
     ],
     "inStock": true,
     "specs": [],
@@ -21220,7 +21220,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d2955dda-402c-4be9-9fd3-0684311762fa.jpg?v=1604682453"
     ],
     "inStock": true,
     "specs": [],
@@ -21678,7 +21678,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_ae75699a-1982-46d2-896e-17dd3647f4b7.jpg?v=1607090277"
     ],
     "inStock": true,
     "specs": [],
@@ -21697,7 +21697,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_ee38dba8-2132-4132-bc24-97d1f63d3961.jpg?v=1607090278"
     ],
     "inStock": true,
     "specs": [],
@@ -21716,7 +21716,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f497d073-4008-4392-9196-af70d44215b9.jpg?v=1607090280"
     ],
     "inStock": true,
     "specs": [],
@@ -21734,7 +21734,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_656950c6-7aa1-45e2-b50a-e445271ca5c4.jpg?v=1607090281"
     ],
     "inStock": true,
     "specs": [],
@@ -21752,7 +21752,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_953fefe8-06e8-42eb-ad92-95de03994ec0.jpg?v=1607090282"
     ],
     "inStock": true,
     "specs": [],
@@ -21770,7 +21770,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_ecec032f-2386-4ba9-8029-6c5d5eb4405d.jpg?v=1607090283"
     ],
     "inStock": true,
     "specs": [],
@@ -21788,7 +21788,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_97092204-eee2-45ac-a548-df1d270b9236.jpg?v=1607090285"
     ],
     "inStock": true,
     "specs": [],
@@ -21807,7 +21807,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0621977c-baed-45a3-af70-4888f2938cb6.jpg?v=1607090286"
     ],
     "inStock": true,
     "specs": [],
@@ -28136,7 +28136,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_9cb21b95-e4dd-48d3-93eb-0d4ca5ea06eb.jpg?v=1607084966"
     ],
     "inStock": true,
     "specs": [],
@@ -28155,7 +28155,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e73142f9-9ce5-4b57-995c-93c2b0a144fe.jpg?v=1607084967"
     ],
     "inStock": true,
     "specs": [],
@@ -28174,7 +28174,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_45e751e2-9d64-40e4-8e71-5dda527deec9.jpg?v=1607084968"
     ],
     "inStock": true,
     "specs": [],
@@ -28193,7 +28193,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_9a58052e-73ef-4358-9a45-7bbb8e7f4abb.jpg?v=1607084969"
     ],
     "inStock": true,
     "specs": [],
@@ -28211,7 +28211,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_ab259741-0027-4bbb-bd64-1bc5553d3f02.jpg?v=1607084970"
     ],
     "inStock": true,
     "specs": [],
@@ -28230,7 +28230,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_48230592-280e-4f5b-8066-a3e6311e5465.jpg?v=1607084972"
     ],
     "inStock": true,
     "specs": [],
@@ -28249,7 +28249,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_bc072560-6bc8-40e2-ade4-3b16ba783fda.jpg?v=1607084973"
     ],
     "inStock": true,
     "specs": [],
@@ -28267,7 +28267,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d1124fde-32f2-4343-a8f1-ab194e2f6470.jpg?v=1607084974"
     ],
     "inStock": true,
     "specs": [],
@@ -28286,7 +28286,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_66189afb-845e-4842-97ed-694f201ed8da.jpg?v=1607084975"
     ],
     "inStock": true,
     "specs": [],
@@ -28305,7 +28305,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f2f9bb6c-9ad4-447a-97fc-905c2e1958d7.jpg?v=1607084976"
     ],
     "inStock": false,
     "specs": [],
@@ -28323,7 +28323,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d6628832-5fbb-424f-8ca4-c37a1a479216.jpg?v=1607084978"
     ],
     "inStock": true,
     "specs": [],
@@ -28342,7 +28342,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_245d6c14-cbd0-462d-96a7-71b254578a3c.jpg?v=1607084979"
     ],
     "inStock": true,
     "specs": [],
@@ -28360,7 +28360,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_16b70441-bdde-4428-ac2a-1dc06e386132.jpg?v=1607084980"
     ],
     "inStock": true,
     "specs": [],
@@ -28378,7 +28378,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_972c0da0-8e6b-4264-84c5-675cfbd134be.jpg?v=1607084981"
     ],
     "inStock": true,
     "specs": [],
@@ -28397,7 +28397,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f2dfc393-2998-4942-8370-2da8771b20bc.jpg?v=1607084983"
     ],
     "inStock": false,
     "specs": [],
@@ -28415,7 +28415,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_695d82b6-a03c-49f7-8624-656ad2882ee5.jpg?v=1607084984"
     ],
     "inStock": true,
     "specs": [],
@@ -28434,7 +28434,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2a508a7f-d62d-4e42-a7cb-906c055345f6.jpg?v=1607084985"
     ],
     "inStock": true,
     "specs": [],
@@ -30592,7 +30592,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f9a2dda7-8a00-483a-bca9-4b3e104bc766.jpg?v=1607089201"
     ],
     "inStock": true,
     "specs": [],
@@ -30611,7 +30611,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_fd29571b-391f-4b07-9f7d-4419560ba9c3.jpg?v=1607089203"
     ],
     "inStock": true,
     "specs": [],
@@ -30629,7 +30629,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_356c7a2a-8a74-44dd-8ba2-9a61bf7e160d.jpg?v=1607089204"
     ],
     "inStock": true,
     "specs": [],
@@ -30647,7 +30647,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_5e131a49-55d1-4797-99ce-30e9b40c0613.jpg?v=1607089205"
     ],
     "inStock": true,
     "specs": [],
@@ -30665,7 +30665,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_7dfe4c15-195b-4f4b-9552-106a2579aa64.jpg?v=1607089206"
     ],
     "inStock": true,
     "specs": [],
@@ -30683,7 +30683,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_089afc54-d4f8-4f68-8e3f-c9542df8c6cc.jpg?v=1607089208"
     ],
     "inStock": true,
     "specs": [],
@@ -30701,7 +30701,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1e9653e1-2cf2-42b1-a313-bbfa3ef0752c.jpg?v=1607089209"
     ],
     "inStock": true,
     "specs": [],
@@ -30720,7 +30720,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e0698c72-3d3c-4c57-9cdf-13c18f8479f7.jpg?v=1607089210"
     ],
     "inStock": true,
     "specs": [],
@@ -30738,7 +30738,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e83dbb88-6b00-4607-bcbe-438c1347b42c.jpg?v=1607089211"
     ],
     "inStock": false,
     "specs": [],
@@ -30757,7 +30757,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0a287169-a655-4b4f-9e5d-180bd70bf111.jpg?v=1607089212"
     ],
     "inStock": true,
     "specs": [],
@@ -30776,7 +30776,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_08768521-78cd-4ffb-9fc6-422d11ded71f.jpg?v=1607089213"
     ],
     "inStock": true,
     "specs": [],
@@ -31418,7 +31418,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_4931b19a-c1de-483f-ad36-dd1afd1c3340.jpg?v=1604682381"
     ],
     "inStock": true,
     "specs": [],
@@ -31436,7 +31436,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6a3f223f-c542-4827-b529-d093f486815e.jpg?v=1604682382"
     ],
     "inStock": true,
     "specs": [],
@@ -31454,7 +31454,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8a5e32e3-907e-41d1-b679-f16559eda65f.jpg?v=1604682383"
     ],
     "inStock": false,
     "specs": [],
@@ -31472,7 +31472,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2a2e67f5-e819-4d4f-abfc-7bacbb830004.jpg?v=1604682385"
     ],
     "inStock": true,
     "specs": [],
@@ -31490,7 +31490,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors.jpg?v=1604682384"
     ],
     "inStock": true,
     "specs": [],
@@ -31509,7 +31509,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6ebf5a92-86f8-4518-b24c-c78376715bca.jpg?v=1604682386"
     ],
     "inStock": false,
     "specs": [],
@@ -31527,7 +31527,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_985ea36b-dbe7-4472-92fb-fa58defbcee5.jpg?v=1604682388"
     ],
     "inStock": true,
     "specs": [],
@@ -31546,7 +31546,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_aa6acba7-ffd2-4deb-a0c7-044017c46337.jpg?v=1604682387"
     ],
     "inStock": true,
     "specs": [],
@@ -31564,7 +31564,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_bd42d5d3-9bf4-4f3c-a6a2-8af28fbb50c9.jpg?v=1604682389"
     ],
     "inStock": true,
     "specs": [],
@@ -31582,7 +31582,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_fecdec43-ae9c-4c68-82db-c73a6b8d103a.jpg?v=1604682390"
     ],
     "inStock": true,
     "specs": [],
@@ -31601,7 +31601,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_68f77c1c-5907-46ec-a10f-ab81ef689898.jpg?v=1604682391"
     ],
     "inStock": true,
     "specs": [],
@@ -31619,7 +31619,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_5854ca17-d90e-459d-a8ec-e455e093fb75.jpg?v=1604682392"
     ],
     "inStock": true,
     "specs": [],
@@ -31637,7 +31637,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_c9946c16-764e-42e1-8eb2-de361a6dcedc.jpg?v=1604682393"
     ],
     "inStock": true,
     "specs": [],
@@ -32205,7 +32205,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_fefcd6cf-1802-4608-9055-7a5ebec66018.jpg?v=1604682429"
     ],
     "inStock": true,
     "specs": [],
@@ -32223,7 +32223,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0bf2a87f-b191-4768-82bc-44f369abac78.jpg?v=1604682430"
     ],
     "inStock": true,
     "specs": [],
@@ -32241,7 +32241,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_562b6518-591c-4524-8099-218e83c6bc12.jpg?v=1604682431"
     ],
     "inStock": true,
     "specs": [],
@@ -32260,7 +32260,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d82baea8-6939-421e-946f-e78c47d8e04a.jpg?v=1604682432"
     ],
     "inStock": true,
     "specs": [],
@@ -32278,7 +32278,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e896d6bc-deb6-49c8-ac35-29ed5786a3ae.jpg?v=1604682434"
     ],
     "inStock": true,
     "specs": [],
@@ -32296,7 +32296,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_01c6cbd7-3662-470a-9ca9-d025a68d65f5.jpg?v=1604682433"
     ],
     "inStock": true,
     "specs": [],
@@ -32314,7 +32314,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_980f75fc-4dc7-4c97-bfb4-c6d77e5ff1ac.jpg?v=1604682436"
     ],
     "inStock": true,
     "specs": [],
@@ -32332,7 +32332,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_70664a5d-e608-42ea-badc-85e934f1abe0.jpg?v=1604682435"
     ],
     "inStock": false,
     "specs": [],
@@ -32350,7 +32350,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_5e49c8d3-d368-4d41-b53b-de7b3b73b90d.jpg?v=1604682437"
     ],
     "inStock": true,
     "specs": [],
@@ -32368,7 +32368,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_98013f41-a9e3-4c67-8bda-8b6769357213.jpg?v=1604682438"
     ],
     "inStock": false,
     "specs": [],
@@ -32386,7 +32386,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_cd6e6b7b-d506-4289-b0dc-dd1c6c44e568.jpg?v=1604682439"
     ],
     "inStock": true,
     "specs": [],
@@ -32405,7 +32405,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b874afb3-f9b3-43e7-8aca-d819ef6011a1.jpg?v=1604682394"
     ],
     "inStock": true,
     "specs": [],
@@ -32424,7 +32424,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_70c2a488-353f-44fe-9777-bb80bafd352f.jpg?v=1604682395"
     ],
     "inStock": true,
     "specs": [],
@@ -32443,7 +32443,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6ec7704c-b4e9-4c24-a7c8-8cc182eb5b6b.jpg?v=1604682396"
     ],
     "inStock": true,
     "specs": [],
@@ -32462,7 +32462,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_866646b8-89fc-4951-ae98-edf64d03d309.jpg?v=1604682397"
     ],
     "inStock": true,
     "specs": [],
@@ -32481,7 +32481,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b06a0288-aaae-45d4-9b65-069400eb8dd1.jpg?v=1604682400"
     ],
     "inStock": true,
     "specs": [],
@@ -32499,7 +32499,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_082246cc-c50b-498c-9c31-5d51c801db34.jpg?v=1604682399"
     ],
     "inStock": true,
     "specs": [],
@@ -32518,7 +32518,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e422c4af-d5a6-4642-81b8-127242561ce7.jpg?v=1604682398"
     ],
     "inStock": true,
     "specs": [],
@@ -32536,7 +32536,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2433a6ec-a2a0-4762-87fb-c865818a5656.jpg?v=1604682401"
     ],
     "inStock": true,
     "specs": [],
@@ -32554,7 +32554,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b6f5f641-afb2-417c-ba24-4034cde45031.jpg?v=1604682402"
     ],
     "inStock": true,
     "specs": [],
@@ -32572,7 +32572,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_77bf1839-cebb-4731-8778-c4ba94458e83.jpg?v=1604682403"
     ],
     "inStock": true,
     "specs": [],
@@ -32590,7 +32590,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f5a798f6-63e0-4948-b34b-6d5fd56d6370.jpg?v=1604682404"
     ],
     "inStock": true,
     "specs": [],
@@ -32609,7 +32609,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_fdd77c57-f690-428b-bb26-6ccd9ac1a412.jpg?v=1604682405"
     ],
     "inStock": true,
     "specs": [],
@@ -32627,7 +32627,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1eaab903-211b-4c71-9140-f118ee470c7f.jpg?v=1604682406"
     ],
     "inStock": true,
     "specs": [],
@@ -32645,7 +32645,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d13b0f34-9a45-4e61-9c12-2d9bd2ef13f3.jpg?v=1604682407"
     ],
     "inStock": true,
     "specs": [],
@@ -32663,7 +32663,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6884340c-f9bc-4740-bf5d-9d5a72ec2a75.jpg?v=1604682408"
     ],
     "inStock": true,
     "specs": [],
@@ -32700,7 +32700,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_899a1172-8d61-489b-81e3-4aba12f4ba54.jpg?v=1604682462"
     ],
     "inStock": true,
     "specs": [],
@@ -32719,7 +32719,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_23f8bea7-ec08-423b-b163-550934bab336.jpg?v=1604682464"
     ],
     "inStock": true,
     "specs": [],
@@ -32738,7 +32738,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d11bc445-13aa-4147-8664-6c7cb44e260e.jpg?v=1604682463"
     ],
     "inStock": true,
     "specs": [],
@@ -32756,7 +32756,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_3c67e414-0c42-4d1e-8e77-316f9c1af689.jpg?v=1604682465"
     ],
     "inStock": true,
     "specs": [],
@@ -32775,7 +32775,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_aa854890-f92e-4ac8-ba89-e7c685179bba.jpg?v=1604682466"
     ],
     "inStock": true,
     "specs": [],
@@ -32793,7 +32793,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_ff169472-1e9a-4da7-8a7f-22a23779bd97.jpg?v=1604682515"
     ],
     "inStock": true,
     "specs": [],
@@ -32811,7 +32811,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d226f5e4-1ff9-46a8-9f30-47f151c1113e.jpg?v=1604682517"
     ],
     "inStock": true,
     "specs": [],
@@ -32829,7 +32829,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f3f00d13-1dfb-45f7-9166-0ee728974c34.jpg?v=1604682516"
     ],
     "inStock": true,
     "specs": [],
@@ -32847,7 +32847,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e93bd9c7-7730-4b56-b515-7954f407a241.jpg?v=1604682518"
     ],
     "inStock": false,
     "specs": [],
@@ -32866,7 +32866,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1688bf9a-0c1c-47f4-9f53-c12c237ec056.jpg?v=1604682518"
     ],
     "inStock": true,
     "specs": [],
@@ -32884,7 +32884,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8e295f60-dbf4-4bd8-b0c0-c1912c877247.jpg?v=1604682519"
     ],
     "inStock": true,
     "specs": [],
@@ -32903,7 +32903,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f62c36b7-8351-4ac4-87e8-55cd5752949b.jpg?v=1604682520"
     ],
     "inStock": false,
     "specs": [],
@@ -32922,7 +32922,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_42f2ebe2-ccc5-4ef1-9cc8-805706131283.jpg?v=1604682522"
     ],
     "inStock": true,
     "specs": [],
@@ -32941,7 +32941,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e214f411-0834-4f92-8385-876d77fe8aea.jpg?v=1604682521"
     ],
     "inStock": true,
     "specs": [],
@@ -32959,7 +32959,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d0b183cc-fd74-4c3e-8447-e37c9b450126.jpg?v=1604682524"
     ],
     "inStock": true,
     "specs": [],
@@ -32978,7 +32978,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_6cb47b7f-a7f0-456a-9dbe-eb4c2222b54d.jpg?v=1604682523"
     ],
     "inStock": true,
     "specs": [],
@@ -32996,7 +32996,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8f696942-5147-4aa4-b907-fa75972a822f.jpg?v=1604682501"
     ],
     "inStock": true,
     "specs": [],
@@ -33014,7 +33014,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b89eaa11-399c-4176-9855-7b66119cd929.jpg?v=1604682500"
     ],
     "inStock": true,
     "specs": [],
@@ -33032,7 +33032,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e1958f4a-bc39-4e93-add4-4af88e4d18bd.jpg?v=1604682503"
     ],
     "inStock": true,
     "specs": [],
@@ -33050,7 +33050,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_ff069528-cb2b-49e9-8fd4-9fd95a6cdf6e.jpg?v=1604682502"
     ],
     "inStock": true,
     "specs": [],
@@ -33068,7 +33068,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d092db81-464b-4110-80d7-6e31b239c1a0.jpg?v=1604682487"
     ],
     "inStock": true,
     "specs": [],
@@ -33086,7 +33086,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_23826f40-b68f-46ac-80df-a9a00c138875.jpg?v=1604682488"
     ],
     "inStock": true,
     "specs": [],
@@ -33105,7 +33105,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f25fddcc-d4b5-4e03-8ab0-3536762c63d2.jpg?v=1604682483"
     ],
     "inStock": true,
     "specs": [],
@@ -33123,7 +33123,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0a1bb4de-8df7-4b20-ae98-43608ad28093.jpg?v=1604682485"
     ],
     "inStock": true,
     "specs": [],
@@ -33141,7 +33141,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_cb069fb0-0e72-4679-ace9-a730241473b3.jpg?v=1604682484"
     ],
     "inStock": true,
     "specs": [],
@@ -33159,7 +33159,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f8ee7523-3990-4d40-9de2-65ed0a35479a.jpg?v=1604682486"
     ],
     "inStock": true,
     "specs": [],
@@ -33177,7 +33177,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8f975308-e291-4caf-b2d2-d09bc0e61e20.jpg?v=1604682489"
     ],
     "inStock": true,
     "specs": [],
@@ -33195,7 +33195,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e5fa8bb6-aa7c-4916-b138-45814a544380.jpg?v=1604682491"
     ],
     "inStock": true,
     "specs": [],
@@ -33213,7 +33213,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_7d63242b-8aeb-49a1-90dd-22e9c5fe02b1.jpg?v=1604682492"
     ],
     "inStock": true,
     "specs": [],
@@ -33231,7 +33231,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e61eed94-5eff-41c7-87ea-ab7d799032c5.jpg?v=1604682493"
     ],
     "inStock": true,
     "specs": [],
@@ -33249,7 +33249,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_f035b47d-a055-4034-ae99-14bb97e628e6.jpg?v=1604682494"
     ],
     "inStock": true,
     "specs": [],
@@ -33267,7 +33267,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2425fb71-e8b3-481d-91a7-733c469e4800.jpg?v=1604682494"
     ],
     "inStock": true,
     "specs": [],
@@ -33286,7 +33286,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8f8a320e-f175-4c67-9d64-44b0bcebd031.jpg?v=1604682495"
     ],
     "inStock": true,
     "specs": [],
@@ -33304,7 +33304,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_125f4b03-4526-4908-86b3-719905d9be19.jpg?v=1604682496"
     ],
     "inStock": true,
     "specs": [],
@@ -33322,7 +33322,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV015IC5-1.jpg?v=1652544021"
     ],
     "inStock": true,
     "specs": [],
@@ -33341,7 +33341,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV008IC5-1.jpg?v=1652544055"
     ],
     "inStock": true,
     "specs": [],
@@ -33359,7 +33359,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV004IC5-1.jpg?v=1652544075"
     ],
     "inStock": true,
     "specs": [],
@@ -33377,7 +33377,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV022IC5-1.jpg?v=1652544099"
     ],
     "inStock": true,
     "specs": [],
@@ -33670,7 +33670,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE2M.jpg?v=1652611898"
     ],
     "inStock": true,
     "specs": [],
@@ -33688,7 +33688,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE3M.jpg?v=1652601722"
     ],
     "inStock": true,
     "specs": [],
@@ -34149,7 +34149,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AREMOTECABLE2M.jpg?v=1652616903"
     ],
     "inStock": true,
     "specs": [],
@@ -34167,7 +34167,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AREMOTECABLE3M.jpg?v=1652616925"
     ],
     "inStock": true,
     "specs": [],
@@ -34185,7 +34185,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AREMOTECABLE5M.jpg?v=1652616943"
     ],
     "inStock": true,
     "specs": [],
@@ -34771,7 +34771,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE2M.jpg?v=1652611898"
     ],
     "inStock": true,
     "specs": [],
@@ -34789,7 +34789,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-SH100REMOTECABLE3M.jpg?v=1652601722"
     ],
     "inStock": true,
     "specs": [],
@@ -36260,7 +36260,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7SOFTWAREDOWNLOADKIT.jpg?v=1652548717"
     ],
     "inStock": true,
     "specs": [],
@@ -37051,7 +37051,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100LCDDIGITALKEYPAD.jpg?v=1652611833"
     ],
     "inStock": true,
     "specs": [],
@@ -37070,7 +37070,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-008.jpg?v=1629091350"
     ],
     "inStock": true,
     "specs": [],
@@ -37088,7 +37088,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-015.jpg?v=1629091390"
     ],
     "inStock": true,
     "specs": [],
@@ -37106,7 +37106,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-030.jpg?v=1629091424"
     ],
     "inStock": true,
     "specs": [],
@@ -37125,7 +37125,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-050.jpg?v=1629091452"
     ],
     "inStock": true,
     "specs": [],
@@ -37143,7 +37143,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-008.jpg?v=1629091473"
     ],
     "inStock": true,
     "specs": [],
@@ -37161,7 +37161,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-015.jpg?v=1629091501"
     ],
     "inStock": true,
     "specs": [],
@@ -37180,7 +37180,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-030.jpg?v=1629091521"
     ],
     "inStock": true,
     "specs": [],
@@ -37199,7 +37199,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-050.jpg?v=1629091600"
     ],
     "inStock": true,
     "specs": [],
@@ -37217,7 +37217,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-110.jpg?v=1629091632"
     ],
     "inStock": true,
     "specs": [],
@@ -37235,7 +37235,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-080.jpg?v=1629091654"
     ],
     "inStock": true,
     "specs": [],
@@ -37253,7 +37253,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-015.jpg?v=1629091676"
     ],
     "inStock": true,
     "specs": [],
@@ -37272,7 +37272,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-030.jpg?v=1629091697"
     ],
     "inStock": true,
     "specs": [],
@@ -37290,7 +37290,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-008.jpg?v=1629091720"
     ],
     "inStock": false,
     "specs": [],
@@ -37309,7 +37309,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-050.jpg?v=1629091781"
     ],
     "inStock": false,
     "specs": [],
@@ -37327,7 +37327,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-080.jpg?v=1629091815"
     ],
     "inStock": true,
     "specs": [],
@@ -37345,7 +37345,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-110.jpg?v=1629091849"
     ],
     "inStock": true,
     "specs": [],
@@ -37363,7 +37363,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-175.jpg?v=1629091876"
     ],
     "inStock": true,
     "specs": [],
@@ -37381,7 +37381,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-240.jpg?v=1629091912"
     ],
     "inStock": true,
     "specs": [],
@@ -37399,7 +37399,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-470.jpg?v=1629091950"
     ],
     "inStock": true,
     "specs": [],
@@ -37418,7 +37418,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-330.jpg?v=1629091983"
     ],
     "inStock": true,
     "specs": [],
@@ -37436,7 +37436,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-016.jpg?v=1629092023"
     ],
     "inStock": true,
     "specs": [],
@@ -37454,7 +37454,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-600.jpg?v=1629092048"
     ],
     "inStock": false,
     "specs": [],
@@ -37472,7 +37472,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-026.jpg?v=1629092084"
     ],
     "inStock": true,
     "specs": [],
@@ -37490,7 +37490,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-040.jpg?v=1629092111"
     ],
     "inStock": true,
     "specs": [],
@@ -37508,7 +37508,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-060.jpg?v=1629092141"
     ],
     "inStock": true,
     "specs": [],
@@ -37527,7 +37527,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-120.jpg?v=1629092182"
     ],
     "inStock": true,
     "specs": [],
@@ -37545,7 +37545,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-095.jpg?v=1629092215"
     ],
     "inStock": true,
     "specs": [],
@@ -37563,7 +37563,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-230.jpg?v=1629092244"
     ],
     "inStock": true,
     "specs": [],
@@ -37581,7 +37581,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-170.jpg?v=1629092265"
     ],
     "inStock": true,
     "specs": [],
@@ -37600,7 +37600,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-300.jpg?v=1629092287"
     ],
     "inStock": true,
     "specs": [],
@@ -37727,7 +37727,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7REMOTECABLE2M.jpg?v=1652548265"
     ],
     "inStock": true,
     "specs": [],
@@ -37746,7 +37746,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7REMOTECABLE3M.jpg?v=1652548337"
     ],
     "inStock": true,
     "specs": [],
@@ -38037,7 +38037,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE1.jpg?v=1652602007"
     ],
     "inStock": true,
     "specs": [],
@@ -38056,7 +38056,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE4.jpg?v=1652602035"
     ],
     "inStock": true,
     "specs": [],
@@ -38075,7 +38075,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE3.jpg?v=1652602109"
     ],
     "inStock": true,
     "specs": [],
@@ -38093,7 +38093,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE2.jpg?v=1652602255"
     ],
     "inStock": true,
     "specs": [],
@@ -38112,7 +38112,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE5.jpg?v=1652602346"
     ],
     "inStock": true,
     "specs": [],
@@ -38130,7 +38130,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE6.jpg?v=1652602384"
     ],
     "inStock": true,
     "specs": [],
@@ -38149,7 +38149,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Starvert_S100_dbbf2e7c-2b68-49ea-9b4b-416a9a0ae8f8.jpg?v=1604680096"
     ],
     "inStock": true,
     "specs": [],
@@ -38168,7 +38168,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE9.jpg?v=1652602419"
     ],
     "inStock": true,
     "specs": [],
@@ -38186,7 +38186,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CONDUITMODULE8.jpg?v=1652602463"
     ],
     "inStock": true,
     "specs": [],
@@ -38205,7 +38205,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEA.jpg?v=1652602571"
     ],
     "inStock": true,
     "specs": [],
@@ -38224,7 +38224,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEB.jpg?v=1652602595"
     ],
     "inStock": true,
     "specs": [],
@@ -38242,7 +38242,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEC.jpg?v=1652602645"
     ],
     "inStock": true,
     "specs": [],
@@ -38261,7 +38261,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEE.jpg?v=1652602684"
     ],
     "inStock": true,
     "specs": [],
@@ -38279,7 +38279,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULED.jpg?v=1652602734"
     ],
     "inStock": true,
     "specs": [],
@@ -38297,7 +38297,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEG.jpg?v=1652602781"
     ],
     "inStock": false,
     "specs": [],
@@ -38315,7 +38315,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEF.jpg?v=1652602808"
     ],
     "inStock": true,
     "specs": [],
@@ -38333,7 +38333,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEH.jpg?v=1652602834"
     ],
     "inStock": true,
     "specs": [],
@@ -38351,7 +38351,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100FLANGEMODULEI.jpg?v=1652602897"
     ],
     "inStock": true,
     "specs": [],
@@ -38369,7 +38369,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_ac77cf60-68d6-4707-8902-0262c1c95af8.jpg?v=1614964590"
     ],
     "inStock": true,
     "specs": [],
@@ -38388,7 +38388,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5e3dc2fe-bf6c-4d98-b252-05920931648f.jpg?v=1614964591"
     ],
     "inStock": true,
     "specs": [],
@@ -38406,7 +38406,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7a3f1b40-15b1-46a8-9465-c4295d3d0eef.jpg?v=1614964592"
     ],
     "inStock": true,
     "specs": [],
@@ -38425,7 +38425,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_3afafa1d-94df-494a-998b-18c858cf5973.jpg?v=1614964593"
     ],
     "inStock": true,
     "specs": [],
@@ -38443,7 +38443,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_f4adc197-449e-4780-8d49-4d3681db4b58.jpg?v=1614964594"
     ],
     "inStock": true,
     "specs": [],
@@ -38461,7 +38461,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_992692fe-7ec4-41ff-a18e-c2481da5afc9.jpg?v=1651916573"
     ],
     "inStock": true,
     "specs": [],
@@ -38479,7 +38479,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_c0909a1f-89bd-4126-b301-bba1fe3dc598.jpg?v=1614965282"
     ],
     "inStock": true,
     "specs": [],
@@ -38497,7 +38497,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_32e969fa-b0d2-49ce-8198-d5785e404d84.jpg?v=1614965283"
     ],
     "inStock": true,
     "specs": [],
@@ -38515,7 +38515,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_dadedc3d-4ac4-41b3-8b61-902c2d204c3e.jpg?v=1614965284"
     ],
     "inStock": true,
     "specs": [],
@@ -38533,7 +38533,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_74fb3ff5-89d7-4eff-96a0-9cdc3cc6dbb1.jpg?v=1614965285"
     ],
     "inStock": true,
     "specs": [],
@@ -38551,7 +38551,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7f1b97b9-ab58-4fa3-8f2e-e4ae959d288f.jpg?v=1614964582"
     ],
     "inStock": true,
     "specs": [],
@@ -38570,7 +38570,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_66a0678b-e078-45f2-b5ed-197fcc3267d4.jpg?v=1614964582"
     ],
     "inStock": true,
     "specs": [],
@@ -38588,7 +38588,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_6aa9100d-4330-4550-a58f-d24eed3d56f0.jpg?v=1614964583"
     ],
     "inStock": true,
     "specs": [],
@@ -38607,7 +38607,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_330fe380-8dd4-499e-a3af-802fa062a4e3.jpg?v=1614964584"
     ],
     "inStock": true,
     "specs": [],
@@ -38625,7 +38625,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_ebd13fd8-126a-44d6-888f-36e8d568da5d.jpg?v=1614964585"
     ],
     "inStock": true,
     "specs": [],
@@ -38643,7 +38643,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_8cdf4ed8-717f-4888-842f-52ecfbcb15c7.jpg?v=1614965286"
     ],
     "inStock": true,
     "specs": [],
@@ -38661,7 +38661,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_4b8803e0-89a1-4ee8-99d3-8e836d9b2757.jpg?v=1614965287"
     ],
     "inStock": true,
     "specs": [],
@@ -38680,7 +38680,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5d2c6e8e-3c3f-476f-91c2-0fe35b4a1a6b.jpg?v=1614965289"
     ],
     "inStock": true,
     "specs": [],
@@ -38698,7 +38698,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_e7b902f3-6fc5-4d19-af2b-900fc33be69b.jpg?v=1614965288"
     ],
     "inStock": true,
     "specs": [],
@@ -38716,7 +38716,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_b2d62212-9d23-4cba-bd65-562fb7b3d211.jpg?v=1614965289"
     ],
     "inStock": true,
     "specs": [],
@@ -38734,7 +38734,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_d2d57366-422b-4aee-b1e8-3b52e1d6d89e.jpg?v=1614965290"
     ],
     "inStock": true,
     "specs": [],
@@ -38752,7 +38752,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_a895aecf-b63f-45b9-9b0d-8cecf3cfa64a.jpg?v=1614965291"
     ],
     "inStock": true,
     "specs": [],
@@ -38770,7 +38770,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_783d1474-f2c0-4d5d-823e-f3e2f4b55590.jpg?v=1614965292"
     ],
     "inStock": true,
     "specs": [],
@@ -38789,7 +38789,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5837159a-5a64-4cc9-af22-37b86d289936.jpg?v=1614965293"
     ],
     "inStock": true,
     "specs": [],
@@ -38808,7 +38808,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_9db462d9-e5e1-461a-bb65-2ad6d64c3f73.jpg?v=1614965294"
     ],
     "inStock": true,
     "specs": [],
@@ -38827,7 +38827,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_63c10ca0-7e36-48bb-be1c-5a8fd819520f.jpg?v=1614964586"
     ],
     "inStock": true,
     "specs": [],
@@ -38845,7 +38845,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_beb669ef-d7a6-491f-bad8-fbd5372cbfa9.jpg?v=1614964587"
     ],
     "inStock": true,
     "specs": [],
@@ -38864,7 +38864,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_4b2af293-bc70-4e66-8454-ae6b36a2a505.jpg?v=1614964588"
     ],
     "inStock": true,
     "specs": [],
@@ -38883,7 +38883,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_18ad6b66-0489-49f2-a012-b63ef6d0774c.jpg?v=1614964589"
     ],
     "inStock": true,
     "specs": [],
@@ -38902,7 +38902,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_c48df202-4fef-4bf2-ba82-1b07cc53eeac.jpg?v=1614964590"
     ],
     "inStock": true,
     "specs": [],
@@ -38920,7 +38920,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator.jpg?v=1629705028"
     ],
     "inStock": true,
     "specs": [],
@@ -38938,7 +38938,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_ec644c83-56b9-48de-b59e-e04c5f7d42d9.png?v=1629705086"
     ],
     "inStock": true,
     "specs": [],
@@ -38956,7 +38956,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_b812f743-1630-4ef0-a426-0cc10b931c84.png?v=1616996885"
     ],
     "inStock": false,
     "specs": [],
@@ -38974,7 +38974,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED.jpg?v=1629705114"
     ],
     "inStock": true,
     "specs": [],
@@ -38992,7 +38992,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_865da810-89ed-4b84-987d-345a39c1761f.png?v=1629705436"
     ],
     "inStock": false,
     "specs": [],
@@ -39010,7 +39010,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_ef09eb73-a52f-457c-aa19-a8f01c014d42.png?v=1629705229"
     ],
     "inStock": true,
     "specs": [],
@@ -39028,7 +39028,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_b8a1ffc4-d5e0-4b06-b687-4423cf126b22.jpg?v=1629705295"
     ],
     "inStock": true,
     "specs": [],
@@ -39047,7 +39047,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_d88f15f6-7b62-4f0b-96c6-1eeba20f8beb.jpg?v=1629705347"
     ],
     "inStock": true,
     "specs": [],
@@ -39065,7 +39065,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_07bbb34a-aa32-45da-a0b3-eba529b54c21.png?v=1629705385"
     ],
     "inStock": true,
     "specs": [],
@@ -39084,7 +39084,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator.png?v=1629705414"
     ],
     "inStock": true,
     "specs": [],
@@ -39102,7 +39102,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_f336dd11-bff8-4dc9-9508-9a2297742db4.jpg?v=1629705525"
     ],
     "inStock": true,
     "specs": [],
@@ -39120,7 +39120,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_d38169e9-2f38-4e45-a7b1-ee76afb091ad.png?v=1629705583"
     ],
     "inStock": true,
     "specs": [],
@@ -39138,7 +39138,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_576b7650-2acc-459a-b667-ffa26f759ca3.jpg?v=1629705602"
     ],
     "inStock": true,
     "specs": [],
@@ -39156,7 +39156,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_afd7e78d-e6d2-4a30-936a-ad18ee14e53c.png?v=1616997389"
     ],
     "inStock": true,
     "specs": [],
@@ -39174,7 +39174,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_e119866d-17b6-4b63-bd79-2461d172c699.png?v=1629705640"
     ],
     "inStock": true,
     "specs": [],
@@ -39192,7 +39192,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_ce00550a-ff4f-4351-ae39-8bac93ff92a5.png?v=1629705678"
     ],
     "inStock": true,
     "specs": [],
@@ -39210,7 +39210,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_65921ebb-4ecf-4dc4-9cc0-da159638d156.png?v=1616997529"
     ],
     "inStock": true,
     "specs": [],
@@ -39228,7 +39228,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_dda20f09-0df5-4f3e-9490-5b69d0c75c06.jpg?v=1629705723"
     ],
     "inStock": false,
     "specs": [],
@@ -39246,7 +39246,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_b224c296-e71b-49aa-9dcb-3ca0a5492f61.jpg?v=1629705741"
     ],
     "inStock": true,
     "specs": [],
@@ -39265,7 +39265,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_37d5e62a-22f5-4ab3-b7e8-33388da94dd1.png?v=1629705762"
     ],
     "inStock": false,
     "specs": [],
@@ -39284,7 +39284,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_93c062ed-c57f-4fb6-8880-8d79b51544e3.png?v=1629705782"
     ],
     "inStock": false,
     "specs": [],
@@ -39302,7 +39302,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_620c21fa-ed11-4e93-89be-46578242673a.jpg?v=1629705798"
     ],
     "inStock": false,
     "specs": [],
@@ -39320,7 +39320,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1ba75826-3061-4d4a-8469-a956683348c5.png?v=1616997834"
     ],
     "inStock": true,
     "specs": [],
@@ -39338,7 +39338,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_a3394224-da78-4725-ae98-9459fedb2717.jpg?v=1629705818"
     ],
     "inStock": true,
     "specs": [],
@@ -39356,7 +39356,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_d2c5e5cf-e851-4397-a786-ab85d5b09913.png?v=1629705843"
     ],
     "inStock": true,
     "specs": [],
@@ -39375,7 +39375,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_44819c8e-3d6b-46d2-b1b0-68fc2464e94b.jpg?v=1629705863"
     ],
     "inStock": true,
     "specs": [],
@@ -39393,7 +39393,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1445efb5-dff2-4758-844c-dfa699d525f9.png?v=1616998890"
     ],
     "inStock": true,
     "specs": [],
@@ -39412,7 +39412,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_37302d21-bb9c-461b-8e3a-aa0f9a8a98b3.jpg?v=1629705901"
     ],
     "inStock": true,
     "specs": [],
@@ -39430,7 +39430,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_d77bb25d-6d74-4ac4-a581-71081db5aaaf.png?v=1629705922"
     ],
     "inStock": true,
     "specs": [],
@@ -39448,7 +39448,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_2a1959a0-16bf-42d5-bc84-9d45529f120c.png?v=1629705943"
     ],
     "inStock": true,
     "specs": [],
@@ -39466,7 +39466,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_b1d2061b-bfa2-4575-a459-9023f4664ea1.jpg?v=1629705960"
     ],
     "inStock": true,
     "specs": [],
@@ -39485,7 +39485,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_8150399d-e794-4d54-80c1-94348ee777b8.png?v=1616999248"
     ],
     "inStock": true,
     "specs": [],
@@ -39503,7 +39503,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_cf1ffa96-2982-4e9a-8559-60c2c479e2ca.png?v=1629706018"
     ],
     "inStock": true,
     "specs": [],
@@ -39521,7 +39521,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_f24c0eca-dd9c-4372-a3f0-88f20dcc11f3.jpg?v=1629706035"
     ],
     "inStock": true,
     "specs": [],
@@ -39539,7 +39539,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_e4302074-06d4-4f52-b13d-06d60f053466.png?v=1629706064"
     ],
     "inStock": true,
     "specs": [],
@@ -39557,7 +39557,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_3000b99a-5d5e-4fe7-832e-b9fa36dfc30e.jpg?v=1629706085"
     ],
     "inStock": true,
     "specs": [],
@@ -39576,7 +39576,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_7bee3f50-eee2-4775-8b1f-a0f19f346bac.png?v=1616999508"
     ],
     "inStock": true,
     "specs": [],
@@ -39594,7 +39594,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_c7ada9c0-282c-486b-99ce-1a2d7d570726.jpg?v=1629706108"
     ],
     "inStock": true,
     "specs": [],
@@ -39612,7 +39612,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_6dc70f5c-4894-4b31-aec2-c6f55f2172a1.png?v=1629706131"
     ],
     "inStock": true,
     "specs": [],
@@ -39630,7 +39630,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_aa2244b8-55b5-4176-a314-a1c3d1b01ea4.png?v=1629706164"
     ],
     "inStock": true,
     "specs": [],
@@ -39648,7 +39648,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4.png?v=1616993206"
     ],
     "inStock": true,
     "specs": [],
@@ -39666,7 +39666,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_83d619c1-f7d3-4e42-a467-8e690d69c66b.png?v=1629706745"
     ],
     "inStock": true,
     "specs": [],
@@ -39685,7 +39685,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite.jpg?v=1629706813"
     ],
     "inStock": true,
     "specs": [],
@@ -39703,7 +39703,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators.jpg?v=1629706838"
     ],
     "inStock": true,
     "specs": [],
@@ -39721,7 +39721,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED.jpg?v=1629706884"
     ],
     "inStock": true,
     "specs": [],
@@ -39740,7 +39740,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_785c8b07-249f-4104-b29e-d9d8a1cb621b.png?v=1629706922"
     ],
     "inStock": true,
     "specs": [],
@@ -39758,7 +39758,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_ed6aa090-7207-477d-a5fe-15fdb92d90a5.jpg?v=1629706954"
     ],
     "inStock": true,
     "specs": [],
@@ -39777,7 +39777,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_f4f30de6-3e5e-4dbf-87c9-51c50471ebc1.png?v=1629706989"
     ],
     "inStock": true,
     "specs": [],
@@ -39795,7 +39795,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_49c380d9-4651-4254-b221-947db877937c.jpg?v=1629707106"
     ],
     "inStock": true,
     "specs": [],
@@ -39814,7 +39814,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_162b00b1-90d2-4844-9059-45f340d1658a.jpg?v=1629707248"
     ],
     "inStock": false,
     "specs": [],
@@ -39833,7 +39833,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_b5948edc-6d42-4be2-98d8-6d6416c3ba78.jpg?v=1629707286"
     ],
     "inStock": true,
     "specs": [],
@@ -39852,7 +39852,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_d96eea8a-3ae1-4d7c-9c41-f5621e68c278.png?v=1629707313"
     ],
     "inStock": true,
     "specs": [],
@@ -39871,7 +39871,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_4d834654-93ce-4b18-8c5f-3cfe4ab9adfe.png?v=1616994320"
     ],
     "inStock": true,
     "specs": [],
@@ -39890,7 +39890,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_cfff5ce8-be4e-447b-b75f-d63afa40bd38.jpg?v=1629707348"
     ],
     "inStock": false,
     "specs": [],
@@ -39908,7 +39908,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_37e05f6a-46c5-4b09-a52c-c25606f8b546.jpg?v=1629707397"
     ],
     "inStock": true,
     "specs": [],
@@ -39926,7 +39926,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_d26ccf8a-849f-4cb2-85aa-6672c3450579.jpg?v=1629707418"
     ],
     "inStock": true,
     "specs": [],
@@ -39944,7 +39944,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_c4fbf9da-83c5-452e-9daa-3bf2238cb66c.png?v=1616994570"
     ],
     "inStock": false,
     "specs": [],
@@ -39962,7 +39962,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_28a8a7f3-3b76-4b2f-a6ff-74dd386b4302.png?v=1629707447"
     ],
     "inStock": true,
     "specs": [],
@@ -39980,7 +39980,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_c04dc740-84e6-4f45-88ed-78860356e4de.jpg?v=1629707477"
     ],
     "inStock": true,
     "specs": [],
@@ -39998,7 +39998,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_1079e06a-5ee9-4938-9592-970cf85a4037.jpg?v=1629707495"
     ],
     "inStock": true,
     "specs": [],
@@ -40016,7 +40016,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_d04aef52-0ff1-4499-ad6a-c061a080433f.jpg?v=1629707564"
     ],
     "inStock": true,
     "specs": [],
@@ -40034,7 +40034,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_ad9a04d8-62f6-42e3-9377-48ccbdcc4fd1.png?v=1616994773"
     ],
     "inStock": true,
     "specs": [],
@@ -40053,7 +40053,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_2c88cae7-1b81-4244-84c1-eb0d443463c5.jpg?v=1629707594"
     ],
     "inStock": true,
     "specs": [],
@@ -40071,7 +40071,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_5155702d-398b-4914-85e4-d41a9b3b39f7.png?v=1629707622"
     ],
     "inStock": true,
     "specs": [],
@@ -40090,7 +40090,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_aa2c8759-0b7c-495d-8193-9aaf55d1ac64.jpg?v=1629707642"
     ],
     "inStock": true,
     "specs": [],
@@ -40109,7 +40109,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_7fc7f337-32bf-457a-966c-64004bbaba2d.jpg?v=1629707673"
     ],
     "inStock": false,
     "specs": [],
@@ -40127,7 +40127,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_7e9c2eeb-19e4-44e6-9651-a5e6c13f0867.png?v=1629707702"
     ],
     "inStock": true,
     "specs": [],
@@ -40145,7 +40145,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_18ecef7c-850a-4cf0-8d30-e146d3dd64d8.png?v=1629707843"
     ],
     "inStock": true,
     "specs": [],
@@ -40164,7 +40164,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_5ffd6a23-6698-4646-87ba-07ac78c2f975.jpg?v=1629707890"
     ],
     "inStock": true,
     "specs": [],
@@ -40183,7 +40183,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_cc6322ac-ef93-4930-9d0a-c4d1b7974fad.jpg?v=1629707966"
     ],
     "inStock": true,
     "specs": [],
@@ -40201,7 +40201,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_af6ec6a0-92e5-43d8-9773-868665893593.jpg?v=1629708012"
     ],
     "inStock": true,
     "specs": [],
@@ -40219,7 +40219,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_267e58e5-4ef1-4fb1-a72c-8df914d0159d.png?v=1629708053"
     ],
     "inStock": true,
     "specs": [],
@@ -40237,7 +40237,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_973f9a6e-06f5-4450-81ae-5e18ce4ff7d1.png?v=1629708070"
     ],
     "inStock": true,
     "specs": [],
@@ -40256,7 +40256,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_76bd8ecc-57b8-4d5a-980c-ed16dc79ef04.jpg?v=1629708307"
     ],
     "inStock": true,
     "specs": [],
@@ -40274,7 +40274,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_d7c2ee58-805e-4ec1-8536-375107db6967.jpg?v=1629708351"
     ],
     "inStock": true,
     "specs": [],
@@ -40292,7 +40292,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_ecb0cb1e-d03e-4b45-896b-40c7c610ca93.png?v=1629708418"
     ],
     "inStock": true,
     "specs": [],
@@ -40311,7 +40311,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_a6323cf3-7767-455d-9184-3b51f2ef610b.jpg?v=1629708434"
     ],
     "inStock": true,
     "specs": [],
@@ -40329,7 +40329,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_b15531b6-440e-45bd-97a8-0b6bc1119206.jpg?v=1629708469"
     ],
     "inStock": true,
     "specs": [],
@@ -40347,7 +40347,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_edd03dd1-64fb-4ca1-aac9-ef13d4c3fee7.png?v=1629708489"
     ],
     "inStock": true,
     "specs": [],
@@ -40365,7 +40365,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_1e62bc54-afa9-41e1-936b-34151373984f.jpg?v=1629708534"
     ],
     "inStock": true,
     "specs": [],
@@ -42549,7 +42549,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C75K.jpg?v=1650455824"
     ],
     "inStock": true,
     "specs": [],
@@ -42568,7 +42568,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C90K.jpg?v=1650455942"
     ],
     "inStock": true,
     "specs": [],
@@ -42586,7 +42586,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C110K.jpg?v=1650456028"
     ],
     "inStock": true,
     "specs": [],
@@ -42605,7 +42605,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C132K.jpg?v=1650456081"
     ],
     "inStock": true,
     "specs": [],
@@ -42624,7 +42624,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C185K.jpg?v=1650456156"
     ],
     "inStock": true,
     "specs": [],
@@ -42642,7 +42642,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C220K.jpg?v=1650456186"
     ],
     "inStock": true,
     "specs": [],
@@ -42660,7 +42660,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C280K.jpg?v=1650456215"
     ],
     "inStock": true,
     "specs": [],
@@ -42678,7 +42678,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Sound_Module.jpg?v=1614965658"
     ],
     "inStock": true,
     "specs": [],
@@ -42696,7 +42696,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Sound_Module_d5b8930c-a253-4e5a-99bc-c6bd718feaaa.jpg?v=1614965659"
     ],
     "inStock": true,
     "specs": [],
@@ -42715,7 +42715,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-02.jpg?v=1629046430"
     ],
     "inStock": true,
     "specs": [],
@@ -42734,7 +42734,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-03.jpg?v=1629046456"
     ],
     "inStock": true,
     "specs": [],
@@ -42753,7 +42753,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-04.jpg?v=1629046483"
     ],
     "inStock": true,
     "specs": [],
@@ -42771,7 +42771,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-06.jpg?v=1629046503"
     ],
     "inStock": false,
     "specs": [],
@@ -42789,7 +42789,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-07.jpg?v=1629046524"
     ],
     "inStock": true,
     "specs": [],
@@ -42808,7 +42808,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-08.jpg?v=1629046557"
     ],
     "inStock": true,
     "specs": [],
@@ -42826,7 +42826,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7TR.jpg?v=1629090455"
     ],
     "inStock": true,
     "specs": [],
@@ -42844,7 +42844,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BSF01.jpg?v=1629044853"
     ],
     "inStock": true,
     "specs": [],
@@ -42862,7 +42862,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BLF.jpg?v=1629044925"
     ],
     "inStock": true,
     "specs": [],
@@ -42880,7 +42880,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA.png?v=1610525709"
     ],
     "inStock": true,
     "specs": [],
@@ -42899,7 +42899,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_544c1520-d4d6-4f20-bb52-ebb4cbd768aa.png?v=1610525711"
     ],
     "inStock": true,
     "specs": [],
@@ -42918,7 +42918,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_b0e75777-3e39-41ef-8a58-81ed76b4ad03.png?v=1610525712"
     ],
     "inStock": true,
     "specs": [],
@@ -42936,7 +42936,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_f3dd8474-70f3-44e5-992d-cf1f6f89138d.png?v=1610525714"
     ],
     "inStock": true,
     "specs": [],
@@ -42954,7 +42954,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NDPV1.jpg?v=1629040455"
     ],
     "inStock": true,
     "specs": [],
@@ -42972,7 +42972,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-LU08.jpg?v=1650457887"
     ],
     "inStock": true,
     "specs": [],
@@ -42990,7 +42990,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ADP.jpg?v=1629040872"
     ],
     "inStock": true,
     "specs": [],
@@ -43008,7 +43008,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CONFIGURATOR2.jpg?v=1629040947"
     ],
     "inStock": false,
     "specs": [],
@@ -43026,7 +43026,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_1e34cb5e-9cc3-43c0-95da-cc67bf439813.jpg?v=1604682332"
     ],
     "inStock": true,
     "specs": [],
@@ -43045,7 +43045,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_252e1a85-a0db-4204-946a-d10c3b837c45.jpg?v=1604682331"
     ],
     "inStock": true,
     "specs": [],
@@ -43063,7 +43063,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_207a59ee-9219-424e-ae8e-47d3f186f763.jpg?v=1604682334"
     ],
     "inStock": true,
     "specs": [],
@@ -43081,7 +43081,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_7f0544f7-a761-4054-968c-683e07cd5d8e.jpg?v=1604682333"
     ],
     "inStock": true,
     "specs": [],
@@ -43099,7 +43099,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_43a1d099-bb24-4213-ab08-adf5001d64db.jpg?v=1604682335"
     ],
     "inStock": true,
     "specs": [],
@@ -43117,7 +43117,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_436f19f1-a3ec-4309-a6b4-a926a134d300.jpg?v=1604682336"
     ],
     "inStock": true,
     "specs": [],
@@ -43135,7 +43135,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_fd140261-7759-4e6a-8f44-03156cd781d3.jpg?v=1604682348"
     ],
     "inStock": true,
     "specs": [],
@@ -43154,7 +43154,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_4664d5b4-2b3e-4919-b03a-c521807cd4a3.jpg?v=1604682347"
     ],
     "inStock": true,
     "specs": [],
@@ -43173,7 +43173,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_23573950-a00d-4e0a-b8f2-963c09b9f626.jpg?v=1604682349"
     ],
     "inStock": true,
     "specs": [],
@@ -43192,7 +43192,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_ef8b2ad3-a4fe-420d-97bd-3cfb8667b9e3.jpg?v=1604682346"
     ],
     "inStock": true,
     "specs": [],
@@ -43210,7 +43210,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_1ae69987-8aee-4bc4-af41-1c732f4d15df.jpg?v=1604682351"
     ],
     "inStock": true,
     "specs": [],
@@ -43229,7 +43229,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_97be6684-3ac3-4ec5-b4f7-04b39a4063f8.jpg?v=1604682350"
     ],
     "inStock": true,
     "specs": [],
@@ -43247,7 +43247,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_74b725f7-ad42-4911-bb26-e228e36283e5.jpg?v=1604682320"
     ],
     "inStock": true,
     "specs": [],
@@ -43265,7 +43265,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_df223220-e40d-4a2b-9d8d-484657cc5bd5.jpg?v=1604682318"
     ],
     "inStock": true,
     "specs": [],
@@ -43284,7 +43284,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_5ebc503b-be43-4691-a6d7-e60923a3cd62.jpg?v=1604682319"
     ],
     "inStock": false,
     "specs": [],
@@ -43302,7 +43302,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_37fecc1e-5218-41e1-8ee9-3c9efe672c69.jpg?v=1604682321"
     ],
     "inStock": true,
     "specs": [],
@@ -43320,7 +43320,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100LCDDIGITALKEYPAD.jpg?v=1652601615"
     ],
     "inStock": false,
     "specs": [],
@@ -43338,7 +43338,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU.png?v=1610525470"
     ],
     "inStock": true,
     "specs": [],
@@ -43356,7 +43356,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_d0ebdcaf-4d4f-488e-bb65-aef835130a38.png?v=1610525471"
     ],
     "inStock": true,
     "specs": [],
@@ -43374,7 +43374,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_766395fc-b817-4671-bf82-ccdf7bcf8164.png?v=1610525472"
     ],
     "inStock": true,
     "specs": [],
@@ -43393,7 +43393,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_73a1492e-d10f-49c8-8924-0fc8549d9c71.png?v=1610525473"
     ],
     "inStock": true,
     "specs": [],
@@ -43411,7 +43411,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_d63c5967-94ad-471e-8fc2-2e3b7ba3ae4b.png?v=1610525475"
     ],
     "inStock": true,
     "specs": [],
@@ -43429,7 +43429,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KU1.V.png?v=1610528341"
     ],
     "inStock": true,
     "specs": [],
@@ -43447,7 +43447,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KU2.V.png?v=1610528342"
     ],
     "inStock": true,
     "specs": [],
@@ -43466,7 +43466,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/LK10.png?v=1610528343"
     ],
     "inStock": true,
     "specs": [],
@@ -43484,7 +43484,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_LK10-YR.png?v=1610528345"
     ],
     "inStock": true,
     "specs": [],
@@ -43502,7 +43502,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_L300AD11.png?v=1610528346"
     ],
     "inStock": true,
     "specs": [],
@@ -43521,7 +43521,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_OKA-KULK10Y-R.jpg?v=1610528347"
     ],
     "inStock": true,
     "specs": [],
@@ -43540,7 +43540,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-2U.jpg?v=1652552979"
     ],
     "inStock": true,
     "specs": [],
@@ -43558,7 +43558,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-2U.jpg?v=1652552997"
     ],
     "inStock": true,
     "specs": [],
@@ -43576,7 +43576,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-2U.jpg?v=1652553018"
     ],
     "inStock": true,
     "specs": [],
@@ -43594,7 +43594,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-2U.jpg?v=1652553044"
     ],
     "inStock": true,
     "specs": [],
@@ -43612,7 +43612,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-4U.jpg?v=1652553074"
     ],
     "inStock": true,
     "specs": [],
@@ -43631,7 +43631,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-4U.jpg?v=1652553105"
     ],
     "inStock": true,
     "specs": [],
@@ -43649,7 +43649,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-4U.jpg?v=1652553124"
     ],
     "inStock": true,
     "specs": [],
@@ -43667,7 +43667,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-4U.jpg?v=1652553153"
     ],
     "inStock": true,
     "specs": [],
@@ -43686,7 +43686,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV750DBU-4U.jpg?v=1652553175"
     ],
     "inStock": true,
     "specs": [],
@@ -43704,7 +43704,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CS-050-14A-SF1.jpg?v=1629045038"
     ],
     "inStock": true,
     "specs": [],
@@ -43722,7 +43722,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CS-080-20A-SF1.jpg?v=1629045066"
     ],
     "inStock": true,
     "specs": [],
@@ -43740,7 +43740,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CSH-036-8A-SF1.jpg?v=1629045158"
     ],
     "inStock": true,
     "specs": [],
@@ -43758,7 +43758,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CS-110-26A-SF1.jpg?v=1629045180"
     ],
     "inStock": true,
     "specs": [],
@@ -43777,7 +43777,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CSH-080-16ASF1.jpg?v=1629045203"
     ],
     "inStock": true,
     "specs": [],
@@ -43795,7 +43795,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-170-30ASF1.jpg?v=1629045232"
     ],
     "inStock": true,
     "specs": [],
@@ -43813,7 +43813,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100LONWORK.jpg?v=1652611965"
     ],
     "inStock": true,
     "specs": [],
@@ -43831,7 +43831,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NDPV1.jpg?v=1629040455"
     ],
     "inStock": true,
     "specs": [],
@@ -43849,7 +43849,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-LU08-01.jpg?v=1629040672"
     ],
     "inStock": true,
     "specs": [],
@@ -43867,7 +43867,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-LU08.jpg?v=1650457887"
     ],
     "inStock": true,
     "specs": [],
@@ -43885,7 +43885,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07_FR-PU07-01.jpg?v=1629040716"
     ],
     "inStock": true,
     "specs": [],
@@ -43903,7 +43903,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ADP.jpg?v=1629040872"
     ],
     "inStock": true,
     "specs": [],
@@ -43921,7 +43921,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CONFIGURATOR2.jpg?v=1629040947"
     ],
     "inStock": true,
     "specs": [],
@@ -43939,7 +43939,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Bases.jpg?v=1614956906"
     ],
     "inStock": true,
     "specs": [],
@@ -43958,7 +43958,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Bases_0943eb91-e769-4f31-920c-5f3b6ec54808.jpg?v=1614956907"
     ],
     "inStock": true,
     "specs": [],
@@ -43977,7 +43977,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Bases_f0a6e4a1-1e81-41e1-b5fa-99e33e00028e.jpg?v=1614956908"
     ],
     "inStock": true,
     "specs": [],
@@ -43995,7 +43995,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-095-16A-SF1.jpg?v=1629090897"
     ],
     "inStock": true,
     "specs": [],
@@ -44013,7 +44013,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-040-8A-SF1.jpg?v=1629090942"
     ],
     "inStock": true,
     "specs": [],
@@ -44031,7 +44031,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-300-50A-SF1.jpg?v=1629090963"
     ],
     "inStock": true,
     "specs": [],
@@ -44049,7 +44049,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-170-30A-SF1.jpg?v=1629090989"
     ],
     "inStock": true,
     "specs": [],
@@ -44068,7 +44068,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM316UL.png?v=1610527786"
     ],
     "inStock": true,
     "specs": [],
@@ -44086,7 +44086,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM325ULYR.png?v=1610527788"
     ],
     "inStock": true,
     "specs": [],
@@ -44104,7 +44104,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM340UL.png?v=1610527790"
     ],
     "inStock": true,
     "specs": [],
@@ -44122,7 +44122,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM360UL.png?v=1610527792"
     ],
     "inStock": true,
     "specs": [],
@@ -44140,7 +44140,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM380UL.png?v=1610527794"
     ],
     "inStock": true,
     "specs": [],
@@ -44158,7 +44158,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3100L.png?v=1610527796"
     ],
     "inStock": true,
     "specs": [],
@@ -44176,7 +44176,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3125UL.png?v=1610527798"
     ],
     "inStock": true,
     "specs": [],
@@ -44194,7 +44194,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3150UL.png?v=1610527800"
     ],
     "inStock": true,
     "specs": [],
@@ -44213,7 +44213,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM316ULYR.png?v=1610527802"
     ],
     "inStock": true,
     "specs": [],
@@ -44231,7 +44231,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM325ULYR_7159afb9-c15e-4ee1-b7ab-dd37ef6571ca.png?v=1610527804"
     ],
     "inStock": true,
     "specs": [],
@@ -44249,7 +44249,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM340ULYR.png?v=1610527812"
     ],
     "inStock": true,
     "specs": [],
@@ -44267,7 +44267,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM360ULYR.png?v=1610527815"
     ],
     "inStock": false,
     "specs": [],
@@ -44285,7 +44285,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM380ULYR.png?v=1610527818"
     ],
     "inStock": true,
     "specs": [],
@@ -44304,7 +44304,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3100LYR.png?v=1610527820"
     ],
     "inStock": true,
     "specs": [],
@@ -44322,7 +44322,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7VF8000342.jpg?v=1652552889"
     ],
     "inStock": true,
     "specs": [],
@@ -44341,7 +44341,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000344.jpg?v=1652549046"
     ],
     "inStock": true,
     "specs": [],
@@ -44360,7 +44360,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7VF8000343.jpg?v=1652549136"
     ],
     "inStock": true,
     "specs": [],
@@ -44378,7 +44378,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000345.jpg?v=1652549169"
     ],
     "inStock": true,
     "specs": [],
@@ -44396,7 +44396,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000346.jpg?v=1652549191"
     ],
     "inStock": true,
     "specs": [],
@@ -44415,7 +44415,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000347.jpg?v=1652549215"
     ],
     "inStock": true,
     "specs": [],
@@ -44434,7 +44434,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000348.jpg?v=1652549254"
     ],
     "inStock": true,
     "specs": [],
@@ -44452,7 +44452,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H75K.jpg?v=1628953874"
     ],
     "inStock": true,
     "specs": [],
@@ -44471,7 +44471,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H90K.jpg?v=1628953896"
     ],
     "inStock": true,
     "specs": [],
@@ -44489,7 +44489,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H110K.jpg?v=1628953922"
     ],
     "inStock": true,
     "specs": [],
@@ -44507,7 +44507,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H132K.jpg?v=1628953963"
     ],
     "inStock": true,
     "specs": [],
@@ -44525,7 +44525,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H160K.jpg?v=1628953990"
     ],
     "inStock": true,
     "specs": [],
@@ -44544,7 +44544,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H185K.jpg?v=1649524340"
     ],
     "inStock": true,
     "specs": [],
@@ -44562,7 +44562,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H220K.jpg?v=1628954207"
     ],
     "inStock": true,
     "specs": [],
@@ -44580,7 +44580,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H250K.jpg?v=1628954491"
     ],
     "inStock": true,
     "specs": [],
@@ -44598,7 +44598,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H280K.jpg?v=1628954524"
     ],
     "inStock": true,
     "specs": [],
@@ -44616,7 +44616,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H315K.jpg?v=1628954544"
     ],
     "inStock": false,
     "specs": [],
@@ -44634,7 +44634,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H355K.jpg?v=1628954768"
     ],
     "inStock": true,
     "specs": [],
@@ -44652,7 +44652,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_517be435-8b39-42f2-899a-6721c4abdafe.jpg?v=1604682344"
     ],
     "inStock": true,
     "specs": [],
@@ -44671,7 +44671,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_44144777-3408-4107-a8b3-ee564269be04.jpg?v=1604682343"
     ],
     "inStock": true,
     "specs": [],
@@ -44689,7 +44689,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_9141a20e-879f-42d3-a79a-b9046ea705d1.jpg?v=1604682342"
     ],
     "inStock": true,
     "specs": [],
@@ -44707,7 +44707,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_67beb6f2-55e0-4dd4-84a9-dfd03624c1e9.jpg?v=1604682345"
     ],
     "inStock": true,
     "specs": [],
@@ -44725,7 +44725,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ALCDDIGITALKEYPAD.jpg?v=1652616801"
     ],
     "inStock": true,
     "specs": [],
@@ -44743,7 +44743,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AKEYPADCOVER.jpg?v=1652616821"
     ],
     "inStock": true,
     "specs": [],
@@ -44761,7 +44761,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AKEYPADBRACKET.jpg?v=1652616843"
     ],
     "inStock": true,
     "specs": [],
@@ -44779,7 +44779,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CANOPEN.jpg?v=1652601809"
     ],
     "inStock": true,
     "specs": [],
@@ -44797,7 +44797,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100PROFIBUSINTERFACE.jpg?v=1652601889"
     ],
     "inStock": true,
     "specs": [],
@@ -44815,7 +44815,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100ETHERNET_IP.jpg?v=1652601918"
     ],
     "inStock": false,
     "specs": [],
@@ -44834,7 +44834,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_d574ff28-fc95-4e08-9438-470574d56ec6.jpg?v=1614963924"
     ],
     "inStock": true,
     "specs": [],
@@ -44852,7 +44852,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_e79aab51-2039-4e86-9b2b-deea9226b86e.jpg?v=1614963925"
     ],
     "inStock": true,
     "specs": [],
@@ -44870,7 +44870,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_18b0f32b-e5f0-4696-b39c-17eb9ee2ec89.jpg?v=1614963926"
     ],
     "inStock": true,
     "specs": [],
@@ -44889,7 +44889,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_dfc0924f-1800-4bb1-b6fa-ed7150a4f45e.jpg?v=1614963928"
     ],
     "inStock": true,
     "specs": [],
@@ -44907,7 +44907,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_81092389-085c-4a2e-b765-0389c6a3430f.jpg?v=1614963927"
     ],
     "inStock": true,
     "specs": [],
@@ -44926,7 +44926,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-75K.jpg?v=1628951919"
     ],
     "inStock": true,
     "specs": [],
@@ -44944,7 +44944,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-90K.jpg?v=1628951938"
     ],
     "inStock": true,
     "specs": [],
@@ -44962,7 +44962,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-110K.jpg?v=1628951953"
     ],
     "inStock": true,
     "specs": [],
@@ -44980,7 +44980,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEB.jpg?v=1652612215"
     ],
     "inStock": true,
     "specs": [],
@@ -44999,7 +44999,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEA.jpg?v=1652612244"
     ],
     "inStock": true,
     "specs": [],
@@ -45018,7 +45018,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULED.jpg?v=1652612466"
     ],
     "inStock": true,
     "specs": [],
@@ -45037,7 +45037,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEC.jpg?v=1652612497"
     ],
     "inStock": true,
     "specs": [],
@@ -45055,7 +45055,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEE.jpg?v=1652612524"
     ],
     "inStock": true,
     "specs": [],
@@ -45073,7 +45073,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEF.jpg?v=1652612572"
     ],
     "inStock": true,
     "specs": [],
@@ -45091,7 +45091,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iC5MODBUSRTU.jpg?v=1652544164"
     ],
     "inStock": true,
     "specs": [],
@@ -45109,7 +45109,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-2U.jpg?v=1652552979"
     ],
     "inStock": true,
     "specs": [],
@@ -45127,7 +45127,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-2U.jpg?v=1652552997"
     ],
     "inStock": true,
     "specs": [],
@@ -45145,7 +45145,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-2U.jpg?v=1652553018"
     ],
     "inStock": false,
     "specs": [],
@@ -45163,7 +45163,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-2U.jpg?v=1652553044"
     ],
     "inStock": true,
     "specs": [],
@@ -45181,7 +45181,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-4U.jpg?v=1652553074"
     ],
     "inStock": true,
     "specs": [],
@@ -45199,7 +45199,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-4U.jpg?v=1652553105"
     ],
     "inStock": true,
     "specs": [],
@@ -45217,7 +45217,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-4U.jpg?v=1652553124"
     ],
     "inStock": true,
     "specs": [],
@@ -45236,7 +45236,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-4U.jpg?v=1652553153"
     ],
     "inStock": true,
     "specs": [],
@@ -45255,7 +45255,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV750DBU-4U.jpg?v=1652553175"
     ],
     "inStock": true,
     "specs": [],
@@ -45273,7 +45273,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07.jpg?v=1629044285"
     ],
     "inStock": true,
     "specs": [],
@@ -45292,7 +45292,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB4.jpg?v=1629044534"
     ],
     "inStock": true,
     "specs": [],
@@ -45310,7 +45310,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB10.jpg?v=1629044551"
     ],
     "inStock": true,
     "specs": [],
@@ -45328,7 +45328,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-TR.jpg?v=1629044571"
     ],
     "inStock": true,
     "specs": [],
@@ -45347,7 +45347,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7ENCODERCARD.jpg?v=1652548377"
     ],
     "inStock": true,
     "specs": [],
@@ -45365,7 +45365,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7ETHERNET_MODBUSTCPCARD.jpg?v=1652548403"
     ],
     "inStock": true,
     "specs": [],
@@ -45384,7 +45384,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7I_OEXPANSION.jpg?v=1652548425"
     ],
     "inStock": true,
     "specs": [],
@@ -45402,7 +45402,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7I_OEXPANSION2.jpg?v=1652548447"
     ],
     "inStock": true,
     "specs": [],
@@ -45420,7 +45420,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7PROFIBUSINTERFACE.jpg?v=1652548494"
     ],
     "inStock": true,
     "specs": [],
@@ -45439,7 +45439,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7DEVICENET.jpg?v=1652548515"
     ],
     "inStock": true,
     "specs": [],
@@ -45457,7 +45457,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7LONWORKS.jpg?v=1652548533"
     ],
     "inStock": true,
     "specs": [],
@@ -45475,7 +45475,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CANOPEN.jpg?v=1652548568"
     ],
     "inStock": true,
     "specs": [],
@@ -45494,7 +45494,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7R-NET.jpg?v=1652548661"
     ],
     "inStock": true,
     "specs": [],
@@ -45512,7 +45512,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7SYNCHRONOUSOPTIONCARD.jpg?v=1652548687"
     ],
     "inStock": true,
     "specs": [],
@@ -45531,7 +45531,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF.jpg?v=1629044713"
     ],
     "inStock": true,
     "specs": [],
@@ -45549,7 +45549,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF-H.jpg?v=1629044738"
     ],
     "inStock": true,
     "specs": [],
@@ -45567,7 +45567,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN01.jpg?v=1650458462"
     ],
     "inStock": true,
     "specs": [],
@@ -45585,7 +45585,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN02.jpg?v=1650458533"
     ],
     "inStock": true,
     "specs": [],
@@ -45603,7 +45603,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN03.jpg?v=1650458559"
     ],
     "inStock": true,
     "specs": [],
@@ -45621,7 +45621,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN04.jpg?v=1650458626"
     ],
     "inStock": true,
     "specs": [],
@@ -45639,7 +45639,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN05.jpg?v=1650458655"
     ],
     "inStock": true,
     "specs": [],
@@ -45658,7 +45658,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN06.jpg?v=1650458688"
     ],
     "inStock": true,
     "specs": [],
@@ -45676,7 +45676,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MitsubishiHeatsink_f2c4d429-51a9-42b5-8de4-2169244b3bd1.jpg?v=1628418312"
     ],
     "inStock": true,
     "specs": [],
@@ -45694,7 +45694,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN09.jpg?v=1650511751"
     ],
     "inStock": true,
     "specs": [],
@@ -45712,7 +45712,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN08.jpg?v=1650512199"
     ],
     "inStock": false,
     "specs": [],
@@ -45731,7 +45731,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H75K.jpg?v=1628953874"
     ],
     "inStock": true,
     "specs": [],
@@ -45749,7 +45749,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H90K.jpg?v=1628953896"
     ],
     "inStock": false,
     "specs": [],
@@ -45767,7 +45767,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H110K.jpg?v=1628953922"
     ],
     "inStock": true,
     "specs": [],
@@ -45785,7 +45785,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H132K.jpg?v=1628953963"
     ],
     "inStock": true,
     "specs": [],
@@ -45803,7 +45803,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H160K.jpg?v=1628953990"
     ],
     "inStock": true,
     "specs": [],
@@ -45822,7 +45822,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H185K.jpg?v=1649524340"
     ],
     "inStock": true,
     "specs": [],
@@ -45841,7 +45841,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H220K.jpg?v=1628954207"
     ],
     "inStock": true,
     "specs": [],
@@ -45859,7 +45859,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H250K.jpg?v=1628954491"
     ],
     "inStock": true,
     "specs": [],
@@ -45877,7 +45877,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H280K.jpg?v=1628954524"
     ],
     "inStock": true,
     "specs": [],
@@ -45895,7 +45895,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H315K.jpg?v=1628954544"
     ],
     "inStock": true,
     "specs": [],
@@ -45913,7 +45913,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H355K.jpg?v=1628954768"
     ],
     "inStock": true,
     "specs": [],
@@ -45931,7 +45931,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-02.jpg?v=1629046430"
     ],
     "inStock": true,
     "specs": [],
@@ -45950,7 +45950,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-03.jpg?v=1629046456"
     ],
     "inStock": true,
     "specs": [],
@@ -45969,7 +45969,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-04.jpg?v=1629046483"
     ],
     "inStock": true,
     "specs": [],
@@ -45987,7 +45987,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-05.jpg?v=1629094881"
     ],
     "inStock": true,
     "specs": [],
@@ -46006,7 +46006,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-06.jpg?v=1629046503"
     ],
     "inStock": true,
     "specs": [],
@@ -46024,7 +46024,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-07.jpg?v=1629046524"
     ],
     "inStock": true,
     "specs": [],
@@ -46042,7 +46042,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-08.jpg?v=1629046557"
     ],
     "inStock": true,
     "specs": [],
@@ -46061,7 +46061,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-09.jpg?v=1629094901"
     ],
     "inStock": true,
     "specs": [],
@@ -46079,7 +46079,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7CN02.jpg?v=1629094922"
     ],
     "inStock": true,
     "specs": [],
@@ -46097,7 +46097,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ADEVICENETINTERFACE.jpg?v=1652617009"
     ],
     "inStock": true,
     "specs": [],
@@ -46115,7 +46115,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AMODBUSRTUINTERFACE.jpg?v=1652617038"
     ],
     "inStock": true,
     "specs": [],
@@ -46134,7 +46134,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5APROFIBUSINTERFACE.jpg?v=1652617073"
     ],
     "inStock": true,
     "specs": [],
@@ -46152,7 +46152,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ALONWORKINTERFACE.jpg?v=1652617101"
     ],
     "inStock": true,
     "specs": [],
@@ -46170,7 +46170,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ABAC-NETINTERFACE.jpg?v=1652617124"
     ],
     "inStock": true,
     "specs": [],
@@ -46188,7 +46188,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AMODBUS-TCPINTERFACE.jpg?v=1652617147"
     ],
     "inStock": true,
     "specs": [],
@@ -46206,7 +46206,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_0bdea44f-253c-4b56-96ce-d161f14ba8fa.jpg?v=1614963934"
     ],
     "inStock": true,
     "specs": [],
@@ -46224,7 +46224,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_452af6b9-d78c-4f7b-9124-8e0d9418e03c.jpg?v=1614963935"
     ],
     "inStock": true,
     "specs": [],
@@ -46243,7 +46243,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_c5aed69c-adbb-41a0-8d3f-39b94bed87ab.jpg?v=1614963936"
     ],
     "inStock": true,
     "specs": [],
@@ -46262,7 +46262,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_e74378df-3b61-4bee-a9b6-95ef7ddd964c.jpg?v=1614963937"
     ],
     "inStock": true,
     "specs": [],
@@ -46281,7 +46281,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7f42a06a-5017-463b-8340-3a901174188a.jpg?v=1614963939"
     ],
     "inStock": true,
     "specs": [],
@@ -46299,7 +46299,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob.png?v=1607499014"
     ],
     "inStock": true,
     "specs": [],
@@ -46317,7 +46317,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_f44a0b82-f0c0-445a-a2e1-2de92eeac808.png?v=1607499015"
     ],
     "inStock": true,
     "specs": [],
@@ -46335,7 +46335,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_cc8ca219-264e-47b5-bd2d-ed775f50798c.png?v=1607499016"
     ],
     "inStock": true,
     "specs": [],
@@ -46353,7 +46353,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_b240dcd3-d186-4bcd-b656-fba4b9d7e969.png?v=1607499018"
     ],
     "inStock": true,
     "specs": [],
@@ -46372,7 +46372,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_0d917712-21a0-4dfe-b29b-004e6ddc8c60.png?v=1607499019"
     ],
     "inStock": false,
     "specs": [],
@@ -46390,7 +46390,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ef241d3c-1484-407c-beb2-3b6e9716fcec.png?v=1607499020"
     ],
     "inStock": true,
     "specs": [],
@@ -46408,7 +46408,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_bb0f4ed0-e2d4-4994-9718-587ba15a4ba7.png?v=1607499021"
     ],
     "inStock": true,
     "specs": [],
@@ -46427,7 +46427,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_2f384320-4c63-41e1-a257-c972a291f93f.png?v=1607499022"
     ],
     "inStock": true,
     "specs": [],
@@ -46445,7 +46445,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_2004e749-3499-4069-b0df-694a25113d60.png?v=1607499024"
     ],
     "inStock": false,
     "specs": [],
@@ -46464,7 +46464,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_35449c20-dc38-486b-8d9d-7f2f3ff78e06.png?v=1607499025"
     ],
     "inStock": true,
     "specs": [],
@@ -46483,7 +46483,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_fa440049-3641-4797-96bc-4600992042fb.png?v=1607499026"
     ],
     "inStock": true,
     "specs": [],
@@ -46501,7 +46501,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ea8ba582-b0ad-4a55-9b7b-0e22db79effc.png?v=1607499027"
     ],
     "inStock": true,
     "specs": [],
@@ -46519,7 +46519,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_5d6d8c30-8289-418a-8105-979d76a21cae.png?v=1607499028"
     ],
     "inStock": true,
     "specs": [],
@@ -46538,7 +46538,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ff68a5e9-92ba-45f6-be0a-e9206db64ea9.png?v=1607499030"
     ],
     "inStock": true,
     "specs": [],
@@ -46557,7 +46557,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_d76986ff-3e57-4fad-9cc8-48806ad939b3.png?v=1607499031"
     ],
     "inStock": true,
     "specs": [],
@@ -46575,7 +46575,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_151575ff-83f3-4b34-8191-869aef5e1e70.png?v=1607499032"
     ],
     "inStock": true,
     "specs": [],
@@ -46593,7 +46593,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C75K.jpg?v=1650455824"
     ],
     "inStock": true,
     "specs": [],
@@ -46611,7 +46611,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C90K.jpg?v=1650455942"
     ],
     "inStock": true,
     "specs": [],
@@ -46630,7 +46630,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C110K.jpg?v=1650456028"
     ],
     "inStock": true,
     "specs": [],
@@ -46649,7 +46649,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C132K.jpg?v=1650456081"
     ],
     "inStock": true,
     "specs": [],
@@ -46668,7 +46668,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C185K.jpg?v=1650456156"
     ],
     "inStock": true,
     "specs": [],
@@ -46686,7 +46686,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C220K.jpg?v=1650456186"
     ],
     "inStock": true,
     "specs": [],
@@ -46704,7 +46704,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C280K.jpg?v=1650456215"
     ],
     "inStock": false,
     "specs": [],
@@ -46723,7 +46723,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7GRAPHICALLCDDIGITALKEYPAD.jpg?v=1652548219"
     ],
     "inStock": true,
     "specs": [],
@@ -46741,7 +46741,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7KEYPADMOUNTINGKIT.jpg?v=1652548239"
     ],
     "inStock": true,
     "specs": [],
@@ -46759,7 +46759,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF.jpg?v=1629044713"
     ],
     "inStock": true,
     "specs": [],
@@ -46778,7 +46778,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF-H.jpg?v=1629044738"
     ],
     "inStock": true,
     "specs": [],
@@ -46797,7 +46797,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BSF01.jpg?v=1629044853"
     ],
     "inStock": true,
     "specs": [],
@@ -46815,7 +46815,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BLF.jpg?v=1629044925"
     ],
     "inStock": true,
     "specs": [],
@@ -46965,7 +46965,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07.jpg?v=1629044285"
     ],
     "inStock": false,
     "specs": [],
@@ -46983,7 +46983,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/D700-PT1.jpg?v=1629044352"
     ],
     "inStock": true,
     "specs": [],
@@ -47001,7 +47001,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PA07.jpg?v=1629044376"
     ],
     "inStock": true,
     "specs": [],
@@ -47019,7 +47019,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CONFIGURATOR.jpg?v=1629044397"
     ],
     "inStock": false,
     "specs": [],
@@ -47037,7 +47037,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB4.jpg?v=1629044534"
     ],
     "inStock": true,
     "specs": [],
@@ -47056,7 +47056,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB10.jpg?v=1629044551"
     ],
     "inStock": true,
     "specs": [],
@@ -47074,7 +47074,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-TR.jpg?v=1629044571"
     ],
     "inStock": true,
     "specs": [],
@@ -47093,7 +47093,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7a50d363-bdf7-456f-ae78-146580bd8c33.jpg?v=1614963929"
     ],
     "inStock": true,
     "specs": [],
@@ -47112,7 +47112,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_85d0c370-b563-46ad-ade3-a7fe1daa50d8.jpg?v=1614963930"
     ],
     "inStock": true,
     "specs": [],
@@ -47131,7 +47131,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_2749fe9c-2387-4550-aff3-54c5a284956a.jpg?v=1614963930"
     ],
     "inStock": true,
     "specs": [],
@@ -47149,7 +47149,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_8ff70cc6-6f42-4fd9-b8be-87e3028356ac.jpg?v=1614963931"
     ],
     "inStock": true,
     "specs": [],
@@ -47167,7 +47167,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5ce2c264-643d-4aad-9abe-1358cf5d7708.jpg?v=1614963932"
     ],
     "inStock": true,
     "specs": [],
@@ -47185,7 +47185,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-75K.jpg?v=1628951919"
     ],
     "inStock": true,
     "specs": [],
@@ -47204,7 +47204,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-90K.jpg?v=1628951938"
     ],
     "inStock": true,
     "specs": [],
@@ -47223,7 +47223,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-110K.jpg?v=1628951953"
     ],
     "inStock": true,
     "specs": [],
@@ -47260,7 +47260,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM360ULYR.png?v=1610527815"
     ],
     "inStock": true,
     "specs": [],
@@ -47278,7 +47278,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM325ULYR.png?v=1610527788"
     ],
     "inStock": true,
     "specs": [],
@@ -47296,7 +47296,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle.png?v=1607498086"
     ],
     "inStock": true,
     "specs": [],
@@ -47314,7 +47314,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_dfd9fc6a-8129-4813-8a0c-e76ab8f6fcc5.png?v=1607498087"
     ],
     "inStock": false,
     "specs": [],
@@ -47332,7 +47332,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_43f425ee-aa6c-4df7-ab61-dba02bd5cd3b.png?v=1607498088"
     ],
     "inStock": true,
     "specs": [],
@@ -47351,7 +47351,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_3f2e0820-05a2-4fdf-8f8f-c92d2dea79d1.png?v=1607498089"
     ],
     "inStock": false,
     "specs": [],
@@ -47370,7 +47370,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_34119863-7fc1-4821-84d3-3756bcd3fc99.png?v=1607498090"
     ],
     "inStock": true,
     "specs": [],
@@ -47388,7 +47388,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_9d64af13-6bfc-4347-8e32-30824f6d41b4.png?v=1607498092"
     ],
     "inStock": true,
     "specs": [],
@@ -47406,7 +47406,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_a9eb21f5-358a-4991-b6ca-cd09d77cdbb0.png?v=1607498093"
     ],
     "inStock": false,
     "specs": [],
@@ -47424,7 +47424,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_f53bfbb7-70fd-4e52-80fc-4b7f39e9ef07.png?v=1607498094"
     ],
     "inStock": true,
     "specs": [],
@@ -47442,7 +47442,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_afc55b72-b3d4-4908-8154-76b2ace005f1.png?v=1607498095"
     ],
     "inStock": true,
     "specs": [],
@@ -47460,7 +47460,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_63eea501-b6d6-4e29-a249-deded0cd4e87.png?v=1607498096"
     ],
     "inStock": true,
     "specs": [],
@@ -47478,7 +47478,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_efcf9e51-fc8f-49f2-b72b-76d738d0433a.png?v=1607498098"
     ],
     "inStock": true,
     "specs": [],
@@ -47496,7 +47496,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_24131fa5-2f38-4423-b0b3-be8428491a5f.png?v=1607498099"
     ],
     "inStock": true,
     "specs": [],
@@ -47515,7 +47515,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_00d02d57-1619-40a6-94fb-b0b92b33d78d.png?v=1607498100"
     ],
     "inStock": true,
     "specs": [],
@@ -47533,7 +47533,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_b5e327e5-59be-4864-ae3f-ed036f16b5d2.png?v=1607498102"
     ],
     "inStock": true,
     "specs": [],
@@ -47552,7 +47552,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_2f4d573c-0467-4fb7-abdd-29108e6f5490.png?v=1607498103"
     ],
     "inStock": true,
     "specs": [],
@@ -47570,7 +47570,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_328454f9-23c9-476b-aa35-a2a8b28a3c20.png?v=1607498105"
     ],
     "inStock": true,
     "specs": [],
@@ -49331,7 +49331,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -49349,7 +49349,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -49368,7 +49368,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -49386,7 +49386,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -49405,7 +49405,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -49424,7 +49424,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -49442,7 +49442,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H7.5K.jpg?v=1629045830"
     ],
     "inStock": true,
     "specs": [],
@@ -49460,7 +49460,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -49478,7 +49478,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -49496,7 +49496,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": true,
     "specs": [],
@@ -49514,7 +49514,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": true,
     "specs": [],
@@ -49533,7 +49533,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-7.5K.jpg?v=1629045520"
     ],
     "inStock": false,
     "specs": [],
@@ -49552,7 +49552,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -49570,7 +49570,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-11K.jpg?v=1629045553"
     ],
     "inStock": false,
     "specs": [],
@@ -49588,7 +49588,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-15K.jpg?v=1629045579"
     ],
     "inStock": true,
     "specs": [],
@@ -49606,7 +49606,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -49624,7 +49624,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -49643,7 +49643,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -49661,7 +49661,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -49679,7 +49679,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H7.5K.jpg?v=1629045830"
     ],
     "inStock": true,
     "specs": [],
@@ -49698,7 +49698,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -49717,7 +49717,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -49736,7 +49736,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H15K.jpg?v=1629045884"
     ],
     "inStock": true,
     "specs": [],
@@ -49754,7 +49754,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H11K.jpg?v=1629045851"
     ],
     "inStock": true,
     "specs": [],
@@ -49972,7 +49972,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_3cc5901e-bcbc-4133-b104-7c217552cde6.jpg?v=1604682461"
     ],
     "inStock": true,
     "specs": [],
@@ -49990,7 +49990,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_9e17dd4f-d685-439c-98b2-2bc3506b16be.jpg?v=1604682461"
     ],
     "inStock": false,
     "specs": [],
@@ -50008,7 +50008,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KKV322CC.png?v=1610526879"
     ],
     "inStock": true,
     "specs": [],
@@ -50027,7 +50027,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA120W40OHMJ.jpg?v=1652614083"
     ],
     "inStock": true,
     "specs": [],
@@ -50045,7 +50045,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA120W50OHMJ.jpg?v=1652614148"
     ],
     "inStock": false,
     "specs": [],
@@ -50063,7 +50063,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA120W100OHMJ.jpg?v=1652614190"
     ],
     "inStock": false,
     "specs": [],
@@ -50081,7 +50081,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA200W100OHMJ.jpg?v=1652616065"
     ],
     "inStock": true,
     "specs": [],
@@ -50099,7 +50099,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA200W160OHMJ.jpg?v=1652616095"
     ],
     "inStock": true,
     "specs": [],
@@ -50118,7 +50118,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA200W200OHMJ.jpg?v=1652616118"
     ],
     "inStock": true,
     "specs": [],
@@ -50137,7 +50137,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB300W100OHMJ.jpg?v=1652616143"
     ],
     "inStock": true,
     "specs": [],
@@ -50156,7 +50156,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W40OHMJ.jpg?v=1652616194"
     ],
     "inStock": true,
     "specs": [],
@@ -50174,7 +50174,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W50OHMJ.jpg?v=1652616255"
     ],
     "inStock": false,
     "specs": [],
@@ -50192,7 +50192,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W160OHMJ.jpg?v=1652616278"
     ],
     "inStock": true,
     "specs": [],
@@ -50210,7 +50210,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W100OHMJ.jpg?v=1652616301"
     ],
     "inStock": true,
     "specs": [],
@@ -50228,7 +50228,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W200OHMJ.jpg?v=1652616330"
     ],
     "inStock": true,
     "specs": [],
@@ -50246,7 +50246,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB-ST0.6KW33OHMJ.jpg?v=1652616353"
     ],
     "inStock": true,
     "specs": [],
@@ -50265,7 +50265,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB-ST0.6KW130OHMJ.jpg?v=1652616376"
     ],
     "inStock": true,
     "specs": [],
@@ -50283,7 +50283,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST0.8KW20OHMJ.jpg?v=1652616398"
     ],
     "inStock": true,
     "specs": [],
@@ -50301,7 +50301,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST1.0KW85OHMJ.jpg?v=1652616434"
     ],
     "inStock": false,
     "specs": [],
@@ -50319,7 +50319,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST1.2KW15OHMJ.jpg?v=1652616454"
     ],
     "inStock": false,
     "specs": [],
@@ -50338,7 +50338,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST1.2KW60OHMJ.jpg?v=1652616479"
     ],
     "inStock": true,
     "specs": [],
@@ -50356,7 +50356,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.0KW40OHMJ.jpg?v=1652616505"
     ],
     "inStock": true,
     "specs": [],
@@ -50374,7 +50374,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.4KW8OHMJ.jpg?v=1652616565"
     ],
     "inStock": true,
     "specs": [],
@@ -50392,7 +50392,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.4KW10OHMJ.jpg?v=1652616594"
     ],
     "inStock": true,
     "specs": [],
@@ -50411,7 +50411,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST2.4KW30OHMJ.jpg?v=1652616623"
     ],
     "inStock": true,
     "specs": [],
@@ -50429,7 +50429,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST3.6KW5OHMJ.jpg?v=1652616657"
     ],
     "inStock": true,
     "specs": [],
@@ -50447,7 +50447,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRM-ST3.6KW20OHMJ.jpg?v=1652616697"
     ],
     "inStock": true,
     "specs": [],
@@ -50595,7 +50595,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -50613,7 +50613,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -50631,7 +50631,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": true,
     "specs": [],
@@ -50649,7 +50649,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": false,
     "specs": [],
@@ -50667,7 +50667,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -50686,7 +50686,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-7.5K.jpg?v=1629045520"
     ],
     "inStock": true,
     "specs": [],
@@ -50704,7 +50704,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -50722,7 +50722,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -50740,7 +50740,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": true,
     "specs": [],
@@ -50758,7 +50758,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": true,
     "specs": [],
@@ -50776,7 +50776,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -50794,7 +50794,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-7.5K.jpg?v=1629045520"
     ],
     "inStock": true,
     "specs": [],
@@ -50813,7 +50813,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-11K.jpg?v=1629045553"
     ],
     "inStock": true,
     "specs": [],
@@ -50831,7 +50831,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-15K.jpg?v=1629045579"
     ],
     "inStock": true,
     "specs": [],
@@ -50849,7 +50849,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -50867,7 +50867,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -50886,7 +50886,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -50904,7 +50904,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -50922,7 +50922,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -50940,7 +50940,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -50958,7 +50958,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H7.5K.jpg?v=1629045830"
     ],
     "inStock": true,
     "specs": [],
@@ -50976,7 +50976,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H11K.jpg?v=1629045851"
     ],
     "inStock": true,
     "specs": [],
@@ -50994,7 +50994,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H15K.jpg?v=1629045884"
     ],
     "inStock": true,
     "specs": [],
@@ -51012,7 +51012,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -51030,7 +51030,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -51048,7 +51048,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": false,
     "specs": [],
@@ -51067,7 +51067,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": true,
     "specs": [],
@@ -51085,7 +51085,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -51103,7 +51103,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-7.5K.jpg?v=1629045520"
     ],
     "inStock": true,
     "specs": [],
@@ -51122,7 +51122,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-11K.jpg?v=1629045553"
     ],
     "inStock": true,
     "specs": [],
@@ -51140,7 +51140,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-15K.jpg?v=1629045579"
     ],
     "inStock": true,
     "specs": [],
@@ -51158,7 +51158,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -51176,7 +51176,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -51194,7 +51194,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -51212,7 +51212,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -51230,7 +51230,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -51248,7 +51248,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -51266,7 +51266,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H7.5K.jpg?v=1629045830"
     ],
     "inStock": true,
     "specs": [],
@@ -51284,7 +51284,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H11K.jpg?v=1629045851"
     ],
     "inStock": true,
     "specs": [],
@@ -51302,7 +51302,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H15K.jpg?v=1629045884"
     ],
     "inStock": true,
     "specs": [],
@@ -51338,7 +51338,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_4ec196ae-08e4-4594-8368-07c15cf051cf.jpg?v=1604682467"
     ],
     "inStock": false,
     "specs": [],
@@ -51357,7 +51357,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_3ff48c6b-c257-4651-a0fb-d2bff2e0f211.jpg?v=1604682468"
     ],
     "inStock": false,
     "specs": [],
@@ -51375,7 +51375,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_96dcd790-14a5-4ca8-83ba-71e99c0213cc.jpg?v=1604682469"
     ],
     "inStock": true,
     "specs": [],
@@ -51393,7 +51393,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_aff24c87-f543-4cd8-811e-351946527177.jpg?v=1604682471"
     ],
     "inStock": true,
     "specs": [],
@@ -51411,7 +51411,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_11f8381a-ab16-43de-aef2-56667aeacf16.jpg?v=1604682470"
     ],
     "inStock": true,
     "specs": [],
@@ -51429,7 +51429,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_65199c75-d14b-4b6f-ad61-5c54ddf9a7fa.jpg?v=1604682473"
     ],
     "inStock": true,
     "specs": [],
@@ -51447,7 +51447,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_7b96b4f2-fe2c-427f-8244-60a994f3fea3.jpg?v=1604682472"
     ],
     "inStock": false,
     "specs": [],
@@ -51466,7 +51466,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_59afcd9c-fde2-4321-8458-9091de2dbb44.jpg?v=1604682475"
     ],
     "inStock": true,
     "specs": [],
@@ -51484,7 +51484,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d1177af1-d3ab-4a80-b8b5-f7be6d3009c4.jpg?v=1604682474"
     ],
     "inStock": false,
     "specs": [],
@@ -51503,7 +51503,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e1094bd9-aebf-463d-92c5-34402dbae50f.jpg?v=1604682476"
     ],
     "inStock": true,
     "specs": [],
@@ -51522,7 +51522,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_c40ad780-ed1f-40a6-a8b2-b63bca0e509c.jpg?v=1604682477"
     ],
     "inStock": true,
     "specs": [],
@@ -51541,7 +51541,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b99808eb-4da8-4020-9bd9-f0ce621b0cc0.jpg?v=1604682478"
     ],
     "inStock": true,
     "specs": [],
@@ -51559,7 +51559,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1400dd67-5f54-4915-b153-da09995d4af2.jpg?v=1604682479"
     ],
     "inStock": true,
     "specs": [],
@@ -51578,7 +51578,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_acbe13f2-c806-4c93-8207-898f640b495e.jpg?v=1604682481"
     ],
     "inStock": true,
     "specs": [],
@@ -51596,7 +51596,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_004a130b-3720-452e-891c-8a5b46e455ba.jpg?v=1604682480"
     ],
     "inStock": true,
     "specs": [],
@@ -51614,7 +51614,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b3c3b3f8-0a34-4712-b60e-e07fe59d23af.jpg?v=1604682482"
     ],
     "inStock": true,
     "specs": [],
@@ -53074,7 +53074,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_073824e5-83ac-4532-bb09-e31547c83a31.jpg?v=1607095109"
     ],
     "inStock": false,
     "specs": [],
@@ -55102,7 +55102,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_8dd2be00-cf72-408c-8bb6-82e1efca924e.jpg?v=1604682330"
     ],
     "inStock": false,
     "specs": [],
@@ -55120,7 +55120,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_d1b7e197-a4cd-41fc-9a70-39305b3b8575.jpg?v=1604682322"
     ],
     "inStock": true,
     "specs": [],
@@ -55138,7 +55138,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_114e16bb-ec51-4dba-895e-42bda5d62842.jpg?v=1604682322"
     ],
     "inStock": true,
     "specs": [],
@@ -55156,7 +55156,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_1fb41df7-e96d-4d01-81c0-cadcf7f7aec7.jpg?v=1604682323"
     ],
     "inStock": true,
     "specs": [],
@@ -55174,7 +55174,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_0b816632-b659-4a63-9196-8538619c2591.jpg?v=1604682329"
     ],
     "inStock": true,
     "specs": [],
@@ -55192,7 +55192,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_474574c0-d97d-4040-8a6a-0ad75bf443a7.jpg?v=1604682324"
     ],
     "inStock": true,
     "specs": [],
@@ -55211,7 +55211,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_4e331aac-8985-49ab-8002-617138d4d0f2.jpg?v=1604682341"
     ],
     "inStock": true,
     "specs": [],
@@ -55230,7 +55230,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_7c3fba15-91fd-4582-bfd9-554e41398824.jpg?v=1604682340"
     ],
     "inStock": true,
     "specs": [],
@@ -55248,7 +55248,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_b4987e9c-3a95-4f6f-a297-f6488c23e7b2.jpg?v=1604682337"
     ],
     "inStock": true,
     "specs": [],
@@ -55266,7 +55266,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_76b23a7b-3669-4c78-bcb1-89bf8ded9fea.jpg?v=1604682339"
     ],
     "inStock": true,
     "specs": [],
@@ -55284,7 +55284,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_56113c4d-04ed-4a55-945d-160fbd02557b.jpg?v=1604682341"
     ],
     "inStock": true,
     "specs": [],
@@ -55303,7 +55303,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_42dcb674-e826-45be-aa7f-8e152268ff63.jpg?v=1604682338"
     ],
     "inStock": true,
     "specs": [],
@@ -57403,7 +57403,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2a4d9a1c-51cd-4396-a8f4-d5614f4a7645.jpg?v=1604682497"
     ],
     "inStock": true,
     "specs": [],
@@ -57421,7 +57421,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0f5b4b68-467f-4668-893b-dc3ecf29ffc8.jpg?v=1604682499"
     ],
     "inStock": true,
     "specs": [],
@@ -57439,7 +57439,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_81ca1724-cc45-4456-82ae-8f794f6b9ce1.jpg?v=1604682498"
     ],
     "inStock": true,
     "specs": [],
@@ -57513,7 +57513,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_96c02529-02fd-4439-b256-6be239736a11.jpg?v=1627982346"
     ],
     "inStock": true,
     "specs": [],
@@ -58026,7 +58026,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_349f1e04-3a3a-401c-9fa1-ceea309a0270.jpg?v=1604682505"
     ],
     "inStock": true,
     "specs": [],
@@ -58045,7 +58045,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2de9b4a6-3b28-4a85-8d2e-fd4db967deed.jpg?v=1604682506"
     ],
     "inStock": true,
     "specs": [],
@@ -58063,7 +58063,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8bb791b5-d13d-4daa-9e9c-2f6a82112d33.jpg?v=1604682507"
     ],
     "inStock": true,
     "specs": [],
@@ -58081,7 +58081,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_24a173aa-a905-485c-b145-ae9e54a723e1.jpg?v=1604682508"
     ],
     "inStock": true,
     "specs": [],
@@ -58099,7 +58099,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_269acc6b-1394-48f3-bbf2-949a04bdf777.jpg?v=1604682509"
     ],
     "inStock": true,
     "specs": [],
@@ -60186,7 +60186,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4199a06f-576f-45cb-a8aa-d5fb6debd1f3.jpg?v=1627982398"
     ],
     "inStock": true,
     "specs": [],
@@ -66969,7 +66969,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-G.jpg?v=1650512282"
     ],
     "inStock": true,
     "specs": [],
@@ -66988,7 +66988,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-H.jpg?v=1650512314"
     ],
     "inStock": true,
     "specs": [],
@@ -67007,7 +67007,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-J.jpg?v=1650512357"
     ],
     "inStock": false,
     "specs": [],
@@ -67025,7 +67025,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-K.jpg?v=1650512474"
     ],
     "inStock": true,
     "specs": [],
@@ -67043,7 +67043,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-L.jpg?v=1650512522"
     ],
     "inStock": false,
     "specs": [],
@@ -67061,7 +67061,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MitsubishiBox_ec1e573a-5b9a-4254-a430-69c2ae828c05.jpg?v=1628418698"
     ],
     "inStock": true,
     "specs": [],
@@ -67079,7 +67079,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-N.jpg?v=1650512581"
     ],
     "inStock": true,
     "specs": [],
@@ -67097,7 +67097,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CK-5567.jpg?v=1629094771"
     ],
     "inStock": false,
     "specs": [],
@@ -67115,7 +67115,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CK-27.jpg?v=1629094800"
     ],
     "inStock": true,
     "specs": [],
@@ -67133,7 +67133,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CK-87.jpg?v=1629094820"
     ],
     "inStock": false,
     "specs": [],
@@ -67262,7 +67262,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE1.jpg?v=1652548779"
     ],
     "inStock": true,
     "specs": [],
@@ -67280,7 +67280,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE2.jpg?v=1652548799"
     ],
     "inStock": true,
     "specs": [],
@@ -67298,7 +67298,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE3.jpg?v=1652548821"
     ],
     "inStock": true,
     "specs": [],
@@ -67316,7 +67316,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE4.jpg?v=1652548839"
     ],
     "inStock": true,
     "specs": [],
@@ -67334,7 +67334,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE5.jpg?v=1652548910"
     ],
     "inStock": true,
     "specs": [],
@@ -67353,7 +67353,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE6.jpg?v=1652548943"
     ],
     "inStock": true,
     "specs": [],
@@ -67371,7 +67371,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE2.jpg?v=1652617209"
     ],
     "inStock": true,
     "specs": [],
@@ -67390,7 +67390,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE1.jpg?v=1652617317"
     ],
     "inStock": true,
     "specs": [],
@@ -67408,7 +67408,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE4.jpg?v=1652617349"
     ],
     "inStock": false,
     "specs": [],
@@ -67427,7 +67427,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE3.jpg?v=1652617389"
     ],
     "inStock": true,
     "specs": [],
@@ -67445,7 +67445,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE1.jpg?v=1652612022"
     ],
     "inStock": true,
     "specs": [],
@@ -67464,7 +67464,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE4.jpg?v=1652612048"
     ],
     "inStock": true,
     "specs": [],
@@ -67482,7 +67482,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE3.jpg?v=1652612078"
     ],
     "inStock": false,
     "specs": [],
@@ -67500,7 +67500,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE2.jpg?v=1652612100"
     ],
     "inStock": true,
     "specs": [],
@@ -67519,7 +67519,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE5.jpg?v=1652612123"
     ],
     "inStock": true,
     "specs": [],
@@ -67537,7 +67537,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE6.jpg?v=1652612151"
     ],
     "inStock": true,
     "specs": [],
@@ -73039,7 +73039,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_0707a9b6-9417-44c7-add5-9e7483719461.png?v=1651911335"
     ],
     "inStock": true,
     "specs": [],
@@ -73057,7 +73057,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_9b284b0e-f33e-4e4c-9f3d-c5ee92033fea.png?v=1607175583"
     ],
     "inStock": true,
     "specs": [],
@@ -73075,7 +73075,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_a9d24eef-dcb4-4681-9bec-fd22dda746be.png?v=1607175584"
     ],
     "inStock": true,
     "specs": [],
@@ -73093,7 +73093,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_4993192b-4aba-47dd-a64b-19ea4c1ebdda.png?v=1607175585"
     ],
     "inStock": true,
     "specs": [],
@@ -73111,7 +73111,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_4af94e4f-8818-44e8-ba29-446cee1ef793.png?v=1607175587"
     ],
     "inStock": true,
     "specs": [],
@@ -73129,7 +73129,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_569100ed-4c71-403d-bbb2-9a5c146a22c2.png?v=1607175588"
     ],
     "inStock": true,
     "specs": [],
@@ -73148,7 +73148,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_4269ea90-3caa-4496-84dc-7494360cede0.png?v=1607175589"
     ],
     "inStock": true,
     "specs": [],
@@ -73166,7 +73166,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_93cbbe7f-f880-48c4-9235-25a1c55e6996.png?v=1607175590"
     ],
     "inStock": true,
     "specs": [],
@@ -73185,7 +73185,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_c630fe2c-7798-44e0-a8a5-b2501f26fc79.png?v=1607175592"
     ],
     "inStock": true,
     "specs": [],
@@ -73203,7 +73203,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_122b5f3f-c2d8-4b44-a930-364a28b9cbda.png?v=1607175593"
     ],
     "inStock": false,
     "specs": [],
@@ -73221,7 +73221,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_ee1fa58d-1930-4652-b7fa-7db448528bd0.png?v=1607175594"
     ],
     "inStock": true,
     "specs": [],
@@ -73239,7 +73239,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_439221aa-e891-4b98-9e54-b2ba46e0e9f8.png?v=1607175595"
     ],
     "inStock": true,
     "specs": [],
@@ -73258,7 +73258,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_6e487eb3-d7ae-420a-a18e-b9b55c4b3fea.png?v=1607175596"
     ],
     "inStock": true,
     "specs": [],
@@ -73277,7 +73277,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_35aa76fe-4017-4fae-bb87-b43396005d39.png?v=1607175597"
     ],
     "inStock": true,
     "specs": [],
@@ -73295,7 +73295,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_467573a2-f1ef-4b14-bff7-06f15305982a.png?v=1607175599"
     ],
     "inStock": true,
     "specs": [],
@@ -73313,7 +73313,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_34f177a8-a9a6-49bd-be4f-99e8da2bade2.png?v=1607175600"
     ],
     "inStock": true,
     "specs": [],
@@ -73331,7 +73331,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_161e10a8-864d-48ef-b06c-212fbc44606e.png?v=1607175602"
     ],
     "inStock": true,
     "specs": [],
@@ -73349,7 +73349,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_305407d3-e6be-4654-b716-d136985c1b7d.png?v=1607175603"
     ],
     "inStock": true,
     "specs": [],
@@ -73368,7 +73368,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_c227ab64-63da-4ed0-ac86-7cd482400504.png?v=1607175604"
     ],
     "inStock": true,
     "specs": [],
@@ -73386,7 +73386,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_38782d29-a549-4f5b-a885-9ba3e69c0b50.png?v=1607175605"
     ],
     "inStock": true,
     "specs": [],
@@ -73405,7 +73405,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_375a3ca3-d9c8-4aef-9c42-3bd317b9fa81.png?v=1607175606"
     ],
     "inStock": true,
     "specs": [],
@@ -73423,7 +73423,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_c8f91323-0032-4a98-b48e-b1c0436a7add.png?v=1607175608"
     ],
     "inStock": true,
     "specs": [],
@@ -73442,7 +73442,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_8c8445c9-4d05-4681-b02d-e71bc2afc291.png?v=1607175609"
     ],
     "inStock": true,
     "specs": [],
@@ -73461,7 +73461,7 @@ export const unknownScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_55edb9ab-de7b-4f71-87ea-d89772bf13bd.png?v=1607175610"
     ],
     "inStock": true,
     "specs": [],

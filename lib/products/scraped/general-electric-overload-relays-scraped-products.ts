@@ -1402,7 +1402,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 126,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 189,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 152,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 183,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 121,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 117,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 171,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_3cc5901e-bcbc-4133-b104-7c217552cde6.jpg?v=1604682461"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 131,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_9e17dd4f-d685-439c-98b2-2bc3506b16be.jpg?v=1604682461"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA120W40OHMJ.jpg?v=1652614083"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 186,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA120W50OHMJ.jpg?v=1652614148"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA120W100OHMJ.jpg?v=1652614190"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA200W100OHMJ.jpg?v=1652616065"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA200W160OHMJ.jpg?v=1652616095"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 113,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRA200W200OHMJ.jpg?v=1652616118"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB300W100OHMJ.jpg?v=1652616143"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W40OHMJ.jpg?v=1652616194"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 128,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W50OHMJ.jpg?v=1652616255"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 180,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MCRB400W100OHMJ.jpg?v=1652616301"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 163,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 189,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 148,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 195,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 170,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.4K.jpg?v=1629045331"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 202,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-0.75K.jpg?v=1629045357"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-2.2K.jpg?v=1629045421"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 136,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-3.7K.jpg?v=1629045448"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 200,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-5.5K.jpg?v=1629045474"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.4K.jpg?v=1629045606"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 144,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H0.75K.jpg?v=1629045642"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H1.5K.jpg?v=1650615772"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 207,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H2.2K.jpg?v=1629045742"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 107,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H3.7K.jpg?v=1629045776"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ABR-H5.5K.jpg?v=1629045804"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_4ec196ae-08e4-4594-8368-07c15cf051cf.jpg?v=1604682467"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_3ff48c6b-c257-4651-a0fb-d2bff2e0f211.jpg?v=1604682468"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_96dcd790-14a5-4ca8-83ba-71e99c0213cc.jpg?v=1604682469"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_aff24c87-f543-4cd8-811e-351946527177.jpg?v=1604682471"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_11f8381a-ab16-43de-aef2-56667aeacf16.jpg?v=1604682470"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 145,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_65199c75-d14b-4b6f-ad61-5c54ddf9a7fa.jpg?v=1604682473"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_7b96b4f2-fe2c-427f-8244-60a994f3fea3.jpg?v=1604682472"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_59afcd9c-fde2-4321-8458-9091de2dbb44.jpg?v=1604682475"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 133,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_d1177af1-d3ab-4a80-b8b5-f7be6d3009c4.jpg?v=1604682474"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 150,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_e1094bd9-aebf-463d-92c5-34402dbae50f.jpg?v=1604682476"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 180,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_c40ad780-ed1f-40a6-a8b2-b63bca0e509c.jpg?v=1604682477"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b99808eb-4da8-4020-9bd9-f0ce621b0cc0.jpg?v=1604682478"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 189,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_1400dd67-5f54-4915-b153-da09995d4af2.jpg?v=1604682479"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_acbe13f2-c806-4c93-8207-898f640b495e.jpg?v=1604682481"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_004a130b-3720-452e-891c-8a5b46e455ba.jpg?v=1604682480"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_b3c3b3f8-0a34-4712-b60e-e07fe59d23af.jpg?v=1604682482"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const generalelectricoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 167,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_073824e5-83ac-4532-bb09-e31547c83a31.jpg?v=1607095109"
     ],
     "inStock": true,
     "specs": [],

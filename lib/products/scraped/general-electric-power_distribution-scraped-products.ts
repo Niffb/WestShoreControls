@@ -1276,7 +1276,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2a4d9a1c-51cd-4396-a8f4-d5614f4a7645.jpg?v=1604682497"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_0f5b4b68-467f-4668-893b-dc3ecf29ffc8.jpg?v=1604682499"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_81ca1724-cc45-4456-82ae-8f794f6b9ce1.jpg?v=1604682498"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_96c02529-02fd-4439-b256-6be239736a11.jpg?v=1627982346"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_349f1e04-3a3a-401c-9fa1-ceea309a0270.jpg?v=1604682505"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_2de9b4a6-3b28-4a85-8d2e-fd4db967deed.jpg?v=1604682506"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8bb791b5-d13d-4daa-9e9c-2f6a82112d33.jpg?v=1604682507"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_24a173aa-a905-485c-b145-ae9e54a723e1.jpg?v=1604682508"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_269acc6b-1394-48f3-bbf2-949a04bdf777.jpg?v=1604682509"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4199a06f-576f-45cb-a8aa-d5fb6debd1f3.jpg?v=1627982398"
     ],
     "inStock": true,
     "specs": [],
@@ -5182,7 +5182,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE1.jpg?v=1652548779"
     ],
     "inStock": true,
     "specs": [],
@@ -5200,7 +5200,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE2.jpg?v=1652548799"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE3.jpg?v=1652548821"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE4.jpg?v=1652548839"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE5.jpg?v=1652548910"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CONDUITFRAMESIZE6.jpg?v=1652548943"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE2.jpg?v=1652617209"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE1.jpg?v=1652617317"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE4.jpg?v=1652617349"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ACONDUITFRAMESIZE3.jpg?v=1652617389"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE1.jpg?v=1652612022"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE4.jpg?v=1652612048"
     ],
     "inStock": true,
     "specs": [],
@@ -5398,7 +5398,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE3.jpg?v=1652612078"
     ],
     "inStock": true,
     "specs": [],
@@ -5416,7 +5416,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE2.jpg?v=1652612100"
     ],
     "inStock": true,
     "specs": [],
@@ -5434,7 +5434,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE5.jpg?v=1652612123"
     ],
     "inStock": true,
     "specs": [],
@@ -5452,7 +5452,7 @@ export const generalelectricPower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100CONDUITMODULE6.jpg?v=1652612151"
     ],
     "inStock": true,
     "specs": [],

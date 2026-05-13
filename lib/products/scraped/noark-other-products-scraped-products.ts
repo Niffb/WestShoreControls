@@ -16,7 +16,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 112,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob.png?v=1607499014"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 178,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_f44a0b82-f0c0-445a-a2e1-2de92eeac808.png?v=1607499015"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_cc8ca219-264e-47b5-bd2d-ed775f50798c.png?v=1607499016"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 146,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_b240dcd3-d186-4bcd-b656-fba4b9d7e969.png?v=1607499018"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_0d917712-21a0-4dfe-b29b-004e6ddc8c60.png?v=1607499019"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ef241d3c-1484-407c-beb2-3b6e9716fcec.png?v=1607499020"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_bb0f4ed0-e2d4-4994-9718-587ba15a4ba7.png?v=1607499021"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 185,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_2f384320-4c63-41e1-a257-c972a291f93f.png?v=1607499022"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 170,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_2004e749-3499-4069-b0df-694a25113d60.png?v=1607499024"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_35449c20-dc38-486b-8d9d-7f2f3ff78e06.png?v=1607499025"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 161,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_fa440049-3641-4797-96bc-4600992042fb.png?v=1607499026"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ea8ba582-b0ad-4a55-9b7b-0e22db79effc.png?v=1607499027"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_5d6d8c30-8289-418a-8105-979d76a21cae.png?v=1607499028"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ff68a5e9-92ba-45f6-be0a-e9206db64ea9.png?v=1607499030"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_d76986ff-3e57-4fad-9cc8-48806ad939b3.png?v=1607499031"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_151575ff-83f3-4b34-8191-869aef5e1e70.png?v=1607499032"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle.png?v=1607498086"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 150,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_dfd9fc6a-8129-4813-8a0c-e76ab8f6fcc5.png?v=1607498087"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_43f425ee-aa6c-4df7-ab61-dba02bd5cd3b.png?v=1607498088"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 211,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_3f2e0820-05a2-4fdf-8f8f-c92d2dea79d1.png?v=1607498089"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 109,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_34119863-7fc1-4821-84d3-3756bcd3fc99.png?v=1607498090"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_9d64af13-6bfc-4347-8e32-30824f6d41b4.png?v=1607498092"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_a9eb21f5-358a-4991-b6ca-cd09d77cdbb0.png?v=1607498093"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 137,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_f53bfbb7-70fd-4e52-80fc-4b7f39e9ef07.png?v=1607498094"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_afc55b72-b3d4-4908-8154-76b2ace005f1.png?v=1607498095"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 113,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_63eea501-b6d6-4e29-a249-deded0cd4e87.png?v=1607498096"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_efcf9e51-fc8f-49f2-b72b-76d738d0433a.png?v=1607498098"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 175,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_24131fa5-2f38-4423-b0b3-be8428491a5f.png?v=1607498099"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 139,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_00d02d57-1619-40a6-94fb-b0b92b33d78d.png?v=1607498100"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_b5e327e5-59be-4864-ae3f-ed036f16b5d2.png?v=1607498102"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_2f4d573c-0467-4fb7-abdd-29108e6f5490.png?v=1607498103"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const noarkother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 141,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_328454f9-23c9-476b-aa35-a2a8b28a3c20.png?v=1607498105"
     ],
     "inStock": true,
     "specs": [],

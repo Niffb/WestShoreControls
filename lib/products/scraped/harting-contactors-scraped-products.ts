@@ -16,7 +16,7 @@ export const hartingcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 193,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Metasol_Contactors_8f696942-5147-4aa4-b907-fa75972a822f.jpg?v=1604682501"
     ],
     "inStock": true,
     "specs": [],

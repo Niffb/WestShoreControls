@@ -16,7 +16,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator.jpg?v=1629705028"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_ec644c83-56b9-48de-b59e-e04c5f7d42d9.png?v=1629705086"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_b812f743-1630-4ef0-a426-0cc10b931c84.png?v=1616996885"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED.jpg?v=1629705114"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 129,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_865da810-89ed-4b84-987d-345a39c1761f.png?v=1629705436"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_ef09eb73-a52f-457c-aa19-a8f01c014d42.png?v=1629705229"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_b8a1ffc4-d5e0-4b06-b687-4423cf126b22.jpg?v=1629705295"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_d88f15f6-7b62-4f0b-96c6-1eeba20f8beb.jpg?v=1629705347"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 142,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_07bbb34a-aa32-45da-a0b3-eba529b54c21.png?v=1629705385"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 138,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator.png?v=1629705414"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 205,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_f336dd11-bff8-4dc9-9508-9a2297742db4.jpg?v=1629705525"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_d38169e9-2f38-4e45-a7b1-ee76afb091ad.png?v=1629705583"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_576b7650-2acc-459a-b667-ffa26f759ca3.jpg?v=1629705602"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 170,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_afd7e78d-e6d2-4a30-936a-ad18ee14e53c.png?v=1616997389"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_e119866d-17b6-4b63-bd79-2461d172c699.png?v=1629705640"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 166,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_ce00550a-ff4f-4351-ae39-8bac93ff92a5.png?v=1629705678"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_65921ebb-4ecf-4dc4-9cc0-da159638d156.png?v=1616997529"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_dda20f09-0df5-4f3e-9490-5b69d0c75c06.jpg?v=1629705723"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_b224c296-e71b-49aa-9dcb-3ca0a5492f61.jpg?v=1629705741"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_37d5e62a-22f5-4ab3-b7e8-33388da94dd1.png?v=1629705762"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_93c062ed-c57f-4fb6-8880-8d79b51544e3.png?v=1629705782"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_620c21fa-ed11-4e93-89be-46578242673a.jpg?v=1629705798"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1ba75826-3061-4d4a-8469-a956683348c5.png?v=1616997834"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_a3394224-da78-4725-ae98-9459fedb2717.jpg?v=1629705818"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_d2c5e5cf-e851-4397-a786-ab85d5b09913.png?v=1629705843"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 191,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_44819c8e-3d6b-46d2-b1b0-68fc2464e94b.jpg?v=1629705863"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1445efb5-dff2-4758-844c-dfa699d525f9.png?v=1616998890"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 163,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_37302d21-bb9c-461b-8e3a-aa0f9a8a98b3.jpg?v=1629705901"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_d77bb25d-6d74-4ac4-a581-71081db5aaaf.png?v=1629705922"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_2a1959a0-16bf-42d5-bc84-9d45529f120c.png?v=1629705943"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 174,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_b1d2061b-bfa2-4575-a459-9023f4664ea1.jpg?v=1629705960"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_8150399d-e794-4d54-80c1-94348ee777b8.png?v=1616999248"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_cf1ffa96-2982-4e9a-8559-60c2c479e2ca.png?v=1629706018"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_f24c0eca-dd9c-4372-a3f0-88f20dcc11f3.jpg?v=1629706035"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_e4302074-06d4-4f52-b13d-06d60f053466.png?v=1629706064"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 168,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_3000b99a-5d5e-4fe7-832e-b9fa36dfc30e.jpg?v=1629706085"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 214,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_7bee3f50-eee2-4775-8b1f-a0f19f346bac.png?v=1616999508"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 127,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_c7ada9c0-282c-486b-99ce-1a2d7d570726.jpg?v=1629706108"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_6dc70f5c-4894-4b31-aec2-c6f55f2172a1.png?v=1629706131"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 206,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_aa2244b8-55b5-4176-a314-a1c3d1b01ea4.png?v=1629706164"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4.png?v=1616993206"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_83d619c1-f7d3-4e42-a467-8e690d69c66b.png?v=1629706745"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite.jpg?v=1629706813"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 196,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators.jpg?v=1629706838"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 133,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED.jpg?v=1629706884"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 133,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_785c8b07-249f-4104-b29e-d9d8a1cb621b.png?v=1629706922"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 59,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_ed6aa090-7207-477d-a5fe-15fdb92d90a5.jpg?v=1629706954"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 130,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_f4f30de6-3e5e-4dbf-87c9-51c50471ebc1.png?v=1629706989"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_49c380d9-4651-4254-b221-947db877937c.jpg?v=1629707106"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 150,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_162b00b1-90d2-4844-9059-45f340d1658a.jpg?v=1629707248"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_b5948edc-6d42-4be2-98d8-6d6416c3ba78.jpg?v=1629707286"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 186,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_d96eea8a-3ae1-4d7c-9c41-f5621e68c278.png?v=1629707313"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_4d834654-93ce-4b18-8c5f-3cfe4ab9adfe.png?v=1616994320"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_cfff5ce8-be4e-447b-b75f-d63afa40bd38.jpg?v=1629707348"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 197,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_37e05f6a-46c5-4b09-a52c-c25606f8b546.jpg?v=1629707397"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_d26ccf8a-849f-4cb2-85aa-6672c3450579.jpg?v=1629707418"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_c4fbf9da-83c5-452e-9daa-3bf2238cb66c.png?v=1616994570"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_28a8a7f3-3b76-4b2f-a6ff-74dd386b4302.png?v=1629707447"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 189,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_c04dc740-84e6-4f45-88ed-78860356e4de.jpg?v=1629707477"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 126,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_1079e06a-5ee9-4938-9592-970cf85a4037.jpg?v=1629707495"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_d04aef52-0ff1-4499-ad6a-c061a080433f.jpg?v=1629707564"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_ad9a04d8-62f6-42e3-9377-48ccbdcc4fd1.png?v=1616994773"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_2c88cae7-1b81-4244-84c1-eb0d443463c5.jpg?v=1629707594"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_5155702d-398b-4914-85e4-d41a9b3b39f7.png?v=1629707622"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 212,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_aa2c8759-0b7c-495d-8193-9aaf55d1ac64.jpg?v=1629707642"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_7fc7f337-32bf-457a-966c-64004bbaba2d.jpg?v=1629707673"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_7e9c2eeb-19e4-44e6-9651-a5e6c13f0867.png?v=1629707702"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_18ecef7c-850a-4cf0-8d30-e146d3dd64d8.png?v=1629707843"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_5ffd6a23-6698-4646-87ba-07ac78c2f975.jpg?v=1629707890"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_cc6322ac-ef93-4930-9d0a-c4d1b7974fad.jpg?v=1629707966"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_af6ec6a0-92e5-43d8-9773-868665893593.jpg?v=1629708012"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 183,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_267e58e5-4ef1-4fb1-a72c-8df914d0159d.png?v=1629708053"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 165,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_973f9a6e-06f5-4450-81ae-5e18ce4ff7d1.png?v=1629708070"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_76bd8ecc-57b8-4d5a-980c-ed16dc79ef04.jpg?v=1629708307"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 151,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_d7c2ee58-805e-4ec1-8536-375107db6967.jpg?v=1629708351"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 207,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_ecb0cb1e-d03e-4b45-896b-40c7c610ca93.png?v=1629708418"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_a6323cf3-7767-455d-9184-3b51f2ef610b.jpg?v=1629708434"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 175,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_b15531b6-440e-45bd-97a8-0b6bc1119206.jpg?v=1629708469"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 110,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_edd03dd1-64fb-4ca1-aac9-ef13d4c3fee7.png?v=1629708489"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 117,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_1e62bc54-afa9-41e1-936b-34151373984f.jpg?v=1629708534"
     ],
     "inStock": true,
     "specs": [],

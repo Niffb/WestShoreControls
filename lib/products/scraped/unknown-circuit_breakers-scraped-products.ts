@@ -16,7 +16,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-2LLUL.jpg?v=1653379685"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-2LLUL.jpg?v=1653379703"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-2LLUL.jpg?v=1653379651"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-2LLUL.jpg?v=1653379560"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-2LLUL.jpg?v=1653379540"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-2LLUL.jpg?v=1653379507"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-2LLUL.jpg?v=1653379493"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-2LLUL.jpg?v=1653379475"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-2LLUL.jpg?v=1653379407"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-2LLUL.jpg?v=1653379452"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-2LLUL.jpg?v=1653379685"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-2LLUL.jpg?v=1653379703"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-2LLUL.jpg?v=1653379651"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-2LLUL.jpg?v=1653379560"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-2LLUL.jpg?v=1653379540"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-2LLUL.jpg?v=1653379507"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-2LLUL.jpg?v=1653379493"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-2LLUL.jpg?v=1653379475"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-2LLUL.jpg?v=1653379452"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-2LLUL.jpg?v=1653379407"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS.jpg?v=1628096378"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0dd50515-a47e-42d3-9388-eb84826b758d.jpg?v=1628096458"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e4983e6d-4665-4121-a3af-5cd05c512fd5.jpg?v=1628096518"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c4a914b3-f664-4691-b0c4-a2521e99fa9e.jpg?v=1628096555"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9d4f6f50-8726-4b7f-8b0d-65299a673939.jpg?v=1628096591"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 59,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_db55de24-617a-4fc5-9d39-c09a41dd3b72.jpg?v=1628096610"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_be96878b-a0bf-4234-9524-cf38b99d3664.jpg?v=1628096628"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7c74f88a-bab5-4f2b-b9e2-003670910315.jpg?v=1628096696"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_5abb1f20-d7ea-4e37-a78b-37ac9c0de357.jpg?v=1628096725"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ddedb06e-9fd4-42d7-be4d-e13495a14094.jpg?v=1628096747"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7203a6e0-c987-44c1-a2ce-a7f3722c6f82.jpg?v=1628096777"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f56d8a26-26ed-4025-9b26-03ec3d7e3323.jpg?v=1628096798"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_299d3039-4fb5-444c-9e4e-bcab998bc787.jpg?v=1628096821"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_0b30759f-c4a5-46fe-a871-1efad35d0ff2.jpg?v=1628096967"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7ff56cc5-9903-4a99-9ac9-24b75c3692ae.jpg?v=1628097002"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_de88df1e-1873-449b-9d0c-e655a4b2c465.jpg?v=1628097191"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_7557fcb4-8468-4088-a4c0-7414a4f2896c.jpg?v=1628097209"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e6e11d51-157a-4d01-87d2-6991da5c1750.jpg?v=1628097231"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_af75a236-fb9a-4bc5-a7f2-65eeee14d412.jpg?v=1628097257"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ff903416-52ec-4960-9611-38607ce135cf.jpg?v=1628097277"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_50687f40-b760-431f-b266-5ace5ae3c377.jpg?v=1628097296"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c5bb87be-23a2-4d75-9e49-122e50eb2b45.jpg?v=1628097336"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_93999de1-6e68-4cc7-9399-c6da0a8f3a58.jpg?v=1628097357"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fab5fdda-60fc-4609-926a-4eaa55afb4c5.jpg?v=1628097380"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ddb65773-6200-409f-8cbc-eb8172d86631.jpg?v=1628097398"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_49a7d69e-a6e2-41b1-92fc-48102931b742.jpg?v=1628097420"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_57272495-6f40-4a83-8463-fef2600eab51.jpg?v=1628097441"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1d13f4a1-bc0e-42ed-bb51-fffef70a072b.jpg?v=1628097463"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9e6367e5-f53c-495f-a0cd-0accc6e2321b.jpg?v=1628097499"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1346f57a-cea3-4b14-93d8-b13c9dd80134.jpg?v=1628097519"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_519249f1-de2a-44ed-a293-2c68bfe5ee65.jpg?v=1628097537"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_5af5d97c-dfc1-4e6d-9042-ea234ac411cb.jpg?v=1628097554"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a0d60c45-777a-45e2-88c8-019f031a263a.jpg?v=1628097579"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8c224a8f-44e3-427d-816a-e1aa44e01230.jpg?v=1628097593"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_acc98a20-fb85-4bef-a373-c40273b35fd7.jpg?v=1628097610"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_6fd81b25-9a92-4f60-a4e2-6f8c86f03b00.jpg?v=1628097628"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a077ec8a-3bed-40a3-a60f-fe7b5289179b.jpg?v=1628097667"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a2b54076-09c2-4056-9eb5-b73b25d352ab.jpg?v=1628097683"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8c0fdcd9-9521-46ff-a7e5-aa10f8f77303.jpg?v=1628097702"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a78a814c-0044-44ca-8a4b-1200b1c61ad7.jpg?v=1628097723"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_c7939729-c7c1-4827-abd7-3399c0bb8814.jpg?v=1628097748"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8d8bc599-1bfb-4abb-bec8-145aaf5e9ada.jpg?v=1628097782"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_073531be-ac0b-496d-9295-89a231bd255c.jpg?v=1628097805"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_82c9acc3-3ed6-4f3f-8e30-067c18d7b43c.jpg?v=1628097843"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_bf28dd81-4ab0-4aec-b1c1-5ba78b191677.jpg?v=1628097859"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8e1c94f3-f270-474c-98f9-4e44b91f1154.jpg?v=1628097882"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_594eaa28-8f50-4819-8d93-e8d154a88ea7.jpg?v=1628097900"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fb216ca5-363e-465c-87c0-52692f8675bc.jpg?v=1628097928"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9b56bd0d-8ea2-4751-ace8-932d3b4b088c.jpg?v=1628098051"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_972a4ce6-aaf9-4461-9fec-5503485ec0f3.jpg?v=1628099029"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a089956b-416b-4551-bc48-1a03529a07da.jpg?v=1628098069"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f6f2b7e3-4371-459a-b919-a18f0c78d150.jpg?v=1628098098"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_66576cb0-3005-46e8-ae9d-589b9b13a216.jpg?v=1628098137"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ec42966a-3a65-431c-9c3e-397b06408c07.jpg?v=1628098163"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1687fe41-40b7-4b56-bff8-a4093a8cbd35.jpg?v=1628098182"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_fbd82103-0bcf-4b3b-a189-3d330aa29c5c.jpg?v=1628098206"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_4aa99891-e4e7-4ffd-acf2-21b1fbf54b9b.jpg?v=1628098267"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8844969a-bc17-4082-a1be-5808b7a8dde9.jpg?v=1628098318"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9e3a4967-28c9-4e10-be91-c59ad846634b.jpg?v=1628098338"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ec1c435a-9e36-4b4e-a446-3f23d22380b2.jpg?v=1628098358"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_296ec1ee-497b-4364-ad6c-69b2e8dc29e8.jpg?v=1628098382"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d826a701-1301-4bad-9fbb-bc9cda8c362d.jpg?v=1628098398"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1d2bf5e4-6bcf-471e-9728-4c8a3e571298.jpg?v=1628098415"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_bc01f2d8-3309-4a68-a8a4-a29a5bde9c64.jpg?v=1628098444"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_6612d101-9d69-4e41-9192-b314c7412e98.jpg?v=1628098466"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f8e33b41-7c8f-4f55-a6be-e4cc42c3d0e0.jpg?v=1628098486"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8dac0cfb-ea64-4f96-877a-b7b15dccfe95.jpg?v=1628098511"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_054b61c3-20c8-4ed3-a654-9d33115a5326.jpg?v=1628098546"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_91592b7b-17dc-417b-9ced-d396d2ea34d1.jpg?v=1628098564"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_05a92776-c1df-4a6c-be65-0be5500fa650.jpg?v=1628098580"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_2067632f-f5fb-404e-8f87-5a1e0e2f16d9.jpg?v=1628098594"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_cfa8cfca-6863-4b9f-afd6-eeaa4d9a24bf.jpg?v=1628098615"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d531cc8a-9072-4bab-b86b-2d6a5d98945b.jpg?v=1628098637"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8a170f0b-58fb-4e65-aa69-54cbdd05bd15.jpg?v=1628098664"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_ca762519-1300-42dd-b156-ef58fc36550e.jpg?v=1628098685"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f53d6fd0-04a4-46ea-bc2a-8c5ca6ea5945.jpg?v=1628098708"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_db2603de-4edd-49e9-8541-5c5232d3754f.jpg?v=1628098722"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_9f9b6d6f-901c-4b7b-b343-10d677508709.jpg?v=1628098741"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_dacb84b2-f537-417a-acdd-3666c20bfa06.jpg?v=1628098753"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_4d08d156-2d42-4a63-86d5-80597ebe8f50.jpg?v=1628098773"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_78f0e408-1364-4934-b9aa-bdc8d850fb89.jpg?v=1628098787"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_629274fc-c787-4b0e-ae31-dba86572806f.jpg?v=1628098809"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b7694024-1c02-4a47-a3a6-c438bd970e1c.jpg?v=1628098844"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_1307f0d4-7e61-43bc-ab41-a4f5554d5231.jpg?v=1628098860"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker.jpg?v=1628399245"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_dd1fe48e-2c0d-4118-ae08-61ba47af58ec.jpg?v=1628399246"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_470a83e4-716e-4893-b23c-578358eae51f.jpg?v=1628399247"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_6d676af2-0d71-42d6-b551-8d1f5fc8415c.jpg?v=1628399249"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_3ba83709-cf7f-4007-8a56-966e6bd35c18.jpg?v=1628399250"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_643ca674-abab-41f1-bbed-e23f1ae62dfa.jpg?v=1628399251"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_0178f7db-5426-430d-8371-74b1982f7b7e.jpg?v=1628399252"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_aa9d10e9-0186-456d-b0cc-8cc02324f3b2.jpg?v=1628399254"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_914d0e8f-98d7-4e03-8ed5-973e0b7304ba.jpg?v=1628399255"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_b68e77af-2966-48a2-b5b3-156c0e836ce3.jpg?v=1628399256"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_6752ee12-6143-4b08-a13e-3fc583a2dd5e.jpg?v=1628399257"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_73c9d72d-0b08-444b-b5db-c955c9156e9d.jpg?v=1628399258"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_a9fb4900-842e-45fa-91dd-008e85ddfef4.jpg?v=1628399260"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_81ad5fcb-7f2c-4a52-9370-021ac3f26b98.jpg?v=1628399261"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_0f898d3a-7ac2-42f7-92dd-cf680cbee7b8.jpg?v=1628399262"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_d4bc3d08-9e33-48bb-9a43-87066626a565.jpg?v=1628399263"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_28bdc4c9-df15-403b-96c5-9cfd259970eb.jpg?v=1628399264"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_d8fab2f5-2adc-408d-9e9b-a481fc44743f.jpg?v=1628399266"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_88968773-3b4b-4094-a5fa-200f418cba41.jpg?v=1628399267"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_26b1914f-f473-4722-be73-ea5424c704e3.jpg?v=1628399268"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_9a1322f3-9629-4782-835c-6aff7812f8d2.jpg?v=1628399269"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_1643942e-c79b-4d6d-b6bd-0fbe9d2e7e8d.jpg?v=1628399271"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_bcab7b62-d32f-43f2-b777-c71ca704c966.jpg?v=1628399272"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_4679ad4b-b1ee-47e7-80c0-83a9ac6b558d.jpg?v=1628399273"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f47919c6-93b5-4b57-9844-9981fac49494.jpg?v=1628399274"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_6bb5b2f8-e560-46eb-a5d4-0d9734a0bae8.jpg?v=1628399275"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_3309bd65-6bb2-45a5-9ab3-941f35a59f62.jpg?v=1628399277"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_1f8e6086-aa3d-438b-96a3-ec9288dd9037.jpg?v=1628399278"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_ba8056ad-4d76-4898-92e8-1898a09b3da0.jpg?v=1628399279"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f8db7c6a-9b19-4ef3-af39-7cb9e85e21e6.jpg?v=1628399280"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_bfedba2c-4541-4758-9092-2454c3937e4d.jpg?v=1628399282"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f189ffd9-09b0-43b0-af3a-217951d53b3d.jpg?v=1628399283"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 55,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_f1e1079a-4b49-479b-9b2d-df608f6f63c7.jpg?v=1628399285"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_b64f7da3-76c0-45cf-bd64-9eaca6dc3462.jpg?v=1628399286"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_398ab2b5-9ab7-4f0c-8f61-4d2537cd2e47.jpg?v=1628399289"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_3d2b0b67-6b98-44d6-9cb6-8ce7af43b475.jpg?v=1628399290"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_538dcfc2-7f57-47e7-ad47-3249f895c1d2.jpg?v=1628399291"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_4840063a-c974-4905-bfbd-4d16582e5e4c.jpg?v=1628399292"
     ],
     "inStock": true,
     "specs": [],
@@ -6892,7 +6892,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-250-3LLUL.jpg?v=1653475902"
     ],
     "inStock": true,
     "specs": [],
@@ -6910,7 +6910,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-300-3LLUL.jpg?v=1653475921"
     ],
     "inStock": true,
     "specs": [],
@@ -6928,7 +6928,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-400-3LLUL.jpg?v=1653475939"
     ],
     "inStock": true,
     "specs": [],
@@ -6946,7 +6946,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FTU-350-3LLUL.jpg?v=1653475956"
     ],
     "inStock": true,
     "specs": [],
@@ -6964,7 +6964,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FMU-300-3LLUL.jpg?v=1653475978"
     ],
     "inStock": true,
     "specs": [],
@@ -6982,7 +6982,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-FMU-400-3LLUL.jpg?v=1653475997"
     ],
     "inStock": true,
     "specs": [],
@@ -7000,7 +7000,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-ATU-400-3LLUL.jpg?v=1653476017"
     ],
     "inStock": true,
     "specs": [],
@@ -7018,7 +7018,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400N-ATU-300-3LLUL.jpg?v=1653476034"
     ],
     "inStock": true,
     "specs": [],
@@ -7036,7 +7036,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-250-3LLUL.jpg?v=1653476054"
     ],
     "inStock": true,
     "specs": [],
@@ -7054,7 +7054,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-300-3LLUL.jpg?v=1653476071"
     ],
     "inStock": true,
     "specs": [],
@@ -7072,7 +7072,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-350-3LLUL.jpg?v=1653476092"
     ],
     "inStock": true,
     "specs": [],
@@ -7090,7 +7090,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FTU-400-3LLUL.jpg?v=1653476112"
     ],
     "inStock": true,
     "specs": [],
@@ -7108,7 +7108,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FMU-300-3LLUL.jpg?v=1653476130"
     ],
     "inStock": true,
     "specs": [],
@@ -7126,7 +7126,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-ATU-300-3LLUL.jpg?v=1653476148"
     ],
     "inStock": true,
     "specs": [],
@@ -7144,7 +7144,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-FMU-400-3LLUL.jpg?v=1653476164"
     ],
     "inStock": true,
     "specs": [],
@@ -7162,7 +7162,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-250-3LLUL.jpg?v=1653476187"
     ],
     "inStock": true,
     "specs": [],
@@ -7180,7 +7180,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400H-ATU-400-3LLUL.jpg?v=1653476204"
     ],
     "inStock": true,
     "specs": [],
@@ -7198,7 +7198,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-300-3LLUL.jpg?v=1653476223"
     ],
     "inStock": true,
     "specs": [],
@@ -7216,7 +7216,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-350-3LLUL.jpg?v=1653476239"
     ],
     "inStock": true,
     "specs": [],
@@ -7234,7 +7234,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FTU-400-3LLUL.jpg?v=1653476256"
     ],
     "inStock": true,
     "specs": [],
@@ -7252,7 +7252,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FMU-400-3LLUL.jpg?v=1653476273"
     ],
     "inStock": true,
     "specs": [],
@@ -7270,7 +7270,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-FMU-300-3LLUL.jpg?v=1653476294"
     ],
     "inStock": true,
     "specs": [],
@@ -7288,7 +7288,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-ATU-300-3LLUL.jpg?v=1653476320"
     ],
     "inStock": true,
     "specs": [],
@@ -7306,7 +7306,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-ATU-400-3LLUL.jpg?v=1653476357"
     ],
     "inStock": true,
     "specs": [],
@@ -7324,7 +7324,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-MCS-400-3LLUL.jpg?v=1653476389"
     ],
     "inStock": true,
     "specs": [],
@@ -7342,7 +7342,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400L-MCP-320-3LLUL.jpg?v=1653476408"
     ],
     "inStock": true,
     "specs": [],
@@ -7360,7 +7360,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-300-3LLUL.jpg?v=1653476449"
     ],
     "inStock": true,
     "specs": [],
@@ -7378,7 +7378,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-250-3LLUL.jpg?v=1653476465"
     ],
     "inStock": true,
     "specs": [],
@@ -7396,7 +7396,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-350-3LLUL.jpg?v=1653476485"
     ],
     "inStock": true,
     "specs": [],
@@ -7414,7 +7414,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FTU-400-3LLUL.jpg?v=1653476512"
     ],
     "inStock": true,
     "specs": [],
@@ -7432,7 +7432,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FMU-300-3LLUL.jpg?v=1653476547"
     ],
     "inStock": true,
     "specs": [],
@@ -7450,7 +7450,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-ATU-300-3LLUL.jpg?v=1653476565"
     ],
     "inStock": true,
     "specs": [],
@@ -7468,7 +7468,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-FMU-400-3LLUL.jpg?v=1653476583"
     ],
     "inStock": true,
     "specs": [],
@@ -7486,7 +7486,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400NT-ATU-400-3LLUL.jpg?v=1653476648"
     ],
     "inStock": true,
     "specs": [],
@@ -7504,7 +7504,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-300-3LLUL.jpg?v=1653476672"
     ],
     "inStock": true,
     "specs": [],
@@ -7522,7 +7522,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-250-3LLUL.jpg?v=1653476692"
     ],
     "inStock": true,
     "specs": [],
@@ -7540,7 +7540,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-350-3LLUL.jpg?v=1653476735"
     ],
     "inStock": true,
     "specs": [],
@@ -7558,7 +7558,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FMU-300-3LLUL.jpg?v=1653476763"
     ],
     "inStock": true,
     "specs": [],
@@ -7576,7 +7576,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FTU-400-3LLUL.jpg?v=1653476780"
     ],
     "inStock": true,
     "specs": [],
@@ -7594,7 +7594,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-FMU-400-3LLUL.jpg?v=1653476808"
     ],
     "inStock": true,
     "specs": [],
@@ -7612,7 +7612,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 55,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-ATU-300-3LLUL.jpg?v=1653476838"
     ],
     "inStock": true,
     "specs": [],
@@ -7630,7 +7630,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-250-3LLUL.jpg?v=1653476865"
     ],
     "inStock": true,
     "specs": [],
@@ -7648,7 +7648,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400HT-ATU-400-3LLUL.jpg?v=1653476886"
     ],
     "inStock": true,
     "specs": [],
@@ -7666,7 +7666,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-300-3LLUL.jpg?v=1653476921"
     ],
     "inStock": true,
     "specs": [],
@@ -7684,7 +7684,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-350-3LLUL.jpg?v=1653476962"
     ],
     "inStock": true,
     "specs": [],
@@ -7702,7 +7702,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FTU-400-3LLUL.jpg?v=1653476988"
     ],
     "inStock": true,
     "specs": [],
@@ -7720,7 +7720,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FMU-300-3LLUL.jpg?v=1653477041"
     ],
     "inStock": true,
     "specs": [],
@@ -7738,7 +7738,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-FMU-400-3LLUL.jpg?v=1653477059"
     ],
     "inStock": true,
     "specs": [],
@@ -7756,7 +7756,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-ATU-400-3LLUL.jpg?v=1653477090"
     ],
     "inStock": true,
     "specs": [],
@@ -7774,7 +7774,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS400LT-ATU-300-3LLUL.jpg?v=1653477110"
     ],
     "inStock": true,
     "specs": [],
@@ -7792,7 +7792,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-50-3LLUL.jpg?v=1653384132"
     ],
     "inStock": true,
     "specs": [],
@@ -7810,7 +7810,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-40-3LLUL.jpg?v=1653384192"
     ],
     "inStock": true,
     "specs": [],
@@ -7828,7 +7828,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-60-3LLUL.jpg?v=1653384230"
     ],
     "inStock": true,
     "specs": [],
@@ -7846,7 +7846,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-70-3LLUL.jpg?v=1653384268"
     ],
     "inStock": true,
     "specs": [],
@@ -7864,7 +7864,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-80-3LLUL.jpg?v=1653384290"
     ],
     "inStock": true,
     "specs": [],
@@ -7882,7 +7882,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-90-3LLUL.jpg?v=1653384322"
     ],
     "inStock": true,
     "specs": [],
@@ -7900,7 +7900,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-100-3LLUL.jpg?v=1653384343"
     ],
     "inStock": true,
     "specs": [],
@@ -7918,7 +7918,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-150-3LLUL.jpg?v=1653458067"
     ],
     "inStock": true,
     "specs": [],
@@ -7936,7 +7936,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FTU-125-3LLUL.jpg?v=1653458108"
     ],
     "inStock": true,
     "specs": [],
@@ -7954,7 +7954,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-60-3LLUL.jpg?v=1653458140"
     ],
     "inStock": true,
     "specs": [],
@@ -7972,7 +7972,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-40-3LLUL.jpg?v=1653458166"
     ],
     "inStock": true,
     "specs": [],
@@ -7990,7 +7990,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 55,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-80-3LLUL.jpg?v=1653458205"
     ],
     "inStock": true,
     "specs": [],
@@ -8008,7 +8008,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-100-3LLUL.jpg?v=1653458262"
     ],
     "inStock": true,
     "specs": [],
@@ -8026,7 +8026,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-FMU-150-3LLUL.jpg?v=1653458324"
     ],
     "inStock": true,
     "specs": [],
@@ -8044,7 +8044,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-ATU-100-3LLUL.jpg?v=1653458378"
     ],
     "inStock": true,
     "specs": [],
@@ -8062,7 +8062,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150N-ATU-150-3LLUL.jpg?v=1653458444"
     ],
     "inStock": true,
     "specs": [],
@@ -8080,7 +8080,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-40-3LLUL.jpg?v=1653458490"
     ],
     "inStock": true,
     "specs": [],
@@ -8098,7 +8098,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-60-3LLUL.jpg?v=1653458570"
     ],
     "inStock": true,
     "specs": [],
@@ -8116,7 +8116,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-50-3LLUL.jpg?v=1653458621"
     ],
     "inStock": true,
     "specs": [],
@@ -8134,7 +8134,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-70-3LLUL.jpg?v=1653458660"
     ],
     "inStock": true,
     "specs": [],
@@ -8152,7 +8152,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-80-3LLUL.jpg?v=1653458693"
     ],
     "inStock": true,
     "specs": [],
@@ -8170,7 +8170,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-90-3LLUL.jpg?v=1653458723"
     ],
     "inStock": true,
     "specs": [],
@@ -8188,7 +8188,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-125-3LLUL.jpg?v=1653458772"
     ],
     "inStock": true,
     "specs": [],
@@ -8206,7 +8206,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-100-3LLUL.jpg?v=1653458797"
     ],
     "inStock": true,
     "specs": [],
@@ -8224,7 +8224,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FTU-150-3LLUL.jpg?v=1653458862"
     ],
     "inStock": true,
     "specs": [],
@@ -8242,7 +8242,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-40-3LLUL.jpg?v=1653458899"
     ],
     "inStock": true,
     "specs": [],
@@ -8260,7 +8260,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-60-3LLUL.jpg?v=1653458923"
     ],
     "inStock": true,
     "specs": [],
@@ -8278,7 +8278,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-80-3LLUL.jpg?v=1653458969"
     ],
     "inStock": true,
     "specs": [],
@@ -8296,7 +8296,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-100-3LLUL.jpg?v=1653459060"
     ],
     "inStock": true,
     "specs": [],
@@ -8314,7 +8314,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-FMU-150-3LLUL.jpg?v=1653459116"
     ],
     "inStock": true,
     "specs": [],
@@ -8332,7 +8332,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-ATU-100-3LLUL.jpg?v=1653459179"
     ],
     "inStock": true,
     "specs": [],
@@ -8350,7 +8350,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150H-ATU-150-3LLUL.jpg?v=1653459263"
     ],
     "inStock": true,
     "specs": [],
@@ -8368,7 +8368,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-40-3LLUL.jpg?v=1653459328"
     ],
     "inStock": true,
     "specs": [],
@@ -8386,7 +8386,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-50-3LLUL.jpg?v=1653459380"
     ],
     "inStock": true,
     "specs": [],
@@ -8404,7 +8404,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-70-3LLUL.jpg?v=1653459424"
     ],
     "inStock": true,
     "specs": [],
@@ -8422,7 +8422,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-60-3LLUL.jpg?v=1653459484"
     ],
     "inStock": true,
     "specs": [],
@@ -8440,7 +8440,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-80-3LLUL.jpg?v=1653459547"
     ],
     "inStock": true,
     "specs": [],
@@ -8458,7 +8458,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-90-3LLUL.jpg?v=1653459623"
     ],
     "inStock": true,
     "specs": [],
@@ -8476,7 +8476,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-125-3LLUL.jpg?v=1653459652"
     ],
     "inStock": true,
     "specs": [],
@@ -8494,7 +8494,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-100-3LLUL.jpg?v=1653459691"
     ],
     "inStock": true,
     "specs": [],
@@ -8512,7 +8512,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FTU-150-3LLUL.jpg?v=1653459775"
     ],
     "inStock": true,
     "specs": [],
@@ -8530,7 +8530,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-60-3LLUL.jpg?v=1653459812"
     ],
     "inStock": true,
     "specs": [],
@@ -8548,7 +8548,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-40-3LLUL.jpg?v=1653459851"
     ],
     "inStock": true,
     "specs": [],
@@ -8566,7 +8566,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-80-3LLUL.jpg?v=1653459894"
     ],
     "inStock": true,
     "specs": [],
@@ -8584,7 +8584,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-100-3LLUL.jpg?v=1653459926"
     ],
     "inStock": true,
     "specs": [],
@@ -8602,7 +8602,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-FMU-150-3LLUL.jpg?v=1653459988"
     ],
     "inStock": true,
     "specs": [],
@@ -8620,7 +8620,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-ATU-100-3LLUL.jpg?v=1653460031"
     ],
     "inStock": true,
     "specs": [],
@@ -8638,7 +8638,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-ATU-150-3LLUL.jpg?v=1653460068"
     ],
     "inStock": true,
     "specs": [],
@@ -8656,7 +8656,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-1.6-3LLUL.jpg?v=1653460095"
     ],
     "inStock": true,
     "specs": [],
@@ -8674,7 +8674,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-6.3-3LLUL.jpg?v=1653460423"
     ],
     "inStock": true,
     "specs": [],
@@ -8692,7 +8692,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-3.2-3LLUL.jpg?v=1653460487"
     ],
     "inStock": true,
     "specs": [],
@@ -8710,7 +8710,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-20-3LLUL.jpg?v=1653460522"
     ],
     "inStock": true,
     "specs": [],
@@ -8728,7 +8728,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-12-3LLUL.jpg?v=1653460548"
     ],
     "inStock": true,
     "specs": [],
@@ -8746,7 +8746,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-32-3LLUL.jpg?v=1653460574"
     ],
     "inStock": true,
     "specs": [],
@@ -8764,7 +8764,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-60-3LLUL.jpg?v=1653460625"
     ],
     "inStock": true,
     "specs": [],
@@ -8782,7 +8782,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-50-3LLUL.jpg?v=1653460675"
     ],
     "inStock": true,
     "specs": [],
@@ -8800,7 +8800,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-100-3LLUL.jpg?v=1653460703"
     ],
     "inStock": true,
     "specs": [],
@@ -8818,7 +8818,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCP-150-3LLUL.jpg?v=1653460754"
     ],
     "inStock": true,
     "specs": [],
@@ -8836,7 +8836,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150L-MCS-150-3LLUL.jpg?v=1653460793"
     ],
     "inStock": true,
     "specs": [],
@@ -8854,7 +8854,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-50-3LLUL.jpg?v=1653460843"
     ],
     "inStock": true,
     "specs": [],
@@ -8872,7 +8872,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-40-3LLUL.jpg?v=1653460891"
     ],
     "inStock": true,
     "specs": [],
@@ -8890,7 +8890,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-60-3LLUL.jpg?v=1653460940"
     ],
     "inStock": true,
     "specs": [],
@@ -8908,7 +8908,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-70-3LLUL.jpg?v=1653460973"
     ],
     "inStock": true,
     "specs": [],
@@ -8926,7 +8926,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-90-3LLUL.jpg?v=1653461013"
     ],
     "inStock": true,
     "specs": [],
@@ -8944,7 +8944,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-80-3LLUL.jpg?v=1653461064"
     ],
     "inStock": true,
     "specs": [],
@@ -8962,7 +8962,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-100-3LLUL.jpg?v=1653461099"
     ],
     "inStock": true,
     "specs": [],
@@ -8980,7 +8980,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-125-3LLUL.jpg?v=1653461140"
     ],
     "inStock": true,
     "specs": [],
@@ -8998,7 +8998,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FTU-150-3LLUL.jpg?v=1653461168"
     ],
     "inStock": true,
     "specs": [],
@@ -9016,7 +9016,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-40-3LLUL.jpg?v=1653461190"
     ],
     "inStock": true,
     "specs": [],
@@ -9034,7 +9034,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-60-3LLUL.jpg?v=1653461216"
     ],
     "inStock": true,
     "specs": [],
@@ -9052,7 +9052,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-80-3LLUL.jpg?v=1653461241"
     ],
     "inStock": true,
     "specs": [],
@@ -9070,7 +9070,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-100-3LLUL.jpg?v=1653461265"
     ],
     "inStock": true,
     "specs": [],
@@ -9088,7 +9088,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-FMU-150-3LLUL.jpg?v=1653461359"
     ],
     "inStock": true,
     "specs": [],
@@ -9106,7 +9106,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-ATU-100-3LLUL.jpg?v=1653461387"
     ],
     "inStock": true,
     "specs": [],
@@ -9124,7 +9124,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-40-3LLUL.jpg?v=1653461412"
     ],
     "inStock": true,
     "specs": [],
@@ -9142,7 +9142,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150NT-ATU-150-3LLUL.jpg?v=1653461443"
     ],
     "inStock": true,
     "specs": [],
@@ -9160,7 +9160,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-50-3LLUL.jpg?v=1653461465"
     ],
     "inStock": true,
     "specs": [],
@@ -9178,7 +9178,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-60-3LLUL.jpg?v=1653461492"
     ],
     "inStock": true,
     "specs": [],
@@ -9196,7 +9196,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-70-3LLUL.jpg?v=1653461550"
     ],
     "inStock": true,
     "specs": [],
@@ -9214,7 +9214,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-80-3LLUL.jpg?v=1653461599"
     ],
     "inStock": true,
     "specs": [],
@@ -9232,7 +9232,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-90-3LLUL.jpg?v=1653461647"
     ],
     "inStock": true,
     "specs": [],
@@ -9250,7 +9250,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-100-3LLUL.jpg?v=1653461681"
     ],
     "inStock": true,
     "specs": [],
@@ -9268,7 +9268,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-125-3LLUL.jpg?v=1653461765"
     ],
     "inStock": true,
     "specs": [],
@@ -9286,7 +9286,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FTU-150-3LLUL.jpg?v=1653461823"
     ],
     "inStock": true,
     "specs": [],
@@ -9304,7 +9304,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-40-3LLUL.jpg?v=1653461856"
     ],
     "inStock": true,
     "specs": [],
@@ -9322,7 +9322,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-60-3LLUL.jpg?v=1653461925"
     ],
     "inStock": true,
     "specs": [],
@@ -9340,7 +9340,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-80-3LLUL.jpg?v=1653461956"
     ],
     "inStock": true,
     "specs": [],
@@ -9358,7 +9358,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-150-3LLUL.jpg?v=1653461995"
     ],
     "inStock": true,
     "specs": [],
@@ -9376,7 +9376,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 55,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-FMU-100-3LLUL.jpg?v=1653462021"
     ],
     "inStock": true,
     "specs": [],
@@ -9394,7 +9394,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-ATU-100-3LLUL.jpg?v=1653462068"
     ],
     "inStock": true,
     "specs": [],
@@ -9412,7 +9412,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150HT-ATU-150-3LLUL.jpg?v=1653462097"
     ],
     "inStock": true,
     "specs": [],
@@ -9430,7 +9430,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-40-3LLUL.jpg?v=1653462126"
     ],
     "inStock": true,
     "specs": [],
@@ -9448,7 +9448,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-50-3LLUL.jpg?v=1653462237"
     ],
     "inStock": true,
     "specs": [],
@@ -9466,7 +9466,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-60-3LLUL.jpg?v=1653462281"
     ],
     "inStock": true,
     "specs": [],
@@ -9484,7 +9484,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-80-3LLUL.jpg?v=1653462311"
     ],
     "inStock": true,
     "specs": [],
@@ -9502,7 +9502,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-70-3LLUL.jpg?v=1653462352"
     ],
     "inStock": true,
     "specs": [],
@@ -9520,7 +9520,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-100-3LLUL.jpg?v=1653462385"
     ],
     "inStock": true,
     "specs": [],
@@ -9538,7 +9538,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-90-3LLUL.jpg?v=1653462540"
     ],
     "inStock": true,
     "specs": [],
@@ -9556,7 +9556,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-125-3LLUL.jpg?v=1653462586"
     ],
     "inStock": true,
     "specs": [],
@@ -9574,7 +9574,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FTU-150-3LLUL.jpg?v=1653462610"
     ],
     "inStock": true,
     "specs": [],
@@ -9592,7 +9592,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-40-3LLUL.jpg?v=1653462635"
     ],
     "inStock": true,
     "specs": [],
@@ -9610,7 +9610,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-60-3LLUL.jpg?v=1653470235"
     ],
     "inStock": true,
     "specs": [],
@@ -9628,7 +9628,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-80-3LLUL.jpg?v=1653470523"
     ],
     "inStock": true,
     "specs": [],
@@ -9646,7 +9646,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-100-3LLUL.jpg?v=1653470557"
     ],
     "inStock": true,
     "specs": [],
@@ -9664,7 +9664,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-FMU-150-3LLUL.jpg?v=1653470592"
     ],
     "inStock": true,
     "specs": [],
@@ -9682,7 +9682,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150LT-ATU-100-3LLUL.jpg?v=1653470633"
     ],
     "inStock": true,
     "specs": [],
@@ -9700,7 +9700,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS150_cee36484-e05e-47b8-9766-8fc804da1812.jpg?v=1604681089"
     ],
     "inStock": true,
     "specs": [],
@@ -9790,7 +9790,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker.jpg?v=1628105550"
     ],
     "inStock": true,
     "specs": [],
@@ -9808,7 +9808,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_0699abad-b53d-4613-ac05-aeb196030f8d.jpg?v=1628105551"
     ],
     "inStock": true,
     "specs": [],
@@ -9826,7 +9826,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_3d9a6780-0fff-47e4-832b-cbd942a2c5a8.jpg?v=1628105552"
     ],
     "inStock": true,
     "specs": [],
@@ -9844,7 +9844,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_b847cd8f-3dd0-480c-8169-629e7bc2f1f2.jpg?v=1628105553"
     ],
     "inStock": true,
     "specs": [],
@@ -9862,7 +9862,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_89aa19ee-7a1f-428b-ae9b-59beeb9550d6.jpg?v=1628105554"
     ],
     "inStock": true,
     "specs": [],
@@ -9880,7 +9880,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_8dec1a18-5ed8-4c97-8363-45795cef8fd8.jpg?v=1628105555"
     ],
     "inStock": true,
     "specs": [],
@@ -9898,7 +9898,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a5b8a0f1-c0ad-4de2-a9fa-9c943d5c398d.jpg?v=1628105556"
     ],
     "inStock": true,
     "specs": [],
@@ -9916,7 +9916,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_f8938b73-05ca-4b55-ac62-82ea25f73bdc.jpg?v=1628105557"
     ],
     "inStock": true,
     "specs": [],
@@ -9934,7 +9934,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_b56f5f2c-3c6d-4555-acc1-d6c0acc2782c.jpg?v=1628105558"
     ],
     "inStock": true,
     "specs": [],
@@ -9952,7 +9952,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_5669540f-f231-4438-a59c-697a6fa18ce2.jpg?v=1628105559"
     ],
     "inStock": true,
     "specs": [],
@@ -9970,7 +9970,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_ddf290b4-b703-4e19-8de1-ffa7710a4de3.jpg?v=1628105561"
     ],
     "inStock": true,
     "specs": [],
@@ -9988,7 +9988,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_03cb141b-7313-43c1-a122-46c96630143b.jpg?v=1628105562"
     ],
     "inStock": true,
     "specs": [],
@@ -10006,7 +10006,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_2c4dd3e1-271e-40c9-98bb-365eafe16b80.jpg?v=1628105563"
     ],
     "inStock": true,
     "specs": [],
@@ -10024,7 +10024,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_15f1c7fc-8423-4026-9668-54f2639857d9.jpg?v=1628105564"
     ],
     "inStock": true,
     "specs": [],
@@ -10042,7 +10042,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_6c45f4bc-cddb-4dc1-ae26-41e7308a563b.jpg?v=1628105565"
     ],
     "inStock": true,
     "specs": [],
@@ -10060,7 +10060,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a0a80acd-3333-4a67-ac28-561b4422f067.jpg?v=1628105566"
     ],
     "inStock": true,
     "specs": [],
@@ -10078,7 +10078,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_7867ba0d-2119-47eb-a20e-5e4c90856242.jpg?v=1628105567"
     ],
     "inStock": true,
     "specs": [],
@@ -10096,7 +10096,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_9e660b88-28c0-43c5-b49c-833a5af79f34.jpg?v=1628105568"
     ],
     "inStock": true,
     "specs": [],
@@ -10114,7 +10114,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_fc1723ff-8b93-4aa9-982d-4cec16635a80.jpg?v=1628105569"
     ],
     "inStock": true,
     "specs": [],
@@ -10132,7 +10132,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_2023550f-e957-4d14-9207-1e7dc6358c6e.jpg?v=1628105570"
     ],
     "inStock": true,
     "specs": [],
@@ -10150,7 +10150,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_435292c9-aa3b-446d-8170-9492096a703c.jpg?v=1628105571"
     ],
     "inStock": true,
     "specs": [],
@@ -10168,7 +10168,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_cb909d1b-8ae9-425e-8866-4f1ec6e48fbf.jpg?v=1628105572"
     ],
     "inStock": true,
     "specs": [],
@@ -10186,7 +10186,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_2be85693-e481-4859-ab4f-dcae026d485e.jpg?v=1628105573"
     ],
     "inStock": true,
     "specs": [],
@@ -10204,7 +10204,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_014ceebe-58c7-4ec7-8bcd-83831e0bdff0.jpg?v=1628105574"
     ],
     "inStock": true,
     "specs": [],
@@ -10222,7 +10222,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_178070fb-ca6a-4e59-8db2-ee9db2acf6ae.jpg?v=1628105575"
     ],
     "inStock": true,
     "specs": [],
@@ -10240,7 +10240,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_c389432d-c3ba-4f86-bf61-cd5952f056d0.jpg?v=1628105576"
     ],
     "inStock": true,
     "specs": [],
@@ -10258,7 +10258,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_0d063daf-efe4-414a-90af-c50642dd67fb.jpg?v=1628105577"
     ],
     "inStock": true,
     "specs": [],
@@ -10276,7 +10276,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_69db3a27-37aa-4f1c-be55-4f40b5487654.jpg?v=1628105578"
     ],
     "inStock": true,
     "specs": [],
@@ -10294,7 +10294,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_31665f65-732e-4c98-af5e-8b3dbe8f47e7.jpg?v=1628105579"
     ],
     "inStock": true,
     "specs": [],
@@ -10312,7 +10312,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_7f998814-33f7-4d2c-8622-15444f864c61.jpg?v=1628105580"
     ],
     "inStock": true,
     "specs": [],
@@ -10330,7 +10330,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a047fe1d-d1e0-422a-abf8-e6c266ad2559.jpg?v=1628105581"
     ],
     "inStock": true,
     "specs": [],
@@ -10348,7 +10348,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_756cd79a-f2b4-4c08-bfbc-782bd593d12d.jpg?v=1628105582"
     ],
     "inStock": true,
     "specs": [],
@@ -10366,7 +10366,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a016bd0b-9f07-41e1-824f-31da97de77be.jpg?v=1628105583"
     ],
     "inStock": true,
     "specs": [],
@@ -10384,7 +10384,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a4584b2c-38c8-46e0-8514-12d4e62185f4.jpg?v=1628105584"
     ],
     "inStock": true,
     "specs": [],
@@ -10402,7 +10402,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_b5856414-8a18-4841-8dd7-69806250343a.jpg?v=1628105585"
     ],
     "inStock": true,
     "specs": [],
@@ -10420,7 +10420,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_6a6ef2a7-84e6-49d6-b5af-95e404874d6a.jpg?v=1628105586"
     ],
     "inStock": true,
     "specs": [],
@@ -10438,7 +10438,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_9b46ab0f-c9c2-4e04-8808-b125c0985f0f.jpg?v=1628105587"
     ],
     "inStock": true,
     "specs": [],
@@ -10456,7 +10456,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_a931e25b-63a7-43b2-a7f9-32b532fac47d.jpg?v=1628105588"
     ],
     "inStock": true,
     "specs": [],
@@ -10474,7 +10474,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/2_Pole_-_LS_Mini_Circuit_Breaker_5b13de18-b2c5-4bb7-b2d6-12e617ca2382.jpg?v=1628105589"
     ],
     "inStock": true,
     "specs": [],
@@ -10492,7 +10492,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-15-2LLUL.jpg?v=1653379389"
     ],
     "inStock": true,
     "specs": [],
@@ -10510,7 +10510,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-2LLUL.jpg?v=1653379407"
     ],
     "inStock": true,
     "specs": [],
@@ -10528,7 +10528,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-2LLUL.jpg?v=1653379452"
     ],
     "inStock": true,
     "specs": [],
@@ -10546,7 +10546,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-2LLUL.jpg?v=1653379475"
     ],
     "inStock": true,
     "specs": [],
@@ -10564,7 +10564,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-2LLUL.jpg?v=1653379493"
     ],
     "inStock": true,
     "specs": [],
@@ -10582,7 +10582,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-2LLUL.jpg?v=1653379507"
     ],
     "inStock": true,
     "specs": [],
@@ -10600,7 +10600,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-2LLUL.jpg?v=1653379540"
     ],
     "inStock": true,
     "specs": [],
@@ -10618,7 +10618,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-2LLUL.jpg?v=1653379560"
     ],
     "inStock": true,
     "specs": [],
@@ -10636,7 +10636,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-2LLUL.jpg?v=1653379651"
     ],
     "inStock": true,
     "specs": [],
@@ -10654,7 +10654,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-2LLUL.jpg?v=1653379685"
     ],
     "inStock": true,
     "specs": [],
@@ -10672,7 +10672,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-2LLUL.jpg?v=1653379703"
     ],
     "inStock": true,
     "specs": [],
@@ -10690,7 +10690,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-15-2LLUL.jpg?v=1653379724"
     ],
     "inStock": true,
     "specs": [],
@@ -10708,7 +10708,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-20-2LLUL.jpg?v=1653379746"
     ],
     "inStock": true,
     "specs": [],
@@ -10726,7 +10726,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-25-2LLUL.jpg?v=1653379767"
     ],
     "inStock": true,
     "specs": [],
@@ -10744,7 +10744,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-30-2LLUL.jpg?v=1653379790"
     ],
     "inStock": true,
     "specs": [],
@@ -10762,7 +10762,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-40-2LLUL.jpg?v=1653379813"
     ],
     "inStock": true,
     "specs": [],
@@ -10780,7 +10780,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-50-2LLUL.jpg?v=1653379836"
     ],
     "inStock": true,
     "specs": [],
@@ -10798,7 +10798,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-60-2LLUL.jpg?v=1653379861"
     ],
     "inStock": true,
     "specs": [],
@@ -10816,7 +10816,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-70-2LLUL.jpg?v=1653379891"
     ],
     "inStock": true,
     "specs": [],
@@ -10834,7 +10834,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-80-2LLUL.jpg?v=1653379922"
     ],
     "inStock": true,
     "specs": [],
@@ -10852,7 +10852,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-90-2LLUL.jpg?v=1653379966"
     ],
     "inStock": true,
     "specs": [],
@@ -10870,7 +10870,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-100-2LLUL.jpg?v=1653379986"
     ],
     "inStock": true,
     "specs": [],
@@ -10888,7 +10888,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-15-3LLUL.jpg?v=1653380030"
     ],
     "inStock": true,
     "specs": [],
@@ -10906,7 +10906,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-20-3LLUL.jpg?v=1653380059"
     ],
     "inStock": true,
     "specs": [],
@@ -10924,7 +10924,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-25-3LLUL.jpg?v=1653380085"
     ],
     "inStock": true,
     "specs": [],
@@ -10942,7 +10942,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-30-3LLUL.jpg?v=1653380106"
     ],
     "inStock": true,
     "specs": [],
@@ -10960,7 +10960,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-40-3LLUL.jpg?v=1653380132"
     ],
     "inStock": true,
     "specs": [],
@@ -10978,7 +10978,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-50-3LLUL.jpg?v=1653380156"
     ],
     "inStock": true,
     "specs": [],
@@ -10996,7 +10996,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-60-3LLUL.jpg?v=1653380173"
     ],
     "inStock": true,
     "specs": [],
@@ -11014,7 +11014,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-70-3LLUL.jpg?v=1653380198"
     ],
     "inStock": true,
     "specs": [],
@@ -11032,7 +11032,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-80-3LLUL.jpg?v=1653380230"
     ],
     "inStock": true,
     "specs": [],
@@ -11050,7 +11050,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-90-3LLUL.jpg?v=1653380258"
     ],
     "inStock": true,
     "specs": [],
@@ -11068,7 +11068,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FTU-100-3LLUL.jpg?v=1653380288"
     ],
     "inStock": true,
     "specs": [],
@@ -11086,7 +11086,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-25-3LLUL.jpg?v=1653380309"
     ],
     "inStock": true,
     "specs": [],
@@ -11104,7 +11104,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 89,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-40-3LLUL.jpg?v=1653380335"
     ],
     "inStock": true,
     "specs": [],
@@ -11122,7 +11122,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-60-3LLUL.jpg?v=1653380362"
     ],
     "inStock": true,
     "specs": [],
@@ -11140,7 +11140,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-80-3LLUL.jpg?v=1653380382"
     ],
     "inStock": true,
     "specs": [],
@@ -11158,7 +11158,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-FMU-100-3LLUL.jpg?v=1653380402"
     ],
     "inStock": true,
     "specs": [],
@@ -11176,7 +11176,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-15-3LLUL.jpg?v=1653380449"
     ],
     "inStock": true,
     "specs": [],
@@ -11194,7 +11194,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-20-3LLUL.jpg?v=1653380472"
     ],
     "inStock": true,
     "specs": [],
@@ -11212,7 +11212,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-25-3LLUL.jpg?v=1653380491"
     ],
     "inStock": true,
     "specs": [],
@@ -11230,7 +11230,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-30-3LLUL.jpg?v=1653380510"
     ],
     "inStock": true,
     "specs": [],
@@ -11248,7 +11248,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-40-3LLUL.jpg?v=1653380543"
     ],
     "inStock": true,
     "specs": [],
@@ -11266,7 +11266,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-50-3LLUL.jpg?v=1653380573"
     ],
     "inStock": true,
     "specs": [],
@@ -11284,7 +11284,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-60-3LLUL.jpg?v=1653380593"
     ],
     "inStock": true,
     "specs": [],
@@ -11302,7 +11302,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-70-3LLUL.jpg?v=1653380627"
     ],
     "inStock": true,
     "specs": [],
@@ -11320,7 +11320,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-80-3LLUL.jpg?v=1653380648"
     ],
     "inStock": true,
     "specs": [],
@@ -11338,7 +11338,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-90-3LLUL.jpg?v=1653380667"
     ],
     "inStock": true,
     "specs": [],
@@ -11356,7 +11356,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FTU-100-3LLUL.jpg?v=1653380696"
     ],
     "inStock": true,
     "specs": [],
@@ -11374,7 +11374,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-25-3LLUL.jpg?v=1653380722"
     ],
     "inStock": true,
     "specs": [],
@@ -11392,7 +11392,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-40-3LLUL.jpg?v=1653380740"
     ],
     "inStock": true,
     "specs": [],
@@ -11410,7 +11410,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-60-3LLUL.jpg?v=1653380768"
     ],
     "inStock": true,
     "specs": [],
@@ -11428,7 +11428,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-80-3LLUL.jpg?v=1653380786"
     ],
     "inStock": true,
     "specs": [],
@@ -11446,7 +11446,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-FMU-100-3LLUL.jpg?v=1653380806"
     ],
     "inStock": true,
     "specs": [],
@@ -11464,7 +11464,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100E-MCS-100-3LLUL.jpg?v=1653380823"
     ],
     "inStock": true,
     "specs": [],
@@ -11482,7 +11482,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100N-MCS-100-3LLUL.jpg?v=1653380840"
     ],
     "inStock": true,
     "specs": [],
@@ -11500,7 +11500,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-15-2LLUL.jpg?v=1653380860"
     ],
     "inStock": true,
     "specs": [],
@@ -11518,7 +11518,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-20-2LLUL.jpg?v=1653380906"
     ],
     "inStock": true,
     "specs": [],
@@ -11536,7 +11536,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-25-2LLUL.jpg?v=1653380944"
     ],
     "inStock": true,
     "specs": [],
@@ -11554,7 +11554,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-30-2LLUL.jpg?v=1653380967"
     ],
     "inStock": true,
     "specs": [],
@@ -11572,7 +11572,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-40-2LLUL.jpg?v=1653380989"
     ],
     "inStock": true,
     "specs": [],
@@ -11590,7 +11590,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-50-2LLUL.jpg?v=1653381009"
     ],
     "inStock": true,
     "specs": [],
@@ -11608,7 +11608,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-60-2LLUL.jpg?v=1653381045"
     ],
     "inStock": true,
     "specs": [],
@@ -11626,7 +11626,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-70-2LLUL.jpg?v=1653381062"
     ],
     "inStock": true,
     "specs": [],
@@ -11644,7 +11644,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-80-2LLUL.jpg?v=1653381083"
     ],
     "inStock": true,
     "specs": [],
@@ -11662,7 +11662,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-90-2LLUL.jpg?v=1653381100"
     ],
     "inStock": true,
     "specs": [],
@@ -11680,7 +11680,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-100-2LLUL.jpg?v=1653381130"
     ],
     "inStock": true,
     "specs": [],
@@ -11698,7 +11698,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-15-2LLUL.jpg?v=1653381163"
     ],
     "inStock": true,
     "specs": [],
@@ -11716,7 +11716,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-20-2LLUL.jpg?v=1653381208"
     ],
     "inStock": true,
     "specs": [],
@@ -11734,7 +11734,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-25-2LLUL.jpg?v=1653381230"
     ],
     "inStock": true,
     "specs": [],
@@ -11752,7 +11752,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-30-2LLUL.jpg?v=1653381254"
     ],
     "inStock": true,
     "specs": [],
@@ -11770,7 +11770,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-40-2LLUL.jpg?v=1653381274"
     ],
     "inStock": true,
     "specs": [],
@@ -11788,7 +11788,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-50-2LLUL.jpg?v=1653381294"
     ],
     "inStock": true,
     "specs": [],
@@ -11806,7 +11806,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-60-2LLUL.jpg?v=1653381315"
     ],
     "inStock": true,
     "specs": [],
@@ -11824,7 +11824,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-70-2LLUL.jpg?v=1653381336"
     ],
     "inStock": true,
     "specs": [],
@@ -11842,7 +11842,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-80-2LLUL.jpg?v=1653381367"
     ],
     "inStock": true,
     "specs": [],
@@ -11860,7 +11860,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-90-2LLUL.jpg?v=1653381385"
     ],
     "inStock": true,
     "specs": [],
@@ -11878,7 +11878,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-100-2LLUL.jpg?v=1653381414"
     ],
     "inStock": true,
     "specs": [],
@@ -11896,7 +11896,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-15-3LLUL.jpg?v=1653381434"
     ],
     "inStock": true,
     "specs": [],
@@ -11914,7 +11914,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-20-3LLUL.jpg?v=1653381460"
     ],
     "inStock": true,
     "specs": [],
@@ -11932,7 +11932,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-25-3LLUL.jpg?v=1653381482"
     ],
     "inStock": true,
     "specs": [],
@@ -11950,7 +11950,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-30-3LLUL.jpg?v=1653381506"
     ],
     "inStock": true,
     "specs": [],
@@ -11968,7 +11968,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-40-3LLUL.jpg?v=1653381532"
     ],
     "inStock": true,
     "specs": [],
@@ -11986,7 +11986,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-50-3LLUL.jpg?v=1653381596"
     ],
     "inStock": true,
     "specs": [],
@@ -12004,7 +12004,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-60-3LLUL.jpg?v=1653381632"
     ],
     "inStock": true,
     "specs": [],
@@ -12022,7 +12022,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-70-3LLUL.jpg?v=1653381676"
     ],
     "inStock": true,
     "specs": [],
@@ -12040,7 +12040,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-80-3LLUL.jpg?v=1653381697"
     ],
     "inStock": true,
     "specs": [],
@@ -12058,7 +12058,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-90-3LLUL.jpg?v=1653381717"
     ],
     "inStock": true,
     "specs": [],
@@ -12076,7 +12076,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FTU-100-3LLUL.jpg?v=1653381786"
     ],
     "inStock": true,
     "specs": [],
@@ -12094,7 +12094,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-25-3LLUL.jpg?v=1653381929"
     ],
     "inStock": true,
     "specs": [],
@@ -12112,7 +12112,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-40-3LLUL.jpg?v=1653381956"
     ],
     "inStock": true,
     "specs": [],
@@ -12130,7 +12130,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-60-3LLUL.jpg?v=1653381975"
     ],
     "inStock": true,
     "specs": [],
@@ -12148,7 +12148,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-80-3LLUL.jpg?v=1653381996"
     ],
     "inStock": true,
     "specs": [],
@@ -12166,7 +12166,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100ET-FMU-100-3LLUL.jpg?v=1653382019"
     ],
     "inStock": true,
     "specs": [],
@@ -12184,7 +12184,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-15-3LLUL.jpg?v=1653382037"
     ],
     "inStock": true,
     "specs": [],
@@ -12202,7 +12202,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-20-3LLUL.jpg?v=1653382081"
     ],
     "inStock": true,
     "specs": [],
@@ -12220,7 +12220,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-25-3LLUL.jpg?v=1653382101"
     ],
     "inStock": true,
     "specs": [],
@@ -12238,7 +12238,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-30-3LLUL.jpg?v=1653382132"
     ],
     "inStock": true,
     "specs": [],
@@ -12256,7 +12256,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-40-3LLUL.jpg?v=1653382155"
     ],
     "inStock": true,
     "specs": [],
@@ -12274,7 +12274,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-50-3LLUL.jpg?v=1653382185"
     ],
     "inStock": true,
     "specs": [],
@@ -12292,7 +12292,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-60-3LLUL.jpg?v=1653382225"
     ],
     "inStock": true,
     "specs": [],
@@ -12310,7 +12310,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-70-3LLUL.jpg?v=1653382242"
     ],
     "inStock": true,
     "specs": [],
@@ -12328,7 +12328,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-80-3LLUL.jpg?v=1653382261"
     ],
     "inStock": true,
     "specs": [],
@@ -12346,7 +12346,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-90-3LLUL.jpg?v=1653382280"
     ],
     "inStock": true,
     "specs": [],
@@ -12364,7 +12364,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FTU-100-3LLUL.jpg?v=1653382305"
     ],
     "inStock": true,
     "specs": [],
@@ -12382,7 +12382,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-25-3LLUL.jpg?v=1653382324"
     ],
     "inStock": true,
     "specs": [],
@@ -12400,7 +12400,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-40-3LLUL.jpg?v=1653382349"
     ],
     "inStock": true,
     "specs": [],
@@ -12418,7 +12418,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-60-3LLUL.jpg?v=1653382371"
     ],
     "inStock": true,
     "specs": [],
@@ -12436,7 +12436,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-80-3LLUL.jpg?v=1653382393"
     ],
     "inStock": true,
     "specs": [],
@@ -12454,7 +12454,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTE100NT-FMU-100-3LLUL.jpg?v=1653382424"
     ],
     "inStock": true,
     "specs": [],
@@ -12472,7 +12472,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_25085bec-c1ba-4cfa-9c55-bde3d62590cc.jpg?v=1628100947"
     ],
     "inStock": true,
     "specs": [],
@@ -12490,7 +12490,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b9e73a52-42fb-4451-8e77-c30a4dd2bcae.jpg?v=1628100990"
     ],
     "inStock": true,
     "specs": [],
@@ -12508,7 +12508,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_8d6eba95-e421-4838-bdd5-f8b460ddfa18.jpg?v=1628101026"
     ],
     "inStock": true,
     "specs": [],
@@ -12526,7 +12526,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_39430366-a0ea-4af0-8d25-614cb5f09ed3.jpg?v=1628101054"
     ],
     "inStock": true,
     "specs": [],
@@ -12544,7 +12544,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_19523437-08b6-46bd-9c2a-86bc80127cd8.jpg?v=1628099798"
     ],
     "inStock": true,
     "specs": [],
@@ -12562,7 +12562,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a6796fa1-3024-433c-a6d4-4f1662553753.jpg?v=1628099815"
     ],
     "inStock": true,
     "specs": [],
@@ -12580,7 +12580,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f5b1f753-4b02-466c-9410-ff6c7ddf8605.jpg?v=1628099887"
     ],
     "inStock": true,
     "specs": [],
@@ -12598,7 +12598,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b6cd7b23-c262-4cab-8287-49cb0668e6fe.jpg?v=1628099901"
     ],
     "inStock": true,
     "specs": [],
@@ -12616,7 +12616,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b32b13e0-b862-4f25-8269-ed42b6e78bc7.jpg?v=1628099917"
     ],
     "inStock": true,
     "specs": [],
@@ -12634,7 +12634,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f7d6142f-38ce-43bb-9f39-2b8e5b76f247.jpg?v=1628099931"
     ],
     "inStock": true,
     "specs": [],
@@ -12652,7 +12652,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e01771d7-b0ce-450b-95a0-91b8f7488d98.jpg?v=1628099946"
     ],
     "inStock": true,
     "specs": [],
@@ -12670,7 +12670,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_dd991e8e-8b38-4041-beb2-7363adc7d4ff.jpg?v=1628099976"
     ],
     "inStock": true,
     "specs": [],
@@ -12688,7 +12688,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD_TS_FixedLockingDevices.jpg?v=1649165179"
     ],
     "inStock": true,
     "specs": [],
@@ -12706,7 +12706,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_236b6de1-0d51-4bfa-825e-56f8af644781.jpg?v=1628101155"
     ],
     "inStock": true,
     "specs": [],
@@ -12724,7 +12724,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_d15dbcfc-8023-4c28-9995-9fdee75e6e0e.jpg?v=1628101182"
     ],
     "inStock": true,
     "specs": [],
@@ -12742,7 +12742,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_282497b9-bae7-4215-ae59-3f82487afb9b.jpg?v=1628101239"
     ],
     "inStock": true,
     "specs": [],
@@ -12760,7 +12760,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_6b38403d-bc1e-4fe5-870c-b80562692d2b.jpg?v=1628101288"
     ],
     "inStock": true,
     "specs": [],
@@ -12778,7 +12778,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_bd48da39-0a80-449c-9c92-5b1b37f73692.jpg?v=1628101306"
     ],
     "inStock": true,
     "specs": [],
@@ -12796,7 +12796,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_33faec70-d807-46e9-bf56-59b53247f128.jpg?v=1628101321"
     ],
     "inStock": true,
     "specs": [],
@@ -12814,7 +12814,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_96c3f925-766f-4780-b977-60b52da31390.jpg?v=1628101353"
     ],
     "inStock": true,
     "specs": [],
@@ -12832,7 +12832,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FTU-500-3LLUL.jpg?v=1653490015"
     ],
     "inStock": true,
     "specs": [],
@@ -12850,7 +12850,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FTU-600-3LLUL.jpg?v=1653490073"
     ],
     "inStock": true,
     "specs": [],
@@ -12868,7 +12868,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FMU-600-3LLUL.jpg?v=1653490115"
     ],
     "inStock": true,
     "specs": [],
@@ -12886,7 +12886,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-FMU-500-3LLUL.jpg?v=1653490228"
     ],
     "inStock": true,
     "specs": [],
@@ -12904,7 +12904,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-ATU-500-3LLUL.jpg?v=1653490322"
     ],
     "inStock": true,
     "specs": [],
@@ -12922,7 +12922,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600N-ATU-600-3LLUL.jpg?v=1653490359"
     ],
     "inStock": true,
     "specs": [],
@@ -12940,7 +12940,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FTU-500-3LLUL.jpg?v=1653490400"
     ],
     "inStock": true,
     "specs": [],
@@ -12958,7 +12958,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FTU-600-3LLUL.jpg?v=1653490425"
     ],
     "inStock": true,
     "specs": [],
@@ -12976,7 +12976,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FMU-500-3LLUL.jpg?v=1653490455"
     ],
     "inStock": true,
     "specs": [],
@@ -12994,7 +12994,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-FMU-600-3LLUL.jpg?v=1653490484"
     ],
     "inStock": true,
     "specs": [],
@@ -13012,7 +13012,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-ATU-500-3LLUL.jpg?v=1653490510"
     ],
     "inStock": true,
     "specs": [],
@@ -13030,7 +13030,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 89,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FTU-500-3LLUL.jpg?v=1653490552"
     ],
     "inStock": true,
     "specs": [],
@@ -13048,7 +13048,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600H-ATU-600-3LLUL.jpg?v=1653490607"
     ],
     "inStock": true,
     "specs": [],
@@ -13066,7 +13066,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FTU-600-3LLUL.jpg?v=1653490656"
     ],
     "inStock": true,
     "specs": [],
@@ -13084,7 +13084,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FMU-500-3LLUL.jpg?v=1653490679"
     ],
     "inStock": true,
     "specs": [],
@@ -13102,7 +13102,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-FMU-600-3LLUL.jpg?v=1653490707"
     ],
     "inStock": true,
     "specs": [],
@@ -13120,7 +13120,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-ATU-500-3LLUL.jpg?v=1653490731"
     ],
     "inStock": true,
     "specs": [],
@@ -13138,7 +13138,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-ATU-600-3LLUL.jpg?v=1653490759"
     ],
     "inStock": true,
     "specs": [],
@@ -13156,7 +13156,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-MCS-600-3LLUL.jpg?v=1653490788"
     ],
     "inStock": true,
     "specs": [],
@@ -13174,7 +13174,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FTU-500-3LLUL.jpg?v=1653490819"
     ],
     "inStock": true,
     "specs": [],
@@ -13192,7 +13192,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600L-MCP-500-3LLUL.jpg?v=1653490847"
     ],
     "inStock": true,
     "specs": [],
@@ -13210,7 +13210,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FTU-600-3LLUL.jpg?v=1653490865"
     ],
     "inStock": true,
     "specs": [],
@@ -13228,7 +13228,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FMU-600-3LLUL.jpg?v=1653490901"
     ],
     "inStock": true,
     "specs": [],
@@ -13246,7 +13246,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-FMU-500-3LLUL.jpg?v=1653490931"
     ],
     "inStock": true,
     "specs": [],
@@ -13264,7 +13264,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-ATU-500-3LLUL.jpg?v=1653490949"
     ],
     "inStock": true,
     "specs": [],
@@ -13282,7 +13282,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600NT-ATU-600-3LLUL.jpg?v=1653490972"
     ],
     "inStock": true,
     "specs": [],
@@ -13300,7 +13300,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FTU-500-3LLUL.jpg?v=1653491032"
     ],
     "inStock": true,
     "specs": [],
@@ -13318,7 +13318,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FTU-600-3LLUL.jpg?v=1653491072"
     ],
     "inStock": true,
     "specs": [],
@@ -13336,7 +13336,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FMU-500-3LLUL.jpg?v=1653491128"
     ],
     "inStock": true,
     "specs": [],
@@ -13354,7 +13354,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-FMU-600-3LLUL.jpg?v=1653491184"
     ],
     "inStock": true,
     "specs": [],
@@ -13372,7 +13372,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-ATU-500-3LLUL.jpg?v=1653491212"
     ],
     "inStock": true,
     "specs": [],
@@ -13390,7 +13390,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600HT-ATU-600-3LLUL.jpg?v=1653491259"
     ],
     "inStock": true,
     "specs": [],
@@ -13408,7 +13408,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FTU-500-3LLUL.jpg?v=1653491303"
     ],
     "inStock": true,
     "specs": [],
@@ -13426,7 +13426,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FTU-600-3LLUL.jpg?v=1653491345"
     ],
     "inStock": true,
     "specs": [],
@@ -13444,7 +13444,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FMU-500-3LLUL.jpg?v=1653491374"
     ],
     "inStock": true,
     "specs": [],
@@ -13462,7 +13462,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-FMU-600-3LLUL.jpg?v=1653491414"
     ],
     "inStock": true,
     "specs": [],
@@ -13480,7 +13480,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-ATU-500-3LLUL.jpg?v=1653491440"
     ],
     "inStock": true,
     "specs": [],
@@ -13498,7 +13498,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS600LT-ATU-600-3LLUL.jpg?v=1653491496"
     ],
     "inStock": true,
     "specs": [],
@@ -13516,7 +13516,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_19523437-08b6-46bd-9c2a-86bc80127cd8.jpg?v=1628099798"
     ],
     "inStock": true,
     "specs": [],
@@ -13534,7 +13534,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 55,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_a6796fa1-3024-433c-a6d4-4f1662553753.jpg?v=1628099815"
     ],
     "inStock": true,
     "specs": [],
@@ -13552,7 +13552,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f5b1f753-4b02-466c-9410-ff6c7ddf8605.jpg?v=1628099887"
     ],
     "inStock": true,
     "specs": [],
@@ -13570,7 +13570,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b6cd7b23-c262-4cab-8287-49cb0668e6fe.jpg?v=1628099901"
     ],
     "inStock": true,
     "specs": [],
@@ -13588,7 +13588,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_b32b13e0-b862-4f25-8269-ed42b6e78bc7.jpg?v=1628099917"
     ],
     "inStock": true,
     "specs": [],
@@ -13606,7 +13606,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_f7d6142f-38ce-43bb-9f39-2b8e5b76f247.jpg?v=1628099931"
     ],
     "inStock": true,
     "specs": [],
@@ -13624,7 +13624,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_e01771d7-b0ce-450b-95a0-91b8f7488d98.jpg?v=1628099946"
     ],
     "inStock": true,
     "specs": [],
@@ -13642,7 +13642,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SusolTD-TS_dd991e8e-8b38-4041-beb2-7363adc7d4ff.jpg?v=1628099976"
     ],
     "inStock": true,
     "specs": [],
@@ -13660,7 +13660,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-175-3LLUL.jpg?v=1653470704"
     ],
     "inStock": true,
     "specs": [],
@@ -13678,7 +13678,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-150-3LLUL.jpg?v=1653470745"
     ],
     "inStock": true,
     "specs": [],
@@ -13696,7 +13696,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-200-3LLUL.jpg?v=1653470784"
     ],
     "inStock": true,
     "specs": [],
@@ -13714,7 +13714,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-225-3LLUL.jpg?v=1653470805"
     ],
     "inStock": true,
     "specs": [],
@@ -13732,7 +13732,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-250-3LLUL.jpg?v=1653470827"
     ],
     "inStock": true,
     "specs": [],
@@ -13750,7 +13750,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FMU-160-3LLUL.jpg?v=1653470848"
     ],
     "inStock": true,
     "specs": [],
@@ -13768,7 +13768,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FMU-200-3LLUL.jpg?v=1653470869"
     ],
     "inStock": true,
     "specs": [],
@@ -13786,7 +13786,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FMU-250-3LLUL.jpg?v=1653470889"
     ],
     "inStock": true,
     "specs": [],
@@ -13804,7 +13804,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-ATU-160-3LLUL.jpg?v=1653470918"
     ],
     "inStock": true,
     "specs": [],
@@ -13822,7 +13822,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-ATU-250-3LLUL.jpg?v=1653470939"
     ],
     "inStock": true,
     "specs": [],
@@ -13840,7 +13840,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-ATU-200-3LLUL.jpg?v=1653470965"
     ],
     "inStock": true,
     "specs": [],
@@ -13858,7 +13858,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-150-3LLUL.jpg?v=1653470983"
     ],
     "inStock": true,
     "specs": [],
@@ -13876,7 +13876,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-175-3LLUL.jpg?v=1653472110"
     ],
     "inStock": true,
     "specs": [],
@@ -13894,7 +13894,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-200-3LLUL.jpg?v=1653472164"
     ],
     "inStock": true,
     "specs": [],
@@ -13912,7 +13912,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-225-3LLUL.jpg?v=1653472194"
     ],
     "inStock": true,
     "specs": [],
@@ -13930,7 +13930,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-250-3LLUL.jpg?v=1653472218"
     ],
     "inStock": true,
     "specs": [],
@@ -13948,7 +13948,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FMU-160-3LLUL.jpg?v=1653472249"
     ],
     "inStock": true,
     "specs": [],
@@ -13966,7 +13966,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FMU-200-3LLUL.jpg?v=1653472278"
     ],
     "inStock": true,
     "specs": [],
@@ -13984,7 +13984,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FMU-250-3LLUL.jpg?v=1653472307"
     ],
     "inStock": true,
     "specs": [],
@@ -14002,7 +14002,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-ATU-160-3LLUL.jpg?v=1653472349"
     ],
     "inStock": true,
     "specs": [],
@@ -14020,7 +14020,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-ATU-200-3LLUL.jpg?v=1653472386"
     ],
     "inStock": true,
     "specs": [],
@@ -14038,7 +14038,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-ATU-250-3LLUL.jpg?v=1653472415"
     ],
     "inStock": true,
     "specs": [],
@@ -14056,7 +14056,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-150-3LLUL.jpg?v=1653472439"
     ],
     "inStock": true,
     "specs": [],
@@ -14074,7 +14074,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-200-3LLUL.jpg?v=1653472464"
     ],
     "inStock": true,
     "specs": [],
@@ -14092,7 +14092,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-175-3LLUL.jpg?v=1653472490"
     ],
     "inStock": true,
     "specs": [],
@@ -14110,7 +14110,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-225-3LLUL.jpg?v=1653472518"
     ],
     "inStock": true,
     "specs": [],
@@ -14128,7 +14128,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FTU-250-3LLUL.jpg?v=1653472540"
     ],
     "inStock": true,
     "specs": [],
@@ -14146,7 +14146,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FMU-160-3LLUL.jpg?v=1653472565"
     ],
     "inStock": true,
     "specs": [],
@@ -14164,7 +14164,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FMU-250-3LLUL.jpg?v=1653472593"
     ],
     "inStock": true,
     "specs": [],
@@ -14182,7 +14182,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-FMU-200-3LLUL.jpg?v=1653472621"
     ],
     "inStock": true,
     "specs": [],
@@ -14200,7 +14200,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-ATU-160-3LLUL.jpg?v=1653472638"
     ],
     "inStock": true,
     "specs": [],
@@ -14218,7 +14218,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-ATU-200-3LLUL.jpg?v=1653472660"
     ],
     "inStock": true,
     "specs": [],
@@ -14236,7 +14236,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-ATU-250-3LLUL.jpg?v=1653472708"
     ],
     "inStock": true,
     "specs": [],
@@ -14254,7 +14254,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-MCP-220-3LLUL.jpg?v=1653472726"
     ],
     "inStock": true,
     "specs": [],
@@ -14272,7 +14272,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-MCS-175-3LLUL.jpg?v=1653472748"
     ],
     "inStock": true,
     "specs": [],
@@ -14290,7 +14290,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-150-3LLUL.jpg?v=1653472768"
     ],
     "inStock": true,
     "specs": [],
@@ -14308,7 +14308,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250L-MCS-250-3LLUL.jpg?v=1653472790"
     ],
     "inStock": true,
     "specs": [],
@@ -14326,7 +14326,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-175-3LLUL.jpg?v=1653472810"
     ],
     "inStock": true,
     "specs": [],
@@ -14344,7 +14344,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-200-3LLUL.jpg?v=1653472833"
     ],
     "inStock": true,
     "specs": [],
@@ -14362,7 +14362,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-225-3LLUL.jpg?v=1653472865"
     ],
     "inStock": true,
     "specs": [],
@@ -14380,7 +14380,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FTU-250-3LLUL.jpg?v=1653472903"
     ],
     "inStock": true,
     "specs": [],
@@ -14398,7 +14398,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FMU-160-3LLUL.jpg?v=1653472931"
     ],
     "inStock": true,
     "specs": [],
@@ -14416,7 +14416,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FMU-200-3LLUL.jpg?v=1653472955"
     ],
     "inStock": true,
     "specs": [],
@@ -14434,7 +14434,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-FMU-250-3LLUL.jpg?v=1653472977"
     ],
     "inStock": true,
     "specs": [],
@@ -14452,7 +14452,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-ATU-160-3LLUL.jpg?v=1653473013"
     ],
     "inStock": true,
     "specs": [],
@@ -14470,7 +14470,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-ATU-200-3LLUL.jpg?v=1653473034"
     ],
     "inStock": true,
     "specs": [],
@@ -14488,7 +14488,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250NT-ATU-250-3LLUL.jpg?v=1653473057"
     ],
     "inStock": true,
     "specs": [],
@@ -14506,7 +14506,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-150-3LLUL.jpg?v=1653473074"
     ],
     "inStock": true,
     "specs": [],
@@ -14524,7 +14524,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-175-3LLUL.jpg?v=1653473096"
     ],
     "inStock": true,
     "specs": [],
@@ -14542,7 +14542,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-200-3LLUL.jpg?v=1653473164"
     ],
     "inStock": true,
     "specs": [],
@@ -14560,7 +14560,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-225-3LLUL.jpg?v=1653473218"
     ],
     "inStock": true,
     "specs": [],
@@ -14578,7 +14578,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FTU-250-3LLUL.jpg?v=1653475433"
     ],
     "inStock": true,
     "specs": [],
@@ -14596,7 +14596,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FMU-160-3LLUL.jpg?v=1653475451"
     ],
     "inStock": true,
     "specs": [],
@@ -14614,7 +14614,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FMU-250-3LLUL.jpg?v=1653475478"
     ],
     "inStock": true,
     "specs": [],
@@ -14632,7 +14632,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-FMU-200-3LLUL.jpg?v=1653475494"
     ],
     "inStock": true,
     "specs": [],
@@ -14650,7 +14650,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-ATU-200-3LLUL.jpg?v=1653475514"
     ],
     "inStock": true,
     "specs": [],
@@ -14668,7 +14668,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-ATU-160-3LLUL.jpg?v=1653475533"
     ],
     "inStock": true,
     "specs": [],
@@ -14686,7 +14686,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250HT-ATU-250-3LLUL.jpg?v=1653475555"
     ],
     "inStock": true,
     "specs": [],
@@ -14704,7 +14704,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-150-3LLUL.jpg?v=1653475582"
     ],
     "inStock": true,
     "specs": [],
@@ -14722,7 +14722,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-175-3LLUL.jpg?v=1653475618"
     ],
     "inStock": true,
     "specs": [],
@@ -14740,7 +14740,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-200-3LLUL.jpg?v=1653475678"
     ],
     "inStock": true,
     "specs": [],
@@ -14758,7 +14758,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-225-3LLUL.jpg?v=1653475702"
     ],
     "inStock": true,
     "specs": [],
@@ -14776,7 +14776,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FMU-160-3LLUL.jpg?v=1653475722"
     ],
     "inStock": true,
     "specs": [],
@@ -14794,7 +14794,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FTU-250-3LLUL.jpg?v=1653475748"
     ],
     "inStock": true,
     "specs": [],
@@ -14812,7 +14812,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FMU-250-3LLUL.jpg?v=1653475767"
     ],
     "inStock": true,
     "specs": [],
@@ -14830,7 +14830,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-FMU-200-3LLUL.jpg?v=1653475789"
     ],
     "inStock": true,
     "specs": [],
@@ -14848,7 +14848,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-ATU-200-3LLUL.jpg?v=1653475809"
     ],
     "inStock": true,
     "specs": [],
@@ -14866,7 +14866,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-ATU-160-3LLUL.jpg?v=1653475828"
     ],
     "inStock": true,
     "specs": [],
@@ -14884,7 +14884,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250LT-ATU-250-3LLUL.jpg?v=1653475845"
     ],
     "inStock": true,
     "specs": [],
@@ -14902,7 +14902,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 59,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-400-3LLUL.jpg?v=1653491963"
     ],
     "inStock": true,
     "specs": [],
@@ -14920,7 +14920,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-400-3LLUL.jpg?v=1653492002"
     ],
     "inStock": true,
     "specs": [],
@@ -14938,7 +14938,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-400-3LLUL.jpg?v=1653492037"
     ],
     "inStock": true,
     "specs": [],
@@ -14956,7 +14956,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-400-3LLUL.jpg?v=1653492077"
     ],
     "inStock": true,
     "specs": [],
@@ -14974,7 +14974,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG2-400-3LLUL.jpg?v=1653492119"
     ],
     "inStock": true,
     "specs": [],
@@ -14992,7 +14992,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-400-3LLUL.jpg?v=1653492149"
     ],
     "inStock": true,
     "specs": [],
@@ -15010,7 +15010,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG6-400-3LLUL.jpg?v=1653492185"
     ],
     "inStock": true,
     "specs": [],
@@ -15028,7 +15028,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-400-3LLUL.jpg?v=1653492272"
     ],
     "inStock": true,
     "specs": [],
@@ -15046,7 +15046,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-400-3LLUL.jpg?v=1653492303"
     ],
     "inStock": true,
     "specs": [],
@@ -15064,7 +15064,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-400-3LLUL.jpg?v=1653492342"
     ],
     "inStock": true,
     "specs": [],
@@ -15082,7 +15082,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-400-3LLUL.jpg?v=1653492377"
     ],
     "inStock": true,
     "specs": [],
@@ -15100,7 +15100,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-400-3LLUL.jpg?v=1653492451"
     ],
     "inStock": true,
     "specs": [],
@@ -15118,7 +15118,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-400-3LLUL.jpg?v=1653492478"
     ],
     "inStock": true,
     "specs": [],
@@ -15136,7 +15136,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-400-3LLUL.jpg?v=1653492500"
     ],
     "inStock": true,
     "specs": [],
@@ -15154,7 +15154,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-400-3LLUL.jpg?v=1653492677"
     ],
     "inStock": true,
     "specs": [],
@@ -15172,7 +15172,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-400-3LLUL.jpg?v=1653492721"
     ],
     "inStock": true,
     "specs": [],
@@ -15190,7 +15190,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-400-3LLUL.jpg?v=1653492762"
     ],
     "inStock": true,
     "specs": [],
@@ -15208,7 +15208,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-400-3LLUL.jpg?v=1653492812"
     ],
     "inStock": true,
     "specs": [],
@@ -15226,7 +15226,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-400-3LLUL.jpg?v=1653492848"
     ],
     "inStock": true,
     "specs": [],
@@ -15244,7 +15244,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-400-3LLUL.jpg?v=1653492923"
     ],
     "inStock": true,
     "specs": [],
@@ -15262,7 +15262,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-400-3LLUL.jpg?v=1653493025"
     ],
     "inStock": true,
     "specs": [],
@@ -15280,7 +15280,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_779fe005-9dd3-48f5-9ca1-1df983234d1a.jpg?v=1606920657"
     ],
     "inStock": true,
     "specs": [],
@@ -15298,7 +15298,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC1-400-3LLUL.jpg?v=1653493054"
     ],
     "inStock": true,
     "specs": [],
@@ -15316,7 +15316,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-400-3LLUL.jpg?v=1653493081"
     ],
     "inStock": true,
     "specs": [],
@@ -15334,7 +15334,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-400-3LLUL.jpg?v=1653493111"
     ],
     "inStock": true,
     "specs": [],
@@ -15352,7 +15352,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC7-400-3LLUL.jpg?v=1653493138"
     ],
     "inStock": true,
     "specs": [],
@@ -15370,7 +15370,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-400-3LLUL.jpg?v=1653493178"
     ],
     "inStock": true,
     "specs": [],
@@ -15388,7 +15388,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-400-3LLUL.jpg?v=1653493200"
     ],
     "inStock": true,
     "specs": [],
@@ -15406,7 +15406,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-400-3LLUL.jpg?v=1653493228"
     ],
     "inStock": true,
     "specs": [],
@@ -15424,7 +15424,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-400-3LLUL.jpg?v=1653493290"
     ],
     "inStock": true,
     "specs": [],
@@ -15442,7 +15442,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-400-3LLUL.jpg?v=1653493313"
     ],
     "inStock": true,
     "specs": [],
@@ -15460,7 +15460,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-400-3LLUL.jpg?v=1653493345"
     ],
     "inStock": true,
     "specs": [],
@@ -15478,7 +15478,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC6-400-3LLUL.jpg?v=1653493372"
     ],
     "inStock": true,
     "specs": [],
@@ -15496,7 +15496,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-400-3LLUL.jpg?v=1653493408"
     ],
     "inStock": true,
     "specs": [],
@@ -15514,7 +15514,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-400-3LLUL.jpg?v=1653493443"
     ],
     "inStock": true,
     "specs": [],
@@ -15532,7 +15532,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-400-3LLUL.jpg?v=1653493469"
     ],
     "inStock": true,
     "specs": [],
@@ -15550,7 +15550,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-400-3LLUL.jpg?v=1653493540"
     ],
     "inStock": true,
     "specs": [],
@@ -15568,7 +15568,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-400-3LLUL.jpg?v=1653493577"
     ],
     "inStock": true,
     "specs": [],
@@ -15586,7 +15586,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-600-3LLUL.jpg?v=1653493631"
     ],
     "inStock": true,
     "specs": [],
@@ -15604,7 +15604,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-600-3LLUL.jpg?v=1653493661"
     ],
     "inStock": true,
     "specs": [],
@@ -15622,7 +15622,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-600-3LLUL.jpg?v=1653493692"
     ],
     "inStock": true,
     "specs": [],
@@ -15640,7 +15640,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-600-3LLUL.jpg?v=1653493738"
     ],
     "inStock": true,
     "specs": [],
@@ -15658,7 +15658,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG2-600-3LLUL.jpg?v=1653493815"
     ],
     "inStock": true,
     "specs": [],
@@ -15676,7 +15676,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-600-3LLUL.jpg?v=1653493843"
     ],
     "inStock": true,
     "specs": [],
@@ -15694,7 +15694,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_b9c57e89-5836-49bf-a4b4-12f9ab58bde6.jpg?v=1606920689"
     ],
     "inStock": true,
     "specs": [],
@@ -15712,7 +15712,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-600-3LLUL.jpg?v=1653493924"
     ],
     "inStock": true,
     "specs": [],
@@ -15730,7 +15730,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-600-3LLUL.jpg?v=1653493967"
     ],
     "inStock": true,
     "specs": [],
@@ -15748,7 +15748,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-600-3LLUL.jpg?v=1653494025"
     ],
     "inStock": true,
     "specs": [],
@@ -15766,7 +15766,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-600-3LLUL.jpg?v=1653494057"
     ],
     "inStock": true,
     "specs": [],
@@ -15784,7 +15784,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-600-3LLUL.jpg?v=1653494083"
     ],
     "inStock": true,
     "specs": [],
@@ -15802,7 +15802,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-600-3LLUL.jpg?v=1653494112"
     ],
     "inStock": true,
     "specs": [],
@@ -15820,7 +15820,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-600-3LLUL.jpg?v=1653494165"
     ],
     "inStock": true,
     "specs": [],
@@ -15838,7 +15838,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-600-3LLUL.jpg?v=1653494187"
     ],
     "inStock": true,
     "specs": [],
@@ -15856,7 +15856,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-600-3LLUL.jpg?v=1653494225"
     ],
     "inStock": true,
     "specs": [],
@@ -15874,7 +15874,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-600-3LLUL.jpg?v=1653494275"
     ],
     "inStock": true,
     "specs": [],
@@ -15892,7 +15892,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-600-3LLUL.jpg?v=1653494316"
     ],
     "inStock": true,
     "specs": [],
@@ -15910,7 +15910,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-600-3LLUL.jpg?v=1653494375"
     ],
     "inStock": true,
     "specs": [],
@@ -15928,7 +15928,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-600-3LLUL.jpg?v=1653494408"
     ],
     "inStock": true,
     "specs": [],
@@ -15946,7 +15946,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX6-600-3LLUL.jpg?v=1653494462"
     ],
     "inStock": true,
     "specs": [],
@@ -15964,7 +15964,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-600-3LLUL.jpg?v=1653494505"
     ],
     "inStock": true,
     "specs": [],
@@ -15982,7 +15982,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC1-600-3LLUL.jpg?v=1653494525"
     ],
     "inStock": true,
     "specs": [],
@@ -16000,7 +16000,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-600-3LLUL.jpg?v=1653494551"
     ],
     "inStock": true,
     "specs": [],
@@ -16018,7 +16018,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-600-3LLUL.jpg?v=1653494578"
     ],
     "inStock": true,
     "specs": [],
@@ -16036,7 +16036,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC7-600-3LLUL.jpg?v=1653494623"
     ],
     "inStock": true,
     "specs": [],
@@ -16054,7 +16054,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-600-3LLUL.jpg?v=1653494649"
     ],
     "inStock": true,
     "specs": [],
@@ -16072,7 +16072,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-600-3LLUL.jpg?v=1653494682"
     ],
     "inStock": true,
     "specs": [],
@@ -16090,7 +16090,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-600-3LLUL.jpg?v=1653494705"
     ],
     "inStock": true,
     "specs": [],
@@ -16108,7 +16108,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-600-3LLUL.jpg?v=1653494742"
     ],
     "inStock": true,
     "specs": [],
@@ -16126,7 +16126,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-600-3LLUL.jpg?v=1653494781"
     ],
     "inStock": true,
     "specs": [],
@@ -16144,7 +16144,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-600-3LLUL.jpg?v=1653494811"
     ],
     "inStock": true,
     "specs": [],
@@ -16162,7 +16162,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC6-600-3LLUL.jpg?v=1653494844"
     ],
     "inStock": true,
     "specs": [],
@@ -16180,7 +16180,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-600-3LLUL.jpg?v=1653494873"
     ],
     "inStock": true,
     "specs": [],
@@ -16198,7 +16198,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-600-3LLUL.jpg?v=1653494893"
     ],
     "inStock": true,
     "specs": [],
@@ -16216,7 +16216,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-600-3LLUL.jpg?v=1653494918"
     ],
     "inStock": true,
     "specs": [],
@@ -16234,7 +16234,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-600-3LLUL.jpg?v=1653494936"
     ],
     "inStock": true,
     "specs": [],
@@ -16252,7 +16252,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-600-3LLUL.jpg?v=1653494977"
     ],
     "inStock": true,
     "specs": [],
@@ -16270,7 +16270,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-630-3LLUL.jpg?v=1653495004"
     ],
     "inStock": true,
     "specs": [],
@@ -16288,7 +16288,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-630-3LLUL.jpg?v=1653495045"
     ],
     "inStock": true,
     "specs": [],
@@ -16306,7 +16306,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-630-3LLUL.jpg?v=1653495085"
     ],
     "inStock": true,
     "specs": [],
@@ -16324,7 +16324,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-630-3LLUL.jpg?v=1653495113"
     ],
     "inStock": true,
     "specs": [],
@@ -16342,7 +16342,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 89,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG2-630-3LLUL.jpg?v=1653495150"
     ],
     "inStock": true,
     "specs": [],
@@ -16360,7 +16360,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-630-3LLUL.jpg?v=1653495197"
     ],
     "inStock": true,
     "specs": [],
@@ -16378,7 +16378,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG6-630-3LLUL.jpg?v=1653495231"
     ],
     "inStock": true,
     "specs": [],
@@ -16396,7 +16396,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-630-3LLUL.jpg?v=1653495267"
     ],
     "inStock": true,
     "specs": [],
@@ -16414,7 +16414,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-630-3LLUL.jpg?v=1653495295"
     ],
     "inStock": true,
     "specs": [],
@@ -16432,7 +16432,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-630-3LLUL.jpg?v=1653495334"
     ],
     "inStock": true,
     "specs": [],
@@ -16450,7 +16450,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-630-3LLUL.jpg?v=1653495381"
     ],
     "inStock": true,
     "specs": [],
@@ -16468,7 +16468,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-630-3LLUL.jpg?v=1653495427"
     ],
     "inStock": true,
     "specs": [],
@@ -16486,7 +16486,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-630-3LLUL.jpg?v=1653495465"
     ],
     "inStock": true,
     "specs": [],
@@ -16504,7 +16504,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-630-3LLUL.jpg?v=1653495545"
     ],
     "inStock": true,
     "specs": [],
@@ -16522,7 +16522,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-630-3LLUL.jpg?v=1653495575"
     ],
     "inStock": true,
     "specs": [],
@@ -16540,7 +16540,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-630-3LLUL.jpg?v=1653495598"
     ],
     "inStock": true,
     "specs": [],
@@ -16558,7 +16558,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-630-3LLUL.jpg?v=1653495623"
     ],
     "inStock": true,
     "specs": [],
@@ -16576,7 +16576,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-630-3LLUL.jpg?v=1653495648"
     ],
     "inStock": true,
     "specs": [],
@@ -16594,7 +16594,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-630-3LLUL.jpg?v=1653495679"
     ],
     "inStock": true,
     "specs": [],
@@ -16612,7 +16612,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-630-3LLUL.jpg?v=1653495738"
     ],
     "inStock": true,
     "specs": [],
@@ -16630,7 +16630,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX6-630-3LLUL.jpg?v=1653495765"
     ],
     "inStock": true,
     "specs": [],
@@ -16648,7 +16648,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-630-3LLUL.jpg?v=1653495787"
     ],
     "inStock": true,
     "specs": [],
@@ -16666,7 +16666,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC1-630-3LLUL.jpg?v=1653495812"
     ],
     "inStock": true,
     "specs": [],
@@ -16684,7 +16684,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-630-3LLUL.jpg?v=1653495836"
     ],
     "inStock": true,
     "specs": [],
@@ -16702,7 +16702,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-630-3LLUL.jpg?v=1653495857"
     ],
     "inStock": true,
     "specs": [],
@@ -16720,7 +16720,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC7-630-3LLUL.jpg?v=1653495888"
     ],
     "inStock": true,
     "specs": [],
@@ -16738,7 +16738,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-630-3LLUL.jpg?v=1653495910"
     ],
     "inStock": true,
     "specs": [],
@@ -16756,7 +16756,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-630-3LLUL.jpg?v=1653495963"
     ],
     "inStock": true,
     "specs": [],
@@ -16774,7 +16774,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-630-3LLUL.jpg?v=1653495986"
     ],
     "inStock": true,
     "specs": [],
@@ -16792,7 +16792,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-630-3LLUL.jpg?v=1653496021"
     ],
     "inStock": true,
     "specs": [],
@@ -16810,7 +16810,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-630-3LLUL.jpg?v=1653496056"
     ],
     "inStock": true,
     "specs": [],
@@ -16828,7 +16828,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-630-3LLUL.jpg?v=1653496112"
     ],
     "inStock": true,
     "specs": [],
@@ -16846,7 +16846,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_01e64bf6-4d79-4500-9487-43d708b688c8.jpg?v=1606920770"
     ],
     "inStock": true,
     "specs": [],
@@ -16864,7 +16864,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-630-3LLUL.jpg?v=1653496142"
     ],
     "inStock": true,
     "specs": [],
@@ -16882,7 +16882,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-630-3LLUL.jpg?v=1653551560"
     ],
     "inStock": true,
     "specs": [],
@@ -16900,7 +16900,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-630-3LLUL.jpg?v=1653551596"
     ],
     "inStock": true,
     "specs": [],
@@ -16918,7 +16918,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-630-3LLUL.jpg?v=1653551623"
     ],
     "inStock": true,
     "specs": [],
@@ -16936,7 +16936,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-630-3LLUL.jpg?v=1653551641"
     ],
     "inStock": true,
     "specs": [],
@@ -16954,7 +16954,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG0-800-3LLUL.jpg?v=1653551667"
     ],
     "inStock": true,
     "specs": [],
@@ -16972,7 +16972,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 89,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-NG5-800-3LLUL.jpg?v=1653551691"
     ],
     "inStock": true,
     "specs": [],
@@ -16990,7 +16990,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG0-800-3LLUL.jpg?v=1653551717"
     ],
     "inStock": true,
     "specs": [],
@@ -17008,7 +17008,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG1-800-3LLUL.jpg?v=1653551741"
     ],
     "inStock": true,
     "specs": [],
@@ -17026,7 +17026,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_757a9da2-7578-41fb-9664-a3b25d519fe2.jpg?v=1606920781"
     ],
     "inStock": true,
     "specs": [],
@@ -17044,7 +17044,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG5-800-3LLUL.jpg?v=1653551787"
     ],
     "inStock": true,
     "specs": [],
@@ -17062,7 +17062,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG6-800-3LLUL.jpg?v=1653551822"
     ],
     "inStock": true,
     "specs": [],
@@ -17080,7 +17080,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AG7-800-3LLUL.jpg?v=1653551852"
     ],
     "inStock": true,
     "specs": [],
@@ -17098,7 +17098,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE0-800-3LLUL.jpg?v=1653551877"
     ],
     "inStock": true,
     "specs": [],
@@ -17116,7 +17116,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE1-800-3LLUL.jpg?v=1653551896"
     ],
     "inStock": true,
     "specs": [],
@@ -17134,7 +17134,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE2-800-3LLUL.jpg?v=1653551915"
     ],
     "inStock": true,
     "specs": [],
@@ -17152,7 +17152,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE5-800-3LLUL.jpg?v=1653551942"
     ],
     "inStock": true,
     "specs": [],
@@ -17170,7 +17170,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE6-800-3LLUL.jpg?v=1653551961"
     ],
     "inStock": true,
     "specs": [],
@@ -17188,7 +17188,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AE7-800-3LLUL.jpg?v=1653551981"
     ],
     "inStock": true,
     "specs": [],
@@ -17206,7 +17206,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC1-800-3LLUL.jpg?v=1653551999"
     ],
     "inStock": true,
     "specs": [],
@@ -17224,7 +17224,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC2-800-3LLUL.jpg?v=1653552017"
     ],
     "inStock": true,
     "specs": [],
@@ -17242,7 +17242,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC6-800-3LLUL.jpg?v=1653552037"
     ],
     "inStock": true,
     "specs": [],
@@ -17260,7 +17260,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AC7-800-3LLUL.jpg?v=1653552057"
     ],
     "inStock": true,
     "specs": [],
@@ -17278,7 +17278,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX1-800-3LLUL.jpg?v=1653552075"
     ],
     "inStock": true,
     "specs": [],
@@ -17296,7 +17296,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX2-800-3LLUL.jpg?v=1653552096"
     ],
     "inStock": true,
     "specs": [],
@@ -17314,7 +17314,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX6-800-3LLUL.jpg?v=1653552113"
     ],
     "inStock": true,
     "specs": [],
@@ -17332,7 +17332,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-AX7-800-3LLUL.jpg?v=1653552135"
     ],
     "inStock": true,
     "specs": [],
@@ -17350,7 +17350,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_4e35a082-d8f1-44ce-9057-aaf9a59dc0c0.jpg?v=1606920801"
     ],
     "inStock": true,
     "specs": [],
@@ -17368,7 +17368,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC2-800-3LLUL.jpg?v=1653552733"
     ],
     "inStock": true,
     "specs": [],
@@ -17386,7 +17386,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PC6-800-3LLUL.jpg?v=1653552780"
     ],
     "inStock": true,
     "specs": [],
@@ -17404,7 +17404,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800_24141b9d-7746-4c66-a794-584e4a548b74.jpg?v=1606920806"
     ],
     "inStock": true,
     "specs": [],
@@ -17422,7 +17422,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX1-800-3LLUL.jpg?v=1653552903"
     ],
     "inStock": true,
     "specs": [],
@@ -17440,7 +17440,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX2-800-3LLUL.jpg?v=1653552939"
     ],
     "inStock": true,
     "specs": [],
@@ -17458,7 +17458,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX6-800-3LLUL.jpg?v=1653552986"
     ],
     "inStock": true,
     "specs": [],
@@ -17476,7 +17476,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-PX7-800-3LLUL.jpg?v=1653553041"
     ],
     "inStock": true,
     "specs": [],
@@ -17494,7 +17494,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC1-800-3LLUL.jpg?v=1653553112"
     ],
     "inStock": true,
     "specs": [],
@@ -17512,7 +17512,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC2-800-3LLUL.jpg?v=1653553192"
     ],
     "inStock": true,
     "specs": [],
@@ -17530,7 +17530,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC6-800-3LLUL.jpg?v=1653553247"
     ],
     "inStock": true,
     "specs": [],
@@ -17548,7 +17548,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SC7-800-3LLUL.jpg?v=1653553288"
     ],
     "inStock": true,
     "specs": [],
@@ -17566,7 +17566,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX1-800-3LLUL.jpg?v=1653553331"
     ],
     "inStock": true,
     "specs": [],
@@ -17584,7 +17584,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX2-800-3LLUL.jpg?v=1653553360"
     ],
     "inStock": true,
     "specs": [],
@@ -17602,7 +17602,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX6-800-3LLUL.jpg?v=1653553384"
     ],
     "inStock": true,
     "specs": [],
@@ -17620,7 +17620,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800N-SX7-800-3LLUL.jpg?v=1653553412"
     ],
     "inStock": true,
     "specs": [],
@@ -17638,7 +17638,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG0-400-3LLUL.jpg?v=1653553436"
     ],
     "inStock": true,
     "specs": [],
@@ -17656,7 +17656,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG5-400-3LLUL.jpg?v=1653553462"
     ],
     "inStock": true,
     "specs": [],
@@ -17674,7 +17674,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG0-400-3LLUL.jpg?v=1653553484"
     ],
     "inStock": true,
     "specs": [],
@@ -17692,7 +17692,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG1-400-3LLUL.jpg?v=1653553506"
     ],
     "inStock": true,
     "specs": [],
@@ -17710,7 +17710,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG2-400-3LLUL.jpg?v=1653553523"
     ],
     "inStock": true,
     "specs": [],
@@ -17728,7 +17728,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG5-400-3LLUL.jpg?v=1653553553"
     ],
     "inStock": true,
     "specs": [],
@@ -17746,7 +17746,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG6-400-3LLUL.jpg?v=1653553585"
     ],
     "inStock": true,
     "specs": [],
@@ -17764,7 +17764,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG7-400-3LLUL.jpg?v=1653553610"
     ],
     "inStock": true,
     "specs": [],
@@ -17782,7 +17782,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE0-400-3LLUL.jpg?v=1653553641"
     ],
     "inStock": true,
     "specs": [],
@@ -17800,7 +17800,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE1-400-3LLUL.jpg?v=1653553676"
     ],
     "inStock": true,
     "specs": [],
@@ -17818,7 +17818,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE2-400-3LLUL.jpg?v=1653553692"
     ],
     "inStock": true,
     "specs": [],
@@ -17836,7 +17836,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE5-400-3LLUL.jpg?v=1653553816"
     ],
     "inStock": true,
     "specs": [],
@@ -17854,7 +17854,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE6-400-3LLUL.jpg?v=1653553880"
     ],
     "inStock": true,
     "specs": [],
@@ -17872,7 +17872,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE7-400-3LLUL.jpg?v=1653553911"
     ],
     "inStock": true,
     "specs": [],
@@ -17890,7 +17890,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC1-400-3LLUL.jpg?v=1653554027"
     ],
     "inStock": true,
     "specs": [],
@@ -17908,7 +17908,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC2-400-3LLUL.jpg?v=1653554094"
     ],
     "inStock": true,
     "specs": [],
@@ -17926,7 +17926,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC6-400-3LLUL.jpg?v=1653554117"
     ],
     "inStock": true,
     "specs": [],
@@ -17944,7 +17944,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AC7-400-3LLUL.jpg?v=1653554157"
     ],
     "inStock": true,
     "specs": [],
@@ -17962,7 +17962,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX1-400-3LLUL.jpg?v=1653554192"
     ],
     "inStock": true,
     "specs": [],
@@ -17980,7 +17980,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX2-400-3LLUL.jpg?v=1653554360"
     ],
     "inStock": true,
     "specs": [],
@@ -17998,7 +17998,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX6-400-3LLUL.jpg?v=1653554382"
     ],
     "inStock": true,
     "specs": [],
@@ -18016,7 +18016,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AX7-400-3LLUL.jpg?v=1653554403"
     ],
     "inStock": true,
     "specs": [],
@@ -18034,7 +18034,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC1-400-3LLUL.jpg?v=1653554420"
     ],
     "inStock": true,
     "specs": [],
@@ -18052,7 +18052,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC2-400-3LLUL.jpg?v=1653554564"
     ],
     "inStock": true,
     "specs": [],
@@ -18070,7 +18070,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC6-400-3LLUL.jpg?v=1653554590"
     ],
     "inStock": true,
     "specs": [],
@@ -18088,7 +18088,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PC7-400-3LLUL.jpg?v=1653554609"
     ],
     "inStock": true,
     "specs": [],
@@ -18106,7 +18106,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX1-400-3LLUL.jpg?v=1653554627"
     ],
     "inStock": true,
     "specs": [],
@@ -18124,7 +18124,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX2-400-3LLUL.jpg?v=1653554646"
     ],
     "inStock": true,
     "specs": [],
@@ -18142,7 +18142,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX6-400-3LLUL.jpg?v=1653554668"
     ],
     "inStock": true,
     "specs": [],
@@ -18160,7 +18160,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-PX7-400-3LLUL.jpg?v=1653554686"
     ],
     "inStock": true,
     "specs": [],
@@ -18178,7 +18178,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC1-400-3LLUL.jpg?v=1653555548"
     ],
     "inStock": true,
     "specs": [],
@@ -18196,7 +18196,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC2-400-3LLUL.jpg?v=1653555574"
     ],
     "inStock": true,
     "specs": [],
@@ -18214,7 +18214,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC6-400-3LLUL.jpg?v=1653555606"
     ],
     "inStock": true,
     "specs": [],
@@ -18232,7 +18232,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SC7-400-3LLUL.jpg?v=1653555626"
     ],
     "inStock": true,
     "specs": [],
@@ -18250,7 +18250,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 96,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX1-400-3LLUL.jpg?v=1653555645"
     ],
     "inStock": true,
     "specs": [],
@@ -18268,7 +18268,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX2-400-3LLUL.jpg?v=1653555664"
     ],
     "inStock": true,
     "specs": [],
@@ -18286,7 +18286,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX6-400-3LLUL.jpg?v=1653555682"
     ],
     "inStock": true,
     "specs": [],
@@ -18304,7 +18304,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-SX7-400-3LLUL.jpg?v=1653555702"
     ],
     "inStock": true,
     "specs": [],
@@ -18322,7 +18322,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG0-600-3LLUL.jpg?v=1653555724"
     ],
     "inStock": true,
     "specs": [],
@@ -18340,7 +18340,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-NG5-600-3LLUL.jpg?v=1653555745"
     ],
     "inStock": true,
     "specs": [],
@@ -18358,7 +18358,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG0-600-3LLUL.jpg?v=1653555763"
     ],
     "inStock": true,
     "specs": [],
@@ -18376,7 +18376,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG1-600-3LLUL.jpg?v=1653555786"
     ],
     "inStock": true,
     "specs": [],
@@ -18394,7 +18394,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG2-600-3LLUL.jpg?v=1653555804"
     ],
     "inStock": true,
     "specs": [],
@@ -18412,7 +18412,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG5-600-3LLUL.jpg?v=1653555824"
     ],
     "inStock": true,
     "specs": [],
@@ -18430,7 +18430,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG6-600-3LLUL.jpg?v=1653555850"
     ],
     "inStock": true,
     "specs": [],
@@ -18448,7 +18448,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AG7-600-3LLUL.jpg?v=1653555867"
     ],
     "inStock": true,
     "specs": [],
@@ -18466,7 +18466,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE0-600-3LLUL.jpg?v=1653555887"
     ],
     "inStock": true,
     "specs": [],
@@ -18484,7 +18484,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS800H-AE1-600-3LLUL.jpg?v=1653555904"
     ],
     "inStock": true,
     "specs": [],
@@ -18502,7 +18502,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250N-FTU-150-3LLUL.jpg?v=1653470745"
     ],
     "inStock": true,
     "specs": [],
@@ -18520,7 +18520,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UTS250H-FTU-175-3LLUL.jpg?v=1653472110"
     ],
     "inStock": true,
     "specs": [],
@@ -18538,7 +18538,7 @@ export const unknownCircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/3_Pole_-_LS_Mini_Circuit_Breaker_2d87a706-61ff-492a-b9fb-349ac1bc0140.jpg?v=1628399287"
     ],
     "inStock": true,
     "specs": [],

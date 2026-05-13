@@ -16,7 +16,7 @@ export const deltadrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV015IC5-1.jpg?v=1652544021"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const deltadrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV008IC5-1.jpg?v=1652544055"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const deltadrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 157,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV004IC5-1.jpg?v=1652544075"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const deltadrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 152,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV022IC5-1.jpg?v=1652544099"
     ],
     "inStock": true,
     "specs": [],

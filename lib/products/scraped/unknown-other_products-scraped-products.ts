@@ -16,7 +16,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C75K.jpg?v=1650455824"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C90K.jpg?v=1650455942"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C110K.jpg?v=1650456028"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C132K.jpg?v=1650456081"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 89,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C185K.jpg?v=1650456156"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C220K.jpg?v=1650456186"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C280K.jpg?v=1650456215"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Sound_Module.jpg?v=1614965658"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Sound_Module_d5b8930c-a253-4e5a-99bc-c6bd718feaaa.jpg?v=1614965659"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-04.jpg?v=1629046483"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-06.jpg?v=1629046503"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-07.jpg?v=1629046524"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-08.jpg?v=1629046557"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7NCEKITSC.jpg?v=1652513822"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7NDEKITSC.jpg?v=1629088278"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7NLEKITSC.jpg?v=1629090300"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7NPEKITSC.jpg?v=1629090321"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7AYEKITSC.jpg?v=1629090383"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7AXEKITSC.jpg?v=1629090415"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7AREKITSC.jpg?v=1629090437"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7TR.jpg?v=1629090455"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BLF.jpg?v=1629044925"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA.png?v=1610525709"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_544c1520-d4d6-4f20-bb52-ebb4cbd768aa.png?v=1610525711"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_b0e75777-3e39-41ef-8a58-81ed76b4ad03.png?v=1610525712"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Switches_VKA_f3dd8474-70f3-44e5-992d-cf1f6f89138d.png?v=1610525714"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8AP.jpg?v=1650457176"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8AL.jpg?v=1650457208"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8AY.jpg?v=1650457284"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MitsubishiBox_445a592f-5741-461d-a845-7aa6fce4ec91.jpg?v=1628417814"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8AC.jpg?v=1650457326"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8AN.jpg?v=1650457368"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8NC.jpg?v=1650457423"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8ND.jpg?v=1650457470"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8NP.jpg?v=1650457503"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NDPV1.jpg?v=1629040455"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NEIP-2P.jpg?v=1650457686"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NPRT-2P.jpg?v=1650457733"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8NCE.jpg?v=1650457773"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NETH-2P.jpg?v=1650457840"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-LU08.jpg?v=1650457887"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_1e34cb5e-9cc3-43c0-95da-cc67bf439813.jpg?v=1604682332"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_252e1a85-a0db-4204-946a-d10c3b837c45.jpg?v=1604682331"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_207a59ee-9219-424e-ae8e-47d3f186f763.jpg?v=1604682334"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_7f0544f7-a761-4054-968c-683e07cd5d8e.jpg?v=1604682333"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_43a1d099-bb24-4213-ab08-adf5001d64db.jpg?v=1604682335"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_436f19f1-a3ec-4309-a6b4-a926a134d300.jpg?v=1604682336"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 69,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_fd140261-7759-4e6a-8f44-03156cd781d3.jpg?v=1604682348"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_4664d5b4-2b3e-4919-b03a-c521807cd4a3.jpg?v=1604682347"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_23573950-a00d-4e0a-b8f2-963c09b9f626.jpg?v=1604682349"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_ef8b2ad3-a4fe-420d-97bd-3cfb8667b9e3.jpg?v=1604682346"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_1ae69987-8aee-4bc4-af41-1c732f4d15df.jpg?v=1604682351"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_97be6684-3ac3-4ec5-b4f7-04b39a4063f8.jpg?v=1604682350"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_74b725f7-ad42-4911-bb26-e228e36283e5.jpg?v=1604682320"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_df223220-e40d-4a2b-9d8d-484657cc5bd5.jpg?v=1604682318"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_5ebc503b-be43-4691-a6d7-e60923a3cd62.jpg?v=1604682319"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_37fecc1e-5218-41e1-8ee9-3c9efe672c69.jpg?v=1604682321"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU.png?v=1610525470"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_d0ebdcaf-4d4f-488e-bb65-aef835130a38.png?v=1610525471"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_766395fc-b817-4671-bf82-ccdf7bcf8164.png?v=1610525472"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_73a1492e-d10f-49c8-8924-0fc8549d9c71.png?v=1610525473"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 61,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_Load_Break_Switches_KU_d63c5967-94ad-471e-8fc2-2e3b7ba3ae4b.png?v=1610525475"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-2U.jpg?v=1652552979"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-2U.jpg?v=1652552997"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-2U.jpg?v=1652553018"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-2U.jpg?v=1652553044"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-4U.jpg?v=1652553074"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-4U.jpg?v=1652553105"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-4U.jpg?v=1652553124"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-4U.jpg?v=1652553153"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV750DBU-4U.jpg?v=1652553175"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CSH-080-16ASF1.jpg?v=1629045203"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-170-30ASF1.jpg?v=1629045232"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100LONWORK.jpg?v=1652611965"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8AY.jpg?v=1650457284"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8ERS-60.jpg?v=1629040210"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8AC.jpg?v=1650457326"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8A.jpg?v=1629040254"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8N.jpg?v=1629040295"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8NC.jpg?v=1650457423"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NC-CON.jpg?v=1629040380"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8ND.jpg?v=1650457470"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 102,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8NF.jpg?v=1629040428"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NDPV1.jpg?v=1629040455"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8NP.jpg?v=1650457503"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8N-XLT.jpg?v=1629040503"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NEIP-2P.jpg?v=1650457686"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NEIP-2P_88c918e1-de44-4909-8c93-cdb0dc6190ec.jpg?v=1629040582"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8NCE.jpg?v=1650457773"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NPRT-2P.jpg?v=1650457733"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/A8NETH-2P.jpg?v=1650457840"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-LU08-01.jpg?v=1629040672"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-LU08.jpg?v=1650457887"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Bases.jpg?v=1614956906"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Bases_0943eb91-e769-4f31-920c-5f3b6ec54808.jpg?v=1614956907"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-095-16A-SF1.jpg?v=1629090897"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-300-50A-SF1.jpg?v=1629090963"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-170-30A-SF1.jpg?v=1629090989"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM316UL.png?v=1610527786"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM325ULYR.png?v=1610527788"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM340UL.png?v=1610527790"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM360UL.png?v=1610527792"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM380UL.png?v=1610527794"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3100L.png?v=1610527796"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3125UL.png?v=1610527798"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3150UL.png?v=1610527800"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM316ULYR.png?v=1610527802"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM325ULYR_7159afb9-c15e-4ee1-b7ab-dd37ef6571ca.png?v=1610527804"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM340ULYR.png?v=1610527812"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM360ULYR.png?v=1610527815"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM380ULYR.png?v=1610527818"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM3100LYR.png?v=1610527820"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H75K.jpg?v=1628953874"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H90K.jpg?v=1628953896"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H110K.jpg?v=1628953922"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H132K.jpg?v=1628953963"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H160K.jpg?v=1628953990"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H185K.jpg?v=1649524340"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H220K.jpg?v=1628954207"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H250K.jpg?v=1628954491"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H280K.jpg?v=1628954524"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H315K.jpg?v=1628954544"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H355K.jpg?v=1628954768"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 53,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_517be435-8b39-42f2-899a-6721c4abdafe.jpg?v=1604682344"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_44144777-3408-4107-a8b3-ee564269be04.jpg?v=1604682343"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_9141a20e-879f-42d3-a79a-b9046ea705d1.jpg?v=1604682342"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/h7sfzmv_susol_air_circuit_breaker_-_uas_67beb6f2-55e0-4dd4-84a9-dfd03624c1e9.jpg?v=1604682345"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100CANOPEN.jpg?v=1652601809"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100PROFIBUSINTERFACE.jpg?v=1652601889"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100ETHERNET_IP.jpg?v=1652601918"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_d574ff28-fc95-4e08-9438-470574d56ec6.jpg?v=1614963924"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_e79aab51-2039-4e86-9b2b-deea9226b86e.jpg?v=1614963925"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_18b0f32b-e5f0-4696-b39c-17eb9ee2ec89.jpg?v=1614963926"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_dfc0924f-1800-4bb1-b6fa-ed7150a4f45e.jpg?v=1614963928"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_81092389-085c-4a2e-b765-0389c6a3430f.jpg?v=1614963927"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-75K.jpg?v=1628951919"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-90K.jpg?v=1628951938"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-110K.jpg?v=1628951953"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-2U.jpg?v=1652552979"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 77,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-2U.jpg?v=1652552997"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-2U.jpg?v=1652553018"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-2U.jpg?v=1652553044"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV150DBU-4U.jpg?v=1652553074"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV220DBU-4U.jpg?v=1652553105"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV370DBU-4U.jpg?v=1652553124"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV550DBU-4U.jpg?v=1652553153"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV750DBU-4U.jpg?v=1652553175"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB10.jpg?v=1629044551"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7ETHERNET_MODBUSTCPCARD.jpg?v=1652548403"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7I_OEXPANSION.jpg?v=1652548425"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7I_OEXPANSION2.jpg?v=1652548447"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7PROFIBUSINTERFACE.jpg?v=1652548494"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7DEVICENET.jpg?v=1652548515"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7LONWORKS.jpg?v=1652548533"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7CANOPEN.jpg?v=1652548568"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7SYNCHRONOUSOPTIONCARD.jpg?v=1652548687"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN01.jpg?v=1650458462"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN02.jpg?v=1650458533"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN03.jpg?v=1650458559"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 70,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN04.jpg?v=1650458626"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN05.jpg?v=1650458655"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN06.jpg?v=1650458688"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MitsubishiHeatsink_f2c4d429-51a9-42b5-8de4-2169244b3bd1.jpg?v=1628418312"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN09.jpg?v=1650511751"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8CN08.jpg?v=1650512199"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H75K.jpg?v=1628953874"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H90K.jpg?v=1628953896"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 87,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H110K.jpg?v=1628953922"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H132K.jpg?v=1628953963"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H160K.jpg?v=1628953990"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H185K.jpg?v=1649524340"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H220K.jpg?v=1628954207"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H250K.jpg?v=1628954491"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H280K.jpg?v=1628954524"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H315K.jpg?v=1628954544"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-H355K.jpg?v=1628954768"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-04.jpg?v=1629046483"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 100,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-05.jpg?v=1629094881"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 97,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-06.jpg?v=1629046503"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 65,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-07.jpg?v=1629046524"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 56,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-08.jpg?v=1629046557"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-09.jpg?v=1629094901"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A7CN02.jpg?v=1629094922"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ADEVICENETINTERFACE.jpg?v=1652617009"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AMODBUSRTUINTERFACE.jpg?v=1652617038"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5APROFIBUSINTERFACE.jpg?v=1652617073"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ALONWORKINTERFACE.jpg?v=1652617101"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ABAC-NETINTERFACE.jpg?v=1652617124"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AMODBUS-TCPINTERFACE.jpg?v=1652617147"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 67,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_0bdea44f-253c-4b56-96ce-d161f14ba8fa.jpg?v=1614963934"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_452af6b9-d78c-4f7b-9124-8e0d9418e03c.jpg?v=1614963935"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 59,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_c5aed69c-adbb-41a0-8d3f-39b94bed87ab.jpg?v=1614963936"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_e74378df-3b61-4bee-a9b6-95ef7ddd964c.jpg?v=1614963937"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7f42a06a-5017-463b-8340-3a901174188a.jpg?v=1614963939"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C75K.jpg?v=1650455824"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C90K.jpg?v=1650455942"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C110K.jpg?v=1650456028"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C132K.jpg?v=1650456081"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C185K.jpg?v=1650456156"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 60,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C220K.jpg?v=1650456186"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 95,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-C280K.jpg?v=1650456215"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BLF.jpg?v=1629044925"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-CONFIGURATOR.jpg?v=1629044397"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB10.jpg?v=1629044551"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_7a50d363-bdf7-456f-ae78-146580bd8c33.jpg?v=1614963929"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_85d0c370-b563-46ad-ade3-a7fe1daa50d8.jpg?v=1614963930"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_2749fe9c-2387-4550-aff3-54c5a284956a.jpg?v=1614963930"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_8ff70cc6-6f42-4fd9-b8be-87e3028356ac.jpg?v=1614963931"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/tower_lights_5ce2c264-643d-4aad-9abe-1358cf5d7708.jpg?v=1614963932"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-75K.jpg?v=1628951919"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-90K.jpg?v=1628951938"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-HEL-110K.jpg?v=1628951953"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM360ULYR.png?v=1610527815"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const unknownOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 55,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KEM325ULYR.png?v=1610527788"
     ],
     "inStock": true,
     "specs": [],

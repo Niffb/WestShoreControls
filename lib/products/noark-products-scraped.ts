@@ -361,7 +361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_fb7b0c49-82ef-4bee-aba4-5a906acef378.jpg?v=1757165951"
     ],
     "inStock": true,
     "specs": [],
@@ -401,7 +401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_49d7ccc9-80ba-4886-a188-d808cffa5431.jpg?v=1757165935"
     ],
     "inStock": true,
     "specs": [],
@@ -421,7 +421,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_704452d4-4421-452d-a26a-ee8ea571a600.jpg?v=1757165942"
     ],
     "inStock": true,
     "specs": [],
@@ -441,7 +441,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 71,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_a3e2dd2d-96d0-4418-bfb3-d1756cc489cb.jpg?v=1757165946"
     ],
     "inStock": true,
     "specs": [],
@@ -461,7 +461,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 65,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_a5380ed7-36bd-47e5-aeae-ef1f190038fa.jpg?v=1757165939"
     ],
     "inStock": true,
     "specs": [],
@@ -481,7 +481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 9,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_0dc22c05-09e6-4d97-9303-d68aee8e3edb.jpg?v=1757165950"
     ],
     "inStock": true,
     "specs": [],
@@ -561,7 +561,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 99,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker.jpg?v=1757165936"
     ],
     "inStock": true,
     "specs": [],
@@ -581,7 +581,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 81,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_98066d5a-fce9-45fa-80d3-d2c5f1d19b36.jpg?v=1757165938"
     ],
     "inStock": true,
     "specs": [],
@@ -601,7 +601,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_d5f805fb-dca6-4834-9856-d1be4158ba03.jpg?v=1757165943"
     ],
     "inStock": true,
     "specs": [],
@@ -621,7 +621,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_31c9d6a8-7082-433f-8378-a578e7d036ed.jpg?v=1757165940"
     ],
     "inStock": true,
     "specs": [],
@@ -661,7 +661,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_f8f4003c-20ed-414f-912e-2cceb6f21549.jpg?v=1757165947"
     ],
     "inStock": true,
     "specs": [],
@@ -761,7 +761,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 6,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_502520a4-511a-420f-a282-a0556d2429be.jpg?v=1757165948"
     ],
     "inStock": true,
     "specs": [],
@@ -801,7 +801,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Circuit-Protection-Text-2-Image.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_e8fb4a73-ca13-4836-9938-45bc13a1d0d4.jpg?v=1757165945"
     ],
     "inStock": true,
     "specs": [],
@@ -4321,7 +4321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_fbc9c2f0-b531-4fe7-b55d-f5d30b4020ee.png?v=1757229296"
     ],
     "inStock": true,
     "specs": [],
@@ -4341,7 +4341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 74,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_46207535-4120-4f71-bf82-28121a1068ca.png?v=1757229312"
     ],
     "inStock": true,
     "specs": [],
@@ -4381,7 +4381,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 64,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_c3168c49-3830-47de-b35b-384159bdff30.png?v=1757229328"
     ],
     "inStock": true,
     "specs": [],
@@ -4441,7 +4441,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_905e3f1f-ad66-4f84-95c3-5a1839faf058.png?v=1757229293"
     ],
     "inStock": true,
     "specs": [],
@@ -4461,7 +4461,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 54,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b4a12694-a45a-4ecd-818e-5f3ddd2c90b9.png?v=1757229310"
     ],
     "inStock": true,
     "specs": [],
@@ -4481,7 +4481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b1b5bfb2-8844-4a31-ae36-34870ae186f4.png?v=1757229326"
     ],
     "inStock": true,
     "specs": [],
@@ -4941,7 +4941,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 98,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_5a128c03-add2-4640-ac33-efb06175a798.png?v=1757229323"
     ],
     "inStock": true,
     "specs": [],
@@ -19901,7 +19901,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0cfe17fd-890a-4620-8f78-4d34b842dcd3.png?v=1757229171"
     ],
     "inStock": true,
     "specs": [],
@@ -19921,7 +19921,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d8f60d46-5088-4d6b-a52c-1a033dba2a6d.png?v=1757229179"
     ],
     "inStock": true,
     "specs": [],
@@ -19941,7 +19941,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f970b1d6-4ecd-4e5f-b350-757bf93c0450.png?v=1757229190"
     ],
     "inStock": true,
     "specs": [],
@@ -19961,7 +19961,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ee987719-2c51-450b-8952-923b0f1d29be.png?v=1757229200"
     ],
     "inStock": true,
     "specs": [],
@@ -19981,7 +19981,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 17,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_97beb496-b779-441d-a3f3-fa562395b704.png?v=1757229211"
     ],
     "inStock": true,
     "specs": [],
@@ -20001,7 +20001,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ec128169-4db4-4579-8a22-b41e5828d041.png?v=1757229223"
     ],
     "inStock": true,
     "specs": [],
@@ -20021,7 +20021,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_26b6aa80-3d14-44a7-88f6-5ca9f8bc9f10.png?v=1757229237"
     ],
     "inStock": true,
     "specs": [],
@@ -20041,7 +20041,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f6fed471-da83-4829-94c5-bc9ca8a88334.png?v=1757229247"
     ],
     "inStock": true,
     "specs": [],
@@ -20061,7 +20061,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 68,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_45f946e1-9a48-46d5-b6c3-0f18afc7b755.png?v=1757229258"
     ],
     "inStock": true,
     "specs": [],
@@ -20081,7 +20081,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f2573c07-2a9c-4425-a879-a97991975dd0.png?v=1757229269"
     ],
     "inStock": true,
     "specs": [],
@@ -20101,7 +20101,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 10,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_7fa4ad91-ea24-49bd-83de-2805e266b92a.png?v=1757229279"
     ],
     "inStock": true,
     "specs": [],
@@ -20141,7 +20141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3bba3fd4-c944-4975-88d9-072256f71ab2.png?v=1757229167"
     ],
     "inStock": true,
     "specs": [],
@@ -20161,7 +20161,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 100,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_35dc3e03-9aea-4bbe-aa17-d2c234612eab.png?v=1757229285"
     ],
     "inStock": true,
     "specs": [],
@@ -20181,7 +20181,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e6ae6438-4451-499a-97a6-b1ac98accbea.png?v=1757229175"
     ],
     "inStock": true,
     "specs": [],
@@ -20201,7 +20201,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3beee28b-f2bb-4945-be45-aca22817e78e.png?v=1757229184"
     ],
     "inStock": true,
     "specs": [],
@@ -20221,7 +20221,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 29,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0f1b4018-e74f-4547-bb84-e1a7a1a0702d.png?v=1757229195"
     ],
     "inStock": true,
     "specs": [],
@@ -20241,7 +20241,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_32610655-5df5-4f35-bd78-26e542fdb110.png?v=1757229205"
     ],
     "inStock": true,
     "specs": [],
@@ -20261,7 +20261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 78,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_65abab41-d229-4844-8434-8c14d08cf1da.png?v=1757229216"
     ],
     "inStock": true,
     "specs": [],
@@ -20281,7 +20281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_76b05dfc-02ad-46f5-97e1-fe9d23c6e066.png?v=1757229243"
     ],
     "inStock": true,
     "specs": [],
@@ -20301,7 +20301,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 87,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d5c5b144-7cc4-4658-b8e1-4ed5a3773ce9.png?v=1757229230"
     ],
     "inStock": true,
     "specs": [],
@@ -20321,7 +20321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 100,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_62ddf212-050e-456f-b4fe-8d68191af82c.png?v=1757229252"
     ],
     "inStock": true,
     "specs": [],
@@ -20341,7 +20341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0e350859-945b-48cf-b5f9-a528d28a1275.png?v=1757229263"
     ],
     "inStock": true,
     "specs": [],
@@ -20361,7 +20361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 60,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_60248f5f-8bf5-42c6-8acb-6fd09aef2082.png?v=1757229274"
     ],
     "inStock": true,
     "specs": [],
@@ -20401,7 +20401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ccc3d042-dc64-4b9d-9a88-e50c08887096.png?v=1757229284"
     ],
     "inStock": true,
     "specs": [],
@@ -21181,7 +21181,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 59,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e46c5935-f3db-4a77-9d94-eb24938a4bbd.png?v=1757229173"
     ],
     "inStock": true,
     "specs": [],
@@ -21201,7 +21201,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 58,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_385422e6-6386-4d7a-924a-f690b372ada1.png?v=1757229165"
     ],
     "inStock": true,
     "specs": [],
@@ -21221,7 +21221,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 37,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_36f109da-a3eb-4de9-be1b-ac1a502ce842.png?v=1757229182"
     ],
     "inStock": true,
     "specs": [],
@@ -21241,7 +21241,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 62,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ece04752-818e-46bf-b05d-5944b5199d97.png?v=1757229192"
     ],
     "inStock": true,
     "specs": [],
@@ -21261,7 +21261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 87,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_97737cd1-9e94-4a5a-b486-7d41723cb8c9.png?v=1757229202"
     ],
     "inStock": true,
     "specs": [],
@@ -21281,7 +21281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_65422907-ede3-4bf7-92b3-c464ecc18266.png?v=1757229213"
     ],
     "inStock": true,
     "specs": [],
@@ -21301,7 +21301,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 98,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_cd57cc87-98b8-4115-8647-93bab4f138e1.png?v=1757229226"
     ],
     "inStock": true,
     "specs": [],
@@ -21321,7 +21321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 37,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_46b0253c-6bf4-4ea7-b21c-5884cbacf32e.png?v=1757229239"
     ],
     "inStock": true,
     "specs": [],
@@ -21341,7 +21341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_7b767ab8-b528-4055-8488-9dd37f3fe011.png?v=1757229249"
     ],
     "inStock": true,
     "specs": [],
@@ -21361,7 +21361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 5,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_9b009642-d86e-4224-b497-60b364516f81.png?v=1757229260"
     ],
     "inStock": true,
     "specs": [],
@@ -21381,7 +21381,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 30,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_a79a3cd6-4877-4037-b50c-2c604bd49832.png?v=1757229271"
     ],
     "inStock": true,
     "specs": [],
@@ -21421,7 +21421,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 68,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/Stock-Images-e1694255111739.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_22f60a38-20ec-4eab-9029-f47b6edf58c6.png?v=1757229281"
     ],
     "inStock": true,
     "specs": [],
@@ -21721,7 +21721,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator.jpg?v=1629705028"
     ],
     "inStock": true,
     "specs": [],
@@ -21741,7 +21741,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 102,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_ec644c83-56b9-48de-b59e-e04c5f7d42d9.png?v=1629705086"
     ],
     "inStock": true,
     "specs": [],
@@ -21761,7 +21761,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 84,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_b812f743-1630-4ef0-a426-0cc10b931c84.png?v=1616996885"
     ],
     "inStock": true,
     "specs": [],
@@ -21781,7 +21781,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 69,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED.jpg?v=1629705114"
     ],
     "inStock": true,
     "specs": [],
@@ -21801,7 +21801,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_865da810-89ed-4b84-987d-345a39c1761f.png?v=1629705436"
     ],
     "inStock": true,
     "specs": [],
@@ -21821,7 +21821,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_ef09eb73-a52f-457c-aa19-a8f01c014d42.png?v=1629705229"
     ],
     "inStock": true,
     "specs": [],
@@ -21841,7 +21841,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 93,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_b8a1ffc4-d5e0-4b06-b687-4423cf126b22.jpg?v=1629705295"
     ],
     "inStock": true,
     "specs": [],
@@ -21861,7 +21861,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 87,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_d88f15f6-7b62-4f0b-96c6-1eeba20f8beb.jpg?v=1629705347"
     ],
     "inStock": true,
     "specs": [],
@@ -21881,7 +21881,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 42,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_07bbb34a-aa32-45da-a0b3-eba529b54c21.png?v=1629705385"
     ],
     "inStock": true,
     "specs": [],
@@ -21901,7 +21901,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 35,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator.png?v=1629705414"
     ],
     "inStock": true,
     "specs": [],
@@ -21921,7 +21921,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 54,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_f336dd11-bff8-4dc9-9508-9a2297742db4.jpg?v=1629705525"
     ],
     "inStock": true,
     "specs": [],
@@ -21941,7 +21941,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_d38169e9-2f38-4e45-a7b1-ee76afb091ad.png?v=1629705583"
     ],
     "inStock": true,
     "specs": [],
@@ -21961,7 +21961,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 104,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_576b7650-2acc-459a-b667-ffa26f759ca3.jpg?v=1629705602"
     ],
     "inStock": true,
     "specs": [],
@@ -21981,7 +21981,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_afd7e78d-e6d2-4a30-936a-ad18ee14e53c.png?v=1616997389"
     ],
     "inStock": true,
     "specs": [],
@@ -22001,7 +22001,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_e119866d-17b6-4b63-bd79-2461d172c699.png?v=1629705640"
     ],
     "inStock": true,
     "specs": [],
@@ -22021,7 +22021,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_ce00550a-ff4f-4351-ae39-8bac93ff92a5.png?v=1629705678"
     ],
     "inStock": true,
     "specs": [],
@@ -22041,7 +22041,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_65921ebb-4ecf-4dc4-9cc0-da159638d156.png?v=1616997529"
     ],
     "inStock": true,
     "specs": [],
@@ -22061,7 +22061,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 25,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_dda20f09-0df5-4f3e-9490-5b69d0c75c06.jpg?v=1629705723"
     ],
     "inStock": true,
     "specs": [],
@@ -22081,7 +22081,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 92,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_b224c296-e71b-49aa-9dcb-3ca0a5492f61.jpg?v=1629705741"
     ],
     "inStock": true,
     "specs": [],
@@ -22101,7 +22101,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_37d5e62a-22f5-4ab3-b7e8-33388da94dd1.png?v=1629705762"
     ],
     "inStock": true,
     "specs": [],
@@ -22121,7 +22121,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 100,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1024x1024_93c062ed-c57f-4fb6-8880-8d79b51544e3.png?v=1629705782"
     ],
     "inStock": true,
     "specs": [],
@@ -22141,7 +22141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 88,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_620c21fa-ed11-4e93-89be-46578242673a.jpg?v=1629705798"
     ],
     "inStock": true,
     "specs": [],
@@ -22161,7 +22161,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1ba75826-3061-4d4a-8469-a956683348c5.png?v=1616997834"
     ],
     "inStock": true,
     "specs": [],
@@ -22181,7 +22181,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_a3394224-da78-4725-ae98-9459fedb2717.jpg?v=1629705818"
     ],
     "inStock": true,
     "specs": [],
@@ -22201,7 +22201,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_d2c5e5cf-e851-4397-a786-ab85d5b09913.png?v=1629705843"
     ],
     "inStock": true,
     "specs": [],
@@ -22221,7 +22221,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 99,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_44819c8e-3d6b-46d2-b1b0-68fc2464e94b.jpg?v=1629705863"
     ],
     "inStock": true,
     "specs": [],
@@ -22241,7 +22241,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_1445efb5-dff2-4758-844c-dfa699d525f9.png?v=1616998890"
     ],
     "inStock": true,
     "specs": [],
@@ -22261,7 +22261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 10,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_37302d21-bb9c-461b-8e3a-aa0f9a8a98b3.jpg?v=1629705901"
     ],
     "inStock": true,
     "specs": [],
@@ -22281,7 +22281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 65,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_d77bb25d-6d74-4ac4-a581-71081db5aaaf.png?v=1629705922"
     ],
     "inStock": true,
     "specs": [],
@@ -22301,7 +22301,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 26,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_2a1959a0-16bf-42d5-bc84-9d45529f120c.png?v=1629705943"
     ],
     "inStock": true,
     "specs": [],
@@ -22321,7 +22321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_b1d2061b-bfa2-4575-a459-9023f4664ea1.jpg?v=1629705960"
     ],
     "inStock": true,
     "specs": [],
@@ -22341,7 +22341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 72,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_8150399d-e794-4d54-80c1-94348ee777b8.png?v=1616999248"
     ],
     "inStock": true,
     "specs": [],
@@ -22361,7 +22361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_cf1ffa96-2982-4e9a-8559-60c2c479e2ca.png?v=1629706018"
     ],
     "inStock": true,
     "specs": [],
@@ -22381,7 +22381,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 8,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_f24c0eca-dd9c-4372-a3f0-88f20dcc11f3.jpg?v=1629706035"
     ],
     "inStock": true,
     "specs": [],
@@ -22401,7 +22401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_e4302074-06d4-4f52-b13d-06d60f053466.png?v=1629706064"
     ],
     "inStock": true,
     "specs": [],
@@ -22421,7 +22421,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkCurvedGreenLEDIndicator_3000b99a-5d5e-4fe7-832e-b9fa36dfc30e.jpg?v=1629706085"
     ],
     "inStock": true,
     "specs": [],
@@ -22441,7 +22441,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 6,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2N3_7bee3f50-eee2-4775-8b1f-a0f19f346bac.png?v=1616999508"
     ],
     "inStock": true,
     "specs": [],
@@ -22461,7 +22461,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/RedNoarkCurvedTopLED_c7ada9c0-282c-486b-99ce-1a2d7d570726.jpg?v=1629706108"
     ],
     "inStock": true,
     "specs": [],
@@ -22481,7 +22481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 5,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/noarkbluecurvedtopLEDindicator_6dc70f5c-4894-4b31-aec2-c6f55f2172a1.png?v=1629706131"
     ],
     "inStock": true,
     "specs": [],
@@ -22501,7 +22501,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 32,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL2A3_1024x1024_aa2244b8-55b5-4176-a314-a1c3d1b01ea4.png?v=1629706164"
     ],
     "inStock": true,
     "specs": [],
@@ -22521,7 +22521,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4.png?v=1616993206"
     ],
     "inStock": true,
     "specs": [],
@@ -22541,7 +22541,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_83d619c1-f7d3-4e42-a467-8e690d69c66b.png?v=1629706745"
     ],
     "inStock": true,
     "specs": [],
@@ -22561,7 +22561,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 17,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite.jpg?v=1629706813"
     ],
     "inStock": true,
     "specs": [],
@@ -22581,7 +22581,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators.jpg?v=1629706838"
     ],
     "inStock": true,
     "specs": [],
@@ -22601,7 +22601,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED.jpg?v=1629706884"
     ],
     "inStock": true,
     "specs": [],
@@ -22621,7 +22621,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 101,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_785c8b07-249f-4104-b29e-d9d8a1cb621b.png?v=1629706922"
     ],
     "inStock": true,
     "specs": [],
@@ -22641,7 +22641,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_ed6aa090-7207-477d-a5fe-15fdb92d90a5.jpg?v=1629706954"
     ],
     "inStock": true,
     "specs": [],
@@ -22661,7 +22661,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 60,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_f4f30de6-3e5e-4dbf-87c9-51c50471ebc1.png?v=1629706989"
     ],
     "inStock": true,
     "specs": [],
@@ -22681,7 +22681,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 31,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_49c380d9-4651-4254-b221-947db877937c.jpg?v=1629707106"
     ],
     "inStock": true,
     "specs": [],
@@ -22701,7 +22701,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 9,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_162b00b1-90d2-4844-9059-45f340d1658a.jpg?v=1629707248"
     ],
     "inStock": true,
     "specs": [],
@@ -22721,7 +22721,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_b5948edc-6d42-4be2-98d8-6d6416c3ba78.jpg?v=1629707286"
     ],
     "inStock": true,
     "specs": [],
@@ -22741,7 +22741,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 38,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_d96eea8a-3ae1-4d7c-9c41-f5621e68c278.png?v=1629707313"
     ],
     "inStock": true,
     "specs": [],
@@ -22761,7 +22761,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_4d834654-93ce-4b18-8c5f-3cfe4ab9adfe.png?v=1616994320"
     ],
     "inStock": true,
     "specs": [],
@@ -22781,7 +22781,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 101,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_cfff5ce8-be4e-447b-b75f-d63afa40bd38.jpg?v=1629707348"
     ],
     "inStock": true,
     "specs": [],
@@ -22801,7 +22801,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 22,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_37e05f6a-46c5-4b09-a52c-c25606f8b546.jpg?v=1629707397"
     ],
     "inStock": true,
     "specs": [],
@@ -22821,7 +22821,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 28,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_d26ccf8a-849f-4cb2-85aa-6672c3450579.jpg?v=1629707418"
     ],
     "inStock": true,
     "specs": [],
@@ -22841,7 +22841,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_c4fbf9da-83c5-452e-9daa-3bf2238cb66c.png?v=1616994570"
     ],
     "inStock": true,
     "specs": [],
@@ -22861,7 +22861,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_28a8a7f3-3b76-4b2f-a6ff-74dd386b4302.png?v=1629707447"
     ],
     "inStock": true,
     "specs": [],
@@ -22881,7 +22881,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 53,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_c04dc740-84e6-4f45-88ed-78860356e4de.jpg?v=1629707477"
     ],
     "inStock": true,
     "specs": [],
@@ -22901,7 +22901,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_1079e06a-5ee9-4938-9592-970cf85a4037.jpg?v=1629707495"
     ],
     "inStock": true,
     "specs": [],
@@ -22921,7 +22921,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_d04aef52-0ff1-4499-ad6a-c061a080433f.jpg?v=1629707564"
     ],
     "inStock": true,
     "specs": [],
@@ -22941,7 +22941,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_ad9a04d8-62f6-42e3-9377-48ccbdcc4fd1.png?v=1616994773"
     ],
     "inStock": true,
     "specs": [],
@@ -22961,7 +22961,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 69,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_2c88cae7-1b81-4244-84c1-eb0d443463c5.jpg?v=1629707594"
     ],
     "inStock": true,
     "specs": [],
@@ -22981,7 +22981,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 99,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_5155702d-398b-4914-85e4-d41a9b3b39f7.png?v=1629707622"
     ],
     "inStock": true,
     "specs": [],
@@ -23001,7 +23001,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 8,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_aa2c8759-0b7c-495d-8193-9aaf55d1ac64.jpg?v=1629707642"
     ],
     "inStock": true,
     "specs": [],
@@ -23021,7 +23021,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 100,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_7fc7f337-32bf-457a-966c-64004bbaba2d.jpg?v=1629707673"
     ],
     "inStock": true,
     "specs": [],
@@ -23041,7 +23041,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_7e9c2eeb-19e4-44e6-9651-a5e6c13f0867.png?v=1629707702"
     ],
     "inStock": true,
     "specs": [],
@@ -23061,7 +23061,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_18ecef7c-850a-4cf0-8d30-e146d3dd64d8.png?v=1629707843"
     ],
     "inStock": true,
     "specs": [],
@@ -23081,7 +23081,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_5ffd6a23-6698-4646-87ba-07ac78c2f975.jpg?v=1629707890"
     ],
     "inStock": true,
     "specs": [],
@@ -23101,7 +23101,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 104,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_cc6322ac-ef93-4930-9d0a-c4d1b7974fad.jpg?v=1629707966"
     ],
     "inStock": true,
     "specs": [],
@@ -23121,7 +23121,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 68,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_af6ec6a0-92e5-43d8-9773-868665893593.jpg?v=1629708012"
     ],
     "inStock": true,
     "specs": [],
@@ -23141,7 +23141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_267e58e5-4ef1-4fb1-a72c-8df914d0159d.png?v=1629708053"
     ],
     "inStock": true,
     "specs": [],
@@ -23161,7 +23161,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_973f9a6e-06f5-4450-81ae-5e18ce4ff7d1.png?v=1629708070"
     ],
     "inStock": true,
     "specs": [],
@@ -23181,7 +23181,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_76bd8ecc-57b8-4d5a-980c-ed16dc79ef04.jpg?v=1629708307"
     ],
     "inStock": true,
     "specs": [],
@@ -23201,7 +23201,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_d7c2ee58-805e-4ec1-8536-375107db6967.jpg?v=1629708351"
     ],
     "inStock": true,
     "specs": [],
@@ -23221,7 +23221,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1N1_1024x1024_ecb0cb1e-d03e-4b45-896b-40c7c610ca93.png?v=1629708418"
     ],
     "inStock": true,
     "specs": [],
@@ -23241,7 +23241,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 86,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopLEDWhite_a6323cf3-7767-455d-9184-3b51f2ef610b.jpg?v=1629708434"
     ],
     "inStock": true,
     "specs": [],
@@ -23261,7 +23261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 61,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkYellowFlatTopLEDIndicators_b15531b6-440e-45bd-97a8-0b6bc1119206.jpg?v=1629708469"
     ],
     "inStock": true,
     "specs": [],
@@ -23281,7 +23281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9IL1A4_1024x1024_edd03dd1-64fb-4ca1-aac9-ef13d4c3fee7.png?v=1629708489"
     ],
     "inStock": true,
     "specs": [],
@@ -23301,7 +23301,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkFlatTopBlueLED_1e62bc54-afa9-41e1-936b-34151373984f.jpg?v=1629708534"
     ],
     "inStock": true,
     "specs": [],
@@ -23321,7 +23321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNA.jpg?v=1628003258"
     ],
     "inStock": true,
     "specs": [],
@@ -23341,7 +23341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 53,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNA_d7c21f6d-5702-46be-9b99-efe0d2df2d98.jpg?v=1628003294"
     ],
     "inStock": true,
     "specs": [],
@@ -23361,7 +23361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 72,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNB.jpg?v=1628003548"
     ],
     "inStock": true,
     "specs": [],
@@ -23381,7 +23381,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNB_f15df165-4957-4b0e-bbf1-02141df5bb71.jpg?v=1628003611"
     ],
     "inStock": true,
     "specs": [],
@@ -23401,7 +23401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 11,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA.jpg?v=1628006488"
     ],
     "inStock": true,
     "specs": [],
@@ -23421,7 +23421,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA_36326667-ba95-447f-84e7-484a63dc054b.jpg?v=1628006588"
     ],
     "inStock": true,
     "specs": [],
@@ -23441,7 +23441,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 86,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA_6ed12587-5049-40dc-89ba-28628dfaa383.jpg?v=1628006615"
     ],
     "inStock": true,
     "specs": [],
@@ -23461,7 +23461,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 34,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/DRA51.jpg?v=1627981010"
     ],
     "inStock": true,
     "specs": [],
@@ -23481,7 +23481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51.jpg?v=1627922990"
     ],
     "inStock": true,
     "specs": [],
@@ -23501,7 +23501,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_a4a27703-4786-4e69-862e-a8f1af418f30.jpg?v=1627923147"
     ],
     "inStock": true,
     "specs": [],
@@ -23521,7 +23521,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 80,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_cfe3793c-3bbe-40d1-9e21-fc6abab96d18.jpg?v=1627923166"
     ],
     "inStock": true,
     "specs": [],
@@ -23541,7 +23541,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_effd11a7-3978-4ab1-aa00-0ee847cdd1e9.jpg?v=1627923195"
     ],
     "inStock": true,
     "specs": [],
@@ -23561,7 +23561,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_c54722dc-9d25-40d4-9936-1cb8c6c29752.jpg?v=1627923211"
     ],
     "inStock": true,
     "specs": [],
@@ -23581,7 +23581,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_00c29673-671a-4db2-9576-621112dbd999.jpg?v=1627923240"
     ],
     "inStock": true,
     "specs": [],
@@ -23601,7 +23601,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_09bf6892-3718-4c3a-a4df-5d6286cdc983.jpg?v=1627923282"
     ],
     "inStock": true,
     "specs": [],
@@ -23621,7 +23621,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_7a972c96-ca40-43f9-8de4-46188e4bc347.jpg?v=1627923298"
     ],
     "inStock": true,
     "specs": [],
@@ -23641,7 +23641,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNTA.jpg?v=1628006192"
     ],
     "inStock": true,
     "specs": [],
@@ -23661,7 +23661,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 13,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNTA_00a18a56-c42b-4ddd-83b1-b17584b57000.jpg?v=1628006231"
     ],
     "inStock": true,
     "specs": [],
@@ -23681,7 +23681,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51.jpg?v=1627923605"
     ],
     "inStock": true,
     "specs": [],
@@ -23701,7 +23701,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 9,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_df874d34-4534-4c13-98db-7f9cb7802fb4.jpg?v=1627923636"
     ],
     "inStock": true,
     "specs": [],
@@ -23721,7 +23721,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_9b831baa-89c6-4d82-a38a-eebaee8f04df.jpg?v=1627923661"
     ],
     "inStock": true,
     "specs": [],
@@ -23741,7 +23741,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 10,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_eee129cc-2a42-4f4b-abc1-4ea7bb3a8f8c.jpg?v=1627923676"
     ],
     "inStock": true,
     "specs": [],
@@ -23761,7 +23761,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_84e5b14a-6e00-4126-969a-30ec0155a02a.jpg?v=1627923694"
     ],
     "inStock": true,
     "specs": [],
@@ -23781,7 +23781,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ERH51B.jpg?v=1627981156"
     ],
     "inStock": true,
     "specs": [],
@@ -23801,7 +23801,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ERH51B_3ceee85b-f9f2-47ee-a39d-518568119757.jpg?v=1627981212"
     ],
     "inStock": true,
     "specs": [],
@@ -23821,7 +23821,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111.jpg?v=1627919785"
     ],
     "inStock": true,
     "specs": [],
@@ -23841,7 +23841,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211.jpg?v=1627919942"
     ],
     "inStock": true,
     "specs": [],
@@ -23861,7 +23861,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111_6dc05612-938e-4c28-a10b-c4ed6946d18b.jpg?v=1627919998"
     ],
     "inStock": true,
     "specs": [],
@@ -23881,7 +23881,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 75,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_edbc6e5c-2acf-4259-9b86-685fb678f07f.jpg?v=1627920034"
     ],
     "inStock": true,
     "specs": [],
@@ -23901,7 +23901,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_65b194d5-dc8d-44bf-83b3-5bc9c601be09.jpg?v=1627920081"
     ],
     "inStock": true,
     "specs": [],
@@ -23921,7 +23921,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob.png?v=1607499014"
     ],
     "inStock": true,
     "specs": [],
@@ -23941,7 +23941,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 54,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_f44a0b82-f0c0-445a-a2e1-2de92eeac808.png?v=1607499015"
     ],
     "inStock": true,
     "specs": [],
@@ -23961,7 +23961,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 56,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_cc8ca219-264e-47b5-bd2d-ed775f50798c.png?v=1607499016"
     ],
     "inStock": true,
     "specs": [],
@@ -23981,7 +23981,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_b240dcd3-d186-4bcd-b656-fba4b9d7e969.png?v=1607499018"
     ],
     "inStock": true,
     "specs": [],
@@ -24001,7 +24001,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 22,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_0d917712-21a0-4dfe-b29b-004e6ddc8c60.png?v=1607499019"
     ],
     "inStock": true,
     "specs": [],
@@ -24021,7 +24021,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ef241d3c-1484-407c-beb2-3b6e9716fcec.png?v=1607499020"
     ],
     "inStock": true,
     "specs": [],
@@ -24041,7 +24041,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 54,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_bb0f4ed0-e2d4-4994-9718-587ba15a4ba7.png?v=1607499021"
     ],
     "inStock": true,
     "specs": [],
@@ -24061,7 +24061,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_2f384320-4c63-41e1-a257-c972a291f93f.png?v=1607499022"
     ],
     "inStock": true,
     "specs": [],
@@ -24081,7 +24081,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 28,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_2004e749-3499-4069-b0df-694a25113d60.png?v=1607499024"
     ],
     "inStock": true,
     "specs": [],
@@ -24101,7 +24101,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_35449c20-dc38-486b-8d9d-7f2f3ff78e06.png?v=1607499025"
     ],
     "inStock": true,
     "specs": [],
@@ -24121,7 +24121,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 72,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_fa440049-3641-4797-96bc-4600992042fb.png?v=1607499026"
     ],
     "inStock": true,
     "specs": [],
@@ -24141,7 +24141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 62,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ea8ba582-b0ad-4a55-9b7b-0e22db79effc.png?v=1607499027"
     ],
     "inStock": true,
     "specs": [],
@@ -24161,7 +24161,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_5d6d8c30-8289-418a-8105-979d76a21cae.png?v=1607499028"
     ],
     "inStock": true,
     "specs": [],
@@ -24181,7 +24181,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_ff68a5e9-92ba-45f6-be0a-e9206db64ea9.png?v=1607499030"
     ],
     "inStock": true,
     "specs": [],
@@ -24201,7 +24201,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 49,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_d76986ff-3e57-4fad-9cc8-48806ad939b3.png?v=1607499031"
     ],
     "inStock": true,
     "specs": [],
@@ -24221,7 +24221,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Knob_151575ff-83f3-4b34-8191-869aef5e1e70.png?v=1607499032"
     ],
     "inStock": true,
     "specs": [],
@@ -24241,7 +24241,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle.png?v=1607498086"
     ],
     "inStock": true,
     "specs": [],
@@ -24261,7 +24261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 72,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_dfd9fc6a-8129-4813-8a0c-e76ab8f6fcc5.png?v=1607498087"
     ],
     "inStock": true,
     "specs": [],
@@ -24281,7 +24281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 43,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_43f425ee-aa6c-4df7-ab61-dba02bd5cd3b.png?v=1607498088"
     ],
     "inStock": true,
     "specs": [],
@@ -24301,7 +24301,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_3f2e0820-05a2-4fdf-8f8f-c92d2dea79d1.png?v=1607498089"
     ],
     "inStock": true,
     "specs": [],
@@ -24321,7 +24321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_34119863-7fc1-4821-84d3-3756bcd3fc99.png?v=1607498090"
     ],
     "inStock": true,
     "specs": [],
@@ -24341,7 +24341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 57,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_9d64af13-6bfc-4347-8e32-30824f6d41b4.png?v=1607498092"
     ],
     "inStock": true,
     "specs": [],
@@ -24361,7 +24361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_a9eb21f5-358a-4991-b6ca-cd09d77cdbb0.png?v=1607498093"
     ],
     "inStock": true,
     "specs": [],
@@ -24381,7 +24381,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_f53bfbb7-70fd-4e52-80fc-4b7f39e9ef07.png?v=1607498094"
     ],
     "inStock": true,
     "specs": [],
@@ -24401,7 +24401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_afc55b72-b3d4-4908-8154-76b2ace005f1.png?v=1607498095"
     ],
     "inStock": true,
     "specs": [],
@@ -24421,7 +24421,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 10,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_63eea501-b6d6-4e29-a249-deded0cd4e87.png?v=1607498096"
     ],
     "inStock": true,
     "specs": [],
@@ -24441,7 +24441,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 93,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_efcf9e51-fc8f-49f2-b72b-76d738d0433a.png?v=1607498098"
     ],
     "inStock": true,
     "specs": [],
@@ -24461,7 +24461,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 5,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_24131fa5-2f38-4423-b0b3-be8428491a5f.png?v=1607498099"
     ],
     "inStock": true,
     "specs": [],
@@ -24481,7 +24481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_00d02d57-1619-40a6-94fb-b0b92b33d78d.png?v=1607498100"
     ],
     "inStock": true,
     "specs": [],
@@ -24501,7 +24501,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_b5e327e5-59be-4864-ae3f-ed036f16b5d2.png?v=1607498102"
     ],
     "inStock": true,
     "specs": [],
@@ -24521,7 +24521,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_2f4d573c-0467-4fb7-abdd-29108e6f5490.png?v=1607498103"
     ],
     "inStock": true,
     "specs": [],
@@ -24541,7 +24541,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Rotary_Handle_328454f9-23c9-476b-aa35-a2a8b28a3c20.png?v=1607498105"
     ],
     "inStock": true,
     "specs": [],
@@ -26001,7 +26001,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0.jpg?v=1627982543"
     ],
     "inStock": true,
     "specs": [],
@@ -26021,7 +26021,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 94,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_e700579e-b0f8-4c4a-8a3b-274726d3cc3b.jpg?v=1627983749"
     ],
     "inStock": true,
     "specs": [],
@@ -26041,7 +26041,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 94,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_5826ba53-e43e-41c1-9091-bf044130eca3.jpg?v=1627983789"
     ],
     "inStock": true,
     "specs": [],
@@ -26061,7 +26061,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_4d8e7d20-2bdd-4b57-846a-2e9dc73a4bb8.jpg?v=1627983827"
     ],
     "inStock": true,
     "specs": [],
@@ -26081,7 +26081,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_76bccf30-9c14-44c9-ae28-329c8635fd87.jpg?v=1627983877"
     ],
     "inStock": true,
     "specs": [],
@@ -26101,7 +26101,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 6,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_ab78fa06-2a17-466a-9998-4c596e16b4fd.jpg?v=1627983923"
     ],
     "inStock": true,
     "specs": [],
@@ -26121,7 +26121,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 11,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_4b326c81-4596-4d14-bd88-0f87ac032fea.jpg?v=1627983953"
     ],
     "inStock": true,
     "specs": [],
@@ -26141,7 +26141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 97,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_613c91c6-427c-44aa-aded-eb5c855d0c46.jpg?v=1627983997"
     ],
     "inStock": true,
     "specs": [],
@@ -26161,7 +26161,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 97,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_2c92a2dc-83f8-46b7-91a9-53db32dc38d1.jpg?v=1627984035"
     ],
     "inStock": true,
     "specs": [],
@@ -26181,7 +26181,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 35,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_572a6220-3210-40eb-848c-2ee33913dd98.jpg?v=1627984064"
     ],
     "inStock": true,
     "specs": [],
@@ -26201,7 +26201,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 95,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_b62f0d11-97ac-4a93-b6cd-b321f265b2e7.jpg?v=1627984087"
     ],
     "inStock": true,
     "specs": [],
@@ -26221,7 +26221,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 46,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0.jpg?v=1627984196"
     ],
     "inStock": true,
     "specs": [],
@@ -26241,7 +26241,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 83,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_3ca20888-df77-489a-ae58-4bd5bacf5791.jpg?v=1627984285"
     ],
     "inStock": true,
     "specs": [],
@@ -26261,7 +26261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_030ce117-17a2-4ad2-b05d-2e6f5009f19c.jpg?v=1627984308"
     ],
     "inStock": true,
     "specs": [],
@@ -26281,7 +26281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 53,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_ddd238b8-1e08-46b5-aa95-25a8a1c6a0b3.jpg?v=1627984404"
     ],
     "inStock": true,
     "specs": [],
@@ -26301,7 +26301,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_e4f4037f-63d3-41e0-84c0-d2d85a1b532c.jpg?v=1627984592"
     ],
     "inStock": true,
     "specs": [],
@@ -26321,7 +26321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 76,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_af25f775-4189-4296-bec9-b36e03a88f15.jpg?v=1627984625"
     ],
     "inStock": true,
     "specs": [],
@@ -26341,7 +26341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 93,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_fdba64b5-e836-4384-81eb-98914d41f6b2.jpg?v=1627984654"
     ],
     "inStock": true,
     "specs": [],
@@ -26361,7 +26361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_7bfce953-1d8b-41b1-901c-2d3a6479bafd.jpg?v=1627984729"
     ],
     "inStock": true,
     "specs": [],
@@ -26381,7 +26381,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_3d3b1f30-7788-4ce4-be01-04caa8bcdd20.jpg?v=1627984809"
     ],
     "inStock": true,
     "specs": [],
@@ -26401,7 +26401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 60,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_d2d98f21-d4c5-49ba-982e-c4612d89a70d.jpg?v=1627985071"
     ],
     "inStock": true,
     "specs": [],
@@ -26421,7 +26421,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 84,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_f1df8d3e-08fb-4ba1-bdd1-cbbf95f34505.jpg?v=1627985277"
     ],
     "inStock": true,
     "specs": [],
@@ -26441,7 +26441,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters.jpg?v=1627917913"
     ],
     "inStock": true,
     "specs": [],
@@ -26461,7 +26461,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4fb91168-fe1e-4cb1-8ef5-435d3b26dd6a.jpg?v=1627918044"
     ],
     "inStock": true,
     "specs": [],
@@ -26481,7 +26481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4ca70f6e-a9e2-43e1-992d-29e88c76c7c8.jpg?v=1627918106"
     ],
     "inStock": true,
     "specs": [],
@@ -26501,7 +26501,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_ba873bef-60c0-4786-9c84-ae9b801c407a.jpg?v=1627918459"
     ],
     "inStock": true,
     "specs": [],
@@ -26521,7 +26521,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_d422f86c-e79c-46d2-8550-0326f7b32940.jpg?v=1627918709"
     ],
     "inStock": true,
     "specs": [],
@@ -26541,7 +26541,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 44,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_6894f06d-a03f-4a6a-8c07-0b1f09039e43.jpg?v=1627918765"
     ],
     "inStock": true,
     "specs": [],
@@ -26561,7 +26561,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 5,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_b3a275b7-4b45-4b7b-9f5e-471958035493.jpg?v=1627918781"
     ],
     "inStock": true,
     "specs": [],
@@ -26581,7 +26581,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 74,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_d30a7ef0-4fe9-4039-9685-413877ae6899.jpg?v=1627918806"
     ],
     "inStock": true,
     "specs": [],
@@ -26601,7 +26601,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 87,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3d8e390b-b594-45e3-9130-fb77117acacd.jpg?v=1627918822"
     ],
     "inStock": true,
     "specs": [],
@@ -26621,7 +26621,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c493d3e6-9c38-4681-aff6-3c32f246aaa2.jpg?v=1627918841"
     ],
     "inStock": true,
     "specs": [],
@@ -26641,7 +26641,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4e20ef2c-b01a-408f-a694-649d88e7ab77.jpg?v=1627918863"
     ],
     "inStock": true,
     "specs": [],
@@ -26661,7 +26661,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 12,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_1cd63610-a99a-424d-a861-d868d7734ee3.jpg?v=1627918883"
     ],
     "inStock": true,
     "specs": [],
@@ -26681,7 +26681,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 26,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC52.jpg?v=1627922378"
     ],
     "inStock": true,
     "specs": [],
@@ -26701,7 +26701,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 98,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC51.jpg?v=1627922319"
     ],
     "inStock": true,
     "specs": [],
@@ -26721,7 +26721,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 28,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC53.jpg?v=1627922029"
     ],
     "inStock": true,
     "specs": [],
@@ -26741,7 +26741,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c297f45a-8dfb-4e4a-b497-1f92ec9ed724.jpg?v=1627982109"
     ],
     "inStock": true,
     "specs": [],
@@ -26761,7 +26761,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 9,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_a46ddae4-1242-46ef-b981-3c60a2421cd9.jpg?v=1627982126"
     ],
     "inStock": true,
     "specs": [],
@@ -26781,7 +26781,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_734f730c-cc4b-47ca-8980-d775d3d0c020.jpg?v=1627982142"
     ],
     "inStock": true,
     "specs": [],
@@ -26801,7 +26801,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 103,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_48b905db-cc0b-4225-a4aa-03b85439852c.jpg?v=1627982157"
     ],
     "inStock": true,
     "specs": [],
@@ -26821,7 +26821,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_bee5d9be-b66f-4269-9c66-b18fd2a6f8c5.jpg?v=1627982173"
     ],
     "inStock": true,
     "specs": [],
@@ -26841,7 +26841,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_517ed6ad-2ffa-47d9-8db0-e9da6a6c2f24.jpg?v=1627982187"
     ],
     "inStock": true,
     "specs": [],
@@ -26861,7 +26861,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3c65bbdf-c3d9-47a3-8730-3c1e3fcaa487.jpg?v=1627982202"
     ],
     "inStock": true,
     "specs": [],
@@ -26881,7 +26881,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c3d95dee-365c-4ba6-ab31-92abd6a82296.jpg?v=1627982215"
     ],
     "inStock": true,
     "specs": [],
@@ -26901,7 +26901,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_90011587-665c-4815-8566-455f4f180888.jpg?v=1627982228"
     ],
     "inStock": true,
     "specs": [],
@@ -26921,7 +26921,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3e7fe24b-d9a7-405b-a92f-1679f8524e22.jpg?v=1627982241"
     ],
     "inStock": true,
     "specs": [],
@@ -26941,7 +26941,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 96,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_ac4dc9e2-cb51-4975-9087-77862e26539a.jpg?v=1627982256"
     ],
     "inStock": true,
     "specs": [],
@@ -26961,7 +26961,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c2377976-94ae-4db4-b8b5-ed0a8d9c4e67.jpg?v=1627982276"
     ],
     "inStock": true,
     "specs": [],
@@ -26981,7 +26981,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNEA.jpg?v=1628003815"
     ],
     "inStock": true,
     "specs": [],
@@ -27001,7 +27001,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/WPB51B.jpg?v=1627981687"
     ],
     "inStock": true,
     "specs": [],
@@ -27021,7 +27021,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/WPB51Y.jpg?v=1627981850"
     ],
     "inStock": true,
     "specs": [],
@@ -27041,7 +27041,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_6305e14d-3d7b-4d70-8417-6df70db0e7a2.jpg?v=1627981897"
     ],
     "inStock": true,
     "specs": [],
@@ -33061,7 +33061,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNEB.jpg?v=1628003966"
     ],
     "inStock": true,
     "specs": [],
@@ -33081,7 +33081,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 69,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_0707a9b6-9417-44c7-add5-9e7483719461.png?v=1651911335"
     ],
     "inStock": true,
     "specs": [],
@@ -33101,7 +33101,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_9b284b0e-f33e-4e4c-9f3d-c5ee92033fea.png?v=1607175583"
     ],
     "inStock": true,
     "specs": [],
@@ -33121,7 +33121,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 85,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_a9d24eef-dcb4-4681-9bec-fd22dda746be.png?v=1607175584"
     ],
     "inStock": true,
     "specs": [],
@@ -33141,7 +33141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 60,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_4993192b-4aba-47dd-a64b-19ea4c1ebdda.png?v=1607175585"
     ],
     "inStock": true,
     "specs": [],
@@ -33161,7 +33161,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_4af94e4f-8818-44e8-ba29-446cee1ef793.png?v=1607175587"
     ],
     "inStock": true,
     "specs": [],
@@ -33181,7 +33181,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 7,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_569100ed-4c71-403d-bbb2-9a5c146a22c2.png?v=1607175588"
     ],
     "inStock": true,
     "specs": [],
@@ -33201,7 +33201,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_4269ea90-3caa-4496-84dc-7494360cede0.png?v=1607175589"
     ],
     "inStock": true,
     "specs": [],
@@ -33221,7 +33221,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_93cbbe7f-f880-48c4-9235-25a1c55e6996.png?v=1607175590"
     ],
     "inStock": true,
     "specs": [],
@@ -33241,7 +33241,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 69,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_c630fe2c-7798-44e0-a8a5-b2501f26fc79.png?v=1607175592"
     ],
     "inStock": true,
     "specs": [],
@@ -33261,7 +33261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_122b5f3f-c2d8-4b44-a930-364a28b9cbda.png?v=1607175593"
     ],
     "inStock": true,
     "specs": [],
@@ -33281,7 +33281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_ee1fa58d-1930-4652-b7fa-7db448528bd0.png?v=1607175594"
     ],
     "inStock": true,
     "specs": [],
@@ -33301,7 +33301,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_439221aa-e891-4b98-9e54-b2ba46e0e9f8.png?v=1607175595"
     ],
     "inStock": true,
     "specs": [],
@@ -33321,7 +33321,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 89,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_6e487eb3-d7ae-420a-a18e-b9b55c4b3fea.png?v=1607175596"
     ],
     "inStock": true,
     "specs": [],
@@ -33341,7 +33341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 83,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_35aa76fe-4017-4fae-bb87-b43396005d39.png?v=1607175597"
     ],
     "inStock": true,
     "specs": [],
@@ -33361,7 +33361,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_467573a2-f1ef-4b14-bff7-06f15305982a.png?v=1607175599"
     ],
     "inStock": true,
     "specs": [],
@@ -33381,7 +33381,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_34f177a8-a9a6-49bd-be4f-99e8da2bade2.png?v=1607175600"
     ],
     "inStock": true,
     "specs": [],
@@ -33401,7 +33401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 46,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_161e10a8-864d-48ef-b06c-212fbc44606e.png?v=1607175602"
     ],
     "inStock": true,
     "specs": [],
@@ -33421,7 +33421,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_305407d3-e6be-4654-b716-d136985c1b7d.png?v=1607175603"
     ],
     "inStock": true,
     "specs": [],
@@ -33441,7 +33441,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_c227ab64-63da-4ed0-ac86-7cd482400504.png?v=1607175604"
     ],
     "inStock": true,
     "specs": [],
@@ -33461,7 +33461,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 89,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_38782d29-a549-4f5b-a885-9ba3e69c0b50.png?v=1607175605"
     ],
     "inStock": true,
     "specs": [],
@@ -33481,7 +33481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_375a3ca3-d9c8-4aef-9c42-3bd317b9fa81.png?v=1607175606"
     ],
     "inStock": true,
     "specs": [],
@@ -33501,7 +33501,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_c8f91323-0032-4a98-b48e-b1c0436a7add.png?v=1607175608"
     ],
     "inStock": true,
     "specs": [],
@@ -33521,7 +33521,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_8c8445c9-4d05-4681-b02d-e71bc2afc291.png?v=1607175609"
     ],
     "inStock": true,
     "specs": [],
@@ -33541,7 +33541,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Key_55edb9ab-de7b-4f71-87ea-d89772bf13bd.png?v=1607175610"
     ],
     "inStock": true,
     "specs": [],
@@ -86141,7 +86141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "https://na.noark-electric.com/wp-content/uploads/2024/05/productfroupweb.png"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_ab78fa06-2a17-466a-9998-4c596e16b4fd.jpg?v=1627983923"
     ],
     "inStock": true,
     "specs": [],

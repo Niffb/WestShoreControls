@@ -142,7 +142,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 74,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7PLCCARD.jpg?v=1652548477"
     ],
     "inStock": true,
     "specs": [],

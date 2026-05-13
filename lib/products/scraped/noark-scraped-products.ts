@@ -14,7 +14,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_e1a5d27e-2fdc-48b7-975c-317403c5c0b4.png?v=1757164447"
     ],
     "inStock": true,
     "specs": [],
@@ -32,7 +32,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_9523b0aa-03f9-4f2a-884a-64e41bac6af7.png?v=1757164446"
     ],
     "inStock": true,
     "specs": [],
@@ -50,7 +50,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_0fa83dc5-db45-4124-ae45-3b0a1c078529.png?v=1757164437"
     ],
     "inStock": false,
     "specs": [],
@@ -69,7 +69,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_dbb7df19-c760-40f6-967b-02903e5d3b17.png?v=1757164438"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_9155f4df-a5a4-464d-b69b-6f82af5f7771.png?v=1757164441"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_d03db635-9255-4b50-8574-ea314d4a3cbe.png?v=1757164438"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_78eab703-c2bd-4e2f-8cd8-15c663246600.png?v=1757164440"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_6e9f06a5-42f7-455a-8711-7e98f2c24e29.png?v=1757164441"
     ],
     "inStock": true,
     "specs": [],
@@ -161,7 +161,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_ebfc538c-4901-49b5-b3bd-1a665dec7c17.png?v=1757164443"
     ],
     "inStock": true,
     "specs": [],
@@ -180,7 +180,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_edf4c3f1-283d-48bf-9946-3c0a55b548a0.png?v=1757164444"
     ],
     "inStock": true,
     "specs": [],
@@ -199,7 +199,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_ccb09b09-3529-4b73-a3d7-35b5c7954c58.png?v=1757164443"
     ],
     "inStock": true,
     "specs": [],
@@ -218,7 +218,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_86e7de7d-732d-4acf-a2d8-46ac679231fc.png?v=1757164446"
     ],
     "inStock": true,
     "specs": [],
@@ -236,7 +236,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Handle_Lock_67fffdcb-5b36-4f61-99c8-d52854a15fe7.png?v=1757164448"
     ],
     "inStock": true,
     "specs": [],
@@ -329,7 +329,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_fb7b0c49-82ef-4bee-aba4-5a906acef378.jpg?v=1757165951"
     ],
     "inStock": true,
     "specs": [],
@@ -365,7 +365,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_49d7ccc9-80ba-4886-a188-d808cffa5431.jpg?v=1757165935"
     ],
     "inStock": true,
     "specs": [],
@@ -383,7 +383,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_704452d4-4421-452d-a26a-ee8ea571a600.jpg?v=1757165942"
     ],
     "inStock": true,
     "specs": [],
@@ -401,7 +401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_a3e2dd2d-96d0-4418-bfb3-d1756cc489cb.jpg?v=1757165946"
     ],
     "inStock": true,
     "specs": [],
@@ -419,7 +419,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_a5380ed7-36bd-47e5-aeae-ef1f190038fa.jpg?v=1757165939"
     ],
     "inStock": true,
     "specs": [],
@@ -437,7 +437,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_0dc22c05-09e6-4d97-9303-d68aee8e3edb.jpg?v=1757165950"
     ],
     "inStock": true,
     "specs": [],
@@ -474,7 +474,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_ac18f2e7-f1f3-4e98-9e5f-c6f224153939.jpg?v=1757165933"
     ],
     "inStock": true,
     "specs": [],
@@ -528,7 +528,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker.jpg?v=1757165936"
     ],
     "inStock": true,
     "specs": [],
@@ -547,7 +547,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_98066d5a-fce9-45fa-80d3-d2c5f1d19b36.jpg?v=1757165938"
     ],
     "inStock": true,
     "specs": [],
@@ -565,7 +565,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_d5f805fb-dca6-4834-9856-d1be4158ba03.jpg?v=1757165943"
     ],
     "inStock": true,
     "specs": [],
@@ -584,7 +584,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_31c9d6a8-7082-433f-8378-a578e7d036ed.jpg?v=1757165940"
     ],
     "inStock": true,
     "specs": [],
@@ -620,7 +620,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_f8f4003c-20ed-414f-912e-2cceb6f21549.jpg?v=1757165947"
     ],
     "inStock": true,
     "specs": [],
@@ -712,7 +712,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_502520a4-511a-420f-a282-a0556d2429be.jpg?v=1757165948"
     ],
     "inStock": true,
     "specs": [],
@@ -750,7 +750,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_B1E_-_Mini_Circuit_Breaker_e8fb4a73-ca13-4836-9938-45bc13a1d0d4.jpg?v=1757165945"
     ],
     "inStock": true,
     "specs": [],
@@ -4148,7 +4148,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_fbc9c2f0-b531-4fe7-b55d-f5d30b4020ee.png?v=1757229296"
     ],
     "inStock": true,
     "specs": [],
@@ -4166,7 +4166,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_46207535-4120-4f71-bf82-28121a1068ca.png?v=1757229312"
     ],
     "inStock": true,
     "specs": [],
@@ -4202,7 +4202,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_c3168c49-3830-47de-b35b-384159bdff30.png?v=1757229328"
     ],
     "inStock": true,
     "specs": [],
@@ -4258,7 +4258,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_905e3f1f-ad66-4f84-95c3-5a1839faf058.png?v=1757229293"
     ],
     "inStock": true,
     "specs": [],
@@ -4276,7 +4276,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b4a12694-a45a-4ecd-818e-5f3ddd2c90b9.png?v=1757229310"
     ],
     "inStock": true,
     "specs": [],
@@ -4295,7 +4295,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b1b5bfb2-8844-4a31-ae36-34870ae186f4.png?v=1757229326"
     ],
     "inStock": true,
     "specs": [],
@@ -4721,7 +4721,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_5a128c03-add2-4640-ac33-efb06175a798.png?v=1757229323"
     ],
     "inStock": true,
     "specs": [],
@@ -5226,7 +5226,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rear_Connection_Kit_78554aa2-2e39-45f3-88c2-dda480ded9c1.png?v=1757164161"
     ],
     "inStock": true,
     "specs": [],
@@ -5245,7 +5245,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rear_Connection_Kit_96f15850-61b6-4bc6-8222-79f685834234.png?v=1757164158"
     ],
     "inStock": true,
     "specs": [],
@@ -5263,7 +5263,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rear_Connection_Kit_fbec4da9-8f6a-4270-a5af-b55f09114f96.png?v=1757164159"
     ],
     "inStock": true,
     "specs": [],
@@ -5281,7 +5281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Rear_Connection_Kit_ca606b80-b4a1-4193-a819-8c12ee2a0500.png?v=1757164160"
     ],
     "inStock": true,
     "specs": [],
@@ -8867,7 +8867,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_96bd07b0-aec5-4b7a-924e-ce1bd976dd5b.png?v=1757164541"
     ],
     "inStock": true,
     "specs": [],
@@ -8885,7 +8885,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_fe233bd8-2cb1-4965-82cb-5b693f5b46b4.png?v=1757164530"
     ],
     "inStock": true,
     "specs": [],
@@ -8939,7 +8939,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_68d5a904-1bd6-4ce9-aa5d-7701fd814fef.png?v=1757164543"
     ],
     "inStock": true,
     "specs": [],
@@ -8957,7 +8957,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_234a774f-de0a-46b8-80fd-7841754c2e4d.png?v=1757164542"
     ],
     "inStock": true,
     "specs": [],
@@ -9012,7 +9012,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_ea7b6da5-005a-490f-a26d-2c8ef06a7503.png?v=1757164545"
     ],
     "inStock": true,
     "specs": [],
@@ -9048,7 +9048,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_68ea08f1-1216-4da3-a3de-e30d2784ca8d.png?v=1757164562"
     ],
     "inStock": true,
     "specs": [],
@@ -9067,7 +9067,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_f08153c5-1345-4c39-8db8-f2d093c4e64b.png?v=1757164569"
     ],
     "inStock": true,
     "specs": [],
@@ -9085,7 +9085,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_2181c3c5-954b-463b-9fc5-9cff27564b43.png?v=1757164565"
     ],
     "inStock": true,
     "specs": [],
@@ -9104,7 +9104,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 37,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_d76ae91b-7e81-45df-ae55-ae573e5dc68c.png?v=1757164533"
     ],
     "inStock": true,
     "specs": [],
@@ -9122,7 +9122,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_8f337d12-fb91-41c9-9d8a-fb0246f857f0.png?v=1757164535"
     ],
     "inStock": true,
     "specs": [],
@@ -9141,7 +9141,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_4326e526-4f0b-4f8a-b68f-ce6579f64e7e.png?v=1757164537"
     ],
     "inStock": true,
     "specs": [],
@@ -9179,7 +9179,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_689a5fa4-57db-4283-ac45-4a33e9094377.png?v=1757164548"
     ],
     "inStock": false,
     "specs": [],
@@ -9198,7 +9198,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_0425d19f-d25c-47f9-a970-0ad0273dc8c1.png?v=1757164547"
     ],
     "inStock": true,
     "specs": [],
@@ -9216,7 +9216,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_ac9dee7b-b22e-4b53-bd06-8e9f6ece69e5.png?v=1757164560"
     ],
     "inStock": true,
     "specs": [],
@@ -9252,7 +9252,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_0e928849-30d3-4297-b7eb-18a2e507bac8.png?v=1757164567"
     ],
     "inStock": true,
     "specs": [],
@@ -9288,7 +9288,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Shunt_Trip_ca772bc2-8742-4f3c-ba24-763d43197937.png?v=1757164563"
     ],
     "inStock": true,
     "specs": [],
@@ -9416,7 +9416,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/NOARK_MCB_Accessories_d7cb1589-520c-44e1-84a8-ecca8b7d9d69.jpg?v=1757168733"
     ],
     "inStock": true,
     "specs": [],
@@ -9726,7 +9726,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/NOARK_MCB_Accessories_9744e95b-abd2-4e76-ad62-fdfc2f8cf0db.jpg?v=1757168854"
     ],
     "inStock": true,
     "specs": [],
@@ -13401,7 +13401,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_51705c5e-7462-4457-a254-af0045bf2e26.png?v=1757164374"
     ],
     "inStock": true,
     "specs": [],
@@ -13419,7 +13419,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_e3c9b1db-3ce4-44ba-b860-f5bc78b4e157.png?v=1757164383"
     ],
     "inStock": true,
     "specs": [],
@@ -13437,7 +13437,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_a35ee052-64b8-4450-a2e7-5ffc02ee33fb.png?v=1757164389"
     ],
     "inStock": false,
     "specs": [],
@@ -13455,7 +13455,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_afd700f0-5fa7-4295-bfab-afd817300261.png?v=1757164388"
     ],
     "inStock": true,
     "specs": [],
@@ -13474,7 +13474,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_0feb8b3a-756e-4e36-b8b1-a06f9b928d69.png?v=1757164375"
     ],
     "inStock": true,
     "specs": [],
@@ -13492,7 +13492,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_e3e2b91e-1113-4b56-8776-aac499dd4e7b.png?v=1757164375"
     ],
     "inStock": true,
     "specs": [],
@@ -13510,7 +13510,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_91f07d8a-d242-4522-ab0e-cab6a0c309e2.png?v=1757164376"
     ],
     "inStock": true,
     "specs": [],
@@ -13528,7 +13528,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_b8f6b865-a276-405e-985d-f3dbdd343800.png?v=1757164377"
     ],
     "inStock": true,
     "specs": [],
@@ -13546,7 +13546,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_00472b91-0edd-4f17-8859-fbc11afcd94f.png?v=1757164378"
     ],
     "inStock": true,
     "specs": [],
@@ -13564,7 +13564,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_1ec0512b-9162-4885-8d9d-80c9b4b6630b.png?v=1757164382"
     ],
     "inStock": true,
     "specs": [],
@@ -13583,7 +13583,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_2b7f98f6-54a3-4235-8945-7085e53d4bb4.png?v=1757164384"
     ],
     "inStock": true,
     "specs": [],
@@ -13601,7 +13601,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Motor_Operator_6255e5d2-c6bd-48ce-adfb-c011c0876652.png?v=1757164387"
     ],
     "inStock": true,
     "specs": [],
@@ -18226,7 +18226,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_5359f897-b598-41c2-b275-03747f35f121.jpg?v=1757229803"
     ],
     "inStock": true,
     "specs": [],
@@ -18245,7 +18245,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_c6e8cd77-6316-4371-9c89-6f3fbbffd463.jpg?v=1757229809"
     ],
     "inStock": true,
     "specs": [],
@@ -18263,7 +18263,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_d993efb3-a492-4308-82ce-aca18f66b4e7.jpg?v=1757229829"
     ],
     "inStock": true,
     "specs": [],
@@ -18281,7 +18281,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_15049dc9-5099-4513-bd2f-a84eeba8de61.jpg?v=1757229825"
     ],
     "inStock": true,
     "specs": [],
@@ -18299,7 +18299,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_cba8e11f-f1f1-4300-8c1d-54cee4ad77a1.jpg?v=1757229823"
     ],
     "inStock": false,
     "specs": [],
@@ -18317,7 +18317,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_e129bfcd-817d-4f95-9f12-5f5af931631e.jpg?v=1757229815"
     ],
     "inStock": true,
     "specs": [],
@@ -18335,7 +18335,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_909b11d9-6c9c-4c81-bc2e-8e07dddf4cd1.jpg?v=1757229826"
     ],
     "inStock": true,
     "specs": [],
@@ -18354,7 +18354,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_216a9ae7-a515-4fbf-835b-dec30361a457.jpg?v=1757229832"
     ],
     "inStock": true,
     "specs": [],
@@ -18373,7 +18373,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_e5d4e330-6167-4819-9de1-f19b23481f75.jpg?v=1757229835"
     ],
     "inStock": true,
     "specs": [],
@@ -18392,7 +18392,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_617b426a-ffa9-48d6-8967-a8dca4d190de.jpg?v=1757229833"
     ],
     "inStock": true,
     "specs": [],
@@ -18410,7 +18410,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_5d34a6b6-547a-477c-9eb9-0a5fb5a6d969.jpg?v=1757229836"
     ],
     "inStock": true,
     "specs": [],
@@ -18428,7 +18428,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip.jpg?v=1757229806"
     ],
     "inStock": false,
     "specs": [],
@@ -18446,7 +18446,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_a54cb42b-7fa4-4c7d-b8ab-da1a2345b3da.jpg?v=1757229804"
     ],
     "inStock": true,
     "specs": [],
@@ -18464,7 +18464,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_ddf23480-e778-4574-bdda-fdbd7c760b2d.jpg?v=1757229810"
     ],
     "inStock": true,
     "specs": [],
@@ -18482,7 +18482,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_0d473230-7c85-4be3-8867-5280bcf954d3.jpg?v=1757229807"
     ],
     "inStock": true,
     "specs": [],
@@ -18500,7 +18500,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_61d5af69-6e13-4269-933f-c388cae06d40.jpg?v=1757229813"
     ],
     "inStock": true,
     "specs": [],
@@ -18519,7 +18519,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_d9828dff-db5e-4ff7-97ce-be771282793d.jpg?v=1757229812"
     ],
     "inStock": true,
     "specs": [],
@@ -18538,7 +18538,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_d4166e8e-b438-4fcb-83cb-9554838a1c0a.jpg?v=1757229816"
     ],
     "inStock": true,
     "specs": [],
@@ -18557,7 +18557,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_3df3cc75-d357-4e65-a39d-5ffa6fd17e67.jpg?v=1757229819"
     ],
     "inStock": true,
     "specs": [],
@@ -18575,7 +18575,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 25,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_a4e66763-f7f3-4b89-8b1f-080d7c9f56df.jpg?v=1757229822"
     ],
     "inStock": true,
     "specs": [],
@@ -18594,7 +18594,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_9e102cd0-0a41-4212-89bf-47ecc10899e6.jpg?v=1757229817"
     ],
     "inStock": true,
     "specs": [],
@@ -18612,7 +18612,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_60145539-99d1-4b8e-b8da-fdd11c41bc9a.jpg?v=1757229820"
     ],
     "inStock": true,
     "specs": [],
@@ -18630,7 +18630,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_a80fb0e9-d18a-40ba-bf36-ed5c2791edbf.jpg?v=1757229828"
     ],
     "inStock": true,
     "specs": [],
@@ -18648,7 +18648,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_Undervoltage_Trip_e37536cb-910c-4c00-b139-daf9024591e5.jpg?v=1757229830"
     ],
     "inStock": true,
     "specs": [],
@@ -19195,7 +19195,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0cfe17fd-890a-4620-8f78-4d34b842dcd3.png?v=1757229171"
     ],
     "inStock": true,
     "specs": [],
@@ -19213,7 +19213,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d8f60d46-5088-4d6b-a52c-1a033dba2a6d.png?v=1757229179"
     ],
     "inStock": true,
     "specs": [],
@@ -19231,7 +19231,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f970b1d6-4ecd-4e5f-b350-757bf93c0450.png?v=1757229190"
     ],
     "inStock": true,
     "specs": [],
@@ -19250,7 +19250,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ee987719-2c51-450b-8952-923b0f1d29be.png?v=1757229200"
     ],
     "inStock": true,
     "specs": [],
@@ -19268,7 +19268,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_97beb496-b779-441d-a3f3-fa562395b704.png?v=1757229211"
     ],
     "inStock": true,
     "specs": [],
@@ -19286,7 +19286,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ec128169-4db4-4579-8a22-b41e5828d041.png?v=1757229223"
     ],
     "inStock": true,
     "specs": [],
@@ -19304,7 +19304,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_26b6aa80-3d14-44a7-88f6-5ca9f8bc9f10.png?v=1757229237"
     ],
     "inStock": true,
     "specs": [],
@@ -19323,7 +19323,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f6fed471-da83-4829-94c5-bc9ca8a88334.png?v=1757229247"
     ],
     "inStock": true,
     "specs": [],
@@ -19341,7 +19341,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_45f946e1-9a48-46d5-b6c3-0f18afc7b755.png?v=1757229258"
     ],
     "inStock": true,
     "specs": [],
@@ -19359,7 +19359,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f2573c07-2a9c-4425-a879-a97991975dd0.png?v=1757229269"
     ],
     "inStock": true,
     "specs": [],
@@ -19378,7 +19378,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_7fa4ad91-ea24-49bd-83de-2805e266b92a.png?v=1757229279"
     ],
     "inStock": true,
     "specs": [],
@@ -19415,7 +19415,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3bba3fd4-c944-4975-88d9-072256f71ab2.png?v=1757229167"
     ],
     "inStock": true,
     "specs": [],
@@ -19434,7 +19434,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_35dc3e03-9aea-4bbe-aa17-d2c234612eab.png?v=1757229285"
     ],
     "inStock": true,
     "specs": [],
@@ -19452,7 +19452,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e6ae6438-4451-499a-97a6-b1ac98accbea.png?v=1757229175"
     ],
     "inStock": true,
     "specs": [],
@@ -19470,7 +19470,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3beee28b-f2bb-4945-be45-aca22817e78e.png?v=1757229184"
     ],
     "inStock": true,
     "specs": [],
@@ -19488,7 +19488,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0f1b4018-e74f-4547-bb84-e1a7a1a0702d.png?v=1757229195"
     ],
     "inStock": true,
     "specs": [],
@@ -19507,7 +19507,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_32610655-5df5-4f35-bd78-26e542fdb110.png?v=1757229205"
     ],
     "inStock": true,
     "specs": [],
@@ -19525,7 +19525,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_65abab41-d229-4844-8434-8c14d08cf1da.png?v=1757229216"
     ],
     "inStock": true,
     "specs": [],
@@ -19543,7 +19543,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_76b05dfc-02ad-46f5-97e1-fe9d23c6e066.png?v=1757229243"
     ],
     "inStock": true,
     "specs": [],
@@ -19561,7 +19561,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d5c5b144-7cc4-4658-b8e1-4ed5a3773ce9.png?v=1757229230"
     ],
     "inStock": false,
     "specs": [],
@@ -19579,7 +19579,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_62ddf212-050e-456f-b4fe-8d68191af82c.png?v=1757229252"
     ],
     "inStock": true,
     "specs": [],
@@ -19597,7 +19597,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 29,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0e350859-945b-48cf-b5f9-a528d28a1275.png?v=1757229263"
     ],
     "inStock": true,
     "specs": [],
@@ -19615,7 +19615,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_60248f5f-8bf5-42c6-8acb-6fd09aef2082.png?v=1757229274"
     ],
     "inStock": false,
     "specs": [],
@@ -19651,7 +19651,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ccc3d042-dc64-4b9d-9a88-e50c08887096.png?v=1757229284"
     ],
     "inStock": false,
     "specs": [],
@@ -20359,7 +20359,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e46c5935-f3db-4a77-9d94-eb24938a4bbd.png?v=1757229173"
     ],
     "inStock": true,
     "specs": [],
@@ -20378,7 +20378,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_385422e6-6386-4d7a-924a-f690b372ada1.png?v=1757229165"
     ],
     "inStock": true,
     "specs": [],
@@ -20396,7 +20396,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_36f109da-a3eb-4de9-be1b-ac1a502ce842.png?v=1757229182"
     ],
     "inStock": true,
     "specs": [],
@@ -20414,7 +20414,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ece04752-818e-46bf-b05d-5944b5199d97.png?v=1757229192"
     ],
     "inStock": true,
     "specs": [],
@@ -20432,7 +20432,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_97737cd1-9e94-4a5a-b486-7d41723cb8c9.png?v=1757229202"
     ],
     "inStock": true,
     "specs": [],
@@ -20450,7 +20450,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_65422907-ede3-4bf7-92b3-c464ecc18266.png?v=1757229213"
     ],
     "inStock": true,
     "specs": [],
@@ -20468,7 +20468,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_cd57cc87-98b8-4115-8647-93bab4f138e1.png?v=1757229226"
     ],
     "inStock": true,
     "specs": [],
@@ -20486,7 +20486,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_46b0253c-6bf4-4ea7-b21c-5884cbacf32e.png?v=1757229239"
     ],
     "inStock": true,
     "specs": [],
@@ -20504,7 +20504,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_7b767ab8-b528-4055-8488-9dd37f3fe011.png?v=1757229249"
     ],
     "inStock": true,
     "specs": [],
@@ -20522,7 +20522,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_9b009642-d86e-4224-b497-60b364516f81.png?v=1757229260"
     ],
     "inStock": false,
     "specs": [],
@@ -20541,7 +20541,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_a79a3cd6-4877-4037-b50c-2c604bd49832.png?v=1757229271"
     ],
     "inStock": true,
     "specs": [],
@@ -20577,7 +20577,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_22f60a38-20ec-4eab-9029-f47b6edf58c6.png?v=1757229281"
     ],
     "inStock": true,
     "specs": [],
@@ -20834,7 +20834,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/files/NOARK_MCB_Accessories_b4af4879-2a6b-4241-bf56-d6c2b25ff329.jpg?v=1757168806"
     ],
     "inStock": true,
     "specs": [],
@@ -68131,7 +68131,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNA.jpg?v=1628003258"
     ],
     "inStock": true,
     "specs": [],
@@ -68150,7 +68150,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNA_d7c21f6d-5702-46be-9b99-efe0d2df2d98.jpg?v=1628003294"
     ],
     "inStock": true,
     "specs": [],
@@ -68168,7 +68168,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNB.jpg?v=1628003548"
     ],
     "inStock": true,
     "specs": [],
@@ -68187,7 +68187,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNB_f15df165-4957-4b0e-bbf1-02141df5bb71.jpg?v=1628003611"
     ],
     "inStock": true,
     "specs": [],
@@ -68205,7 +68205,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA.jpg?v=1628006488"
     ],
     "inStock": true,
     "specs": [],
@@ -68223,7 +68223,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA_36326667-ba95-447f-84e7-484a63dc054b.jpg?v=1628006588"
     ],
     "inStock": true,
     "specs": [],
@@ -68242,7 +68242,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNUVA_6ed12587-5049-40dc-89ba-28628dfaa383.jpg?v=1628006615"
     ],
     "inStock": true,
     "specs": [],
@@ -68261,7 +68261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/DRA51.jpg?v=1627981010"
     ],
     "inStock": true,
     "specs": [],
@@ -68279,7 +68279,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51.jpg?v=1627922990"
     ],
     "inStock": true,
     "specs": [],
@@ -68297,7 +68297,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_a4a27703-4786-4e69-862e-a8f1af418f30.jpg?v=1627923147"
     ],
     "inStock": false,
     "specs": [],
@@ -68315,7 +68315,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_cfe3793c-3bbe-40d1-9e21-fc6abab96d18.jpg?v=1627923166"
     ],
     "inStock": true,
     "specs": [],
@@ -68334,7 +68334,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_effd11a7-3978-4ab1-aa00-0ee847cdd1e9.jpg?v=1627923195"
     ],
     "inStock": true,
     "specs": [],
@@ -68353,7 +68353,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_c54722dc-9d25-40d4-9936-1cb8c6c29752.jpg?v=1627923211"
     ],
     "inStock": true,
     "specs": [],
@@ -68372,7 +68372,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_00c29673-671a-4db2-9576-621112dbd999.jpg?v=1627923240"
     ],
     "inStock": true,
     "specs": [],
@@ -68390,7 +68390,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 1,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_09bf6892-3718-4c3a-a4df-5d6286cdc983.jpg?v=1627923282"
     ],
     "inStock": true,
     "specs": [],
@@ -68408,7 +68408,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/UVT51_7a972c96-ca40-43f9-8de4-46188e4bc347.jpg?v=1627923298"
     ],
     "inStock": true,
     "specs": [],
@@ -68427,7 +68427,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNTA.jpg?v=1628006192"
     ],
     "inStock": true,
     "specs": [],
@@ -68445,7 +68445,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNTA_00a18a56-c42b-4ddd-83b1-b17584b57000.jpg?v=1628006231"
     ],
     "inStock": true,
     "specs": [],
@@ -68464,7 +68464,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51.jpg?v=1627923605"
     ],
     "inStock": false,
     "specs": [],
@@ -68482,7 +68482,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_df874d34-4534-4c13-98db-7f9cb7802fb4.jpg?v=1627923636"
     ],
     "inStock": false,
     "specs": [],
@@ -68500,7 +68500,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_9b831baa-89c6-4d82-a38a-eebaee8f04df.jpg?v=1627923661"
     ],
     "inStock": true,
     "specs": [],
@@ -68518,7 +68518,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_eee129cc-2a42-4f4b-abc1-4ea7bb3a8f8c.jpg?v=1627923676"
     ],
     "inStock": true,
     "specs": [],
@@ -68536,7 +68536,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SHT51_84e5b14a-6e00-4126-969a-30ec0155a02a.jpg?v=1627923694"
     ],
     "inStock": true,
     "specs": [],
@@ -68554,7 +68554,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ERH51B.jpg?v=1627981156"
     ],
     "inStock": true,
     "specs": [],
@@ -68573,7 +68573,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ERH51B_3ceee85b-f9f2-47ee-a39d-518568119757.jpg?v=1627981212"
     ],
     "inStock": true,
     "specs": [],
@@ -68592,7 +68592,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111.jpg?v=1627919785"
     ],
     "inStock": false,
     "specs": [],
@@ -68611,7 +68611,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211.jpg?v=1627919942"
     ],
     "inStock": false,
     "specs": [],
@@ -68630,7 +68630,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111_6dc05612-938e-4c28-a10b-c4ed6946d18b.jpg?v=1627919998"
     ],
     "inStock": true,
     "specs": [],
@@ -68648,7 +68648,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_edbc6e5c-2acf-4259-9b86-685fb678f07f.jpg?v=1627920034"
     ],
     "inStock": true,
     "specs": [],
@@ -68667,7 +68667,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 7,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_65b194d5-dc8d-44bf-83b3-5bc9c601be09.jpg?v=1627920081"
     ],
     "inStock": true,
     "specs": [],
@@ -70363,7 +70363,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0.jpg?v=1627982543"
     ],
     "inStock": true,
     "specs": [],
@@ -70382,7 +70382,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_1a05a744-5b9c-4162-bb23-022322282d50.jpg?v=1627982605"
     ],
     "inStock": true,
     "specs": [],
@@ -70400,7 +70400,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_8092c295-6f73-459d-aa1c-eb0f13e0c587.jpg?v=1627983684"
     ],
     "inStock": true,
     "specs": [],
@@ -70418,7 +70418,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_89394e9e-53ee-4bae-aebd-da891bb262d5.jpg?v=1627983706"
     ],
     "inStock": true,
     "specs": [],
@@ -70436,7 +70436,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_e700579e-b0f8-4c4a-8a3b-274726d3cc3b.jpg?v=1627983749"
     ],
     "inStock": true,
     "specs": [],
@@ -70455,7 +70455,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_5826ba53-e43e-41c1-9091-bf044130eca3.jpg?v=1627983789"
     ],
     "inStock": true,
     "specs": [],
@@ -70473,7 +70473,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_4d8e7d20-2bdd-4b57-846a-2e9dc73a4bb8.jpg?v=1627983827"
     ],
     "inStock": true,
     "specs": [],
@@ -70491,7 +70491,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_76bccf30-9c14-44c9-ae28-329c8635fd87.jpg?v=1627983877"
     ],
     "inStock": true,
     "specs": [],
@@ -70509,7 +70509,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_ab78fa06-2a17-466a-9998-4c596e16b4fd.jpg?v=1627983923"
     ],
     "inStock": true,
     "specs": [],
@@ -70527,7 +70527,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_4b326c81-4596-4d14-bd88-0f87ac032fea.jpg?v=1627983953"
     ],
     "inStock": false,
     "specs": [],
@@ -70546,7 +70546,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_613c91c6-427c-44aa-aded-eb5c855d0c46.jpg?v=1627983997"
     ],
     "inStock": true,
     "specs": [],
@@ -70564,7 +70564,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_2c92a2dc-83f8-46b7-91a9-53db32dc38d1.jpg?v=1627984035"
     ],
     "inStock": false,
     "specs": [],
@@ -70583,7 +70583,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_572a6220-3210-40eb-848c-2ee33913dd98.jpg?v=1627984064"
     ],
     "inStock": true,
     "specs": [],
@@ -70601,7 +70601,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25A0_b62f0d11-97ac-4a93-b6cd-b321f265b2e7.jpg?v=1627984087"
     ],
     "inStock": true,
     "specs": [],
@@ -70619,7 +70619,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0.jpg?v=1627984196"
     ],
     "inStock": false,
     "specs": [],
@@ -70638,7 +70638,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_83a431f2-0feb-4be4-bc68-37cb47769ede.jpg?v=1627984223"
     ],
     "inStock": true,
     "specs": [],
@@ -70656,7 +70656,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_3079891c-78c2-4fd0-9673-6fb38f49ad12.jpg?v=1627984244"
     ],
     "inStock": true,
     "specs": [],
@@ -70675,7 +70675,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_20ade6b1-16f6-43f6-a0d5-b07a32cb89f3.jpg?v=1627984269"
     ],
     "inStock": true,
     "specs": [],
@@ -70693,7 +70693,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 0,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_3ca20888-df77-489a-ae58-4bd5bacf5791.jpg?v=1627984285"
     ],
     "inStock": true,
     "specs": [],
@@ -70711,7 +70711,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_030ce117-17a2-4ad2-b05d-2e6f5009f19c.jpg?v=1627984308"
     ],
     "inStock": true,
     "specs": [],
@@ -70729,7 +70729,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_ddd238b8-1e08-46b5-aa95-25a8a1c6a0b3.jpg?v=1627984404"
     ],
     "inStock": true,
     "specs": [],
@@ -70747,7 +70747,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 2,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_e4f4037f-63d3-41e0-84c0-d2d85a1b532c.jpg?v=1627984592"
     ],
     "inStock": false,
     "specs": [],
@@ -70765,7 +70765,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_af25f775-4189-4296-bec9-b36e03a88f15.jpg?v=1627984625"
     ],
     "inStock": true,
     "specs": [],
@@ -70783,7 +70783,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_fdba64b5-e836-4384-81eb-98914d41f6b2.jpg?v=1627984654"
     ],
     "inStock": false,
     "specs": [],
@@ -70801,7 +70801,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_7bfce953-1d8b-41b1-901c-2d3a6479bafd.jpg?v=1627984729"
     ],
     "inStock": true,
     "specs": [],
@@ -70820,7 +70820,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_3d3b1f30-7788-4ce4-be01-04caa8bcdd20.jpg?v=1627984809"
     ],
     "inStock": true,
     "specs": [],
@@ -70839,7 +70839,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_d2d98f21-d4c5-49ba-982e-c4612d89a70d.jpg?v=1627985071"
     ],
     "inStock": true,
     "specs": [],
@@ -70857,7 +70857,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 3,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/EX9SN25B0_f1df8d3e-08fb-4ba1-bdd1-cbbf95f34505.jpg?v=1627985277"
     ],
     "inStock": true,
     "specs": [],
@@ -70875,7 +70875,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters.jpg?v=1627917913"
     ],
     "inStock": true,
     "specs": [],
@@ -70894,7 +70894,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 4,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_a8c83e70-c70e-4331-8a91-7f60f92db1d3.jpg?v=1627917980"
     ],
     "inStock": true,
     "specs": [],
@@ -70912,7 +70912,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_8c52cdb1-67a2-4137-b57f-c7c5476992fc.jpg?v=1627918024"
     ],
     "inStock": true,
     "specs": [],
@@ -70930,7 +70930,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4fb91168-fe1e-4cb1-8ef5-435d3b26dd6a.jpg?v=1627918044"
     ],
     "inStock": true,
     "specs": [],
@@ -70948,7 +70948,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_10dd5428-c204-4a81-bad0-e3eaf313a534.jpg?v=1627918080"
     ],
     "inStock": false,
     "specs": [],
@@ -70967,7 +70967,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4ca70f6e-a9e2-43e1-992d-29e88c76c7c8.jpg?v=1627918106"
     ],
     "inStock": true,
     "specs": [],
@@ -70986,7 +70986,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 13,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_ba873bef-60c0-4786-9c84-ae9b801c407a.jpg?v=1627918459"
     ],
     "inStock": true,
     "specs": [],
@@ -71005,7 +71005,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_d422f86c-e79c-46d2-8550-0326f7b32940.jpg?v=1627918709"
     ],
     "inStock": true,
     "specs": [],
@@ -71023,7 +71023,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_6894f06d-a03f-4a6a-8c07-0b1f09039e43.jpg?v=1627918765"
     ],
     "inStock": true,
     "specs": [],
@@ -71041,7 +71041,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_b3a275b7-4b45-4b7b-9f5e-471958035493.jpg?v=1627918781"
     ],
     "inStock": true,
     "specs": [],
@@ -71059,7 +71059,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_d30a7ef0-4fe9-4039-9685-413877ae6899.jpg?v=1627918806"
     ],
     "inStock": true,
     "specs": [],
@@ -71077,7 +71077,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3d8e390b-b594-45e3-9130-fb77117acacd.jpg?v=1627918822"
     ],
     "inStock": true,
     "specs": [],
@@ -71095,7 +71095,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c493d3e6-9c38-4681-aff6-3c32f246aaa2.jpg?v=1627918841"
     ],
     "inStock": false,
     "specs": [],
@@ -71113,7 +71113,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 14,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_4e20ef2c-b01a-408f-a694-649d88e7ab77.jpg?v=1627918863"
     ],
     "inStock": false,
     "specs": [],
@@ -71132,7 +71132,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_1cd63610-a99a-424d-a861-d868d7734ee3.jpg?v=1627918883"
     ],
     "inStock": true,
     "specs": [],
@@ -71150,7 +71150,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC52.jpg?v=1627922378"
     ],
     "inStock": true,
     "specs": [],
@@ -71168,7 +71168,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC51.jpg?v=1627922319"
     ],
     "inStock": true,
     "specs": [],
@@ -71187,7 +71187,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CC53.jpg?v=1627922029"
     ],
     "inStock": false,
     "specs": [],
@@ -71205,7 +71205,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 12,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111.jpg?v=1627919785"
     ],
     "inStock": true,
     "specs": [],
@@ -71224,7 +71224,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 45,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211.jpg?v=1627919942"
     ],
     "inStock": true,
     "specs": [],
@@ -71243,7 +71243,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5111_6dc05612-938e-4c28-a10b-c4ed6946d18b.jpg?v=1627919998"
     ],
     "inStock": true,
     "specs": [],
@@ -71261,7 +71261,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 44,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_edbc6e5c-2acf-4259-9b86-685fb678f07f.jpg?v=1627920034"
     ],
     "inStock": true,
     "specs": [],
@@ -71279,7 +71279,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AX5211_65b194d5-dc8d-44bf-83b3-5bc9c601be09.jpg?v=1627920081"
     ],
     "inStock": true,
     "specs": [],
@@ -71297,7 +71297,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c297f45a-8dfb-4e4a-b497-1f92ec9ed724.jpg?v=1627982109"
     ],
     "inStock": true,
     "specs": [],
@@ -71315,7 +71315,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_a46ddae4-1242-46ef-b981-3c60a2421cd9.jpg?v=1627982126"
     ],
     "inStock": false,
     "specs": [],
@@ -71333,7 +71333,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_734f730c-cc4b-47ca-8980-d775d3d0c020.jpg?v=1627982142"
     ],
     "inStock": true,
     "specs": [],
@@ -71352,7 +71352,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_48b905db-cc0b-4225-a4aa-03b85439852c.jpg?v=1627982157"
     ],
     "inStock": true,
     "specs": [],
@@ -71370,7 +71370,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 30,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_bee5d9be-b66f-4269-9c66-b18fd2a6f8c5.jpg?v=1627982173"
     ],
     "inStock": true,
     "specs": [],
@@ -71389,7 +71389,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 9,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_517ed6ad-2ffa-47d9-8db0-e9da6a6c2f24.jpg?v=1627982187"
     ],
     "inStock": true,
     "specs": [],
@@ -71407,7 +71407,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3c65bbdf-c3d9-47a3-8730-3c1e3fcaa487.jpg?v=1627982202"
     ],
     "inStock": true,
     "specs": [],
@@ -71426,7 +71426,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c3d95dee-365c-4ba6-ab31-92abd6a82296.jpg?v=1627982215"
     ],
     "inStock": true,
     "specs": [],
@@ -71444,7 +71444,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 28,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_90011587-665c-4815-8566-455f4f180888.jpg?v=1627982228"
     ],
     "inStock": true,
     "specs": [],
@@ -71463,7 +71463,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_3e7fe24b-d9a7-405b-a92f-1679f8524e22.jpg?v=1627982241"
     ],
     "inStock": true,
     "specs": [],
@@ -71481,7 +71481,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 8,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_ac4dc9e2-cb51-4975-9087-77862e26539a.jpg?v=1627982256"
     ],
     "inStock": true,
     "specs": [],
@@ -71499,7 +71499,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_c2377976-94ae-4db4-b8b5-ed0a8d9c4e67.jpg?v=1627982276"
     ],
     "inStock": true,
     "specs": [],
@@ -71517,7 +71517,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 19,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNEA.jpg?v=1628003815"
     ],
     "inStock": true,
     "specs": [],
@@ -71535,7 +71535,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/WPB51B.jpg?v=1627981687"
     ],
     "inStock": true,
     "specs": [],
@@ -71553,7 +71553,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/WPB51Y.jpg?v=1627981850"
     ],
     "inStock": true,
     "specs": [],
@@ -71571,7 +71571,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/NoarkManualMotorStarters_6305e14d-3d7b-4d70-8417-6df70db0e7a2.jpg?v=1627981897"
     ],
     "inStock": true,
     "specs": [],
@@ -71590,7 +71590,7 @@ export const noarkScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 11,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/ASNEB.jpg?v=1628003966"
     ],
     "inStock": true,
     "specs": [],

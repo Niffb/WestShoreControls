@@ -16,7 +16,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-02.jpg?v=1629046430"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 10,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-03.jpg?v=1629046456"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BSF01.jpg?v=1629044853"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ADP.jpg?v=1629040872"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-S100LCDDIGITALKEYPAD.jpg?v=1652601615"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KU1.V.png?v=1610528341"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_KU2.V.png?v=1610528342"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/LK10.png?v=1610528343"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_LK10-YR.png?v=1610528345"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_L300AD11.png?v=1610528346"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Katko_OKA-KULK10Y-R.jpg?v=1610528347"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 47,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CS-050-14A-SF1.jpg?v=1629045038"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CS-080-20A-SF1.jpg?v=1629045066"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CSH-036-8A-SF1.jpg?v=1629045158"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-CS-110-26A-SF1.jpg?v=1629045180"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PU07_FR-PU07-01.jpg?v=1629040716"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-ADP.jpg?v=1629040872"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/Tower_Light_Bases_f0a6e4a1-1e81-41e1-b5fa-99e33e00028e.jpg?v=1614956908"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FFR-MSH-040-8A-SF1.jpg?v=1629090942"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7VF8000342.jpg?v=1652552889"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000344.jpg?v=1652549046"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 76,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7VF8000343.jpg?v=1652549136"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 51,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000345.jpg?v=1652549169"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 90,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000346.jpg?v=1652549191"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000347.jpg?v=1652549215"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7VF8000348.jpg?v=1652549254"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5ALCDDIGITALKEYPAD.jpg?v=1652616801"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AKEYPADCOVER.jpg?v=1652616821"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 58,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IP5AKEYPADBRACKET.jpg?v=1652616843"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEB.jpg?v=1652612215"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEA.jpg?v=1652612244"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULED.jpg?v=1652612466"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEC.jpg?v=1652612497"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEE.jpg?v=1652612524"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-H100FLANGEMODULEF.jpg?v=1652612572"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iC5MODBUSRTU.jpg?v=1652544164"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 92,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB4.jpg?v=1629044534"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7ENCODERCARD.jpg?v=1652548377"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-iS7R-NET.jpg?v=1652548661"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF.jpg?v=1629044713"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 101,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF-H.jpg?v=1629044738"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-02.jpg?v=1629046430"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E7CN-03.jpg?v=1629046456"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 103,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7GRAPHICALLCDDIGITALKEYPAD.jpg?v=1652548219"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7KEYPADMOUNTINGKIT.jpg?v=1652548239"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 49,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF.jpg?v=1629044713"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BIF-H.jpg?v=1629044738"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 52,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-BSF01.jpg?v=1629044853"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-PA07.jpg?v=1629044376"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const generalelectricOther_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 5,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-RJ45-HUB4.jpg?v=1629044534"
     ],
     "inStock": true,
     "specs": [],

@@ -538,7 +538,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 75,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/SV-IS7SOFTWAREDOWNLOADKIT.jpg?v=1652548717"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-008.jpg?v=1629091350"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 57,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-015.jpg?v=1629091390"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-030.jpg?v=1629091424"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 63,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E710W-050.jpg?v=1629091452"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 183,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-008.jpg?v=1629091473"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-015.jpg?v=1629091501"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-030.jpg?v=1629091521"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 171,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-050.jpg?v=1629091600"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 46,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-110.jpg?v=1629091632"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 153,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720S-080.jpg?v=1629091654"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 55,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-015.jpg?v=1629091676"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 99,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-030.jpg?v=1629091697"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-008.jpg?v=1629091720"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 196,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-050.jpg?v=1629091781"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-080.jpg?v=1629091815"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 170,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-110.jpg?v=1629091849"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 202,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-175.jpg?v=1629091876"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-240.jpg?v=1629091912"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 204,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-470.jpg?v=1629091950"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 17,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-330.jpg?v=1629091983"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-016.jpg?v=1629092023"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 108,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E720-600.jpg?v=1629092048"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-026.jpg?v=1629092084"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 151,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-040.jpg?v=1629092111"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 203,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-060.jpg?v=1629092141"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 187,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-120.jpg?v=1629092182"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 115,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-095.jpg?v=1629092215"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-230.jpg?v=1629092244"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 168,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-170.jpg?v=1629092265"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const unknowndrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 148,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-E740-300.jpg?v=1629092287"
     ],
     "inStock": true,
     "specs": [],

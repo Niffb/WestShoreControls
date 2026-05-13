@@ -1654,7 +1654,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 119,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8TP.jpg?v=1650457248"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 171,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8TAT.jpg?v=1629040901"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8TR.jpg?v=1629040922"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8TAT.jpg?v=1629040901"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 197,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/FR-A8TR.jpg?v=1629040922"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-G.jpg?v=1650512282"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 202,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-H.jpg?v=1650512314"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 208,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-J.jpg?v=1650512357"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-K.jpg?v=1650512474"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-L.jpg?v=1650512522"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 184,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/MitsubishiBox_ec1e573a-5b9a-4254-a430-69c2ae828c05.jpg?v=1628418698"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 54,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/AF8FN-N.jpg?v=1650512581"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 114,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CK-5567.jpg?v=1629094771"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CK-27.jpg?v=1629094800"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 150,
     "images": [
-      "/placeholder.jpg"
+      "https://cdn.shopify.com/s/files/1/2271/2319/products/CK-87.jpg?v=1629094820"
     ],
     "inStock": true,
     "specs": [],
