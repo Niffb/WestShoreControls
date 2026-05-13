@@ -16,7 +16,7 @@ export const teconnectivityother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

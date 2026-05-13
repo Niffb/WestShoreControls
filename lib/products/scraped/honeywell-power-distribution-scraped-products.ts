@@ -16,7 +16,7 @@ export const honeywellpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_811822e7-34c9-44a6-ac20-6d2e7e17b91e_large.jpg?v=1605074357"
     ],
     "inStock": true,
     "specs": [],

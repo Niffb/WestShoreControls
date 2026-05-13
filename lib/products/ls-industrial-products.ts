@@ -18,8 +18,8 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 156,
     images: [
-      "products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg",
-      "products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg"
+      "/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg",
+      "/assets/images/products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg"
     ],
     inStock: true,
     badge: "Advanced",
@@ -51,8 +51,8 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 234,
     images: [
-      "images/products/ls_industrial/vfd_series/LS_Starvert_iE5_-_VFD_medium.avif",
-      "products/ls_industrial/medium_voltage_VFD_medium_voltage_VFD_medium-voltage-vfd-300x300_28da3219.jpg"
+      "/assets/images/products/ls_industrial/vfd_series/LS_Starvert_iE5_-_VFD_medium.avif",
+      "/assets/images/products/ls_industrial/medium_voltage_VFD_medium_voltage_VFD_medium-voltage-vfd-300x300_28da3219.jpg"
     ],
     inStock: true,
     badge: "Energy Efficient",
@@ -84,10 +84,10 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.6,
     reviews: 298,
     images: [
-      "products/ls_industrial/Magnetic_Contactor_meta-MEC-img_b088404f.png",
-      "products/ls_industrial/magnetic_contactors/Magnetic Contactor.jpg",
-      "products/ls_industrial/magnetic_contactors/Magnetic Contactor (1).jpg",
-      "products/ls_industrial/magnetic_contactors/Magnetic Contactor (2).jpg"
+      "/assets/images/products/ls_industrial/Magnetic_Contactor_meta-MEC-img_b088404f.png",
+      "/assets/images/products/ls_industrial/magnetic_contactors/Magnetic Contactor.jpg",
+      "/assets/images/products/ls_industrial/magnetic_contactors/Magnetic Contactor (1).jpg",
+      "/assets/images/products/ls_industrial/magnetic_contactors/Magnetic Contactor (2).jpg"
     ],
     inStock: true,
     specs: [
@@ -118,7 +118,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 187,
     images: [
-      "products/ls_industrial/Overload_Relay_susol-overload-300x300_e0fd1b9f.jpg"
+      "/assets/images/products/ls_industrial/Overload_Relay_susol-overload-300x300_e0fd1b9f.jpg"
     ],
     inStock: true,
     specs: [
@@ -594,7 +594,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.6,
     reviews: 156,
     images: [
-      "products/ls_industrial/Softstarters_motor-soft-starter-medium-voltage-controller-19851-5172985-300x300_1a89c0b6.jpg"
+      "/assets/images/products/ls_industrial/Softstarters_motor-soft-starter-medium-voltage-controller-19851-5172985-300x300_1a89c0b6.jpg"
     ],
     inStock: true,
     specs: [
@@ -625,7 +625,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 123,
     images: [
-      "products/ls_industrial/smart-IO_smart-IO_smart-IO-300x300_d44e4fcd.jpg"
+      "/assets/images/products/ls_industrial/smart-IO_smart-IO_smart-IO-300x300_d44e4fcd.jpg"
     ],
     inStock: true,
     badge: "Smart",
@@ -848,8 +848,8 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.8,
     reviews: 89,
     images: [
-      "products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg",
-      "products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg"
+      "/assets/images/products/ls_industrial/Programmable_Logic_Controls_HMI_XGT-300x300_406e406a.jpg",
+      "/assets/images/products/ls_industrial/XGT-panel-HMI_XGT-panel-HMI_XGT-panel-HMI-300x300_06fff377.jpg"
     ],
     inStock: true,
     badge: "Integrated System",
@@ -881,7 +881,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 276,
     images: [
-      "products/ls_industrial/Overload_Relay_susol-overload-300x300_e0fd1b9f.jpg"
+      "/assets/images/products/ls_industrial/Overload_Relay_susol-overload-300x300_e0fd1b9f.jpg"
     ],
     inStock: true,
     specs: [
@@ -912,7 +912,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.7,
     reviews: 134,
     images: [
-      "products/ls_industrial/master-K_master-K_master-K-300x300_71e634ff.jpg"
+      "/assets/images/products/ls_industrial/master-K_master-K_master-K-300x300_71e634ff.jpg"
     ],
     inStock: true,
     badge: "Modular",
@@ -944,7 +944,7 @@ export const lsIndustrialProducts: Product[] = [
     rating: 4.5,
     reviews: 189,
     images: [
-      "products/ls_industrial/Manual_Motor_Starter_susol-circuit-breakers-300x300_622af47f.jpg"
+      "/assets/images/products/ls_industrial/Manual_Motor_Starter_susol-circuit-breakers-300x300_622af47f.jpg"
     ],
     inStock: true,
     specs: [

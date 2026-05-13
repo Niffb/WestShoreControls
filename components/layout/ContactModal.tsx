@@ -1,42 +1,20 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import Image from 'next/image'
-import { XMarkIcon, EnvelopeIcon, BuildingOfficeIcon, PhoneIcon, UserIcon } from '@heroicons/react/24/outline'
+import { XMarkIcon, EnvelopeIcon, BuildingOfficeIcon, PhoneIcon, UserIcon, MapPinIcon, ClockIcon } from '@heroicons/react/24/outline'
 
 const RECIPIENTS = 'mmarelic@westshorecontrols.com,mjesty@westshorecontrols.com'
+const PHONE_DISPLAY = '(604) 817-0987'
+const PHONE_TEL = '+16048170987'
 
-interface RequestQuoteModalProps {
+interface ContactModalProps {
   isOpen: boolean
   onClose: () => void
-  productName?: string
-  productModel?: string
-  productBrand?: string
 }
 
-function buildDefaultMessage(productName?: string, productModel?: string, productBrand?: string) {
-  const lines = ['Hello,', '', 'I would like to request a quote for the following product:', '']
-  if (productBrand) lines.push(`Brand: ${productBrand}`)
-  if (productName) lines.push(`Product: ${productName}`)
-  if (productModel) lines.push(`Model: ${productModel}`)
-  lines.push('', 'Quantity needed: ', 'Application / project details: ', '', 'Please provide pricing and availability.', '', 'Thank you')
-  return lines.join('\n')
-}
-
-function buildEmailBody(
-  form: { name: string; email: string; company: string; phone: string; message: string },
-  productName?: string,
-  productModel?: string,
-  productBrand?: string,
-) {
+function buildEmailBody(form: { name: string; email: string; company: string; phone: string; message: string }) {
   const lines: string[] = []
-  if (productName || productModel || productBrand) {
-    lines.push('── Product ──────────────────────')
-    if (productBrand) lines.push(`Brand:   ${productBrand}`)
-    if (productName) lines.push(`Name:    ${productName}`)
-    if (productModel) lines.push(`Model:   ${productModel}`)
-    lines.push('')
-  }
   lines.push('── Contact ──────────────────────')
   lines.push(`Name:    ${form.name}`)
   lines.push(`Email:   ${form.email}`)
@@ -48,22 +26,11 @@ function buildEmailBody(
   return lines.join('\n')
 }
 
-export default function RequestQuoteModal({
-  isOpen,
-  onClose,
-  productName,
-  productModel,
-  productBrand,
-}: RequestQuoteModalProps) {
+export default function ContactModal({ isOpen, onClose }: ContactModalProps) {
+  const [mode, setMode] = useState<'choose' | 'email'>('choose')
   const [form, setForm] = useState({ name: '', email: '', company: '', phone: '', message: '' })
   const [status, setStatus] = useState<'idle' | 'sent'>('idle')
   const [sentLinks, setSentLinks] = useState<{ mailto: string; gmail: string; outlook: string; yahoo: string } | null>(null)
-
-  useEffect(() => {
-    if (isOpen) {
-      setForm(prev => ({ ...prev, message: buildDefaultMessage(productName, productModel, productBrand) }))
-    }
-  }, [isOpen, productName, productModel, productBrand])
 
   if (!isOpen) return null
 
@@ -74,8 +41,8 @@ export default function RequestQuoteModal({
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
 
-    const subject = `Quote Request: ${productName || 'Product Inquiry'} — ${form.name}`
-    const body = buildEmailBody(form, productName, productModel, productBrand)
+    const subject = `Website Inquiry — ${form.name}`
+    const body = buildEmailBody(form)
 
     const mailto = `mailto:${RECIPIENTS}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
     const gmail = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(RECIPIENTS)}&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
@@ -90,9 +57,10 @@ export default function RequestQuoteModal({
   function handleClose() {
     onClose()
     setTimeout(() => {
+      setMode('choose')
       setStatus('idle')
       setSentLinks(null)
-      setForm({ name: '', email: '', company: '', phone: '', message: buildDefaultMessage(productName, productModel, productBrand) })
+      setForm({ name: '', email: '', company: '', phone: '', message: '' })
     }, 300)
   }
 
@@ -103,13 +71,13 @@ export default function RequestQuoteModal({
     >
       <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" />
 
-      <div className="relative w-full max-w-4xl max-h-[90vh] bg-white rounded-2xl shadow-2xl overflow-hidden flex flex-col">
+      <div className="relative w-full max-w-2xl max-h-[90vh] bg-white rounded-2xl shadow-2xl overflow-hidden flex flex-col">
 
         {/* Header */}
         <div className="flex items-center justify-between px-8 py-5 border-b border-gray-100 bg-white shrink-0">
           <div>
-            <h2 className="text-xl font-bold text-gray-900">Request a Quote</h2>
-            <p className="text-sm text-gray-500 mt-0.5">Fill in your details and we'll get back to you promptly</p>
+            <h2 className="text-xl font-bold text-gray-900">Get in touch</h2>
+            <p className="text-sm text-gray-500 mt-0.5">Call us directly or send a message</p>
           </div>
           <button
             onClick={handleClose}
@@ -174,58 +142,90 @@ export default function RequestQuoteModal({
               Close
             </button>
           </div>
+        ) : mode === 'choose' ? (
+          <div className="p-8 space-y-4 overflow-y-auto">
+            <a
+              href={`tel:${PHONE_TEL}`}
+              className="group flex items-center gap-4 p-5 rounded-2xl border border-gray-200 hover:border-red-300 hover:bg-red-50/40 transition-colors"
+            >
+              <div className="w-12 h-12 rounded-xl bg-red-50 group-hover:bg-red-100 flex items-center justify-center transition-colors">
+                <PhoneIcon className="h-6 w-6 text-red-600" />
+              </div>
+              <div className="flex-1">
+                <p className="text-sm font-semibold text-gray-900">Call us</p>
+                <p className="text-base font-medium text-gray-700">{PHONE_DISPLAY}</p>
+              </div>
+              <span className="text-xs font-semibold uppercase tracking-widest text-red-600 group-hover:translate-x-0.5 transition-transform">
+                Call →
+              </span>
+            </a>
+
+            <button
+              type="button"
+              onClick={() => setMode('email')}
+              className="group flex items-center gap-4 p-5 rounded-2xl border border-gray-200 hover:border-gray-300 hover:bg-gray-50 transition-colors w-full text-left"
+            >
+              <div className="w-12 h-12 rounded-xl bg-gray-100 group-hover:bg-gray-200 flex items-center justify-center transition-colors">
+                <EnvelopeIcon className="h-6 w-6 text-gray-700" />
+              </div>
+              <div className="flex-1">
+                <p className="text-sm font-semibold text-gray-900">Send a message</p>
+                <p className="text-sm text-gray-500">We'll get back to you promptly</p>
+              </div>
+              <span className="text-xs font-semibold uppercase tracking-widest text-gray-500 group-hover:text-gray-900 group-hover:translate-x-0.5 transition-all">
+                Email →
+              </span>
+            </button>
+
+            <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 pt-3 text-xs text-gray-500">
+              <span className="flex items-center gap-1.5">
+                <MapPinIcon className="h-3.5 w-3.5 text-gray-400" />
+                Vancouver, BC
+              </span>
+              <span className="flex items-center gap-1.5">
+                <ClockIcon className="h-3.5 w-3.5 text-gray-400" />
+                Mon–Fri 8:00–17:00
+              </span>
+            </div>
+          </div>
         ) : (
-          <form onSubmit={handleSubmit} className="flex flex-col lg:flex-row flex-1 overflow-hidden">
+          <form onSubmit={handleSubmit} className="flex flex-col gap-5 p-8 overflow-y-auto">
+            <button
+              type="button"
+              onClick={() => setMode('choose')}
+              className="self-start text-xs font-semibold uppercase tracking-widest text-gray-400 hover:text-gray-700 transition-colors"
+            >
+              ← Back
+            </button>
 
-            {/* Left column — product + contact */}
-            <div className="flex flex-col gap-6 p-8 lg:w-1/2 overflow-y-auto border-b lg:border-b-0 lg:border-r border-gray-100">
+            <div className="space-y-4">
+              <div className="relative">
+                <UserIcon className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400 pointer-events-none" />
+                <input
+                  name="name"
+                  type="text"
+                  required
+                  value={form.name}
+                  onChange={handleChange}
+                  placeholder="Full name *"
+                  className="w-full pl-10 pr-4 py-3 text-sm border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent bg-white"
+                />
+              </div>
 
-              {/* Product card */}
-              {(productName || productModel || productBrand) && (
-                <div className="rounded-2xl border border-gray-200 bg-gray-50 p-5">
-                  <p className="text-xs font-semibold uppercase tracking-widest text-gray-400 mb-3">Product</p>
-                  {productBrand && (
-                    <span className="inline-block px-2.5 py-1 text-xs font-medium bg-red-50 text-red-600 rounded-lg mb-2">
-                      {productBrand}
-                    </span>
-                  )}
-                  {productName && <p className="text-base font-semibold text-gray-900 leading-snug">{productName}</p>}
-                  {productModel && (
-                    <p className="mt-1 text-sm text-gray-500 font-mono">{productModel}</p>
-                  )}
-                </div>
-              )}
+              <div className="relative">
+                <EnvelopeIcon className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400 pointer-events-none" />
+                <input
+                  name="email"
+                  type="email"
+                  required
+                  value={form.email}
+                  onChange={handleChange}
+                  placeholder="Email address *"
+                  className="w-full pl-10 pr-4 py-3 text-sm border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent bg-white"
+                />
+              </div>
 
-              {/* Contact fields */}
-              <div className="space-y-4">
-                <p className="text-xs font-semibold uppercase tracking-widest text-gray-400">Your Details</p>
-
-                <div className="relative">
-                  <UserIcon className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400 pointer-events-none" />
-                  <input
-                    name="name"
-                    type="text"
-                    required
-                    value={form.name}
-                    onChange={handleChange}
-                    placeholder="Full name *"
-                    className="w-full pl-10 pr-4 py-3 text-sm border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent bg-white"
-                  />
-                </div>
-
-                <div className="relative">
-                  <EnvelopeIcon className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400 pointer-events-none" />
-                  <input
-                    name="email"
-                    type="email"
-                    required
-                    value={form.email}
-                    onChange={handleChange}
-                    placeholder="Email address *"
-                    className="w-full pl-10 pr-4 py-3 text-sm border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent bg-white"
-                  />
-                </div>
-
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="relative">
                   <BuildingOfficeIcon className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400 pointer-events-none" />
                   <input
@@ -250,43 +250,33 @@ export default function RequestQuoteModal({
                   />
                 </div>
               </div>
+
+              <textarea
+                name="message"
+                required
+                value={form.message}
+                onChange={handleChange}
+                rows={6}
+                placeholder="How can we help? *"
+                className="w-full px-4 py-3 text-sm border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent resize-none bg-white leading-relaxed"
+              />
             </div>
 
-            {/* Right column — message + submit */}
-            <div className="flex flex-col gap-6 p-8 lg:w-1/2 overflow-y-auto">
-              <div className="flex flex-col flex-1 gap-2">
-                <p className="text-xs font-semibold uppercase tracking-widest text-gray-400">Message</p>
-                <textarea
-                  name="message"
-                  required
-                  value={form.message}
-                  onChange={handleChange}
-                  rows={14}
-                  className="w-full flex-1 px-4 py-3 text-sm border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent resize-none bg-white font-mono leading-relaxed"
-                />
-              </div>
-
-              <div className="flex gap-3">
-                <button
-                  type="button"
-                  onClick={handleClose}
-                  className="flex-1 px-4 py-3 text-sm font-medium text-gray-700 bg-white border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors"
-                >
-                  Cancel
-                </button>
-                <button
-                  type="submit"
-                  className="flex-2 px-8 py-3 text-sm font-semibold text-white bg-red-600 rounded-xl hover:bg-red-700 transition-colors flex items-center justify-center gap-2"
-                >
-                  Send Quote Request
-                </button>
-              </div>
-
-              <p className="text-xs text-center text-gray-400">
-                We will get back to you as soon as possible.
-              </p>
+            <div className="flex gap-3">
+              <button
+                type="button"
+                onClick={handleClose}
+                className="flex-1 px-4 py-3 text-sm font-medium text-gray-700 bg-white border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors"
+              >
+                Cancel
+              </button>
+              <button
+                type="submit"
+                className="flex-1 px-8 py-3 text-sm font-semibold text-white bg-red-600 rounded-xl hover:bg-red-700 transition-colors"
+              >
+                Send Message
+              </button>
             </div>
-
           </form>
         )}
       </div>

@@ -16,7 +16,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const noarkled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

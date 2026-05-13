@@ -13,7 +13,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 2,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -32,7 +32,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -50,7 +50,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -69,7 +69,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -87,7 +87,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -125,7 +125,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -143,7 +143,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -162,7 +162,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -180,7 +180,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": false,
     "specs": [],
@@ -198,7 +198,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -216,7 +216,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -234,7 +234,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -252,7 +252,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": false,
     "specs": [],
@@ -270,7 +270,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -289,7 +289,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -307,7 +307,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -326,7 +326,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -345,7 +345,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -363,7 +363,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -381,7 +381,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -400,7 +400,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -418,7 +418,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -436,7 +436,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -454,7 +454,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -472,7 +472,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_large.jpg?v=1605073858"
     ],
     "inStock": true,
     "specs": [],
@@ -490,7 +490,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_5be15365-91c6-42a4-b5d6-6962aa374133_large.jpg?v=1605073859"
     ],
     "inStock": true,
     "specs": [],
@@ -508,7 +508,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_306358c0-3dba-4c96-ac56-8c66cdbcfe60_large.jpg?v=1605073860"
     ],
     "inStock": true,
     "specs": [],
@@ -526,7 +526,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_c5529de3-eb12-44f7-a6f2-37ae7117cffe_large.jpg?v=1605073861"
     ],
     "inStock": true,
     "specs": [],
@@ -544,7 +544,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_62eeb4b6-4a92-4adf-9336-d07a1123aaaa_large.jpg?v=1605073862"
     ],
     "inStock": true,
     "specs": [],
@@ -562,7 +562,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_0ea2c199-6c32-46b4-abbb-74d1b170991d_large.jpg?v=1605073863"
     ],
     "inStock": true,
     "specs": [],
@@ -580,7 +580,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_6e9d5bab-e0f8-404a-8310-e53d2a0c23be_large.jpg?v=1605073864"
     ],
     "inStock": true,
     "specs": [],
@@ -598,7 +598,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_17368e6d-af95-4cdd-a420-b85b8337f567_large.jpg?v=1605073865"
     ],
     "inStock": true,
     "specs": [],
@@ -616,7 +616,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_151bc8b5-015f-44f1-ad23-d82ac5d0f93b_large.jpg?v=1605073867"
     ],
     "inStock": true,
     "specs": [],
@@ -634,7 +634,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_7c1190b2-361f-474a-b5af-5b712353728c_large.jpg?v=1605073868"
     ],
     "inStock": true,
     "specs": [],
@@ -652,7 +652,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_386da5e3-388a-413d-afda-54673500660f_large.jpg?v=1604838602"
     ],
     "inStock": true,
     "specs": [],
@@ -670,7 +670,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_0cac5a3b-11db-45c7-9d48-e5262f40c842_large.jpg?v=1604838609"
     ],
     "inStock": true,
     "specs": [],
@@ -688,7 +688,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 0,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ReinforcedCompactBusbarSupportwithNeutralCircuit_6c7f5629-fa3e-444e-b1bc-52f425cc0a3f_large.jpg?v=1604838599"
     ],
     "inStock": false,
     "specs": [],
@@ -707,7 +707,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_large.jpg?v=1604838596"
     ],
     "inStock": false,
     "specs": [],
@@ -726,7 +726,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_2696b415-ee01-462d-9505-5002b521707d_large.jpg?v=1605085113"
     ],
     "inStock": true,
     "specs": [],
@@ -745,7 +745,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_ed164580-d251-4aad-8554-c1bfe85d4e6e_large.jpg?v=1605085104"
     ],
     "inStock": true,
     "specs": [],
@@ -763,7 +763,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_62f6850b-6b04-4a30-ac3e-7f6b36857182_large.jpg?v=1605085106"
     ],
     "inStock": true,
     "specs": [],
@@ -781,7 +781,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_b1e6b97c-19e6-44da-920c-ae8aeca666c8_large.jpg?v=1605085094"
     ],
     "inStock": false,
     "specs": [],
@@ -800,7 +800,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_64d2bd2c-748d-46b4-8de0-12d3170225f3_large.jpg?v=1605085099"
     ],
     "inStock": true,
     "specs": [],
@@ -818,7 +818,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_6fda17ff-ab90-4a1b-b0a0-0524c36f3170_large.jpg?v=1605085085"
     ],
     "inStock": true,
     "specs": [],
@@ -836,7 +836,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_fb01ddb1-6ef5-48db-ae4e-6536d0dd02e9_large.jpg?v=1605085088"
     ],
     "inStock": true,
     "specs": [],
@@ -854,7 +854,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_de916f1b-274f-4ce2-bf88-4d955186a89e_large.jpg?v=1605085078"
     ],
     "inStock": false,
     "specs": [],
@@ -872,7 +872,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 1,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_9efd2b46-d7b9-4d38-b62d-9adec0146548_large.jpg?v=1605085078"
     ],
     "inStock": true,
     "specs": [],
@@ -891,7 +891,7 @@ export const schneiderelectricScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_c360de4c-a1cc-4181-8fe7-8b00b47669a6_large.jpg?v=1605085083"
     ],
     "inStock": false,
     "specs": [],

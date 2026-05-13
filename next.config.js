@@ -40,7 +40,7 @@ const nextConfig = {
   images: {
     disableStaticImages: false, // Enable static image imports
     unoptimized: false, // Re-enable optimization
-    domains: ['localhost', 'westshorecontrols.com', 'cdn.kyklo.co', 'tmeic.com', 'www.tmeic.com', 'live-tmeic.pantheonsite.io', 'www.lselectricamerica.com', 'lselectricamerica.com', 'www.ls-electric.com', 'ls-electric.com', 'cdn.shopify.com', 'katko.com', 'na.noark-electric.com', 'products.na.noark-electric.com', 'www.klemsan.com.tr', 'klemsan.com.tr', 'elsteel.com', 'www.elsteel.com', 'alfaelectric.com', 'www.alfaelectric.com', 'us.mitsubishielectric.com', 'www.mitsubishielectric.com', 'mitsubishielectric.com'],
+    domains: ['localhost', 'westshorecontrols.com', 'cdn.kyklo.co', 'tmeic.com', 'www.tmeic.com', 'live-tmeic.pantheonsite.io', 'www.lselectricamerica.com', 'lselectricamerica.com', 'www.ls-electric.com', 'ls-electric.com', 'cdn.shopify.com', 'katko.com', 'na.noark-electric.com', 'products.na.noark-electric.com', 'www.klemsan.com.tr', 'klemsan.com.tr', 'elsteel.com', 'www.elsteel.com', 'alfaelectric.com', 'www.alfaelectric.com', 'us.mitsubishielectric.com', 'www.mitsubishielectric.com', 'mitsubishielectric.com', 'lowcostcontrols.com'],
     remotePatterns: [],
     minimumCacheTTL: 31536000, // 1 year
     formats: ['image/webp', 'image/avif'],

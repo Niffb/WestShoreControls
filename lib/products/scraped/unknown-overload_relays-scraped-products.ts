@@ -16,7 +16,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_660f3a59-b635-42a0-a180-2366a5c5bbd9_large.jpg?v=1605023420"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_c0af0216-2393-44f2-9501-8dee6d790955_large.jpg?v=1605023420"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_75217ba5-753c-4dad-ae9e-bbbb1479f5b3_large.jpg?v=1605023401"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_c1cbcace-20eb-4d78-828a-da1536a23ece_large.jpg?v=1605023402"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_122b3274-cbd5-4eaa-961c-44c5afc72e17_large.jpg?v=1605023396"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_209e841e-f9e8-4b6d-bb2f-8af5146213fd_large.jpg?v=1605023389"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_d18adee2-094f-4781-9b7a-82a2fa126d66_large.jpg?v=1605023386"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_55c0da24-6aaf-488c-802a-2cec48ba3b16_large.jpg?v=1605023383"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_58e8c642-fbb0-466e-9ae4-60221bd9dcb7_large.jpg?v=1605023380"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_2e61bd5f-9960-469e-ad80-7f63c6e609e8_large.jpg?v=1605023363"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_99543825-0ef8-4d07-8aaf-5f01a3afbf0e_large.jpg?v=1605023376"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_b5c6caf7-37d5-41cc-90f1-42124d6ff872_large.jpg?v=1605023357"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_5b4dd660-90f1-47ed-8885-15a9ff90286b_large.jpg?v=1605023360"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_6234b032-1c7c-48cc-8ad0-ddd57c4d5841_large.jpg?v=1605023350"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_746b519d-5851-452e-b85b-cd80911568d9_large.jpg?v=1605023355"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_327b3f72-8a14-4b02-8aa3-3f0c04a9bc64_large.jpg?v=1605023341"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_7053df1c-d606-4b35-8654-a0f785291d18_large.jpg?v=1605023330"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_08c63622-07f2-4925-93e4-6b8a139a14ad_large.jpg?v=1605023338"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/FR-BU2-1.5K_large.webp"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_large.jpg?v=1605073858"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_5be15365-91c6-42a4-b5d6-6962aa374133_large.jpg?v=1605073859"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_306358c0-3dba-4c96-ac56-8c66cdbcfe60_large.jpg?v=1605073860"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_c5529de3-eb12-44f7-a6f2-37ae7117cffe_large.jpg?v=1605073861"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_62eeb4b6-4a92-4adf-9336-d07a1123aaaa_large.jpg?v=1605073862"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_0ea2c199-6c32-46b4-abbb-74d1b170991d_large.jpg?v=1605073863"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_6e9d5bab-e0f8-404a-8310-e53d2a0c23be_large.jpg?v=1605073864"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_17368e6d-af95-4cdd-a420-b85b8337f567_large.jpg?v=1605073865"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_151bc8b5-015f-44f1-ad23-d82ac5d0f93b_large.jpg?v=1605073867"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBSHY_Insulated_Braided_Conductor_for_Compact_Circuit_Breakers_7c1190b2-361f-474a-b5af-5b712353728c_large.jpg?v=1605073868"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_b5296941-9d33-4bb1-994e-0eb3cf890fd3_large.jpg?v=1605073218"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_a2f140da-d9d0-4ee2-88d5-d71a6b4efa50_large.jpg?v=1605073220"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_6b8ee33c-e6f0-4fcd-8f90-868239a57a49_large.jpg?v=1605073221"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_20428636-bf41-4c75-8566-5d63be872142_large.jpg?v=1605073222"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_f2e0f1ca-4066-4825-a20d-e15c45d9b212_large.jpg?v=1605073224"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_e9532bae-44a9-4898-ab0f-1d7dc68baea8_large.jpg?v=1605073225"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_b74625ab-689c-4fb7-b89d-8a6654169708_large.jpg?v=1605073228"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_b4de6198-073b-40a8-afcc-459c90b0de38_large.jpg?v=1605073230"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_11558b08-6798-437b-92f1-24a08ce54447_large.jpg?v=1605073231"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_c458fb26-5400-46d1-b079-4490f17e6d76_large.jpg?v=1605073232"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_1261960f-2272-4ae8-86df-a633d699c3ab_large.jpg?v=1605073234"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_8f9489ba-8316-46bd-914f-5dfe61c6f75c_large.jpg?v=1605073235"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_3516f517-9438-4d17-9d57-7b270d98eda7_large.jpg?v=1605073237"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_d2318c4e-5a73-45ac-884b-1335800eaff3_large.jpg?v=1605073238"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_7db5ea8f-afad-4a6d-a445-e3b251e7a2ed_large.jpg?v=1605073240"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_28f1ce84-b79f-4ac7-a7fc-dcb8bd910bf1_large.jpg?v=1605073241"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_d01efad9-15bf-4bb6-b010-662cc7654aec_large.jpg?v=1605073243"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_ab1fbaf8-1b94-4a3f-a2f6-b124469ffcf9_large.jpg?v=1605073244"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_4d5e9ab3-e4f7-4bdc-9e37-e4aa7f3adb01_large.jpg?v=1605073245"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_44dbe48b-8a78-4c59-874c-3c8951b73f86_large.jpg?v=1605073247"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_c3e62722-c1a0-4396-b91d-e077dd7ddd5a_large.jpg?v=1605073248"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_f4a4ed3c-0d9c-43ef-9566-84c3405393f2_large.jpg?v=1605073250"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_548779f4-9163-40fd-a459-0829099e5733_large.jpg?v=1605073251"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_b872cf42-770d-4762-8db6-7655723b1ca4_large.jpg?v=1605073253"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_a681cd19-490f-4cf5-9ad8-cf6eb597cfd5_large.jpg?v=1605073254"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_c2ce4b83-f139-4c3c-836d-6ecc7be104fe_large.jpg?v=1605073255"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_268d7523-1e88-41cd-abc8-90b096952197_large.jpg?v=1605073257"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_c60ffc52-1cba-47dd-a97f-cf46f7a26f5a_large.jpg?v=1605073258"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_4340c22b-6a52-4077-8ad4-0ed82cfa1d9f_large.jpg?v=1605073260"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_0ad75d09-c106-4de6-b3f0-91e468a008f8_large.jpg?v=1605073261"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_bde0d5d2-968d-4167-ab9e-bfdd032d3818_large.jpg?v=1605073262"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_dfe20290-0a84-4edf-96c6-fe50e040cdc8_large.jpg?v=1605073264"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_2aa6fd39-f34e-4f0d-8fef-13b66393154f_large.jpg?v=1605073265"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_c4069056-45e8-4544-81f4-e825e6f60692_large.jpg?v=1605073266"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_15312ad9-f453-4bce-9404-8df18b403acd_large.jpg?v=1605073268"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_9ede97ca-ef13-4adc-9320-947f71b5afaa_large.jpg?v=1605073269"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_5861d37a-7eaa-4536-99a7-d3faf6469bab_large.jpg?v=1605073270"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_df56f5cf-4dfc-456a-89e5-e62507454f9c_large.jpg?v=1605073272"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_f914daa9-19ce-4dfd-ac86-69076ea689ca_large.jpg?v=1605073273"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_fe789174-7327-45a0-aa58-54349d48711f_large.jpg?v=1605073275"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_8bac85a3-dd9f-40a2-9262-8d69fbac3984_large.jpg?v=1605073280"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_7328d079-b7f3-4160-bae5-b09ac6ec1353_large.jpg?v=1605073282"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_22b0caae-841a-48d0-a6a6-a35906eadcec_large.jpg?v=1605073283"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_0bcb2742-cb9b-4a23-9557-6e2239e92b95_large.jpg?v=1605073284"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_b7d4402b-5959-4bf5-8d3d-b45c9839ad65_large.jpg?v=1605073286"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_67633ef0-882c-462f-8bd9-8ecb57a9b160_large.jpg?v=1605073287"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_286fdc4d-029e-4f52-8095-de3ed92965cd_large.jpg?v=1605073289"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_6d6705c3-f3b1-44fb-8613-fcab84a3267b_large.jpg?v=1605073290"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_06112e9a-ce57-4e5e-b587-21bd18367034_large.jpg?v=1605073291"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_5c9230f6-e4d2-479b-be91-2106602094b7_large.jpg?v=1605073293"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_b6c7cf55-1dd1-45ea-b828-399c564a3e0b_large.jpg?v=1605073294"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_69531925-dc6e-4367-87c9-799b30b44a81_large.jpg?v=1605073296"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_e6b26269-8176-4b24-a82f-fae920e7ad7e_large.jpg?v=1605073297"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_c83e8ebe-2964-41a7-864e-6831afea8d9d_large.jpg?v=1605073299"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_8eed8659-0eed-4fad-be5d-9ae4d4eb0b08_large.jpg?v=1605073301"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_ccddc434-a20f-44d2-b46c-ea096cd347e9_large.jpg?v=1605073302"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_large.jpg?v=1605072334"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_8dbe8fa6-9f45-41be-840c-e78a685aaec0_large.jpg?v=1605072336"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_9a2e65ef-b087-4b03-a389-a020c8c7b8ac_large.jpg?v=1605072337"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_ef34f62a-5110-44a7-8042-cf808d2c3805_large.jpg?v=1605072338"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_25d44485-e0a7-491a-9a8e-78ce0f302b61_large.jpg?v=1605072339"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_1736afe9-aa2c-4e6e-9d92-c8f3f0f6cd0b_large.jpg?v=1605072340"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_9b02a374-f282-40ff-b218-37f49ccc9604_large.jpg?v=1605072341"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_5eda42de-73ba-4f24-93fd-73f5f423b4f2_large.jpg?v=1605072342"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_50757c85-d30f-4379-a14b-cddfb4089acc_large.jpg?v=1605072343"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_97e74506-6c41-43b5-927b-b7dcf2d0a4f0_large.jpg?v=1605072344"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_db9b4505-d38b-407e-a3f8-47651626a010_large.jpg?v=1605072345"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_2bf6117f-d2af-402b-9613-94b477c33a6b_large.jpg?v=1605072346"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_ac19c7e2-66ea-48d1-b4ea-42c308cdf36b_large.jpg?v=1605072347"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_97513bf3-77f9-4774-a82a-483acacb6a99_large.jpg?v=1605072348"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_545e2a65-0078-48d4-b526-34711f9682cd_large.jpg?v=1605072349"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_221338a2-5640-4a6e-88d0-c01eaaf40aed_large.jpg?v=1605072350"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_d47224cc-780c-4e4c-8d6e-e789db942020_large.jpg?v=1605072352"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_Advanced_Round_Insulated_Braided_Conductor_fa696a57-8a3e-4de0-a7bd-7f1d0d892d6e_large.jpg?v=1605072353"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_328fa8b4-94e2-4884-beef-a925f8769d1a_large.jpg?v=1609661432"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_845c4cdb-8c3d-47d2-b530-a9b323a9b238_large.jpg?v=1609661493"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_9189bd03-409a-49cc-9220-606ea1f1880c_large.jpg?v=1609661508"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_d6f0ef67-64ac-4142-8242-722757745f3d_large.jpg?v=1609661533"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_86571490-6555-4d24-9398-ecff5cb366c8_large.jpg?v=1609661583"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_f40a9809-50bb-4201-ba55-b8c472cf693d_large.jpg?v=1609661624"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_9dc6dbac-b542-44ea-a496-be657fc2ba6f_large.jpg?v=1609661649"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_798539c8-6531-42e9-86b1-2ab768624c0c_large.jpg?v=1609661669"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_7ddef2cd-daf4-49d8-a725-32d7e2a657c1_large.jpg?v=1609661713"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_7d2fffc2-4912-47bb-8007-dd45a76dc907_large.jpg?v=1609661732"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_123ad5a5-5d99-415b-9590-9fd103ed07cd_large.jpg?v=1609661754"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_e79b4de0-5ab6-4adb-b2fd-bf17da7c040d_large.jpg?v=1609661770"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_0233c276-4a42-4ebf-a48c-659d81865a94_large.jpg?v=1609661785"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_df7369c1-7b11-49ad-91fb-51fd9d68d421_large.jpg?v=1609661798"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_ca71f081-a62c-412e-bc83-064dcbce5c12_large.jpg?v=1609661816"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_b9213bab-c148-45f5-96a7-acebb43ec178_large.jpg?v=1609661829"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_4a052b81-7666-4866-8d34-eff65c115c6b_large.jpg?v=1609661848"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_ef1eb907-81d8-41f2-a5c9-47482356c0bd_large.jpg?v=1609661860"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_c2877dbe-d9f6-4ed8-b008-9913b064c393_large.jpg?v=1609661875"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P120_c06b980e-1666-42ef-8a75-1552d72d94b7_large.jpg?v=1609661900"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P120_e608874e-0181-4ea7-9788-30f95fba2d0a_large.jpg?v=1609661919"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P120_9d744083-eb47-413b-958d-6cbace6c0a1b_large.jpg?v=1609661935"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_large.jpg?v=1609659449"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_2f009e2e-a603-4053-9c50-1ec1e9dd255f_large.jpg?v=1609659481"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_daa81568-2355-45f3-a6ba-589816b3f0db_large.jpg?v=1609659494"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_fa212648-d2d8-4492-bcd1-547f2cd6845a_large.jpg?v=1609659507"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_8f5735b5-2f74-4493-bdaf-d71f273e4a01_large.jpg?v=1609659522"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_e4c71127-426b-453c-8417-4c68e18516a2_large.jpg?v=1609659535"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_ee1783e0-640e-4a5b-87ca-164e88e9f56a_large.jpg?v=1609659548"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_b211aa99-f230-448d-b63d-cc99c3be31fc_large.jpg?v=1609659563"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_e2dea7ff-4538-490b-bf09-095e05011d45_large.jpg?v=1609659576"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_large.jpg?v=1609659588"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_ade9713b-b088-4fa2-bf12-2ad9ae6e372b_large.jpg?v=1609659604"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_878ec5f0-c26d-4bd8-82a8-aa2f3aabe951_large.jpg?v=1609659617"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_e291332c-099b-43df-b835-467e605f3c04_large.jpg?v=1609659632"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_31493c6d-1e5a-4bf6-bfd7-99ed868e7a7d_large.jpg?v=1609659667"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_4ce10a7f-103c-4c1f-b7fb-9370a6ade669_large.jpg?v=1609660123"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_0f95c27c-e856-4107-875a-431fb2101a26_large.jpg?v=1609660160"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_1cff0460-59a8-4ebd-bbb0-5e3be5ffa7a3_large.jpg?v=1609660192"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_5f472f06-3d95-4565-9259-536b23e492ed_large.jpg?v=1609660282"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_4d72832b-de82-4af6-bb6e-622966448bc0_large.jpg?v=1609660305"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_8db1d37d-071a-4e8b-a18f-1822754198d2_large.jpg?v=1609660320"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_2d628369-ae32-4640-875a-c58a63cd4d7d_large.jpg?v=1609660352"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_6e6bf9be-c74d-4152-b7f9-b0d66dba8246_large.jpg?v=1609660364"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P12_3bac7a6f-6468-4a88-b654-4801ef6aa6e2_large.jpg?v=1609660709"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_483dcc03-0898-4d6d-8145-94f9a811fe0e_large.jpg?v=1609660759"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_24390162-615f-4db6-a78a-2d9ef6332fea_large.jpg?v=1609660775"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_60f941dd-3fe7-4fec-b367-d10402d5f69b_large.jpg?v=1609660794"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_e94af30b-ce7c-43b7-b174-8e86654e3578_large.jpg?v=1609660812"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P20_b7304f76-acfb-42d7-84f7-ca7421d89376_large.jpg?v=1609660891"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P120_large.jpg?v=1609660993"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P120_1e088551-5d80-471c-bad1-e65000f3da02_large.jpg?v=1609661009"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const unknownOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P120_0c4509cc-87d1-464f-bcca-621e96bc1962_large.jpg?v=1609661028"
     ],
     "inStock": true,
     "specs": [],

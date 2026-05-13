@@ -16,7 +16,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectriccables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

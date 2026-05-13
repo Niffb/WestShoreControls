@@ -28,6 +28,7 @@
     "intersection-observer": "^0.12.2",
     "lucide-react": "^0.302.0",
     "next": "^14.2.29",
+    "nodemailer": "^8.0.7",
     "postcss": "^8.4.32",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -36,10 +37,10 @@
     "sharp": "^0.34.5",
     "tailwindcss": "^3.3.6",
     "typescript": "^5.3.3",
-    "resend": "^4.0.0",
     "web-vitals": "^5.0.3"
   },
   "devDependencies": {
+    "@types/nodemailer": "^8.0.0",
     "eslint": "^8.56.0",
     "eslint-config-next": "14.0.4",
     "lighthouse": "^11.4.0",

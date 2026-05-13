@@ -16,7 +16,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const hartingother_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

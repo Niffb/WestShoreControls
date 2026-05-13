@@ -23,12 +23,14 @@ export default function ProductGridWrapper({ categorySlug, categoryName }: Produ
           throw new Error('Failed to load products')
         }
         const data = await response.json()
-        // Filter out products that only have the default West Shore logo as their image
+        // Filter out products without a real product image (West Shore logo or placeholder)
         const filteredProducts = (data.products || []).filter((product: Product) => {
-          const hasDefaultLogo = product.images?.length === 1 &&
-            (product.images[0] === '/images/westlogo.jpg' ||
-              product.images[0]?.includes('westlogo'))
-          return !hasDefaultLogo
+          const firstImage = product.images?.[0] || ''
+          const hasNoRealImage = !firstImage ||
+            firstImage === '/images/westlogo.jpg' ||
+            firstImage.includes('westlogo') ||
+            firstImage.includes('placeholder')
+          return !hasNoRealImage
         })
         setProducts(filteredProducts)
       } catch (err) {

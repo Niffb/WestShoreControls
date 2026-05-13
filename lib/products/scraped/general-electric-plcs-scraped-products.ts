@@ -16,7 +16,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSBracketM_large.jpg?v=1604837874"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSFixingKit_large.jpg?v=1604837689"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSBracketT_large.jpg?v=1604837852"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSBracketSV_large.jpg?v=1604837855"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSBracketRV_large.jpg?v=1604837868"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSBracketE_large.jpg?v=1604837883"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_35ea16b2-bf7b-4c0d-a189-be7e5d6f52ef_large.jpg?v=1604836110"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_7b31587f-fe7b-4c4f-895f-494bd37a76fe_large.jpg?v=1604836094"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_33c674b5-6ad4-494e-a9f8-1bb2617aca27_large.jpg?v=1604836100"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_91feba08-6c7d-44c5-bc23-c94e8ceb408f_large.jpg?v=1604836092"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_974126a6-e837-49b7-96d7-4773517805c4_large.jpg?v=1604836088"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_57bef198-3815-4606-83b5-c9d37b1603ff_large.jpg?v=1604836082"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_5f687a68-63c7-4f1f-9ed5-98a24f96ab6d_large.jpg?v=1604836082"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_386da5e3-388a-413d-afda-54673500660f_large.jpg?v=1604838602"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectricplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_0cac5a3b-11db-45c7-9d48-e5262f40c842_large.jpg?v=1604838609"
     ],
     "inStock": true,
     "specs": [],

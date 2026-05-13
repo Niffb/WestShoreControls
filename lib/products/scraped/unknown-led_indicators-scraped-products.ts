@@ -16,7 +16,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const unknownLed_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

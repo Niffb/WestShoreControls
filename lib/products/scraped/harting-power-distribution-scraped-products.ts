@@ -16,7 +16,7 @@ export const hartingpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_e877aebb-96a1-48ca-ae2a-616294f54f59_large.jpg?v=1605070595"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const hartingpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_large.jpg?v=1605070435"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const hartingpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_837fd008-1002-49d3-a476-f5e584d41a89_large.jpg?v=1605069143"
     ],
     "inStock": true,
     "specs": [],

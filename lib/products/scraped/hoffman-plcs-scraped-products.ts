@@ -16,7 +16,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const hoffmanplcsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

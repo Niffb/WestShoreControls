@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { MapPinIcon, PhoneIcon, Bars3Icon } from '@heroicons/react/24/outline'
+import { MapPinIcon, PhoneIcon, Bars3Icon, ChatBubbleLeftRightIcon } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
 
 const navigation = [
@@ -62,20 +62,20 @@ export default function HeaderFallback() {
           </nav>
 
           <div className="flex items-center space-x-4">
-            <a
-              href="tel:+16048170987"
+            <span
               className="hidden lg:inline-flex items-center space-x-2 bg-primary-600 text-white px-4 py-2 rounded-md font-medium text-sm"
+              aria-hidden
             >
-              <PhoneIcon className="h-4 w-4" />
-              <span>Call Now</span>
-            </a>
-            <a
-              href="tel:+16048170987"
+              <ChatBubbleLeftRightIcon className="h-4 w-4" />
+              <span>Contact</span>
+            </span>
+            <span
               className="hidden sm:flex lg:hidden items-center space-x-2 text-primary-600 font-medium text-sm"
+              aria-hidden
             >
-              <PhoneIcon className="h-5 w-5" />
-              <span className="hidden md:inline">(604) 817-0987</span>
-            </a>
+              <ChatBubbleLeftRightIcon className="h-5 w-5" />
+              <span className="hidden md:inline">Contact</span>
+            </span>
             <span className="lg:hidden p-2 text-gray-400" aria-hidden>
               <Bars3Icon className="h-6 w-6" />
             </span>

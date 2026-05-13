@@ -16,7 +16,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknowncontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

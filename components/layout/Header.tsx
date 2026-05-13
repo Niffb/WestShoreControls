@@ -4,14 +4,21 @@ import { useState, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 import Image from 'next/image'
 import Link from 'next/link'
-import { Bars3Icon, XMarkIcon, PhoneIcon, MapPinIcon } from '@heroicons/react/24/outline'
+import { Bars3Icon, XMarkIcon, PhoneIcon, MapPinIcon, ChatBubbleLeftRightIcon } from '@heroicons/react/24/outline'
 import { getImageUrl } from '@/lib/config/image-config'
+import ContactModal from './ContactModal'
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [isScrolled, setIsScrolled] = useState(false)
   const [showTopBar, setShowTopBar] = useState(true)
+  const [isContactOpen, setIsContactOpen] = useState(false)
   const pathname = usePathname()
+
+  const openContact = () => {
+    setIsContactOpen(true)
+    setIsMenuOpen(false)
+  }
 
   const navigation = [
     { name: 'Home', href: '/' },
@@ -113,21 +120,23 @@ export default function Header() {
 
           {/* Right Side */}
           <div className="flex items-center space-x-4">
-            <a
-              href="tel:+16048170987"
+            <button
+              type="button"
+              onClick={openContact}
               className="hidden lg:inline-flex items-center space-x-2 bg-primary-600 hover:bg-primary-700 text-white px-4 py-2 rounded-md font-medium text-sm transition-colors duration-150"
             >
-              <PhoneIcon className="h-4 w-4" />
-              <span>Call Now</span>
-            </a>
+              <ChatBubbleLeftRightIcon className="h-4 w-4" />
+              <span>Contact</span>
+            </button>
 
-            <a
-              href="tel:+16048170987"
+            <button
+              type="button"
+              onClick={openContact}
               className="hidden sm:flex lg:hidden items-center space-x-2 text-primary-600 hover:text-primary-700 font-medium text-sm"
             >
-              <PhoneIcon className="h-5 w-5" />
-              <span className="hidden md:inline">(604) 817-0987</span>
-            </a>
+              <ChatBubbleLeftRightIcon className="h-5 w-5" />
+              <span className="hidden md:inline">Contact</span>
+            </button>
 
             <button
               className="lg:hidden p-2 text-gray-700 hover:text-gray-900 hover:bg-gray-50 rounded-md transition-colors duration-150"
@@ -177,18 +186,21 @@ export default function Header() {
                   <MapPinIcon className="h-4 w-4 inline mr-1" />
                   Vancouver, BC &middot; Mon-Fri 8:00-17:00
                 </div>
-                <a
-                  href="tel:+16048170987"
+                <button
+                  type="button"
+                  onClick={openContact}
                   className="flex items-center justify-center space-x-2 bg-primary-600 hover:bg-primary-700 text-white px-6 py-3 rounded-md font-medium transition-colors duration-150 w-full"
                 >
-                  <PhoneIcon className="h-5 w-5" />
-                  <span>Call (604) 817-0987</span>
-                </a>
+                  <ChatBubbleLeftRightIcon className="h-5 w-5" />
+                  <span>Contact us</span>
+                </button>
               </div>
             </div>
           </div>
         </>
       )}
+
+      <ContactModal isOpen={isContactOpen} onClose={() => setIsContactOpen(false)} />
     </header>
   )
 }

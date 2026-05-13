@@ -16,7 +16,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const generalelectricother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

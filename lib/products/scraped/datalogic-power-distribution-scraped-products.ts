@@ -16,7 +16,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_a7f24255-5750-4a73-ba7c-17d64a4d35a7_large.jpg?v=1604839996"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_62ed4399-0f51-42e2-8229-4097cd0a6468_large.jpg?v=1604839993"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_218a334a-850a-46d8-acbf-919ac7eeddbe_large.jpg?v=1604839989"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingSlot_c4a640c6-a30d-4c00-ae04-5e920ec51b4c_large.jpg?v=1604824397"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BMSBimetalPlate_411e1612-703d-473f-8273-cf58ecd48a7a_large.jpg?v=1604824614"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BMSBimetalPlate_large.jpg?v=1604824614"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_1f7b2a3a-ff8c-4b14-aee2-daf8686439bd_large.jpg?v=1605161666"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_e1a81731-e2b2-4c74-b220-abf9d695b93a_large.jpg?v=1605161667"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_cfc4f1e3-016f-402a-a9e7-7cefcad25355_large.jpg?v=1605161668"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_2c810ac7-4c8f-4d0c-bf18-04e682c3d1d3_large.jpg?v=1605161669"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_8d9aae9e-206d-4263-be1e-c66f77c2ae2b_large.jpg?v=1605161694"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_bfcc692f-5985-47db-9701-e14a9a379046_large.jpg?v=1605161697"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_a0181d23-3505-4b2c-9dda-d7355a90ea96_large.jpg?v=1605161698"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_74e464be-8559-49b0-a242-b37ad11ee345_large.jpg?v=1605161699"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_a5f3ba05-3388-4ded-b2e4-0349dfcd0158_large.jpg?v=1605161700"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_e21f2654-9807-405d-a4b8-851925b00ee8_large.jpg?v=1605161704"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_461fa44c-f97f-4f47-bf84-5300f95af016_large.jpg?v=1605161706"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_11b2e921-01f4-4985-9a39-d54c78456545_large.jpg?v=1605161707"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_12e61dba-15f8-4036-8ac0-37da585643b2_large.jpg?v=1605161708"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const datalogicpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_d1f1e3cc-8f82-4fb8-a0c1-1e965b6c78e6_large.jpg?v=1605161709"
     ],
     "inStock": true,
     "specs": [],

@@ -16,7 +16,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkManual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

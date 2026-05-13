@@ -13,7 +13,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_c0897705-2361-47bf-bca2-083a5614d6f2_large.jpg?v=1604847783"
     ],
     "inStock": true,
     "specs": [],
@@ -32,7 +32,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_1bcda660-e1fe-4c43-bfe8-5562ee81eed9_large.jpg?v=1604847727"
     ],
     "inStock": true,
     "specs": [],
@@ -50,7 +50,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_d961b44e-58b3-4046-9234-031b4844d08c_large.jpg?v=1604847716"
     ],
     "inStock": true,
     "specs": [],
@@ -68,7 +68,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 2,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_740194e0-018e-409f-a47b-9f7bc7e23144_large.jpg?v=1604847705"
     ],
     "inStock": true,
     "specs": [],
@@ -86,7 +86,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_b3393c28-99ef-46a2-ab20-d1bb1971bffb_large.jpg?v=1604847684"
     ],
     "inStock": true,
     "specs": [],
@@ -105,7 +105,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 2,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_a3df91bc-c37c-4ffc-890f-f2e1b11e148b_large.jpg?v=1604847694"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_1a6d4f4b-4d1f-4148-aa27-c7f85af0867a_large.jpg?v=1604847659"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_0d5c37d8-c873-4853-b893-69d3c2db86f9_large.jpg?v=1604847672"
     ],
     "inStock": true,
     "specs": [],
@@ -161,7 +161,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_d9354805-65af-4e63-8662-8b99f8afcc0a_large.jpg?v=1604847636"
     ],
     "inStock": true,
     "specs": [],
@@ -179,7 +179,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_large.jpg?v=1604847639"
     ],
     "inStock": true,
     "specs": [],
@@ -197,7 +197,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 3,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_0c1a010b-e229-4943-9271-5f541585dbb7_large.jpg?v=1605069203"
     ],
     "inStock": true,
     "specs": [],
@@ -216,7 +216,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 1,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_eb88a0bf-73c5-440f-b39e-288afea374e6_large.jpg?v=1605070555"
     ],
     "inStock": true,
     "specs": [],
@@ -234,7 +234,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 3,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_f55cc29c-9263-4faa-b56f-0dacf15ed215_large.jpg?v=1605070521"
     ],
     "inStock": true,
     "specs": [],
@@ -252,7 +252,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_10915dcc-1c80-4f8c-ac06-31e8dabe095d_large.jpg?v=1605070521"
     ],
     "inStock": true,
     "specs": [],
@@ -270,7 +270,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_b1525281-da04-4313-83d3-33fa1e36567b_large.jpg?v=1605070511"
     ],
     "inStock": true,
     "specs": [],
@@ -288,7 +288,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_aa935ff7-bba0-4b1e-83e1-1ab958b3f988_large.jpg?v=1605070506"
     ],
     "inStock": true,
     "specs": [],
@@ -306,7 +306,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_a8f65e87-ebd7-4b20-9c04-dc18ac4eb610_large.jpg?v=1605070497"
     ],
     "inStock": true,
     "specs": [],
@@ -324,7 +324,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_cc97bbd1-f0bc-4d01-b813-ac8c6547b736_large.jpg?v=1605070488"
     ],
     "inStock": false,
     "specs": [],
@@ -342,7 +342,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_44dbcc21-75cc-437f-ac15-b68d149942af_large.jpg?v=1605070493"
     ],
     "inStock": true,
     "specs": [],
@@ -360,7 +360,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_d3acda63-769d-4faa-b32c-a37f6fc79318_large.jpg?v=1605070484"
     ],
     "inStock": true,
     "specs": [],
@@ -378,7 +378,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_c7b11432-2baa-4fe0-8dab-3f0c860d5e80_large.jpg?v=1605070484"
     ],
     "inStock": true,
     "specs": [],
@@ -397,7 +397,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 0,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_c60c8079-5088-4dbb-a97e-bc3e0b6e41b8_large.jpg?v=1605070475"
     ],
     "inStock": false,
     "specs": [],
@@ -415,7 +415,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 3,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_c8d0244b-aa4e-40d1-9380-c4b2b0ddd4e5_large.jpg?v=1605070468"
     ],
     "inStock": true,
     "specs": [],
@@ -433,7 +433,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_f405692f-ecf3-48f8-88a8-f43ef744c41c_large.jpg?v=1605070473"
     ],
     "inStock": true,
     "specs": [],
@@ -452,7 +452,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_29b86e24-dc7f-4b45-9d9c-805c604c8ea4_large.jpg?v=1605070460"
     ],
     "inStock": true,
     "specs": [],
@@ -471,7 +471,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 1,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_18f578c1-1cb4-41b3-8f5d-f1542bf5b65e_large.jpg?v=1605070464"
     ],
     "inStock": false,
     "specs": [],
@@ -489,7 +489,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_cd2b2314-445a-433e-9b4b-e3a2fe1108b3_large.jpg?v=1605070455"
     ],
     "inStock": false,
     "specs": [],
@@ -507,7 +507,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_fce42829-9cbd-46e5-9144-797ff32c565b_large.jpg?v=1605070453"
     ],
     "inStock": true,
     "specs": [],
@@ -526,7 +526,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_d16e3068-b6cb-4aa3-bd48-d15593c1ff66_large.jpg?v=1605070448"
     ],
     "inStock": true,
     "specs": [],
@@ -545,7 +545,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_1c019ad7-b4e6-4a8e-bcb4-345c8cc1bb03_large.jpg?v=1605070445"
     ],
     "inStock": true,
     "specs": [],
@@ -563,7 +563,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_bd90b682-88ce-4c97-ada2-c8025b372822_large.jpg?v=1605070438"
     ],
     "inStock": true,
     "specs": [],
@@ -581,7 +581,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_10b6eac4-8a25-4f54-b454-38da01a3d983_large.jpg?v=1605070432"
     ],
     "inStock": true,
     "specs": [],
@@ -599,7 +599,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_e877aebb-96a1-48ca-ae2a-616294f54f59_large.jpg?v=1605070595"
     ],
     "inStock": true,
     "specs": [],
@@ -617,7 +617,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_large.jpg?v=1605070435"
     ],
     "inStock": true,
     "specs": [],
@@ -635,7 +635,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_8fa080b7-eeeb-4499-831f-af2673176fb4_large.jpg?v=1605069281"
     ],
     "inStock": true,
     "specs": [],
@@ -653,7 +653,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.6,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6388f289-2ff2-459d-9f11-603a9c3ee90f_large.jpg?v=1605069268"
     ],
     "inStock": true,
     "specs": [],
@@ -671,7 +671,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 4,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6cc6e09b-9c33-40dd-b70d-fa72ebf9a98e_large.jpg?v=1605069277"
     ],
     "inStock": true,
     "specs": [],
@@ -690,7 +690,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_00c14ba3-5c43-4c5c-bd0e-030c5e85f532_large.jpg?v=1605069259"
     ],
     "inStock": true,
     "specs": [],
@@ -708,7 +708,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.4,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_8c1a9660-9da2-4330-b912-7b6805c40e38_large.jpg?v=1605069265"
     ],
     "inStock": true,
     "specs": [],
@@ -727,7 +727,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_ad480e47-f166-4e31-859f-fd2f19d02cee_large.jpg?v=1605069250"
     ],
     "inStock": true,
     "specs": [],
@@ -745,7 +745,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_1055d12d-09d1-4cd6-ad67-8860a14964e9_large.jpg?v=1605069242"
     ],
     "inStock": false,
     "specs": [],
@@ -763,7 +763,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_31b17588-5c61-467e-a25f-362400a6a22c_large.jpg?v=1605069235"
     ],
     "inStock": true,
     "specs": [],
@@ -782,7 +782,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.3,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_946c2065-297f-4fdf-af33-b19eed73d06d_large.jpg?v=1605069230"
     ],
     "inStock": true,
     "specs": [],
@@ -800,7 +800,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_e3a8913f-cd50-44e0-be6b-3f3c8e1c8267_large.jpg?v=1605069228"
     ],
     "inStock": true,
     "specs": [],
@@ -818,7 +818,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_87261599-1d41-4aff-ad40-26d301a01548_large.jpg?v=1605069223"
     ],
     "inStock": true,
     "specs": [],
@@ -837,7 +837,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_4db183aa-e162-41af-a5d0-f5a169fad29a_large.jpg?v=1605069223"
     ],
     "inStock": true,
     "specs": [],
@@ -855,7 +855,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.7,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_24a984a5-fc78-4aad-a432-0d72eafc300e_large.jpg?v=1605069208"
     ],
     "inStock": true,
     "specs": [],
@@ -873,7 +873,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_e92c6464-31b7-4a36-8054-48026548009c_large.jpg?v=1605069218"
     ],
     "inStock": true,
     "specs": [],
@@ -891,7 +891,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_ff730b2c-437d-4a25-8a80-7eda6bd1e9ec_large.jpg?v=1605069197"
     ],
     "inStock": true,
     "specs": [],
@@ -910,7 +910,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.6,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_39cc4196-3a32-4a2d-847c-c7a72e42e978_large.jpg?v=1605069188"
     ],
     "inStock": true,
     "specs": [],
@@ -928,7 +928,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 4,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_5796b3b3-0b78-4535-894b-2f2f6b06a188_large.jpg?v=1605069151"
     ],
     "inStock": true,
     "specs": [],
@@ -947,7 +947,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6c30d24f-9ca9-4cdf-87e1-f7b8d9fe8e08_large.jpg?v=1605069147"
     ],
     "inStock": true,
     "specs": [],
@@ -965,7 +965,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_1dab2737-8c60-42e7-863d-813fd97d8eac_large.jpg?v=1605069143"
     ],
     "inStock": true,
     "specs": [],
@@ -983,7 +983,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_837fd008-1002-49d3-a476-f5e584d41a89_large.jpg?v=1605069143"
     ],
     "inStock": true,
     "specs": [],
@@ -1001,7 +1001,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_3fc96ed8-98c7-40fd-9040-9a24c6177d97_large.jpg?v=1605069133"
     ],
     "inStock": true,
     "specs": [],
@@ -1019,7 +1019,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.1,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_2e8e2705-baad-429b-a1f2-7078e4e7e6e1_large.jpg?v=1605069136"
     ],
     "inStock": false,
     "specs": [],
@@ -1037,7 +1037,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_c6265973-596b-43b9-ab71-cc13cf13cc83_large.jpg?v=1605069130"
     ],
     "inStock": true,
     "specs": [],
@@ -1056,7 +1056,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_d0d80647-893a-4367-b8fe-a94b9b86c680_large.jpg?v=1605070578"
     ],
     "inStock": true,
     "specs": [],
@@ -1074,7 +1074,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_9f44c771-1df3-4999-95bd-0d4771a02926_large.jpg?v=1605070579"
     ],
     "inStock": false,
     "specs": [],
@@ -1092,7 +1092,7 @@ export const nventScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 4,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_bf23cfee-88c1-4e1d-a0fc-cb4e5a0b78a0_large.jpg?v=1605070559"
     ],
     "inStock": true,
     "specs": [],

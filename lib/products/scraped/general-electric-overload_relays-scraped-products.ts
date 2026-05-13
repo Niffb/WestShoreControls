@@ -16,7 +16,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_6d50c5a3-c064-452b-a00b-b33241398761_large.jpg?v=1605023619"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_fcb65c11-a6cc-42cc-a168-72c27bd508fa_large.jpg?v=1605023621"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_3bd3b72e-158a-4692-ae31-224a35ab33c1_large.jpg?v=1605023614"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_77992dc8-0c5c-42a1-a54d-69a41b484bc4_large.jpg?v=1605023608"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_4c6b091a-c85c-4419-bacb-397e2b0e5002_large.jpg?v=1605023609"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_742188eb-53a6-4f2e-8ae4-45fb86c97dab_large.jpg?v=1605023603"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_e74468f7-8afb-492e-b7bd-3b9c44b6d021_large.jpg?v=1605023597"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_e2e9de18-6e78-46b1-8f95-57052060effa_large.jpg?v=1605023592"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_e60a8484-b295-4296-8dc6-8b0209120a93_large.jpg?v=1605023590"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_7ca50efe-1859-4a4f-a711-846d8a80a3a1_large.jpg?v=1605023584"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_6668778b-2081-43ac-a8ec-df42546adf85_large.jpg?v=1605023565"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_7061101d-ed7f-48c4-8c86-9546c5093641_large.jpg?v=1605023561"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_07584b52-3f11-4898-9c16-137ae33ba2b6_large.jpg?v=1605023556"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_efaf7ff0-1980-4e31-b853-96430b3eda4d_large.jpg?v=1605023554"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_aa4f1291-e253-4f8c-9965-5218263eba9f_large.jpg?v=1605023541"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_723d4105-7c50-4392-821a-f3db50a179f2_large.jpg?v=1605023551"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_7ef13bba-ee51-4bf7-a7d0-3db88d82ed44_large.jpg?v=1605023537"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_19d0cec7-2d04-41f0-9bd1-8d728f13977d_large.jpg?v=1605023530"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_12cdcb3b-56ca-4ca5-856a-95aaaa2f8aa2_large.jpg?v=1605023523"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_d9a37099-da33-4b50-8e61-b1ba27ff26d5_large.jpg?v=1605023530"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_711bbc28-e251-4d6c-8c48-fe094de1c1a4_large.jpg?v=1605023512"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_7b05c6d3-8096-4410-924a-09d6beffbaa2_large.jpg?v=1605023519"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_db57f897-1ee7-4951-ac67-99cd26c737c8_large.jpg?v=1605023510"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_7d67de42-6394-4207-a84e-00058702e17f_large.jpg?v=1605023508"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_71af0c8a-06db-4e7c-ae82-f2b755c9499f_large.jpg?v=1605023503"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_40c8f7c5-63ee-488b-86a7-65c7cb16430c_large.jpg?v=1605023501"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_a8d166cb-0fc9-4806-a8e2-f6d90a1fce91_large.jpg?v=1605023494"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_f22cf477-1976-4a30-a75b-a560a5e8991f_large.jpg?v=1605023491"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_a4aa5a2d-7c7b-47ee-8d51-633b364698af_large.jpg?v=1605023485"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_ffce814b-83b1-4c1c-8c7c-00d0810bd335_large.jpg?v=1605023488"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_9bf3c25f-c428-44f5-a9f7-24a58b256a02_large.jpg?v=1605023484"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_47ce46ff-cb02-46ed-97cf-30fd8ae533f4_large.jpg?v=1605023487"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_debc944f-b674-44cb-b76c-8235ac274552_large.jpg?v=1605023484"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_bec8a147-9e44-4848-b628-5bf8eae7302e_large.jpg?v=1605023458"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_97d825d4-68d2-4ac5-a3db-8e7f0ec7dc07_large.jpg?v=1605023455"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_295cb47c-1f23-4935-95fe-247ebc876aee_large.jpg?v=1605023450"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_61154071-1efb-45d1-9597-d2af98a02c05_large.jpg?v=1605023442"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_e3f99c58-c0ac-48bb-abd4-3b1282960743_large.jpg?v=1605023449"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_bd87e383-6eed-4bdf-b92d-9fd6cc22c154_large.jpg?v=1605023442"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_42d3df6e-8a41-430b-8dca-4718579bcb6f_large.jpg?v=1605023437"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_3ce6586f-2dab-46cc-8cc1-8c2ad663ac09_large.jpg?v=1605023434"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_929f10d0-ed7e-47bc-9a78-02ea993a1ee4_large.jpg?v=1605023421"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_98c0c3a9-0618-469a-8ec2-ccb1f5381c78_large.jpg?v=1605023426"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_7d93ec2e-accb-4369-887f-a05eb458f624_large.jpg?v=1605023405"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_9eb4f7dc-83d0-4638-ac63-8508c5cef95d_large.jpg?v=1605023412"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_8355efb5-62b8-400e-bf46-230814f8f031_large.jpg?v=1605023322"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_1bbf1ba4-05e6-4211-b472-8d5c401c6d97_large.jpg?v=1605023328"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_0a76323e-7868-47a1-9b97-4c1f8227f4f5_large.jpg?v=1605023319"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_f0b160b7-5e13-488b-93cd-02069a5abb93_large.jpg?v=1605023312"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_a42ccd1f-a00e-4691-a70d-316dc57dee16_large.jpg?v=1605023310"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_4fe18e89-8206-4390-888e-912fce82b147_large.jpg?v=1605023303"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_21b34249-ea93-472b-a493-3e2dc67f1c02_large.jpg?v=1605023299"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_ef230db0-17fd-491e-b471-15831c5f4430_large.jpg?v=1605023272"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_c90d09ee-4c7c-4935-b4e3-366fa88904c8_large.jpg?v=1605023278"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_490f8b76-d93c-4ce6-a15e-1eee25e948f2_large.jpg?v=1605023268"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_e435fe10-b762-4302-ba56-36c7e9df7c2a_large.jpg?v=1605023272"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_ec120b3e-9d97-4a87-871f-d6a21c24bcee_large.jpg?v=1605023262"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_05b6cbd3-abcb-4983-b48c-762a5c0ff16a_large.jpg?v=1605023258"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_9704484a-2a21-45c9-8b34-26c1479cc1dd_large.jpg?v=1605023253"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_a9c46506-db30-4075-89b3-2cb53560dbd6_large.jpg?v=1605023247"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_99c54d3b-e8bd-4a05-842f-968fb3a422d7_large.jpg?v=1605023245"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_ccc3c8f2-426a-420f-8005-eb4a51604a24_large.jpg?v=1605023242"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_fd501e8f-fad3-4d7d-84cb-8e2f48e8c15a_large.jpg?v=1605023242"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_d87388d6-5b8a-4d60-8c19-e469969b1bf9_large.jpg?v=1605023232"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_0ae4a506-9f84-4f17-9081-ddc4a3520008_large.jpg?v=1605023229"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_e739fbaa-eea6-47a4-8b0a-bdc0b9e6c9b3_large.jpg?v=1605023226"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_e45fc9fc-f7bb-4f63-88ea-3a076037b382_large.jpg?v=1605023217"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_3763a9cf-b0d8-45de-90f0-537375cdf04e_large.jpg?v=1605023220"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_8655077a-e15a-4343-adf7-079524a611cf_large.jpg?v=1605023213"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_f86a6e9a-318e-4040-a5e3-d8741972e3e8_large.jpg?v=1605023222"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_337c4c6c-2eeb-41cd-a725-825d05ef8eeb_large.jpg?v=1605023198"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_0018d8a1-240a-4e60-b805-86c38f592008_large.jpg?v=1605023198"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_d8ac30db-608c-4ae8-b5b4-3942025b3e89_large.jpg?v=1605023188"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_61b49379-eb5e-40c1-b9bd-20f9f639e52b_large.jpg?v=1605023179"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_8ce97325-f3d5-48fb-a728-7d955480e8c0_large.jpg?v=1605023192"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_large.jpg?v=1605023166"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CAPBCapNutwithThreadedStud_c7dc19fc-736d-4307-92b9-8b4b5e6ea664_large.jpg?v=1605023169"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_large.jpg?v=1604684918"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_adc16d12-2dc7-4052-b1c7-253798828934_large.jpg?v=1604684920"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_54560163-5ab6-4a7c-b63e-96721e27bd55_large.jpg?v=1604684919"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_ad379199-5abe-4b2c-9918-428524a0e025_large.jpg?v=1604684921"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_02f322ed-d9e4-405c-a451-df0ce889e781_large.jpg?v=1604684921"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_dd2e22e1-3694-482f-a76f-e0a6532b792d_large.jpg?v=1604684922"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_567fd2fd-3008-4c18-92c9-7480380df3dd_large.jpg?v=1604684923"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 7,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 6,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 8,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/XM5ThreadedBusbarConnector_large.jpg?v=1604824730"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_large.jpg?v=1605073217"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_fec0506e-40fb-49e7-9b94-9263dd91e918_large.jpg?v=1605073227"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_8f501288-6940-40e2-b98f-2dbf601a49ce_large.jpg?v=1605073276"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 5,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_e9720e3c-790a-46bd-b87b-f3ca2afbdb06_large.jpg?v=1605073278"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/IBS_IBSB_Advanced_Insulated_Braided_Conductor_16c9bbc0-eaa0-431f-89e0-4da5c3f09634_large.jpg?v=1605073279"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_14c048a7-eca9-42aa-900d-0bbc959004ff_large.jpg?v=1604685214"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_24acd1d5-e123-4799-8fc6-e2b4847e5142_large.jpg?v=1604685214"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_0b360aba-bca6-4962-9a48-fe90cf8895a6_large.jpg?v=1604685215"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_d24d8206-3dba-41d8-92a9-7eb62d85f989_large.jpg?v=1604685216"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_25817a7d-129d-4b59-8c8d-7bf8c0be5f7e_large.jpg?v=1604685217"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_eb0580fa-e17e-4702-a7a6-66fe6dab09f1_large.jpg?v=1604685217"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_61836a11-1f4b-4eee-94d8-341084fdc53a_large.jpg?v=1604685218"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_fdadc347-4b48-4d3f-9ce0-0dc9e2de8870_large.jpg?v=1604685221"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_cb4a555b-adac-4251-9f75-9265f940575f_large.jpg?v=1604685222"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_609b7c26-04a4-49fc-85d9-d89989c4390f_large.jpg?v=1604685222"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_8f2f431b-1453-4331-90a0-3ba01df6506a_large.jpg?v=1604685223"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 13,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_931f620b-4316-40d8-acdb-14bd936f399f_large.jpg?v=1604685224"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_cda02eb6-8514-4886-a7d5-e731df661c6f_large.jpg?v=1604685225"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 14,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_3dbda06f-dd0e-4de0-b16b-fd6cbacd90af_large.jpg?v=1604685226"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 12,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_c6f457b7-ca82-44d3-b19a-cf6f1a66e841_large.jpg?v=1604685225"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_831dcbf7-a2f7-42cf-9dd0-b2572ffc2313_large.jpg?v=1604685228"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_928b7a6d-2589-4e0b-b06e-9c5e68e3cbf3_large.jpg?v=1604685227"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_a073474f-e545-463b-b6ce-a2ea903ef15d_large.jpg?v=1604685228"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_53f7923b-c8ab-4c85-88ec-ae9a7ad76875_large.jpg?v=1604685231"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_c5e82391-6fa5-4f89-afe1-1fea88299d18_large.jpg?v=1604685229"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_27ac7fac-5b6d-4188-b57f-df92a7609e0c_large.jpg?v=1604685230"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_large.jpg?v=1609660907"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_3cb2f107-6c5e-4700-80c2-92c95468967e_large.jpg?v=1609660923"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 10,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_9e1c5bdb-e19a-4f0b-a9d1-ec4f6a40e250_large.jpg?v=1609660938"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ShihlinTH-P60_61b3d589-6e93-4ec9-9cb5-92c13fa1a2c6_large.jpg?v=1609660959"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 9,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_4b505682-0898-4395-a2e7-a7ffbe50af29_large.jpg?v=1604685198"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_d9e0ef5d-ab13-4a35-9b7e-49b183ade716_large.jpg?v=1604685199"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_e96fcca8-13ae-4652-9dbb-372b46bcf88f_large.jpg?v=1604685200"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_e384f579-7149-4e59-be43-abd067b0c4c4_large.jpg?v=1604685200"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 11,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_aeb994da-cbcf-4f11-be64-001d318c47c6_large.jpg?v=1604685202"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_613ecc13-858f-4343-a117-4eef46f3f65f_large.jpg?v=1604685203"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_4529145b-f6a5-424e-93bb-42ef2eb024c4_large.jpg?v=1604685201"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_90a34dd6-aeda-4dd3-9c0f-509c75dd698d_large.jpg?v=1604685204"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_b12fd716-996d-46d3-bfc9-f59ac443ae4a_large.jpg?v=1604685205"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_5afea93c-e14d-493f-bef5-0fb09a173898_large.jpg?v=1604685204"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_bbf5754b-f4d6-4e1c-bc92-87e8f1296e49_large.jpg?v=1604685206"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_a0fa15f7-4668-4a5f-90c8-2767f5c3aa86_large.jpg?v=1604685207"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_f54fd64b-1eb5-4633-a30f-547d86d3304c_large.jpg?v=1604685208"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const generalelectricOverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_41e97b6d-72c6-4fca-9492-b7957fcb6e0c_large.jpg?v=1604685208"
     ],
     "inStock": true,
     "specs": [],

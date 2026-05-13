@@ -16,7 +16,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const generalelectriccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

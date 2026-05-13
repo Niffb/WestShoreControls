@@ -16,7 +16,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const contrinexoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

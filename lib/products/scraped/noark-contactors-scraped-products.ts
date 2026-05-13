@@ -16,7 +16,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_large.png?v=1751211351"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_a2ba6f75-7585-491f-b909-e65606304a49_large.png?v=1751211350"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_2111ad7f-9dfa-408f-834b-3d5b2718f2e9_large.png?v=1751211350"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_94798a62-27b1-4a8c-abfd-405b84297627_large.png?v=1751211349"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_5978fe1a-8278-4110-97b3-8f77b6380e75_large.png?v=1751211348"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_6a00f0ae-3c77-46ec-bea2-c7cd9036feca_large.png?v=1751211348"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_91fd6356-9c32-4c94-97cd-e8800f21b2f7_large.png?v=1751211347"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_74cdfefa-b2c9-49a3-9629-c348004f6b98_large.png?v=1751211344"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_7891c820-5aac-496d-a2c3-39061333f802_large.png?v=1751211343"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_5ebacc3f-4769-4744-9a2c-237a0858cde8_large.png?v=1751211342"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1cb3fded-8032-496d-9805-f26651ce4a8a_large.png?v=1751211341"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_9bf45cb2-a86a-4e43-ad19-b5b74e6e1e42_large.png?v=1751211340"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_52edc589-b1a8-4edf-9fc6-06038f27bda9_large.png?v=1751211339"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1a73ea43-e654-46d9-affd-b5e42e6463d2_large.png?v=1751211338"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_eabad97c-805c-41ec-99b1-4f013644f960_large.png?v=1751211337"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_07c19cba-eeae-4169-8936-b3d9e61900ff_large.png?v=1751211337"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_08c314c1-e91d-45d4-9a2c-c31396280a58_large.png?v=1751211336"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_01fb800e-25f2-401c-aa7f-28d0b1c92d41_large.png?v=1751211336"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_7c00d38f-05b5-46aa-9b1f-d2f572671c65_large.png?v=1751211334"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_2c36a3ce-429f-4e8f-8745-f1a42e98764f_large.png?v=1751211334"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_f4ac8360-a9fe-44d4-959b-0f4689291843_large.png?v=1751211333"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_152cc5af-7641-478b-9d7d-d3f8be5bd36c_large.png?v=1751211333"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_e349d2a2-f9e5-4c13-945f-dbf566901afa_large.png?v=1751211332"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_caed9154-dac0-4a0c-86b7-b90fce8829ab_large.png?v=1751211331"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_8c588a8b-20b0-48fb-94f8-5c4dc88cfcc4_large.png?v=1751211331"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_8f7ad3d2-38dd-4979-9f3f-b6c27429a93d_large.png?v=1751211330"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_caeee2df-6698-4553-9bae-af1604617ccc_large.png?v=1751211329"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_ac2a2547-eb3c-471f-90d7-e23737e91ef6_large.png?v=1751211328"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_c147369e-e3eb-485c-a95d-9720052fe9bd_large.png?v=1751211327"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_95c557f8-fe51-487d-97aa-0c0bc3f96700_large.png?v=1751211326"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_29007fe1-79a1-4775-bcf3-04cd45bc59bc_large.png?v=1751211326"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_32c920cb-869a-41c0-8242-d5b5c9b22a0b_large.png?v=1751211325"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_cc99ff8a-428c-43cb-9307-60fc859a3f3a_large.png?v=1751211324"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_97d66b2b-704d-406b-a1ec-d1dc0f451d53_large.png?v=1751211324"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_ed3e38d0-5964-44fe-b61f-098f68e37bf6_large.png?v=1751211323"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_6f2ae5bf-9f13-4d8b-bb32-37c9cf7892ad_large.png?v=1751211323"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1b25094e-7e85-4615-b3f3-676e893d6a64_large.png?v=1751211322"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_6bd1b177-316a-4783-8c86-cb5941d659fd_large.png?v=1751211321"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_bdfdb602-d02f-4aee-a9aa-33fd3a9b1ca7_large.png?v=1751211321"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_cb68839b-3903-4cc9-9619-04d90f31de3a_large.png?v=1751211320"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_629964d3-7618-4a2d-a8a7-42a188a625c9_large.png?v=1751211319"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_c03aa0fb-6b00-45ac-a656-3b5f5d5030c3_large.png?v=1751211318"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_26f7e9ba-6a31-471f-9fb8-a61bc3983e32_large.png?v=1751211318"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_56e7d752-f4f9-4111-8f64-2aeba9e5f66e_large.png?v=1751211317"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_c3a81fc9-7215-4779-8309-5dfddb6afcd2_large.png?v=1751211316"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_7cab7b91-0dab-4587-94a0-5d9ddfab61f3_large.png?v=1751211316"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_ee63c25b-298a-40e8-a52e-d2df3bd0ccac_large.png?v=1751211315"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1c4fe3b7-e8ad-424a-a471-10f40343e82f_large.png?v=1751211314"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_702ec1b9-9d88-4120-bc82-b71ebd8e34b0_large.png?v=1751211314"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_bf6f162f-f425-4d42-86ea-141ef6d17af4_large.png?v=1751211313"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_92f80231-2df1-453c-b781-c8f0e7f848a5_large.png?v=1751211313"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_2fcd466e-5989-4546-8523-28e8786acfb9_large.png?v=1751211311"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_9cb95de2-5aba-479a-aa92-f88e2a0d1193_large.png?v=1751211311"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_92dbce8c-74ab-4726-913d-eb53cc727f4f_large.png?v=1751211310"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_6bf8c2c2-41ad-4c36-b3a5-88ed96a677ac_large.png?v=1751211309"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_aa185360-e36d-4f58-99b0-ae2f804fd5cc_large.png?v=1751211309"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_bd6e4bdf-b7d1-456e-8dd3-75a38671e2ff_large.png?v=1751211308"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_f0cce101-c5d1-4c67-91d6-cadc96f9d070_large.png?v=1751211307"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_cf46169f-017d-4eba-9266-526d7ab48446_large.png?v=1751211306"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_050340b8-b0d9-40b7-b332-7b1905189139_large.png?v=1751211305"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_a876785f-f2a6-4ff6-b69c-b8b8150900ec_large.png?v=1751211304"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_f46acc58-1e52-410b-ad08-14e79717b582_large.png?v=1751211303"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_d00b08cc-0e02-44d7-a2a1-1a13c5c1269e_large.png?v=1751211300"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_5073c947-079a-4f3b-a1d3-e85c2c5c05d9_large.png?v=1751211299"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_c15cf333-f205-4cce-9478-28000272411c_large.png?v=1751211298"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_dbb7a7c3-cb79-4e6a-aa47-35ff55fc5ed3_large.png?v=1751211297"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_28a4d625-0efc-429d-a25e-c258eb587395_large.png?v=1751211296"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_48dfde37-5473-464b-805a-0948abca3f4b_large.png?v=1751211295"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_e2e5f69f-403d-4789-a60c-cab6917d3a17_large.png?v=1751211294"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_49852342-7ee4-460e-b6fd-6069316b9ddf_large.png?v=1751211294"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_6f095267-5d65-4683-a6b0-174017a98749_large.png?v=1751211293"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_42efd26e-5d69-477e-bf4c-86efdf263ca3_large.png?v=1751211293"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_c219c5ee-bce5-4ba6-8c7c-f52dbea4f036_large.png?v=1751211292"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_217022bb-8c3e-478a-99e7-d135b3a9e693_large.png?v=1751211291"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_8e3f3af5-bd4d-4a32-ae72-ad2a2dca681a_large.png?v=1751211290"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_2d85fc2e-3a99-4470-84e9-3f1e278a438a_large.png?v=1751211290"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_ebf92a66-9261-4892-b17e-8df37af081a5_large.png?v=1751211289"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_ea161a13-85b3-437b-847e-6db147e3fa1c_large.png?v=1751211288"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_255fd332-0256-4550-8fce-a55f6e6ac12b_large.png?v=1751211288"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_54901fbf-1183-4596-92b1-d4ad074c69f3_large.png?v=1751211287"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_ead08912-0c42-49ac-94ea-20f869306db9_large.png?v=1751211287"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_96aaeab1-42cb-40ec-8d4f-51b49b9f7d53_large.png?v=1751211286"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_67b5958a-5732-43f6-842e-586811dc9da0_large.png?v=1751211285"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_45f39f9b-a216-4909-884c-da9084f8e754_large.png?v=1751211285"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_55f14c48-5a09-4670-926f-c498dd7f4123_large.png?v=1751211283"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_43916da2-ad96-4520-9889-aa6ad9861601_large.png?v=1751211283"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_248655d1-2335-4598-916c-74b60500387f_large.png?v=1751211282"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_4f9c0b54-9d99-4a63-b5e6-46bca54f6d28_large.png?v=1751211281"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_d0a4f265-1ac0-46ac-97d5-bf12d5dd0b34_large.png?v=1751211281"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_e66ecfc3-e635-41e9-959c-20629740b863_large.png?v=1751211280"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_c4b4a65e-0c1d-43c8-b80a-d5d91eb21945_large.png?v=1751211279"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_04e01937-4f33-4c9f-9b6d-0b0e4114d898_large.png?v=1751211279"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_714ad9be-9416-4f5d-b48e-70de59874ea4_large.png?v=1751211278"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_aeab8d78-0dcf-46ad-82d5-57dc38f57647_large.png?v=1751211277"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_674b4924-01aa-4cfa-a90a-b20b306e135d_large.png?v=1751211277"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_0bb3b7f3-bd18-4792-aba7-1ab6b0dbf568_large.png?v=1751211276"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_6d3ac441-49d5-456c-b53d-175091c3fc19_large.png?v=1751211275"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_7f609bf4-1da3-484f-a696-4f2174ea0a85_large.png?v=1751211274"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_151fe8a5-8049-495e-a4d9-ff5a708d01b1_large.png?v=1751211274"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_6182343a-b42b-452e-be6f-37a428e0fa8b_large.png?v=1751211273"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_cdd85bfe-2caa-4b07-8cc2-7e7ed319298e_large.png?v=1751211273"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_79871d2e-1164-4e1a-a3b0-d40c77ad6def_large.png?v=1751211272"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_9b27e055-7ffe-47de-98ad-5e015a3a15e1_large.png?v=1751211271"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_0758657f-9460-484f-8b73-51650286b3c6_large.png?v=1751211271"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_522c5b9a-4bc2-44a1-97e4-75657f1806c7_large.png?v=1751211270"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1fc705f2-4b70-4406-8a40-a244a5cd9e01_large.png?v=1751211269"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_17663717-b992-49bd-85b3-742e527d7f2c_large.png?v=1751211268"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_9654e8fe-aed7-4665-a671-f39ff47fb236_large.png?v=1751211268"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_98fd55fa-9571-47c2-b72d-7131008ec2c3_large.png?v=1751211267"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_9a9f8392-fd1d-4672-ab9c-f15436fdbf9a_large.png?v=1751211266"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_a7dc344a-dae3-42a2-8f97-d9c3dc8777b8_large.png?v=1751211266"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_8aa180ab-ae90-4830-a758-00cf3e143496_large.png?v=1751211265"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_2968e28e-e4a1-443d-887c-f1a8fcd46309_large.png?v=1751211265"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1c93a7d3-93de-46ff-bb42-0865297c0542_large.png?v=1751211264"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_e2f36b3b-5b45-4d13-96bd-1df15d4899b0_large.png?v=1751211263"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_649b0261-c0d4-48f2-9cf5-20bebe1a0b09_large.png?v=1751211263"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1959eaf2-592a-4ffc-9a41-342890898e72_large.png?v=1751211262"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_f5e02c9e-7bfe-42de-8378-7427f9ee908b_large.png?v=1751211261"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_4aecb6a5-8e60-445e-a61d-978b459be65c_large.png?v=1751211260"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_31ca03df-13ea-4f89-967b-df147b5764f1_large.png?v=1751211260"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_d8571163-a898-41ab-8307-36e6be8632e4_large.png?v=1751211259"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_ae9a5382-ec49-4af6-a471-a580182ee66e_large.png?v=1751211258"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_44f2c84b-e432-4592-972d-fc62f54ab7d5_large.png?v=1751211258"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_39556d4b-3bd1-499d-84e7-46034a43415d_large.png?v=1751211257"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_4d5d47a3-502d-4021-b3ca-a9e3dbd993b6_large.png?v=1751211257"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_bdb11191-3e63-4953-8f69-73b86490377d_large.png?v=1751211256"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_d0232863-11d7-4350-8a07-9ae5f057a560_large.png?v=1751211255"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_8f0764ab-e18f-47f1-96af-abbde64cb11b_large.png?v=1751211255"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_16c92082-72b9-4fa6-bcc9-3c11865dd573_large.png?v=1751211253"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_eaee59de-9010-4e72-a44d-d522f36983d6_large.png?v=1751211253"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_1bc304e5-36b7-4375-879e-43874dd70ed0_large.png?v=1751211252"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMR_6_12_A_b08591e9-a798-4a43-9eee-93fdcc79fdf7_large.png?v=1751211251"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Mechanical_Interlock_large.png?v=1611083216"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Mechanical_Interlock_6266b0f3-0e0c-46d0-9e0b-879ec61511f4_large.png?v=1611083217"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Mechanical_Interlock_fefc2c51-c0bd-4ea1-a200-beddca66f380_large.png?v=1611083218"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Mechanical_Interlock_b1f87f5c-ce5b-4ed0-835b-5fd7ce2d731b_large.png?v=1611083219"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Mechanical_Interlock_f64b2b6b-d9b8-472d-a795-fd9ac34ddbaa_large.png?v=1611083220"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Mechanical_Interlock_1d932b09-bf67-4c08-9b3d-fcb614b46b27_large.png?v=1611083221"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_large.png?v=1751211452"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_edd002a6-029a-4b90-bcd9-fe85859fe27a_large.png?v=1751211451"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_25ff4d3a-155f-48ff-b57c-3400e327baa7_large.png?v=1751211451"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_bfb5bcc3-cbc5-43f2-8184-8f2eb7888f47_large.png?v=1751211450"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_8e87367a-e6f2-40bf-b74b-c323b868e2c2_large.png?v=1751211450"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_4968ba7a-3e6b-4c2b-b15b-2da17523100c_large.png?v=1751211449"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_6173c1f7-8fab-4b5f-a46b-a0510c5e68ef_large.png?v=1751211449"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_6cf5952b-26a3-444d-b496-8de76022ab60_large.png?v=1751211448"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_048c00f5-e91f-4d5d-8fae-3f7e6e053245_large.png?v=1751211448"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_db45ea95-8ccf-4109-87c8-c1f0821e5aa9_large.png?v=1751211447"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_e0a221d3-3b9e-4aa4-9f07-856a98af0575_large.png?v=1751211447"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_cae98ac5-a26a-4778-8f23-fbc1f794b2f1_large.png?v=1751211446"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_e5daa90a-61da-4157-83dc-8d19510d905d_large.png?v=1751211446"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_bcab0a3b-31a6-4328-ae0a-19cb83fbcd7e_large.png?v=1751211445"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_ece5ebad-5f5d-484b-a3b4-694118aed01b_large.png?v=1751211445"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_a74e21ba-8995-46bc-a9cc-eb76e92b6cfa_large.png?v=1751211444"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_1057c8e8-1e0e-4f55-9c07-a90b7e7c8256_large.png?v=1751211444"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_d60dfc9c-a590-4d64-a34b-bb2e97f8da34_large.png?v=1751211443"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_23da63cf-5fec-44ac-9e97-22a71d11706f_large.png?v=1751211443"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_b47dca7f-ae9d-472a-b475-fcd78dd72bb4_large.png?v=1751211442"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_570d0ee2-5262-490d-a760-76f9e9cfae4d_large.png?v=1751211442"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_d22da9bd-87d5-4c80-a00b-b4f8d2e9f5ae_large.png?v=1751211441"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_ebda288b-288f-4da2-9969-996455943131_large.png?v=1751211441"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_fc20ed86-350e-4322-a310-75d45da66100_large.png?v=1751211440"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_195a1a57-1a61-411e-870d-4adbafe7fafe_large.png?v=1751211440"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_ee1bd613-0810-40fc-a202-3f450e7e5c5b_large.png?v=1751211440"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_2efa3dda-5f13-42f8-af9b-ff5e029c491d_large.png?v=1751211439"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_24ad2202-2bb4-4c57-9922-149ffe7f2130_large.png?v=1751211439"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_34f55802-310b-4ee4-b2cf-de77f7ee120c_large.png?v=1751211437"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_0adff778-70d1-4ee8-bb96-7fa9e2a7b942_large.png?v=1751211437"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_eb2e01e9-fb19-4a6b-bcc9-a560a4df6e76_large.png?v=1751211436"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_f3c0ff7b-6695-4d1e-afc3-ac5c381a057f_large.png?v=1751211435"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_9f329e29-618f-4563-9507-ea383ef8a669_large.png?v=1751211434"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_913a413c-b804-465f-b3c7-3498afbc397d_large.png?v=1751211434"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_ca85f626-c816-44a0-be11-b12201ad9832_large.png?v=1751211433"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_435ad3e9-04f8-4088-ac42-5135fc6a4e24_large.png?v=1751211432"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_7dfe742a-0fd6-4f78-ae3f-c34316ac1597_large.png?v=1751211431"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_6324a10d-eb9b-4f56-95f4-c0d0633a6e75_large.png?v=1751211430"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_a1dac226-4f7f-41e4-bba4-579c2e0bf712_large.png?v=1751211430"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_b6ad3864-1091-4154-8b2b-4e06784c04da_large.png?v=1751211429"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_a4f26f85-4dd1-4a30-9561-2901904adfc9_large.png?v=1751211428"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_5badf54d-0a56-47e9-820f-0815a3fd22a4_large.png?v=1751211428"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_9772ee60-6309-4157-939b-72d008604f88_large.png?v=1751211428"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_bac04987-3d5f-4531-91ac-8d1221e23977_large.png?v=1751211427"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_85a0d9c2-69c6-4f19-8c43-94fa8c56bf91_large.png?v=1751211427"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_1b11148c-a938-403c-b6cb-583c7ee8e66d_large.png?v=1751211426"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_60a70277-d076-42fc-8e1c-01711829d260_large.png?v=1751211426"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_0f266b7e-4d66-439a-9041-b002621cd21d_large.png?v=1751211425"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_1c3a3ae0-c9a2-4461-845f-a275b90bee77_large.png?v=1751211425"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_70b30f23-702c-485a-9272-cac63f0ae8c3_large.png?v=1751211425"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_4b275d01-59b4-4743-a356-52e331540d45_large.png?v=1751211424"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_592b59ec-873d-45d8-a1b3-90940b736fee_large.png?v=1751211423"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_4d0159fb-682d-4b47-a086-81d815d18fbd_large.png?v=1751211423"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_f3e03d32-9282-4bf7-919c-4b5a4cbaece1_large.png?v=1751211422"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_7ecc7ac5-b90e-4258-9858-6d8ad55519bd_large.png?v=1751211422"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_e888bc7b-2662-4a91-9691-6d205aa4ffd5_large.png?v=1751211421"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_db77e385-c93c-465a-8df2-c261ab8f9b95_large.png?v=1751211421"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_946a51d9-57eb-4657-a54f-2523ff819a78_large.png?v=1751211420"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_7c08f216-0bd7-45af-8fe1-d1f718ba5f29_large.png?v=1751211420"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_ef20684a-1cfb-4ff2-8150-9b719eecc812_large.png?v=1751211419"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_32267877-29c6-4fcd-b2c2-14727ee059ab_large.png?v=1751211419"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_0e0d5a94-6ed5-4817-ace7-0c65d56ded2c_large.png?v=1751211418"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_6a42e74f-5cbd-410b-91d3-e5ca1664d091_large.png?v=1751211418"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_81037176-2b76-4126-919a-ea67ba660772_large.png?v=1751211417"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_6f085e2d-d820-4b32-8bba-1afeecc2c578_large.png?v=1751211417"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_0a667eed-93b6-4d7b-8ea2-c444c051c652_large.png?v=1751211416"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_de6e0c94-162f-4027-b8a3-dcf9c3d6c1a4_large.png?v=1751211416"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_00cf8ae4-49c1-494c-8768-d68a0da010d1_large.png?v=1751211415"
     ],
     "inStock": true,
     "specs": [],
@@ -3724,7 +3724,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_c86c50de-0f47-47d6-af1c-c0003fde99ca_large.png?v=1751211415"
     ],
     "inStock": true,
     "specs": [],
@@ -3742,7 +3742,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_641999d6-1476-4b0b-835b-7160800b1e2b_large.png?v=1751211414"
     ],
     "inStock": true,
     "specs": [],
@@ -3760,7 +3760,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_63df6534-f463-4838-8c7f-2e6a641628d6_large.png?v=1751211414"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_d0ca72fa-6454-4b5d-8046-4406d23c7727_large.png?v=1751211414"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_cfef8575-cf83-4af4-a186-9bb9de10dc81_large.png?v=1751211413"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_b29a7a58-3209-428d-a625-068bb1182abc_large.png?v=1751211412"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_86f5f631-20ee-4314-b3da-622681848610_large.png?v=1751211412"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_1e7b87a4-f42d-4a47-b5a3-126992c09af8_large.png?v=1751211411"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_482ea45c-78e2-4f88-9fdc-8fec66409084_large.png?v=1751211411"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_8705dcf8-d87e-4633-936a-2064663d7cb0_large.png?v=1751211411"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_ec6d6ee2-2657-4493-b8b6-0f2ef0f90f58_large.png?v=1751211410"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_e23e6ec3-1834-4072-92c4-3c6f8bd8d1a1_large.png?v=1751211410"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_451fa3a1-4c17-4c25-a613-fed23a2099c0_large.png?v=1751211409"
     ],
     "inStock": true,
     "specs": [],
@@ -3958,7 +3958,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_a2280d26-71f8-46c4-a938-c989b5efe914_large.png?v=1751211409"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_e3d204f4-b7af-4e31-936a-d1c7b2df7119_large.png?v=1751211408"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_c2929e20-fae7-4932-b5c3-7e7835aa0630_large.png?v=1751211408"
     ],
     "inStock": true,
     "specs": [],
@@ -4012,7 +4012,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_b384ff18-bc84-4c98-988a-c048c707cbcd_large.png?v=1751211407"
     ],
     "inStock": true,
     "specs": [],
@@ -4030,7 +4030,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_2f04270b-7c8f-42ab-8a86-6d700ac2e12d_large.png?v=1751211407"
     ],
     "inStock": true,
     "specs": [],
@@ -4048,7 +4048,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_115_225_A_b4f93a07-549b-4e8c-9829-a0b839ea20d0_large.png?v=1751211406"
     ],
     "inStock": true,
     "specs": [],
@@ -4066,7 +4066,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_large.png?v=1751211837"
     ],
     "inStock": true,
     "specs": [],
@@ -4084,7 +4084,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_c80e027e-078f-4822-83a6-65919e2f8932_large.png?v=1751211836"
     ],
     "inStock": true,
     "specs": [],
@@ -4102,7 +4102,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_29de8e8a-1033-4680-9fe1-1a56d3422ae0_large.png?v=1751211835"
     ],
     "inStock": true,
     "specs": [],
@@ -4120,7 +4120,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_82d23d6a-68a8-4a8e-8b12-66779f2fedb1_large.png?v=1751211835"
     ],
     "inStock": true,
     "specs": [],
@@ -4138,7 +4138,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_748a5442-c8b9-4c39-b538-0984c56bd561_large.png?v=1751211834"
     ],
     "inStock": true,
     "specs": [],
@@ -4156,7 +4156,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_f89b1cae-c795-40c0-92f5-9519f6dd2e83_large.png?v=1751211833"
     ],
     "inStock": true,
     "specs": [],
@@ -4174,7 +4174,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_edacbed3-34ed-45d7-b3e6-ad1a489fd664_large.png?v=1751211833"
     ],
     "inStock": true,
     "specs": [],
@@ -4192,7 +4192,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_7febcffe-7752-41be-ac6d-9ddda5abdb77_large.png?v=1751211831"
     ],
     "inStock": true,
     "specs": [],
@@ -4210,7 +4210,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_66df5bce-5d9b-4264-a5eb-bf333f5c2420_large.png?v=1751211831"
     ],
     "inStock": true,
     "specs": [],
@@ -4228,7 +4228,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_5f3828b4-4e51-459e-b44d-805889584e29_large.png?v=1751211830"
     ],
     "inStock": true,
     "specs": [],
@@ -4246,7 +4246,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_3c0cfa25-a190-4721-b221-2406d25b8af1_large.png?v=1751211829"
     ],
     "inStock": true,
     "specs": [],
@@ -4264,7 +4264,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_85cfcacd-90ba-4a6d-9e11-e18015b3e818_large.png?v=1751211828"
     ],
     "inStock": true,
     "specs": [],
@@ -4282,7 +4282,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_eafd3fd5-f2c8-49b7-a804-c4112ae5a51e_large.png?v=1751211828"
     ],
     "inStock": true,
     "specs": [],
@@ -4300,7 +4300,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_ebf18215-bb6f-433b-b634-aa11463eb87c_large.png?v=1751211827"
     ],
     "inStock": true,
     "specs": [],
@@ -4318,7 +4318,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_3eb73888-224b-4f23-b94d-c2c691fab6e1_large.png?v=1751211825"
     ],
     "inStock": true,
     "specs": [],
@@ -4336,7 +4336,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_568e1328-be60-44ab-b19d-c6c19404f49a_large.png?v=1751211825"
     ],
     "inStock": true,
     "specs": [],
@@ -4354,7 +4354,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_9365b655-90f8-44cc-b71f-adf7c36414ad_large.png?v=1751211824"
     ],
     "inStock": true,
     "specs": [],
@@ -4372,7 +4372,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_651aa050-465e-4040-9abd-da49232a10e6_large.png?v=1751211824"
     ],
     "inStock": true,
     "specs": [],
@@ -4390,7 +4390,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2652789a-a0a4-46ab-b0a6-e5d28d16e766_large.png?v=1751211822"
     ],
     "inStock": true,
     "specs": [],
@@ -4408,7 +4408,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_72001345-caa6-4472-9ce3-bffd43ee4132_large.png?v=1751211822"
     ],
     "inStock": true,
     "specs": [],
@@ -4426,7 +4426,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_c0b665f0-7f71-4007-8987-72e96757fbbf_large.png?v=1751211821"
     ],
     "inStock": true,
     "specs": [],
@@ -4444,7 +4444,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2fc6cd40-021a-4ba2-ad5a-c1c1085225ae_large.png?v=1751211820"
     ],
     "inStock": true,
     "specs": [],
@@ -4462,7 +4462,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_5004c5c5-687e-4a91-903c-acafd8796c5c_large.png?v=1751211820"
     ],
     "inStock": true,
     "specs": [],
@@ -4480,7 +4480,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_68afeed8-c11d-4421-b37a-aadab2bef6b3_large.png?v=1751211819"
     ],
     "inStock": true,
     "specs": [],
@@ -4498,7 +4498,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_bc18ff11-527c-4d07-a73a-c1cd20445fe1_large.png?v=1751211818"
     ],
     "inStock": true,
     "specs": [],
@@ -4516,7 +4516,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_54c004b5-da5b-4a9e-8def-d654d99be74e_large.png?v=1751211818"
     ],
     "inStock": true,
     "specs": [],
@@ -4534,7 +4534,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_4c292e71-d228-48ff-8e98-7bf00d260d10_large.png?v=1751211817"
     ],
     "inStock": true,
     "specs": [],
@@ -4552,7 +4552,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_eaadbeb6-a1b2-413d-9b36-e33d9d442160_large.png?v=1751211817"
     ],
     "inStock": true,
     "specs": [],
@@ -4570,7 +4570,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_3d01c095-2741-4ef0-8ba7-0d0b0a975203_large.png?v=1751211816"
     ],
     "inStock": true,
     "specs": [],
@@ -4588,7 +4588,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_d97d14ce-8277-41ca-bb1f-ac67a632aa9e_large.png?v=1751211815"
     ],
     "inStock": true,
     "specs": [],
@@ -4606,7 +4606,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_07175d54-ef28-4f71-a06e-221b723d8f88_large.png?v=1751211814"
     ],
     "inStock": true,
     "specs": [],
@@ -4624,7 +4624,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_4e44ad68-7b4f-4e02-a1d2-e454609f2cb9_large.png?v=1751211813"
     ],
     "inStock": true,
     "specs": [],
@@ -4642,7 +4642,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_72528986-c2c8-4e52-a710-de45fc9be340_large.png?v=1751211813"
     ],
     "inStock": true,
     "specs": [],
@@ -4660,7 +4660,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_19b4e979-092d-4fe6-90c5-c43b3ec2cfa0_large.png?v=1751211812"
     ],
     "inStock": true,
     "specs": [],
@@ -4678,7 +4678,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_87b986c0-34dc-4092-b706-017aaf88d460_large.png?v=1751211811"
     ],
     "inStock": true,
     "specs": [],
@@ -4696,7 +4696,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_b0590fef-7eb1-4c52-8cc6-ad96d3459ad2_large.png?v=1751211811"
     ],
     "inStock": true,
     "specs": [],
@@ -4714,7 +4714,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_17080ed0-00f4-4be3-8f3d-614b9c3f5a8c_large.png?v=1751211810"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_64828f42-862d-4852-9583-d3a2f9060434_large.png?v=1751211809"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_8dc81765-4bf4-424c-8f48-bbb61ae85c93_large.png?v=1751211809"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_986caf46-511f-4d10-b3e2-a89d5a72d712_large.png?v=1751211808"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_583d5055-f38f-4428-90e9-53515dd87e28_large.png?v=1751211807"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_d646720d-cdd4-4fb7-9c7b-936d91643903_large.png?v=1751211806"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_0f89652c-2040-477c-8970-ddbc84ad4d2b_large.png?v=1751211805"
     ],
     "inStock": true,
     "specs": [],
@@ -4840,7 +4840,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_72484981-8713-4e8c-bf9e-a4abd804b59b_large.png?v=1751211805"
     ],
     "inStock": true,
     "specs": [],
@@ -4858,7 +4858,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_279d1dfa-a831-4cdb-9d5f-d91c2dbe9ba0_large.png?v=1751211804"
     ],
     "inStock": true,
     "specs": [],
@@ -4876,7 +4876,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_ea57ef64-5da5-4b05-a504-93ffb8276c4d_large.png?v=1751211803"
     ],
     "inStock": true,
     "specs": [],
@@ -4894,7 +4894,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_9b4f46d9-802d-4fbc-a03f-c180f998a5d3_large.png?v=1751211803"
     ],
     "inStock": true,
     "specs": [],
@@ -4912,7 +4912,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_5b1a70db-5fc2-4b2b-920e-a27dfa4b22cd_large.png?v=1751211802"
     ],
     "inStock": true,
     "specs": [],
@@ -4930,7 +4930,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_3b0549b3-1648-4c87-a8c0-3750ec135f1d_large.png?v=1751211802"
     ],
     "inStock": true,
     "specs": [],
@@ -4948,7 +4948,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_9983d5f3-a61f-42f2-90e5-d1d373ce3590_large.png?v=1751211801"
     ],
     "inStock": true,
     "specs": [],
@@ -4966,7 +4966,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_d58a930f-70cb-494d-a04e-02382dfd1bac_large.png?v=1751211800"
     ],
     "inStock": true,
     "specs": [],
@@ -4984,7 +4984,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_5b6cc92f-de72-43c1-a0b9-e206b033e729_large.png?v=1751211799"
     ],
     "inStock": true,
     "specs": [],
@@ -5002,7 +5002,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_1edff43a-4669-4d34-8f85-7e31b3b72814_large.png?v=1751211799"
     ],
     "inStock": true,
     "specs": [],
@@ -5020,7 +5020,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_a3b65b94-0bbd-4830-bf7f-d283fb37f3f3_large.png?v=1751211798"
     ],
     "inStock": true,
     "specs": [],
@@ -5038,7 +5038,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_c7d8823e-f2d0-4b63-a244-c11b8a859025_large.png?v=1751211797"
     ],
     "inStock": true,
     "specs": [],
@@ -5056,7 +5056,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_9db25b5d-cf75-419e-927c-ca9c9ff570c0_large.png?v=1751211797"
     ],
     "inStock": true,
     "specs": [],
@@ -5074,7 +5074,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2d3b2548-792b-404e-a8f4-e75b73ecac7e_large.png?v=1751211796"
     ],
     "inStock": true,
     "specs": [],
@@ -5092,7 +5092,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_a71eaa55-6e45-468b-970d-bae3a24b8319_large.png?v=1751211796"
     ],
     "inStock": true,
     "specs": [],
@@ -5110,7 +5110,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_03613697-0a91-4f70-a251-ff31bab0efe1_large.png?v=1751211795"
     ],
     "inStock": true,
     "specs": [],
@@ -5128,7 +5128,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_03506d95-8d91-4848-bf03-17b6a7af9604_large.png?v=1751211794"
     ],
     "inStock": true,
     "specs": [],
@@ -5146,7 +5146,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e0cc1d94-de27-4a41-9332-fe1295faa07d_large.png?v=1751211794"
     ],
     "inStock": true,
     "specs": [],
@@ -5164,7 +5164,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_f3a82980-5ccd-45aa-acd4-6a0298fd834c_large.png?v=1751211793"
     ],
     "inStock": true,
     "specs": [],
@@ -5182,7 +5182,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_1cc802dd-64fd-4804-8696-8a58e930974e_large.png?v=1751211792"
     ],
     "inStock": true,
     "specs": [],
@@ -5200,7 +5200,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_dc5b3b1a-57eb-4cd1-a6b2-45842c766d65_large.png?v=1751211791"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_f57a4658-54e8-4ef6-ad70-6bbeacdabd0e_large.png?v=1751211791"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_a59f4fdc-45e3-4465-8181-ce8ad56352a5_large.png?v=1751211790"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_1a1947b4-7766-4888-b6c0-fce0943dc3aa_large.png?v=1751211789"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_6e3133a1-9e00-45bd-9718-d8f993eaeb61_large.png?v=1751211789"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_c2823f98-6b31-49f2-8618-7f680ab2f9f6_large.png?v=1751211788"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_1141ddd8-55dd-498f-b5b4-3bfc08583a1d_large.png?v=1751211788"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_0d4698ac-b28e-49eb-a8c8-4940a3ee9d9c_large.png?v=1751211787"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_066af5ac-6655-47bb-b388-c02f5c6f2c46_large.png?v=1751211786"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e0f97b38-0e55-428f-9896-e4584fc1f2b6_large.png?v=1751211786"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_0fe688b4-9aba-4bb8-8d98-a20f375e9527_large.png?v=1751211784"
     ],
     "inStock": true,
     "specs": [],
@@ -5398,7 +5398,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_defec7c3-cc24-47de-ae73-abefc796bfea_large.png?v=1751211784"
     ],
     "inStock": true,
     "specs": [],
@@ -5416,7 +5416,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_43590b58-545e-410f-89a5-d8ffc66da230_large.png?v=1751211783"
     ],
     "inStock": true,
     "specs": [],
@@ -5434,7 +5434,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_fa4b92fd-06aa-4459-80de-139dd8583457_large.png?v=1751211782"
     ],
     "inStock": true,
     "specs": [],
@@ -5452,7 +5452,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_27de11ac-8fa0-4df6-aa9d-d253cc241330_large.png?v=1751211782"
     ],
     "inStock": true,
     "specs": [],
@@ -5470,7 +5470,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_b1b0c4d9-a8cc-4d6c-a00f-b0596d44d3d6_large.png?v=1751211781"
     ],
     "inStock": true,
     "specs": [],
@@ -5488,7 +5488,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e7d7ed26-cb9d-4c7d-8956-2dc56737a177_large.png?v=1751211780"
     ],
     "inStock": true,
     "specs": [],
@@ -5506,7 +5506,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_56c0874e-5812-4ca7-839c-f36d3afcb5b5_large.png?v=1751211779"
     ],
     "inStock": true,
     "specs": [],
@@ -5524,7 +5524,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_6daae341-3c11-49d9-8d21-8e77dc8c2587_large.png?v=1751211778"
     ],
     "inStock": true,
     "specs": [],
@@ -5542,7 +5542,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_10dead00-b227-4458-9268-ba00153e756d_large.png?v=1751211777"
     ],
     "inStock": true,
     "specs": [],
@@ -5560,7 +5560,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_9456f2f1-c955-45fb-8382-6825d9c81e64_large.png?v=1751211776"
     ],
     "inStock": true,
     "specs": [],
@@ -5578,7 +5578,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_8fd87369-ea04-4748-b394-7a61bf63d32e_large.png?v=1751211774"
     ],
     "inStock": true,
     "specs": [],
@@ -5596,7 +5596,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_61d5c864-222d-46a5-8186-2c79a37e5a34_large.png?v=1751211773"
     ],
     "inStock": true,
     "specs": [],
@@ -5614,7 +5614,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2aad66f7-6571-4527-9998-74f9f65feea5_large.png?v=1751211772"
     ],
     "inStock": true,
     "specs": [],
@@ -5632,7 +5632,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_ae844bed-b1aa-4d2b-9ffe-b8dab172c0b3_large.png?v=1751211771"
     ],
     "inStock": true,
     "specs": [],
@@ -5650,7 +5650,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_268c4dba-0093-4b90-8f84-52ebe269f8c2_large.png?v=1751211770"
     ],
     "inStock": true,
     "specs": [],
@@ -5668,7 +5668,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_6643c842-87b0-4da5-994a-bbe86ad7dd7d_large.png?v=1751211769"
     ],
     "inStock": true,
     "specs": [],
@@ -5686,7 +5686,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_fe4115e7-8e8c-49c7-8cf4-a919a2eedbe0_large.png?v=1751211768"
     ],
     "inStock": true,
     "specs": [],
@@ -5704,7 +5704,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e643e68a-ed7a-4c60-9e03-d2c72c849d92_large.png?v=1751211767"
     ],
     "inStock": true,
     "specs": [],
@@ -5722,7 +5722,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2d3cc593-709e-405f-bb98-b2854cbc2d74_large.png?v=1751211766"
     ],
     "inStock": true,
     "specs": [],
@@ -5740,7 +5740,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_cef81da1-cee3-4ffe-95fd-3bded3285af7_large.png?v=1751211766"
     ],
     "inStock": true,
     "specs": [],
@@ -5758,7 +5758,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_1fb50744-3f9b-41d3-9ba7-53ba05be587b_large.png?v=1751211765"
     ],
     "inStock": true,
     "specs": [],
@@ -5776,7 +5776,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_eeb94e2b-28f2-4c25-8ac6-6e36ef65d965_large.png?v=1751211764"
     ],
     "inStock": true,
     "specs": [],
@@ -5794,7 +5794,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_36e8e634-1178-434a-bee2-d5219fb9882d_large.png?v=1751211764"
     ],
     "inStock": true,
     "specs": [],
@@ -5812,7 +5812,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_4c94e1db-efb4-4a9d-bad0-b536b20b051a_large.png?v=1751211763"
     ],
     "inStock": true,
     "specs": [],
@@ -5830,7 +5830,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2c0a0543-0d27-4ed0-a571-96562ba81c67_large.png?v=1751211762"
     ],
     "inStock": true,
     "specs": [],
@@ -5848,7 +5848,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_b0d1b467-1d85-4236-9006-367f8732d9c1_large.png?v=1751211762"
     ],
     "inStock": true,
     "specs": [],
@@ -5866,7 +5866,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_02d68a1c-1033-4d45-82b2-420c3299dd43_large.png?v=1751211761"
     ],
     "inStock": true,
     "specs": [],
@@ -5884,7 +5884,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_b6408de9-84b2-4fa3-9939-104ebfacdc68_large.png?v=1751211760"
     ],
     "inStock": true,
     "specs": [],
@@ -5902,7 +5902,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2f9a5f61-94e8-4fed-8d04-b2c1b4a0407e_large.png?v=1751211760"
     ],
     "inStock": true,
     "specs": [],
@@ -5920,7 +5920,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e134f953-f118-494b-8ff9-f07c5957db5c_large.png?v=1751211759"
     ],
     "inStock": true,
     "specs": [],
@@ -5938,7 +5938,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_4a69ff19-2d11-4d0d-855f-cd96d1213835_large.png?v=1751211759"
     ],
     "inStock": true,
     "specs": [],
@@ -5956,7 +5956,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_25bf9d84-b8bf-44f6-8c94-149fead7bcc2_large.png?v=1751211758"
     ],
     "inStock": true,
     "specs": [],
@@ -5974,7 +5974,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_9a88a9e0-8713-4244-b9b5-ca876293bd45_large.png?v=1751211757"
     ],
     "inStock": true,
     "specs": [],
@@ -5992,7 +5992,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_cd0094c0-bbb1-4187-ab0b-f234f72c4a7d_large.png?v=1751211756"
     ],
     "inStock": true,
     "specs": [],
@@ -6010,7 +6010,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_05cf497a-1aec-4b9a-8558-91d815b568c4_large.png?v=1751211755"
     ],
     "inStock": true,
     "specs": [],
@@ -6028,7 +6028,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_37d538d0-8e0e-45bc-80b8-241a3933c6c8_large.png?v=1751211755"
     ],
     "inStock": true,
     "specs": [],
@@ -6046,7 +6046,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_583c3fcf-20ea-414b-ac71-c1ccc6bbd9e3_large.png?v=1751211754"
     ],
     "inStock": true,
     "specs": [],
@@ -6064,7 +6064,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_1d48c27b-8ea1-4240-a3a3-f74718dfd9ae_large.png?v=1751211753"
     ],
     "inStock": true,
     "specs": [],
@@ -6082,7 +6082,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_07076d31-f977-4c62-9fca-383adf33d952_large.png?v=1751211753"
     ],
     "inStock": true,
     "specs": [],
@@ -6100,7 +6100,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_6f29d0f8-54af-4e19-80a5-953ca8cffb10_large.png?v=1751211752"
     ],
     "inStock": true,
     "specs": [],
@@ -6118,7 +6118,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_c693c433-acbf-4ff4-bc99-0c21798d571c_large.png?v=1751211752"
     ],
     "inStock": true,
     "specs": [],
@@ -6136,7 +6136,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_fd5db34c-464c-4d14-ad35-0e7897d35f67_large.png?v=1751211751"
     ],
     "inStock": true,
     "specs": [],
@@ -6154,7 +6154,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_278d9029-0804-4814-a161-8793e3a7d694_large.png?v=1751211750"
     ],
     "inStock": true,
     "specs": [],
@@ -6172,7 +6172,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_523a2a75-04a1-4da4-9bc0-dd46dbfcc588_large.png?v=1751211749"
     ],
     "inStock": true,
     "specs": [],
@@ -6190,7 +6190,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_cc65ff53-7496-4fe6-b9d5-4e86ccf2911e_large.png?v=1751211748"
     ],
     "inStock": true,
     "specs": [],
@@ -6208,7 +6208,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_f6a3fd20-cc31-4504-ac9d-78368f8e16e1_large.png?v=1751211748"
     ],
     "inStock": true,
     "specs": [],
@@ -6226,7 +6226,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_0b75d003-6e3e-4e6c-9386-7250252cc9b8_large.png?v=1751211747"
     ],
     "inStock": true,
     "specs": [],
@@ -6244,7 +6244,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_94aa30ee-5a61-4bf4-9819-9dd3d70c9e0a_large.png?v=1751211746"
     ],
     "inStock": true,
     "specs": [],
@@ -6262,7 +6262,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_525f492c-0fea-4735-b880-3a35663a2105_large.png?v=1751211746"
     ],
     "inStock": true,
     "specs": [],
@@ -6280,7 +6280,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_67e862a0-4e82-479f-a8af-8b5836cf657c_large.png?v=1751211745"
     ],
     "inStock": true,
     "specs": [],
@@ -6298,7 +6298,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_bd1dd6ee-26a4-4826-9f1d-df7cd1288a7b_large.png?v=1751211745"
     ],
     "inStock": true,
     "specs": [],
@@ -6316,7 +6316,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_13eee5dc-c277-4492-9232-493415f3df77_large.png?v=1751211744"
     ],
     "inStock": true,
     "specs": [],
@@ -6334,7 +6334,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e7d2e758-72b1-4653-a046-158d7e0e8ce3_large.png?v=1751211743"
     ],
     "inStock": true,
     "specs": [],
@@ -6352,7 +6352,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e2ba7f5e-3ca0-4061-8ebe-46e844819be8_large.png?v=1751211743"
     ],
     "inStock": true,
     "specs": [],
@@ -6370,7 +6370,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e1650639-9cf5-450a-aace-aa6a4e013fdb_large.png?v=1751211741"
     ],
     "inStock": true,
     "specs": [],
@@ -6388,7 +6388,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_2d761301-104f-44fa-b033-5c7f7b9dae4d_large.png?v=1751211741"
     ],
     "inStock": true,
     "specs": [],
@@ -6406,7 +6406,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_22c17cdd-f7b8-4e6f-a1e4-a1215b21d3cf_large.png?v=1751211740"
     ],
     "inStock": true,
     "specs": [],
@@ -6424,7 +6424,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_a8b5738f-bdb0-4a54-b32a-42ba0554b05b_large.png?v=1751211739"
     ],
     "inStock": true,
     "specs": [],
@@ -6442,7 +6442,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_42d6cfff-6ffe-4add-b61b-eb0bcd5f0429_large.png?v=1751211739"
     ],
     "inStock": true,
     "specs": [],
@@ -6460,7 +6460,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_eee5039a-6688-4fba-9e7a-188867b6e00d_large.png?v=1751211738"
     ],
     "inStock": true,
     "specs": [],
@@ -6478,7 +6478,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_8ddae6d9-9bfd-4849-89da-4ebfff9d0948_large.png?v=1751211738"
     ],
     "inStock": true,
     "specs": [],
@@ -6496,7 +6496,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_20c29293-6f80-46b6-8ff3-a71f227eb8d0_large.png?v=1751211737"
     ],
     "inStock": true,
     "specs": [],
@@ -6514,7 +6514,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_50df964b-0a1b-427f-b13a-83e82a798813_large.png?v=1751211735"
     ],
     "inStock": true,
     "specs": [],
@@ -6532,7 +6532,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_b46dda82-4436-4ba9-87ab-c029b575e1a6_large.png?v=1751211734"
     ],
     "inStock": true,
     "specs": [],
@@ -6550,7 +6550,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_c79bc60e-bf97-4fdd-a741-0556298eb616_large.png?v=1751211734"
     ],
     "inStock": true,
     "specs": [],
@@ -6568,7 +6568,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_23111440-ce8d-40d8-a840-58c8ebddeab6_large.png?v=1751211733"
     ],
     "inStock": true,
     "specs": [],
@@ -6586,7 +6586,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_e66984ae-3514-47f7-b788-7bb3f10940a4_large.png?v=1751211732"
     ],
     "inStock": true,
     "specs": [],
@@ -6604,7 +6604,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_3207cf62-eaeb-4e63-a068-15e885463113_large.png?v=1751211732"
     ],
     "inStock": true,
     "specs": [],
@@ -6622,7 +6622,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_9_32_A_c3215083-c6b7-4bca-9b29-0ce54523dacb_large.png?v=1751211731"
     ],
     "inStock": true,
     "specs": [],
@@ -6640,7 +6640,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_large.png?v=1751211406"
     ],
     "inStock": true,
     "specs": [],
@@ -6658,7 +6658,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_05ec8be8-1925-42d1-8dd5-2964f3e7cda8_large.png?v=1751211405"
     ],
     "inStock": true,
     "specs": [],
@@ -6676,7 +6676,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_22cb4417-91f9-4e95-93dd-2d21cd913c85_large.png?v=1751211405"
     ],
     "inStock": true,
     "specs": [],
@@ -6694,7 +6694,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_ad7d71f9-1a19-40b1-9055-0c27eb2b591e_large.png?v=1751211404"
     ],
     "inStock": true,
     "specs": [],
@@ -6712,7 +6712,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_9bc11b1a-b85f-4845-9856-1a3308fdd626_large.png?v=1751211404"
     ],
     "inStock": true,
     "specs": [],
@@ -6730,7 +6730,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_1c17d4ac-5119-423d-b3b9-98575d628164_large.png?v=1751211404"
     ],
     "inStock": true,
     "specs": [],
@@ -6748,7 +6748,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_2e3594dd-5298-411b-a5da-5295d68229f1_large.png?v=1751211403"
     ],
     "inStock": true,
     "specs": [],
@@ -6766,7 +6766,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_a5da05de-19e8-4d61-9e32-44d11fa99420_large.png?v=1751211402"
     ],
     "inStock": true,
     "specs": [],
@@ -6784,7 +6784,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_fd1957ba-ddda-4504-bbe5-eb07ad529a55_large.png?v=1751211402"
     ],
     "inStock": true,
     "specs": [],
@@ -6802,7 +6802,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_5d8f6c7d-3956-416f-8413-89bde8cedb09_large.png?v=1751211401"
     ],
     "inStock": true,
     "specs": [],
@@ -6820,7 +6820,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_5ed9e868-5689-4f71-96e6-5cc4aa837c08_large.png?v=1751211401"
     ],
     "inStock": true,
     "specs": [],
@@ -6838,7 +6838,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_a0bed9af-8673-4adc-86de-526f364707db_large.png?v=1751211400"
     ],
     "inStock": true,
     "specs": [],
@@ -6856,7 +6856,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_55b525dd-bf70-4632-bd9f-7ebf00682245_large.png?v=1751211400"
     ],
     "inStock": true,
     "specs": [],
@@ -6874,7 +6874,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_e235c4bd-7f09-4ce4-9245-51bd545646ab_large.png?v=1751211399"
     ],
     "inStock": true,
     "specs": [],
@@ -6892,7 +6892,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_2e9066c1-ef4f-4308-b787-2ffa08fac10c_large.png?v=1751211399"
     ],
     "inStock": true,
     "specs": [],
@@ -6910,7 +6910,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_5c89a17a-f1d5-47f2-b9a0-c987bb15f4a3_large.png?v=1751211398"
     ],
     "inStock": true,
     "specs": [],
@@ -6928,7 +6928,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_822e407c-4e82-4b6e-a380-e10621cc57b4_large.png?v=1751211398"
     ],
     "inStock": true,
     "specs": [],
@@ -6946,7 +6946,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_22f26b7e-f1d3-4d09-9228-9835fc1c9401_large.png?v=1751211397"
     ],
     "inStock": true,
     "specs": [],
@@ -6964,7 +6964,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_a8183382-44a1-4962-8c72-554a77042aae_large.png?v=1751211397"
     ],
     "inStock": true,
     "specs": [],
@@ -6982,7 +6982,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_a2212034-4743-4ae1-9547-b260e5b12fce_large.png?v=1751211396"
     ],
     "inStock": true,
     "specs": [],
@@ -7000,7 +7000,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_25922532-0338-47e6-a81c-dbfd15683591_large.png?v=1751211396"
     ],
     "inStock": true,
     "specs": [],
@@ -7018,7 +7018,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_dd3e9e7e-75ab-481b-a3b3-c1be58589ad9_large.png?v=1751211395"
     ],
     "inStock": true,
     "specs": [],
@@ -7036,7 +7036,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_05e639b9-eac1-4c4e-8afa-5f8e88986199_large.png?v=1751211395"
     ],
     "inStock": true,
     "specs": [],
@@ -7054,7 +7054,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_aaf14e46-df66-494d-a703-dec34ad3f7b3_large.png?v=1751211394"
     ],
     "inStock": true,
     "specs": [],
@@ -7072,7 +7072,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_98622659-7212-4bdd-b8ba-a7fdf5b80555_large.png?v=1751211394"
     ],
     "inStock": true,
     "specs": [],
@@ -7090,7 +7090,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_bae6d863-afbc-4ce2-8f57-f05839a57960_large.png?v=1751211393"
     ],
     "inStock": true,
     "specs": [],
@@ -7108,7 +7108,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_8a1434fc-4513-45a7-aea4-f36f990b7d70_large.png?v=1751211393"
     ],
     "inStock": true,
     "specs": [],
@@ -7126,7 +7126,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_f8149769-ce95-4d58-937a-b3bd8931944c_large.png?v=1751211392"
     ],
     "inStock": true,
     "specs": [],
@@ -7144,7 +7144,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_0d417cf6-22a2-41f8-b47b-832a884c2074_large.png?v=1751211392"
     ],
     "inStock": true,
     "specs": [],
@@ -7162,7 +7162,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_c7b8ec58-32ba-4783-ae2f-47dd054b6bb9_large.png?v=1751211391"
     ],
     "inStock": true,
     "specs": [],
@@ -7180,7 +7180,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_c5631e15-db19-4fd5-8873-03c30c01f5ae_large.png?v=1751211391"
     ],
     "inStock": true,
     "specs": [],
@@ -7198,7 +7198,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_93b8e53c-78d9-4f92-a344-251182f081cc_large.png?v=1751211390"
     ],
     "inStock": true,
     "specs": [],
@@ -7216,7 +7216,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_6d767f1a-d274-4144-9a8c-f1f1d39c8723_large.png?v=1751211390"
     ],
     "inStock": true,
     "specs": [],
@@ -7234,7 +7234,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_9ffb5bfb-c111-4780-82f3-8aa30ad6290f_large.png?v=1751211389"
     ],
     "inStock": true,
     "specs": [],
@@ -7252,7 +7252,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_52b07092-585f-4916-84a7-561ae336a624_large.png?v=1751211389"
     ],
     "inStock": true,
     "specs": [],
@@ -7270,7 +7270,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_a8e49b80-7669-4188-80c7-854d623de98e_large.png?v=1751211388"
     ],
     "inStock": true,
     "specs": [],
@@ -7288,7 +7288,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_88fd8f89-bb5a-446d-9820-7bf0904f831b_large.png?v=1751211388"
     ],
     "inStock": true,
     "specs": [],
@@ -7306,7 +7306,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_3aa8b586-bea6-4ade-b820-e1803c3dd9f0_large.png?v=1751211388"
     ],
     "inStock": true,
     "specs": [],
@@ -7324,7 +7324,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_733218d8-aac5-4a3f-be56-e5860f59e650_large.png?v=1751211387"
     ],
     "inStock": true,
     "specs": [],
@@ -7342,7 +7342,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_bab98414-f806-48f0-984d-7ee46b700f9a_large.png?v=1751211387"
     ],
     "inStock": true,
     "specs": [],
@@ -7360,7 +7360,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_05fd54df-bf10-4b22-b78c-b6e91898210c_large.png?v=1751211386"
     ],
     "inStock": true,
     "specs": [],
@@ -7378,7 +7378,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_e796f39f-d14f-4017-91c0-b0b24b1cc9a6_large.png?v=1751211385"
     ],
     "inStock": true,
     "specs": [],
@@ -7396,7 +7396,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_8fb2b753-51c6-4efb-a427-072fac600149_large.png?v=1751211385"
     ],
     "inStock": true,
     "specs": [],
@@ -7414,7 +7414,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_81eaa447-0d2e-4750-b52e-8b5a20e7cf0d_large.png?v=1751211384"
     ],
     "inStock": true,
     "specs": [],
@@ -7432,7 +7432,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_e223ae8f-9a3b-48e9-b920-6bba7f84c492_large.png?v=1751211384"
     ],
     "inStock": true,
     "specs": [],
@@ -7450,7 +7450,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_1def0df9-5156-48ae-a6db-f2ba7da61819_large.png?v=1751211383"
     ],
     "inStock": true,
     "specs": [],
@@ -7468,7 +7468,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_d9d6f8ce-2d7b-4759-908d-0f19ded696a6_large.png?v=1751211383"
     ],
     "inStock": true,
     "specs": [],
@@ -7486,7 +7486,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_4f826cd0-d6a6-44dd-8263-c25d12c4fb24_large.png?v=1751211382"
     ],
     "inStock": true,
     "specs": [],
@@ -7504,7 +7504,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_bcda4fec-86d0-48e7-956e-bc83de161b45_large.png?v=1751211382"
     ],
     "inStock": true,
     "specs": [],
@@ -7522,7 +7522,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_f8fc6aaf-6283-4026-afdc-451df30154df_large.png?v=1751211381"
     ],
     "inStock": true,
     "specs": [],
@@ -7540,7 +7540,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_4803cc29-8150-43a8-93df-4dbf2b587937_large.png?v=1751211381"
     ],
     "inStock": true,
     "specs": [],
@@ -7558,7 +7558,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_652ce771-6f1f-40d1-86d0-ed7c68a279ac_large.png?v=1751211380"
     ],
     "inStock": true,
     "specs": [],
@@ -7576,7 +7576,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_d4aa96ec-b173-4bf8-a8da-f42cf1ff98c1_large.png?v=1751211380"
     ],
     "inStock": true,
     "specs": [],
@@ -7594,7 +7594,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_d5a36728-c905-459a-99d9-4918dfb0e842_large.png?v=1751211379"
     ],
     "inStock": true,
     "specs": [],
@@ -7612,7 +7612,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_8c9ce4eb-ce05-43e7-a3aa-b943a168e6a7_large.png?v=1751211379"
     ],
     "inStock": true,
     "specs": [],
@@ -7630,7 +7630,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_78a970f9-fc12-4a70-b353-e76f2aec265a_large.png?v=1751211378"
     ],
     "inStock": true,
     "specs": [],
@@ -7648,7 +7648,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_4aa10fc5-df06-492a-896a-a4a535827b1d_large.png?v=1751211378"
     ],
     "inStock": true,
     "specs": [],
@@ -7666,7 +7666,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_b2453cf2-1fd2-461d-91dd-416de36057c6_large.png?v=1751211377"
     ],
     "inStock": true,
     "specs": [],
@@ -7684,7 +7684,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_d8d023a2-ae24-4c72-a2e1-cecf5f57a973_large.png?v=1751211377"
     ],
     "inStock": true,
     "specs": [],
@@ -7702,7 +7702,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_3984817f-faf6-4d4b-a8ba-8618d207b8bb_large.png?v=1751211376"
     ],
     "inStock": true,
     "specs": [],
@@ -7720,7 +7720,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_4473327b-eb21-4db3-bf34-1dd5d8644590_large.png?v=1751211376"
     ],
     "inStock": true,
     "specs": [],
@@ -7738,7 +7738,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_8e1fcea8-dedf-4f19-834a-c118f61cbb88_large.png?v=1751211375"
     ],
     "inStock": true,
     "specs": [],
@@ -7756,7 +7756,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_57651b78-2446-4c5d-aa18-0fb1e78f24d7_large.png?v=1751211374"
     ],
     "inStock": true,
     "specs": [],
@@ -7774,7 +7774,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_dda07d65-f9d3-4f3e-9dc9-c8d782900e2b_large.png?v=1751211373"
     ],
     "inStock": true,
     "specs": [],
@@ -7792,7 +7792,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_82d21837-f05a-4fc5-8bda-64eb541c4133_large.png?v=1751211372"
     ],
     "inStock": true,
     "specs": [],
@@ -7810,7 +7810,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_f94018fb-38c2-43d7-a72f-508ad416e1ed_large.png?v=1751211372"
     ],
     "inStock": true,
     "specs": [],
@@ -7828,7 +7828,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_b9908104-c203-412a-9d3f-a25a17e5f354_large.png?v=1751211371"
     ],
     "inStock": true,
     "specs": [],
@@ -7846,7 +7846,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_86e53d6f-16ec-4b9c-b1c2-85d4bc40ce09_large.png?v=1751211371"
     ],
     "inStock": true,
     "specs": [],
@@ -7864,7 +7864,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_a9919385-94be-4d3e-9ba0-d064db34cd30_large.png?v=1751211370"
     ],
     "inStock": true,
     "specs": [],
@@ -7882,7 +7882,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_91637fe8-a98c-41af-b11e-cfa696ae1adb_large.png?v=1751211369"
     ],
     "inStock": true,
     "specs": [],
@@ -7900,7 +7900,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_35f9cad8-4f43-4d3f-a7bc-1dc62c9870e3_large.png?v=1751211369"
     ],
     "inStock": true,
     "specs": [],
@@ -7918,7 +7918,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_fc481668-b1b5-44f8-9965-2f293f221199_large.png?v=1751211368"
     ],
     "inStock": true,
     "specs": [],
@@ -7936,7 +7936,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_56a1d09f-49cc-44cc-b495-beedf40bcd99_large.png?v=1751211368"
     ],
     "inStock": true,
     "specs": [],
@@ -7954,7 +7954,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_161cec02-e83c-45cd-87a0-ffcc352d5265_large.png?v=1751211367"
     ],
     "inStock": true,
     "specs": [],
@@ -7972,7 +7972,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_635160f7-e9d9-4137-a32e-a226b84bd8df_large.png?v=1751211366"
     ],
     "inStock": true,
     "specs": [],
@@ -7990,7 +7990,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_71456456-2c56-43aa-8b19-4ddc45372331_large.png?v=1751211365"
     ],
     "inStock": true,
     "specs": [],
@@ -8008,7 +8008,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_7c46e3d5-57f4-44be-8eba-15cd4d040419_large.png?v=1751211365"
     ],
     "inStock": true,
     "specs": [],
@@ -8026,7 +8026,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_09923136-0563-41c1-850c-6ab21dea398b_large.png?v=1751211364"
     ],
     "inStock": true,
     "specs": [],
@@ -8044,7 +8044,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_5eb2fa4a-8552-4740-9296-55dec0febcd9_large.png?v=1751211364"
     ],
     "inStock": true,
     "specs": [],
@@ -8062,7 +8062,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_dbaaca52-bed3-40c1-9db3-2db34976fd55_large.png?v=1751211363"
     ],
     "inStock": true,
     "specs": [],
@@ -8080,7 +8080,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_e27d2b3d-a7b4-4768-9129-a6e620a7f7b8_large.png?v=1751211362"
     ],
     "inStock": true,
     "specs": [],
@@ -8098,7 +8098,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_3ddd8dc6-1dbe-478e-a89d-abef95ba43aa_large.png?v=1751211362"
     ],
     "inStock": true,
     "specs": [],
@@ -8116,7 +8116,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_3917f392-abb6-40db-a384-0ea48b2f081a_large.png?v=1751211361"
     ],
     "inStock": true,
     "specs": [],
@@ -8134,7 +8134,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_18bedca5-750e-4d0f-bb7a-95622bc998c0_large.png?v=1751211361"
     ],
     "inStock": true,
     "specs": [],
@@ -8152,7 +8152,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_e6d5123a-3d32-420b-9b48-e192d5f1d8dc_large.png?v=1751211360"
     ],
     "inStock": true,
     "specs": [],
@@ -8170,7 +8170,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_8f9c96d0-fdd3-4987-a78c-d3b31013e3b9_large.png?v=1751211359"
     ],
     "inStock": true,
     "specs": [],
@@ -8188,7 +8188,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_b9e097a0-0e56-412f-a0ee-b41156db86f3_large.png?v=1751211358"
     ],
     "inStock": true,
     "specs": [],
@@ -8206,7 +8206,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_a82cc71a-3061-420d-a6b5-c6a84194a95b_large.png?v=1751211358"
     ],
     "inStock": true,
     "specs": [],
@@ -8224,7 +8224,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_43c45087-6bc3-4f93-a341-aa88acffcc24_large.png?v=1751211357"
     ],
     "inStock": true,
     "specs": [],
@@ -8242,7 +8242,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_1007866f-0425-41ea-baf0-e52d66fc86d6_large.png?v=1751211357"
     ],
     "inStock": true,
     "specs": [],
@@ -8260,7 +8260,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_14f615a3-484d-4217-b36e-e46502f60d62_large.png?v=1751211356"
     ],
     "inStock": true,
     "specs": [],
@@ -8278,7 +8278,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_12ad9312-1cd1-430e-9217-740e0ecdcab4_large.png?v=1751211356"
     ],
     "inStock": true,
     "specs": [],
@@ -8296,7 +8296,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_ef85b9ba-8e9c-4dd5-af8c-06b130e40bc6_large.png?v=1751211355"
     ],
     "inStock": true,
     "specs": [],
@@ -8314,7 +8314,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_654cd8f3-8291-4643-b377-2f75fc37b2b9_large.png?v=1751211354"
     ],
     "inStock": true,
     "specs": [],
@@ -8332,7 +8332,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_13f62a56-fee0-4871-938c-368a18ca68e8_large.png?v=1751211353"
     ],
     "inStock": true,
     "specs": [],
@@ -8350,7 +8350,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_38a60e6c-6551-4f70-b73e-d44ddadc8557_large.png?v=1751211353"
     ],
     "inStock": true,
     "specs": [],
@@ -8368,7 +8368,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_dd95cfbe-8793-4969-bb35-33a74e828db7_large.png?v=1751211352"
     ],
     "inStock": true,
     "specs": [],
@@ -8386,7 +8386,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_265_630_A_88f2a282-c85a-4ad2-a32f-e01af17b278b_large.png?v=1751211351"
     ],
     "inStock": true,
     "specs": [],
@@ -8404,7 +8404,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_large.png?v=1611079726"
     ],
     "inStock": true,
     "specs": [],
@@ -8422,7 +8422,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4aeb21fd-34f9-47a4-846f-2ad6e2352cca_large.png?v=1611079727"
     ],
     "inStock": true,
     "specs": [],
@@ -8440,7 +8440,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ac438459-826c-4342-9b94-d6f47016ccfd_large.png?v=1611079728"
     ],
     "inStock": true,
     "specs": [],
@@ -8458,7 +8458,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6f766246-3487-4788-80a1-070df57e153e_large.png?v=1611079730"
     ],
     "inStock": true,
     "specs": [],
@@ -8476,7 +8476,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8bf152bb-621c-4386-bb2d-b741c67f1b25_large.png?v=1611079731"
     ],
     "inStock": true,
     "specs": [],
@@ -8494,7 +8494,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ebf2f8fd-5ff8-4538-8474-daa9c7b8cb61_large.png?v=1611079732"
     ],
     "inStock": true,
     "specs": [],
@@ -8512,7 +8512,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_88fea6d8-df53-48bb-b33b-5733bf7c40aa_large.png?v=1611079734"
     ],
     "inStock": true,
     "specs": [],
@@ -8530,7 +8530,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8a32127a-49a6-490c-b018-715830832d43_large.png?v=1611079735"
     ],
     "inStock": true,
     "specs": [],
@@ -8548,7 +8548,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d2743b90-edf9-4f7b-80e1-d0966e98c89d_large.png?v=1611079736"
     ],
     "inStock": true,
     "specs": [],
@@ -8566,7 +8566,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_111550ff-54e1-4fff-9586-9992c447ea6f_large.png?v=1611079738"
     ],
     "inStock": true,
     "specs": [],
@@ -8584,7 +8584,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0c67ed9a-21b4-46ce-8fea-8bb77058b435_large.png?v=1611079740"
     ],
     "inStock": true,
     "specs": [],
@@ -8602,7 +8602,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_3306c824-07d5-4d70-a4de-cbef1b1565e8_large.png?v=1611079742"
     ],
     "inStock": true,
     "specs": [],
@@ -8620,7 +8620,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e20c1835-4ca7-4d5f-90d9-d1e4d6c2240b_large.png?v=1611079743"
     ],
     "inStock": true,
     "specs": [],
@@ -8638,7 +8638,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_eb61f448-fe43-4f1d-aeb0-c4d8d9f86682_large.png?v=1611079744"
     ],
     "inStock": true,
     "specs": [],
@@ -8656,7 +8656,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c850843f-9d00-4278-be44-7ef275603c7b_large.png?v=1611079746"
     ],
     "inStock": true,
     "specs": [],
@@ -8674,7 +8674,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d9856d7a-aad6-4cbe-9593-23c5396899a7_large.png?v=1611079747"
     ],
     "inStock": true,
     "specs": [],
@@ -8692,7 +8692,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_77ba717b-6388-4f98-95ab-ad194ca77957_large.png?v=1611079748"
     ],
     "inStock": true,
     "specs": [],
@@ -8710,7 +8710,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_5cbef5ed-24e6-4398-acd3-a8da898af17a_large.png?v=1611079750"
     ],
     "inStock": true,
     "specs": [],
@@ -8728,7 +8728,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c8fae98a-ae77-41bd-98ae-96f499f9a30b_large.png?v=1611079751"
     ],
     "inStock": true,
     "specs": [],
@@ -8746,7 +8746,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_77bb834d-cbae-4aa6-91b6-334d433cda91_large.png?v=1611079752"
     ],
     "inStock": true,
     "specs": [],
@@ -8764,7 +8764,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_15def59e-3798-410c-aec8-c9f66d92da13_large.png?v=1611079754"
     ],
     "inStock": true,
     "specs": [],
@@ -8782,7 +8782,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a6b0a828-732c-4934-a1f3-eb45b2880bfe_large.png?v=1611079755"
     ],
     "inStock": true,
     "specs": [],
@@ -8800,7 +8800,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_66419100-c46f-46a2-afc9-e94d9c210951_large.png?v=1611079756"
     ],
     "inStock": true,
     "specs": [],
@@ -8818,7 +8818,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ff3836c3-e218-4eae-9012-7ff28b7c2996_large.png?v=1611079758"
     ],
     "inStock": true,
     "specs": [],
@@ -8836,7 +8836,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0b258062-aa02-401b-8719-b0edb9502da9_large.png?v=1611079759"
     ],
     "inStock": true,
     "specs": [],
@@ -8854,7 +8854,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9a02923c-7cb7-4b80-9b8a-58cc8c4082ae_large.png?v=1611079762"
     ],
     "inStock": true,
     "specs": [],
@@ -8872,7 +8872,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e5d6f582-74ef-49b0-9b96-ba13c2e6172e_large.png?v=1611079763"
     ],
     "inStock": true,
     "specs": [],
@@ -8890,7 +8890,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e84e0ebe-a883-4b04-9397-73c07972bb1a_large.png?v=1611079766"
     ],
     "inStock": true,
     "specs": [],
@@ -8908,7 +8908,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_aaa8ceb5-0561-4c55-9a7d-d96c320e98e8_large.png?v=1611079767"
     ],
     "inStock": true,
     "specs": [],
@@ -8926,7 +8926,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0be7b352-d593-46b3-90c5-f4f260c34779_large.png?v=1611079769"
     ],
     "inStock": true,
     "specs": [],
@@ -8944,7 +8944,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ae4f1736-2da8-4d11-9086-fa3abd7ab6a5_large.png?v=1611079770"
     ],
     "inStock": true,
     "specs": [],
@@ -8962,7 +8962,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9764149d-2dd3-4d61-aa16-d63b7d5880c6_large.png?v=1611079771"
     ],
     "inStock": true,
     "specs": [],
@@ -8980,7 +8980,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0915a88e-4707-4fa7-911e-d0ed9dc8b2b8_large.png?v=1611079773"
     ],
     "inStock": true,
     "specs": [],
@@ -8998,7 +8998,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_95ac4a51-b454-4613-ab2f-f5b4b17ba790_large.png?v=1611079774"
     ],
     "inStock": true,
     "specs": [],
@@ -9016,7 +9016,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ac7bc4be-9e7a-4d99-bb5a-3f55942a0ae6_large.png?v=1611079775"
     ],
     "inStock": true,
     "specs": [],
@@ -9034,7 +9034,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a47c4fbd-c3ff-480c-9731-453bd8e91cdf_large.png?v=1611079776"
     ],
     "inStock": true,
     "specs": [],
@@ -9052,7 +9052,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_cbd86722-b56b-4ea6-bf32-6f859d991149_large.png?v=1611079778"
     ],
     "inStock": true,
     "specs": [],
@@ -9070,7 +9070,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_80e49ebe-fa7a-4bf1-bba9-a5b225d86f00_large.png?v=1611079779"
     ],
     "inStock": true,
     "specs": [],
@@ -9088,7 +9088,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_144421fb-0c04-4e30-9b12-3067fc5b2ec7_large.png?v=1611079780"
     ],
     "inStock": true,
     "specs": [],
@@ -9106,7 +9106,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6da49ab2-2773-43ca-9f81-742eb97676c1_large.png?v=1611079782"
     ],
     "inStock": true,
     "specs": [],
@@ -9124,7 +9124,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_eeaeec3d-3010-43fd-82f5-378cc2c0aa26_large.png?v=1611079783"
     ],
     "inStock": true,
     "specs": [],
@@ -9142,7 +9142,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_744fca28-85a2-4df5-b59f-64f32d19c551_large.png?v=1611079785"
     ],
     "inStock": true,
     "specs": [],
@@ -9160,7 +9160,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c8619866-a93f-4428-84dc-dac96dcbd767_large.png?v=1611079787"
     ],
     "inStock": true,
     "specs": [],
@@ -9178,7 +9178,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0a05b9fb-64c7-45f8-aff2-fe85afd7485e_large.png?v=1611079788"
     ],
     "inStock": true,
     "specs": [],
@@ -9196,7 +9196,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_95f916f8-af8a-4a6e-8150-e8ceaacf959f_large.png?v=1611079791"
     ],
     "inStock": true,
     "specs": [],
@@ -9214,7 +9214,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_43944789-6d6f-4754-8887-86c4d3e1039a_large.png?v=1611079792"
     ],
     "inStock": true,
     "specs": [],
@@ -9232,7 +9232,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d9c2ac4f-d2f9-4340-ba27-577e1a897544_large.png?v=1611079793"
     ],
     "inStock": true,
     "specs": [],
@@ -9250,7 +9250,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_20fc735a-0716-4cb5-960c-b6eede6281c8_large.png?v=1611079795"
     ],
     "inStock": true,
     "specs": [],
@@ -9268,7 +9268,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9a8dad98-4d7c-4050-98ba-821f08417c37_large.png?v=1611079796"
     ],
     "inStock": true,
     "specs": [],
@@ -9286,7 +9286,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8fca430d-eb30-48b2-b671-a20aace72ba0_large.png?v=1611079797"
     ],
     "inStock": true,
     "specs": [],
@@ -9304,7 +9304,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_5bb0a503-c1bb-45e4-814b-b4506768cd4c_large.png?v=1611079799"
     ],
     "inStock": true,
     "specs": [],
@@ -9322,7 +9322,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e8189534-acd8-482e-b8c6-bf3ec0d3b1a2_large.png?v=1611079800"
     ],
     "inStock": true,
     "specs": [],
@@ -9340,7 +9340,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_85f0c212-3156-4eaa-b031-1430887e46a3_large.png?v=1611079801"
     ],
     "inStock": true,
     "specs": [],
@@ -9358,7 +9358,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6264f5e4-79f0-4736-be6f-8af76f135d86_large.png?v=1611079803"
     ],
     "inStock": true,
     "specs": [],
@@ -9376,7 +9376,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4f39b7c1-fc3a-4406-9331-8e62f9129bf9_large.png?v=1611079804"
     ],
     "inStock": true,
     "specs": [],
@@ -9394,7 +9394,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_54ea4ab8-f41a-4b36-9190-20c77328d40c_large.png?v=1611079805"
     ],
     "inStock": true,
     "specs": [],
@@ -9412,7 +9412,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c73bff4e-c5c9-4a1f-b2a8-e431683c14db_large.png?v=1611079807"
     ],
     "inStock": true,
     "specs": [],
@@ -9430,7 +9430,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_43ae26c9-11bd-49fc-b8a3-308ae9a1343a_large.png?v=1611079810"
     ],
     "inStock": true,
     "specs": [],
@@ -9448,7 +9448,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_7f67740f-0dcd-44b4-9fe7-b1f577a8447d_large.png?v=1611079812"
     ],
     "inStock": true,
     "specs": [],
@@ -9466,7 +9466,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c5e15b12-8ac7-4722-b35b-1bd7a67e0de0_large.png?v=1611079814"
     ],
     "inStock": true,
     "specs": [],
@@ -9484,7 +9484,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c2b62113-1a6a-45c8-90c6-a63233b75b73_large.png?v=1611079815"
     ],
     "inStock": true,
     "specs": [],
@@ -9502,7 +9502,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_21c48d0d-a80f-464f-b09f-6478ef827ecc_large.png?v=1611079818"
     ],
     "inStock": true,
     "specs": [],
@@ -9520,7 +9520,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_9014ed6f-85d8-430c-823e-bff8ecc1ecd5_large.png?v=1611079819"
     ],
     "inStock": true,
     "specs": [],
@@ -9538,7 +9538,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_58069f0a-8c96-4649-b35c-acf1f8aca6b8_large.png?v=1611079821"
     ],
     "inStock": true,
     "specs": [],
@@ -9556,7 +9556,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d8803d84-3880-4ef9-8734-8db05f135aa3_large.png?v=1611079822"
     ],
     "inStock": true,
     "specs": [],
@@ -9574,7 +9574,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_65175f2f-b0b0-4daf-8ec0-a74d224bcae9_large.png?v=1611079823"
     ],
     "inStock": true,
     "specs": [],
@@ -9592,7 +9592,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_1e67d1b1-ef16-44d0-8814-d62e64290be9_large.png?v=1611079824"
     ],
     "inStock": true,
     "specs": [],
@@ -9610,7 +9610,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_03920e80-760c-4b36-80e7-845be4a4ce42_large.png?v=1611079826"
     ],
     "inStock": true,
     "specs": [],
@@ -9628,7 +9628,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4fd102c9-fd0b-4bad-8e37-f7112ba3c56e_large.png?v=1611079827"
     ],
     "inStock": true,
     "specs": [],
@@ -9646,7 +9646,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_fa60e86c-27dc-4e86-93c2-fec1b0585bf6_large.png?v=1611079828"
     ],
     "inStock": true,
     "specs": [],
@@ -9664,7 +9664,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_7509564d-ca13-43bd-8c49-218bfd02a489_large.png?v=1611079830"
     ],
     "inStock": true,
     "specs": [],
@@ -9682,7 +9682,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a75e34cf-7080-43e8-b7ad-8dd7655b80bb_large.png?v=1611079831"
     ],
     "inStock": true,
     "specs": [],
@@ -9700,7 +9700,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_1f118e4f-07e9-401e-a647-335bc7b1e760_large.png?v=1611079832"
     ],
     "inStock": true,
     "specs": [],
@@ -9718,7 +9718,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_3c1af77d-e0b1-42b7-bf39-19672d3223f4_large.png?v=1611079833"
     ],
     "inStock": true,
     "specs": [],
@@ -9736,7 +9736,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_6d7916bb-db9c-48fd-a9dc-67a0c931b1a7_large.png?v=1611079835"
     ],
     "inStock": true,
     "specs": [],
@@ -9754,7 +9754,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_1b34ffeb-be6c-4516-83ba-9135c6c3cecf_large.png?v=1611079838"
     ],
     "inStock": true,
     "specs": [],
@@ -9772,7 +9772,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_490d0479-4308-4e70-8d96-812e62a8a38a_large.png?v=1611079839"
     ],
     "inStock": true,
     "specs": [],
@@ -9790,7 +9790,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_38e3a9d4-c4c6-4db1-8de0-01ac5cadbf50_large.png?v=1611079840"
     ],
     "inStock": true,
     "specs": [],
@@ -9808,7 +9808,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_aa034459-b6dd-4ca2-8b37-08babcf158c7_large.png?v=1611079843"
     ],
     "inStock": true,
     "specs": [],
@@ -9826,7 +9826,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_788623c3-c149-4654-b90f-707888e7e0b0_large.png?v=1611079844"
     ],
     "inStock": true,
     "specs": [],
@@ -9844,7 +9844,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4ea0ad41-a8a4-409b-b2c0-47b3baeb2d02_large.png?v=1611079845"
     ],
     "inStock": true,
     "specs": [],
@@ -9862,7 +9862,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d34b663e-f111-4eb8-bfc5-f099e47bcd26_large.png?v=1611079847"
     ],
     "inStock": true,
     "specs": [],
@@ -9880,7 +9880,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_66ddfd9e-4a73-4d42-b93c-a02c0bc6b51f_large.png?v=1611079848"
     ],
     "inStock": true,
     "specs": [],
@@ -9898,7 +9898,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e1028457-9805-4013-8713-bba17f47d5e0_large.png?v=1611079850"
     ],
     "inStock": true,
     "specs": [],
@@ -9916,7 +9916,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_fb788a32-bca3-4392-8d2c-108880784d56_large.png?v=1611079851"
     ],
     "inStock": true,
     "specs": [],
@@ -9934,7 +9934,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_f06a76fc-3b50-49e7-bad7-c787f7c600ef_large.png?v=1611079852"
     ],
     "inStock": true,
     "specs": [],
@@ -9952,7 +9952,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_0da54465-56a8-485d-8cc9-d598934c0a3e_large.png?v=1611079853"
     ],
     "inStock": true,
     "specs": [],
@@ -9970,7 +9970,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_55546658-aa5d-400a-afec-a7d2616cd46e_large.png?v=1611079855"
     ],
     "inStock": true,
     "specs": [],
@@ -9988,7 +9988,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ef7bad3e-f944-4b13-9aec-cca3b928934f_large.png?v=1611079856"
     ],
     "inStock": true,
     "specs": [],
@@ -10006,7 +10006,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_e58699d8-5324-4bea-8ca3-27465e3ec435_large.png?v=1611079857"
     ],
     "inStock": true,
     "specs": [],
@@ -10024,7 +10024,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4687f029-0618-41e5-80a9-b627f0318c1c_large.png?v=1611079858"
     ],
     "inStock": true,
     "specs": [],
@@ -10042,7 +10042,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_a30e63f6-4cb8-451c-a77e-da26471814bf_large.png?v=1611079860"
     ],
     "inStock": true,
     "specs": [],
@@ -10060,7 +10060,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_f6b1de42-e707-4549-ad36-9915dc62c60b_large.png?v=1611079861"
     ],
     "inStock": true,
     "specs": [],
@@ -10078,7 +10078,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_70390d19-6c57-407f-a13b-3cb3f235f0fa_large.png?v=1611079862"
     ],
     "inStock": true,
     "specs": [],
@@ -10096,7 +10096,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_b0c74b5c-8ea7-4ffe-9841-e4d6a588c7e9_large.png?v=1611079864"
     ],
     "inStock": true,
     "specs": [],
@@ -10114,7 +10114,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_c009a973-5f63-43b2-8295-945271997d2a_large.png?v=1611079865"
     ],
     "inStock": true,
     "specs": [],
@@ -10132,7 +10132,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_b8345a48-f71a-410c-b2fb-dd7d1eb3b36d_large.png?v=1611079866"
     ],
     "inStock": true,
     "specs": [],
@@ -10150,7 +10150,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_25f8f4bc-f59c-454a-9331-b056c05ac8dc_large.png?v=1611079867"
     ],
     "inStock": true,
     "specs": [],
@@ -10168,7 +10168,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_8234a0dd-e3fe-4a56-a807-79b220fb74ec_large.png?v=1611079869"
     ],
     "inStock": true,
     "specs": [],
@@ -10186,7 +10186,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_22cc6cc5-36cd-4b67-b018-2115784f4798_large.png?v=1611079870"
     ],
     "inStock": true,
     "specs": [],
@@ -10204,7 +10204,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_021b537b-a86e-4121-8111-7133eacb1aab_large.png?v=1611079871"
     ],
     "inStock": true,
     "specs": [],
@@ -10222,7 +10222,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_4bd70cb7-2101-4b4a-b4ab-d235b8b5581d_large.png?v=1611079872"
     ],
     "inStock": true,
     "specs": [],
@@ -10240,7 +10240,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_efd9e2ab-7434-4583-87f1-1ab870b6ff7a_large.png?v=1611079874"
     ],
     "inStock": true,
     "specs": [],
@@ -10258,7 +10258,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_669af603-76e7-4566-afa4-1613abeda659_large.png?v=1611079875"
     ],
     "inStock": true,
     "specs": [],
@@ -10276,7 +10276,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_ce966d5d-9b80-4e34-bf21-8d95319babcf_large.png?v=1611079876"
     ],
     "inStock": true,
     "specs": [],
@@ -10294,7 +10294,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_7aee54c3-d5ef-461a-bee1-559a62e344b5_large.png?v=1611079880"
     ],
     "inStock": true,
     "specs": [],
@@ -10312,7 +10312,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_be33f4b5-b011-47d3-8751-3ff081ab528d_large.png?v=1611079881"
     ],
     "inStock": true,
     "specs": [],
@@ -10330,7 +10330,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_db52453e-9671-45c9-a754-1cf40897de8a_large.png?v=1611079882"
     ],
     "inStock": true,
     "specs": [],
@@ -10348,7 +10348,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_d9e13d95-ea64-40fb-b661-8c0181b949b1_large.png?v=1611079883"
     ],
     "inStock": true,
     "specs": [],
@@ -10366,7 +10366,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_40_100_A_Standard_54de7764-a53a-4a0f-b49d-3720270a0527_large.png?v=1611079885"
     ],
     "inStock": true,
     "specs": [],
@@ -10384,7 +10384,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_large.png?v=1751212079"
     ],
     "inStock": true,
     "specs": [],
@@ -10402,7 +10402,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_5d7579d8-a29a-4a1e-9f92-8b3bea1c2ca3_large.png?v=1751212080"
     ],
     "inStock": true,
     "specs": [],
@@ -10420,7 +10420,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_77ccdb4c-b689-4117-b71f-17e83ed81842_large.png?v=1751212080"
     ],
     "inStock": true,
     "specs": [],
@@ -10438,7 +10438,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_91475fc8-78fe-482f-86b0-9957ae90f25c_large.png?v=1751212081"
     ],
     "inStock": true,
     "specs": [],
@@ -10456,7 +10456,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_4cea9894-ed01-4da0-80f6-2ec9f48688cf_large.png?v=1751212082"
     ],
     "inStock": true,
     "specs": [],
@@ -10474,7 +10474,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_large.png?v=1751212082"
     ],
     "inStock": true,
     "specs": [],
@@ -10492,7 +10492,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_461fa0c9-fb30-463b-a2a1-9e43310d4e92_large.png?v=1751212083"
     ],
     "inStock": true,
     "specs": [],
@@ -10510,7 +10510,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_a587e269-8783-4980-95b8-ced75a4a4567_large.png?v=1751212083"
     ],
     "inStock": true,
     "specs": [],
@@ -10528,7 +10528,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_50cbb997-a45e-4804-be2e-83318074cf46_large.png?v=1751212084"
     ],
     "inStock": true,
     "specs": [],
@@ -10546,7 +10546,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_49b5e679-a1df-4217-b605-318be2e8c229_large.png?v=1751212085"
     ],
     "inStock": true,
     "specs": [],
@@ -10564,7 +10564,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_6cff64a7-eeae-4de7-b45a-5af93f1e5be3_large.png?v=1751212086"
     ],
     "inStock": true,
     "specs": [],
@@ -10582,7 +10582,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_8ed9af79-86bb-4825-b71a-677a83a360e6_large.png?v=1751212085"
     ],
     "inStock": true,
     "specs": [],
@@ -10600,7 +10600,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_3218610c-cbac-4775-92d5-1e64be0b07e1_large.png?v=1751212086"
     ],
     "inStock": true,
     "specs": [],
@@ -10618,7 +10618,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_bf8ded4c-03c2-4fc1-b44d-7a911528b820_large.png?v=1751212087"
     ],
     "inStock": true,
     "specs": [],
@@ -10636,7 +10636,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_65d504cb-c565-4ff7-be77-e18affa6a15d_large.png?v=1751212088"
     ],
     "inStock": true,
     "specs": [],
@@ -10654,7 +10654,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_3004a03e-09f5-4316-87cb-6ec9948dfc9d_large.png?v=1751212088"
     ],
     "inStock": true,
     "specs": [],
@@ -10672,7 +10672,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_fffd6dc7-a4b5-4572-92ec-66157b8045d8_large.png?v=1751212089"
     ],
     "inStock": true,
     "specs": [],
@@ -10690,7 +10690,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B3_19f5daf2-7be5-4cb0-af1e-d4c934831edc_large.png?v=1751212089"
     ],
     "inStock": true,
     "specs": [],
@@ -10708,7 +10708,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_b116a320-26c4-4dd6-820f-d89e3d4be7b4_large.png?v=1751212090"
     ],
     "inStock": true,
     "specs": [],
@@ -10726,7 +10726,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_8f57f8ef-1e61-4367-804c-f77067bc7869_large.png?v=1751212090"
     ],
     "inStock": true,
     "specs": [],
@@ -10744,7 +10744,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_7377355d-0e3d-4a72-b4fa-68a7fef69e6a_large.png?v=1751212091"
     ],
     "inStock": true,
     "specs": [],
@@ -10762,7 +10762,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_3dc86625-9867-4d4f-a8dc-bbb845658269_large.png?v=1751212092"
     ],
     "inStock": true,
     "specs": [],
@@ -10780,7 +10780,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/20B4_78bf4020-6892-4654-9f95-9e14742db746_large.png?v=1751212092"
     ],
     "inStock": true,
     "specs": [],
@@ -10798,7 +10798,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_large.png?v=1751212093"
     ],
     "inStock": true,
     "specs": [],
@@ -10816,7 +10816,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_6c3d65ee-cf85-49d9-a631-8d9f66c5b232_large.png?v=1751212094"
     ],
     "inStock": true,
     "specs": [],
@@ -10834,7 +10834,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_3f13e1d8-b1ec-4fbd-adb6-e8d7536955a2_large.png?v=1751212094"
     ],
     "inStock": true,
     "specs": [],
@@ -10852,7 +10852,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_15b07862-d07b-4a45-8119-4c200b7201c4_large.png?v=1751212095"
     ],
     "inStock": true,
     "specs": [],
@@ -10870,7 +10870,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_ccfac57e-eb00-48f0-bf94-98fe869492d4_large.png?v=1751212095"
     ],
     "inStock": true,
     "specs": [],
@@ -10888,7 +10888,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_71404e68-5164-4b59-9595-ea67a6053a56_large.png?v=1751212096"
     ],
     "inStock": true,
     "specs": [],
@@ -10906,7 +10906,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_large.png?v=1751212096"
     ],
     "inStock": true,
     "specs": [],
@@ -10924,7 +10924,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_6b853332-8c60-4d84-831a-5d3247ae566d_large.png?v=1751212098"
     ],
     "inStock": true,
     "specs": [],
@@ -10942,7 +10942,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_b9d78135-2a05-4de8-8fac-a6f035f1310c_large.png?v=1751212099"
     ],
     "inStock": true,
     "specs": [],
@@ -10960,7 +10960,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_787aaff8-f3d0-4f68-88c2-302884c25e6d_large.png?v=1751212099"
     ],
     "inStock": true,
     "specs": [],
@@ -10978,7 +10978,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_0a3d5403-21b4-46c9-b172-da0b8d9c68cb_large.png?v=1751212100"
     ],
     "inStock": true,
     "specs": [],
@@ -10996,7 +10996,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_5550482f-6776-4b19-872d-38962a65a271_large.png?v=1751212101"
     ],
     "inStock": true,
     "specs": [],
@@ -11014,7 +11014,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_096c911b-93df-4f45-a53f-177532ddf410_large.png?v=1751212101"
     ],
     "inStock": true,
     "specs": [],
@@ -11032,7 +11032,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_27bcb2ef-8048-4587-bbb3-dd801062c30a_large.png?v=1751212102"
     ],
     "inStock": true,
     "specs": [],
@@ -11050,7 +11050,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_28d31e87-2749-4106-bded-b9321fc04392_large.png?v=1751212102"
     ],
     "inStock": true,
     "specs": [],
@@ -11068,7 +11068,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_d466ff52-4c8b-4834-b80c-46c35c15b637_large.png?v=1751212103"
     ],
     "inStock": true,
     "specs": [],
@@ -11086,7 +11086,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_012286b4-e6af-45ac-9e83-5765844d38a3_large.png?v=1751212104"
     ],
     "inStock": true,
     "specs": [],
@@ -11104,7 +11104,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B3_fd2098df-8709-4839-8db7-d975c3ac807d_large.png?v=1751212104"
     ],
     "inStock": true,
     "specs": [],
@@ -11122,7 +11122,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_fac2389c-1a36-4ed1-87c7-ab282406724e_large.png?v=1751212106"
     ],
     "inStock": true,
     "specs": [],
@@ -11140,7 +11140,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_1d62cb02-1587-4d53-8c13-6afb53569e55_large.png?v=1751212105"
     ],
     "inStock": true,
     "specs": [],
@@ -11158,7 +11158,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_afddc0df-8941-432a-97fa-5fae0600c870_large.png?v=1751212106"
     ],
     "inStock": true,
     "specs": [],
@@ -11176,7 +11176,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_e170877b-ff92-46e3-afdb-9c3aaa76d2b2_large.png?v=1751212107"
     ],
     "inStock": true,
     "specs": [],
@@ -11194,7 +11194,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/25B4_32413660-274d-48b3-93e9-8751576b9fe7_large.png?v=1751212108"
     ],
     "inStock": true,
     "specs": [],
@@ -11212,7 +11212,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_large.png?v=1751212108"
     ],
     "inStock": true,
     "specs": [],
@@ -11230,7 +11230,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_0d366a33-d63f-495a-ba3b-c184ee16a70b_large.png?v=1751212109"
     ],
     "inStock": true,
     "specs": [],
@@ -11248,7 +11248,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_00e7e647-f3c4-446a-b5f4-2e7581da7a69_large.png?v=1751212109"
     ],
     "inStock": true,
     "specs": [],
@@ -11266,7 +11266,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_7b92ba4b-25a1-40d4-a2ad-bf1c75e92326_large.png?v=1751212110"
     ],
     "inStock": true,
     "specs": [],
@@ -11284,7 +11284,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_34374bef-9d94-45ae-8462-06ef95275007_large.png?v=1751212111"
     ],
     "inStock": true,
     "specs": [],
@@ -11302,7 +11302,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_76114a16-3a5e-4583-9979-eaab244213b8_large.png?v=1751212111"
     ],
     "inStock": true,
     "specs": [],
@@ -11320,7 +11320,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_large.png?v=1751212112"
     ],
     "inStock": true,
     "specs": [],
@@ -11338,7 +11338,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_8bebea9c-eed4-4711-8795-dbb71153e1a2_large.png?v=1751212113"
     ],
     "inStock": true,
     "specs": [],
@@ -11356,7 +11356,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_9a5f982c-fced-4889-9763-9b254d765be4_large.png?v=1751212113"
     ],
     "inStock": true,
     "specs": [],
@@ -11374,7 +11374,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_4d0459c5-3cfd-4773-9bee-65d0da793839_large.png?v=1751212114"
     ],
     "inStock": true,
     "specs": [],
@@ -11392,7 +11392,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_f4463a58-8e74-4e25-ac49-26630907337b_large.png?v=1751212115"
     ],
     "inStock": true,
     "specs": [],
@@ -11410,7 +11410,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_0fddf5a3-ac08-420c-9424-329a181bdc07_large.png?v=1751212115"
     ],
     "inStock": true,
     "specs": [],
@@ -11428,7 +11428,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_5860413f-481c-4cbf-b444-de97175c6986_large.png?v=1751212116"
     ],
     "inStock": true,
     "specs": [],
@@ -11446,7 +11446,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_01203a03-7ba6-4c45-ad32-ac0980da64fb_large.png?v=1751212116"
     ],
     "inStock": true,
     "specs": [],
@@ -11464,7 +11464,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_e55ce766-95f2-4149-ace6-a40e3a35b37e_large.png?v=1751212117"
     ],
     "inStock": true,
     "specs": [],
@@ -11482,7 +11482,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_40360a7d-496f-4742-ab5d-b92f4a7f263e_large.png?v=1751212118"
     ],
     "inStock": true,
     "specs": [],
@@ -11500,7 +11500,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_60579f2e-7977-43ec-a04d-4381c1db2da2_large.png?v=1751212119"
     ],
     "inStock": true,
     "specs": [],
@@ -11518,7 +11518,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B3_a167d856-5cc0-4bf1-b709-ab194a44edc0_large.png?v=1751212118"
     ],
     "inStock": true,
     "specs": [],
@@ -11536,7 +11536,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_9be629fc-aca1-441f-8ced-7399ca3220be_large.png?v=1751212119"
     ],
     "inStock": true,
     "specs": [],
@@ -11554,7 +11554,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_7d34d317-bdbd-42f5-bf18-9c1064348844_large.png?v=1751212120"
     ],
     "inStock": true,
     "specs": [],
@@ -11572,7 +11572,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_20226627-23ae-40e2-9ec3-9967402bae01_large.png?v=1751212121"
     ],
     "inStock": true,
     "specs": [],
@@ -11590,7 +11590,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_91ee6bdc-e0a3-4229-b9e3-56804b139c08_large.png?v=1751212121"
     ],
     "inStock": true,
     "specs": [],
@@ -11608,7 +11608,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_50c69a10-8bb5-4045-a459-6e0788151929_large.png?v=1751212122"
     ],
     "inStock": true,
     "specs": [],
@@ -11626,7 +11626,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/30B4_374d658c-b54c-4d03-8c04-83a8b6c4e427_large.png?v=1751212122"
     ],
     "inStock": true,
     "specs": [],
@@ -11644,7 +11644,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_large.png?v=1751212124"
     ],
     "inStock": true,
     "specs": [],
@@ -11662,7 +11662,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_04985678-527d-44eb-b2e0-f38f7720b51d_large.png?v=1751212123"
     ],
     "inStock": true,
     "specs": [],
@@ -11680,7 +11680,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_f4de2547-2d0e-4d4b-8a85-ce33ff95295d_large.png?v=1751212125"
     ],
     "inStock": true,
     "specs": [],
@@ -11698,7 +11698,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_cd2b3390-faf8-4b72-b952-63003a1e399b_large.png?v=1751212124"
     ],
     "inStock": true,
     "specs": [],
@@ -11716,7 +11716,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_6d4ebc64-596f-4c37-8a6e-f7f2aae9dde9_large.png?v=1751212126"
     ],
     "inStock": true,
     "specs": [],
@@ -11734,7 +11734,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_9bff051f-0d0e-40d6-a4d1-0e024f71f332_large.png?v=1751212126"
     ],
     "inStock": true,
     "specs": [],
@@ -11752,7 +11752,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_large.png?v=1751212127"
     ],
     "inStock": true,
     "specs": [],
@@ -11770,7 +11770,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_aae4e30e-734e-4528-9c69-186ebadfa3a6_large.png?v=1751212127"
     ],
     "inStock": true,
     "specs": [],
@@ -11788,7 +11788,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_4f50ac84-bfbf-4480-ab51-d63a06c149dd_large.png?v=1751212128"
     ],
     "inStock": true,
     "specs": [],
@@ -11806,7 +11806,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_eaa0dd9a-b9f2-425b-b3bf-23cac444caea_large.png?v=1751212129"
     ],
     "inStock": true,
     "specs": [],
@@ -11824,7 +11824,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_039f4072-5562-4c4f-be81-caebe455ebd4_large.png?v=1751212129"
     ],
     "inStock": true,
     "specs": [],
@@ -11842,7 +11842,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_8bb86674-8611-4b9e-ac58-262d25a856ed_large.png?v=1751212130"
     ],
     "inStock": true,
     "specs": [],
@@ -11860,7 +11860,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_171b4934-d028-4d09-bac3-b591e530b4b0_large.png?v=1751212130"
     ],
     "inStock": true,
     "specs": [],
@@ -11878,7 +11878,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_fd5d3f56-b593-4d38-98b8-bd8fd4170e8e_large.png?v=1751212131"
     ],
     "inStock": true,
     "specs": [],
@@ -11896,7 +11896,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_e7c1c396-3398-450f-b88f-e302bf737133_large.png?v=1751212131"
     ],
     "inStock": true,
     "specs": [],
@@ -11914,7 +11914,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_7ca106d6-d079-40a6-b0e4-b7445b8fb367_large.png?v=1751212132"
     ],
     "inStock": true,
     "specs": [],
@@ -11932,7 +11932,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_6cf3df53-d122-474c-81fd-0e8ef3a3b4ee_large.png?v=1751212133"
     ],
     "inStock": true,
     "specs": [],
@@ -11950,7 +11950,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_3968ea43-4894-49ab-8c6e-17e3e65e1f41_large.png?v=1751212134"
     ],
     "inStock": true,
     "specs": [],
@@ -11968,7 +11968,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-3_ef1a4c64-29d5-470f-ba90-f566c58d4aad_large.png?v=1751212133"
     ],
     "inStock": true,
     "specs": [],
@@ -11986,7 +11986,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_e37ce64f-6b5e-4f51-9448-7e9ae09ecc43_large.png?v=1751212135"
     ],
     "inStock": true,
     "specs": [],
@@ -12004,7 +12004,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_9a66e7cf-eb8d-4233-87d6-8c1e0937e51b_large.png?v=1751212134"
     ],
     "inStock": true,
     "specs": [],
@@ -12022,7 +12022,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_9f53462d-cc49-46a1-8682-a68dae64b580_large.png?v=1751212136"
     ],
     "inStock": true,
     "specs": [],
@@ -12040,7 +12040,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_f26f43c0-acc5-4bd7-9215-a46a62564bbf_large.png?v=1751212135"
     ],
     "inStock": true,
     "specs": [],
@@ -12058,7 +12058,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_large.png?v=1751212137"
     ],
     "inStock": true,
     "specs": [],
@@ -12076,7 +12076,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/32-4_0077cc8d-3300-49d7-a6f7-241776e3efaf_large.png?v=1751212137"
     ],
     "inStock": true,
     "specs": [],
@@ -12094,7 +12094,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_7ec0f0d6-42a2-48ab-b0c0-9c67bb74ee5a_large.png?v=1751212138"
     ],
     "inStock": true,
     "specs": [],
@@ -12112,7 +12112,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_2c3b578a-55a8-40ca-a376-32ff386e13bf_large.png?v=1751212139"
     ],
     "inStock": true,
     "specs": [],
@@ -12130,7 +12130,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_47b92a99-2555-40ad-a9ed-80791f96b29c_large.png?v=1751212139"
     ],
     "inStock": true,
     "specs": [],
@@ -12148,7 +12148,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_c88413f6-4d79-4378-bbe9-be78c94e8b2f_large.png?v=1751212140"
     ],
     "inStock": true,
     "specs": [],
@@ -12166,7 +12166,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_a2bb36a9-8aa8-45dc-929c-349adf5d6b38_large.png?v=1751212140"
     ],
     "inStock": true,
     "specs": [],
@@ -12184,7 +12184,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_large.png?v=1751212142"
     ],
     "inStock": true,
     "specs": [],
@@ -12202,7 +12202,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_bab5b376-288a-4a80-abb7-59c2778cb073_large.png?v=1751212141"
     ],
     "inStock": true,
     "specs": [],
@@ -12220,7 +12220,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_8de184af-62dd-4251-ae43-ee982f0ce71e_large.png?v=1751212142"
     ],
     "inStock": true,
     "specs": [],
@@ -12238,7 +12238,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_b81e562b-3acf-4a7f-8588-d9e3904f307a_large.png?v=1751212143"
     ],
     "inStock": true,
     "specs": [],
@@ -12256,7 +12256,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_ac550d30-ef9a-415e-a3b1-80b1aa28ca7d_large.png?v=1751212143"
     ],
     "inStock": true,
     "specs": [],
@@ -12274,7 +12274,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_34435be9-e96e-4baf-86a3-4c1b0808683c_large.png?v=1751212145"
     ],
     "inStock": true,
     "specs": [],
@@ -12292,7 +12292,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_a0fbffc9-cad2-4517-b689-d1fa7ac5248e_large.png?v=1751212144"
     ],
     "inStock": true,
     "specs": [],
@@ -12310,7 +12310,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_6cdb0eb3-571f-40c5-918e-d03d5e210d6c_large.png?v=1751212146"
     ],
     "inStock": true,
     "specs": [],
@@ -12328,7 +12328,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_82a4e623-06d7-409b-b50c-2143c0fac11d_large.png?v=1751212145"
     ],
     "inStock": true,
     "specs": [],
@@ -12346,7 +12346,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_32814641-c0bf-42ce-9741-976a646f4004_large.png?v=1751212147"
     ],
     "inStock": true,
     "specs": [],
@@ -12364,7 +12364,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_68bfd312-5672-44c8-87b7-8b10268be85e_large.png?v=1751212146"
     ],
     "inStock": true,
     "specs": [],
@@ -12382,7 +12382,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_8c6b4553-3ecc-4d84-a6bc-124300583c53_large.png?v=1751212148"
     ],
     "inStock": true,
     "specs": [],
@@ -12400,7 +12400,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-3_bb582097-4e8a-4379-bf7f-11d79e6b64ea_large.png?v=1751212148"
     ],
     "inStock": true,
     "specs": [],
@@ -12418,7 +12418,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_f6633a2d-8389-478b-9ace-004caa403b8d_large.png?v=1751212150"
     ],
     "inStock": true,
     "specs": [],
@@ -12436,7 +12436,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_446eb2b1-1454-4a0b-a563-f94ba792c729_large.png?v=1751212149"
     ],
     "inStock": true,
     "specs": [],
@@ -12454,7 +12454,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_4ca61919-46ef-40d9-9ace-0ec2038e825e_large.png?v=1751212150"
     ],
     "inStock": true,
     "specs": [],
@@ -12472,7 +12472,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_d1e12352-e12f-423e-bf14-01d523063273_large.png?v=1751212151"
     ],
     "inStock": true,
     "specs": [],
@@ -12490,7 +12490,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/40-4_7ca5aaf9-fb9a-4fb1-a0ab-89efdee9454b_large.png?v=1751212151"
     ],
     "inStock": true,
     "specs": [],
@@ -12508,7 +12508,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_430213ff-cdc1-4628-8171-0e035a8d4622_large.jpg?v=1751212077"
     ],
     "inStock": true,
     "specs": [],
@@ -12526,7 +12526,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_813e8a0c-89f7-451c-8fd4-90ea4713d76c_large.jpg?v=1751212078"
     ],
     "inStock": true,
     "specs": [],
@@ -12544,7 +12544,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_a3d068b2-65e9-40de-9b39-4b5c9a9e1da0_large.jpg?v=1751212078"
     ],
     "inStock": true,
     "specs": [],
@@ -12562,7 +12562,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Ex9C_Contactors_2e627774-f78e-4917-96cd-951604218634_large.jpg?v=1751212079"
     ],
     "inStock": true,
     "specs": [],
@@ -12580,7 +12580,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_large.png?v=1611077806"
     ],
     "inStock": true,
     "specs": [],
@@ -12598,7 +12598,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5c2444b5-c7ff-4333-abdd-783440134c75_large.png?v=1611077807"
     ],
     "inStock": true,
     "specs": [],
@@ -12616,7 +12616,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_dced6b30-0adc-4e28-9ad6-86aff24b34bd_large.png?v=1611077809"
     ],
     "inStock": true,
     "specs": [],
@@ -12634,7 +12634,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_40fbaaa8-3988-4b85-b28c-60dd38ccd679_large.png?v=1611077810"
     ],
     "inStock": true,
     "specs": [],
@@ -12652,7 +12652,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_cb0b9850-1175-4a69-b7cd-718ccd9210d3_large.png?v=1611077811"
     ],
     "inStock": true,
     "specs": [],
@@ -12670,7 +12670,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_01fd50c8-3c8a-4e95-849e-62c795548306_large.png?v=1611077812"
     ],
     "inStock": true,
     "specs": [],
@@ -12688,7 +12688,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ef0c0be9-0968-4f2c-9d48-e24ed4f73974_large.png?v=1611077814"
     ],
     "inStock": true,
     "specs": [],
@@ -12706,7 +12706,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c09cc9cd-95f5-43f4-8442-e071d7458b82_large.png?v=1611077816"
     ],
     "inStock": true,
     "specs": [],
@@ -12724,7 +12724,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c999c886-d183-4d2c-9f87-05d5d1303921_large.png?v=1611077817"
     ],
     "inStock": true,
     "specs": [],
@@ -12742,7 +12742,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b764ed6e-80f0-436c-bc1a-5b441773ed0a_large.png?v=1611077818"
     ],
     "inStock": true,
     "specs": [],
@@ -12760,7 +12760,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_79d969c4-fd63-400d-b7cd-eac8f025aee6_large.png?v=1611077820"
     ],
     "inStock": true,
     "specs": [],
@@ -12778,7 +12778,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_831437fe-e5c3-4d47-9b5a-f94bb3853df4_large.png?v=1611077822"
     ],
     "inStock": true,
     "specs": [],
@@ -12796,7 +12796,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b601043c-7f81-4efb-9598-70ed4bcdc70b_large.png?v=1611077823"
     ],
     "inStock": true,
     "specs": [],
@@ -12814,7 +12814,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5e5425a0-785e-48aa-aa16-5ab7e9b1b964_large.png?v=1611077824"
     ],
     "inStock": true,
     "specs": [],
@@ -12832,7 +12832,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_e93f1d73-916e-44db-b400-1adf359effe4_large.png?v=1611077825"
     ],
     "inStock": true,
     "specs": [],
@@ -12850,7 +12850,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_55591943-ae4c-4e14-ad61-6b7ae4b24c19_large.png?v=1611077827"
     ],
     "inStock": true,
     "specs": [],
@@ -12868,7 +12868,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_2430b544-f712-411d-a6cd-f13117cc8811_large.png?v=1611077828"
     ],
     "inStock": true,
     "specs": [],
@@ -12886,7 +12886,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_bb6f9b28-1bac-427f-943e-8434149dbb77_large.png?v=1611077829"
     ],
     "inStock": true,
     "specs": [],
@@ -12904,7 +12904,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ec967007-055b-4230-8089-801b02156dc3_large.png?v=1611077830"
     ],
     "inStock": true,
     "specs": [],
@@ -12922,7 +12922,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_18449eb1-4c15-4415-8e4a-b834335cab8b_large.png?v=1611077832"
     ],
     "inStock": true,
     "specs": [],
@@ -12940,7 +12940,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_2fe5cd50-cbf4-44b4-baee-49552af29bcd_large.png?v=1611077833"
     ],
     "inStock": true,
     "specs": [],
@@ -12958,7 +12958,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_70addd3a-676e-402d-8f3c-4520a1808f9c_large.png?v=1611077834"
     ],
     "inStock": true,
     "specs": [],
@@ -12976,7 +12976,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_acd567fd-0184-45ab-8f53-b1c88d193db3_large.png?v=1611077835"
     ],
     "inStock": true,
     "specs": [],
@@ -12994,7 +12994,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_7c9f575b-f150-436f-a0df-540710101a63_large.png?v=1611077837"
     ],
     "inStock": true,
     "specs": [],
@@ -13012,7 +13012,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b8a3ab82-d275-4311-a687-4bb36ab17010_large.png?v=1611077838"
     ],
     "inStock": true,
     "specs": [],
@@ -13030,7 +13030,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_9fdf6b30-6ccb-432a-8c86-de4a0e1d3e47_large.png?v=1611077839"
     ],
     "inStock": true,
     "specs": [],
@@ -13048,7 +13048,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_1f609009-fe89-457a-8539-ba88fce1fc68_large.png?v=1611077841"
     ],
     "inStock": true,
     "specs": [],
@@ -13066,7 +13066,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_eacb1e90-cc5f-445b-92e3-35a8980cc381_large.png?v=1611077843"
     ],
     "inStock": true,
     "specs": [],
@@ -13084,7 +13084,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_f61b2cb0-8d8a-46b1-a38c-7741aee07a79_large.png?v=1611077844"
     ],
     "inStock": true,
     "specs": [],
@@ -13102,7 +13102,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_55384ef7-028d-4354-9df1-386cf777f0cc_large.png?v=1611077846"
     ],
     "inStock": true,
     "specs": [],
@@ -13120,7 +13120,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_6cdd8d7c-ca94-44cb-af8f-12a3562adde7_large.png?v=1611077847"
     ],
     "inStock": true,
     "specs": [],
@@ -13138,7 +13138,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c13458f6-c7c9-4324-be9d-552e11a28cee_large.png?v=1611077848"
     ],
     "inStock": true,
     "specs": [],
@@ -13156,7 +13156,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_7ec65cb3-cac3-4cd3-98ec-fe386185e2e8_large.png?v=1611077849"
     ],
     "inStock": true,
     "specs": [],
@@ -13174,7 +13174,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_2e3ca123-a83b-408a-a6ec-a93a6f4ca675_large.png?v=1611077851"
     ],
     "inStock": true,
     "specs": [],
@@ -13192,7 +13192,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_acd59675-43f2-493a-87ff-80e41373514a_large.png?v=1611077852"
     ],
     "inStock": true,
     "specs": [],
@@ -13210,7 +13210,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_357a272f-1592-4859-8985-f75c1c42b56f_large.png?v=1611077854"
     ],
     "inStock": true,
     "specs": [],
@@ -13228,7 +13228,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b4e3716f-9c35-4315-81a8-007817563fc8_large.png?v=1611077855"
     ],
     "inStock": true,
     "specs": [],
@@ -13246,7 +13246,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_861cb68f-4caa-4523-92c2-5bd6360934bd_large.png?v=1611077856"
     ],
     "inStock": true,
     "specs": [],
@@ -13264,7 +13264,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_40e81854-974f-4d47-b056-94f28093a6f3_large.png?v=1611077858"
     ],
     "inStock": true,
     "specs": [],
@@ -13282,7 +13282,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c14f5f50-d9ed-409a-ae73-af6268858577_large.png?v=1611077859"
     ],
     "inStock": true,
     "specs": [],
@@ -13300,7 +13300,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_99563197-28a6-4ee6-a8b5-1660966e51a1_large.png?v=1611077861"
     ],
     "inStock": true,
     "specs": [],
@@ -13318,7 +13318,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_fdd1d7b0-d248-47d1-ac87-b2d90b659089_large.png?v=1611077862"
     ],
     "inStock": true,
     "specs": [],
@@ -13336,7 +13336,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_7331581c-4d0f-4343-82b8-3bcdc993b5ff_large.png?v=1611077863"
     ],
     "inStock": true,
     "specs": [],
@@ -13354,7 +13354,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_72fbfac8-28cb-43c4-94b2-58f7799624df_large.png?v=1611077865"
     ],
     "inStock": true,
     "specs": [],
@@ -13372,7 +13372,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_688ecae9-66bd-45dd-9b96-244717162e47_large.png?v=1611077868"
     ],
     "inStock": true,
     "specs": [],
@@ -13390,7 +13390,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b06fb04b-6b37-4c39-8a2f-843d02d4b969_large.png?v=1611077869"
     ],
     "inStock": true,
     "specs": [],
@@ -13408,7 +13408,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_92560488-663b-4082-91c4-98a2b76bfc47_large.png?v=1611077870"
     ],
     "inStock": true,
     "specs": [],
@@ -13426,7 +13426,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_f970c345-358f-43ec-99f4-bc0e3d02f864_large.png?v=1611077872"
     ],
     "inStock": true,
     "specs": [],
@@ -13444,7 +13444,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_547e6280-466d-4923-95b5-74ad0b3c3583_large.png?v=1611077873"
     ],
     "inStock": true,
     "specs": [],
@@ -13462,7 +13462,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_440ea094-3d4f-4621-b0ba-fa4fae2306bd_large.png?v=1611077874"
     ],
     "inStock": true,
     "specs": [],
@@ -13480,7 +13480,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_9c58f728-b4fc-4d43-b4a5-d0848269df95_large.png?v=1611077875"
     ],
     "inStock": true,
     "specs": [],
@@ -13498,7 +13498,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_9caebf0a-bc2f-4a47-bbd1-257beb6e1c89_large.png?v=1611077876"
     ],
     "inStock": true,
     "specs": [],
@@ -13516,7 +13516,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_725f412b-03b4-4bf2-8140-85c0c1b96fcb_large.png?v=1611077878"
     ],
     "inStock": true,
     "specs": [],
@@ -13534,7 +13534,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3aae13c8-a6af-41e2-b986-5ccc24e89449_large.png?v=1611077879"
     ],
     "inStock": true,
     "specs": [],
@@ -13552,7 +13552,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5cbb80c6-6469-4936-8496-220b17be6576_large.png?v=1611077880"
     ],
     "inStock": true,
     "specs": [],
@@ -13570,7 +13570,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_6d92a9a1-f76b-411c-bd72-27a23c26e05d_large.png?v=1611077881"
     ],
     "inStock": true,
     "specs": [],
@@ -13588,7 +13588,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_0cc21ef6-fc9d-42aa-ae34-07af023cfe09_large.png?v=1611077883"
     ],
     "inStock": true,
     "specs": [],
@@ -13606,7 +13606,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_f1d6fc8e-c400-4165-8518-16ef21a46ccb_large.png?v=1611077884"
     ],
     "inStock": true,
     "specs": [],
@@ -13624,7 +13624,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_996f292e-017c-4d12-8240-8134becc166f_large.png?v=1611077885"
     ],
     "inStock": true,
     "specs": [],
@@ -13642,7 +13642,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_2cc6d63a-f46a-4a71-a2dc-a398473d58c7_large.png?v=1611077886"
     ],
     "inStock": true,
     "specs": [],
@@ -13660,7 +13660,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_27c51374-119f-405d-8f96-c534348c32d9_large.png?v=1611077887"
     ],
     "inStock": true,
     "specs": [],
@@ -13678,7 +13678,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_be99bf54-6ff3-44fe-85ba-65856f10cba9_large.png?v=1611077890"
     ],
     "inStock": true,
     "specs": [],
@@ -13696,7 +13696,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_bac80cdd-1589-487f-a162-839af078dbb8_large.png?v=1611077891"
     ],
     "inStock": true,
     "specs": [],
@@ -13714,7 +13714,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c96df5eb-ce7d-4634-b7b3-19281338ebbf_large.png?v=1611077892"
     ],
     "inStock": true,
     "specs": [],
@@ -13732,7 +13732,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_138c4a82-8eff-446f-a6ee-e1e790a5bb2a_large.png?v=1611077894"
     ],
     "inStock": true,
     "specs": [],
@@ -13750,7 +13750,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_941e65af-7ddd-45a9-8ca5-c7e03ecfbee2_large.png?v=1611077895"
     ],
     "inStock": true,
     "specs": [],
@@ -13768,7 +13768,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_e8d9c857-c8b1-47cd-a5ca-90048622e367_large.png?v=1611077897"
     ],
     "inStock": true,
     "specs": [],
@@ -13786,7 +13786,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_4dccbbcb-91d8-4293-9327-938adf6a616b_large.png?v=1611077898"
     ],
     "inStock": true,
     "specs": [],
@@ -13804,7 +13804,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_066ddb81-d371-4220-99b9-b9e0104f8002_large.png?v=1611077899"
     ],
     "inStock": true,
     "specs": [],
@@ -13822,7 +13822,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ff078f3e-a8e1-4b4d-bc96-469046520b92_large.png?v=1611077900"
     ],
     "inStock": true,
     "specs": [],
@@ -13840,7 +13840,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_8fbab20d-3d2a-4d19-8a7c-8962e71dbdaf_large.png?v=1611077901"
     ],
     "inStock": true,
     "specs": [],
@@ -13858,7 +13858,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b099f99b-d0be-43a5-806d-563f27166741_large.png?v=1611077902"
     ],
     "inStock": true,
     "specs": [],
@@ -13876,7 +13876,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_fd3078e9-2dbf-47df-988b-db0494f3865f_large.png?v=1611077904"
     ],
     "inStock": true,
     "specs": [],
@@ -13894,7 +13894,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_a85154c4-3b22-45d3-91ba-8abfa6294957_large.png?v=1611077905"
     ],
     "inStock": true,
     "specs": [],
@@ -13912,7 +13912,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3395836d-0848-43e0-81b1-97f67618cd94_large.png?v=1611077906"
     ],
     "inStock": true,
     "specs": [],
@@ -13930,7 +13930,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_f178dbf2-3ccb-44a6-a76d-a0703750ca08_large.png?v=1611077907"
     ],
     "inStock": true,
     "specs": [],
@@ -13948,7 +13948,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5869c16e-9205-4ae4-8826-3a03ac67123a_large.png?v=1611077908"
     ],
     "inStock": true,
     "specs": [],
@@ -13966,7 +13966,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_6aeac699-f182-45b3-a3e6-8a8c780c20c3_large.png?v=1611077909"
     ],
     "inStock": true,
     "specs": [],
@@ -13984,7 +13984,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_951ed248-d8b5-41f7-a9ec-cf2299d9b241_large.png?v=1611077912"
     ],
     "inStock": true,
     "specs": [],
@@ -14002,7 +14002,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_55992cff-0c5c-4628-aaad-7b8dcd2707b0_large.png?v=1611077913"
     ],
     "inStock": true,
     "specs": [],
@@ -14020,7 +14020,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_f6158696-0b8d-4559-82e9-62891cdb785d_large.png?v=1611077914"
     ],
     "inStock": true,
     "specs": [],
@@ -14038,7 +14038,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_d2a4fb0f-120c-4138-b21a-9e6cd1cc0489_large.png?v=1611077915"
     ],
     "inStock": true,
     "specs": [],
@@ -14056,7 +14056,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_653dfcee-636a-442f-bb66-84a2ff15af89_large.png?v=1611077916"
     ],
     "inStock": true,
     "specs": [],
@@ -14074,7 +14074,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_763ca2f7-d63e-4cab-9663-2783ff3cb589_large.png?v=1611077918"
     ],
     "inStock": true,
     "specs": [],
@@ -14092,7 +14092,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3e6bb40f-9cdd-4b65-b35f-919a9d157489_large.png?v=1611077919"
     ],
     "inStock": true,
     "specs": [],
@@ -14110,7 +14110,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_938c96e0-f2b8-49aa-96e5-013b05ea30b1_large.png?v=1611077920"
     ],
     "inStock": true,
     "specs": [],
@@ -14128,7 +14128,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_6d282315-136a-4b83-9b30-82dbe7c668b3_large.png?v=1611077921"
     ],
     "inStock": true,
     "specs": [],
@@ -14146,7 +14146,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_69bdda6f-1ac6-41ef-9cfd-5c9125e48c44_large.png?v=1611077923"
     ],
     "inStock": true,
     "specs": [],
@@ -14164,7 +14164,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_d8395f16-36aa-4522-98f0-cc724af3104f_large.png?v=1611077924"
     ],
     "inStock": true,
     "specs": [],
@@ -14182,7 +14182,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_4693de14-b505-425f-ad9b-e74040c12a61_large.png?v=1611077925"
     ],
     "inStock": true,
     "specs": [],
@@ -14200,7 +14200,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_65250aee-a105-4c41-9cb0-fb1665e8ca48_large.png?v=1611077927"
     ],
     "inStock": true,
     "specs": [],
@@ -14218,7 +14218,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5705b08b-94be-4129-864a-22f326b5cb41_large.png?v=1611077928"
     ],
     "inStock": true,
     "specs": [],
@@ -14236,7 +14236,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_1b0d40e1-53e0-4c43-bed0-9bc7bc880969_large.png?v=1611077929"
     ],
     "inStock": true,
     "specs": [],
@@ -14254,7 +14254,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c6b91e84-106d-45ee-b8fa-bac00ce70406_large.png?v=1611077930"
     ],
     "inStock": true,
     "specs": [],
@@ -14272,7 +14272,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3d85e8da-d7df-48aa-b130-c704b182fc2e_large.png?v=1611077932"
     ],
     "inStock": true,
     "specs": [],
@@ -14290,7 +14290,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_62c43a10-7ddf-4302-86e3-12277b38fae1_large.png?v=1611077934"
     ],
     "inStock": true,
     "specs": [],
@@ -14308,7 +14308,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_193dd366-b4bc-41cf-afe5-8ade1f76f2f1_large.png?v=1611077935"
     ],
     "inStock": true,
     "specs": [],
@@ -14326,7 +14326,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_9a57b7fa-64a9-473d-8f29-99dcfce532ed_large.png?v=1611077936"
     ],
     "inStock": true,
     "specs": [],
@@ -14344,7 +14344,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_2494eaba-1541-4e1e-92fb-dce4131f2495_large.png?v=1611077937"
     ],
     "inStock": true,
     "specs": [],
@@ -14362,7 +14362,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_18f11e6a-a4fd-4b2c-a901-2a122fe5dbd2_large.png?v=1611077938"
     ],
     "inStock": true,
     "specs": [],
@@ -14380,7 +14380,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_50c6df03-f097-4677-88ee-c018b4239fe3_large.png?v=1611077939"
     ],
     "inStock": true,
     "specs": [],
@@ -14398,7 +14398,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b022b45b-55f3-450e-a587-98739a6675e0_large.png?v=1611077941"
     ],
     "inStock": true,
     "specs": [],
@@ -14416,7 +14416,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_73a24cd6-67e2-43dc-99f7-2148a036ca20_large.png?v=1611077942"
     ],
     "inStock": true,
     "specs": [],
@@ -14434,7 +14434,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_64b52287-4e47-4ecc-8b48-4d7f8f4264d6_large.png?v=1611077943"
     ],
     "inStock": true,
     "specs": [],
@@ -14452,7 +14452,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_98dc6205-5d26-4153-b4cd-01a8237eb308_large.png?v=1611077944"
     ],
     "inStock": true,
     "specs": [],
@@ -14470,7 +14470,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_79820dc7-5288-4f12-9f7a-5490737b7d4c_large.png?v=1611077946"
     ],
     "inStock": true,
     "specs": [],
@@ -14488,7 +14488,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_01dd7751-1d8c-4b9b-ad4c-2204dd9882fd_large.png?v=1611077947"
     ],
     "inStock": true,
     "specs": [],
@@ -14506,7 +14506,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_8fe2f09f-c7c4-47f9-9fbb-f9773f428c0d_large.png?v=1611077948"
     ],
     "inStock": true,
     "specs": [],
@@ -14524,7 +14524,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_75f1332f-e4ed-43e6-9ff0-dc4cb2bd36fd_large.png?v=1611077949"
     ],
     "inStock": true,
     "specs": [],
@@ -14542,7 +14542,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_11c954e1-7817-4125-8e3d-efd529a57e2c_large.png?v=1611077950"
     ],
     "inStock": true,
     "specs": [],
@@ -14560,7 +14560,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_90ae4032-53c3-4909-8433-090e83a59877_large.png?v=1611077952"
     ],
     "inStock": true,
     "specs": [],
@@ -14578,7 +14578,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_044f75c5-5329-4382-98f8-89730c005dc5_large.png?v=1611077953"
     ],
     "inStock": true,
     "specs": [],
@@ -14596,7 +14596,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_50eb2ca8-6bbd-43a7-b65e-99746c6c6516_large.png?v=1611077955"
     ],
     "inStock": true,
     "specs": [],
@@ -14614,7 +14614,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_31804167-3da7-4c76-ac6a-1400be9b7773_large.png?v=1611077956"
     ],
     "inStock": true,
     "specs": [],
@@ -14632,7 +14632,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3521eb61-f325-42ac-a46d-2a06c32a3cb0_large.png?v=1611077957"
     ],
     "inStock": true,
     "specs": [],
@@ -14650,7 +14650,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_06765736-ff57-47e1-864d-e33a962d71b4_large.png?v=1611077958"
     ],
     "inStock": true,
     "specs": [],
@@ -14668,7 +14668,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_459749ab-8308-4ee3-bd50-41a06ea23d7b_large.png?v=1611077960"
     ],
     "inStock": true,
     "specs": [],
@@ -14686,7 +14686,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c2c6ce15-86c6-4b99-b6c0-7e86eb84ca81_large.png?v=1611077961"
     ],
     "inStock": true,
     "specs": [],
@@ -14704,7 +14704,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_56a6c57f-f4bd-4639-908e-0c48800711a6_large.png?v=1611077962"
     ],
     "inStock": true,
     "specs": [],
@@ -14722,7 +14722,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_fe37782e-ed2f-41bd-a4b4-b57e6899b9cd_large.png?v=1611077963"
     ],
     "inStock": true,
     "specs": [],
@@ -14740,7 +14740,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_08cfcbd8-0ec6-4039-9830-6659ca946eaf_large.png?v=1611077965"
     ],
     "inStock": true,
     "specs": [],
@@ -14758,7 +14758,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ee80f16b-ac53-4747-b902-bdc5cd24fa98_large.png?v=1611077966"
     ],
     "inStock": true,
     "specs": [],
@@ -14776,7 +14776,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ebc208fc-b03d-43ec-9f9c-8e935049de32_large.png?v=1611077967"
     ],
     "inStock": true,
     "specs": [],
@@ -14794,7 +14794,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b269a04e-b679-4c21-8a3b-bd5a7d5984e2_large.png?v=1611077968"
     ],
     "inStock": true,
     "specs": [],
@@ -14812,7 +14812,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_05c05800-0fcd-4563-844e-c219fa7e8094_large.png?v=1611077969"
     ],
     "inStock": true,
     "specs": [],
@@ -14830,7 +14830,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3deb29fd-470d-4a2c-9abf-850428d4b39a_large.png?v=1611077970"
     ],
     "inStock": true,
     "specs": [],
@@ -14848,7 +14848,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_205c2c7d-c490-4013-9073-c0c622c4bc6a_large.png?v=1611077971"
     ],
     "inStock": true,
     "specs": [],
@@ -14866,7 +14866,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_8b3d35de-b3e9-4be0-b08e-ebf19a72c594_large.png?v=1611077972"
     ],
     "inStock": true,
     "specs": [],
@@ -14884,7 +14884,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_cc963f3a-a223-4e17-a6d6-1f2e6150b0b4_large.png?v=1611077973"
     ],
     "inStock": true,
     "specs": [],
@@ -14902,7 +14902,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_24ded4b8-8e8b-4def-b509-ec01f553d176_large.png?v=1611077976"
     ],
     "inStock": true,
     "specs": [],
@@ -14920,7 +14920,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_f51b87b9-c95e-4992-aa53-0fa52bf7a30c_large.png?v=1611077977"
     ],
     "inStock": true,
     "specs": [],
@@ -14938,7 +14938,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c9e430f6-3b37-4a83-ad56-651ed2ff5499_large.png?v=1611077978"
     ],
     "inStock": true,
     "specs": [],
@@ -14956,7 +14956,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_75ce2aca-b28f-474e-b434-718f02690a39_large.png?v=1611077979"
     ],
     "inStock": true,
     "specs": [],
@@ -14974,7 +14974,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5111c3d4-5d90-4ea6-8e27-96a271084522_large.png?v=1611077980"
     ],
     "inStock": true,
     "specs": [],
@@ -14992,7 +14992,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_7014de81-7743-4133-9160-a1491b68a665_large.png?v=1611077981"
     ],
     "inStock": true,
     "specs": [],
@@ -15010,7 +15010,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_23bb396b-5d93-4dee-b835-0c27b82a16a9_large.png?v=1611077982"
     ],
     "inStock": true,
     "specs": [],
@@ -15028,7 +15028,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3e886476-538e-405d-b43d-f41f341d4abb_large.png?v=1611077983"
     ],
     "inStock": true,
     "specs": [],
@@ -15046,7 +15046,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_04596531-3328-441f-8195-8bc798743d49_large.png?v=1611077984"
     ],
     "inStock": true,
     "specs": [],
@@ -15064,7 +15064,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_acb1eb49-6ee2-48a8-bea0-90ef3f69660f_large.png?v=1611077986"
     ],
     "inStock": true,
     "specs": [],
@@ -15082,7 +15082,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_012944ad-0c96-4bec-a576-fde6fcd60d0f_large.png?v=1611077990"
     ],
     "inStock": true,
     "specs": [],
@@ -15100,7 +15100,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_b26db28d-812a-4e6c-ba01-0a6a1c4d8cc7_large.png?v=1611077991"
     ],
     "inStock": true,
     "specs": [],
@@ -15118,7 +15118,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_08ccdb53-9a15-401d-9972-e38c50977b5d_large.png?v=1611077992"
     ],
     "inStock": true,
     "specs": [],
@@ -15136,7 +15136,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_9df8a8ec-f9f9-4c1e-bff4-85b34e813c32_large.png?v=1611077993"
     ],
     "inStock": true,
     "specs": [],
@@ -15154,7 +15154,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_587ec871-ddec-4af0-8f2c-602d8cacb0c1_large.png?v=1611077994"
     ],
     "inStock": true,
     "specs": [],
@@ -15172,7 +15172,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_7b14804d-9d53-4a6a-a7c5-45e24a7990f4_large.png?v=1611077996"
     ],
     "inStock": true,
     "specs": [],
@@ -15190,7 +15190,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_13a8cd11-a793-451d-aa2d-3e3f02084c03_large.png?v=1611077997"
     ],
     "inStock": true,
     "specs": [],
@@ -15208,7 +15208,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_11973101-70f3-489f-bfa3-0589062278a8_large.png?v=1611077999"
     ],
     "inStock": true,
     "specs": [],
@@ -15226,7 +15226,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_6432f9a9-0cb6-4d9b-b751-044bcbb7040c_large.png?v=1611078001"
     ],
     "inStock": true,
     "specs": [],
@@ -15244,7 +15244,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_377500c4-99d7-420c-982e-ea0d32cfe950_large.png?v=1611078002"
     ],
     "inStock": true,
     "specs": [],
@@ -15262,7 +15262,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_d4fc939b-78ae-402a-af70-dbbb4ec634e9_large.png?v=1611078003"
     ],
     "inStock": true,
     "specs": [],
@@ -15280,7 +15280,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ea31dc60-010e-400b-9672-2f00223e1bfc_large.png?v=1611078004"
     ],
     "inStock": true,
     "specs": [],
@@ -15298,7 +15298,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_c311916d-fe59-4a02-9853-e9d4cbb68cf0_large.png?v=1611078005"
     ],
     "inStock": true,
     "specs": [],
@@ -15316,7 +15316,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_22bab42d-5f12-4e53-bb77-26003c3c3537_large.png?v=1611078007"
     ],
     "inStock": true,
     "specs": [],
@@ -15334,7 +15334,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_12c83be0-d5fc-4f48-af64-d68eaf7c88fa_large.png?v=1611078008"
     ],
     "inStock": true,
     "specs": [],
@@ -15352,7 +15352,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_4ad4f969-171a-4fa9-bb98-7018fb3a0610_large.png?v=1611078009"
     ],
     "inStock": true,
     "specs": [],
@@ -15370,7 +15370,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_1c7d493e-460f-47cf-81ac-05511ece4e48_large.png?v=1611078010"
     ],
     "inStock": true,
     "specs": [],
@@ -15388,7 +15388,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5bb08cfa-0a6d-435a-8a3a-64ea88d2e5aa_large.png?v=1611078012"
     ],
     "inStock": true,
     "specs": [],
@@ -15406,7 +15406,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_6f9bd58e-5a9e-4a40-8c7e-614661469756_large.png?v=1611078013"
     ],
     "inStock": true,
     "specs": [],
@@ -15424,7 +15424,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_782a89f6-6141-408a-a747-e0618822c0a8_large.png?v=1611078014"
     ],
     "inStock": true,
     "specs": [],
@@ -15442,7 +15442,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_5c7f70b3-c93c-43f5-a265-21d8926e60ff_large.png?v=1611078015"
     ],
     "inStock": true,
     "specs": [],
@@ -15460,7 +15460,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_a5a01541-810e-4321-85b3-27076a3b0646_large.png?v=1611078017"
     ],
     "inStock": true,
     "specs": [],
@@ -15478,7 +15478,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_9ebe866d-21ca-4eab-be4a-82c898e8b1d4_large.png?v=1611078018"
     ],
     "inStock": true,
     "specs": [],
@@ -15496,7 +15496,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_3b9e5ddd-20e1-4f1c-b65d-fc2e17313139_large.png?v=1611078019"
     ],
     "inStock": true,
     "specs": [],
@@ -15514,7 +15514,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_7eff72a3-ee0b-4fce-b3f1-c36849405436_large.png?v=1611078022"
     ],
     "inStock": true,
     "specs": [],
@@ -15532,7 +15532,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ccac2a71-3e48-493d-b76f-c51e5ca66477_large.png?v=1611078023"
     ],
     "inStock": true,
     "specs": [],
@@ -15550,7 +15550,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_0da38f80-ca44-4a00-b238-bf8f5c4cc6df_large.png?v=1611078024"
     ],
     "inStock": true,
     "specs": [],
@@ -15568,7 +15568,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_89a757bc-fe79-4c78-9bf4-c6a7dfd1c63d_large.png?v=1611078025"
     ],
     "inStock": true,
     "specs": [],
@@ -15586,7 +15586,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_d32ea27e-f790-4aa7-99ae-cbdeaaf5c553_large.png?v=1611078027"
     ],
     "inStock": true,
     "specs": [],
@@ -15604,7 +15604,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_ef40e103-26f9-42b2-8b1b-1dc939d39071_large.png?v=1611078028"
     ],
     "inStock": true,
     "specs": [],
@@ -15622,7 +15622,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_9_38_A_Standard_9324794f-2873-435f-be10-a3691855079b_large.png?v=1611078030"
     ],
     "inStock": true,
     "specs": [],
@@ -15640,7 +15640,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_large.png?v=1751211251"
     ],
     "inStock": true,
     "specs": [],
@@ -15658,7 +15658,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_a5df0b33-8a38-45b3-90ff-676beada1591_large.png?v=1751211250"
     ],
     "inStock": true,
     "specs": [],
@@ -15676,7 +15676,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_77f61380-77ea-4980-b478-bf11c3905b15_large.png?v=1751211250"
     ],
     "inStock": true,
     "specs": [],
@@ -15694,7 +15694,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_6a549523-6dde-41b7-bcf1-9b586ee8edc4_large.png?v=1751211249"
     ],
     "inStock": true,
     "specs": [],
@@ -15712,7 +15712,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_5f24f59d-e1b3-4df2-b39e-fb4b261e3983_large.png?v=1751211248"
     ],
     "inStock": true,
     "specs": [],
@@ -15730,7 +15730,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_a70bf22b-0ec5-41e0-b350-37d2f0189f31_large.png?v=1751211248"
     ],
     "inStock": true,
     "specs": [],
@@ -15748,7 +15748,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_5da8129c-a6e3-4c8a-8133-3177007d0c15_large.png?v=1751211247"
     ],
     "inStock": true,
     "specs": [],
@@ -15766,7 +15766,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_a8a227b9-c953-448a-80d8-7c8ba15bf3d0_large.png?v=1751211246"
     ],
     "inStock": true,
     "specs": [],
@@ -15784,7 +15784,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_83c0f8cd-612a-486e-92ab-817a0abf8199_large.png?v=1751211246"
     ],
     "inStock": true,
     "specs": [],
@@ -15802,7 +15802,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_581aecff-a96d-4497-a76c-39927225c631_large.png?v=1751211245"
     ],
     "inStock": true,
     "specs": [],
@@ -15820,7 +15820,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_56e8e2e5-8e95-4131-9453-8481379187f2_large.png?v=1751211245"
     ],
     "inStock": true,
     "specs": [],
@@ -15838,7 +15838,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_75ddd905-0c84-4519-bc35-daa292c5fbdb_large.png?v=1751211244"
     ],
     "inStock": true,
     "specs": [],
@@ -15856,7 +15856,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_23164511-e0f8-4d0c-8ade-fec96f2abb9b_large.png?v=1751211244"
     ],
     "inStock": true,
     "specs": [],
@@ -15874,7 +15874,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_72f05602-5469-4bfe-b606-d2cae91f6b78_large.png?v=1751211243"
     ],
     "inStock": true,
     "specs": [],
@@ -15892,7 +15892,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_7d51047b-48c8-44af-8929-324c5e71eaa4_large.png?v=1751211242"
     ],
     "inStock": true,
     "specs": [],
@@ -15910,7 +15910,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_71a4c295-2297-4497-9d04-9453b7369b63_large.png?v=1751211242"
     ],
     "inStock": true,
     "specs": [],
@@ -15928,7 +15928,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_8679c413-9018-4733-9c39-fcf8fb8d0e70_large.png?v=1751211241"
     ],
     "inStock": true,
     "specs": [],
@@ -15946,7 +15946,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_db2407ad-237e-49a2-86ff-6baf0cf02b01_large.png?v=1751211240"
     ],
     "inStock": true,
     "specs": [],
@@ -15964,7 +15964,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Mechanical_Interlock_4416177a-45aa-4770-b2eb-6ffaa63d40b8_large.png?v=1751211240"
     ],
     "inStock": true,
     "specs": [],
@@ -15982,7 +15982,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_large.png?v=1751211849"
     ],
     "inStock": true,
     "specs": [],
@@ -16000,7 +16000,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_e1ea682c-0adf-4dac-96fd-f0068d23a076_large.png?v=1751211848"
     ],
     "inStock": true,
     "specs": [],
@@ -16018,7 +16018,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_bfee890f-9b34-4cac-98c3-f971763e1a48_large.png?v=1751211847"
     ],
     "inStock": true,
     "specs": [],
@@ -16036,7 +16036,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_58346151-754d-46d8-8b92-196cc0e6f9c7_large.png?v=1751211847"
     ],
     "inStock": true,
     "specs": [],
@@ -16054,7 +16054,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_728a589e-d339-4cae-b0ae-394e4419c802_large.png?v=1751211846"
     ],
     "inStock": true,
     "specs": [],
@@ -16072,7 +16072,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_779d5ddc-e356-49f6-a4fb-5785d83f58bb_large.png?v=1751211845"
     ],
     "inStock": true,
     "specs": [],
@@ -16090,7 +16090,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_88bbbbc0-cccb-405a-b199-6c7c89c65aad_large.png?v=1751211845"
     ],
     "inStock": true,
     "specs": [],
@@ -16108,7 +16108,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_d90ce68e-a9d8-405f-a0aa-c5ee6e2e09d6_large.png?v=1751211844"
     ],
     "inStock": true,
     "specs": [],
@@ -16126,7 +16126,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_b0d09ab1-eee9-4398-8d8e-c606106e18fd_large.png?v=1751211843"
     ],
     "inStock": true,
     "specs": [],
@@ -16144,7 +16144,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_d4089d7f-4960-44c0-b7bc-9abed2267517_large.png?v=1751211842"
     ],
     "inStock": true,
     "specs": [],
@@ -16162,7 +16162,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_3c948164-1ce1-4fab-baa6-a73a42cb2392_large.png?v=1751211842"
     ],
     "inStock": true,
     "specs": [],
@@ -16180,7 +16180,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_a8491c57-02df-4a8c-9b90-b8701f2fc12d_large.png?v=1751211841"
     ],
     "inStock": true,
     "specs": [],
@@ -16198,7 +16198,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_8fbcf1bd-54fb-4565-9c61-ac86d027acb3_large.png?v=1751211840"
     ],
     "inStock": true,
     "specs": [],
@@ -16216,7 +16216,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_f9eb92d5-9049-4896-b5c6-a7ef4d873420_large.png?v=1751211839"
     ],
     "inStock": true,
     "specs": [],
@@ -16234,7 +16234,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_2490ae75-19c0-4b9b-bebd-f3766ddaf99f_large.png?v=1751211839"
     ],
     "inStock": true,
     "specs": [],
@@ -16252,7 +16252,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_6013b5ab-42cd-45d2-a951-a160d60004a1_large.png?v=1751211838"
     ],
     "inStock": true,
     "specs": [],
@@ -16270,7 +16270,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CM_Auxiliary_Contact_fe9955e4-a98d-4522-bdee-f75ac5139c06_large.png?v=1751211837"
     ],
     "inStock": true,
     "specs": [],
@@ -16288,7 +16288,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_large.png?v=1611070755"
     ],
     "inStock": true,
     "specs": [],
@@ -16306,7 +16306,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_3632f308-33a3-4929-866a-a95b4cd7bc79_large.png?v=1611070756"
     ],
     "inStock": true,
     "specs": [],
@@ -16324,7 +16324,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_efdc336b-bfb8-4a28-a50e-9ec49fc6f42b_large.png?v=1611070757"
     ],
     "inStock": true,
     "specs": [],
@@ -16342,7 +16342,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_bf7a494b-1bec-4d79-ae14-30afbd871204_large.png?v=1611070759"
     ],
     "inStock": true,
     "specs": [],
@@ -16360,7 +16360,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_0b549827-0524-4b89-835e-78928ed74b8c_large.png?v=1611070760"
     ],
     "inStock": true,
     "specs": [],
@@ -16378,7 +16378,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_cd50e706-6598-4f5a-83f6-868e1697b001_large.png?v=1611070761"
     ],
     "inStock": true,
     "specs": [],
@@ -16396,7 +16396,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_c0d332c7-6e8c-4c0c-a997-7de3e6abe619_large.png?v=1611070762"
     ],
     "inStock": true,
     "specs": [],
@@ -16414,7 +16414,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_e99dbe04-50cf-45b7-a340-d7fcb52689e3_large.png?v=1611070763"
     ],
     "inStock": true,
     "specs": [],
@@ -16432,7 +16432,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_e3ba3913-e322-4a0a-881f-952637d37e6a_large.png?v=1611070764"
     ],
     "inStock": true,
     "specs": [],
@@ -16450,7 +16450,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_f860da36-13ec-405d-b4e5-f7baae362070_large.png?v=1611070765"
     ],
     "inStock": true,
     "specs": [],
@@ -16468,7 +16468,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_c3e8b63f-ae08-4de7-b5f8-e1fa2f8f8235_large.png?v=1611070768"
     ],
     "inStock": true,
     "specs": [],
@@ -16486,7 +16486,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_102a0f84-bb0f-4394-a8c8-76bc429f6f74_large.png?v=1611070769"
     ],
     "inStock": true,
     "specs": [],
@@ -16504,7 +16504,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_c9b4fcec-e1d6-4a21-a4f2-94cebc963803_large.png?v=1611070770"
     ],
     "inStock": true,
     "specs": [],
@@ -16522,7 +16522,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_9a33ac96-d2f0-43d2-8d47-3b03fc54328c_large.png?v=1611070771"
     ],
     "inStock": true,
     "specs": [],
@@ -16540,7 +16540,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_b5f5968d-ef5e-4705-8c6f-7f426d088378_large.png?v=1611070772"
     ],
     "inStock": true,
     "specs": [],
@@ -16558,7 +16558,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_5372964b-3911-4bed-b12a-a7294542a58e_large.png?v=1611070774"
     ],
     "inStock": true,
     "specs": [],
@@ -16576,7 +16576,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_8e2593ac-c542-4e98-ac3b-6ff1e4fba28b_large.png?v=1611070775"
     ],
     "inStock": true,
     "specs": [],
@@ -16594,7 +16594,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_d8026f13-338b-409b-a2e8-03fdab885215_large.png?v=1611070776"
     ],
     "inStock": true,
     "specs": [],
@@ -16612,7 +16612,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_8f371cff-c6e3-4f10-89b6-c1b6dee16229_large.png?v=1611070777"
     ],
     "inStock": true,
     "specs": [],
@@ -16630,7 +16630,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_6a94b11f-bb68-44ac-8af6-fbc0d05821bf_large.png?v=1611070779"
     ],
     "inStock": true,
     "specs": [],
@@ -16648,7 +16648,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_23755f22-5a41-4650-8c6f-d5b2a2f05be3_large.png?v=1611070780"
     ],
     "inStock": true,
     "specs": [],
@@ -16666,7 +16666,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_bf742f5a-e518-41df-9094-0affe11ee651_large.png?v=1611070781"
     ],
     "inStock": true,
     "specs": [],
@@ -16684,7 +16684,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_f4e8b2fd-9303-4511-870e-b5921af29574_large.png?v=1611070782"
     ],
     "inStock": true,
     "specs": [],
@@ -16702,7 +16702,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_322c90f8-7ef0-4647-994a-cfbd57896654_large.png?v=1611070783"
     ],
     "inStock": true,
     "specs": [],
@@ -16720,7 +16720,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_0f6c98fc-d576-4564-9981-01067ca2dcc7_large.png?v=1611070784"
     ],
     "inStock": true,
     "specs": [],
@@ -16738,7 +16738,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_f284260c-c20f-4436-8985-853e30d88eee_large.png?v=1611070785"
     ],
     "inStock": true,
     "specs": [],
@@ -16756,7 +16756,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_33c99b3f-5e41-46c5-8046-41a9f63c287c_large.png?v=1611070787"
     ],
     "inStock": true,
     "specs": [],
@@ -16774,7 +16774,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_3b1b7b5f-5169-42a5-ad0a-40e7d0fe7f6a_large.png?v=1611070789"
     ],
     "inStock": true,
     "specs": [],
@@ -16792,7 +16792,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_bc2a33cd-46b7-4ddd-8768-b1403691a223_large.png?v=1611070790"
     ],
     "inStock": true,
     "specs": [],
@@ -16810,7 +16810,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_9b662d99-43d2-4b2f-a698-b3b4450f5531_large.png?v=1611070792"
     ],
     "inStock": true,
     "specs": [],
@@ -16828,7 +16828,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_607baebd-0219-472a-90f8-bab18cd10316_large.png?v=1611070793"
     ],
     "inStock": true,
     "specs": [],
@@ -16846,7 +16846,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_53c3db5e-7ed6-40a9-a648-c4b5b666400b_large.png?v=1611070794"
     ],
     "inStock": true,
     "specs": [],
@@ -16864,7 +16864,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_17084474-aca4-459c-b4a6-4e7673460882_large.png?v=1611070795"
     ],
     "inStock": true,
     "specs": [],
@@ -16882,7 +16882,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_d7638b18-a910-4745-a889-ba04f34c4c8f_large.png?v=1611070796"
     ],
     "inStock": true,
     "specs": [],
@@ -16900,7 +16900,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_05166abc-1933-4931-a082-ab8295d028db_large.png?v=1611070797"
     ],
     "inStock": true,
     "specs": [],
@@ -16918,7 +16918,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_bbd74c91-2160-4126-92a9-b8927b257699_large.png?v=1611070798"
     ],
     "inStock": true,
     "specs": [],
@@ -16936,7 +16936,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_b6605e30-9601-4989-98a6-34f64dcbadd6_large.png?v=1611070799"
     ],
     "inStock": true,
     "specs": [],
@@ -16954,7 +16954,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_12abfbbb-e1ac-4e31-a037-9096b0328372_large.png?v=1611070801"
     ],
     "inStock": true,
     "specs": [],
@@ -16972,7 +16972,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_6527048a-f679-4a8e-837e-4b5eacbf00e4_large.png?v=1611070802"
     ],
     "inStock": true,
     "specs": [],
@@ -16990,7 +16990,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_9c97ae9b-69db-4a05-83e6-9e904a733cc2_large.png?v=1611070803"
     ],
     "inStock": true,
     "specs": [],
@@ -17008,7 +17008,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_3adbac21-2f41-4d07-a84f-c7ce5b6c2ba3_large.png?v=1611070804"
     ],
     "inStock": true,
     "specs": [],
@@ -17026,7 +17026,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_3ca20148-1532-4877-b8f1-3619e2be030c_large.png?v=1611070805"
     ],
     "inStock": true,
     "specs": [],
@@ -17044,7 +17044,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_d762bd3a-b95f-4f57-88b7-5bb04f535a02_large.png?v=1611070807"
     ],
     "inStock": true,
     "specs": [],
@@ -17062,7 +17062,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_3a9977ae-1679-4a11-bb66-ff11bb4f6cf1_large.png?v=1611070808"
     ],
     "inStock": true,
     "specs": [],
@@ -17080,7 +17080,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_d79738be-10f7-454b-81ed-1942b98072b5_large.png?v=1611070811"
     ],
     "inStock": true,
     "specs": [],
@@ -17098,7 +17098,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_715c9082-768f-44a4-ba38-8a607d79165e_large.png?v=1611070812"
     ],
     "inStock": true,
     "specs": [],
@@ -17116,7 +17116,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_6166cefe-ad51-4ab8-bab1-bed667771486_large.png?v=1611070814"
     ],
     "inStock": true,
     "specs": [],
@@ -17134,7 +17134,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_7153f4e9-b765-4e25-92c2-db95bdc41a64_large.png?v=1611070816"
     ],
     "inStock": true,
     "specs": [],
@@ -17152,7 +17152,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_f6dc36ff-9813-44cd-bc02-309f201734d1_large.png?v=1611070817"
     ],
     "inStock": true,
     "specs": [],
@@ -17170,7 +17170,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_0b494961-bc2e-4e29-9fe0-0233426e20e4_large.png?v=1611070818"
     ],
     "inStock": true,
     "specs": [],
@@ -17188,7 +17188,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_0b1513bb-c9f1-46f9-9413-f0cdf6439a57_large.png?v=1611070819"
     ],
     "inStock": true,
     "specs": [],
@@ -17206,7 +17206,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_c52944bc-a9ef-44d6-9f4f-408e38ed8c9f_large.png?v=1611070820"
     ],
     "inStock": true,
     "specs": [],
@@ -17224,7 +17224,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_76c69a13-d52a-4a3c-8d55-41e3412b6bc7_large.png?v=1611070821"
     ],
     "inStock": true,
     "specs": [],
@@ -17242,7 +17242,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_83dc3ef0-244d-427c-9643-98841504bc7c_large.png?v=1611070822"
     ],
     "inStock": true,
     "specs": [],
@@ -17260,7 +17260,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_6218c54a-2f90-4f53-aebe-28d416e5665c_large.png?v=1611070824"
     ],
     "inStock": true,
     "specs": [],
@@ -17278,7 +17278,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_891f7410-4ea4-4bed-96b0-9145052b4b9a_large.png?v=1611070825"
     ],
     "inStock": true,
     "specs": [],
@@ -17296,7 +17296,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_84b33081-d398-41b4-a288-dc2294ed3e5e_large.png?v=1611070826"
     ],
     "inStock": true,
     "specs": [],
@@ -17314,7 +17314,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_cc4d6a1a-115a-4367-947a-16f22a4efee9_large.png?v=1611070827"
     ],
     "inStock": true,
     "specs": [],
@@ -17332,7 +17332,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_ef457122-75ad-4e57-a2fe-d70e46163c6f_large.png?v=1611070828"
     ],
     "inStock": true,
     "specs": [],
@@ -17350,7 +17350,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_88c87ddb-2128-4945-a8bc-cdb7ae6b415f_large.png?v=1611070829"
     ],
     "inStock": true,
     "specs": [],
@@ -17368,7 +17368,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_bcc6fb27-07c7-4bcb-a83f-d608000d0634_large.png?v=1611070830"
     ],
     "inStock": true,
     "specs": [],
@@ -17386,7 +17386,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_6c5ca9ae-fc45-45a9-89bc-75d1b46da624_large.png?v=1611070832"
     ],
     "inStock": true,
     "specs": [],
@@ -17404,7 +17404,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_2f44f171-075f-4e9d-9f80-6fe432373a1e_large.png?v=1611070835"
     ],
     "inStock": true,
     "specs": [],
@@ -17422,7 +17422,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_7fecedeb-5d29-4cac-b129-0d500b780197_large.png?v=1611070836"
     ],
     "inStock": true,
     "specs": [],
@@ -17440,7 +17440,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_7f3bda1e-8f27-47f2-9e5e-b176ea8c8369_large.png?v=1611070837"
     ],
     "inStock": true,
     "specs": [],
@@ -17458,7 +17458,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_d9b248bd-5804-42cf-b930-f26905021daa_large.png?v=1611070838"
     ],
     "inStock": true,
     "specs": [],
@@ -17476,7 +17476,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_7057dbbe-5a9c-4ddc-b9f2-18c1d0de02ac_large.png?v=1611070839"
     ],
     "inStock": true,
     "specs": [],
@@ -17494,7 +17494,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_4ac1da4d-1798-4014-8ba7-265cdff45243_large.png?v=1611070840"
     ],
     "inStock": true,
     "specs": [],
@@ -17512,7 +17512,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_4d030028-5891-4ab6-96ba-e6459f24dd61_large.png?v=1611070841"
     ],
     "inStock": true,
     "specs": [],
@@ -17530,7 +17530,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_9f590965-9a70-4098-a76e-a2b9c43786c3_large.png?v=1611070842"
     ],
     "inStock": true,
     "specs": [],
@@ -17548,7 +17548,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_6448465f-cd6c-4ae7-95df-776eff16df82_large.png?v=1611070843"
     ],
     "inStock": true,
     "specs": [],
@@ -17566,7 +17566,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_f58bf583-bf58-46cd-9784-934ff243bb0b_large.png?v=1611070847"
     ],
     "inStock": true,
     "specs": [],
@@ -17584,7 +17584,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_85c2cac7-9f2d-4fb0-8b16-12246ad2e6ef_large.png?v=1611070848"
     ],
     "inStock": true,
     "specs": [],
@@ -17602,7 +17602,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_ade71f14-6283-41af-80ae-06ee37ba5866_large.png?v=1611070849"
     ],
     "inStock": true,
     "specs": [],
@@ -17620,7 +17620,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_42bbc933-bb9d-48ef-bf62-5ab40f8127a5_large.png?v=1611070850"
     ],
     "inStock": true,
     "specs": [],
@@ -17638,7 +17638,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_0778c526-be88-4c72-8f09-7b23d5d40f7b_large.png?v=1611070851"
     ],
     "inStock": true,
     "specs": [],
@@ -17656,7 +17656,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_c521c4f9-ee41-40af-bc28-5a4a7953092c_large.png?v=1611070853"
     ],
     "inStock": true,
     "specs": [],
@@ -17674,7 +17674,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_7552a41d-3c8c-4e14-92db-b349a0aec3ac_large.png?v=1611070854"
     ],
     "inStock": true,
     "specs": [],
@@ -17692,7 +17692,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_10069c07-d7af-4efa-9102-47514c910522_large.png?v=1611070856"
     ],
     "inStock": true,
     "specs": [],
@@ -17710,7 +17710,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_6cb99f87-0855-4bc3-b658-61bfde9a8d1a_large.png?v=1611070857"
     ],
     "inStock": true,
     "specs": [],
@@ -17728,7 +17728,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_94a74c92-22a1-4667-959f-f14a58e6fec2_large.png?v=1611070858"
     ],
     "inStock": true,
     "specs": [],
@@ -17746,7 +17746,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_125ed9b5-9604-4fa0-92d7-4d9ecbaaa4b6_large.png?v=1611070859"
     ],
     "inStock": true,
     "specs": [],
@@ -17764,7 +17764,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_111a70f6-6da6-4bae-b580-76fc905dcdd4_large.png?v=1611070860"
     ],
     "inStock": true,
     "specs": [],
@@ -17782,7 +17782,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_00f853a2-e1fc-4c2b-9566-8631b02ff140_large.png?v=1611070861"
     ],
     "inStock": true,
     "specs": [],
@@ -17800,7 +17800,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_40_100_A_Standard_Contactor_39b2beaf-6f90-4850-96f3-b896fbb7dca0_large.png?v=1611070863"
     ],
     "inStock": true,
     "specs": [],
@@ -17818,7 +17818,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_large.png?v=1611084069"
     ],
     "inStock": true,
     "specs": [],
@@ -17836,7 +17836,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_90823244-f7f4-4846-967b-38ca741cf1f7_large.png?v=1611084071"
     ],
     "inStock": true,
     "specs": [],
@@ -17854,7 +17854,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_16721dad-6333-4f9e-9151-ce7e2284b7ea_large.png?v=1611084072"
     ],
     "inStock": true,
     "specs": [],
@@ -17872,7 +17872,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_c03bc6de-ec0d-4cb0-9782-ef413f80f9e1_large.png?v=1611084073"
     ],
     "inStock": true,
     "specs": [],
@@ -17890,7 +17890,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_64d91be6-fffd-4878-8d21-f52bedce90a8_large.png?v=1611084074"
     ],
     "inStock": true,
     "specs": [],
@@ -17908,7 +17908,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_e1c6811a-4066-4213-9664-5e72251e7c3e_large.png?v=1611084075"
     ],
     "inStock": true,
     "specs": [],
@@ -17926,7 +17926,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_large.png?v=1611084069"
     ],
     "inStock": true,
     "specs": [],
@@ -17944,7 +17944,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_90823244-f7f4-4846-967b-38ca741cf1f7_large.png?v=1611084071"
     ],
     "inStock": true,
     "specs": [],
@@ -17962,7 +17962,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_16721dad-6333-4f9e-9151-ce7e2284b7ea_large.png?v=1611084072"
     ],
     "inStock": true,
     "specs": [],
@@ -17980,7 +17980,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_c03bc6de-ec0d-4cb0-9782-ef413f80f9e1_large.png?v=1611084073"
     ],
     "inStock": true,
     "specs": [],
@@ -17998,7 +17998,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_64d91be6-fffd-4878-8d21-f52bedce90a8_large.png?v=1611084074"
     ],
     "inStock": true,
     "specs": [],
@@ -18016,7 +18016,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Time_Delay_Relay_e1c6811a-4066-4213-9664-5e72251e7c3e_large.png?v=1611084075"
     ],
     "inStock": true,
     "specs": [],
@@ -18034,7 +18034,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_large.png?v=1611077267"
     ],
     "inStock": true,
     "specs": [],
@@ -18052,7 +18052,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_69b7c940-d79e-4c84-afe4-c92167b6cce2_large.png?v=1611077269"
     ],
     "inStock": true,
     "specs": [],
@@ -18070,7 +18070,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7f8ef8b5-9959-4c95-a6fc-1605aff96b75_large.png?v=1611077270"
     ],
     "inStock": true,
     "specs": [],
@@ -18088,7 +18088,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_73a18304-fbaa-4520-bb02-aee8f6e0966e_large.png?v=1611077271"
     ],
     "inStock": true,
     "specs": [],
@@ -18106,7 +18106,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_030ca45a-5ed9-4667-940f-e435023b45d5_large.png?v=1611077272"
     ],
     "inStock": true,
     "specs": [],
@@ -18124,7 +18124,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_d4221a09-71ab-48cc-a799-e6992b2af86d_large.png?v=1611077273"
     ],
     "inStock": true,
     "specs": [],
@@ -18142,7 +18142,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7c95b9b2-cb04-45ae-afbc-d3de4b72f127_large.png?v=1611077275"
     ],
     "inStock": true,
     "specs": [],
@@ -18160,7 +18160,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_d4aad28d-1e47-403f-9316-3ce9671d844f_large.png?v=1611077276"
     ],
     "inStock": true,
     "specs": [],
@@ -18178,7 +18178,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_2742465c-47e1-4894-ba4d-3fcb7393ff6f_large.png?v=1611077277"
     ],
     "inStock": true,
     "specs": [],
@@ -18196,7 +18196,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_ece19768-6019-45f9-8a32-5b9c6945e79d_large.png?v=1611077278"
     ],
     "inStock": true,
     "specs": [],
@@ -18214,7 +18214,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_f0810fcd-e73d-4ad5-93e0-e0688d22b7ec_large.png?v=1611077280"
     ],
     "inStock": true,
     "specs": [],
@@ -18232,7 +18232,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_218291a5-d4b3-4502-8f25-5d79c2e9e408_large.png?v=1611077281"
     ],
     "inStock": true,
     "specs": [],
@@ -18250,7 +18250,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_d925b160-51d1-4f93-bc3b-3e59f5e37eae_large.png?v=1611077282"
     ],
     "inStock": true,
     "specs": [],
@@ -18268,7 +18268,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_34c50317-4d5f-4dec-a583-8d20b5d8250f_large.png?v=1611077283"
     ],
     "inStock": true,
     "specs": [],
@@ -18286,7 +18286,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_1e61c75e-471c-4e79-9c43-ced28e74095d_large.png?v=1611077284"
     ],
     "inStock": true,
     "specs": [],
@@ -18304,7 +18304,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_272e9dc1-b8a9-44c2-8a64-831f27c406ca_large.png?v=1611077286"
     ],
     "inStock": true,
     "specs": [],
@@ -18322,7 +18322,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_d27a6f70-ed65-430d-aa86-0ca694e1582d_large.png?v=1611077287"
     ],
     "inStock": true,
     "specs": [],
@@ -18340,7 +18340,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_22202735-b4fe-479a-86c0-00fe60753811_large.png?v=1611077288"
     ],
     "inStock": true,
     "specs": [],
@@ -18358,7 +18358,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_fbabc651-72f3-4ef6-8fb9-62bb57a8b191_large.png?v=1611077290"
     ],
     "inStock": true,
     "specs": [],
@@ -18376,7 +18376,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_71d959f7-651a-4272-ba26-b2a425249e31_large.png?v=1611077291"
     ],
     "inStock": true,
     "specs": [],
@@ -18394,7 +18394,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_71d06add-bbba-4e76-8076-9d1d3a3c555c_large.png?v=1611077292"
     ],
     "inStock": true,
     "specs": [],
@@ -18412,7 +18412,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_58b2fe17-9689-4bf8-8c1e-7e1c9acf3bc4_large.png?v=1611077293"
     ],
     "inStock": true,
     "specs": [],
@@ -18430,7 +18430,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_f1ddd0fd-5e53-453a-9407-651d2eaa00be_large.png?v=1611077295"
     ],
     "inStock": true,
     "specs": [],
@@ -18448,7 +18448,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_4d27ca95-115b-49e4-b0bf-f79d32e6ad44_large.png?v=1611077296"
     ],
     "inStock": true,
     "specs": [],
@@ -18466,7 +18466,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_b2483821-92a1-4384-b0c4-38fd57814cfa_large.png?v=1611077297"
     ],
     "inStock": true,
     "specs": [],
@@ -18484,7 +18484,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_a36eda0d-91bf-480e-aa5f-3f944057388f_large.png?v=1611077298"
     ],
     "inStock": true,
     "specs": [],
@@ -18502,7 +18502,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_598521de-267f-4ce3-bafb-1177a6533b08_large.png?v=1611077300"
     ],
     "inStock": true,
     "specs": [],
@@ -18520,7 +18520,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_d3fcc59a-80bd-49ef-a57b-c82ca33942f6_large.png?v=1611077301"
     ],
     "inStock": true,
     "specs": [],
@@ -18538,7 +18538,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_8420f175-2b94-4797-8ac6-a6f748b855e3_large.png?v=1611077302"
     ],
     "inStock": true,
     "specs": [],
@@ -18556,7 +18556,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_cfc242b1-37d1-4d20-8507-a1a147749fef_large.png?v=1611077303"
     ],
     "inStock": true,
     "specs": [],
@@ -18574,7 +18574,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_8c47dfa8-d043-4414-b35a-666aa82eaccf_large.png?v=1611077305"
     ],
     "inStock": true,
     "specs": [],
@@ -18592,7 +18592,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_f99e8160-6a11-482a-b492-275bbdac1f58_large.png?v=1611077306"
     ],
     "inStock": true,
     "specs": [],
@@ -18610,7 +18610,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_e2b4e79e-0032-4a71-91c8-496652657631_large.png?v=1611077307"
     ],
     "inStock": true,
     "specs": [],
@@ -18628,7 +18628,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_17545713-274e-46d3-8fb7-00de49b14356_large.png?v=1611077309"
     ],
     "inStock": true,
     "specs": [],
@@ -18646,7 +18646,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_2cef7731-9374-445f-9a03-cac4af3c4d19_large.png?v=1611077310"
     ],
     "inStock": true,
     "specs": [],
@@ -18664,7 +18664,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_b459a978-0be4-4727-82da-dc4a39364fbc_large.png?v=1611077311"
     ],
     "inStock": true,
     "specs": [],
@@ -18682,7 +18682,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_4ed97279-e853-4067-adcf-209e6bcb50d2_large.png?v=1611077312"
     ],
     "inStock": true,
     "specs": [],
@@ -18700,7 +18700,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_338df2bd-14d4-4039-9e71-fc91ab256645_large.png?v=1611077314"
     ],
     "inStock": true,
     "specs": [],
@@ -18718,7 +18718,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_6704f827-72c7-4be4-a264-fa348a75b8f8_large.png?v=1611077315"
     ],
     "inStock": true,
     "specs": [],
@@ -18736,7 +18736,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7ee84cb0-5ac2-428d-9222-22d2e8a98a7f_large.png?v=1611077317"
     ],
     "inStock": true,
     "specs": [],
@@ -18754,7 +18754,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_a8ba41ce-9428-46fc-b2f3-5a99d738f8f6_large.png?v=1611077318"
     ],
     "inStock": true,
     "specs": [],
@@ -18772,7 +18772,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_cbc811dc-5b90-4fb0-8cd2-971c760e1bda_large.png?v=1611077319"
     ],
     "inStock": true,
     "specs": [],
@@ -18790,7 +18790,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_1827d61f-c78a-4d64-a5ce-74572555cd2c_large.png?v=1611077321"
     ],
     "inStock": true,
     "specs": [],
@@ -18808,7 +18808,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_74fb4c25-caa7-4dff-868b-99176dcf57b2_large.png?v=1611077322"
     ],
     "inStock": true,
     "specs": [],
@@ -18826,7 +18826,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_75a5fcad-a4b9-46d4-9bd3-ba89c351606c_large.png?v=1611077324"
     ],
     "inStock": true,
     "specs": [],
@@ -18844,7 +18844,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_37bbec33-0269-4beb-afb8-239fd1b93987_large.png?v=1611077325"
     ],
     "inStock": true,
     "specs": [],
@@ -18862,7 +18862,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_85f1c59c-a5d7-4bbb-aa6a-a342b3b77ddc_large.png?v=1611077327"
     ],
     "inStock": true,
     "specs": [],
@@ -18880,7 +18880,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_050daf36-3d00-4c20-8d12-26593d487fbc_large.png?v=1611077329"
     ],
     "inStock": true,
     "specs": [],
@@ -18898,7 +18898,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7fe89d12-8c22-47c5-bca2-a9d86dcf07af_large.png?v=1611077330"
     ],
     "inStock": true,
     "specs": [],
@@ -18916,7 +18916,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_c65cbc63-ef6e-4505-9327-100f60e1cc75_large.png?v=1611077331"
     ],
     "inStock": true,
     "specs": [],
@@ -18934,7 +18934,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_a62b2c51-d21f-4f90-a9ba-609f3b8d092d_large.png?v=1611077332"
     ],
     "inStock": true,
     "specs": [],
@@ -18952,7 +18952,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_38a7f387-03b7-4ea2-b9c5-be2b47d9ca56_large.png?v=1611077334"
     ],
     "inStock": true,
     "specs": [],
@@ -18970,7 +18970,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_d1ef4031-1a9a-4f48-bc12-17a3d30de9f9_large.png?v=1611077335"
     ],
     "inStock": true,
     "specs": [],
@@ -18988,7 +18988,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_8b3106d4-82bc-4987-8252-877c8a33f046_large.png?v=1611077336"
     ],
     "inStock": true,
     "specs": [],
@@ -19006,7 +19006,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_0cf9b1c3-b321-4349-99d3-e15ba69cf8be_large.png?v=1611077338"
     ],
     "inStock": true,
     "specs": [],
@@ -19024,7 +19024,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_39e52f0b-7b58-4d36-ab7d-167c3c7a0396_large.png?v=1611077339"
     ],
     "inStock": true,
     "specs": [],
@@ -19042,7 +19042,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_a1b735a4-7a77-43f7-a3dd-03cc2d9baa2a_large.png?v=1611077340"
     ],
     "inStock": true,
     "specs": [],
@@ -19060,7 +19060,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_00692f0f-3e90-4de0-9687-4e698f063ed3_large.png?v=1611077342"
     ],
     "inStock": true,
     "specs": [],
@@ -19078,7 +19078,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_0eab8218-6e0e-4c0c-aace-5951a50b605d_large.png?v=1611077343"
     ],
     "inStock": true,
     "specs": [],
@@ -19096,7 +19096,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_92e4de11-c77d-45da-89ab-fc6d579e91b8_large.png?v=1611077344"
     ],
     "inStock": true,
     "specs": [],
@@ -19114,7 +19114,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_81177354-6d8b-43fd-81c3-874a653c56ce_large.png?v=1611077345"
     ],
     "inStock": true,
     "specs": [],
@@ -19132,7 +19132,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_230e5106-aa55-45f4-b1ed-c7896532225e_large.png?v=1611077346"
     ],
     "inStock": true,
     "specs": [],
@@ -19150,7 +19150,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_4aff8e25-13f4-44cf-aa8b-432044a1993a_large.png?v=1611077348"
     ],
     "inStock": true,
     "specs": [],
@@ -19168,7 +19168,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_b653b58c-f707-4cce-bd79-4e82195dbe1e_large.png?v=1611077349"
     ],
     "inStock": true,
     "specs": [],
@@ -19186,7 +19186,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_4f3effaa-4fc0-4b16-9ee8-eb87669d8e0b_large.png?v=1611077350"
     ],
     "inStock": true,
     "specs": [],
@@ -19204,7 +19204,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7b15783b-d56b-4ebf-bd17-680b0887c615_large.png?v=1611077351"
     ],
     "inStock": true,
     "specs": [],
@@ -19222,7 +19222,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_063b081f-8031-491a-923d-ff496f40f01e_large.png?v=1611077353"
     ],
     "inStock": true,
     "specs": [],
@@ -19240,7 +19240,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_1cda11fb-6903-4f3e-94f7-b1c3dcf53d85_large.png?v=1611077354"
     ],
     "inStock": true,
     "specs": [],
@@ -19258,7 +19258,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_c6ff41fa-82d3-4125-820a-e055f987743e_large.png?v=1611077355"
     ],
     "inStock": true,
     "specs": [],
@@ -19276,7 +19276,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_08b42279-fce2-4b9c-a1f8-d3c8689126a0_large.png?v=1611077358"
     ],
     "inStock": true,
     "specs": [],
@@ -19294,7 +19294,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_12981460-bc6d-4d1e-971a-03288a3946b1_large.png?v=1611077359"
     ],
     "inStock": true,
     "specs": [],
@@ -19312,7 +19312,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_b5bf2039-9f70-435c-b2d1-10587709afcd_large.png?v=1611077360"
     ],
     "inStock": true,
     "specs": [],
@@ -19330,7 +19330,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_db0316e1-4841-429f-84a0-77dbc982bfeb_large.png?v=1611077361"
     ],
     "inStock": true,
     "specs": [],
@@ -19348,7 +19348,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_1a65ccbd-0705-49ca-a2d8-6a44dab2891c_large.png?v=1611077363"
     ],
     "inStock": true,
     "specs": [],
@@ -19366,7 +19366,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_c3f2f58c-b1e5-48f7-a281-6af866f78c8f_large.png?v=1611077364"
     ],
     "inStock": true,
     "specs": [],
@@ -19384,7 +19384,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_194c68a2-2e64-4a08-901d-2a19d720f63b_large.png?v=1611077365"
     ],
     "inStock": true,
     "specs": [],
@@ -19402,7 +19402,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_63736fc0-c47d-4f53-9245-c2e5240d45ae_large.png?v=1611077366"
     ],
     "inStock": true,
     "specs": [],
@@ -19420,7 +19420,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_b25d89d2-2395-481b-a492-4fb124a3a623_large.png?v=1611077367"
     ],
     "inStock": true,
     "specs": [],
@@ -19438,7 +19438,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_0d2d5d73-9ee1-4ebe-ba50-e37b91e397aa_large.png?v=1611077368"
     ],
     "inStock": true,
     "specs": [],
@@ -19456,7 +19456,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_a7a4b6ae-27eb-47be-b7ff-0a26495ba106_large.png?v=1611077369"
     ],
     "inStock": true,
     "specs": [],
@@ -19474,7 +19474,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_392bc527-1745-4983-a012-07275fc3a892_large.png?v=1611077370"
     ],
     "inStock": true,
     "specs": [],
@@ -19492,7 +19492,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_e7e91d52-f88c-4c82-b7c2-d6e9f207f2f4_large.png?v=1611077371"
     ],
     "inStock": true,
     "specs": [],
@@ -19510,7 +19510,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_fa20702d-785d-4b0f-884a-48248ba3200c_large.png?v=1611077373"
     ],
     "inStock": true,
     "specs": [],
@@ -19528,7 +19528,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_772fefcf-96eb-4028-a97d-1aa5d55c9d0c_large.png?v=1611077374"
     ],
     "inStock": true,
     "specs": [],
@@ -19546,7 +19546,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_ca606732-43df-4c46-843a-b230c1048a9f_large.png?v=1611077375"
     ],
     "inStock": true,
     "specs": [],
@@ -19564,7 +19564,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_47a89061-5f61-4b95-819c-833f7f4d83dd_large.png?v=1611077376"
     ],
     "inStock": true,
     "specs": [],
@@ -19582,7 +19582,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_a191422a-3504-4a65-9fba-bf68b7dfdd20_large.png?v=1611077377"
     ],
     "inStock": true,
     "specs": [],
@@ -19600,7 +19600,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7a34ee44-0a82-4614-873d-453ee89f8bdb_large.png?v=1611077378"
     ],
     "inStock": true,
     "specs": [],
@@ -19618,7 +19618,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_9249cc3b-380d-4e51-ad4b-39d5f8358707_large.png?v=1611077379"
     ],
     "inStock": true,
     "specs": [],
@@ -19636,7 +19636,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_56150634-e3f5-4c1d-b304-99b172261a79_large.png?v=1611077380"
     ],
     "inStock": true,
     "specs": [],
@@ -19654,7 +19654,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_df68a725-2b6e-4962-bb91-d786c204cf94_large.png?v=1611077381"
     ],
     "inStock": true,
     "specs": [],
@@ -19672,7 +19672,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_21f4f866-117d-4985-950d-1e4f358d277d_large.png?v=1611077383"
     ],
     "inStock": true,
     "specs": [],
@@ -19690,7 +19690,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_055bf776-63cf-402b-9738-a4418de27ba6_large.png?v=1611077384"
     ],
     "inStock": true,
     "specs": [],
@@ -19708,7 +19708,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7fac25d1-d5a0-46e0-833d-d64695009af9_large.png?v=1611077385"
     ],
     "inStock": true,
     "specs": [],
@@ -19726,7 +19726,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_272ef2cc-a563-4de8-9260-3a73111f6fce_large.png?v=1611077386"
     ],
     "inStock": true,
     "specs": [],
@@ -19744,7 +19744,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_38d92f90-0c3e-40be-b0af-207e91569cc2_large.png?v=1611077387"
     ],
     "inStock": true,
     "specs": [],
@@ -19762,7 +19762,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_fd39ccdd-a500-4d93-814b-942bc1c92e95_large.png?v=1611077389"
     ],
     "inStock": true,
     "specs": [],
@@ -19780,7 +19780,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_81f106c3-19ac-4cfc-93e8-5871b61f9013_large.png?v=1611077390"
     ],
     "inStock": true,
     "specs": [],
@@ -19798,7 +19798,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_9f1ef628-ac04-4671-8dc1-b5142e697c38_large.png?v=1611077391"
     ],
     "inStock": true,
     "specs": [],
@@ -19816,7 +19816,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_36cb16cb-60a2-46b6-85b0-353fc419b9e9_large.png?v=1611077392"
     ],
     "inStock": true,
     "specs": [],
@@ -19834,7 +19834,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_48bd8e7c-a3e7-4fbd-895b-53e327547869_large.png?v=1611077394"
     ],
     "inStock": true,
     "specs": [],
@@ -19852,7 +19852,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_020c37c5-2622-4e11-b28b-9f4ca45e22ae_large.png?v=1611077395"
     ],
     "inStock": true,
     "specs": [],
@@ -19870,7 +19870,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_f33114e2-0240-44cf-81dc-6a16a97b44d4_large.png?v=1611077396"
     ],
     "inStock": true,
     "specs": [],
@@ -19888,7 +19888,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_20d01883-9365-4325-ad5d-ba59e7a448f3_large.png?v=1611077398"
     ],
     "inStock": true,
     "specs": [],
@@ -19906,7 +19906,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_02964209-9e89-442a-9940-dfc9127a0172_large.png?v=1611077399"
     ],
     "inStock": true,
     "specs": [],
@@ -19924,7 +19924,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7f93fc90-bb59-4270-8113-61dc3655d565_large.png?v=1611077400"
     ],
     "inStock": true,
     "specs": [],
@@ -19942,7 +19942,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_b3bceb63-8bac-4e29-b3f7-ba9f93e49c3e_large.png?v=1611077401"
     ],
     "inStock": true,
     "specs": [],
@@ -19960,7 +19960,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_cadc0f02-7063-48a8-9566-c07db6f33b64_large.png?v=1611077403"
     ],
     "inStock": true,
     "specs": [],
@@ -19978,7 +19978,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_e3ac5dc8-0acc-4c9b-8021-03fb07504dbb_large.png?v=1611077404"
     ],
     "inStock": true,
     "specs": [],
@@ -19996,7 +19996,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_df9e8883-b8df-428d-9859-a96062bb7eb8_large.png?v=1611077405"
     ],
     "inStock": true,
     "specs": [],
@@ -20014,7 +20014,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7e48a745-06fa-4e72-b954-4046f1230712_large.png?v=1611077406"
     ],
     "inStock": true,
     "specs": [],
@@ -20032,7 +20032,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_2009a088-972c-4bea-95ae-4f856e8ca57a_large.png?v=1611077407"
     ],
     "inStock": true,
     "specs": [],
@@ -20050,7 +20050,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_70350d0b-940f-4ee5-9be9-482c5f782d09_large.png?v=1611077408"
     ],
     "inStock": true,
     "specs": [],
@@ -20068,7 +20068,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_9b3773aa-f8f3-4f0c-9234-580f6db8217a_large.png?v=1611077409"
     ],
     "inStock": true,
     "specs": [],
@@ -20086,7 +20086,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_e8d6156f-475f-4d01-8b3b-81a31226440a_large.png?v=1611077410"
     ],
     "inStock": true,
     "specs": [],
@@ -20104,7 +20104,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_fbab95cb-34be-43a8-9b0e-80ef40898d0a_large.png?v=1611077412"
     ],
     "inStock": true,
     "specs": [],
@@ -20122,7 +20122,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_92b530bc-036d-45bc-94ed-6e5ad614ac97_large.png?v=1611077413"
     ],
     "inStock": true,
     "specs": [],
@@ -20140,7 +20140,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_d9e2faad-eb0c-4a34-8682-95485f04a698_large.png?v=1611077414"
     ],
     "inStock": true,
     "specs": [],
@@ -20158,7 +20158,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_6edf8589-789f-483c-bb0d-1ccbc8f56b6f_large.png?v=1611077415"
     ],
     "inStock": true,
     "specs": [],
@@ -20176,7 +20176,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_da63a015-b8e4-494a-9ecc-9cc30e743cc9_large.png?v=1611077416"
     ],
     "inStock": true,
     "specs": [],
@@ -20194,7 +20194,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_b4a47790-4eee-4ae8-8d61-39011f3752a1_large.png?v=1611077417"
     ],
     "inStock": true,
     "specs": [],
@@ -20212,7 +20212,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_f3e07842-5708-4b3d-b303-ffef012bd762_large.png?v=1611077418"
     ],
     "inStock": true,
     "specs": [],
@@ -20230,7 +20230,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7b003422-73c5-4bfb-aa7c-15a4b83e4a73_large.png?v=1611077419"
     ],
     "inStock": true,
     "specs": [],
@@ -20248,7 +20248,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_7286426a-3940-4bd4-a00d-0af674fa353d_large.png?v=1611077421"
     ],
     "inStock": true,
     "specs": [],
@@ -20266,7 +20266,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_55419028-03ce-4001-8aaa-a448ba11c9dc_large.png?v=1611077422"
     ],
     "inStock": true,
     "specs": [],
@@ -20284,7 +20284,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_4942d095-12f4-4774-9783-657be776dc04_large.png?v=1611077423"
     ],
     "inStock": true,
     "specs": [],
@@ -20302,7 +20302,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_8c0c76a3-861c-4bb1-a18b-944bfce58a6f_large.png?v=1611077424"
     ],
     "inStock": true,
     "specs": [],
@@ -20320,7 +20320,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_3cf66f37-ec3e-49de-a868-a39edaa5654a_large.png?v=1611077425"
     ],
     "inStock": true,
     "specs": [],
@@ -20338,7 +20338,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_e9528c56-1c82-4413-97b9-1cc2927383a2_large.png?v=1611077426"
     ],
     "inStock": true,
     "specs": [],
@@ -20356,7 +20356,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_569edc4f-ccfb-468c-8db5-5332a5a905ac_large.png?v=1611077427"
     ],
     "inStock": true,
     "specs": [],
@@ -20374,7 +20374,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_3d54aab8-610a-43a6-bbf5-38b2d5b62947_large.png?v=1611077428"
     ],
     "inStock": true,
     "specs": [],
@@ -20392,7 +20392,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_26532986-e198-4c1b-860a-33efea82ccff_large.png?v=1611077429"
     ],
     "inStock": true,
     "specs": [],
@@ -20410,7 +20410,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_9897ebba-4d14-48d2-a635-e8aeeaf9dd92_large.png?v=1611077430"
     ],
     "inStock": true,
     "specs": [],
@@ -20428,7 +20428,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_758f8d15-b297-41c3-904e-96ae986ad0f6_large.png?v=1611077431"
     ],
     "inStock": true,
     "specs": [],
@@ -20446,7 +20446,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_27ef8e8e-75cc-425c-99e3-ce46e26e8236_large.png?v=1611077432"
     ],
     "inStock": true,
     "specs": [],
@@ -20464,7 +20464,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_25bcb161-35ac-465e-9eeb-c918c1bdd2a0_large.png?v=1611077434"
     ],
     "inStock": true,
     "specs": [],
@@ -20482,7 +20482,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_ef736851-fda6-4b83-8a25-061bad532bd4_large.png?v=1611077435"
     ],
     "inStock": true,
     "specs": [],
@@ -20500,7 +20500,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_86bb5058-c5ee-4ed7-a025-05a8b5787572_large.png?v=1611077436"
     ],
     "inStock": true,
     "specs": [],
@@ -20518,7 +20518,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_71b08f46-e073-4d7c-9be0-4989801d6929_large.png?v=1611077437"
     ],
     "inStock": true,
     "specs": [],
@@ -20536,7 +20536,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_ea6aa8f9-04cc-44b6-8c97-ff6eee5a8043_large.png?v=1611077438"
     ],
     "inStock": true,
     "specs": [],
@@ -20554,7 +20554,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_fd27d31e-ff1a-48de-a282-a1706ec32915_large.png?v=1611077439"
     ],
     "inStock": true,
     "specs": [],
@@ -20572,7 +20572,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_115_500_A_Standard_Contactor_dc4d5c30-36e1-43c6-b109-02056e48c933_large.png?v=1611077440"
     ],
     "inStock": true,
     "specs": [],
@@ -20590,7 +20590,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_large.png?v=1611082586"
     ],
     "inStock": true,
     "specs": [],
@@ -20608,7 +20608,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_05aa9806-befe-418a-80e1-26b3a968c2b5_large.png?v=1611082587"
     ],
     "inStock": true,
     "specs": [],
@@ -20626,7 +20626,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_0f92a040-8609-472e-87fe-2680ffd22924_large.png?v=1611082588"
     ],
     "inStock": true,
     "specs": [],
@@ -20644,7 +20644,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_24c8cf6a-2343-4dba-9e9a-8b9f60379492_large.png?v=1611082589"
     ],
     "inStock": true,
     "specs": [],
@@ -20662,7 +20662,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_2c343c36-284f-40f8-a9dd-c2cad5895441_large.png?v=1611082590"
     ],
     "inStock": true,
     "specs": [],
@@ -20680,7 +20680,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_295667f1-7074-47ef-83d5-ce1ad4ec1c4b_large.png?v=1611082591"
     ],
     "inStock": true,
     "specs": [],
@@ -20698,7 +20698,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_19fbdfe2-2993-436d-bcb4-c1d2409a43c9_large.png?v=1611082593"
     ],
     "inStock": true,
     "specs": [],
@@ -20716,7 +20716,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_53d1384b-d588-45da-88ef-d74da9df0075_large.png?v=1611082594"
     ],
     "inStock": true,
     "specs": [],
@@ -20734,7 +20734,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_64ef89ec-ab09-412f-bca5-aa6ae2e8c305_large.png?v=1611082595"
     ],
     "inStock": true,
     "specs": [],
@@ -20752,7 +20752,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_1993f634-206f-4ed8-b68e-b9f3a87c94fc_large.png?v=1611082596"
     ],
     "inStock": true,
     "specs": [],
@@ -20770,7 +20770,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_e8d4fe1a-7fb7-4a7f-b11e-18cd690a0dad_large.png?v=1611082598"
     ],
     "inStock": true,
     "specs": [],
@@ -20788,7 +20788,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_b0dd055f-ffa5-48f0-ab1d-3d2741b10ee2_large.png?v=1611082599"
     ],
     "inStock": true,
     "specs": [],
@@ -20806,7 +20806,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_6bae3b16-3683-4cea-8f94-db98bdd1a0ea_large.png?v=1611082600"
     ],
     "inStock": true,
     "specs": [],
@@ -20824,7 +20824,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_e227bad3-b56a-4fee-9d1b-ae54df4caef2_large.png?v=1611082601"
     ],
     "inStock": true,
     "specs": [],
@@ -20842,7 +20842,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_0834da60-8f49-4b8f-b701-3ee2aaa48324_large.png?v=1611082603"
     ],
     "inStock": true,
     "specs": [],
@@ -20860,7 +20860,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_f9a91146-b2f4-493f-9918-57edbdb2f21c_large.png?v=1611082604"
     ],
     "inStock": true,
     "specs": [],
@@ -20878,7 +20878,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_a21485c7-1ac9-4047-8e42-6484fe4a6ff9_large.png?v=1611082605"
     ],
     "inStock": true,
     "specs": [],
@@ -20896,7 +20896,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4f11e4d5-2b18-4e46-ac65-dd911c65a9f6_large.png?v=1611082606"
     ],
     "inStock": true,
     "specs": [],
@@ -20914,7 +20914,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_9d47d73a-36f9-415f-8974-f7bafac42138_large.png?v=1611082607"
     ],
     "inStock": true,
     "specs": [],
@@ -20932,7 +20932,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_2dfc075c-8bf5-4230-8cbe-562ee1f67ba1_large.png?v=1611082608"
     ],
     "inStock": true,
     "specs": [],
@@ -20950,7 +20950,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_f2bfafba-3d75-4d84-943e-6c002d056237_large.png?v=1611082609"
     ],
     "inStock": true,
     "specs": [],
@@ -20968,7 +20968,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_0ba2375b-c1c6-4763-a2c4-e0d2b709f0ad_large.png?v=1611082610"
     ],
     "inStock": true,
     "specs": [],
@@ -20986,7 +20986,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_b592a4ac-99d1-4a5e-9e0e-7218e0f8cd33_large.png?v=1611082611"
     ],
     "inStock": true,
     "specs": [],
@@ -21004,7 +21004,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_14dcfa00-03d1-4248-922e-a9f59503e35d_large.png?v=1611082612"
     ],
     "inStock": true,
     "specs": [],
@@ -21022,7 +21022,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c3e9544a-0774-46a2-a941-f40835cee50c_large.png?v=1611082613"
     ],
     "inStock": true,
     "specs": [],
@@ -21040,7 +21040,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_fc6e6df1-3269-42c1-9f1b-3e34cba54df2_large.png?v=1611082615"
     ],
     "inStock": true,
     "specs": [],
@@ -21058,7 +21058,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_22ec6aa1-8034-4f78-baee-24d91e10e70b_large.png?v=1611082617"
     ],
     "inStock": true,
     "specs": [],
@@ -21076,7 +21076,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_825b5622-2287-4219-9417-b734d12819d5_large.png?v=1611082618"
     ],
     "inStock": true,
     "specs": [],
@@ -21094,7 +21094,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_7fb3af28-1259-4ed4-ac7c-814c95db03d4_large.png?v=1611082619"
     ],
     "inStock": true,
     "specs": [],
@@ -21112,7 +21112,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_9ad3a473-b031-4b05-a118-ebf7d3b888b2_large.png?v=1611082620"
     ],
     "inStock": true,
     "specs": [],
@@ -21130,7 +21130,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_05a789a3-bc3b-4580-b795-58f1fa16a620_large.png?v=1611082621"
     ],
     "inStock": true,
     "specs": [],
@@ -21148,7 +21148,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c59e589f-2273-4e66-8917-27f4485025fe_large.png?v=1611082622"
     ],
     "inStock": true,
     "specs": [],
@@ -21166,7 +21166,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_5218b357-93ec-48a5-90a6-b06ccc49d0f1_large.png?v=1611082624"
     ],
     "inStock": true,
     "specs": [],
@@ -21184,7 +21184,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_844628b9-e7a4-4d24-9089-15d9fda05dca_large.png?v=1611082625"
     ],
     "inStock": true,
     "specs": [],
@@ -21202,7 +21202,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_9a85dffd-7375-4af3-8d75-c7c856784f3f_large.png?v=1611082626"
     ],
     "inStock": true,
     "specs": [],
@@ -21220,7 +21220,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_6342747e-c4c8-4348-91fa-92815bc37236_large.png?v=1611082627"
     ],
     "inStock": true,
     "specs": [],
@@ -21238,7 +21238,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_78729ba2-1819-4f3f-a773-ce8a8cb76520_large.png?v=1611082628"
     ],
     "inStock": true,
     "specs": [],
@@ -21256,7 +21256,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c117dbe3-6161-4e64-a1bd-075042218119_large.png?v=1611082629"
     ],
     "inStock": true,
     "specs": [],
@@ -21274,7 +21274,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_56d3d7f6-8425-4968-a86e-ea8f4be5879a_large.png?v=1611082630"
     ],
     "inStock": true,
     "specs": [],
@@ -21292,7 +21292,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_97da07cd-8b05-4aff-99ab-2219431a050c_large.png?v=1611082631"
     ],
     "inStock": true,
     "specs": [],
@@ -21310,7 +21310,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_04f11b6e-e1aa-428b-86d5-70e3d3bbee57_large.png?v=1611082633"
     ],
     "inStock": true,
     "specs": [],
@@ -21328,7 +21328,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_0443d2f3-c79c-4525-a20a-0274614ef387_large.png?v=1611082634"
     ],
     "inStock": true,
     "specs": [],
@@ -21346,7 +21346,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_ef3d2596-a44b-4b04-b2f2-7d7f82bc5614_large.png?v=1611082636"
     ],
     "inStock": true,
     "specs": [],
@@ -21364,7 +21364,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_d9417ff9-4197-434b-8d37-36979ea7b538_large.png?v=1611082637"
     ],
     "inStock": true,
     "specs": [],
@@ -21382,7 +21382,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c4e083fc-e9d2-4866-ba8e-abd3d08096cd_large.png?v=1611082638"
     ],
     "inStock": true,
     "specs": [],
@@ -21400,7 +21400,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_318a0d91-7c5a-43eb-9e06-61a73d46fc12_large.png?v=1611082640"
     ],
     "inStock": true,
     "specs": [],
@@ -21418,7 +21418,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_1e359de4-938c-402d-9d16-15f491ad394f_large.png?v=1611082641"
     ],
     "inStock": true,
     "specs": [],
@@ -21436,7 +21436,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_818a424b-e854-4079-895c-f406ba10c021_large.png?v=1611082642"
     ],
     "inStock": true,
     "specs": [],
@@ -21454,7 +21454,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_3b06dc70-7f35-4f2a-9a58-9a10cd5b27d8_large.png?v=1611082643"
     ],
     "inStock": true,
     "specs": [],
@@ -21472,7 +21472,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4442af40-061a-40eb-80f1-1abceb9aab8c_large.png?v=1611082645"
     ],
     "inStock": true,
     "specs": [],
@@ -21490,7 +21490,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_6610ba26-1663-4a34-a09e-6df98aab4973_large.png?v=1611082646"
     ],
     "inStock": true,
     "specs": [],
@@ -21508,7 +21508,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_bb04e7dd-2982-4a75-9a80-1e9832636c39_large.png?v=1611082647"
     ],
     "inStock": true,
     "specs": [],
@@ -21526,7 +21526,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_1be7d628-ac28-4f12-ad8c-0359a2bad09c_large.png?v=1611082648"
     ],
     "inStock": true,
     "specs": [],
@@ -21544,7 +21544,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_f0558d39-7ddf-4b0d-bab9-c0e523c3ccbd_large.png?v=1611082649"
     ],
     "inStock": true,
     "specs": [],
@@ -21562,7 +21562,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_94425c68-86ab-4035-8bb8-ec6c49aca1e8_large.png?v=1611082651"
     ],
     "inStock": true,
     "specs": [],
@@ -21580,7 +21580,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_a79ea555-2780-47c1-88d4-8232e7cb929d_large.png?v=1611082653"
     ],
     "inStock": true,
     "specs": [],
@@ -21598,7 +21598,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_ae6732b0-3598-4d6c-82bb-3a6f490484fb_large.png?v=1611082654"
     ],
     "inStock": true,
     "specs": [],
@@ -21616,7 +21616,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_9a947f0f-8b39-4fb4-b6ea-0449e70d8ec8_large.png?v=1611082655"
     ],
     "inStock": true,
     "specs": [],
@@ -21634,7 +21634,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_d6f8201c-1322-48b0-8e61-ec105e75fc34_large.png?v=1611082657"
     ],
     "inStock": true,
     "specs": [],
@@ -21652,7 +21652,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_0d2f71b6-fa59-4d9d-bbc3-6bd783b70ce1_large.png?v=1611082658"
     ],
     "inStock": true,
     "specs": [],
@@ -21670,7 +21670,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4978a857-d7b6-407b-9e45-f72a3ef28a8b_large.png?v=1611082659"
     ],
     "inStock": true,
     "specs": [],
@@ -21688,7 +21688,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_d6bb1a4a-b28d-49fd-8e3e-f6bb2b654ee1_large.png?v=1611082660"
     ],
     "inStock": true,
     "specs": [],
@@ -21706,7 +21706,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_57a01a50-85a1-49cd-be34-c126b8199cbd_large.png?v=1611082661"
     ],
     "inStock": true,
     "specs": [],
@@ -21724,7 +21724,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_6b2f1d7f-8846-4f67-a0b1-1d2b6b072e05_large.png?v=1611082662"
     ],
     "inStock": true,
     "specs": [],
@@ -21742,7 +21742,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_37b9fd0e-d2f5-4e27-9f91-6c72bdd45e01_large.png?v=1611082663"
     ],
     "inStock": true,
     "specs": [],
@@ -21760,7 +21760,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_09eccef8-2e4a-4c15-8b65-5ffd14048e81_large.png?v=1611082664"
     ],
     "inStock": true,
     "specs": [],
@@ -21778,7 +21778,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4ddfe659-2bed-4470-a8e7-823780f504ac_large.png?v=1611082666"
     ],
     "inStock": true,
     "specs": [],
@@ -21796,7 +21796,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_84da3594-c949-4fc0-b61f-66c26a222ea2_large.png?v=1611082667"
     ],
     "inStock": true,
     "specs": [],
@@ -21814,7 +21814,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_aaaf7c79-0774-4c5c-8cd2-ac356909dd82_large.png?v=1611082668"
     ],
     "inStock": true,
     "specs": [],
@@ -21832,7 +21832,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c92faa87-9da2-4824-9140-0000fb3d697b_large.png?v=1611082669"
     ],
     "inStock": true,
     "specs": [],
@@ -21850,7 +21850,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_6c3ad198-0fa2-4137-b1ef-db25fd6f0d79_large.png?v=1611082670"
     ],
     "inStock": true,
     "specs": [],
@@ -21868,7 +21868,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_7fd63ee1-4367-4064-9dcc-23b232662b89_large.png?v=1611082671"
     ],
     "inStock": true,
     "specs": [],
@@ -21886,7 +21886,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_d7331545-b410-4429-8231-c73516da1fab_large.png?v=1611082672"
     ],
     "inStock": true,
     "specs": [],
@@ -21904,7 +21904,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_ba899b30-da93-45c4-b596-a87c8ff02735_large.png?v=1611082673"
     ],
     "inStock": true,
     "specs": [],
@@ -21922,7 +21922,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_ecd7dc65-cf4d-4b2e-a04a-2b7bcf4bd528_large.png?v=1611082677"
     ],
     "inStock": true,
     "specs": [],
@@ -21940,7 +21940,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_83f50e2f-14fd-422b-9e1f-25a858c664d9_large.png?v=1611082678"
     ],
     "inStock": true,
     "specs": [],
@@ -21958,7 +21958,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_efc21335-f184-467d-a533-02263ad71025_large.png?v=1611082679"
     ],
     "inStock": true,
     "specs": [],
@@ -21976,7 +21976,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_21c8e1dc-0ab6-46ee-b9c5-1ffa588a42f6_large.png?v=1611082680"
     ],
     "inStock": true,
     "specs": [],
@@ -21994,7 +21994,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_76bdd9ec-00ba-40fe-aa2c-ed8eec727af0_large.png?v=1611082681"
     ],
     "inStock": true,
     "specs": [],
@@ -22012,7 +22012,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_73514156-b50e-4101-b721-6c027ba6ec22_large.png?v=1611082682"
     ],
     "inStock": true,
     "specs": [],
@@ -22030,7 +22030,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4e33faeb-10f0-4b7c-a086-dd4014dda1a2_large.png?v=1611082683"
     ],
     "inStock": true,
     "specs": [],
@@ -22048,7 +22048,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_6ec81ce5-6b64-44db-b2d1-ea0d63a05984_large.png?v=1611082684"
     ],
     "inStock": true,
     "specs": [],
@@ -22066,7 +22066,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_2eac7d25-7b8e-4041-a6e7-8bba185ddab7_large.png?v=1611082685"
     ],
     "inStock": true,
     "specs": [],
@@ -22084,7 +22084,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_b26bbf81-75a9-4f3d-bd16-f946935e8c4c_large.png?v=1611082686"
     ],
     "inStock": true,
     "specs": [],
@@ -22102,7 +22102,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_f4902a6d-cea6-4294-8322-8c4914733059_large.png?v=1611082687"
     ],
     "inStock": true,
     "specs": [],
@@ -22120,7 +22120,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_d66b3a19-55c1-4581-abbb-f003b6372ec1_large.png?v=1611082688"
     ],
     "inStock": true,
     "specs": [],
@@ -22138,7 +22138,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_2fc3d815-4f08-47a5-a90d-c9e381641cd5_large.png?v=1611082689"
     ],
     "inStock": true,
     "specs": [],
@@ -22156,7 +22156,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_81133639-a579-422a-a444-381c93055db9_large.png?v=1611082690"
     ],
     "inStock": true,
     "specs": [],
@@ -22174,7 +22174,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_740e91e2-b771-4954-ad85-637a8e73f044_large.png?v=1611082692"
     ],
     "inStock": true,
     "specs": [],
@@ -22192,7 +22192,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4b7000e9-ad8b-44fe-9660-2054a55f9ddf_large.png?v=1611082691"
     ],
     "inStock": true,
     "specs": [],
@@ -22210,7 +22210,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_e859aa07-71ce-458e-931f-73c8a76fec9e_large.png?v=1611082694"
     ],
     "inStock": true,
     "specs": [],
@@ -22228,7 +22228,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_31f5cfd8-478d-4571-a2b0-74cf93096e9a_large.png?v=1611082695"
     ],
     "inStock": true,
     "specs": [],
@@ -22246,7 +22246,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_f6ce89dd-41e4-4872-9ed6-57f8a988647e_large.png?v=1611082695"
     ],
     "inStock": true,
     "specs": [],
@@ -22264,7 +22264,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_bcbb5b5f-8a87-42ab-a115-60379720eddd_large.png?v=1611082696"
     ],
     "inStock": true,
     "specs": [],
@@ -22282,7 +22282,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_83969035-92f5-4d9d-9338-08b8529289b8_large.png?v=1611082697"
     ],
     "inStock": true,
     "specs": [],
@@ -22300,7 +22300,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_5701b01c-b12d-4607-ae80-33e4324d7082_large.png?v=1611082698"
     ],
     "inStock": true,
     "specs": [],
@@ -22318,7 +22318,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c6e75103-ae15-4258-92a0-d0624edfe6db_large.png?v=1611082699"
     ],
     "inStock": true,
     "specs": [],
@@ -22336,7 +22336,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_72c52b9a-55b6-4b50-b1cb-1890475edbe1_large.png?v=1611082700"
     ],
     "inStock": true,
     "specs": [],
@@ -22354,7 +22354,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_56b00edc-2c22-4a4c-991e-918d1cb450b5_large.png?v=1611082701"
     ],
     "inStock": true,
     "specs": [],
@@ -22372,7 +22372,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_8c838861-696c-4f20-b121-75af8818b508_large.png?v=1611082702"
     ],
     "inStock": true,
     "specs": [],
@@ -22390,7 +22390,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_89984ee0-aba4-4eae-9a06-cd7d58a8ce19_large.png?v=1611082703"
     ],
     "inStock": true,
     "specs": [],
@@ -22408,7 +22408,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_3837ed94-27b6-4ebf-b040-b730295e2596_large.png?v=1611082704"
     ],
     "inStock": true,
     "specs": [],
@@ -22426,7 +22426,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_bb2cb1bc-638a-47ec-86d0-9a7dadc3b9e3_large.png?v=1611082705"
     ],
     "inStock": true,
     "specs": [],
@@ -22444,7 +22444,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_e9c5b3d9-bdf2-430e-b0ad-e1fd9f28f1d0_large.png?v=1611082706"
     ],
     "inStock": true,
     "specs": [],
@@ -22462,7 +22462,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_91490aaf-7425-48ca-8d67-1f610d0124ea_large.png?v=1611082707"
     ],
     "inStock": true,
     "specs": [],
@@ -22480,7 +22480,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_59d330ec-023d-4af4-b66f-474131273670_large.png?v=1611082708"
     ],
     "inStock": true,
     "specs": [],
@@ -22498,7 +22498,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_80dabdd5-47b2-48c2-a750-3f7c28d7af93_large.png?v=1611082711"
     ],
     "inStock": true,
     "specs": [],
@@ -22516,7 +22516,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_7167af15-bd66-4a11-b053-f579b3375032_large.png?v=1611082712"
     ],
     "inStock": true,
     "specs": [],
@@ -22534,7 +22534,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_a0ebe394-e30d-44f0-9bed-792dbe7d2ddb_large.png?v=1611082713"
     ],
     "inStock": true,
     "specs": [],
@@ -22552,7 +22552,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_a51c42eb-15de-43be-94e0-4af05701e064_large.png?v=1611082714"
     ],
     "inStock": true,
     "specs": [],
@@ -22570,7 +22570,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c7878574-e3ef-4618-9f2a-d1b2b6088e9a_large.png?v=1611082715"
     ],
     "inStock": true,
     "specs": [],
@@ -22588,7 +22588,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4c1eee6d-ed74-479f-8338-e77e4fbfd55c_large.png?v=1611082717"
     ],
     "inStock": true,
     "specs": [],
@@ -22606,7 +22606,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_8a1e2260-600b-49d3-ad7e-b6804a66a9c0_large.png?v=1611082718"
     ],
     "inStock": true,
     "specs": [],
@@ -22624,7 +22624,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_58724813-9300-4ce7-978a-04df8e91c367_large.png?v=1611082719"
     ],
     "inStock": true,
     "specs": [],
@@ -22642,7 +22642,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_c8a35d41-05eb-4202-b82e-44690c892c5b_large.png?v=1611082720"
     ],
     "inStock": true,
     "specs": [],
@@ -22660,7 +22660,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_abb34ea7-e054-4e92-846c-6ae444f31969_large.png?v=1611082721"
     ],
     "inStock": true,
     "specs": [],
@@ -22678,7 +22678,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_2f658454-30ec-445a-be02-538f4faa1daa_large.png?v=1611082722"
     ],
     "inStock": true,
     "specs": [],
@@ -22696,7 +22696,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_eb240018-74d3-43eb-9e13-6352f512a8ff_large.png?v=1611082723"
     ],
     "inStock": true,
     "specs": [],
@@ -22714,7 +22714,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_e178b0fd-efb4-4352-addd-96feb2c77b5a_large.png?v=1611082725"
     ],
     "inStock": true,
     "specs": [],
@@ -22732,7 +22732,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_2be8e17b-eecb-4195-bfaf-fc0f3dd68160_large.png?v=1611082726"
     ],
     "inStock": true,
     "specs": [],
@@ -22750,7 +22750,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_3bc2a5f8-e4bb-4c45-b905-e071922e1250_large.png?v=1611082727"
     ],
     "inStock": true,
     "specs": [],
@@ -22768,7 +22768,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_01283820-1c3f-422f-8431-5d7fd620f575_large.png?v=1611082728"
     ],
     "inStock": true,
     "specs": [],
@@ -22786,7 +22786,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_864ca26c-93fe-4602-9a4f-cd0218a95128_large.png?v=1611082730"
     ],
     "inStock": true,
     "specs": [],
@@ -22804,7 +22804,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_6909f94a-55a7-463c-a8e6-ac264db8824a_large.png?v=1611082731"
     ],
     "inStock": true,
     "specs": [],
@@ -22822,7 +22822,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_831ba601-2164-40cd-ac2e-ee254029c6c3_large.png?v=1611082732"
     ],
     "inStock": true,
     "specs": [],
@@ -22840,7 +22840,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_042e3520-3ee4-4b0f-8cf5-895a5a266530_large.png?v=1611082734"
     ],
     "inStock": true,
     "specs": [],
@@ -22858,7 +22858,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_a49065d1-3367-49fa-99ba-6210b7a34f6b_large.png?v=1611082735"
     ],
     "inStock": true,
     "specs": [],
@@ -22876,7 +22876,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_08bfac73-2c57-4ab1-a76b-7ac406ee488e_large.png?v=1611082736"
     ],
     "inStock": true,
     "specs": [],
@@ -22894,7 +22894,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_0d5dba32-82c9-4409-a63f-e8f8000d859d_large.png?v=1611082738"
     ],
     "inStock": true,
     "specs": [],
@@ -22912,7 +22912,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_7cb2af21-d7d6-427a-8982-3d8102c04d19_large.png?v=1611082739"
     ],
     "inStock": true,
     "specs": [],
@@ -22930,7 +22930,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_4a2fba58-e583-468f-8b7a-3b238fdcba23_large.png?v=1611082740"
     ],
     "inStock": true,
     "specs": [],
@@ -22948,7 +22948,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_d45ebff3-502b-45af-84d7-3abaf849e0b8_large.png?v=1611082741"
     ],
     "inStock": true,
     "specs": [],
@@ -22966,7 +22966,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_cd93de77-633d-44bb-bb76-0aa84208a37e_large.png?v=1611082743"
     ],
     "inStock": true,
     "specs": [],
@@ -22984,7 +22984,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_da27a0a6-4f51-48f5-89c3-f41d5f03af8e_large.png?v=1611082744"
     ],
     "inStock": true,
     "specs": [],
@@ -23002,7 +23002,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_dcafc225-1c75-4af3-b3a5-a47b0b2b3845_large.png?v=1611082745"
     ],
     "inStock": true,
     "specs": [],
@@ -23020,7 +23020,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_79db06f5-bff3-4291-aa1c-8be2ca1a2096_large.png?v=1611082746"
     ],
     "inStock": true,
     "specs": [],
@@ -23038,7 +23038,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_fc3cdd00-6156-4d32-a6a0-b700fb5f14a4_large.png?v=1611082747"
     ],
     "inStock": true,
     "specs": [],
@@ -23056,7 +23056,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_7c643204-51d1-4e86-96d1-5527deeaac5b_large.png?v=1611082748"
     ],
     "inStock": true,
     "specs": [],
@@ -23074,7 +23074,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_0912ff21-e37b-40d0-9e1b-7b9aa5e6a06f_large.png?v=1611082750"
     ],
     "inStock": true,
     "specs": [],
@@ -23092,7 +23092,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_16d94a4b-ebc6-4641-b554-2f6d742e6e27_large.png?v=1611082751"
     ],
     "inStock": true,
     "specs": [],
@@ -23110,7 +23110,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_a2cad824-34ad-449c-92b4-f99f02905f93_large.png?v=1611082752"
     ],
     "inStock": true,
     "specs": [],
@@ -23128,7 +23128,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_55c92c02-d86c-4f8e-86ae-e9b7490ca129_large.png?v=1611082753"
     ],
     "inStock": true,
     "specs": [],
@@ -23146,7 +23146,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_5f39407c-3ba4-4b9e-8ef9-5415a9891788_large.png?v=1611082754"
     ],
     "inStock": true,
     "specs": [],
@@ -23164,7 +23164,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CSR_6_12_A_Miniature_Contactor_2d9f59f3-c7b4-455e-8655-d71ab8b6dd36_large.png?v=1611082755"
     ],
     "inStock": true,
     "specs": [],
@@ -23182,7 +23182,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_large.png?v=1751211730"
     ],
     "inStock": true,
     "specs": [],
@@ -23200,7 +23200,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_26163835-fc31-4f95-8cc3-96f6b7c0e46a_large.png?v=1751211730"
     ],
     "inStock": true,
     "specs": [],
@@ -23218,7 +23218,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_5767be59-6ddb-4156-98fa-99d7b457e393_large.png?v=1751211729"
     ],
     "inStock": true,
     "specs": [],
@@ -23236,7 +23236,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_882984e1-e441-4f82-aa8c-87969944b976_large.png?v=1751211729"
     ],
     "inStock": true,
     "specs": [],
@@ -23254,7 +23254,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_68f492ab-9b01-4612-bcbe-3c7ba194d59c_large.png?v=1751211728"
     ],
     "inStock": true,
     "specs": [],
@@ -23272,7 +23272,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_30dbc01c-b42e-436e-9482-1775c6e58393_large.png?v=1751211728"
     ],
     "inStock": true,
     "specs": [],
@@ -23290,7 +23290,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_62767c10-9254-4bb5-8bc9-72b2614f5869_large.png?v=1751211727"
     ],
     "inStock": true,
     "specs": [],
@@ -23308,7 +23308,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_11e93c1d-c25b-4b60-9b98-6d03a8fc19f1_large.png?v=1751211726"
     ],
     "inStock": true,
     "specs": [],
@@ -23326,7 +23326,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_8cc96a8d-e7fa-4554-88e7-6194e8e5e379_large.png?v=1751211725"
     ],
     "inStock": true,
     "specs": [],
@@ -23344,7 +23344,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a25fcb3b-6be1-41c3-9d69-b97a47f6c9d9_large.png?v=1751211725"
     ],
     "inStock": true,
     "specs": [],
@@ -23362,7 +23362,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_010140f5-ac73-4853-a674-271704903df4_large.png?v=1751211724"
     ],
     "inStock": true,
     "specs": [],
@@ -23380,7 +23380,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_39c66224-42e4-4272-ad79-6845619fdd0e_large.png?v=1751211723"
     ],
     "inStock": true,
     "specs": [],
@@ -23398,7 +23398,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3c68aa2e-73ff-4ab4-99a7-e5d239a25660_large.png?v=1751211723"
     ],
     "inStock": true,
     "specs": [],
@@ -23416,7 +23416,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e8689aad-6ce0-469d-b589-46ed25d19b60_large.png?v=1751211722"
     ],
     "inStock": true,
     "specs": [],
@@ -23434,7 +23434,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9321cbca-2ef8-4ca4-8bbe-67e7da01b6fb_large.png?v=1751211722"
     ],
     "inStock": true,
     "specs": [],
@@ -23452,7 +23452,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7d99f157-89fc-4a84-b68a-e6def79852bf_large.png?v=1751211721"
     ],
     "inStock": true,
     "specs": [],
@@ -23470,7 +23470,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_4667d4bd-a84b-4557-a1d9-00ead5287374_large.png?v=1751211721"
     ],
     "inStock": true,
     "specs": [],
@@ -23488,7 +23488,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d427684d-b087-4773-8cb0-0be6be1b9050_large.png?v=1751211720"
     ],
     "inStock": true,
     "specs": [],
@@ -23506,7 +23506,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_0ebd3177-5ce4-4972-9a47-881de3af203b_large.png?v=1751211719"
     ],
     "inStock": true,
     "specs": [],
@@ -23524,7 +23524,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a75d1cf3-9ecd-46cd-9feb-d386b645f75e_large.png?v=1751211718"
     ],
     "inStock": true,
     "specs": [],
@@ -23542,7 +23542,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_21cacbb3-e368-42e8-a757-2ae34e8fb42f_large.png?v=1751211718"
     ],
     "inStock": true,
     "specs": [],
@@ -23560,7 +23560,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3667bee6-18eb-42d2-9ecf-ce64029ded08_large.png?v=1751211717"
     ],
     "inStock": true,
     "specs": [],
@@ -23578,7 +23578,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a5a80c46-ff83-4531-b295-cc772547045d_large.png?v=1751211716"
     ],
     "inStock": true,
     "specs": [],
@@ -23596,7 +23596,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3d5fe0ce-7663-4745-96ad-762b959f0358_large.png?v=1751211716"
     ],
     "inStock": true,
     "specs": [],
@@ -23614,7 +23614,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_45a87adb-040b-4db8-9812-0f5735350422_large.png?v=1751211715"
     ],
     "inStock": true,
     "specs": [],
@@ -23632,7 +23632,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_b48ea591-219d-413a-adf1-76ac882fdf09_large.png?v=1751211715"
     ],
     "inStock": true,
     "specs": [],
@@ -23650,7 +23650,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3fdb3a4a-b669-453c-8818-ac429dd7ceae_large.png?v=1751211714"
     ],
     "inStock": true,
     "specs": [],
@@ -23668,7 +23668,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_632fa143-6f67-46db-b5e4-a4848024fda2_large.png?v=1751211714"
     ],
     "inStock": true,
     "specs": [],
@@ -23686,7 +23686,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_748b8a2c-c022-40e6-854a-f0f07d083f65_large.png?v=1751211713"
     ],
     "inStock": true,
     "specs": [],
@@ -23704,7 +23704,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e356f235-22a7-4906-a0dc-882169326ba7_large.png?v=1751211712"
     ],
     "inStock": true,
     "specs": [],
@@ -23722,7 +23722,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f096a421-3a17-4380-807e-6fd8bef5b948_large.png?v=1751211711"
     ],
     "inStock": true,
     "specs": [],
@@ -23740,7 +23740,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_07f17d9b-8450-4820-9a48-41065f33a2ba_large.png?v=1751211710"
     ],
     "inStock": true,
     "specs": [],
@@ -23758,7 +23758,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_58de5234-3ca7-442a-9e52-69b469eece17_large.png?v=1751211710"
     ],
     "inStock": true,
     "specs": [],
@@ -23776,7 +23776,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e24ec675-c4ce-4e14-bcab-dc57bd3e0ab4_large.png?v=1751211709"
     ],
     "inStock": true,
     "specs": [],
@@ -23794,7 +23794,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f62480b4-862e-4ad1-a709-32d39598ff53_large.png?v=1751211709"
     ],
     "inStock": true,
     "specs": [],
@@ -23812,7 +23812,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_02e76d22-6d18-479b-bea1-577163cfe12e_large.png?v=1751211708"
     ],
     "inStock": true,
     "specs": [],
@@ -23830,7 +23830,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_337c04ec-6f43-4104-9d06-595989b96280_large.png?v=1751211708"
     ],
     "inStock": true,
     "specs": [],
@@ -23848,7 +23848,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_5500ef89-6ae0-430b-a00b-0234ee9418ec_large.png?v=1751211707"
     ],
     "inStock": true,
     "specs": [],
@@ -23866,7 +23866,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3f910aad-8bca-43ec-bb09-71958352b3d8_large.png?v=1751211707"
     ],
     "inStock": true,
     "specs": [],
@@ -23884,7 +23884,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d812e49f-79cd-4c55-9f39-4ff4a0d34a1e_large.png?v=1751211706"
     ],
     "inStock": true,
     "specs": [],
@@ -23902,7 +23902,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3426fcc7-2b5b-4068-98f1-201bb2281dc6_large.png?v=1751211705"
     ],
     "inStock": true,
     "specs": [],
@@ -23920,7 +23920,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_36e93e2f-67b6-4b24-9987-8ee1157cae21_large.png?v=1751211704"
     ],
     "inStock": true,
     "specs": [],
@@ -23938,7 +23938,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c899de27-6b04-4d59-a714-feb7170ba4fd_large.png?v=1751211704"
     ],
     "inStock": true,
     "specs": [],
@@ -23956,7 +23956,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9a760640-1b39-48d9-98ae-33ea098eacd3_large.png?v=1751211703"
     ],
     "inStock": true,
     "specs": [],
@@ -23974,7 +23974,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_33a5d74c-9ae7-4df0-8a2d-c6f190942008_large.png?v=1751211703"
     ],
     "inStock": true,
     "specs": [],
@@ -23992,7 +23992,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_32f70650-3c9b-47dd-956e-952f18393305_large.png?v=1751211702"
     ],
     "inStock": true,
     "specs": [],
@@ -24010,7 +24010,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7d36ccd6-05f6-40c4-919c-fd50c7f941ba_large.png?v=1751211702"
     ],
     "inStock": true,
     "specs": [],
@@ -24028,7 +24028,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_02992863-b7d2-4ccc-bcb7-8aa8cbd512ed_large.png?v=1751211701"
     ],
     "inStock": true,
     "specs": [],
@@ -24046,7 +24046,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_be2d3d4e-145d-45cc-9730-af5ececc96ef_large.png?v=1751211700"
     ],
     "inStock": true,
     "specs": [],
@@ -24064,7 +24064,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_cd4ab284-3300-4302-8b8d-1fc372b29488_large.png?v=1751211700"
     ],
     "inStock": true,
     "specs": [],
@@ -24082,7 +24082,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_11983651-bb05-4c74-a2ea-508e6674ef49_large.png?v=1751211699"
     ],
     "inStock": true,
     "specs": [],
@@ -24100,7 +24100,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c530afa1-32a5-426a-9134-792962020d5f_large.png?v=1751211698"
     ],
     "inStock": true,
     "specs": [],
@@ -24118,7 +24118,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a0cb8e52-3115-4319-b6cf-d399daa78fc2_large.png?v=1751211698"
     ],
     "inStock": true,
     "specs": [],
@@ -24136,7 +24136,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1c761e37-78cf-4518-8133-2d08d8869111_large.png?v=1751211697"
     ],
     "inStock": true,
     "specs": [],
@@ -24154,7 +24154,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e77f718b-d995-484e-bfb1-3b3eee02542b_large.png?v=1751211696"
     ],
     "inStock": true,
     "specs": [],
@@ -24172,7 +24172,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a1fda450-9e3a-4e8d-afee-9bf1c1786b96_large.png?v=1751211696"
     ],
     "inStock": true,
     "specs": [],
@@ -24190,7 +24190,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c90f9d48-d4b4-46e7-9f14-78018f3a1522_large.png?v=1751211695"
     ],
     "inStock": true,
     "specs": [],
@@ -24208,7 +24208,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3c75cb4f-efff-4e90-9da8-c7f1c7599d63_large.png?v=1751211695"
     ],
     "inStock": true,
     "specs": [],
@@ -24226,7 +24226,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1c1cef25-a9b0-4c59-a6bd-088a895a2fff_large.png?v=1751211694"
     ],
     "inStock": true,
     "specs": [],
@@ -24244,7 +24244,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_be39c43a-e8f2-4974-8215-5c1cad3af82c_large.png?v=1751211694"
     ],
     "inStock": true,
     "specs": [],
@@ -24262,7 +24262,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f4cd4095-b784-450a-b803-7bde4ffda82a_large.png?v=1751211693"
     ],
     "inStock": true,
     "specs": [],
@@ -24280,7 +24280,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3552a011-41e3-49fc-a81d-03d033b2e8f9_large.png?v=1751211692"
     ],
     "inStock": true,
     "specs": [],
@@ -24298,7 +24298,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d9460869-a3e5-4971-af16-c0bc7c6f18df_large.png?v=1751211691"
     ],
     "inStock": true,
     "specs": [],
@@ -24316,7 +24316,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_92af8296-942a-4f51-86a7-07437d5ebf3a_large.png?v=1751211691"
     ],
     "inStock": true,
     "specs": [],
@@ -24334,7 +24334,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3d40708f-b484-44e0-91b8-ba0838ffd500_large.png?v=1751211690"
     ],
     "inStock": true,
     "specs": [],
@@ -24352,7 +24352,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_b57ef9b7-f5ab-403a-8f13-9717dc52c521_large.png?v=1751211689"
     ],
     "inStock": true,
     "specs": [],
@@ -24370,7 +24370,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_dfd87551-bbd5-43c3-a614-0cc58ddfe97a_large.png?v=1751211689"
     ],
     "inStock": true,
     "specs": [],
@@ -24388,7 +24388,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_cbfc05e5-0c72-4ce2-892b-3f8dc622c125_large.png?v=1751211688"
     ],
     "inStock": true,
     "specs": [],
@@ -24406,7 +24406,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9eec48ed-357d-4704-810e-928b7cabde0f_large.png?v=1751211688"
     ],
     "inStock": true,
     "specs": [],
@@ -24424,7 +24424,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_6643a6a2-614f-4c80-b218-e08502379a86_large.png?v=1751211687"
     ],
     "inStock": true,
     "specs": [],
@@ -24442,7 +24442,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3221e48f-cb0c-41e3-b534-cd43ed8b7c5f_large.png?v=1751211686"
     ],
     "inStock": true,
     "specs": [],
@@ -24460,7 +24460,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_4eac2756-8b63-4239-bc37-b1a43b930a72_large.png?v=1751211685"
     ],
     "inStock": true,
     "specs": [],
@@ -24478,7 +24478,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_55d689c0-a987-44e1-88bc-fc928cb762e4_large.png?v=1751211684"
     ],
     "inStock": true,
     "specs": [],
@@ -24496,7 +24496,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_15ff6da6-7668-4372-a943-b0a64b53a965_large.png?v=1751211682"
     ],
     "inStock": true,
     "specs": [],
@@ -24514,7 +24514,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_23c4b84d-31d7-47f2-ba0d-e71c610a85fa_large.png?v=1751211681"
     ],
     "inStock": true,
     "specs": [],
@@ -24532,7 +24532,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_c742a57d-b83b-4eae-910f-50c680f251b4_large.png?v=1751211680"
     ],
     "inStock": true,
     "specs": [],
@@ -24550,7 +24550,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d21dfa5c-5624-44b5-9b3e-fc32e4d1f3ea_large.png?v=1751211679"
     ],
     "inStock": true,
     "specs": [],
@@ -24568,7 +24568,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_4cca91fd-8687-48fb-a73a-c52f3ea9be8e_large.png?v=1751211679"
     ],
     "inStock": true,
     "specs": [],
@@ -24586,7 +24586,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_65d5136d-32b1-4649-9e00-9d0082049a01_large.png?v=1751211678"
     ],
     "inStock": true,
     "specs": [],
@@ -24604,7 +24604,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_bce16af1-e145-4964-a6ff-70aca28970ba_large.png?v=1751211677"
     ],
     "inStock": true,
     "specs": [],
@@ -24622,7 +24622,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_17c9e363-bdd5-450f-8f84-60687b5779e4_large.png?v=1751211676"
     ],
     "inStock": true,
     "specs": [],
@@ -24640,7 +24640,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_ad8a8985-42c9-457e-9e6b-1ce2978270b1_large.png?v=1751211675"
     ],
     "inStock": true,
     "specs": [],
@@ -24658,7 +24658,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a030258a-6496-4b68-a96b-652f56de85d8_large.png?v=1751211675"
     ],
     "inStock": true,
     "specs": [],
@@ -24676,7 +24676,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_5db61340-e9f0-4397-b0a5-ec1ba37bac0b_large.png?v=1751211674"
     ],
     "inStock": true,
     "specs": [],
@@ -24694,7 +24694,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f6f80f35-8f90-4507-9b11-0fa3788e8215_large.png?v=1751211673"
     ],
     "inStock": true,
     "specs": [],
@@ -24712,7 +24712,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_52e6b23c-97f8-43f4-bb56-1da720f4d3fa_large.png?v=1751211672"
     ],
     "inStock": true,
     "specs": [],
@@ -24730,7 +24730,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3a23c40c-db3a-4b7e-a886-37b5116cb723_large.png?v=1751211672"
     ],
     "inStock": true,
     "specs": [],
@@ -24748,7 +24748,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_f8d30b3b-96a1-403b-9c78-43fbde4e4db0_large.png?v=1751211671"
     ],
     "inStock": true,
     "specs": [],
@@ -24766,7 +24766,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_a8c42c6f-a71a-4c0e-b451-ee1d45fe0878_large.png?v=1751211671"
     ],
     "inStock": true,
     "specs": [],
@@ -24784,7 +24784,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_24c5b15a-fedc-4bda-bef5-5c935499eb43_large.png?v=1751211670"
     ],
     "inStock": true,
     "specs": [],
@@ -24802,7 +24802,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_eba2ef64-f866-4701-8ed6-58941f51ff5d_large.png?v=1751211669"
     ],
     "inStock": true,
     "specs": [],
@@ -24820,7 +24820,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_d9775174-b68e-4f63-ad6e-42f68161caf2_large.png?v=1751211669"
     ],
     "inStock": true,
     "specs": [],
@@ -24838,7 +24838,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_bfcf50dc-67db-4d5e-b546-7b1a0bbafc1c_large.png?v=1751211668"
     ],
     "inStock": true,
     "specs": [],
@@ -24856,7 +24856,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_24c593df-3efd-43c5-ad4d-20ac1f8be84f_large.png?v=1751211668"
     ],
     "inStock": true,
     "specs": [],
@@ -24874,7 +24874,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1051ddbe-2d0c-47d6-8122-6332f5a33b1a_large.png?v=1751211667"
     ],
     "inStock": true,
     "specs": [],
@@ -24892,7 +24892,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7add3b9b-cc5e-4805-bb38-6173150092aa_large.png?v=1751211666"
     ],
     "inStock": true,
     "specs": [],
@@ -24910,7 +24910,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_42e979e4-5c90-45a0-8e46-ec1ffc5260ee_large.png?v=1751211665"
     ],
     "inStock": true,
     "specs": [],
@@ -24928,7 +24928,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_637ec72c-13ab-4459-8f1a-9cc15133eb2b_large.png?v=1751211665"
     ],
     "inStock": true,
     "specs": [],
@@ -24946,7 +24946,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_7b07e149-ce2c-4b8f-b653-04446bacb12e_large.png?v=1751211664"
     ],
     "inStock": true,
     "specs": [],
@@ -24964,7 +24964,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_42ab4cbf-6416-4caf-ac53-975a4ae12306_large.png?v=1751211664"
     ],
     "inStock": true,
     "specs": [],
@@ -24982,7 +24982,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_48a013ec-817d-4ba9-863c-ac268961d380_large.png?v=1751211663"
     ],
     "inStock": true,
     "specs": [],
@@ -25000,7 +25000,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_46df6828-b32e-4a56-a6fb-ce9b6d085c15_large.png?v=1751211663"
     ],
     "inStock": true,
     "specs": [],
@@ -25018,7 +25018,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_3249a9e2-7eaa-426d-bda4-b2c223901547_large.png?v=1751211662"
     ],
     "inStock": true,
     "specs": [],
@@ -25036,7 +25036,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_1318f213-3b7c-47f7-a0ac-f6793c24458e_large.png?v=1751211661"
     ],
     "inStock": true,
     "specs": [],
@@ -25054,7 +25054,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_6514274e-ef5f-44d6-b161-8a0342b802fa_large.png?v=1751211661"
     ],
     "inStock": true,
     "specs": [],
@@ -25072,7 +25072,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_9fe0e37a-557c-4d1b-9515-e0aac49890b9_large.png?v=1751211660"
     ],
     "inStock": true,
     "specs": [],
@@ -25090,7 +25090,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_2215e25b-a13e-4ed1-abc7-d8cad5167962_large.png?v=1751211659"
     ],
     "inStock": true,
     "specs": [],
@@ -25108,7 +25108,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_8a9697d7-7de5-420f-b68a-e6e734c30bbf_large.png?v=1751211658"
     ],
     "inStock": true,
     "specs": [],
@@ -25126,7 +25126,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_e86c0f2c-8f17-4ddf-97cb-ff64f7d63bc1_large.png?v=1751211658"
     ],
     "inStock": true,
     "specs": [],
@@ -25144,7 +25144,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDR_40_95_A_ba1da393-8bca-4550-9539-230f0ad8a704_large.png?v=1751211657"
     ],
     "inStock": true,
     "specs": [],
@@ -25162,7 +25162,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_large.png?v=1751211656"
     ],
     "inStock": true,
     "specs": [],
@@ -25180,7 +25180,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_62209e50-d28c-4f27-b307-e62197821176_large.png?v=1751211656"
     ],
     "inStock": true,
     "specs": [],
@@ -25198,7 +25198,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_33abcce8-f0e5-4c18-8d54-6a33de6a52f3_large.png?v=1751211655"
     ],
     "inStock": true,
     "specs": [],
@@ -25216,7 +25216,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1cda5e7f-d75c-429a-a826-f5666ad04c1c_large.png?v=1751211654"
     ],
     "inStock": true,
     "specs": [],
@@ -25234,7 +25234,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5b6f832b-6538-4e30-b4b3-8b50fbc307de_large.png?v=1751211653"
     ],
     "inStock": true,
     "specs": [],
@@ -25252,7 +25252,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_cff579fa-f5f4-440f-97a6-98cf4101b5a8_large.png?v=1751211653"
     ],
     "inStock": true,
     "specs": [],
@@ -25270,7 +25270,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_ebd308f1-b3dc-4808-af34-e04dd48b382f_large.png?v=1751211652"
     ],
     "inStock": true,
     "specs": [],
@@ -25288,7 +25288,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_9c6def5e-09ed-4017-8268-73ec972524d0_large.png?v=1751211652"
     ],
     "inStock": true,
     "specs": [],
@@ -25306,7 +25306,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_55073de5-6a09-4e75-a101-e5519fb8a15b_large.png?v=1751211651"
     ],
     "inStock": true,
     "specs": [],
@@ -25324,7 +25324,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_58618fcb-ed1b-486f-bc57-d0097871c5da_large.png?v=1751211651"
     ],
     "inStock": true,
     "specs": [],
@@ -25342,7 +25342,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_696648fd-ba94-45ae-8e26-e2cc6974bb3b_large.png?v=1751211650"
     ],
     "inStock": true,
     "specs": [],
@@ -25360,7 +25360,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_004b53ce-25f2-4eee-8e35-3be3321b0910_large.png?v=1751211649"
     ],
     "inStock": true,
     "specs": [],
@@ -25378,7 +25378,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_774a8036-5272-4796-a3ec-ef28d4ce35a4_large.png?v=1751211649"
     ],
     "inStock": true,
     "specs": [],
@@ -25396,7 +25396,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_ed15c709-8b72-46f3-b759-6c9540025fbe_large.png?v=1751211648"
     ],
     "inStock": true,
     "specs": [],
@@ -25414,7 +25414,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3efe580d-8fb9-4a9a-82a5-f0476e0de93b_large.png?v=1751211648"
     ],
     "inStock": true,
     "specs": [],
@@ -25432,7 +25432,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_6dacb93a-c5a2-4135-b8c8-e9552bfdc679_large.png?v=1751211647"
     ],
     "inStock": true,
     "specs": [],
@@ -25450,7 +25450,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5408506a-48e0-4581-b31c-0df667c22f55_large.png?v=1751211646"
     ],
     "inStock": true,
     "specs": [],
@@ -25468,7 +25468,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_c8e0498f-39ad-4df0-b497-b2c5cfc39452_large.png?v=1751211645"
     ],
     "inStock": true,
     "specs": [],
@@ -25486,7 +25486,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_27b9b534-54a1-4418-8aee-188fa7f9d592_large.png?v=1751211644"
     ],
     "inStock": true,
     "specs": [],
@@ -25504,7 +25504,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_b42fa8a8-3750-49ec-8080-69f0d291a2ef_large.png?v=1751211643"
     ],
     "inStock": true,
     "specs": [],
@@ -25522,7 +25522,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_50e3afe9-00b4-4f1a-abe9-07ceaac51d38_large.png?v=1751211643"
     ],
     "inStock": true,
     "specs": [],
@@ -25540,7 +25540,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_ffb1cf01-5c21-4225-a323-e4468667e0d8_large.png?v=1751211642"
     ],
     "inStock": true,
     "specs": [],
@@ -25558,7 +25558,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_762b7da9-9d4f-4f9c-8bbf-e13fe0353509_large.png?v=1751211642"
     ],
     "inStock": true,
     "specs": [],
@@ -25576,7 +25576,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_362b575c-ea85-4bd7-a423-2bed8234fff2_large.png?v=1751211641"
     ],
     "inStock": true,
     "specs": [],
@@ -25594,7 +25594,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1e3fa476-4ecf-479e-8d0d-6de35cc777c7_large.png?v=1751211641"
     ],
     "inStock": true,
     "specs": [],
@@ -25612,7 +25612,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8daa0e45-0a9f-40f4-8058-76aae87a284d_large.png?v=1751211640"
     ],
     "inStock": true,
     "specs": [],
@@ -25630,7 +25630,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_7361412c-84b6-4845-b17a-40efc7a6df32_large.png?v=1751211639"
     ],
     "inStock": true,
     "specs": [],
@@ -25648,7 +25648,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_34d430ce-9623-4570-ae59-4e3db61b365c_large.png?v=1751211639"
     ],
     "inStock": true,
     "specs": [],
@@ -25666,7 +25666,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_7b8f46a8-419a-4874-8377-3dc8a562c23b_large.png?v=1751211638"
     ],
     "inStock": true,
     "specs": [],
@@ -25684,7 +25684,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_cde21c5c-1f1a-45ae-95da-0b4065b14d11_large.png?v=1751211637"
     ],
     "inStock": true,
     "specs": [],
@@ -25702,7 +25702,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_b52cd9b6-d90a-40b2-be5f-2d540d63bf5f_large.png?v=1751211636"
     ],
     "inStock": true,
     "specs": [],
@@ -25720,7 +25720,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f446c41d-fc07-4bc7-a475-5e37929dae76_large.png?v=1751211636"
     ],
     "inStock": true,
     "specs": [],
@@ -25738,7 +25738,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_a6f67bd4-7ce7-4860-a8ac-ac45b4538ef2_large.png?v=1751211635"
     ],
     "inStock": true,
     "specs": [],
@@ -25756,7 +25756,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_ca10c735-c0cf-402f-97bd-7602a6d0f933_large.png?v=1751211635"
     ],
     "inStock": true,
     "specs": [],
@@ -25774,7 +25774,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_c12d95bd-6322-468a-ac1f-b4bec34b6951_large.png?v=1751211634"
     ],
     "inStock": true,
     "specs": [],
@@ -25792,7 +25792,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3ac1a0de-feaf-4dec-ae9e-600a0a71ff8a_large.png?v=1751211633"
     ],
     "inStock": true,
     "specs": [],
@@ -25810,7 +25810,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3f8125ae-2ed2-4e5e-b27a-a4f7fc51f710_large.png?v=1751211633"
     ],
     "inStock": true,
     "specs": [],
@@ -25828,7 +25828,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_52ac402b-d95d-43b9-b5cf-b488c840c7bb_large.png?v=1751211632"
     ],
     "inStock": true,
     "specs": [],
@@ -25846,7 +25846,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_251b14a4-9c0c-4fd3-8f02-690bdd7d9058_large.png?v=1751211632"
     ],
     "inStock": true,
     "specs": [],
@@ -25864,7 +25864,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_7508f541-116a-47fd-a821-f5ecd2bbc335_large.png?v=1751211631"
     ],
     "inStock": true,
     "specs": [],
@@ -25882,7 +25882,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_0db7c8f2-3c66-4981-9d4d-d12b0c46a2ea_large.png?v=1751211630"
     ],
     "inStock": true,
     "specs": [],
@@ -25900,7 +25900,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1b8e5e2b-322a-4163-9b2c-bae43a115694_large.png?v=1751211629"
     ],
     "inStock": true,
     "specs": [],
@@ -25918,7 +25918,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5ba91e64-68b0-42af-9f50-244c7e7807fc_large.png?v=1751211629"
     ],
     "inStock": true,
     "specs": [],
@@ -25936,7 +25936,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_2fb1e7c7-1f84-4572-b17f-2e55e49e81f8_large.png?v=1751211628"
     ],
     "inStock": true,
     "specs": [],
@@ -25954,7 +25954,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_b7b7a9eb-3f1a-49f3-b7aa-f0e5bf818d31_large.png?v=1751211628"
     ],
     "inStock": true,
     "specs": [],
@@ -25972,7 +25972,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_72dd204a-a00e-4553-8221-40c245db0b56_large.png?v=1751211627"
     ],
     "inStock": true,
     "specs": [],
@@ -25990,7 +25990,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8308a1a1-e1ce-4e47-899c-75a81e2f5d2a_large.png?v=1751211626"
     ],
     "inStock": true,
     "specs": [],
@@ -26008,7 +26008,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5db83fda-554f-42b5-b4ed-ef9edbe71463_large.png?v=1751211626"
     ],
     "inStock": true,
     "specs": [],
@@ -26026,7 +26026,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_c5a6a837-f2a5-44c0-b221-6e127fc6bf6b_large.png?v=1751211625"
     ],
     "inStock": true,
     "specs": [],
@@ -26044,7 +26044,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_372b76a5-e76c-4d5a-8e9a-1cb68ddd2b27_large.png?v=1751211625"
     ],
     "inStock": true,
     "specs": [],
@@ -26062,7 +26062,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_9e61e95b-b9d9-4c28-a1ec-8edcd7a274de_large.png?v=1751211624"
     ],
     "inStock": true,
     "specs": [],
@@ -26080,7 +26080,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3bc28125-8ae3-4f78-b8af-5a930424a5e9_large.png?v=1751211623"
     ],
     "inStock": true,
     "specs": [],
@@ -26098,7 +26098,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8c448961-b2ca-4637-ade6-6ce79325823d_large.png?v=1751211622"
     ],
     "inStock": true,
     "specs": [],
@@ -26116,7 +26116,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8c8ba023-c7c0-47c6-a156-3529ae1eb037_large.png?v=1751211622"
     ],
     "inStock": true,
     "specs": [],
@@ -26134,7 +26134,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_53235c54-3951-4fb3-b6bd-c575c2251732_large.png?v=1751211621"
     ],
     "inStock": true,
     "specs": [],
@@ -26152,7 +26152,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f3b751e2-557f-4612-b399-fb08deafecc0_large.png?v=1751211621"
     ],
     "inStock": true,
     "specs": [],
@@ -26170,7 +26170,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_a905c026-ee87-4eea-84e9-c398533e8b5c_large.png?v=1751211620"
     ],
     "inStock": true,
     "specs": [],
@@ -26188,7 +26188,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_0bc1b549-0253-4480-a6b6-5576f2250c07_large.png?v=1751211619"
     ],
     "inStock": true,
     "specs": [],
@@ -26206,7 +26206,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1d777b58-7fd0-47e8-80d4-a9fbe41801f4_large.png?v=1751211619"
     ],
     "inStock": true,
     "specs": [],
@@ -26224,7 +26224,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_dc2b4b31-39bc-42f2-a31b-4699019f15ff_large.png?v=1751211618"
     ],
     "inStock": true,
     "specs": [],
@@ -26242,7 +26242,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1693b6d2-2a12-4deb-98de-6ef68d21a825_large.png?v=1751211618"
     ],
     "inStock": true,
     "specs": [],
@@ -26260,7 +26260,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_e15ffb6b-aaef-4eb1-b1ea-b25be8710320_large.png?v=1751211617"
     ],
     "inStock": true,
     "specs": [],
@@ -26278,7 +26278,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_a601a411-dcfe-4843-bf03-edc653ae2911_large.png?v=1751211616"
     ],
     "inStock": true,
     "specs": [],
@@ -26296,7 +26296,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d5f32eb6-27ad-4732-843e-d44af485966d_large.png?v=1751211615"
     ],
     "inStock": true,
     "specs": [],
@@ -26314,7 +26314,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_64072204-0f4a-4103-86ed-cca4267ebf3b_large.png?v=1751211615"
     ],
     "inStock": true,
     "specs": [],
@@ -26332,7 +26332,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_30a9d1ba-cc67-4589-a41a-f56be441de85_large.png?v=1751211614"
     ],
     "inStock": true,
     "specs": [],
@@ -26350,7 +26350,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_c39e5d0c-17eb-41e0-bac0-c060a9c4a0ad_large.png?v=1751211613"
     ],
     "inStock": true,
     "specs": [],
@@ -26368,7 +26368,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3e41605f-a03e-4ae8-98cf-e344227504ec_large.png?v=1751211613"
     ],
     "inStock": true,
     "specs": [],
@@ -26386,7 +26386,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_91c0d609-48da-40be-ab7d-2072be1426ce_large.png?v=1751211612"
     ],
     "inStock": true,
     "specs": [],
@@ -26404,7 +26404,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_2cb1fd3c-e247-4f38-ba31-34e386b60de0_large.png?v=1751211612"
     ],
     "inStock": true,
     "specs": [],
@@ -26422,7 +26422,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3cce31e7-b172-4d02-b7c2-9bc0fbb87c66_large.png?v=1751211611"
     ],
     "inStock": true,
     "specs": [],
@@ -26440,7 +26440,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_fe48355a-88a6-4a15-8942-a65430dd990e_large.png?v=1751211611"
     ],
     "inStock": true,
     "specs": [],
@@ -26458,7 +26458,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d2297bed-abea-4d80-bab4-b2d7cfae257c_large.png?v=1751211610"
     ],
     "inStock": true,
     "specs": [],
@@ -26476,7 +26476,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_2abcb5d5-7f0b-4871-ade3-479effd05258_large.png?v=1751211609"
     ],
     "inStock": true,
     "specs": [],
@@ -26494,7 +26494,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_94ef6023-ddb4-4c8b-a69d-6ad60e4474a9_large.png?v=1751211608"
     ],
     "inStock": true,
     "specs": [],
@@ -26512,7 +26512,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_129f7eb2-0f71-4359-b866-38262fb5f20c_large.png?v=1751211608"
     ],
     "inStock": true,
     "specs": [],
@@ -26530,7 +26530,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5fa40a09-fcd3-4c81-b20a-aa6d8376668c_large.png?v=1751211607"
     ],
     "inStock": true,
     "specs": [],
@@ -26548,7 +26548,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_68f93c59-5958-4eed-95f5-02668cfadfb7_large.png?v=1751211607"
     ],
     "inStock": true,
     "specs": [],
@@ -26566,7 +26566,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_9aecf9e4-49f6-4f94-b69f-ab38599fe346_large.png?v=1751211606"
     ],
     "inStock": true,
     "specs": [],
@@ -26584,7 +26584,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3e7259cf-42a6-4be0-8b6f-c71a9569e212_large.png?v=1751211606"
     ],
     "inStock": true,
     "specs": [],
@@ -26602,7 +26602,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_a5a172ae-5552-4207-b6a6-967b1b83e9ea_large.png?v=1751211605"
     ],
     "inStock": true,
     "specs": [],
@@ -26620,7 +26620,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_af906e15-ed0a-455f-b67b-2eb68fd50968_large.png?v=1751211604"
     ],
     "inStock": true,
     "specs": [],
@@ -26638,7 +26638,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d5f8a313-f547-4eca-a81c-929392e9f64e_large.png?v=1751211604"
     ],
     "inStock": true,
     "specs": [],
@@ -26656,7 +26656,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_6b0020a6-84d6-445e-bd6a-3639eae5d6bd_large.png?v=1751211603"
     ],
     "inStock": true,
     "specs": [],
@@ -26674,7 +26674,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_c81aa318-f084-4f45-a9e9-34101ab13bd9_large.png?v=1751211602"
     ],
     "inStock": true,
     "specs": [],
@@ -26692,7 +26692,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_086c2e53-4d23-4f4e-894a-6ba6515c6b97_large.png?v=1751211601"
     ],
     "inStock": true,
     "specs": [],
@@ -26710,7 +26710,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_6a25f853-0ba2-4558-b4b2-33c9e404e147_large.png?v=1751211601"
     ],
     "inStock": true,
     "specs": [],
@@ -26728,7 +26728,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_9424f462-96c7-4478-a3d0-389a6c0b592c_large.png?v=1751211600"
     ],
     "inStock": true,
     "specs": [],
@@ -26746,7 +26746,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_adeef713-aeff-4840-bd8b-b615344e1717_large.png?v=1751211600"
     ],
     "inStock": true,
     "specs": [],
@@ -26764,7 +26764,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_61430ed8-deb8-4afe-8aef-6187c244d159_large.png?v=1751211599"
     ],
     "inStock": true,
     "specs": [],
@@ -26782,7 +26782,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1bb81db0-c19d-40c4-99c8-bed013d56a75_large.png?v=1751211599"
     ],
     "inStock": true,
     "specs": [],
@@ -26800,7 +26800,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_6f04f214-2015-4d85-b3b0-d79972b5a5e7_large.png?v=1751211598"
     ],
     "inStock": true,
     "specs": [],
@@ -26818,7 +26818,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_bc0c3869-4fef-45ac-ba60-32818b7a81d8_large.png?v=1751211597"
     ],
     "inStock": true,
     "specs": [],
@@ -26836,7 +26836,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_30dd4234-efa2-4677-8876-0fe564c761c7_large.png?v=1751211597"
     ],
     "inStock": true,
     "specs": [],
@@ -26854,7 +26854,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_24205d81-efe7-4411-8feb-1333a9cdbf0e_large.png?v=1751211596"
     ],
     "inStock": true,
     "specs": [],
@@ -26872,7 +26872,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_ce7cb757-6a12-430e-aa83-39d7576c7ee7_large.png?v=1751211595"
     ],
     "inStock": true,
     "specs": [],
@@ -26890,7 +26890,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_13ee7dd1-e87f-44ff-9050-6e7b82a8b12a_large.png?v=1751211595"
     ],
     "inStock": true,
     "specs": [],
@@ -26908,7 +26908,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_2374fe1a-7838-4a52-9498-ab6a817d482d_large.png?v=1751211594"
     ],
     "inStock": true,
     "specs": [],
@@ -26926,7 +26926,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_4bbe0c23-e1e5-4f02-a188-0ff24af603c2_large.png?v=1751211593"
     ],
     "inStock": true,
     "specs": [],
@@ -26944,7 +26944,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1444c146-5e95-468f-8a7e-d2edf1bad94d_large.png?v=1751211592"
     ],
     "inStock": true,
     "specs": [],
@@ -26962,7 +26962,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d9cf6323-68ac-47ce-a81a-53b160e3102a_large.png?v=1751211591"
     ],
     "inStock": true,
     "specs": [],
@@ -26980,7 +26980,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_844ce889-ba0b-453c-b8a1-b936bd4f701d_large.png?v=1751211590"
     ],
     "inStock": true,
     "specs": [],
@@ -26998,7 +26998,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_dc0e7973-b2b5-4096-a808-829ade7bfc0a_large.png?v=1751211589"
     ],
     "inStock": true,
     "specs": [],
@@ -27016,7 +27016,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_41ededfd-62d3-4770-87d1-193af574eb06_large.png?v=1751211588"
     ],
     "inStock": true,
     "specs": [],
@@ -27034,7 +27034,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_4b630880-f72f-4100-9a31-93f4dc386f33_large.png?v=1751211587"
     ],
     "inStock": true,
     "specs": [],
@@ -27052,7 +27052,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f3bd7b4e-1e5b-4f99-a05e-4cb5a715e7ee_large.png?v=1751211586"
     ],
     "inStock": true,
     "specs": [],
@@ -27070,7 +27070,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_cdb30ab6-55d4-4f89-bee3-8c9da9466e16_large.png?v=1751211583"
     ],
     "inStock": true,
     "specs": [],
@@ -27088,7 +27088,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_0a1aa905-fb3c-4b28-88fa-d02303d65052_large.png?v=1751211582"
     ],
     "inStock": true,
     "specs": [],
@@ -27106,7 +27106,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_93330734-7154-4982-bc1d-1c7f870275c4_large.png?v=1751211582"
     ],
     "inStock": true,
     "specs": [],
@@ -27124,7 +27124,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_c974c1b3-78f6-4905-89d0-a9403e6f4734_large.png?v=1751211581"
     ],
     "inStock": true,
     "specs": [],
@@ -27142,7 +27142,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_e0722cae-6b7f-4e02-a8a2-fb8e2b984152_large.png?v=1751211580"
     ],
     "inStock": true,
     "specs": [],
@@ -27160,7 +27160,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_314d4228-e725-435f-ae4c-61b8f5d22aa2_large.png?v=1751211580"
     ],
     "inStock": true,
     "specs": [],
@@ -27178,7 +27178,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5f9cef5b-8a89-4b63-8526-4ddd564728a6_large.png?v=1751211579"
     ],
     "inStock": true,
     "specs": [],
@@ -27196,7 +27196,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_63d8683c-8eec-4991-9b11-7fc9a91d2928_large.png?v=1751211579"
     ],
     "inStock": true,
     "specs": [],
@@ -27214,7 +27214,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d8a85c87-de40-4ce3-8573-7e18ba05c602_large.png?v=1751211578"
     ],
     "inStock": true,
     "specs": [],
@@ -27232,7 +27232,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d05be38e-eea2-4bf0-a457-d622c53222a0_large.png?v=1751211578"
     ],
     "inStock": true,
     "specs": [],
@@ -27250,7 +27250,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f0d1ac5d-586c-4dc1-88d9-ea8434831dbd_large.png?v=1751211577"
     ],
     "inStock": true,
     "specs": [],
@@ -27268,7 +27268,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8aa30364-3cab-4168-a19a-39d937bfa510_large.png?v=1751211576"
     ],
     "inStock": true,
     "specs": [],
@@ -27286,7 +27286,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5891c7a5-047b-4d2b-bfff-a810087f761e_large.png?v=1751211576"
     ],
     "inStock": true,
     "specs": [],
@@ -27304,7 +27304,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_232c4d62-ad83-4df3-af8f-9018e01f334d_large.png?v=1751211575"
     ],
     "inStock": true,
     "specs": [],
@@ -27322,7 +27322,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_04c0306b-551d-4924-a149-a61ff661b3d0_large.png?v=1751211575"
     ],
     "inStock": true,
     "specs": [],
@@ -27340,7 +27340,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f6850a91-c225-42e3-ab9d-33cf8d674035_large.png?v=1751211574"
     ],
     "inStock": true,
     "specs": [],
@@ -27358,7 +27358,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d86de82b-e5a8-4473-956d-fcbd42692db6_large.png?v=1751211573"
     ],
     "inStock": true,
     "specs": [],
@@ -27376,7 +27376,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3347cb08-87de-42f6-8bca-6f882511dd3a_large.png?v=1751211573"
     ],
     "inStock": true,
     "specs": [],
@@ -27394,7 +27394,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_82e7c719-62df-4416-9ecf-c62937dc25d8_large.png?v=1751211572"
     ],
     "inStock": true,
     "specs": [],
@@ -27412,7 +27412,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_cd754392-2e86-498e-85ba-16c0ceff45a3_large.png?v=1751211571"
     ],
     "inStock": true,
     "specs": [],
@@ -27430,7 +27430,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_008a562b-ac57-40fe-9316-48e95ff8c510_large.png?v=1751211571"
     ],
     "inStock": true,
     "specs": [],
@@ -27448,7 +27448,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_68c0506c-f828-4566-a68f-5c7a8c4457f7_large.png?v=1751211570"
     ],
     "inStock": true,
     "specs": [],
@@ -27466,7 +27466,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_af4bacae-32f9-4435-827b-c851a2043583_large.png?v=1751211569"
     ],
     "inStock": true,
     "specs": [],
@@ -27484,7 +27484,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_2718d0b9-52cf-4940-ad48-412ac38a4dc6_large.png?v=1751211569"
     ],
     "inStock": true,
     "specs": [],
@@ -27502,7 +27502,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_e5a619dd-c330-4167-bc9f-5ab199378602_large.png?v=1751211568"
     ],
     "inStock": true,
     "specs": [],
@@ -27520,7 +27520,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_30298859-7950-475e-a5d1-ead8aee74cef_large.png?v=1751211568"
     ],
     "inStock": true,
     "specs": [],
@@ -27538,7 +27538,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_84ca0475-f81b-4f94-973b-6de940d16ecb_large.png?v=1751211567"
     ],
     "inStock": true,
     "specs": [],
@@ -27556,7 +27556,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_02447db5-78b5-4eae-97a6-b1e6003719de_large.png?v=1751211567"
     ],
     "inStock": true,
     "specs": [],
@@ -27574,7 +27574,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_be4b58fb-213b-40c0-ae91-e75b3aacfa74_large.png?v=1751211566"
     ],
     "inStock": true,
     "specs": [],
@@ -27592,7 +27592,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_9ff85e38-7766-4d5a-89d1-ac7c90cd2605_large.png?v=1751211565"
     ],
     "inStock": true,
     "specs": [],
@@ -27610,7 +27610,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_264de293-2e89-4c91-a8f8-ed72725f6f4f_large.png?v=1751211565"
     ],
     "inStock": true,
     "specs": [],
@@ -27628,7 +27628,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_a2e9f210-a262-40ea-9622-7abd65690297_large.png?v=1751211564"
     ],
     "inStock": true,
     "specs": [],
@@ -27646,7 +27646,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_c4577efd-5e54-41f8-a1be-3e895d8a522f_large.png?v=1751211564"
     ],
     "inStock": true,
     "specs": [],
@@ -27664,7 +27664,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3deb9cbc-ced0-475b-8832-6a8fdba4e16e_large.png?v=1751211563"
     ],
     "inStock": true,
     "specs": [],
@@ -27682,7 +27682,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f13f3775-e2dd-421b-8025-ac1e4f1ef49a_large.png?v=1751211562"
     ],
     "inStock": true,
     "specs": [],
@@ -27700,7 +27700,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_dc584508-3432-451e-a12c-26ff91fe72c0_large.png?v=1751211562"
     ],
     "inStock": true,
     "specs": [],
@@ -27718,7 +27718,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8e49aa4e-413d-4fe4-90b0-0600ed483474_large.png?v=1751211561"
     ],
     "inStock": true,
     "specs": [],
@@ -27736,7 +27736,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_5db644fb-02d8-4bff-b29c-765ee0558317_large.png?v=1751211560"
     ],
     "inStock": true,
     "specs": [],
@@ -27754,7 +27754,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f930a07c-47c7-4955-a7f1-e94b9331bb7e_large.png?v=1751211560"
     ],
     "inStock": true,
     "specs": [],
@@ -27772,7 +27772,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_6b5ee187-5bac-457b-80be-218f5ca9b80a_large.png?v=1751211559"
     ],
     "inStock": true,
     "specs": [],
@@ -27790,7 +27790,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_31b919bc-76bf-42f9-bbd1-49b053c7fa0a_large.png?v=1751211559"
     ],
     "inStock": true,
     "specs": [],
@@ -27808,7 +27808,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_dcb5b9ff-ab5e-43c3-9c0f-627887974f9d_large.png?v=1751211558"
     ],
     "inStock": true,
     "specs": [],
@@ -27826,7 +27826,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3b6d1bf2-159d-4369-99be-3ce683b3747c_large.png?v=1751211558"
     ],
     "inStock": true,
     "specs": [],
@@ -27844,7 +27844,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_09dce35c-e9b1-4f14-85f8-60232b7665f0_large.png?v=1751211557"
     ],
     "inStock": true,
     "specs": [],
@@ -27862,7 +27862,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_0a99d89b-b411-4e2f-a504-0a15f14182f2_large.png?v=1751211556"
     ],
     "inStock": true,
     "specs": [],
@@ -27880,7 +27880,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_b896ef32-103c-4df7-9718-f220edfb3d0a_large.png?v=1751211554"
     ],
     "inStock": true,
     "specs": [],
@@ -27898,7 +27898,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_fb2d737e-d832-442c-9101-19ee5a492a0e_large.png?v=1751211554"
     ],
     "inStock": true,
     "specs": [],
@@ -27916,7 +27916,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_cbd44dab-f512-4a35-ba37-f80a59d22fd4_large.png?v=1751211553"
     ],
     "inStock": true,
     "specs": [],
@@ -27934,7 +27934,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_7e871b20-98cd-4bae-8202-9385a018f454_large.png?v=1751211553"
     ],
     "inStock": true,
     "specs": [],
@@ -27952,7 +27952,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_e195efdd-d0f0-4c92-a27e-af37e5991a73_large.png?v=1751211552"
     ],
     "inStock": true,
     "specs": [],
@@ -27970,7 +27970,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_73b90d46-d67c-4b36-bc0e-431ff27215d5_large.png?v=1751211552"
     ],
     "inStock": true,
     "specs": [],
@@ -27988,7 +27988,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8c925d4c-ae1d-4532-a3fc-958711b39308_large.png?v=1751211551"
     ],
     "inStock": true,
     "specs": [],
@@ -28006,7 +28006,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_eca51be9-6393-4631-88f1-743718321696_large.png?v=1751211551"
     ],
     "inStock": true,
     "specs": [],
@@ -28024,7 +28024,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_6f064a0a-f11f-42ba-ae78-59460d3265d1_large.png?v=1751211550"
     ],
     "inStock": true,
     "specs": [],
@@ -28042,7 +28042,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_f5cb6bb5-4006-4f8b-9483-d9b2d9118cc4_large.png?v=1751211549"
     ],
     "inStock": true,
     "specs": [],
@@ -28060,7 +28060,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_b07ffb8e-6181-4be9-b727-3eeb218014b4_large.png?v=1751211548"
     ],
     "inStock": true,
     "specs": [],
@@ -28078,7 +28078,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_b285874a-f86c-4fa3-a181-7e335c450336_large.png?v=1751211548"
     ],
     "inStock": true,
     "specs": [],
@@ -28096,7 +28096,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_898b57e6-791c-4ad6-a163-6a2560a99d54_large.png?v=1751211547"
     ],
     "inStock": true,
     "specs": [],
@@ -28114,7 +28114,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_fdeb1c21-7d93-498c-a19d-e5d4a447f68e_large.png?v=1751211546"
     ],
     "inStock": true,
     "specs": [],
@@ -28132,7 +28132,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_688e6de3-5fed-4beb-8c41-7578d40b4fa7_large.png?v=1751211546"
     ],
     "inStock": true,
     "specs": [],
@@ -28150,7 +28150,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_1c83cfb5-dbb9-4993-9682-89a25108226b_large.png?v=1751211545"
     ],
     "inStock": true,
     "specs": [],
@@ -28168,7 +28168,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_d3acbca3-2e15-4d3b-9fc8-980b80d27f5a_large.png?v=1751211545"
     ],
     "inStock": true,
     "specs": [],
@@ -28186,7 +28186,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_19a6d7cc-983c-4b9e-b03d-d0c390106a98_large.png?v=1751211544"
     ],
     "inStock": true,
     "specs": [],
@@ -28204,7 +28204,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_3c7b1dfe-33a6-44af-b155-1c1d91e95ef0_large.png?v=1751211544"
     ],
     "inStock": true,
     "specs": [],
@@ -28222,7 +28222,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_e6e1ded6-0000-410b-a678-6d318ccd3f5d_large.png?v=1751211543"
     ],
     "inStock": true,
     "specs": [],
@@ -28240,7 +28240,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_59969bf3-6522-4cc5-892d-3510a0c012dc_large.png?v=1751211542"
     ],
     "inStock": true,
     "specs": [],
@@ -28258,7 +28258,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_b939a041-17e8-4a37-a1c1-233faf9fefb9_large.png?v=1751211541"
     ],
     "inStock": true,
     "specs": [],
@@ -28276,7 +28276,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_7d516d21-419b-4a29-9f9c-f8a3b0b0a73f_large.png?v=1751211540"
     ],
     "inStock": true,
     "specs": [],
@@ -28294,7 +28294,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_8e8b75af-ad11-41c3-92c7-95f7acb2af72_large.png?v=1751211540"
     ],
     "inStock": true,
     "specs": [],
@@ -28312,7 +28312,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_9_32_A_7a9797cf-9cca-4476-a8ce-af058e786980_large.png?v=1751211539"
     ],
     "inStock": true,
     "specs": [],
@@ -28330,7 +28330,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Power_Connection_large.png?v=1611083560"
     ],
     "inStock": true,
     "specs": [],
@@ -28348,7 +28348,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Power_Connection_a7daa33a-b990-49aa-926d-54b8f4c50e44_large.png?v=1611083561"
     ],
     "inStock": true,
     "specs": [],
@@ -28366,7 +28366,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Power_Connection_d48ee2ff-7151-47ec-a23d-b81c86bdc235_large.png?v=1611083562"
     ],
     "inStock": true,
     "specs": [],
@@ -28384,7 +28384,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_large.png?v=1611080265"
     ],
     "inStock": true,
     "specs": [],
@@ -28402,7 +28402,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b67c81dd-2b1a-498e-8214-7102b2e54388_large.png?v=1611080267"
     ],
     "inStock": true,
     "specs": [],
@@ -28420,7 +28420,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a471e559-de87-48c1-8cd7-17321c22e201_large.png?v=1611080268"
     ],
     "inStock": true,
     "specs": [],
@@ -28438,7 +28438,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_ed63eb65-d856-4881-9a42-0fca600d885d_large.png?v=1611080269"
     ],
     "inStock": true,
     "specs": [],
@@ -28456,7 +28456,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_23ef90cf-aabf-4e46-8eb7-5b5d2fa1ddf0_large.png?v=1611080270"
     ],
     "inStock": true,
     "specs": [],
@@ -28474,7 +28474,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_6adfd0ea-6740-4a64-a740-4d9a18ca8035_large.png?v=1611080272"
     ],
     "inStock": true,
     "specs": [],
@@ -28492,7 +28492,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_da307234-aa3c-4442-b426-c835366f3560_large.png?v=1611080273"
     ],
     "inStock": true,
     "specs": [],
@@ -28510,7 +28510,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_59160efa-a9dc-4ff4-8a7d-2c92028c29ad_large.png?v=1611080274"
     ],
     "inStock": true,
     "specs": [],
@@ -28528,7 +28528,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_cf7f563f-664e-4c3f-9da2-1c7c2406f489_large.png?v=1611080275"
     ],
     "inStock": true,
     "specs": [],
@@ -28546,7 +28546,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a38ca14c-94f6-42af-9538-412f3e3128de_large.png?v=1611080276"
     ],
     "inStock": true,
     "specs": [],
@@ -28564,7 +28564,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_1d6ef298-3ba7-479d-94ba-9e564c221fb4_large.png?v=1611080277"
     ],
     "inStock": true,
     "specs": [],
@@ -28582,7 +28582,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_152341a2-b4c7-494f-aa41-169cb561ae8b_large.png?v=1611080279"
     ],
     "inStock": true,
     "specs": [],
@@ -28600,7 +28600,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a9f62717-9b86-4f84-bceb-d9da185d7f1d_large.png?v=1611080280"
     ],
     "inStock": true,
     "specs": [],
@@ -28618,7 +28618,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b880449a-f10e-4933-890f-af0a82532896_large.png?v=1611080281"
     ],
     "inStock": true,
     "specs": [],
@@ -28636,7 +28636,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_76adbcfe-b274-4c65-b9bc-552135e0ae7b_large.png?v=1611080282"
     ],
     "inStock": true,
     "specs": [],
@@ -28654,7 +28654,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_52287349-6a5f-4eee-86b1-11f647950750_large.png?v=1611080283"
     ],
     "inStock": true,
     "specs": [],
@@ -28672,7 +28672,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_f954729e-07d6-42bf-905b-a612323a4ae4_large.png?v=1611080284"
     ],
     "inStock": true,
     "specs": [],
@@ -28690,7 +28690,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_2caaee53-c9af-4ebb-9c19-3fd4482225b3_large.png?v=1611080286"
     ],
     "inStock": true,
     "specs": [],
@@ -28708,7 +28708,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_43140045-5ef9-4105-a8f7-96abbb96aff6_large.png?v=1611080287"
     ],
     "inStock": true,
     "specs": [],
@@ -28726,7 +28726,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4353d865-5534-4ba6-84eb-74c075858153_large.png?v=1611080288"
     ],
     "inStock": true,
     "specs": [],
@@ -28744,7 +28744,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4b43220a-dbd4-43ea-9eef-776358e5da35_large.png?v=1611080289"
     ],
     "inStock": true,
     "specs": [],
@@ -28762,7 +28762,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c28bf6e3-3c37-49ff-b006-aac015dc7307_large.png?v=1611080290"
     ],
     "inStock": true,
     "specs": [],
@@ -28780,7 +28780,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b907726c-ca7f-4373-8f86-096976a4eea7_large.png?v=1611080291"
     ],
     "inStock": true,
     "specs": [],
@@ -28798,7 +28798,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_1a27fdcb-dc10-48f0-8843-2aa2b93e03e9_large.png?v=1611080292"
     ],
     "inStock": true,
     "specs": [],
@@ -28816,7 +28816,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_8a2dc369-92cc-4091-b4c6-51a9ba3b182b_large.png?v=1611080294"
     ],
     "inStock": true,
     "specs": [],
@@ -28834,7 +28834,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_ebb9e67c-0d72-4c81-9480-bb35122c955f_large.png?v=1611080295"
     ],
     "inStock": true,
     "specs": [],
@@ -28852,7 +28852,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_0c88dc1b-7306-4554-982c-43d2afab2f7d_large.png?v=1611080296"
     ],
     "inStock": true,
     "specs": [],
@@ -28870,7 +28870,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_0b09fad0-b51c-4961-9bbc-4289b8145244_large.png?v=1611080297"
     ],
     "inStock": true,
     "specs": [],
@@ -28888,7 +28888,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d2ebac75-3e09-4849-9075-c2b4deea4098_large.png?v=1611080298"
     ],
     "inStock": true,
     "specs": [],
@@ -28906,7 +28906,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_673ccb73-e98b-4f8a-be9e-d4d9ad590ff9_large.png?v=1611080299"
     ],
     "inStock": true,
     "specs": [],
@@ -28924,7 +28924,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d2954f21-9efd-4acf-a4cc-ef8553a07e57_large.png?v=1611080301"
     ],
     "inStock": true,
     "specs": [],
@@ -28942,7 +28942,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b47d9707-025b-487d-a3e4-6ac178d93a96_large.png?v=1611080302"
     ],
     "inStock": true,
     "specs": [],
@@ -28960,7 +28960,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_355eaecf-2db0-4f4b-bf37-9da0da7fe951_large.png?v=1611080303"
     ],
     "inStock": true,
     "specs": [],
@@ -28978,7 +28978,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_711e7d47-79e3-48da-b2e2-b2f105a76737_large.png?v=1611080304"
     ],
     "inStock": true,
     "specs": [],
@@ -28996,7 +28996,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_eab11f8c-0e6b-4923-9e4c-ce3b6acc8d42_large.png?v=1611080305"
     ],
     "inStock": true,
     "specs": [],
@@ -29014,7 +29014,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a8964fbe-4e93-481a-875c-e5ad4942e42d_large.png?v=1611080306"
     ],
     "inStock": true,
     "specs": [],
@@ -29032,7 +29032,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_59ce53a0-7f75-445e-8a93-e6abb530e45f_large.png?v=1611080308"
     ],
     "inStock": true,
     "specs": [],
@@ -29050,7 +29050,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_9f5c71c0-aa8c-4327-9f2d-1f6150c6d132_large.png?v=1611080309"
     ],
     "inStock": true,
     "specs": [],
@@ -29068,7 +29068,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_027694d1-e674-40a0-9b24-0f31b479fc80_large.png?v=1611080310"
     ],
     "inStock": true,
     "specs": [],
@@ -29086,7 +29086,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_ff5c9f29-cb61-4658-9399-6e1ff3d42919_large.png?v=1611080311"
     ],
     "inStock": true,
     "specs": [],
@@ -29104,7 +29104,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_ad0cc90d-7839-4d33-aba5-3c7ec72a1b54_large.png?v=1611080313"
     ],
     "inStock": true,
     "specs": [],
@@ -29122,7 +29122,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_8febe53a-1a90-4e63-a689-caa9fdfbde7d_large.png?v=1611080314"
     ],
     "inStock": true,
     "specs": [],
@@ -29140,7 +29140,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d1ba673b-2bd9-43e6-871e-c476510880ba_large.png?v=1611080315"
     ],
     "inStock": true,
     "specs": [],
@@ -29158,7 +29158,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_fc1d4081-19f9-4ab0-bcf1-a268fd8880e7_large.png?v=1611080316"
     ],
     "inStock": true,
     "specs": [],
@@ -29176,7 +29176,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_f4853406-0279-4d6a-9db6-c61dbc4f280d_large.png?v=1611080317"
     ],
     "inStock": true,
     "specs": [],
@@ -29194,7 +29194,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_ece09453-240c-4d2a-9d37-9edae6fb1010_large.png?v=1611080318"
     ],
     "inStock": true,
     "specs": [],
@@ -29212,7 +29212,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_350835d7-ae1a-4f64-9b1a-9a74aecdfc7a_large.png?v=1611080320"
     ],
     "inStock": true,
     "specs": [],
@@ -29230,7 +29230,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_ef993656-3f3a-4d15-8034-9cceaca90940_large.png?v=1611080321"
     ],
     "inStock": true,
     "specs": [],
@@ -29248,7 +29248,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_381d81f0-14ff-432a-9267-1e4c70b31ed1_large.png?v=1611080322"
     ],
     "inStock": true,
     "specs": [],
@@ -29266,7 +29266,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_80cee084-6db2-4f5b-8fa8-9a43b9120911_large.png?v=1611080323"
     ],
     "inStock": true,
     "specs": [],
@@ -29284,7 +29284,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d3e8dfd5-cd4d-4e8a-a80b-b85ea5b10c04_large.png?v=1611080324"
     ],
     "inStock": true,
     "specs": [],
@@ -29302,7 +29302,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c4996733-21ed-45f5-9de4-bc10401c7a12_large.png?v=1611080325"
     ],
     "inStock": true,
     "specs": [],
@@ -29320,7 +29320,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c96d5690-7c38-4e97-a649-de754293e59f_large.png?v=1611080326"
     ],
     "inStock": true,
     "specs": [],
@@ -29338,7 +29338,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_81f036da-f391-4908-9ca2-9a1e1dc1c89c_large.png?v=1611080328"
     ],
     "inStock": true,
     "specs": [],
@@ -29356,7 +29356,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_e6542fc8-3c09-4602-99e4-9c6a9158538f_large.png?v=1611080329"
     ],
     "inStock": true,
     "specs": [],
@@ -29374,7 +29374,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c81a1117-351d-41c2-9a96-d450b4bbb9ad_large.png?v=1611080330"
     ],
     "inStock": true,
     "specs": [],
@@ -29392,7 +29392,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4867e7ff-3ae4-43c6-8f99-ad634c8e5211_large.png?v=1611080331"
     ],
     "inStock": true,
     "specs": [],
@@ -29410,7 +29410,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_31ecc47a-1e73-4715-ade6-49d3d7c8da90_large.png?v=1611080332"
     ],
     "inStock": true,
     "specs": [],
@@ -29428,7 +29428,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_6aaa911f-1de5-41d6-9413-00b3c1229232_large.png?v=1611080333"
     ],
     "inStock": true,
     "specs": [],
@@ -29446,7 +29446,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_57ac6839-a1ca-4b57-9417-0599b0fc52a0_large.png?v=1611080334"
     ],
     "inStock": true,
     "specs": [],
@@ -29464,7 +29464,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_3732bbfe-acdf-46e5-9891-51331e428f18_large.png?v=1611080336"
     ],
     "inStock": true,
     "specs": [],
@@ -29482,7 +29482,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_8224a418-bbe4-47e6-b78a-2489a892e3bc_large.png?v=1611080337"
     ],
     "inStock": true,
     "specs": [],
@@ -29500,7 +29500,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_3ae7a3a8-346e-44a7-92d7-f3ad7d6bb0b3_large.png?v=1611080338"
     ],
     "inStock": true,
     "specs": [],
@@ -29518,7 +29518,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b84161e9-82d7-4475-b4a2-c8c1ce909670_large.png?v=1611080339"
     ],
     "inStock": true,
     "specs": [],
@@ -29536,7 +29536,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_23a11e7e-6cb8-4570-ab16-59ade5351370_large.png?v=1611080340"
     ],
     "inStock": true,
     "specs": [],
@@ -29554,7 +29554,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_907203fe-006f-4112-966d-4ccb486f04ac_large.png?v=1611080341"
     ],
     "inStock": true,
     "specs": [],
@@ -29572,7 +29572,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_06794dd5-ceb7-4057-95c7-eb9a9e6a9db2_large.png?v=1611080342"
     ],
     "inStock": true,
     "specs": [],
@@ -29590,7 +29590,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_79f08665-85f0-4e37-88ed-3d79f72ed6d9_large.png?v=1611080344"
     ],
     "inStock": true,
     "specs": [],
@@ -29608,7 +29608,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a233c96a-3fc0-4c42-8d98-f9ffd45f0d3e_large.png?v=1611080345"
     ],
     "inStock": true,
     "specs": [],
@@ -29626,7 +29626,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c3132e32-0afa-465a-98ae-60e4e35bf847_large.png?v=1611080346"
     ],
     "inStock": true,
     "specs": [],
@@ -29644,7 +29644,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c64fef09-bb21-4108-b3a7-2a956315a4cb_large.png?v=1611080347"
     ],
     "inStock": true,
     "specs": [],
@@ -29662,7 +29662,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_854fa35c-c764-4ca7-bb69-4fa7c5749e22_large.png?v=1611080348"
     ],
     "inStock": true,
     "specs": [],
@@ -29680,7 +29680,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_deeca695-f5c3-475d-80ad-20ff88a3c456_large.png?v=1611080349"
     ],
     "inStock": true,
     "specs": [],
@@ -29698,7 +29698,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_99cda91a-a4bc-4511-83d4-0ce2d1ef01d7_large.png?v=1611080350"
     ],
     "inStock": true,
     "specs": [],
@@ -29716,7 +29716,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d805f3cb-af2c-4643-8a43-18723953c665_large.png?v=1611080352"
     ],
     "inStock": true,
     "specs": [],
@@ -29734,7 +29734,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d844c612-fd53-4304-a703-4b69c1ece5b9_large.png?v=1611080353"
     ],
     "inStock": true,
     "specs": [],
@@ -29752,7 +29752,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_aeed441d-87d4-432c-99aa-1ff43fa7c707_large.png?v=1611080354"
     ],
     "inStock": true,
     "specs": [],
@@ -29770,7 +29770,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a712599e-922e-4c62-8984-f412d2df8b6a_large.png?v=1611080357"
     ],
     "inStock": true,
     "specs": [],
@@ -29788,7 +29788,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_2f358361-ca89-47a2-865f-998690a89086_large.png?v=1611080358"
     ],
     "inStock": true,
     "specs": [],
@@ -29806,7 +29806,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d8e0bb3a-3230-4e1f-a682-87b60a3c85ee_large.png?v=1611080359"
     ],
     "inStock": true,
     "specs": [],
@@ -29824,7 +29824,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_401829ea-e1b5-490e-a733-e1efd872aeb3_large.png?v=1611080360"
     ],
     "inStock": true,
     "specs": [],
@@ -29842,7 +29842,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4ec6fc13-712a-4794-825e-7bf96c76b5e1_large.png?v=1611080361"
     ],
     "inStock": true,
     "specs": [],
@@ -29860,7 +29860,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4e8c533f-cc8f-4ee0-8994-ca399a483f2d_large.png?v=1611080362"
     ],
     "inStock": true,
     "specs": [],
@@ -29878,7 +29878,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c17906b5-39b2-4e5c-9210-f89f7f03fd8b_large.png?v=1611080363"
     ],
     "inStock": true,
     "specs": [],
@@ -29896,7 +29896,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_12f41604-9f4a-4f0d-ac0b-bdca5c998404_large.png?v=1611080365"
     ],
     "inStock": true,
     "specs": [],
@@ -29914,7 +29914,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_664a2451-662c-435b-9e42-6d00323b4ed3_large.png?v=1611080366"
     ],
     "inStock": true,
     "specs": [],
@@ -29932,7 +29932,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b519bccd-89b1-47e9-892e-935a81e289d8_large.png?v=1611080367"
     ],
     "inStock": true,
     "specs": [],
@@ -29950,7 +29950,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_403cb006-5713-4377-8260-e7ca2a16642a_large.png?v=1611080368"
     ],
     "inStock": true,
     "specs": [],
@@ -29968,7 +29968,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_5628d8df-ea72-4c5e-bd7a-86630f706931_large.png?v=1611080369"
     ],
     "inStock": true,
     "specs": [],
@@ -29986,7 +29986,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_6b9fc16d-3a31-4080-a0d4-0d9d5033a527_large.png?v=1611080370"
     ],
     "inStock": true,
     "specs": [],
@@ -30004,7 +30004,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_bac86eb3-89dd-4ef9-816d-c0d223805062_large.png?v=1611080371"
     ],
     "inStock": true,
     "specs": [],
@@ -30022,7 +30022,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_284fe969-8328-4913-bf8e-8701af5234a9_large.png?v=1611080373"
     ],
     "inStock": true,
     "specs": [],
@@ -30040,7 +30040,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_8fad96ac-5f0e-4cdb-85fa-518da2233748_large.png?v=1611080374"
     ],
     "inStock": true,
     "specs": [],
@@ -30058,7 +30058,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_82fb8691-3143-4076-a865-5519c5d5cd6f_large.png?v=1611080375"
     ],
     "inStock": true,
     "specs": [],
@@ -30076,7 +30076,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b6ba57d3-cd62-425b-8d19-9bd2f5166393_large.png?v=1611080376"
     ],
     "inStock": true,
     "specs": [],
@@ -30094,7 +30094,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_075cb650-8fd5-46f2-9198-5d0bde554284_large.png?v=1611080377"
     ],
     "inStock": true,
     "specs": [],
@@ -30112,7 +30112,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4e996c9a-9259-499d-8a63-9127e568a1d6_large.png?v=1611080378"
     ],
     "inStock": true,
     "specs": [],
@@ -30130,7 +30130,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_54aa1e81-dc00-4450-b454-e487d4633fd1_large.png?v=1611080379"
     ],
     "inStock": true,
     "specs": [],
@@ -30148,7 +30148,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_e4833af6-e76c-42cb-89d5-a4347ad1102e_large.png?v=1611080381"
     ],
     "inStock": true,
     "specs": [],
@@ -30166,7 +30166,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a263c8f2-60e9-4c61-8a6d-a18718f742e4_large.png?v=1611080382"
     ],
     "inStock": true,
     "specs": [],
@@ -30184,7 +30184,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_6674dae3-8f94-49a8-a9fa-cffa6aabc1c7_large.png?v=1611080383"
     ],
     "inStock": true,
     "specs": [],
@@ -30202,7 +30202,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4118b358-4e8d-4e32-8e30-12f1df8d5213_large.png?v=1611080384"
     ],
     "inStock": true,
     "specs": [],
@@ -30220,7 +30220,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b8d5ca1e-fc9f-4783-832a-dc83484ad5b6_large.png?v=1611080385"
     ],
     "inStock": true,
     "specs": [],
@@ -30238,7 +30238,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a6c9375d-bd66-4d90-abe3-51f89d96bbf5_large.png?v=1611080386"
     ],
     "inStock": true,
     "specs": [],
@@ -30256,7 +30256,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_dab31820-c547-4121-b1da-ad5bf7f1a397_large.png?v=1611080387"
     ],
     "inStock": true,
     "specs": [],
@@ -30274,7 +30274,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4e9e7d1b-9059-4bb0-9049-bfc4705bb491_large.png?v=1611080388"
     ],
     "inStock": true,
     "specs": [],
@@ -30292,7 +30292,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_01bda7a7-83b2-444b-9745-762f47afe1e2_large.png?v=1611080389"
     ],
     "inStock": true,
     "specs": [],
@@ -30310,7 +30310,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_6dccb088-bfdc-4730-a755-056e88752fb5_large.png?v=1611080390"
     ],
     "inStock": true,
     "specs": [],
@@ -30328,7 +30328,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_604a3794-85f0-4439-a473-f04db5b0cc3d_large.png?v=1611080391"
     ],
     "inStock": true,
     "specs": [],
@@ -30346,7 +30346,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_5c02db5c-e7e5-4329-8aed-80aae83e2a44_large.png?v=1611080392"
     ],
     "inStock": true,
     "specs": [],
@@ -30364,7 +30364,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b92eb6ba-b46b-41ad-b694-71be88e26c53_large.png?v=1611080393"
     ],
     "inStock": true,
     "specs": [],
@@ -30382,7 +30382,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_d99b8878-c754-49f9-a35b-7a8b874316d1_large.png?v=1611080395"
     ],
     "inStock": true,
     "specs": [],
@@ -30400,7 +30400,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_fc6ab913-bd26-4c57-995a-f24e64939ecc_large.png?v=1611080396"
     ],
     "inStock": true,
     "specs": [],
@@ -30418,7 +30418,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_92750b75-f6db-4b9d-9c5d-33c0e6ad5654_large.png?v=1611080397"
     ],
     "inStock": true,
     "specs": [],
@@ -30436,7 +30436,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_abe8ceee-e440-4d9f-ab0a-ca3da84bd21a_large.png?v=1611080398"
     ],
     "inStock": true,
     "specs": [],
@@ -30454,7 +30454,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_eb34fa88-bab1-4646-aa2d-b06c776e81ca_large.png?v=1611080400"
     ],
     "inStock": true,
     "specs": [],
@@ -30472,7 +30472,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_f73c110b-4809-400b-98b7-29dbf7ce8e75_large.png?v=1611080401"
     ],
     "inStock": true,
     "specs": [],
@@ -30490,7 +30490,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_e27a3dd7-13b7-47c7-b680-747f9467b883_large.png?v=1611080402"
     ],
     "inStock": true,
     "specs": [],
@@ -30508,7 +30508,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_31199bce-457e-418a-99a4-d1a31f429a3e_large.png?v=1611080403"
     ],
     "inStock": true,
     "specs": [],
@@ -30526,7 +30526,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_f7a31686-4444-4e19-a020-c5a601733508_large.png?v=1611080404"
     ],
     "inStock": true,
     "specs": [],
@@ -30544,7 +30544,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_3ce1d3e5-2d75-438e-916c-90a9e55bcfdb_large.png?v=1611080405"
     ],
     "inStock": true,
     "specs": [],
@@ -30562,7 +30562,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_18ffba77-3266-4470-a1f4-d694eb5b053d_large.png?v=1611080406"
     ],
     "inStock": true,
     "specs": [],
@@ -30580,7 +30580,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_e0b8a0d1-236a-465e-a1ac-1d9261055c1f_large.png?v=1611080408"
     ],
     "inStock": true,
     "specs": [],
@@ -30598,7 +30598,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_f5c88633-1d56-4ef5-afc1-35afebb38eab_large.png?v=1611080412"
     ],
     "inStock": true,
     "specs": [],
@@ -30616,7 +30616,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_23755b79-49cd-4292-b6eb-6a4d9e03e5b5_large.png?v=1611080414"
     ],
     "inStock": true,
     "specs": [],
@@ -30634,7 +30634,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_fe9b82aa-b3e5-43d2-b3ae-6899b96ab2b1_large.png?v=1611080415"
     ],
     "inStock": true,
     "specs": [],
@@ -30652,7 +30652,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_4a643662-30f0-49e2-8aa0-c35abed56da4_large.png?v=1611080416"
     ],
     "inStock": true,
     "specs": [],
@@ -30670,7 +30670,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a42db775-4af6-4fc9-8fbf-14a88ee4d5f2_large.png?v=1611080417"
     ],
     "inStock": true,
     "specs": [],
@@ -30688,7 +30688,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_37f9b5e5-6c2d-4419-a651-e238935d453d_large.png?v=1611080418"
     ],
     "inStock": true,
     "specs": [],
@@ -30706,7 +30706,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_3c1a7bbb-b949-40a4-82d0-051f517ad478_large.png?v=1611080419"
     ],
     "inStock": true,
     "specs": [],
@@ -30724,7 +30724,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_aa28afc3-bbb7-450c-9784-367e30f57c63_large.png?v=1611080420"
     ],
     "inStock": true,
     "specs": [],
@@ -30742,7 +30742,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_2bc694d6-27f0-4b97-9266-6755a9e12322_large.png?v=1611080421"
     ],
     "inStock": true,
     "specs": [],
@@ -30760,7 +30760,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_473f02d4-1143-4ec6-b6fd-33886068f502_large.png?v=1611080423"
     ],
     "inStock": true,
     "specs": [],
@@ -30778,7 +30778,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_eb60c2c1-e513-4f16-b5c3-775467d84667_large.png?v=1611080424"
     ],
     "inStock": true,
     "specs": [],
@@ -30796,7 +30796,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_6cd69a60-5cce-42c0-8f4d-760d6dae63e2_large.png?v=1611080425"
     ],
     "inStock": true,
     "specs": [],
@@ -30814,7 +30814,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_96971666-1464-4de3-b632-3eaf6a30eeb7_large.png?v=1611080426"
     ],
     "inStock": true,
     "specs": [],
@@ -30832,7 +30832,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_9225cf54-c661-4178-941c-861aba09a7b9_large.png?v=1611080427"
     ],
     "inStock": true,
     "specs": [],
@@ -30850,7 +30850,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b245d56a-ee1d-49d3-a48a-81f5a87e044a_large.png?v=1611080428"
     ],
     "inStock": true,
     "specs": [],
@@ -30868,7 +30868,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_e5b2fa94-ccc0-4fca-acd4-5b3b1decbd2f_large.png?v=1611080429"
     ],
     "inStock": true,
     "specs": [],
@@ -30886,7 +30886,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c8b46602-1560-4e1b-83ab-4cd537eb12d5_large.png?v=1611080430"
     ],
     "inStock": true,
     "specs": [],
@@ -30904,7 +30904,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a9d06a4d-36ee-41d2-b9d9-add0b7b7a30d_large.png?v=1611080431"
     ],
     "inStock": true,
     "specs": [],
@@ -30922,7 +30922,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_77b946ae-5a82-4e42-973c-0bdd2ff3e068_large.png?v=1611080433"
     ],
     "inStock": true,
     "specs": [],
@@ -30940,7 +30940,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_a39bed7b-5d47-444f-8091-0dccb0260fb6_large.png?v=1611080434"
     ],
     "inStock": true,
     "specs": [],
@@ -30958,7 +30958,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_c16adc04-080d-4888-a3f7-051e5b191b93_large.png?v=1611080435"
     ],
     "inStock": true,
     "specs": [],
@@ -30976,7 +30976,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_92208ab6-aa76-4224-8f91-f263f971d6b5_large.png?v=1611080436"
     ],
     "inStock": true,
     "specs": [],
@@ -30994,7 +30994,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_b4b78f8b-9366-4bc7-9a0c-e41b3853711e_large.png?v=1611080437"
     ],
     "inStock": true,
     "specs": [],
@@ -31012,7 +31012,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_894bd370-c83e-4b3c-a37c-0dafadb6ae33_large.png?v=1611080438"
     ],
     "inStock": true,
     "specs": [],
@@ -31030,7 +31030,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_39b8d329-c619-47f2-b53e-acfbbde1799c_large.png?v=1611080440"
     ],
     "inStock": true,
     "specs": [],
@@ -31048,7 +31048,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_ed3f6c89-f2c4-4616-bb85-3f2625cf908b_large.png?v=1611080441"
     ],
     "inStock": true,
     "specs": [],
@@ -31066,7 +31066,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CR_115_500_A_Standard_92d2d65e-dd57-4942-ab89-f43653dca2d8_large.png?v=1611080442"
     ],
     "inStock": true,
     "specs": [],
@@ -31084,7 +31084,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Auxiliary_Contacts_large.png?v=1611069212"
     ],
     "inStock": true,
     "specs": [],
@@ -31102,7 +31102,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_large.png?v=1611081051"
     ],
     "inStock": true,
     "specs": [],
@@ -31120,7 +31120,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_15444f12-cc3f-424f-bbea-60d42204f2d8_large.png?v=1611081052"
     ],
     "inStock": true,
     "specs": [],
@@ -31138,7 +31138,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_d6015ab1-d174-469d-ad70-eed8ec99f752_large.png?v=1611081053"
     ],
     "inStock": true,
     "specs": [],
@@ -31156,7 +31156,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_f9285c4f-3ebd-4930-83d8-4d042056ada1_large.png?v=1611081054"
     ],
     "inStock": true,
     "specs": [],
@@ -31174,7 +31174,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_d26b9fd6-a8cf-4867-8aca-a60f5d7a8dc9_large.png?v=1611081055"
     ],
     "inStock": true,
     "specs": [],
@@ -31192,7 +31192,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_660ec930-98ac-4e82-895a-ca2453bb0870_large.png?v=1611081056"
     ],
     "inStock": true,
     "specs": [],
@@ -31210,7 +31210,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_77e3c9af-9b43-4704-8af2-6f1cd1ab7f36_large.png?v=1611081057"
     ],
     "inStock": true,
     "specs": [],
@@ -31228,7 +31228,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_6e45ec88-2943-405b-b7e1-c1b55c62ce44_large.png?v=1611081059"
     ],
     "inStock": true,
     "specs": [],
@@ -31246,7 +31246,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_fd72cc89-abbd-4d92-b6a5-af2829bc3755_large.png?v=1611081060"
     ],
     "inStock": true,
     "specs": [],
@@ -31264,7 +31264,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c842cb9b-a2ac-41c9-b978-04ec8a612594_large.png?v=1611081061"
     ],
     "inStock": true,
     "specs": [],
@@ -31282,7 +31282,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c3c4fdb8-e336-4d2a-b0a7-89a0f0351b5e_large.png?v=1611081063"
     ],
     "inStock": true,
     "specs": [],
@@ -31300,7 +31300,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_ec2d7a2b-6850-4416-952a-cbdad57d6370_large.png?v=1611081065"
     ],
     "inStock": true,
     "specs": [],
@@ -31318,7 +31318,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_eb0b6cc8-6838-4c6a-b28f-e677758ebdbf_large.png?v=1611081066"
     ],
     "inStock": true,
     "specs": [],
@@ -31336,7 +31336,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_0703f750-dcca-45c4-a56d-7171bf948449_large.png?v=1611081067"
     ],
     "inStock": true,
     "specs": [],
@@ -31354,7 +31354,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_dfcc873f-fb06-4583-9584-8f90c636ca4e_large.png?v=1611081068"
     ],
     "inStock": true,
     "specs": [],
@@ -31372,7 +31372,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_911ec659-9420-4e6a-81e7-e381d2a2385f_large.png?v=1611081069"
     ],
     "inStock": true,
     "specs": [],
@@ -31390,7 +31390,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_4f8107e5-af84-4f34-84a2-48ebe1beea3e_large.png?v=1611081071"
     ],
     "inStock": true,
     "specs": [],
@@ -31408,7 +31408,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c65ea616-e5ce-4693-83d5-aa09088224e1_large.png?v=1611081072"
     ],
     "inStock": true,
     "specs": [],
@@ -31426,7 +31426,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_7f2ea21f-cfa6-4d18-8473-e76626b98498_large.png?v=1611081075"
     ],
     "inStock": true,
     "specs": [],
@@ -31444,7 +31444,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_9e3e80c6-86bc-4cea-9bed-924381ba5977_large.png?v=1611081076"
     ],
     "inStock": true,
     "specs": [],
@@ -31462,7 +31462,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_f76716ec-7013-411a-af84-7e54e959f926_large.png?v=1611081077"
     ],
     "inStock": true,
     "specs": [],
@@ -31480,7 +31480,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_97b5ac91-dbf1-4465-b6d6-42c66aaee662_large.png?v=1611081078"
     ],
     "inStock": true,
     "specs": [],
@@ -31498,7 +31498,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_f1906a48-b8a1-43ea-ad9d-1ceb9d1b77c3_large.png?v=1611081079"
     ],
     "inStock": true,
     "specs": [],
@@ -31516,7 +31516,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_5eedf4f9-416e-4b12-83f7-e7233e3d6ec4_large.png?v=1611081081"
     ],
     "inStock": true,
     "specs": [],
@@ -31534,7 +31534,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c69392dc-69b1-435c-9174-ce33bdb0aba8_large.png?v=1611081082"
     ],
     "inStock": true,
     "specs": [],
@@ -31552,7 +31552,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_59cd94c2-6374-4f03-a8af-6c4f201998ea_large.png?v=1611081083"
     ],
     "inStock": true,
     "specs": [],
@@ -31570,7 +31570,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_7d8341b1-01c5-45e1-bbe3-6496e538c3d6_large.png?v=1611081085"
     ],
     "inStock": true,
     "specs": [],
@@ -31588,7 +31588,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_068dcfb1-4eeb-4531-9601-f3c5cef60c66_large.png?v=1611081086"
     ],
     "inStock": true,
     "specs": [],
@@ -31606,7 +31606,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_caca70b9-104f-4726-8ff2-b20fd8f7277c_large.png?v=1611081088"
     ],
     "inStock": true,
     "specs": [],
@@ -31624,7 +31624,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c16fabd9-bd0c-4285-b293-d209637e2890_large.png?v=1611081089"
     ],
     "inStock": true,
     "specs": [],
@@ -31642,7 +31642,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_958b1d1a-dc73-43c7-bb85-7e2ce2d6b6ce_large.png?v=1611081090"
     ],
     "inStock": true,
     "specs": [],
@@ -31660,7 +31660,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_186c4dbd-62f7-4e74-8e9b-22343543d88d_large.png?v=1611081091"
     ],
     "inStock": true,
     "specs": [],
@@ -31678,7 +31678,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_51766d15-d1ad-48a1-a378-2d96883ba9b7_large.png?v=1611081092"
     ],
     "inStock": true,
     "specs": [],
@@ -31696,7 +31696,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_b8c44e4a-1315-4a83-b24d-0b9f60df52c7_large.png?v=1611081094"
     ],
     "inStock": true,
     "specs": [],
@@ -31714,7 +31714,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_19eb4e50-974d-4d88-9047-60e4439a2d4a_large.png?v=1611081095"
     ],
     "inStock": true,
     "specs": [],
@@ -31732,7 +31732,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_82ba7785-3c23-4cbd-b34e-ef2ec9dc3440_large.png?v=1611081096"
     ],
     "inStock": true,
     "specs": [],
@@ -31750,7 +31750,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_258d034a-8c05-4a84-997c-2e119441d180_large.png?v=1611081098"
     ],
     "inStock": true,
     "specs": [],
@@ -31768,7 +31768,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_0ef2f001-8d63-4747-bfd4-b190b7adb157_large.png?v=1611081099"
     ],
     "inStock": true,
     "specs": [],
@@ -31786,7 +31786,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_45153e59-2dd5-4e79-8570-46fdcd4a994b_large.png?v=1611081100"
     ],
     "inStock": true,
     "specs": [],
@@ -31804,7 +31804,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1a1e1961-363e-4a4d-9a06-7639f606ef94_large.png?v=1611081101"
     ],
     "inStock": true,
     "specs": [],
@@ -31822,7 +31822,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_fd0652e8-749b-4c8d-aedb-fd920cd877be_large.png?v=1611081103"
     ],
     "inStock": true,
     "specs": [],
@@ -31840,7 +31840,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_632ac385-aec8-4c21-8a6c-36c794eba8bc_large.png?v=1611081104"
     ],
     "inStock": true,
     "specs": [],
@@ -31858,7 +31858,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_57529524-1419-4227-b5f9-f2a4c3c819ca_large.png?v=1611081106"
     ],
     "inStock": true,
     "specs": [],
@@ -31876,7 +31876,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_4785087c-c06a-4cd7-afac-0c8a79af8daf_large.png?v=1611081107"
     ],
     "inStock": true,
     "specs": [],
@@ -31894,7 +31894,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_6e47b647-8054-4c3c-822e-094ce8e5ef3f_large.png?v=1611081109"
     ],
     "inStock": true,
     "specs": [],
@@ -31912,7 +31912,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_72ebf4c7-5a5f-4aa1-978a-a82c4f828255_large.png?v=1611081110"
     ],
     "inStock": true,
     "specs": [],
@@ -31930,7 +31930,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1d72c2fa-c34b-4bd7-bf3f-92476d07d88e_large.png?v=1611081111"
     ],
     "inStock": true,
     "specs": [],
@@ -31948,7 +31948,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_47f4442a-6f8d-49f5-8101-88c400d2b522_large.png?v=1611081113"
     ],
     "inStock": true,
     "specs": [],
@@ -31966,7 +31966,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_07312611-91d5-4764-916e-dbfae707d838_large.png?v=1611081115"
     ],
     "inStock": true,
     "specs": [],
@@ -31984,7 +31984,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_ef50ccab-82c2-482f-a2b9-3434bc4eab14_large.png?v=1611081116"
     ],
     "inStock": true,
     "specs": [],
@@ -32002,7 +32002,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_b3895eac-d236-45e1-aef9-85cb57269db7_large.png?v=1611081117"
     ],
     "inStock": true,
     "specs": [],
@@ -32020,7 +32020,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_631e1742-eeb6-46dd-9cd9-2beb05883e8a_large.png?v=1611081118"
     ],
     "inStock": true,
     "specs": [],
@@ -32038,7 +32038,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_474c3193-8e99-41fc-89ea-caa5b1665e91_large.png?v=1611081119"
     ],
     "inStock": true,
     "specs": [],
@@ -32056,7 +32056,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_50e25505-7684-48ca-a175-3592ef8b831e_large.png?v=1611081120"
     ],
     "inStock": true,
     "specs": [],
@@ -32074,7 +32074,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_5e51b9f6-f19c-4d6e-bb40-1003a6727d6b_large.png?v=1611081121"
     ],
     "inStock": true,
     "specs": [],
@@ -32092,7 +32092,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_77327f49-16ed-474c-8804-81012a265426_large.png?v=1611081122"
     ],
     "inStock": true,
     "specs": [],
@@ -32110,7 +32110,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_94ac9a4e-6628-4ec7-bd8b-ff172e6a75b8_large.png?v=1611081123"
     ],
     "inStock": true,
     "specs": [],
@@ -32128,7 +32128,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_eaf5a050-8b71-4b77-8761-384237dd0c21_large.png?v=1611081125"
     ],
     "inStock": true,
     "specs": [],
@@ -32146,7 +32146,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_bbae8db6-91f0-4763-bcb4-969a8c859c9b_large.png?v=1611081128"
     ],
     "inStock": true,
     "specs": [],
@@ -32164,7 +32164,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_689b031e-e12c-4de7-ac48-f172110e9a3b_large.png?v=1611081129"
     ],
     "inStock": true,
     "specs": [],
@@ -32182,7 +32182,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_fa746af4-009e-4937-98ce-bd7cba12da5e_large.png?v=1611081130"
     ],
     "inStock": true,
     "specs": [],
@@ -32200,7 +32200,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_a3ca7864-0f66-4153-97e5-88e22fac452c_large.png?v=1611081131"
     ],
     "inStock": true,
     "specs": [],
@@ -32218,7 +32218,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_4d1fc2b1-dd80-47f5-9bbd-21f6b52e7222_large.png?v=1611081132"
     ],
     "inStock": true,
     "specs": [],
@@ -32236,7 +32236,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1aa28f09-e87e-439c-aca5-03f46846ca9c_large.png?v=1611081133"
     ],
     "inStock": true,
     "specs": [],
@@ -32254,7 +32254,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_2aaaf732-3b92-4aef-95d7-b1883fb8dee9_large.png?v=1611081134"
     ],
     "inStock": true,
     "specs": [],
@@ -32272,7 +32272,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_3aee6f81-90f5-4657-9078-7941e544a2e4_large.png?v=1611081136"
     ],
     "inStock": true,
     "specs": [],
@@ -32290,7 +32290,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1056379d-c20f-4d9f-bcb1-c96691435457_large.png?v=1611081137"
     ],
     "inStock": true,
     "specs": [],
@@ -32308,7 +32308,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1d5cd0d4-d7ac-4e15-bc19-c3b08d85097d_large.png?v=1611081139"
     ],
     "inStock": true,
     "specs": [],
@@ -32326,7 +32326,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_815f1c5d-4fa6-4be3-8a5b-8785c8abaae7_large.png?v=1611081141"
     ],
     "inStock": true,
     "specs": [],
@@ -32344,7 +32344,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_81d83948-d5b5-4327-8111-25363edb3d9c_large.png?v=1611081142"
     ],
     "inStock": true,
     "specs": [],
@@ -32362,7 +32362,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_de034842-fac2-47ca-911e-e2c5989d6cfe_large.png?v=1611081143"
     ],
     "inStock": true,
     "specs": [],
@@ -32380,7 +32380,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_68e92a10-0532-4090-979b-1a34da96ceaf_large.png?v=1611081144"
     ],
     "inStock": true,
     "specs": [],
@@ -32398,7 +32398,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_4aceb395-f96b-498f-a5ba-66b225c29af3_large.png?v=1611081145"
     ],
     "inStock": true,
     "specs": [],
@@ -32416,7 +32416,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_cced2e1d-ecdd-44b2-a0a5-3d75f40b1867_large.png?v=1611081146"
     ],
     "inStock": true,
     "specs": [],
@@ -32434,7 +32434,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_98918ba6-3823-4d3a-b0bb-8fdd67d9d52f_large.png?v=1611081149"
     ],
     "inStock": true,
     "specs": [],
@@ -32452,7 +32452,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_bfb43ef7-5676-4557-9d94-14fb3c7edaff_large.png?v=1611081150"
     ],
     "inStock": true,
     "specs": [],
@@ -32470,7 +32470,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_e4873639-0b43-4798-8bdc-c27baf2fc107_large.png?v=1611081151"
     ],
     "inStock": true,
     "specs": [],
@@ -32488,7 +32488,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_12031f85-100c-47b5-af3b-7c47c595649a_large.png?v=1611081152"
     ],
     "inStock": true,
     "specs": [],
@@ -32506,7 +32506,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c1db2258-d645-40cd-86f9-a751711b4416_large.png?v=1611081153"
     ],
     "inStock": true,
     "specs": [],
@@ -32524,7 +32524,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_2be6ce5d-0801-4daf-9ee3-0d0b50e533df_large.png?v=1611081154"
     ],
     "inStock": true,
     "specs": [],
@@ -32542,7 +32542,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_f62f1c4e-3592-4b5d-ba81-6cc429e6c5d2_large.png?v=1611081155"
     ],
     "inStock": true,
     "specs": [],
@@ -32560,7 +32560,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_69812dd5-5858-42a3-a6fd-bfac6b5a0b2a_large.png?v=1611081156"
     ],
     "inStock": true,
     "specs": [],
@@ -32578,7 +32578,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c7fdeef9-de1f-4b25-816e-6e224d995165_large.png?v=1611081157"
     ],
     "inStock": true,
     "specs": [],
@@ -32596,7 +32596,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_04659e4e-4dd0-4e66-8b93-fdfd4b92b550_large.png?v=1611081159"
     ],
     "inStock": true,
     "specs": [],
@@ -32614,7 +32614,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c5b7e724-b9c3-4293-8faa-82d124e198b8_large.png?v=1611081160"
     ],
     "inStock": true,
     "specs": [],
@@ -32632,7 +32632,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_65180dc8-ee26-48b9-8d2a-fa8c53957bb8_large.png?v=1611081161"
     ],
     "inStock": true,
     "specs": [],
@@ -32650,7 +32650,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_26c21ca0-b85e-4705-a40a-4ba7d0a4def7_large.png?v=1611081162"
     ],
     "inStock": true,
     "specs": [],
@@ -32668,7 +32668,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_592a72bd-cbcc-470f-bf89-f7b3d048dd0c_large.png?v=1611081163"
     ],
     "inStock": true,
     "specs": [],
@@ -32686,7 +32686,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_fd9e88aa-54f4-46ab-94ba-e1de90c5f072_large.png?v=1611081164"
     ],
     "inStock": true,
     "specs": [],
@@ -32704,7 +32704,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_58f73d2f-072f-4365-889c-af69aa5f0aa5_large.png?v=1611081165"
     ],
     "inStock": true,
     "specs": [],
@@ -32722,7 +32722,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_6e928dc0-bbed-4849-8e8c-d6135dc8e159_large.png?v=1611081168"
     ],
     "inStock": true,
     "specs": [],
@@ -32740,7 +32740,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_8ff42e2b-f246-4d6c-bf90-21b4c9a0d185_large.png?v=1611081169"
     ],
     "inStock": true,
     "specs": [],
@@ -32758,7 +32758,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_a6515ca5-f0ff-41ec-b88d-48f71095042d_large.png?v=1611081170"
     ],
     "inStock": true,
     "specs": [],
@@ -32776,7 +32776,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_2d3e8ca5-9fae-4957-ba4d-92778d2f640a_large.png?v=1611081171"
     ],
     "inStock": true,
     "specs": [],
@@ -32794,7 +32794,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1c2d0b2d-dc66-4f7b-97d3-eaad5e37f962_large.png?v=1611081172"
     ],
     "inStock": true,
     "specs": [],
@@ -32812,7 +32812,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_a09cbb65-723f-467a-a17d-b4cc6bde674e_large.png?v=1611081173"
     ],
     "inStock": true,
     "specs": [],
@@ -32830,7 +32830,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_8e660c9d-2966-47de-a302-37b2cf76decc_large.png?v=1611081174"
     ],
     "inStock": true,
     "specs": [],
@@ -32848,7 +32848,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_bba3f948-37be-4c40-b4a4-4ba56e20a5b4_large.png?v=1611081176"
     ],
     "inStock": true,
     "specs": [],
@@ -32866,7 +32866,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1fadb95a-7da8-4145-a083-668e3495eee7_large.png?v=1611081177"
     ],
     "inStock": true,
     "specs": [],
@@ -32884,7 +32884,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c44de20b-2e67-434a-9554-acf1d6f4f7ba_large.png?v=1611081178"
     ],
     "inStock": true,
     "specs": [],
@@ -32902,7 +32902,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_2666664e-98c5-475b-b2c5-d6b8967429b2_large.png?v=1611081180"
     ],
     "inStock": true,
     "specs": [],
@@ -32920,7 +32920,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_7e6e61fb-cd58-4c7e-9bd8-ed42f6ed4188_large.png?v=1611081181"
     ],
     "inStock": true,
     "specs": [],
@@ -32938,7 +32938,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_f46b8b56-f330-430d-8a38-d35bb6781899_large.png?v=1611081182"
     ],
     "inStock": true,
     "specs": [],
@@ -32956,7 +32956,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_549bcc59-537d-42d3-9417-a8946860897d_large.png?v=1611081183"
     ],
     "inStock": true,
     "specs": [],
@@ -32974,7 +32974,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_b73bf2d0-8653-4653-a9c7-03ee4363cf1c_large.png?v=1611081185"
     ],
     "inStock": true,
     "specs": [],
@@ -32992,7 +32992,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_dd4dd13b-d492-4ec9-b9a0-61fd90f147b7_large.png?v=1611081186"
     ],
     "inStock": true,
     "specs": [],
@@ -33010,7 +33010,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_720cf76f-badf-49e6-9b11-c85ac43e9326_large.png?v=1611081188"
     ],
     "inStock": true,
     "specs": [],
@@ -33028,7 +33028,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_6b077eaa-624d-4f4e-aa36-841495a1b8f5_large.png?v=1611081190"
     ],
     "inStock": true,
     "specs": [],
@@ -33046,7 +33046,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_ed3bcc79-d032-4089-b6ab-34a4c6ceb7de_large.png?v=1611081191"
     ],
     "inStock": true,
     "specs": [],
@@ -33064,7 +33064,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_45b465c5-2124-41ff-8e78-04552465d40d_large.png?v=1611081192"
     ],
     "inStock": true,
     "specs": [],
@@ -33082,7 +33082,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_27e71eb3-0b4c-410b-8de4-33b98e091a77_large.png?v=1611081193"
     ],
     "inStock": true,
     "specs": [],
@@ -33100,7 +33100,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_0b372aab-5534-43bf-8916-f42d5ab7cdc5_large.png?v=1611081194"
     ],
     "inStock": true,
     "specs": [],
@@ -33118,7 +33118,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_87a0978d-faa1-4b24-bd72-348067e9564d_large.png?v=1611081195"
     ],
     "inStock": true,
     "specs": [],
@@ -33136,7 +33136,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_c4014572-f2f5-4931-b2b8-688b8fc9e450_large.png?v=1611081196"
     ],
     "inStock": true,
     "specs": [],
@@ -33154,7 +33154,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_682b0927-1068-49bf-870f-2574a0b756e6_large.png?v=1611081197"
     ],
     "inStock": true,
     "specs": [],
@@ -33172,7 +33172,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_a872bae6-4844-4f36-8a02-2537797c7a65_large.png?v=1611081198"
     ],
     "inStock": true,
     "specs": [],
@@ -33190,7 +33190,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_3b363c27-7505-44f4-b3ed-5ed4353d2596_large.png?v=1611081200"
     ],
     "inStock": true,
     "specs": [],
@@ -33208,7 +33208,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_2c9bb524-03e3-46b1-bc4a-a4069329a84f_large.png?v=1611081201"
     ],
     "inStock": true,
     "specs": [],
@@ -33226,7 +33226,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_01bcae00-49d6-490f-adcb-35b888097485_large.png?v=1611081202"
     ],
     "inStock": true,
     "specs": [],
@@ -33244,7 +33244,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_068f1839-0337-476c-be25-72651658c0f6_large.png?v=1611081203"
     ],
     "inStock": true,
     "specs": [],
@@ -33262,7 +33262,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_b49de7d8-86c7-4d16-bf7d-aebfd3271624_large.png?v=1611081204"
     ],
     "inStock": true,
     "specs": [],
@@ -33280,7 +33280,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_2a72313d-3e0a-46d8-96a3-ba06b4c5ddac_large.png?v=1611081205"
     ],
     "inStock": true,
     "specs": [],
@@ -33298,7 +33298,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_9bfb4e3e-3fb5-4cdd-ad19-089ea07821be_large.png?v=1611081208"
     ],
     "inStock": true,
     "specs": [],
@@ -33316,7 +33316,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_00b13ebb-f0c6-4887-b59f-4362295a214e_large.png?v=1611081209"
     ],
     "inStock": true,
     "specs": [],
@@ -33334,7 +33334,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_46e6c3da-b9ec-4fa2-ac00-05185cef29a8_large.png?v=1611081210"
     ],
     "inStock": true,
     "specs": [],
@@ -33352,7 +33352,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_dea6e5f9-584f-4157-a1fd-a87a73bbdb5b_large.png?v=1611081211"
     ],
     "inStock": true,
     "specs": [],
@@ -33370,7 +33370,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_bb66d4de-557c-46da-8803-c475a442b080_large.png?v=1611081212"
     ],
     "inStock": true,
     "specs": [],
@@ -33388,7 +33388,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_12e72c70-8cbd-4a3c-b7f9-de5373de8ab8_large.png?v=1611081213"
     ],
     "inStock": true,
     "specs": [],
@@ -33406,7 +33406,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_d566daa1-176b-477d-bb4e-b9350f00d201_large.png?v=1611081214"
     ],
     "inStock": true,
     "specs": [],
@@ -33424,7 +33424,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_dc185bf0-dced-4300-8cf6-1cfd229c9128_large.png?v=1611081215"
     ],
     "inStock": true,
     "specs": [],
@@ -33442,7 +33442,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_5edac86c-1a8f-4933-ae54-d7ab4a07fa90_large.png?v=1611081216"
     ],
     "inStock": true,
     "specs": [],
@@ -33460,7 +33460,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_4df30e84-4d03-4b2d-a516-c90cb98b092e_large.png?v=1611081217"
     ],
     "inStock": true,
     "specs": [],
@@ -33478,7 +33478,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_a8da9023-0039-4b2a-b841-f017b035aac5_large.png?v=1611081218"
     ],
     "inStock": true,
     "specs": [],
@@ -33496,7 +33496,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_4c8d248d-6bad-4541-a72f-4c8a3adb4e45_large.png?v=1611081219"
     ],
     "inStock": true,
     "specs": [],
@@ -33514,7 +33514,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_937c0ed3-60cc-4e53-9a89-e45ab045e8ea_large.png?v=1611081220"
     ],
     "inStock": true,
     "specs": [],
@@ -33532,7 +33532,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_6852458b-5973-43ab-b7c7-9dbd14fada83_large.png?v=1611081222"
     ],
     "inStock": true,
     "specs": [],
@@ -33550,7 +33550,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_d5fc8fd8-5aa6-4ca4-80b5-fcd5c20f4635_large.png?v=1611081223"
     ],
     "inStock": true,
     "specs": [],
@@ -33568,7 +33568,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_8f3b26ac-fa91-4e85-9cc4-d7633a290e6f_large.png?v=1611081224"
     ],
     "inStock": true,
     "specs": [],
@@ -33586,7 +33586,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_307c38ec-4cb5-43ea-98f2-d0917016babb_large.png?v=1611081226"
     ],
     "inStock": true,
     "specs": [],
@@ -33604,7 +33604,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_dcf0c54f-ebf6-4609-813c-e31f006d005c_large.png?v=1611081227"
     ],
     "inStock": true,
     "specs": [],
@@ -33622,7 +33622,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_ec4ae057-6c2f-4445-b8d8-a2610a642d84_large.png?v=1611081228"
     ],
     "inStock": true,
     "specs": [],
@@ -33640,7 +33640,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_972512e1-0041-42e9-a5d9-96da0e1e9f76_large.png?v=1611081229"
     ],
     "inStock": true,
     "specs": [],
@@ -33658,7 +33658,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_00d2310d-2f14-4ed0-b219-fc178cd01417_large.png?v=1611081230"
     ],
     "inStock": true,
     "specs": [],
@@ -33676,7 +33676,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CS6_12AMiniature_Contactor_1b4c4a02-c73a-48f6-ba1c-b88f300e94b0_large.png?v=1611081232"
     ],
     "inStock": true,
     "specs": [],
@@ -33694,7 +33694,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_large.png?v=1611070280"
     ],
     "inStock": true,
     "specs": [],
@@ -33712,7 +33712,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b7474ee5-c3d0-43e1-bfd0-5208b5cf8d71_large.png?v=1611070281"
     ],
     "inStock": true,
     "specs": [],
@@ -33730,7 +33730,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_92c7402e-ec5b-443c-98b9-0d089cd144b6_large.png?v=1611070282"
     ],
     "inStock": true,
     "specs": [],
@@ -33748,7 +33748,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c34f3360-351b-4002-81c9-24d1a8498f78_large.png?v=1611070283"
     ],
     "inStock": true,
     "specs": [],
@@ -33766,7 +33766,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e1a05983-e8c2-41f9-8ee8-749871375bc8_large.png?v=1611070284"
     ],
     "inStock": true,
     "specs": [],
@@ -33784,7 +33784,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_9cd39a37-be10-43cb-9558-e8d1e0dc1074_large.png?v=1611070285"
     ],
     "inStock": true,
     "specs": [],
@@ -33802,7 +33802,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_0284becd-bd9b-4187-b51f-c53f05041ae2_large.png?v=1611070286"
     ],
     "inStock": true,
     "specs": [],
@@ -33820,7 +33820,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_73f29b1a-e829-436d-b081-f39a04640b03_large.png?v=1611070288"
     ],
     "inStock": true,
     "specs": [],
@@ -33838,7 +33838,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3a97cf34-b0c6-4442-9b45-723f0eb414e7_large.png?v=1611070289"
     ],
     "inStock": true,
     "specs": [],
@@ -33856,7 +33856,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a4105f00-d2c5-4a32-bf1e-c65ce7aa62e2_large.png?v=1611070290"
     ],
     "inStock": true,
     "specs": [],
@@ -33874,7 +33874,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e269b7e3-6e86-45e3-8898-c0bae8cf7d44_large.png?v=1611070292"
     ],
     "inStock": true,
     "specs": [],
@@ -33892,7 +33892,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_83aaf02b-1dc7-4669-9640-19986ae92af3_large.png?v=1611070293"
     ],
     "inStock": true,
     "specs": [],
@@ -33910,7 +33910,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e75f852d-7696-44b4-a5e0-1e846827a38e_large.png?v=1611070294"
     ],
     "inStock": true,
     "specs": [],
@@ -33928,7 +33928,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4feb355f-d501-4782-9fe6-1e3093f98e2e_large.png?v=1611070296"
     ],
     "inStock": true,
     "specs": [],
@@ -33946,7 +33946,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_aba54f4d-f72b-483b-b1d4-6736d38b9234_large.png?v=1611070297"
     ],
     "inStock": true,
     "specs": [],
@@ -33964,7 +33964,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e8c2a944-4878-4bed-95f0-5d777941bb93_large.png?v=1611070298"
     ],
     "inStock": true,
     "specs": [],
@@ -33982,7 +33982,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_02c3cc14-3e47-4fed-a599-15fb8b3eab21_large.png?v=1611070299"
     ],
     "inStock": true,
     "specs": [],
@@ -34000,7 +34000,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1f89e472-31dc-411b-8838-b13e6faeee4f_large.png?v=1611070300"
     ],
     "inStock": true,
     "specs": [],
@@ -34018,7 +34018,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_5447cee4-d644-4fd5-81f7-c3be85109de4_large.png?v=1611070301"
     ],
     "inStock": true,
     "specs": [],
@@ -34036,7 +34036,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_fae6a822-ab9c-454a-8bec-f096b13d78ab_large.png?v=1611070302"
     ],
     "inStock": true,
     "specs": [],
@@ -34054,7 +34054,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_fe779bc9-c929-43ee-90b2-caf4a34103b5_large.png?v=1611070304"
     ],
     "inStock": true,
     "specs": [],
@@ -34072,7 +34072,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ad91eab4-be89-43c3-9af5-5746aed54626_large.png?v=1611070305"
     ],
     "inStock": true,
     "specs": [],
@@ -34090,7 +34090,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_cd3e8769-ded2-4413-9ad3-0fa75f0985a8_large.png?v=1611070306"
     ],
     "inStock": true,
     "specs": [],
@@ -34108,7 +34108,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a19b87a2-bf60-4647-8a0b-21b54e287754_large.png?v=1611070307"
     ],
     "inStock": true,
     "specs": [],
@@ -34126,7 +34126,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4444a5dc-de0e-4b38-843b-f99b85d07e85_large.png?v=1611070308"
     ],
     "inStock": true,
     "specs": [],
@@ -34144,7 +34144,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_cebbaf6a-83a1-4ac4-806e-29b46ec8a91c_large.png?v=1611070309"
     ],
     "inStock": true,
     "specs": [],
@@ -34162,7 +34162,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_866043df-0ab8-457d-ac4b-7662eba54a38_large.png?v=1611070310"
     ],
     "inStock": true,
     "specs": [],
@@ -34180,7 +34180,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_111038ba-b856-4dbc-a758-a3d9202b4a66_large.png?v=1611070312"
     ],
     "inStock": true,
     "specs": [],
@@ -34198,7 +34198,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_17fd6953-5bad-430a-8d25-08d7e1f60381_large.png?v=1611070313"
     ],
     "inStock": true,
     "specs": [],
@@ -34216,7 +34216,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_12038091-9302-4136-9fac-889aba8fbbab_large.png?v=1611070314"
     ],
     "inStock": true,
     "specs": [],
@@ -34234,7 +34234,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_cfb26e56-a38c-462c-b835-71642c2a6e77_large.png?v=1611070315"
     ],
     "inStock": true,
     "specs": [],
@@ -34252,7 +34252,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_677f0642-0864-49b5-84de-5483f6ede15c_large.png?v=1611070316"
     ],
     "inStock": true,
     "specs": [],
@@ -34270,7 +34270,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_12e4fd04-1a10-45c2-baf5-7d3dca2d3919_large.png?v=1611070317"
     ],
     "inStock": true,
     "specs": [],
@@ -34288,7 +34288,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_075454bc-6f08-438a-8453-9e55b8f2934e_large.png?v=1611070318"
     ],
     "inStock": true,
     "specs": [],
@@ -34306,7 +34306,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c41cf6da-8edf-4b59-8d26-096a922ee1a2_large.png?v=1611070320"
     ],
     "inStock": true,
     "specs": [],
@@ -34324,7 +34324,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_403ecb42-a1f7-4157-93ee-1f2f21eb2fba_large.png?v=1611070321"
     ],
     "inStock": true,
     "specs": [],
@@ -34342,7 +34342,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_09b3d0a5-a46d-44b0-9cc1-8e20be98231a_large.png?v=1611070322"
     ],
     "inStock": true,
     "specs": [],
@@ -34360,7 +34360,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4f3cd496-d82d-4aac-99e9-893b363eed1e_large.png?v=1611070323"
     ],
     "inStock": true,
     "specs": [],
@@ -34378,7 +34378,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2478ea60-b0a7-4ba3-ac16-4aa532063e1f_large.png?v=1611070324"
     ],
     "inStock": true,
     "specs": [],
@@ -34396,7 +34396,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2d96e982-461d-4013-9ca7-8bb6e1d7ba17_large.png?v=1611070325"
     ],
     "inStock": true,
     "specs": [],
@@ -34414,7 +34414,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a4806854-69ce-47d8-8a72-9bf1c0f1eaca_large.png?v=1611070326"
     ],
     "inStock": true,
     "specs": [],
@@ -34432,7 +34432,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_48133201-4b54-4ce1-9655-c1ea6b620a3a_large.png?v=1611070328"
     ],
     "inStock": true,
     "specs": [],
@@ -34450,7 +34450,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_51271bf3-e74a-4879-be2b-ed09ef74cfe2_large.png?v=1611070329"
     ],
     "inStock": true,
     "specs": [],
@@ -34468,7 +34468,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_e36f31d3-bd42-477e-8eb4-5807305c5f2e_large.png?v=1611070330"
     ],
     "inStock": true,
     "specs": [],
@@ -34486,7 +34486,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_dfd51e0a-e685-43a1-800f-a00512e4909c_large.png?v=1611070332"
     ],
     "inStock": true,
     "specs": [],
@@ -34504,7 +34504,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_0c8a894f-bb19-4b58-97b1-244ae86decfb_large.png?v=1611070334"
     ],
     "inStock": true,
     "specs": [],
@@ -34522,7 +34522,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_7a222895-8b97-4187-ad11-e49649bcb36b_large.png?v=1611070335"
     ],
     "inStock": true,
     "specs": [],
@@ -34540,7 +34540,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b001522b-5bf8-4e92-b88d-92641aca4956_large.png?v=1611070336"
     ],
     "inStock": true,
     "specs": [],
@@ -34558,7 +34558,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_6e4674c8-8c63-4b10-9516-ab20e1007081_large.png?v=1611070337"
     ],
     "inStock": true,
     "specs": [],
@@ -34576,7 +34576,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_adeff9bd-03a9-4573-bd08-ae70415c9c73_large.png?v=1611070338"
     ],
     "inStock": true,
     "specs": [],
@@ -34594,7 +34594,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a55c68ea-be36-4b80-b706-c00ab82ae8a9_large.png?v=1611070340"
     ],
     "inStock": true,
     "specs": [],
@@ -34612,7 +34612,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3dcd5a45-5415-4854-b78f-5e2088608179_large.png?v=1611070342"
     ],
     "inStock": true,
     "specs": [],
@@ -34630,7 +34630,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_55a10384-0187-47d8-883a-1d414935c229_large.png?v=1611070343"
     ],
     "inStock": true,
     "specs": [],
@@ -34648,7 +34648,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b7cb3d46-3779-4433-af3a-a1c39175b0f0_large.png?v=1611070344"
     ],
     "inStock": true,
     "specs": [],
@@ -34666,7 +34666,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d264e4df-ae4f-45aa-bad4-46fd786eee85_large.png?v=1611070345"
     ],
     "inStock": true,
     "specs": [],
@@ -34684,7 +34684,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_01129506-0ecc-44c1-bcfa-8429f9a8ea56_large.png?v=1611070346"
     ],
     "inStock": true,
     "specs": [],
@@ -34702,7 +34702,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ced6f726-30e8-4af3-a438-401d6f4c0c61_large.png?v=1611070347"
     ],
     "inStock": true,
     "specs": [],
@@ -34720,7 +34720,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_573426a1-512f-4ab8-9bf6-d9fecb4068ef_large.png?v=1611070348"
     ],
     "inStock": true,
     "specs": [],
@@ -34738,7 +34738,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_19969f56-4015-44a2-b0f5-8c5eadff7f3e_large.png?v=1611070349"
     ],
     "inStock": true,
     "specs": [],
@@ -34756,7 +34756,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_97c3d28f-e921-45fa-af31-1fa64648070e_large.png?v=1611070350"
     ],
     "inStock": true,
     "specs": [],
@@ -34774,7 +34774,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f29972be-3056-4801-8e07-d5d1ef54a6d5_large.png?v=1611070351"
     ],
     "inStock": true,
     "specs": [],
@@ -34792,7 +34792,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1cdfb16e-3ea8-413b-a186-8b4e4410a479_large.png?v=1611070353"
     ],
     "inStock": true,
     "specs": [],
@@ -34810,7 +34810,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c7b54979-9fea-4c2e-9467-559d2a97d667_large.png?v=1611070354"
     ],
     "inStock": true,
     "specs": [],
@@ -34828,7 +34828,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_12794f4b-1376-4ef2-a37e-484610bff732_large.png?v=1611070355"
     ],
     "inStock": true,
     "specs": [],
@@ -34846,7 +34846,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d4620562-bfe1-4061-bb73-9c83c572c3e3_large.png?v=1611070356"
     ],
     "inStock": true,
     "specs": [],
@@ -34864,7 +34864,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_b6be74f3-4a8b-438e-b580-480e8ee2c193_large.png?v=1611070357"
     ],
     "inStock": true,
     "specs": [],
@@ -34882,7 +34882,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c420eddb-367c-4517-a87b-30d07bec5d4a_large.png?v=1611070358"
     ],
     "inStock": true,
     "specs": [],
@@ -34900,7 +34900,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_9dfb013e-2003-44fd-bcc4-4e554b872de6_large.png?v=1611070360"
     ],
     "inStock": true,
     "specs": [],
@@ -34918,7 +34918,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_71922540-64d5-42e6-86e5-aae2a9d70183_large.png?v=1611070361"
     ],
     "inStock": true,
     "specs": [],
@@ -34936,7 +34936,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d147e4a5-323b-40e7-a238-9633b19f5658_large.png?v=1611070362"
     ],
     "inStock": true,
     "specs": [],
@@ -34954,7 +34954,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_21c0b94e-111a-4f89-b24e-4804aff00e1b_large.png?v=1611070363"
     ],
     "inStock": true,
     "specs": [],
@@ -34972,7 +34972,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_24c9c37d-7c78-4c86-a122-fbe5271f90f5_large.png?v=1611070364"
     ],
     "inStock": true,
     "specs": [],
@@ -34990,7 +34990,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1fdb5a5e-3084-4325-a371-a58f06f33088_large.png?v=1611070365"
     ],
     "inStock": true,
     "specs": [],
@@ -35008,7 +35008,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_42b4c674-102e-440c-898f-6c273a1036b6_large.png?v=1611070366"
     ],
     "inStock": true,
     "specs": [],
@@ -35026,7 +35026,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_bc6ba336-f2ac-483e-a48d-6cb052265a59_large.png?v=1611070367"
     ],
     "inStock": true,
     "specs": [],
@@ -35044,7 +35044,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4d0e643f-749b-4e5a-a326-997407652dd5_large.png?v=1611070368"
     ],
     "inStock": true,
     "specs": [],
@@ -35062,7 +35062,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4d30ca8c-4deb-49ef-a884-b0bf3abc8bf9_large.png?v=1611070369"
     ],
     "inStock": true,
     "specs": [],
@@ -35080,7 +35080,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f84d1d75-995c-49f7-820a-30d1e455f14c_large.png?v=1611070370"
     ],
     "inStock": true,
     "specs": [],
@@ -35098,7 +35098,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_61fef791-4df5-44ff-8517-cbaffd34289c_large.png?v=1611070372"
     ],
     "inStock": true,
     "specs": [],
@@ -35116,7 +35116,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2d650c3d-461f-4c2a-a4d1-12957751dbaa_large.png?v=1611070373"
     ],
     "inStock": true,
     "specs": [],
@@ -35134,7 +35134,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d1fcdd2d-6acb-4a70-9861-1fe009f74cdd_large.png?v=1611070374"
     ],
     "inStock": true,
     "specs": [],
@@ -35152,7 +35152,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_c1f04964-cecc-4fa7-af7b-1a9fa2da9f8c_large.png?v=1611070375"
     ],
     "inStock": true,
     "specs": [],
@@ -35170,7 +35170,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_116d395e-2de7-40ca-9df7-02b3f7364728_large.png?v=1611070377"
     ],
     "inStock": true,
     "specs": [],
@@ -35188,7 +35188,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f9ce08e5-c83d-46c3-ad9b-48813f052732_large.png?v=1611070378"
     ],
     "inStock": true,
     "specs": [],
@@ -35206,7 +35206,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_5c8fb07f-b6a1-4b8e-8c72-0c407a064173_large.png?v=1611070378"
     ],
     "inStock": true,
     "specs": [],
@@ -35224,7 +35224,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_6fa9c180-3f85-4688-9533-9e158f446ee6_large.png?v=1611070379"
     ],
     "inStock": true,
     "specs": [],
@@ -35242,7 +35242,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_6cf9ba9b-b414-4680-b205-a2d7d7f99f5a_large.png?v=1611070380"
     ],
     "inStock": true,
     "specs": [],
@@ -35260,7 +35260,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_2436832c-699d-4a3a-819a-e0f3c301279c_large.png?v=1611070381"
     ],
     "inStock": true,
     "specs": [],
@@ -35278,7 +35278,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_9a847900-df42-4c53-8ec7-1a4cef4bc87d_large.png?v=1611070383"
     ],
     "inStock": true,
     "specs": [],
@@ -35296,7 +35296,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3fc73a1f-8197-44e1-8feb-e7e5e2ee2a38_large.png?v=1611070384"
     ],
     "inStock": true,
     "specs": [],
@@ -35314,7 +35314,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ef858401-4f50-419b-8b75-5608fb2278f7_large.png?v=1611070385"
     ],
     "inStock": true,
     "specs": [],
@@ -35332,7 +35332,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_1c3e5a56-af66-42af-a65f-6986a10324cc_large.png?v=1611070386"
     ],
     "inStock": true,
     "specs": [],
@@ -35350,7 +35350,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_4ce4413f-afb3-475e-8ea1-754e77cccd51_large.png?v=1611070387"
     ],
     "inStock": true,
     "specs": [],
@@ -35368,7 +35368,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_a591117a-71a1-450d-840c-de8036554966_large.png?v=1611070388"
     ],
     "inStock": true,
     "specs": [],
@@ -35386,7 +35386,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_707e62cc-52ba-48c9-ae51-ee3c1355952b_large.png?v=1611070389"
     ],
     "inStock": true,
     "specs": [],
@@ -35404,7 +35404,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_3c792c16-2157-4002-af06-eb2cd727a0a0_large.png?v=1611070391"
     ],
     "inStock": true,
     "specs": [],
@@ -35422,7 +35422,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_f22180cc-0c04-46b9-bbeb-5d9a5e6dd659_large.png?v=1611070392"
     ],
     "inStock": true,
     "specs": [],
@@ -35440,7 +35440,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_d7b93fbd-3441-4926-9d16-18746615b08d_large.png?v=1611070393"
     ],
     "inStock": true,
     "specs": [],
@@ -35458,7 +35458,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_462f3794-fe90-462e-a1b6-de172730a3bc_large.png?v=1611070394"
     ],
     "inStock": true,
     "specs": [],
@@ -35476,7 +35476,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_029fd320-92da-4b97-8889-674f231a83ea_large.png?v=1611070395"
     ],
     "inStock": true,
     "specs": [],
@@ -35494,7 +35494,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_0b082ff4-18d0-4b7c-be44-e8e0efd5d6d7_large.png?v=1611070397"
     ],
     "inStock": true,
     "specs": [],
@@ -35512,7 +35512,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9C_9_38_A_Standard_Contactor_ca6c412a-cfda-4581-ab68-83e18e1cb3b6_large.png?v=1611070398"
     ],
     "inStock": true,
     "specs": [],
@@ -35530,7 +35530,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_large.png?v=1751211539"
     ],
     "inStock": true,
     "specs": [],
@@ -35548,7 +35548,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_0a0ccbc1-6dc2-44ff-b8ec-44c59f95e588_large.png?v=1751211538"
     ],
     "inStock": true,
     "specs": [],
@@ -35566,7 +35566,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_6a53241d-59d4-4cc5-9f40-972181ac4ff1_large.png?v=1751211537"
     ],
     "inStock": true,
     "specs": [],
@@ -35584,7 +35584,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_a44da8fc-b54f-41a7-a83d-2db72288d5bd_large.png?v=1751211537"
     ],
     "inStock": true,
     "specs": [],
@@ -35602,7 +35602,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_3d90b81f-7233-4726-a969-185f531b62fd_large.png?v=1751211536"
     ],
     "inStock": true,
     "specs": [],
@@ -35620,7 +35620,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_492c682e-5d9b-4553-b880-4b60667ef231_large.png?v=1751211536"
     ],
     "inStock": true,
     "specs": [],
@@ -35638,7 +35638,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_58b21afa-4529-4a0b-821d-5811c055a39b_large.png?v=1751211535"
     ],
     "inStock": true,
     "specs": [],
@@ -35656,7 +35656,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_78312f85-e98f-4204-804b-61a7d8f3de60_large.png?v=1751211534"
     ],
     "inStock": true,
     "specs": [],
@@ -35674,7 +35674,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_2a806327-eaba-4cb7-aa0f-e687721e9026_large.png?v=1751211533"
     ],
     "inStock": true,
     "specs": [],
@@ -35692,7 +35692,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_9308f444-c337-4ba3-93a6-4b81f4bc5c7a_large.png?v=1751211533"
     ],
     "inStock": true,
     "specs": [],
@@ -35710,7 +35710,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_b694a933-bbf2-41ca-aff6-fcb870027311_large.png?v=1751211532"
     ],
     "inStock": true,
     "specs": [],
@@ -35728,7 +35728,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_95bb85b3-2ff2-4459-8301-2b06023d5c2f_large.png?v=1751211532"
     ],
     "inStock": true,
     "specs": [],
@@ -35746,7 +35746,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_477adbc4-00b8-4661-9b03-1be32acd7675_large.png?v=1751211531"
     ],
     "inStock": true,
     "specs": [],
@@ -35764,7 +35764,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_fa24945b-bf04-46d0-997f-b0d53f45318f_large.png?v=1751211531"
     ],
     "inStock": true,
     "specs": [],
@@ -35782,7 +35782,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_af7f2a2e-a2d7-4b2f-96f4-042e08285349_large.png?v=1751211530"
     ],
     "inStock": true,
     "specs": [],
@@ -35800,7 +35800,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_cdb648e1-20ac-4a77-b961-bfcf1017362e_large.png?v=1751211530"
     ],
     "inStock": true,
     "specs": [],
@@ -35818,7 +35818,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_bcdb86b9-1e74-40fc-a824-89061ece4fe7_large.png?v=1751211529"
     ],
     "inStock": true,
     "specs": [],
@@ -35836,7 +35836,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_7df89196-7962-42de-918c-cc48b9ae0d7a_large.png?v=1751211528"
     ],
     "inStock": true,
     "specs": [],
@@ -35854,7 +35854,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_74d4b536-8721-4c2e-9660-dfa16ada1652_large.png?v=1751211527"
     ],
     "inStock": true,
     "specs": [],
@@ -35872,7 +35872,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_380b4cab-07a4-4b8c-9eab-2524cf0d0e8f_large.png?v=1751211527"
     ],
     "inStock": true,
     "specs": [],
@@ -35890,7 +35890,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_44d031dd-eb53-4455-9165-5a5b6c9f755b_large.png?v=1751211526"
     ],
     "inStock": true,
     "specs": [],
@@ -35908,7 +35908,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_1ee14a6a-e00f-4278-8fa8-40ab984047e8_large.png?v=1751211525"
     ],
     "inStock": true,
     "specs": [],
@@ -35926,7 +35926,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_abc3d0cc-0c26-49db-bf56-7f649a25ab75_large.png?v=1751211525"
     ],
     "inStock": true,
     "specs": [],
@@ -35944,7 +35944,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_0fd4b00c-6959-4851-91f2-6b7a3c9f13fd_large.png?v=1751211524"
     ],
     "inStock": true,
     "specs": [],
@@ -35962,7 +35962,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_1aa1df14-f26d-4f3b-9b4c-895faa10b63e_large.png?v=1751211523"
     ],
     "inStock": true,
     "specs": [],
@@ -35980,7 +35980,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_d94e6850-5cc3-4bb1-8440-7d72a4d767b1_large.png?v=1751211523"
     ],
     "inStock": true,
     "specs": [],
@@ -35998,7 +35998,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_c24245a7-55a0-419f-b631-37e3a62ee893_large.png?v=1751211522"
     ],
     "inStock": true,
     "specs": [],
@@ -36016,7 +36016,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_26f2cb83-b540-445d-bb99-5febcada915b_large.png?v=1751211522"
     ],
     "inStock": true,
     "specs": [],
@@ -36034,7 +36034,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_56f423b3-ff10-4d98-9d69-0e88b27f1952_large.png?v=1751211521"
     ],
     "inStock": true,
     "specs": [],
@@ -36052,7 +36052,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_c3b00f8a-f111-4323-a586-3f583f366fc2_large.png?v=1751211520"
     ],
     "inStock": true,
     "specs": [],
@@ -36070,7 +36070,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_c8653614-ecb4-4a90-a459-7ddac2b7adec_large.png?v=1751211519"
     ],
     "inStock": true,
     "specs": [],
@@ -36088,7 +36088,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_2fe08abe-2801-445a-8b52-fec15acf9d36_large.png?v=1751211519"
     ],
     "inStock": true,
     "specs": [],
@@ -36106,7 +36106,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_2278d6e8-11b1-4e0d-9eba-7684eb235418_large.png?v=1751211518"
     ],
     "inStock": true,
     "specs": [],
@@ -36124,7 +36124,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_e5ea573b-5e9d-4f26-9460-62f850b98f25_large.png?v=1751211517"
     ],
     "inStock": true,
     "specs": [],
@@ -36142,7 +36142,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_0d11aa3d-ca85-4571-acdf-edb39bf9fbed_large.png?v=1751211517"
     ],
     "inStock": true,
     "specs": [],
@@ -36160,7 +36160,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_7ee91231-4042-443a-ae1c-d2ded491156f_large.png?v=1751211516"
     ],
     "inStock": true,
     "specs": [],
@@ -36178,7 +36178,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_56cfccfb-866d-40f3-97bc-88e4b1ba9091_large.png?v=1751211516"
     ],
     "inStock": true,
     "specs": [],
@@ -36196,7 +36196,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_e3b7edb0-a2ab-4f1e-bc99-ae72d0831939_large.png?v=1751211515"
     ],
     "inStock": true,
     "specs": [],
@@ -36214,7 +36214,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_07b41300-6171-4416-995f-50c953686e4e_large.png?v=1751211514"
     ],
     "inStock": true,
     "specs": [],
@@ -36232,7 +36232,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_73436089-dcad-4237-9172-95adaf029acd_large.png?v=1751211514"
     ],
     "inStock": true,
     "specs": [],
@@ -36250,7 +36250,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_6e9623ea-1f95-4cb7-a722-8f88879fe5cb_large.png?v=1751211513"
     ],
     "inStock": true,
     "specs": [],
@@ -36268,7 +36268,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_5f60f508-71a3-4dcb-8762-27f34304fa14_large.png?v=1751211512"
     ],
     "inStock": true,
     "specs": [],
@@ -36286,7 +36286,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_d6b3af54-08a6-4247-8cc6-65271e541f9c_large.png?v=1751211512"
     ],
     "inStock": true,
     "specs": [],
@@ -36304,7 +36304,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_51f25141-3d0b-4b4b-b04f-aff5514e61d2_large.png?v=1751211511"
     ],
     "inStock": true,
     "specs": [],
@@ -36322,7 +36322,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_d69a01b2-0d0f-47f0-88ff-e4e7a0d9b396_large.png?v=1751211510"
     ],
     "inStock": true,
     "specs": [],
@@ -36340,7 +36340,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_2e1773de-021f-473c-8b7d-d2ee5bc2fedf_large.png?v=1751211510"
     ],
     "inStock": true,
     "specs": [],
@@ -36358,7 +36358,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_2063eae0-cf7e-4e92-89d1-70cb127a2ec2_large.png?v=1751211509"
     ],
     "inStock": true,
     "specs": [],
@@ -36376,7 +36376,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_d9ffbbc8-0d11-455e-838b-c9f7ace3f7ce_large.png?v=1751211509"
     ],
     "inStock": true,
     "specs": [],
@@ -36394,7 +36394,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_91b10df2-62ce-4482-8bae-1295cba9daea_large.png?v=1751211508"
     ],
     "inStock": true,
     "specs": [],
@@ -36412,7 +36412,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_3f7a1e0e-c1e9-42b6-acb6-d8bd015f0d0b_large.png?v=1751211507"
     ],
     "inStock": true,
     "specs": [],
@@ -36430,7 +36430,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_5adeecc0-36ae-44e0-b8bf-b5a556543297_large.png?v=1751211507"
     ],
     "inStock": true,
     "specs": [],
@@ -36448,7 +36448,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_00ef8fdb-e17b-48eb-a898-118366421b5d_large.png?v=1751211505"
     ],
     "inStock": true,
     "specs": [],
@@ -36466,7 +36466,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_4ba3f5f1-56fd-4ce6-b219-1d9ab801d117_large.png?v=1751211505"
     ],
     "inStock": true,
     "specs": [],
@@ -36484,7 +36484,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_153814d5-10b6-4420-b908-877ce86f97ee_large.png?v=1751211504"
     ],
     "inStock": true,
     "specs": [],
@@ -36502,7 +36502,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_5d3540ea-b0b5-496a-9e1d-285fd4923128_large.png?v=1751211503"
     ],
     "inStock": true,
     "specs": [],
@@ -36520,7 +36520,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_91aef8c3-52c7-44e5-8152-a5dea2ccb880_large.png?v=1751211503"
     ],
     "inStock": true,
     "specs": [],
@@ -36538,7 +36538,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_17eebdab-60ab-4063-a4a9-a99993b8a32b_large.png?v=1751211502"
     ],
     "inStock": true,
     "specs": [],
@@ -36556,7 +36556,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_c886a515-a9a1-4bd0-bee0-54fd9c6af15b_large.png?v=1751211502"
     ],
     "inStock": true,
     "specs": [],
@@ -36574,7 +36574,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_b833cea3-ddad-45cc-bf77-8779c80f0b45_large.png?v=1751211501"
     ],
     "inStock": true,
     "specs": [],
@@ -36592,7 +36592,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_e381fb50-19ba-4016-9146-55ec0fa2d069_large.png?v=1751211500"
     ],
     "inStock": true,
     "specs": [],
@@ -36610,7 +36610,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_5843dd1a-b549-4385-a9bf-7f67198c8888_large.png?v=1751211500"
     ],
     "inStock": true,
     "specs": [],
@@ -36628,7 +36628,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_bacd1568-82f6-4d1b-94e2-be43ba7e2690_large.png?v=1751211499"
     ],
     "inStock": true,
     "specs": [],
@@ -36646,7 +36646,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_7fd02392-0ec9-4988-b278-420cdaaed958_large.png?v=1751211498"
     ],
     "inStock": true,
     "specs": [],
@@ -36664,7 +36664,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_cba77502-6579-4af4-ab15-18d8e5c459bb_large.png?v=1751211497"
     ],
     "inStock": true,
     "specs": [],
@@ -36682,7 +36682,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_ff70da7f-60ce-4ffd-b8ac-d0c92173c436_large.png?v=1751211497"
     ],
     "inStock": true,
     "specs": [],
@@ -36700,7 +36700,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_206d46a0-45f1-4b07-85a7-883e4df75320_large.png?v=1751211496"
     ],
     "inStock": true,
     "specs": [],
@@ -36718,7 +36718,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_fe5ea069-0693-42a4-885d-124c99ef2ade_large.png?v=1751211495"
     ],
     "inStock": true,
     "specs": [],
@@ -36736,7 +36736,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_298024de-1769-49f1-9cef-ca3aa062f580_large.png?v=1751211495"
     ],
     "inStock": true,
     "specs": [],
@@ -36754,7 +36754,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_617d78e2-2865-4136-8f8f-79b2ff92cf1d_large.png?v=1751211494"
     ],
     "inStock": true,
     "specs": [],
@@ -36772,7 +36772,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_045b4145-f382-4eaf-87df-a4806984868e_large.png?v=1751211493"
     ],
     "inStock": true,
     "specs": [],
@@ -36790,7 +36790,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_91fb8fa3-aad4-4509-8392-6608c2edb18b_large.png?v=1751211492"
     ],
     "inStock": true,
     "specs": [],
@@ -36808,7 +36808,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_b184ce98-f718-4693-aab0-d6862a74b6ae_large.png?v=1751211491"
     ],
     "inStock": true,
     "specs": [],
@@ -36826,7 +36826,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_68032e40-4cf0-4c05-bae6-cfc08714ba41_large.png?v=1751211490"
     ],
     "inStock": true,
     "specs": [],
@@ -36844,7 +36844,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_fea5392f-e6c3-4bf5-92ab-da9b1e29d480_large.png?v=1751211488"
     ],
     "inStock": true,
     "specs": [],
@@ -36862,7 +36862,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_60c24228-0000-449d-bff1-82cfb22781a3_large.png?v=1751211487"
     ],
     "inStock": true,
     "specs": [],
@@ -36880,7 +36880,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_3dbcf217-4b79-4772-8823-186d095a787a_large.png?v=1751211486"
     ],
     "inStock": true,
     "specs": [],
@@ -36898,7 +36898,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_b47e3b07-9773-4ba2-86b2-87305fa96ee2_large.png?v=1751211485"
     ],
     "inStock": true,
     "specs": [],
@@ -36916,7 +36916,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_95b50f63-8817-46fb-99e4-f93fdc7b0862_large.png?v=1751211484"
     ],
     "inStock": true,
     "specs": [],
@@ -36934,7 +36934,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_61d59f9a-daa0-438c-a365-94d270a3c09c_large.png?v=1751211483"
     ],
     "inStock": true,
     "specs": [],
@@ -36952,7 +36952,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_67fbc0fa-b560-428e-a277-beebde8eace7_large.png?v=1751211483"
     ],
     "inStock": true,
     "specs": [],
@@ -36970,7 +36970,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_aa6f2dab-ef87-4739-9148-bdad877222b6_large.png?v=1751211482"
     ],
     "inStock": true,
     "specs": [],
@@ -36988,7 +36988,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_691278b8-61ff-4bca-8d8d-55cc16593931_large.png?v=1751211481"
     ],
     "inStock": true,
     "specs": [],
@@ -37006,7 +37006,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_cf8252f3-d90e-4da2-a36f-6674f33e0bf1_large.png?v=1751211481"
     ],
     "inStock": true,
     "specs": [],
@@ -37024,7 +37024,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_060c7352-d0cc-4c78-b83f-077e2f36cf90_large.png?v=1751211480"
     ],
     "inStock": true,
     "specs": [],
@@ -37042,7 +37042,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_60098f82-48c2-4df1-9553-3670a6cadef9_large.png?v=1751211479"
     ],
     "inStock": true,
     "specs": [],
@@ -37060,7 +37060,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_6c2e8307-a08b-4af3-bcd4-4b142edd04ee_large.png?v=1751211479"
     ],
     "inStock": true,
     "specs": [],
@@ -37078,7 +37078,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_345083fd-0793-4cba-8963-cb1ef17fd6bc_large.png?v=1751211478"
     ],
     "inStock": true,
     "specs": [],
@@ -37096,7 +37096,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_13f74e6a-abee-4468-bfc0-db9a4576bfe3_large.png?v=1751211477"
     ],
     "inStock": true,
     "specs": [],
@@ -37114,7 +37114,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_b3a5e293-941a-40a5-8e1a-5652fd0d26e8_large.png?v=1751211477"
     ],
     "inStock": true,
     "specs": [],
@@ -37132,7 +37132,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_94ddb9a7-de1e-4cc5-b858-03076e9b631e_large.png?v=1751211476"
     ],
     "inStock": true,
     "specs": [],
@@ -37150,7 +37150,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_53d974ab-e4bd-495f-9596-bedd2a12d5ac_large.png?v=1751211476"
     ],
     "inStock": true,
     "specs": [],
@@ -37168,7 +37168,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_64c044f0-37af-484c-9d23-a0110f04f0e5_large.png?v=1751211475"
     ],
     "inStock": true,
     "specs": [],
@@ -37186,7 +37186,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_28aa897d-5be4-4f97-88c9-bd6c5e2edf30_large.png?v=1751211474"
     ],
     "inStock": true,
     "specs": [],
@@ -37204,7 +37204,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_f0e035d2-7b98-4768-81c9-96f8086356da_large.png?v=1751211474"
     ],
     "inStock": true,
     "specs": [],
@@ -37222,7 +37222,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_3d9c0575-7e1b-4c9e-8659-f3ad6603b111_large.png?v=1751211473"
     ],
     "inStock": true,
     "specs": [],
@@ -37240,7 +37240,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_52efac9b-21f1-4301-b48e-17e8bbb529f9_large.png?v=1751211472"
     ],
     "inStock": true,
     "specs": [],
@@ -37258,7 +37258,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_0f0471bf-e495-40fe-b11d-32c3abf98c68_large.png?v=1751211471"
     ],
     "inStock": true,
     "specs": [],
@@ -37276,7 +37276,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_cf7cf2be-ecfb-456d-a75c-56adb77550f7_large.png?v=1751211471"
     ],
     "inStock": true,
     "specs": [],
@@ -37294,7 +37294,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_0454ab9a-2ec1-4e8d-af72-c584e2f1b2c5_large.png?v=1751211470"
     ],
     "inStock": true,
     "specs": [],
@@ -37312,7 +37312,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_85f20028-f3a0-4dd6-907c-6cf0edc4cf7f_large.png?v=1751211469"
     ],
     "inStock": true,
     "specs": [],
@@ -37330,7 +37330,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_2b9f3a50-3609-412d-89ba-661ab64a9aed_large.png?v=1751211469"
     ],
     "inStock": true,
     "specs": [],
@@ -37348,7 +37348,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_52dd291b-bcd7-4b5f-91e2-e3e63f94b864_large.png?v=1751211468"
     ],
     "inStock": true,
     "specs": [],
@@ -37366,7 +37366,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_53818050-32b1-46b3-8982-7dd6a4e5253d_large.png?v=1751211467"
     ],
     "inStock": true,
     "specs": [],
@@ -37384,7 +37384,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_03584dea-79de-4286-a4bf-10e71f7c0057_large.png?v=1751211467"
     ],
     "inStock": true,
     "specs": [],
@@ -37402,7 +37402,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_46dabe37-76d0-4f6c-995a-0dfe5809fc85_large.png?v=1751211466"
     ],
     "inStock": true,
     "specs": [],
@@ -37420,7 +37420,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_1b1fa0a3-e61a-43c3-8d69-1115e6707bea_large.png?v=1751211466"
     ],
     "inStock": true,
     "specs": [],
@@ -37438,7 +37438,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_1df742af-b44f-416a-8ad0-43c2c4ae25b8_large.png?v=1751211464"
     ],
     "inStock": true,
     "specs": [],
@@ -37456,7 +37456,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_9d6bd427-2be8-4e71-8935-585100efea3f_large.png?v=1751211463"
     ],
     "inStock": true,
     "specs": [],
@@ -37474,7 +37474,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_d206ef51-39f7-4e41-92c1-bf05b3a4e211_large.png?v=1751211463"
     ],
     "inStock": true,
     "specs": [],
@@ -37492,7 +37492,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_eac185dd-abe5-4660-82dd-8b20ab0265e3_large.png?v=1751211462"
     ],
     "inStock": true,
     "specs": [],
@@ -37510,7 +37510,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_364d5381-22d6-460d-8140-561f94e7126d_large.png?v=1751211462"
     ],
     "inStock": true,
     "specs": [],
@@ -37528,7 +37528,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_53a9f12c-5f0d-4b81-926a-b7f127e178a1_large.png?v=1751211462"
     ],
     "inStock": true,
     "specs": [],
@@ -37546,7 +37546,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_ba9bbcfe-d114-4a66-9bf3-4d866c6fc7ba_large.png?v=1751211461"
     ],
     "inStock": true,
     "specs": [],
@@ -37564,7 +37564,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_c3cb794d-c6c3-4a9d-a5ab-7ce945c10b0a_large.png?v=1751211461"
     ],
     "inStock": true,
     "specs": [],
@@ -37582,7 +37582,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_495c69eb-cdee-4d02-8cf6-1eaa77d589c3_large.png?v=1751211460"
     ],
     "inStock": true,
     "specs": [],
@@ -37600,7 +37600,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_d5ff508c-1f0e-49f7-aa9c-fc37d6053867_large.png?v=1751211460"
     ],
     "inStock": true,
     "specs": [],
@@ -37618,7 +37618,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_e39101e9-9833-438e-b7af-a230292ff743_large.png?v=1751211460"
     ],
     "inStock": true,
     "specs": [],
@@ -37636,7 +37636,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_9044ed0a-65ef-40ab-9014-150bbfe5a2df_large.png?v=1751211459"
     ],
     "inStock": true,
     "specs": [],
@@ -37654,7 +37654,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_0108c4b1-5a8a-4c2e-977e-44942d1ce3a6_large.png?v=1751211458"
     ],
     "inStock": true,
     "specs": [],
@@ -37672,7 +37672,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_d27d16e6-f72f-4cff-ab14-317ba5f8ea24_large.png?v=1751211458"
     ],
     "inStock": true,
     "specs": [],
@@ -37690,7 +37690,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_2c84bdc4-fcc0-452c-bb22-c5fffb554b69_large.png?v=1751211457"
     ],
     "inStock": true,
     "specs": [],
@@ -37708,7 +37708,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_1a979d15-0279-4029-ad05-6fcb2d9aa4ef_large.png?v=1751211457"
     ],
     "inStock": true,
     "specs": [],
@@ -37726,7 +37726,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_3441742f-71ca-4504-bb79-b17b6ffaa382_large.png?v=1751211457"
     ],
     "inStock": true,
     "specs": [],
@@ -37744,7 +37744,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_411e5bfd-a176-4f45-91f3-f61dbc4811d6_large.png?v=1751211456"
     ],
     "inStock": true,
     "specs": [],
@@ -37762,7 +37762,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_0f178296-a1d7-4018-9730-0bc035377d37_large.png?v=1751211456"
     ],
     "inStock": true,
     "specs": [],
@@ -37780,7 +37780,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_455ad5e8-697b-46b9-a551-ace5d1cce229_large.png?v=1751211455"
     ],
     "inStock": true,
     "specs": [],
@@ -37798,7 +37798,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_03d6d525-9d55-47e3-8e4c-f189870a6e5b_large.png?v=1751211455"
     ],
     "inStock": true,
     "specs": [],
@@ -37816,7 +37816,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_ecf35d79-f3ee-4072-91d1-da2dc8685d85_large.png?v=1751211454"
     ],
     "inStock": true,
     "specs": [],
@@ -37834,7 +37834,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_7392f78d-430d-49fd-a2fc-48ca02648a62_large.png?v=1751211453"
     ],
     "inStock": true,
     "specs": [],
@@ -37852,7 +37852,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_7acd934e-823a-4ed0-b304-e6aa65e837b3_large.png?v=1751211453"
     ],
     "inStock": true,
     "specs": [],
@@ -37870,7 +37870,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_fca06174-0f90-47b8-a715-04b36a696530_large.png?v=1751211452"
     ],
     "inStock": true,
     "specs": [],
@@ -37888,7 +37888,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CDS_40_95_A_f26ac27c-ceb5-4ddc-89f2-496ed1296c83_large.png?v=1751211452"
     ],
     "inStock": true,
     "specs": [],
@@ -37906,7 +37906,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_large.png?v=1751212077"
     ],
     "inStock": true,
     "specs": [],
@@ -37924,7 +37924,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_28eece5f-0d80-444b-b8f0-fc0108f45ca3_large.png?v=1751212076"
     ],
     "inStock": true,
     "specs": [],
@@ -37942,7 +37942,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_1b6eb38a-4c04-4876-ba71-02cf84e98e9c_large.png?v=1751212076"
     ],
     "inStock": true,
     "specs": [],
@@ -37960,7 +37960,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_340a7cc3-c0ea-43c0-85e9-fd6756c04aa6_large.png?v=1751212075"
     ],
     "inStock": true,
     "specs": [],
@@ -37978,7 +37978,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_16698749-38c7-4514-bc83-04513d7bb7b0_large.png?v=1751212074"
     ],
     "inStock": true,
     "specs": [],
@@ -37996,7 +37996,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_d780a8e6-0ab3-451f-8f01-8dc5ff15606f_large.png?v=1751212074"
     ],
     "inStock": true,
     "specs": [],
@@ -38014,7 +38014,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_1a4ffb15-50e7-47ad-95fa-4a44b074ee8d_large.png?v=1751212073"
     ],
     "inStock": true,
     "specs": [],
@@ -38032,7 +38032,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_c4f22963-89a6-47bd-b766-9614fed6c5e1_large.png?v=1751212072"
     ],
     "inStock": true,
     "specs": [],
@@ -38050,7 +38050,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_30575dbd-c499-4cd5-a989-1a9e2313b307_large.png?v=1751212072"
     ],
     "inStock": true,
     "specs": [],
@@ -38068,7 +38068,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_b76e7a55-c117-434f-8fee-38a4eb01f427_large.png?v=1751212071"
     ],
     "inStock": true,
     "specs": [],
@@ -38086,7 +38086,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_05189fc4-b601-4497-8c78-1395d3c4f2f0_large.png?v=1751212071"
     ],
     "inStock": true,
     "specs": [],
@@ -38104,7 +38104,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_a36dab9f-06a0-44ec-a3a7-71c53cb49dbf_large.png?v=1751212070"
     ],
     "inStock": true,
     "specs": [],
@@ -38122,7 +38122,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_bc0e76fb-e9b4-4761-9e9c-39dde7b58743_large.png?v=1751212069"
     ],
     "inStock": true,
     "specs": [],
@@ -38140,7 +38140,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_c7db049a-fe0a-4c13-a562-37840274d3b5_large.png?v=1751212069"
     ],
     "inStock": true,
     "specs": [],
@@ -38158,7 +38158,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_127713b5-9a34-4fd6-8ae8-f7abbb338d06_large.png?v=1751212068"
     ],
     "inStock": true,
     "specs": [],
@@ -38176,7 +38176,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_a8dff3dc-9522-4085-819c-ee46ff984e24_large.png?v=1751212068"
     ],
     "inStock": true,
     "specs": [],
@@ -38194,7 +38194,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_f7ebfc53-78d7-4c87-98a8-7a0a5347395d_large.png?v=1751212067"
     ],
     "inStock": true,
     "specs": [],
@@ -38212,7 +38212,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_53fb17f7-bc9f-48c0-812c-86007b3ced3e_large.png?v=1751212067"
     ],
     "inStock": true,
     "specs": [],
@@ -38230,7 +38230,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_9d2f9f78-6a5f-4596-b4a0-ef07646ab31e_large.png?v=1751212065"
     ],
     "inStock": true,
     "specs": [],
@@ -38248,7 +38248,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_eb5eab95-90a3-466d-90b1-1a2bf536379c_large.png?v=1751212065"
     ],
     "inStock": true,
     "specs": [],
@@ -38266,7 +38266,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_9dbd5653-3007-498a-9261-e410f34f93d7_large.png?v=1751212064"
     ],
     "inStock": true,
     "specs": [],
@@ -38284,7 +38284,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_118514d6-e847-4bb1-81da-51cae79f69f0_large.png?v=1751212064"
     ],
     "inStock": true,
     "specs": [],
@@ -38302,7 +38302,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_67cf443a-c411-4222-b61e-03fd8afb4070_large.png?v=1751212063"
     ],
     "inStock": true,
     "specs": [],
@@ -38320,7 +38320,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_b07db0b4-80cc-4e4c-b488-538f39847f9e_large.png?v=1751212063"
     ],
     "inStock": true,
     "specs": [],
@@ -38338,7 +38338,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_e0bb2ae4-68f7-49d9-95b6-d782696e22bd_large.png?v=1751212062"
     ],
     "inStock": true,
     "specs": [],
@@ -38356,7 +38356,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_98c1917c-c1a5-4d6a-9e2b-fa9f46c89a0a_large.png?v=1751212061"
     ],
     "inStock": true,
     "specs": [],
@@ -38374,7 +38374,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_53fa4294-0313-4d09-ac3e-bc5fc9d1579a_large.png?v=1751212061"
     ],
     "inStock": true,
     "specs": [],
@@ -38392,7 +38392,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_e662e872-45ec-4238-95d4-60aa46c7dc84_large.png?v=1751212060"
     ],
     "inStock": true,
     "specs": [],
@@ -38410,7 +38410,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_ac33901c-0d78-4cdb-914f-6ad26bbe7d0a_large.png?v=1751212060"
     ],
     "inStock": true,
     "specs": [],
@@ -38428,7 +38428,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_6d3bdbea-6c02-451f-b073-5cc4bb4952d1_large.png?v=1751212059"
     ],
     "inStock": true,
     "specs": [],
@@ -38446,7 +38446,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_c7c71f04-8618-48fa-bf9c-4033574aa5de_large.png?v=1751212058"
     ],
     "inStock": true,
     "specs": [],
@@ -38464,7 +38464,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_e42def06-c8e7-4e83-a8df-d18606da3dcc_large.png?v=1751212057"
     ],
     "inStock": true,
     "specs": [],
@@ -38482,7 +38482,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_d73ebb7a-6dc4-4bfc-9899-d122402f6eeb_large.png?v=1751212057"
     ],
     "inStock": true,
     "specs": [],
@@ -38500,7 +38500,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_01066bfd-5e5c-4c8d-b6f9-971cde6226bb_large.png?v=1751212056"
     ],
     "inStock": true,
     "specs": [],
@@ -38518,7 +38518,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_b1999bfd-cfe7-4564-9978-b536932a15d4_large.png?v=1751212056"
     ],
     "inStock": true,
     "specs": [],
@@ -38536,7 +38536,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_5cb8ec1d-d043-4cf2-a551-a879a3b05c0c_large.png?v=1751212055"
     ],
     "inStock": true,
     "specs": [],
@@ -38554,7 +38554,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_4e985104-c1ad-4440-8b7a-28185ecf79ae_large.png?v=1751212055"
     ],
     "inStock": true,
     "specs": [],
@@ -38572,7 +38572,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_17214176-e4eb-488e-bc41-977bef4e4fba_large.png?v=1751212054"
     ],
     "inStock": true,
     "specs": [],
@@ -38590,7 +38590,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_2e41ccba-eede-4302-afe0-d8ef28ff6fdf_large.png?v=1751212054"
     ],
     "inStock": true,
     "specs": [],
@@ -38608,7 +38608,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_d9f6000a-009b-4e45-aebc-2624ce86ca2b_large.png?v=1751212053"
     ],
     "inStock": true,
     "specs": [],
@@ -38626,7 +38626,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_4d9932ab-ed10-4c4b-8562-d0df512ef16a_large.png?v=1751212052"
     ],
     "inStock": true,
     "specs": [],
@@ -38644,7 +38644,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_599fcd4d-06c1-4a45-ae1b-62c9ffd5e88f_large.png?v=1751212051"
     ],
     "inStock": true,
     "specs": [],
@@ -38662,7 +38662,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_55328c34-f633-4769-b998-9f2dcb16cdb9_large.png?v=1751212051"
     ],
     "inStock": true,
     "specs": [],
@@ -38680,7 +38680,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_f16d14a7-c546-40a7-a986-24dfbb2dd7f2_large.png?v=1751212050"
     ],
     "inStock": true,
     "specs": [],
@@ -38698,7 +38698,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_21c7d014-3775-4d9b-96de-34131b400700_large.png?v=1751212049"
     ],
     "inStock": true,
     "specs": [],
@@ -38716,7 +38716,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_1fcb152b-a903-40bc-8c88-a4590e736090_large.png?v=1751212049"
     ],
     "inStock": true,
     "specs": [],
@@ -38734,7 +38734,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_a65a4ef7-1870-4fbd-9b46-0020897ee553_large.png?v=1751212048"
     ],
     "inStock": true,
     "specs": [],
@@ -38752,7 +38752,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_cf48d24a-7aa4-412c-95bb-fa54ab60717d_large.png?v=1751212048"
     ],
     "inStock": true,
     "specs": [],
@@ -38770,7 +38770,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_82367e57-e809-4414-bf1e-6a18ccd9b498_large.png?v=1751212047"
     ],
     "inStock": true,
     "specs": [],
@@ -38788,7 +38788,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_39d860b0-d0de-4071-ace3-1f6e0a697c03_large.png?v=1751212047"
     ],
     "inStock": true,
     "specs": [],
@@ -38806,7 +38806,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_f87541a5-10e2-449f-9d35-055b9e986b11_large.png?v=1751212046"
     ],
     "inStock": true,
     "specs": [],
@@ -38824,7 +38824,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_34e352d0-7e84-4cab-95ef-653a0e281dd6_large.png?v=1751212045"
     ],
     "inStock": true,
     "specs": [],
@@ -38842,7 +38842,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_8427dc8e-cfa3-445c-82e7-4e68bbfa283b_large.png?v=1751212044"
     ],
     "inStock": true,
     "specs": [],
@@ -38860,7 +38860,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_ec1cd825-1c3f-4b2d-88cb-12fc5c6757ad_large.png?v=1751212044"
     ],
     "inStock": true,
     "specs": [],
@@ -38878,7 +38878,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK20A_ee3e9b8f-6f3a-45aa-b5cc-526c30ae6853_large.png?v=1751212043"
     ],
     "inStock": true,
     "specs": [],
@@ -38896,7 +38896,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_large.png?v=1751212042"
     ],
     "inStock": true,
     "specs": [],
@@ -38914,7 +38914,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_1cc18b71-ab2f-4d39-9a85-7625d014d91e_large.png?v=1751212042"
     ],
     "inStock": true,
     "specs": [],
@@ -38932,7 +38932,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_9f68c128-aef4-4183-9614-31d99647d597_large.png?v=1751212041"
     ],
     "inStock": true,
     "specs": [],
@@ -38950,7 +38950,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_05b59569-10eb-4a46-9759-e226022a75c0_large.png?v=1751212041"
     ],
     "inStock": true,
     "specs": [],
@@ -38968,7 +38968,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_94a5b88a-01ef-48c9-8d2c-136dcc20e25d_large.png?v=1751212040"
     ],
     "inStock": true,
     "specs": [],
@@ -38986,7 +38986,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_5491624a-7ae7-461d-bbfe-c83a57dc99ab_large.png?v=1751212040"
     ],
     "inStock": true,
     "specs": [],
@@ -39004,7 +39004,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_149f9a48-7a17-4d7c-8c40-400088abb9ca_large.png?v=1751212039"
     ],
     "inStock": true,
     "specs": [],
@@ -39022,7 +39022,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_be4f868e-bf97-4fa7-8059-9381797becbc_large.png?v=1751212038"
     ],
     "inStock": true,
     "specs": [],
@@ -39040,7 +39040,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_857622d0-9832-486b-ad97-7a69be8a05d6_large.png?v=1751212037"
     ],
     "inStock": true,
     "specs": [],
@@ -39058,7 +39058,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_c68caf49-e7cf-4506-80cc-421ffad5bd79_large.png?v=1751212036"
     ],
     "inStock": true,
     "specs": [],
@@ -39076,7 +39076,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_81f808ff-32ad-496d-a015-f4a9d5628dd1_large.png?v=1751212034"
     ],
     "inStock": true,
     "specs": [],
@@ -39094,7 +39094,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_0410db4d-110d-4e43-9188-322ad0990513_large.png?v=1751212033"
     ],
     "inStock": true,
     "specs": [],
@@ -39112,7 +39112,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_6e2436dd-a8bf-417a-9d59-a183a104878d_large.png?v=1751212032"
     ],
     "inStock": true,
     "specs": [],
@@ -39130,7 +39130,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_ff308f78-c607-454e-b599-14c4fb378f0a_large.png?v=1751212031"
     ],
     "inStock": true,
     "specs": [],
@@ -39148,7 +39148,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_e870471d-8895-4922-ac1d-cc8a5e18cc82_large.png?v=1751212030"
     ],
     "inStock": true,
     "specs": [],
@@ -39166,7 +39166,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_c29490ca-b877-4a3f-aab8-71d3c969e8db_large.png?v=1751212029"
     ],
     "inStock": true,
     "specs": [],
@@ -39184,7 +39184,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_5cbc2d95-86be-4cfa-9dc0-401e0a51d67b_large.png?v=1751212029"
     ],
     "inStock": true,
     "specs": [],
@@ -39202,7 +39202,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_f07e6c0b-ab4e-4f07-a86f-f583059bfb61_large.png?v=1751212028"
     ],
     "inStock": true,
     "specs": [],
@@ -39220,7 +39220,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_933f4053-b452-47d8-9291-0023c051ca05_large.png?v=1751212026"
     ],
     "inStock": true,
     "specs": [],
@@ -39238,7 +39238,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_ca5967ba-a823-4181-a889-59f163036a2c_large.png?v=1751212026"
     ],
     "inStock": true,
     "specs": [],
@@ -39256,7 +39256,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_d921bd0e-a7d2-43a4-a2e1-dae4723a070e_large.png?v=1751212025"
     ],
     "inStock": true,
     "specs": [],
@@ -39274,7 +39274,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_cb9acae6-af9a-4075-b7c2-de57e677003c_large.png?v=1751212024"
     ],
     "inStock": true,
     "specs": [],
@@ -39292,7 +39292,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_e41e3a3f-234f-4b48-8803-863adaf7ff6e_large.png?v=1751212024"
     ],
     "inStock": true,
     "specs": [],
@@ -39310,7 +39310,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_546ecf10-96ec-477a-bfcd-4548d4108c41_large.png?v=1751212023"
     ],
     "inStock": true,
     "specs": [],
@@ -39328,7 +39328,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_9227c4f6-0951-423f-9474-dc25584708ce_large.png?v=1751212023"
     ],
     "inStock": true,
     "specs": [],
@@ -39346,7 +39346,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_cbd9bb03-0d36-4f10-bc85-4857d2039810_large.png?v=1751212022"
     ],
     "inStock": true,
     "specs": [],
@@ -39364,7 +39364,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_2afba4e5-194c-4b28-82b6-06770957e9de_large.png?v=1751212021"
     ],
     "inStock": true,
     "specs": [],
@@ -39382,7 +39382,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_0a1db815-d9ac-4318-98d0-1a1703647e68_large.png?v=1751212021"
     ],
     "inStock": true,
     "specs": [],
@@ -39400,7 +39400,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_b0706c4f-b237-42e7-8ea2-4effbc63223d_large.png?v=1751212020"
     ],
     "inStock": true,
     "specs": [],
@@ -39418,7 +39418,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_4b202feb-c020-4c65-936d-6cc82805b893_large.png?v=1751212019"
     ],
     "inStock": true,
     "specs": [],
@@ -39436,7 +39436,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_8b2d02ea-823e-4390-ba68-294dbb33bb4a_large.png?v=1751212019"
     ],
     "inStock": true,
     "specs": [],
@@ -39454,7 +39454,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_cd2df9f7-3e7f-4966-b51f-9659cca08981_large.png?v=1751212018"
     ],
     "inStock": true,
     "specs": [],
@@ -39472,7 +39472,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_94da6d12-d787-4852-b4fb-ddd46fdae134_large.png?v=1751212018"
     ],
     "inStock": true,
     "specs": [],
@@ -39490,7 +39490,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_daba3476-a3fd-47cd-8af9-521d5f126e3e_large.png?v=1751212017"
     ],
     "inStock": true,
     "specs": [],
@@ -39508,7 +39508,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_9b1b63a5-2638-4cbd-82f1-2252ac1d4ad2_large.png?v=1751212016"
     ],
     "inStock": true,
     "specs": [],
@@ -39526,7 +39526,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_915d4603-4da4-423c-93da-106d8a532c62_large.png?v=1751212016"
     ],
     "inStock": true,
     "specs": [],
@@ -39544,7 +39544,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_7fa35bf4-9fe2-43a4-9dae-26ec945599ae_large.png?v=1751212015"
     ],
     "inStock": true,
     "specs": [],
@@ -39562,7 +39562,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_2614b32c-2c1a-4b65-bff6-4f48ed829396_large.png?v=1751212015"
     ],
     "inStock": true,
     "specs": [],
@@ -39580,7 +39580,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_a05d8c0d-34bd-4b6c-a25d-5e84ef23ddc6_large.png?v=1751212014"
     ],
     "inStock": true,
     "specs": [],
@@ -39598,7 +39598,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_94d60fd5-081a-4840-91f0-80d3286ed59d_large.png?v=1751212013"
     ],
     "inStock": true,
     "specs": [],
@@ -39616,7 +39616,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_3baa61d4-112e-4860-a3c7-8959c98fe477_large.png?v=1751212012"
     ],
     "inStock": true,
     "specs": [],
@@ -39634,7 +39634,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_8ac6b8d0-455e-4907-9310-49370aa550fc_large.png?v=1751212012"
     ],
     "inStock": true,
     "specs": [],
@@ -39652,7 +39652,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_a5ff591d-76ee-4d38-bf8e-eeb6e4fcbb37_large.png?v=1751212011"
     ],
     "inStock": true,
     "specs": [],
@@ -39670,7 +39670,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_291f3a1e-51ce-4b0a-8258-b3dda4b16671_large.png?v=1751212010"
     ],
     "inStock": true,
     "specs": [],
@@ -39688,7 +39688,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_a5d654a4-f739-4bf8-9152-6290d68b96f1_large.png?v=1751212010"
     ],
     "inStock": true,
     "specs": [],
@@ -39706,7 +39706,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_4c8993fb-95f1-4392-9832-a2bb24b0013d_large.png?v=1751212009"
     ],
     "inStock": true,
     "specs": [],
@@ -39724,7 +39724,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_1ddf8e0a-bfd6-43ba-8db7-194eebeabb1c_large.png?v=1751212008"
     ],
     "inStock": true,
     "specs": [],
@@ -39742,7 +39742,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_ce2871ca-bcba-4a60-84b5-8a8c6d7d99b8_large.png?v=1751212008"
     ],
     "inStock": true,
     "specs": [],
@@ -39760,7 +39760,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_d812990c-5ec2-4c27-8e4d-a761474a8466_large.png?v=1751212006"
     ],
     "inStock": true,
     "specs": [],
@@ -39778,7 +39778,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_ba5fcd56-2b7d-4aab-aed6-37f8082a8358_large.png?v=1751212006"
     ],
     "inStock": true,
     "specs": [],
@@ -39796,7 +39796,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_d1cc5763-3d49-4c7b-988c-6fb145229eaf_large.png?v=1751212005"
     ],
     "inStock": true,
     "specs": [],
@@ -39814,7 +39814,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_7a663c0a-fd0d-49e4-9566-2ac499b1e092_large.png?v=1751212004"
     ],
     "inStock": true,
     "specs": [],
@@ -39832,7 +39832,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_8b3e606c-9bba-4c19-8940-d36e66ec59af_large.png?v=1751212003"
     ],
     "inStock": true,
     "specs": [],
@@ -39850,7 +39850,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_0ad3d3a7-40fb-4c61-a174-3654e95cb424_large.png?v=1751212003"
     ],
     "inStock": true,
     "specs": [],
@@ -39868,7 +39868,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CK25_f3aea3b7-812a-4e09-a624-2fb3b20e75de_large.png?v=1751212002"
     ],
     "inStock": true,
     "specs": [],
@@ -39886,7 +39886,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_large.png?v=1751212002"
     ],
     "inStock": true,
     "specs": [],
@@ -39904,7 +39904,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_43383aed-7948-4b8a-8c6a-47d66f22abf9_large.png?v=1751212001"
     ],
     "inStock": true,
     "specs": [],
@@ -39922,7 +39922,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_7bdd0c3d-14e0-490c-aa53-b9c4123d9212_large.png?v=1751212001"
     ],
     "inStock": true,
     "specs": [],
@@ -39940,7 +39940,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_0462a37b-7fe5-4023-a400-baa41ba3bccd_large.png?v=1751212000"
     ],
     "inStock": true,
     "specs": [],
@@ -39958,7 +39958,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_e9dbce68-a79f-4049-b99e-5a21498e89c2_large.png?v=1751211999"
     ],
     "inStock": true,
     "specs": [],
@@ -39976,7 +39976,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_3196267c-547c-460b-8060-4c4cd41edcac_large.png?v=1751211999"
     ],
     "inStock": true,
     "specs": [],
@@ -39994,7 +39994,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_762321f8-8f49-4b09-a665-f234e2639552_large.png?v=1751211998"
     ],
     "inStock": true,
     "specs": [],
@@ -40012,7 +40012,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_8ab5ba7a-c346-45ff-a97f-d03295a568fb_large.png?v=1751211997"
     ],
     "inStock": true,
     "specs": [],
@@ -40030,7 +40030,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_15275529-f411-40fd-b8d0-167e8f52a966_large.png?v=1751211996"
     ],
     "inStock": true,
     "specs": [],
@@ -40048,7 +40048,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_724f5b7d-6f18-4a09-9e10-11eb815f8579_large.png?v=1751211996"
     ],
     "inStock": true,
     "specs": [],
@@ -40066,7 +40066,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_9c85f6ef-7320-4025-9841-583e7e644978_large.png?v=1751211995"
     ],
     "inStock": true,
     "specs": [],
@@ -40084,7 +40084,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_e6732e84-35cd-493c-8899-75a191195647_large.png?v=1751211995"
     ],
     "inStock": true,
     "specs": [],
@@ -40102,7 +40102,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_a4a27c77-1247-40a0-a7d9-11bd7c39bd02_large.png?v=1751211994"
     ],
     "inStock": true,
     "specs": [],
@@ -40120,7 +40120,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_2b32a880-ce78-4a1b-8b3a-ff828f1f4c5a_large.png?v=1751211994"
     ],
     "inStock": true,
     "specs": [],
@@ -40138,7 +40138,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_92eb2d5f-aada-4003-9487-825032eec1e7_large.png?v=1751211993"
     ],
     "inStock": true,
     "specs": [],
@@ -40156,7 +40156,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_8a6aa3d4-d2ee-4ade-aac2-0f451c7dad24_large.png?v=1751211992"
     ],
     "inStock": true,
     "specs": [],
@@ -40174,7 +40174,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_7c33a47a-7c7d-48ab-aa1d-18d7e53acf37_large.png?v=1751211992"
     ],
     "inStock": true,
     "specs": [],
@@ -40192,7 +40192,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_07934373-9e09-400f-8138-a1b85641995b_large.png?v=1751211991"
     ],
     "inStock": true,
     "specs": [],
@@ -40210,7 +40210,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_258a5674-e3ab-4bea-a990-fcf9e6f9f258_large.png?v=1751211990"
     ],
     "inStock": true,
     "specs": [],
@@ -40228,7 +40228,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_46125084-f7db-4aef-aeb1-e9e404924f07_large.png?v=1751211990"
     ],
     "inStock": true,
     "specs": [],
@@ -40246,7 +40246,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_ad5993d5-17b1-427c-bf98-3b9b58c18218_large.png?v=1751211989"
     ],
     "inStock": true,
     "specs": [],
@@ -40264,7 +40264,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_f9e03dc8-b23c-44ef-9580-b9eee8cce194_large.png?v=1751211989"
     ],
     "inStock": true,
     "specs": [],
@@ -40282,7 +40282,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_747f41e8-2d46-412e-9976-b60b257eabc7_large.png?v=1751211988"
     ],
     "inStock": true,
     "specs": [],
@@ -40300,7 +40300,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_540611c1-4083-4d05-a480-2e9ff206e8bf_large.png?v=1751211987"
     ],
     "inStock": true,
     "specs": [],
@@ -40318,7 +40318,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_7df6ca6e-3b1e-4b60-b22b-60ddbf0364b3_large.png?v=1751211987"
     ],
     "inStock": true,
     "specs": [],
@@ -40336,7 +40336,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_b6742371-bf28-47a7-9f62-378b783984d1_large.png?v=1751211986"
     ],
     "inStock": true,
     "specs": [],
@@ -40354,7 +40354,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_44638cb7-828d-4411-8893-64ffeddefd44_large.png?v=1751211985"
     ],
     "inStock": true,
     "specs": [],
@@ -40372,7 +40372,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_39c44403-2330-42c3-818b-5ee3b83b8db0_large.png?v=1751211985"
     ],
     "inStock": true,
     "specs": [],
@@ -40390,7 +40390,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_15bdd19c-4682-4947-92bf-d99b8349dcac_large.png?v=1751211984"
     ],
     "inStock": true,
     "specs": [],
@@ -40408,7 +40408,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_3cfd53f7-5bc0-4a84-bb5a-51d46732b2ae_large.png?v=1751211983"
     ],
     "inStock": true,
     "specs": [],
@@ -40426,7 +40426,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_87a4f255-28fd-4e99-aa42-8455da9a8612_large.png?v=1751211982"
     ],
     "inStock": true,
     "specs": [],
@@ -40444,7 +40444,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_d3f4d86f-32c6-461f-9223-ec4d56386435_large.png?v=1751211982"
     ],
     "inStock": true,
     "specs": [],
@@ -40462,7 +40462,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_0a418b84-6ce4-4c2b-8cb6-3b93ec07a29a_large.png?v=1751211981"
     ],
     "inStock": true,
     "specs": [],
@@ -40480,7 +40480,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_71c1eee6-b89b-4faa-aeb6-68c813961026_large.png?v=1751211981"
     ],
     "inStock": true,
     "specs": [],
@@ -40498,7 +40498,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_f150952a-305a-486e-a190-ce768b85155a_large.png?v=1751211980"
     ],
     "inStock": true,
     "specs": [],
@@ -40516,7 +40516,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_d57e7375-2a1e-4f28-966a-6f3c853cf8bf_large.png?v=1751211980"
     ],
     "inStock": true,
     "specs": [],
@@ -40534,7 +40534,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_ff0f9805-2988-48f2-992f-754252938dc9_large.png?v=1751211979"
     ],
     "inStock": true,
     "specs": [],
@@ -40552,7 +40552,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_ad81bffd-902a-48e6-95d7-5f6c1d69085b_large.png?v=1751211979"
     ],
     "inStock": true,
     "specs": [],
@@ -40570,7 +40570,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_d18b631d-2e43-4a20-80c4-53a19e27371b_large.png?v=1751211978"
     ],
     "inStock": true,
     "specs": [],
@@ -40588,7 +40588,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_512b45af-7cc3-4003-a255-997e8ee17258_large.png?v=1751211977"
     ],
     "inStock": true,
     "specs": [],
@@ -40606,7 +40606,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_29afbca0-8da7-4872-a949-2a6b8286d63d_large.png?v=1751211976"
     ],
     "inStock": true,
     "specs": [],
@@ -40624,7 +40624,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_c73102da-9e7c-4208-bf77-3ed8c05f1a06_large.png?v=1751211976"
     ],
     "inStock": true,
     "specs": [],
@@ -40642,7 +40642,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_6b29e1fe-b315-49c7-ac8d-7aabd9135ef0_large.png?v=1751211975"
     ],
     "inStock": true,
     "specs": [],
@@ -40660,7 +40660,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_590df064-e11f-43ee-b64e-5b8abeb3d966_large.png?v=1751211974"
     ],
     "inStock": true,
     "specs": [],
@@ -40678,7 +40678,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_666cc831-6872-4af7-b1cb-1ee8e309d8d1_large.png?v=1751211974"
     ],
     "inStock": true,
     "specs": [],
@@ -40696,7 +40696,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_91fd3593-0fb4-4e4e-a9b6-5693e8e781a3_large.png?v=1751211973"
     ],
     "inStock": true,
     "specs": [],
@@ -40714,7 +40714,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_3c39a0a0-614e-46bb-94b1-c7dffb38de7f_large.png?v=1751211973"
     ],
     "inStock": true,
     "specs": [],
@@ -40732,7 +40732,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_dfec7e09-1e5e-41e7-9fbf-fd21cd230789_large.png?v=1751211972"
     ],
     "inStock": true,
     "specs": [],
@@ -40750,7 +40750,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_ca9d46b2-e51d-49ac-a7c3-7ef7d5e02e14_large.png?v=1751211972"
     ],
     "inStock": true,
     "specs": [],
@@ -40768,7 +40768,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_6c78c0a7-1e40-4af7-9f9f-3809e2061ae4_large.png?v=1751211971"
     ],
     "inStock": true,
     "specs": [],
@@ -40786,7 +40786,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_7889cbd7-3392-405d-8bed-ad1d7c8f0651_large.png?v=1751211970"
     ],
     "inStock": true,
     "specs": [],
@@ -40804,7 +40804,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_85fe6925-b55f-4898-b4fc-46e1cb7ee419_large.png?v=1751211969"
     ],
     "inStock": true,
     "specs": [],
@@ -40822,7 +40822,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_227d10da-2df8-440e-b075-ae5880a81cac_large.png?v=1751211969"
     ],
     "inStock": true,
     "specs": [],
@@ -40840,7 +40840,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_3cf0888f-5bb0-434e-a289-37964ed12ca5_large.png?v=1751211968"
     ],
     "inStock": true,
     "specs": [],
@@ -40858,7 +40858,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK30A_a47ca4fe-3714-43af-be21-3f96d618b14c_large.png?v=1751211968"
     ],
     "inStock": true,
     "specs": [],
@@ -40876,7 +40876,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_large.png?v=1751211967"
     ],
     "inStock": true,
     "specs": [],
@@ -40894,7 +40894,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_884eabaa-b32c-4e46-ae89-532c45f7e62e_large.png?v=1751211966"
     ],
     "inStock": true,
     "specs": [],
@@ -40912,7 +40912,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_9d1bec93-c238-46c8-ad61-8e8db74a4f7a_large.png?v=1751211966"
     ],
     "inStock": true,
     "specs": [],
@@ -40930,7 +40930,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_edc99412-6ffd-4a11-9bd8-9e769df77af9_large.png?v=1751211965"
     ],
     "inStock": true,
     "specs": [],
@@ -40948,7 +40948,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_619c5031-94bc-47da-a2ce-6b12dad47880_large.png?v=1751211965"
     ],
     "inStock": true,
     "specs": [],
@@ -40966,7 +40966,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_cd12dd88-d92d-4155-8530-0eff63f37aa4_large.png?v=1751211964"
     ],
     "inStock": true,
     "specs": [],
@@ -40984,7 +40984,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_199d7c70-ad76-4f8a-a113-d3d900dc66f8_large.png?v=1751211963"
     ],
     "inStock": true,
     "specs": [],
@@ -41002,7 +41002,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_fd433bfb-62e2-4d29-ae60-e2877a198fa3_large.png?v=1751211962"
     ],
     "inStock": true,
     "specs": [],
@@ -41020,7 +41020,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_7ab0160d-f80c-48f8-b1c6-86f7768ef7af_large.png?v=1751211961"
     ],
     "inStock": true,
     "specs": [],
@@ -41038,7 +41038,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_62b52770-c6f2-4d5b-a015-241329992cf8_large.png?v=1751211961"
     ],
     "inStock": true,
     "specs": [],
@@ -41056,7 +41056,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_12e591a5-0475-40ef-8f80-2c20692fcdb7_large.png?v=1751211960"
     ],
     "inStock": true,
     "specs": [],
@@ -41074,7 +41074,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_4e435573-dabe-40ba-8716-32ba08faeaab_large.png?v=1751211960"
     ],
     "inStock": true,
     "specs": [],
@@ -41092,7 +41092,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_99b5c749-e542-454d-a0b5-9692d71598bd_large.png?v=1751211959"
     ],
     "inStock": true,
     "specs": [],
@@ -41110,7 +41110,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_8b544e64-4db7-4585-827b-8e5f6e975323_large.png?v=1751211959"
     ],
     "inStock": true,
     "specs": [],
@@ -41128,7 +41128,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_21a04881-3869-4029-af60-7c5a73bb47cc_large.png?v=1751211958"
     ],
     "inStock": true,
     "specs": [],
@@ -41146,7 +41146,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_d58780d8-aa88-4438-96e6-0d7cd293a3b8_large.png?v=1751211958"
     ],
     "inStock": true,
     "specs": [],
@@ -41164,7 +41164,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_0b516fbc-e86a-41c3-a62f-a9756bcfdd08_large.png?v=1751211957"
     ],
     "inStock": true,
     "specs": [],
@@ -41182,7 +41182,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EX9CK32A_2e74c2f9-3bc7-434a-a840-270f2d9e7126_large.png?v=1751211956"
     ],
     "inStock": true,
     "specs": [],
@@ -41200,7 +41200,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_large.png?v=1611324264"
     ],
     "inStock": true,
     "specs": [],
@@ -41218,7 +41218,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_e4b2dd33-4f0a-421e-a082-e2f49df3996a_large.png?v=1611324265"
     ],
     "inStock": true,
     "specs": [],
@@ -41236,7 +41236,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_28864505-8bbf-44ae-8f09-fa1aed381615_large.png?v=1611324266"
     ],
     "inStock": true,
     "specs": [],
@@ -41254,7 +41254,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_cf7d120b-2529-4735-96e2-91d7cd1a099b_large.png?v=1611324268"
     ],
     "inStock": true,
     "specs": [],
@@ -41272,7 +41272,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_491f0702-b22e-4b1b-9e14-ee2c129353e5_large.png?v=1611324269"
     ],
     "inStock": true,
     "specs": [],
@@ -41290,7 +41290,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_f63491a1-192f-463f-b618-87de752d3dd8_large.png?v=1611324270"
     ],
     "inStock": true,
     "specs": [],
@@ -41308,7 +41308,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_73c82621-f826-420a-b308-03ca825416b9_large.png?v=1611324271"
     ],
     "inStock": true,
     "specs": [],
@@ -41326,7 +41326,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_3d88c2ee-cbe5-4e45-9320-5dd8acc8ec4c_large.png?v=1611324273"
     ],
     "inStock": true,
     "specs": [],
@@ -41344,7 +41344,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_7c1e03f9-7300-4104-932e-16b7bd36b2e8_large.png?v=1611324275"
     ],
     "inStock": true,
     "specs": [],
@@ -41362,7 +41362,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_395b247a-5b2b-4ade-bb25-86fd2c4e6646_large.png?v=1611324276"
     ],
     "inStock": true,
     "specs": [],
@@ -41380,7 +41380,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_98c62f7a-4306-49ba-be21-cf327db3d355_large.png?v=1611324277"
     ],
     "inStock": true,
     "specs": [],
@@ -41398,7 +41398,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_2ef88e4f-c24c-4420-8559-db07fb880baf_large.png?v=1611324278"
     ],
     "inStock": true,
     "specs": [],
@@ -41416,7 +41416,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_46a56c4f-7f5a-43d2-a27e-4b232914f0f7_large.png?v=1611324280"
     ],
     "inStock": true,
     "specs": [],
@@ -41434,7 +41434,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_7534df90-2f64-4972-8042-3ce51a63329f_large.png?v=1611324281"
     ],
     "inStock": true,
     "specs": [],
@@ -41452,7 +41452,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_b1952ddc-3811-4cfe-910c-b2f23c0b724e_large.png?v=1611324282"
     ],
     "inStock": true,
     "specs": [],
@@ -41470,7 +41470,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_36fcbcea-a4b1-43ba-8489-48883cd77db5_large.png?v=1611324283"
     ],
     "inStock": true,
     "specs": [],
@@ -41488,7 +41488,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_20cba204-fdf1-42f4-b3be-4d2e903a35f7_large.png?v=1611324284"
     ],
     "inStock": true,
     "specs": [],
@@ -41506,7 +41506,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c3ecade1-dc6d-4296-ac64-1872a63a3b00_large.png?v=1611324286"
     ],
     "inStock": true,
     "specs": [],
@@ -41524,7 +41524,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_b656b200-4aef-4a83-8353-8de17657624e_large.png?v=1611324288"
     ],
     "inStock": true,
     "specs": [],
@@ -41542,7 +41542,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_358d7f84-ca1e-4a13-80b9-dba4ea677b9b_large.png?v=1611324289"
     ],
     "inStock": true,
     "specs": [],
@@ -41560,7 +41560,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_e7fb3d13-8416-40db-b86a-0944b87e3d1c_large.png?v=1611324291"
     ],
     "inStock": true,
     "specs": [],
@@ -41578,7 +41578,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_493430b0-0b70-4c7e-84f3-914b5fa53fa9_large.png?v=1611324292"
     ],
     "inStock": true,
     "specs": [],
@@ -41596,7 +41596,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_d6dae351-4acb-4355-90f8-ae31c04e5bb1_large.png?v=1611324293"
     ],
     "inStock": true,
     "specs": [],
@@ -41614,7 +41614,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_56cda658-daf5-4314-a719-55a3593ee7d4_large.png?v=1611324294"
     ],
     "inStock": true,
     "specs": [],
@@ -41632,7 +41632,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_d685da7a-949d-4ea2-9eae-5c5615f16300_large.png?v=1611324296"
     ],
     "inStock": true,
     "specs": [],
@@ -41650,7 +41650,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_1e3fe18c-03cd-4a49-ad9b-5501cfdc61bd_large.png?v=1611324297"
     ],
     "inStock": true,
     "specs": [],
@@ -41668,7 +41668,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_e3504446-c8c3-4a6c-aefd-6b54839519de_large.png?v=1611324298"
     ],
     "inStock": true,
     "specs": [],
@@ -41686,7 +41686,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_7f1ce596-3300-4d76-8b91-d0c6d8d13867_large.png?v=1611324299"
     ],
     "inStock": true,
     "specs": [],
@@ -41704,7 +41704,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_f41fcf5e-726e-42bc-8146-65039b2c4f72_large.png?v=1611324301"
     ],
     "inStock": true,
     "specs": [],
@@ -41722,7 +41722,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c43f088a-6e35-4af3-a72b-a3545ab096c9_large.png?v=1611324304"
     ],
     "inStock": true,
     "specs": [],
@@ -41740,7 +41740,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_a95139c6-1e43-48f2-9e0b-6c2418416372_large.png?v=1611324305"
     ],
     "inStock": true,
     "specs": [],
@@ -41758,7 +41758,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_14afcb25-de99-4d48-8987-a5b196874428_large.png?v=1611324312"
     ],
     "inStock": true,
     "specs": [],
@@ -41776,7 +41776,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_92553999-3206-41dd-b96b-e8bd659437ea_large.png?v=1611324314"
     ],
     "inStock": true,
     "specs": [],
@@ -41794,7 +41794,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_59d25743-11de-4b3a-876c-1e8593bc2b87_large.png?v=1611324316"
     ],
     "inStock": true,
     "specs": [],
@@ -41812,7 +41812,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_304243bd-7f4f-4f0e-a41d-eba7dc808a5d_large.png?v=1611324317"
     ],
     "inStock": true,
     "specs": [],
@@ -41830,7 +41830,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_0e9fcb86-177d-4ce8-8bf6-ad4922f6c09c_large.png?v=1611324319"
     ],
     "inStock": true,
     "specs": [],
@@ -41848,7 +41848,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_708d2eae-bfef-4500-8e05-73c3fff51d0d_large.png?v=1611324321"
     ],
     "inStock": true,
     "specs": [],
@@ -41866,7 +41866,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_299234a3-6b1d-4dd2-adf3-5d6f02c69eb2_large.png?v=1611324322"
     ],
     "inStock": true,
     "specs": [],
@@ -41884,7 +41884,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_8e5584b2-2826-4452-b2cd-21372b18f8a5_large.png?v=1611324323"
     ],
     "inStock": true,
     "specs": [],
@@ -41902,7 +41902,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_4ba9e643-59b2-4861-b525-afdcde2d8cf1_large.png?v=1611324324"
     ],
     "inStock": true,
     "specs": [],
@@ -41920,7 +41920,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_9c59af4b-ab5c-4606-89b0-df75d5ce1296_large.png?v=1611324326"
     ],
     "inStock": true,
     "specs": [],
@@ -41938,7 +41938,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_63d53885-cb28-4764-8440-c66785402b53_large.png?v=1611324328"
     ],
     "inStock": true,
     "specs": [],
@@ -41956,7 +41956,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_790729cf-744d-40ec-9a02-de70d553f377_large.png?v=1611324329"
     ],
     "inStock": true,
     "specs": [],
@@ -41974,7 +41974,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_355eb62f-b006-4b96-b9ab-587bc605f01e_large.png?v=1611324330"
     ],
     "inStock": true,
     "specs": [],
@@ -41992,7 +41992,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_7f974fa5-69a6-4872-84c7-326b80204131_large.png?v=1611324331"
     ],
     "inStock": true,
     "specs": [],
@@ -42010,7 +42010,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_9c8f5586-9420-4dd1-b374-fda839ffd17f_large.png?v=1611324333"
     ],
     "inStock": true,
     "specs": [],
@@ -42028,7 +42028,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c7c18dbc-fc0e-43ab-906a-5376ca31d19f_large.png?v=1611324334"
     ],
     "inStock": true,
     "specs": [],
@@ -42046,7 +42046,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_2952ef3c-79d3-4496-a599-728eb79ab129_large.png?v=1611324335"
     ],
     "inStock": true,
     "specs": [],
@@ -42064,7 +42064,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_ed7e9e3f-3846-4fa9-81c5-f9cfdf2e6980_large.png?v=1611324336"
     ],
     "inStock": true,
     "specs": [],
@@ -42082,7 +42082,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c1c6cb96-554f-4d6a-ad56-54d0e78fc0b8_large.png?v=1611324337"
     ],
     "inStock": true,
     "specs": [],
@@ -42100,7 +42100,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_70c1eac9-935f-42cb-8399-da3e06b1062c_large.png?v=1611324339"
     ],
     "inStock": true,
     "specs": [],
@@ -42118,7 +42118,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_290f0ea8-a55b-40aa-a879-cdd2cf07b55c_large.png?v=1611324341"
     ],
     "inStock": true,
     "specs": [],
@@ -42136,7 +42136,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c7201d90-1f60-4a77-b6af-4816a4307b8d_large.png?v=1611324342"
     ],
     "inStock": true,
     "specs": [],
@@ -42154,7 +42154,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_9f6f5c75-ba36-4e99-9863-cce42f4351d0_large.png?v=1611324343"
     ],
     "inStock": true,
     "specs": [],
@@ -42172,7 +42172,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_8f542a97-a788-4b5c-b706-eb0565480673_large.png?v=1611324345"
     ],
     "inStock": true,
     "specs": [],
@@ -42190,7 +42190,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_a57ab071-7684-4c1d-8267-2074558c47c6_large.png?v=1611324346"
     ],
     "inStock": true,
     "specs": [],
@@ -42208,7 +42208,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_698489d1-b543-464f-9b0f-49917bc604ea_large.png?v=1611324347"
     ],
     "inStock": true,
     "specs": [],
@@ -42226,7 +42226,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_db9ddcd1-5145-4a3a-8f5c-b652e067eab8_large.png?v=1611324348"
     ],
     "inStock": true,
     "specs": [],
@@ -42244,7 +42244,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_9096bdd2-8de5-4158-b262-a09bc5660b53_large.png?v=1611324349"
     ],
     "inStock": true,
     "specs": [],
@@ -42262,7 +42262,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_e221cd89-0ceb-4a67-be3f-031413525b68_large.png?v=1611324351"
     ],
     "inStock": true,
     "specs": [],
@@ -42280,7 +42280,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_a63a5664-accf-4305-8a04-fc6bbc628b03_large.png?v=1611324352"
     ],
     "inStock": true,
     "specs": [],
@@ -42298,7 +42298,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_6bbcf132-19aa-41ef-99a0-cbede9f6594f_large.png?v=1611324357"
     ],
     "inStock": true,
     "specs": [],
@@ -42316,7 +42316,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_2bb8c0ab-86ea-4f02-ab5a-90bb37d52e43_large.png?v=1611324359"
     ],
     "inStock": true,
     "specs": [],
@@ -42334,7 +42334,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_0a0f9733-ba0e-46a4-99ad-150b5f23b89e_large.png?v=1611324361"
     ],
     "inStock": true,
     "specs": [],
@@ -42352,7 +42352,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_9f669738-3495-4fa8-80c9-30e3ee0e5052_large.png?v=1611324362"
     ],
     "inStock": true,
     "specs": [],
@@ -42370,7 +42370,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c70f8c0b-661d-4c2d-895e-1e14e1237cc7_large.png?v=1611324363"
     ],
     "inStock": true,
     "specs": [],
@@ -42388,7 +42388,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_5e559997-8422-4a67-85e0-f9d9cb8e3a07_large.png?v=1611324364"
     ],
     "inStock": true,
     "specs": [],
@@ -42406,7 +42406,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_f1531d91-687c-4bfb-b13a-16b9171bc237_large.png?v=1611324365"
     ],
     "inStock": true,
     "specs": [],
@@ -42424,7 +42424,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_016b6df0-8a80-4c9d-af7e-b0c33eeb6844_large.png?v=1611324366"
     ],
     "inStock": true,
     "specs": [],
@@ -42442,7 +42442,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_3d65234a-03f7-4703-95bb-cfe2db176466_large.png?v=1611324368"
     ],
     "inStock": true,
     "specs": [],
@@ -42460,7 +42460,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_1bd55458-1e1f-4294-a0db-b53b5c4a70b0_large.png?v=1611324369"
     ],
     "inStock": true,
     "specs": [],
@@ -42478,7 +42478,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_08de1d94-dd91-48fb-ac02-e22f97762ed3_large.png?v=1611324370"
     ],
     "inStock": true,
     "specs": [],
@@ -42496,7 +42496,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_354a4a68-0722-45c4-9781-553579641f59_large.png?v=1611324372"
     ],
     "inStock": true,
     "specs": [],
@@ -42514,7 +42514,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_3d22bbb8-fed3-4619-872a-ab5a5e0cdec4_large.png?v=1611324374"
     ],
     "inStock": true,
     "specs": [],
@@ -42532,7 +42532,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_a7104e4a-79f9-417f-9b23-420debdf97f6_large.png?v=1611324375"
     ],
     "inStock": true,
     "specs": [],
@@ -42550,7 +42550,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_d92d55a5-5e51-4eb7-90c0-24db247381f3_large.png?v=1611324377"
     ],
     "inStock": true,
     "specs": [],
@@ -42568,7 +42568,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c4c47cb4-09fb-47a1-a922-754faa63372a_large.png?v=1611324378"
     ],
     "inStock": true,
     "specs": [],
@@ -42586,7 +42586,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_7dd2f628-49e3-40b8-9d7f-b93597dafe38_large.png?v=1611324379"
     ],
     "inStock": true,
     "specs": [],
@@ -42604,7 +42604,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_6f5069f5-b223-4b8e-8886-83d9f2925f5e_large.png?v=1611324380"
     ],
     "inStock": true,
     "specs": [],
@@ -42622,7 +42622,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_26622d97-0ab4-4da5-8474-050c947077d9_large.png?v=1611324382"
     ],
     "inStock": true,
     "specs": [],
@@ -42640,7 +42640,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_ef734e4a-9494-4d8f-adfa-59dd2b1893e9_large.png?v=1611324383"
     ],
     "inStock": true,
     "specs": [],
@@ -42658,7 +42658,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_1629acd0-b9c5-4cb7-be47-1bb0c9224d4e_large.png?v=1611324384"
     ],
     "inStock": true,
     "specs": [],
@@ -42676,7 +42676,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_44fcb04a-6818-4bae-954b-a24a22cf6f81_large.png?v=1611324385"
     ],
     "inStock": true,
     "specs": [],
@@ -42694,7 +42694,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_31ff9e8e-2801-41cc-9856-3e85e353e7e0_large.png?v=1611324386"
     ],
     "inStock": true,
     "specs": [],
@@ -42712,7 +42712,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_5cf809a9-1624-419f-bb23-0fc8e086ec00_large.png?v=1611324389"
     ],
     "inStock": true,
     "specs": [],
@@ -42730,7 +42730,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_cd07f4cb-4125-4a4e-b302-db63773c849e_large.png?v=1611324390"
     ],
     "inStock": true,
     "specs": [],
@@ -42748,7 +42748,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_a6830d7c-caae-45ac-9e34-e09322eb624f_large.png?v=1611324391"
     ],
     "inStock": true,
     "specs": [],
@@ -42766,7 +42766,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_bc0d63f4-4d13-49a3-bc1d-37b489a99df2_large.png?v=1611324392"
     ],
     "inStock": true,
     "specs": [],
@@ -42784,7 +42784,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_a7594583-3367-4996-af0a-e24621ada275_large.png?v=1611324394"
     ],
     "inStock": true,
     "specs": [],
@@ -42802,7 +42802,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_27643739-efc1-433c-94ca-6fb47b3868e9_large.png?v=1611324395"
     ],
     "inStock": true,
     "specs": [],
@@ -42820,7 +42820,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_db0463e3-55c4-404b-ae9c-4c2a1cc3248c_large.png?v=1611324396"
     ],
     "inStock": true,
     "specs": [],
@@ -42838,7 +42838,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_228dde16-2667-41f5-ba6f-b944041b4910_large.png?v=1611324398"
     ],
     "inStock": true,
     "specs": [],
@@ -42856,7 +42856,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_25b64ecf-e9f9-4a9c-95f5-a9e66082ac5f_large.png?v=1611324399"
     ],
     "inStock": true,
     "specs": [],
@@ -42874,7 +42874,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_f018ef29-c4fb-4174-8af2-dde7298a83ba_large.png?v=1611324400"
     ],
     "inStock": true,
     "specs": [],
@@ -42892,7 +42892,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_98e9c568-87b0-4d8b-bcdd-e96646a8b0e8_large.png?v=1611324402"
     ],
     "inStock": true,
     "specs": [],
@@ -42910,7 +42910,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_1fda7731-ea36-4166-a852-6b3617c19dec_large.png?v=1611324405"
     ],
     "inStock": true,
     "specs": [],
@@ -42928,7 +42928,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_701cbf92-8782-4b44-9de6-062105ebdc20_large.png?v=1611324407"
     ],
     "inStock": true,
     "specs": [],
@@ -42946,7 +42946,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_737acd9b-a07b-4a3a-974a-2d467b1b570f_large.png?v=1611324409"
     ],
     "inStock": true,
     "specs": [],
@@ -42964,7 +42964,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_5911a2bf-9d75-49e4-9e56-0222aed75122_large.png?v=1611324410"
     ],
     "inStock": true,
     "specs": [],
@@ -42982,7 +42982,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c4dcfdb0-d643-47e5-bf9b-827a533d1c9f_large.png?v=1611324411"
     ],
     "inStock": true,
     "specs": [],
@@ -43000,7 +43000,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_626cb585-85f1-46d3-9bcb-828e623acc76_large.png?v=1611324412"
     ],
     "inStock": true,
     "specs": [],
@@ -43018,7 +43018,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_277983ca-8861-4545-8e14-6105718a3255_large.png?v=1611324414"
     ],
     "inStock": true,
     "specs": [],
@@ -43036,7 +43036,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_e198e0e8-5bb6-4e77-96f5-34766311a823_large.png?v=1611324415"
     ],
     "inStock": true,
     "specs": [],
@@ -43054,7 +43054,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_c276aef0-dc75-4a4b-9f7c-f1689786cbf6_large.png?v=1611324416"
     ],
     "inStock": true,
     "specs": [],
@@ -43072,7 +43072,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_707ca22d-5eb8-4197-a6d7-56f6aa4bc60c_large.png?v=1611324417"
     ],
     "inStock": true,
     "specs": [],
@@ -43090,7 +43090,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_6e65f54f-72f7-44bc-88ab-91e042b123ee_large.png?v=1611324419"
     ],
     "inStock": true,
     "specs": [],
@@ -43108,7 +43108,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_f3b216c3-da1d-4f87-a352-c1a6eb18139c_large.png?v=1611324421"
     ],
     "inStock": true,
     "specs": [],
@@ -43126,7 +43126,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_4e7c4f65-40d6-474d-9b40-61938451b098_large.png?v=1611324422"
     ],
     "inStock": true,
     "specs": [],
@@ -43144,7 +43144,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_b42ae7e4-3983-478f-b0d8-b4abc3d6e8e9_large.png?v=1611324423"
     ],
     "inStock": true,
     "specs": [],
@@ -43162,7 +43162,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_4ec20551-9aa0-4b16-897a-97b26923b123_large.png?v=1611324425"
     ],
     "inStock": true,
     "specs": [],
@@ -43180,7 +43180,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_cf86f808-b053-4c95-9834-d6ad07e5a483_large.png?v=1611324426"
     ],
     "inStock": true,
     "specs": [],
@@ -43198,7 +43198,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_5c2bc81b-bd68-4446-8c53-17c0ef689064_large.png?v=1611324427"
     ],
     "inStock": true,
     "specs": [],
@@ -43216,7 +43216,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_d9af9457-0e8a-4b08-92da-e09d94e15031_large.png?v=1611324428"
     ],
     "inStock": true,
     "specs": [],
@@ -43234,7 +43234,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_cf251abd-c52c-494f-bbd4-02a1a1d9ac2d_large.png?v=1611324430"
     ],
     "inStock": true,
     "specs": [],
@@ -43252,7 +43252,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_969f1618-fe0c-4a16-927e-0618ad103b79_large.png?v=1611324431"
     ],
     "inStock": true,
     "specs": [],
@@ -43270,7 +43270,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_b5a03e83-1be7-4ac9-bee4-3a52c8c09d35_large.png?v=1611324432"
     ],
     "inStock": true,
     "specs": [],
@@ -43288,7 +43288,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_349de22e-de0b-4ba4-a9a1-7a90276bed3e_large.png?v=1611324433"
     ],
     "inStock": true,
     "specs": [],
@@ -43306,7 +43306,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_4d0da735-82bc-4f42-b79f-76e058e0e196_large.png?v=1611324436"
     ],
     "inStock": true,
     "specs": [],
@@ -43324,7 +43324,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_119b4332-4e95-42c4-93e3-44dfc350e787_large.png?v=1611324437"
     ],
     "inStock": true,
     "specs": [],
@@ -43342,7 +43342,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_6f9c4a9f-75d6-4b4c-ba9e-614c7d7985db_large.png?v=1611324438"
     ],
     "inStock": true,
     "specs": [],
@@ -43360,7 +43360,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_ebd61d0f-4700-47cc-be91-33c33304aaff_large.png?v=1611324439"
     ],
     "inStock": true,
     "specs": [],
@@ -43378,7 +43378,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_93e5fd6b-7a4f-4cb9-bbdf-829c653ddac5_large.png?v=1611324440"
     ],
     "inStock": true,
     "specs": [],
@@ -43396,7 +43396,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_7a9b8a44-54ef-4435-8dbd-a4c541c65d78_large.png?v=1611324441"
     ],
     "inStock": true,
     "specs": [],
@@ -43414,7 +43414,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_80d9bd6c-d32a-4a32-8e80-f06a4d99c1b7_large.png?v=1611324442"
     ],
     "inStock": true,
     "specs": [],
@@ -43432,7 +43432,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_cc45e276-6fcf-412c-8fd1-2dc9e2291d47_large.png?v=1611324444"
     ],
     "inStock": true,
     "specs": [],
@@ -43450,7 +43450,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_43e28171-a398-46e1-949c-fcf1a3e447ea_large.png?v=1611324445"
     ],
     "inStock": true,
     "specs": [],
@@ -43468,7 +43468,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_96301827-64c3-4127-92bd-a735c2f67bfb_large.png?v=1611324446"
     ],
     "inStock": true,
     "specs": [],
@@ -43486,7 +43486,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_7bf0d92b-3eb2-43be-a467-08e290b6370d_large.png?v=1611324448"
     ],
     "inStock": true,
     "specs": [],
@@ -43504,7 +43504,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_4ae7d5ae-5d7a-4722-a0bf-c2640d9aa30e_large.png?v=1611324451"
     ],
     "inStock": true,
     "specs": [],
@@ -43522,7 +43522,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_0a4f67a2-5954-4fc2-a7a7-9adbcf2ecbc8_large.png?v=1611324452"
     ],
     "inStock": true,
     "specs": [],
@@ -43540,7 +43540,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_ebf86f25-f22c-48f4-b534-9233e937b8c7_large.png?v=1611324453"
     ],
     "inStock": true,
     "specs": [],
@@ -43558,7 +43558,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Ex9CMS6_12AMiniature_Contactor_6912abe3-298b-4bb3-9999-750d50cb11db_large.png?v=1611324454"
     ],
     "inStock": true,
     "specs": [],
@@ -43576,7 +43576,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_large.png?v=1611083777"
     ],
     "inStock": true,
     "specs": [],
@@ -43594,7 +43594,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_d0ff2627-5dd0-490d-8fc2-f830d78fa884_large.png?v=1611083778"
     ],
     "inStock": true,
     "specs": [],
@@ -43612,7 +43612,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_7efe2cf8-0b60-4d05-9811-2712cbb4b74c_large.png?v=1611083779"
     ],
     "inStock": true,
     "specs": [],
@@ -43630,7 +43630,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_49757ffd-e84c-444d-b26b-906ae9263da0_large.png?v=1611083780"
     ],
     "inStock": true,
     "specs": [],
@@ -43648,7 +43648,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_049048e1-756a-4c0a-8079-d229af84ee53_large.png?v=1611083781"
     ],
     "inStock": true,
     "specs": [],
@@ -43666,7 +43666,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_e4cdb3e7-9d74-42cf-a689-8291e61b6e28_large.png?v=1611083782"
     ],
     "inStock": true,
     "specs": [],
@@ -43684,7 +43684,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_6ef3433e-fb97-4182-b38c-32409e0986bd_large.png?v=1611083783"
     ],
     "inStock": true,
     "specs": [],
@@ -43702,7 +43702,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_d2e7fb9f-3f28-47fe-b874-526161a6951a_large.png?v=1611083784"
     ],
     "inStock": true,
     "specs": [],
@@ -43720,7 +43720,7 @@ export const noarkcontactorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Surge_Suppressor_1404761f-3e65-453c-b635-139b6a9170a5_large.png?v=1611083785"
     ],
     "inStock": true,
     "specs": [],

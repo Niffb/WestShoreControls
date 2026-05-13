@@ -16,7 +16,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_large.jpg?v=1604684918"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_adc16d12-2dc7-4052-b1c7-253798828934_large.jpg?v=1604684920"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_54560163-5ab6-4a7c-b63e-96721e27bd55_large.jpg?v=1604684919"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_ad379199-5abe-4b2c-9918-428524a0e025_large.jpg?v=1604684921"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_02f322ed-d9e4-405c-a451-df0ce889e781_large.jpg?v=1604684921"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_dd2e22e1-3694-482f-a76f-e0a6532b792d_large.jpg?v=1604684922"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_567fd2fd-3008-4c18-92c9-7480380df3dd_large.jpg?v=1604684923"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_ffa0bf9b-8e8a-43d4-9534-155347cb3620_large.jpg?v=1607516321"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_b611530f-a6f5-40df-84d2-598f449b275d_large.jpg?v=1607516322"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_f5330547-1752-4585-bd6a-f5a9eeccfa6a_large.jpg?v=1607516323"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_4dc5d8d9-41e4-4ab6-9727-d5a11c5a41b4_large.jpg?v=1607516324"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_b68dd9c8-4350-40de-9d90-0c828f316ff2_large.jpg?v=1607516325"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_f84cb192-1291-404a-83cf-be50aef6c7ec_large.jpg?v=1607516327"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_4f0f4fef-d905-4b64-9888-3f596f1b5f88_large.jpg?v=1607516328"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_73ca3235-e997-4af4-acd3-e029ea96c0c9_large.jpg?v=1607516329"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_cb867ac5-f66f-45cd-8cc5-a837a3cd1878_large.jpg?v=1607516330"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_e198fb18-f495-43d1-9165-0f250dd5a703_large.jpg?v=1607516331"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_48936fb3-51f8-440f-a388-8a6e43378949_large.jpg?v=1607518320"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_86a2d3b7-4fff-49be-b2da-9aa4ba82a726_large.jpg?v=1607518321"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_9d698307-f9b3-4454-8843-cf4cac3a4cfc_large.jpg?v=1607518322"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_9848fa8f-269e-450c-ac7e-9994480b0678_large.jpg?v=1607518324"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_c4f9fe5f-dfc8-43ff-8a70-4f01afc44fb9_large.jpg?v=1607518325"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_99c851ba-0e13-4057-9ac9-69d8909bf95c_large.jpg?v=1607518326"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_8b79b2d2-d9b5-43d7-b191-59793dd2bee3_large.jpg?v=1607518328"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_8270b2cd-2986-469e-957f-5cc5d95a2bed_large.jpg?v=1607518329"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_f9ed2887-77b6-4bfc-8cc9-ab2e9c10ecd8_large.jpg?v=1607518331"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const generalelectricmanual_motor_startersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Manual_Motor_Starter_9c1b1d04-77d9-4c88-8c1f-306cc4b63b1d_large.jpg?v=1607518332"
     ],
     "inStock": true,
     "specs": [],

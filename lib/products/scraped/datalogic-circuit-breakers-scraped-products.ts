@@ -16,7 +16,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_large.jpg?v=1606928184"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_e5325ba2-fde4-4871-a0ff-c77595dfc499_large.jpg?v=1606928185"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_263a957d-3d92-41ed-8dc0-2019d396da02_large.jpg?v=1606928186"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_cebbf761-b57b-4533-98f7-0445ce081340_large.jpg?v=1606928187"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c9f33f20-44af-4af5-84c4-fb991f2b259d_large.jpg?v=1606928188"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_240b895b-5938-4ebf-9b78-b06d4239cf3e_large.jpg?v=1606928190"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_5b1a87ec-145a-45f4-93b0-c9ef9fdd89d2_large.jpg?v=1606928191"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_24661a1a-b1a8-44a2-a059-6bcd21c33fb1_large.jpg?v=1606928192"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_cfe91a8b-ba76-4f49-937c-ecc83a765ccd_large.jpg?v=1606928193"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_66026187-db7e-44d8-bf1b-5ae58ad3892a_large.jpg?v=1606928195"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_da03abec-ca21-46e3-83cf-b1a29d495c55_large.jpg?v=1606928196"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3e0d92c3-41c5-430e-b679-5c83dc085111_large.jpg?v=1606928197"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7290e217-6fbe-4580-9b1a-ae430b77d502_large.jpg?v=1606928198"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_dad70a22-8122-4f1e-8860-532f4b9839b0_large.jpg?v=1606928200"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_54ffeb5b-da08-4d0a-9a81-18fd4183e6f8_large.jpg?v=1606928201"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_9d837425-6cc8-433d-a043-012227607b13_large.jpg?v=1606928202"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_40bdf299-7c91-468c-9b45-511375225abc_large.jpg?v=1606928204"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_8ec4c4e9-1ce0-4d7e-8a09-ea8fd24312b0_large.jpg?v=1606928205"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_0a380861-bc0d-42e9-b40e-3561ab1e434f_large.jpg?v=1606928206"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_25766db6-74a1-4a2d-bbab-f248823abe2c_large.jpg?v=1606928207"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_e21799c4-bf49-4048-bae3-7224e1336c93_large.jpg?v=1606928208"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_647849bf-16f2-4613-9bb2-19df53051cd2_large.jpg?v=1606928209"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_43ec13c1-2531-4bc6-a125-52b53f3cd2bf_large.jpg?v=1606928211"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_986badb1-8fc2-4a84-beb2-877943212297_large.jpg?v=1606928212"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_609fa1a8-c76a-4a1a-966b-5a807dee894e_large.jpg?v=1606928213"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_8a10b35f-bc32-46ce-b3ef-9feab51b97e9_large.jpg?v=1606928214"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1f669e00-794f-4800-8bb6-e35ba7a7e033_large.jpg?v=1606928215"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_2a493cbe-b62d-42ac-bd93-424132c02f1c_large.jpg?v=1606928216"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_24e37801-8d2c-4f64-80c1-619a80a15528_large.jpg?v=1606928217"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_cef716c6-0ed5-46ff-9e39-fc9a70f67ac2_large.jpg?v=1606928219"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_294fa9c4-f3f6-4586-966c-b9c86bcb3d57_large.jpg?v=1606928220"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_bd3f6730-3a6f-4f2d-9582-7396a9036a4f_large.jpg?v=1606928221"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_65ea64fe-cf47-4e6a-8a30-59922de307ae_large.jpg?v=1606928222"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_02cf40fd-b699-4522-92a4-1d6691678863_large.jpg?v=1606928223"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_950b2dcb-451e-4db4-a043-ccb3ed105f0c_large.jpg?v=1606928224"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_4b632bec-fe3c-4075-b0ec-6454c2058f37_large.jpg?v=1606928226"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_65bfe635-109e-4ad2-9f4a-8495dd5c6ef8_large.jpg?v=1606928227"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_ea352620-b1a5-4645-93f6-f4b0445c73f7_large.jpg?v=1606928228"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_0d25d97d-7734-4eb6-8120-7b3eaa1c5253_large.jpg?v=1606928229"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_e802e2ad-7150-4a25-9514-9bd3c98130b5_large.jpg?v=1606928230"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7e9942e8-43b9-4e03-8bc6-ea91c6310c67_large.jpg?v=1606928231"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_5b2bfb5a-f5fa-43c7-a18c-52275f872d71_large.jpg?v=1606928233"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_97bdadaf-b87f-4d50-9c49-63a41e7e3642_large.jpg?v=1606928234"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_d142d1ae-310e-4d20-9f2d-a3b782c9a626_large.jpg?v=1606928235"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c77546c9-dcfc-4c41-9224-dd7f331a0217_large.jpg?v=1606928236"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_10add0ba-9703-4c85-8856-06291f3640d2_large.jpg?v=1606928237"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1979a393-752d-45ce-bf29-918b220a4c18_large.jpg?v=1606928238"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c0114db9-c7fd-4419-a977-c7e8971c6fae_large.jpg?v=1606928240"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f133930c-0e5e-47fa-9d1c-7a3e70db16e4_large.jpg?v=1606928241"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_e7c2c952-da96-41b9-a718-d501ccc2aeaf_large.jpg?v=1606928242"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_59785dcf-05a9-4e3b-b228-8674e68086dc_large.jpg?v=1606928243"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_fad80531-1446-468f-a573-41a5859f1ca4_large.jpg?v=1606928244"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_dc53b2b8-7b37-4b23-9bf7-8074d045bcce_large.jpg?v=1606928246"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b339c8ca-d19c-4629-8764-2925d71ec990_large.jpg?v=1606928247"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_fd665438-4cbd-49e6-bcac-f410020fc2bc_large.jpg?v=1606928248"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_8360706f-1b19-4b22-be25-a9b209b5974a_large.jpg?v=1606928249"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_47b6653f-31e1-46a3-aeb5-c5b623c0de3b_large.jpg?v=1606928250"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1932490d-beae-4863-9651-af20662db882_large.jpg?v=1606928252"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_447b2094-b5a3-4fd1-a80a-65082d227b40_large.jpg?v=1606928253"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_e2eca4d1-6de9-47a1-b619-f5c0db12c66c_large.jpg?v=1606928254"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7ae2d2bd-92d6-4fbe-b9d0-b577d9821813_large.jpg?v=1606928255"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_e3a20d8f-ef18-449c-a52e-f40a409dfc94_large.jpg?v=1606928256"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_aec44ad7-681c-439d-a49c-c813bd06c4a3_large.jpg?v=1606928258"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1d97f6df-cda8-43e1-985e-ce5f7ab5f2e0_large.jpg?v=1606928259"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1a40e221-327a-4ec7-8a52-8ab38feef493_large.jpg?v=1606928260"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_cfa1b1df-a52a-4201-b65f-87d4f019d65b_large.jpg?v=1606928261"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_bf89efb0-ea81-41ac-9c67-3df853a04ebb_large.jpg?v=1606928263"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_27569fbb-167b-468b-9b35-c2997d91f4a8_large.jpg?v=1606928264"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_512ab5b8-1d46-41e0-8132-02ccfccfeb93_large.jpg?v=1606928265"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c4df5ce7-e78b-4c2f-9931-4f81492b40e0_large.jpg?v=1606928266"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_151c4b23-9f2c-4cde-8cb1-55bc5ff3ce98_large.jpg?v=1606928267"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_21fb553a-4dba-45e2-8eac-c663d7e71bd3_large.jpg?v=1606928269"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_01e5f17f-b52c-46f1-9d93-12cc8a6b530e_large.jpg?v=1606928270"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_83b4dfb8-d7e8-4e64-b24b-92c47a095e97_large.jpg?v=1606928271"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_77addcca-82e0-4cc1-abce-7fe0159d1c6d_large.jpg?v=1606928272"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1aab31a7-7172-42e6-974f-a3c543f59467_large.jpg?v=1606928275"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7bba7b2a-92f1-40d0-b980-f63fa3cd8623_large.jpg?v=1606928276"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_8786c705-fb04-49e3-8ad9-bea0cad03cdb_large.jpg?v=1606928277"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1e5f7b54-2c99-4cf6-9f76-4f6740b8434c_large.jpg?v=1606928278"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_a289af08-962f-482b-8beb-b4b31c1e7ddb_large.jpg?v=1606928279"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7cf5b21c-7bf0-466b-84a2-4122677d2f06_large.jpg?v=1606928280"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_0b793876-35b8-4f4a-b109-a88421dbd653_large.jpg?v=1606928281"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7060efca-ae5a-4753-9ec4-72904d834d92_large.jpg?v=1606928282"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_5792e5b0-9877-4a0f-a3b7-4fd9cd946bba_large.jpg?v=1606928283"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_9102a55e-d41a-4da4-a320-a9ca02791557_large.jpg?v=1606928285"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7fb220c0-9ca3-437f-9169-7aa6fa3b5cee_large.jpg?v=1606928286"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_0c73fe77-0dbc-4c93-9405-0b1468cb8af4_large.jpg?v=1606928287"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f0f0b255-9289-446c-aaf8-853112e6a4e0_large.jpg?v=1606928288"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_58e0cf68-b294-45f2-b949-9932c76fc23e_large.jpg?v=1606928289"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_d2f1eda5-b202-4cd8-8245-0b9208bbf038_large.jpg?v=1606928290"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_5f8279f5-ce6b-471b-b91b-06da582d37c8_large.jpg?v=1606928292"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_9d1f3493-35f6-425c-a722-3beeff651fc0_large.jpg?v=1606928293"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_245a466a-61df-499c-8ab2-ac43b4da33f0_large.jpg?v=1606928294"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_be8ad6ed-0ee0-4ef5-b2c4-6d757436310b_large.jpg?v=1606928295"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_249228b2-1619-4ccc-83a7-dc9173bf95ba_large.jpg?v=1606928296"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b4fffda6-40f9-4f0b-94a3-a21c34423176_large.jpg?v=1606928297"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_2add2d95-c0c3-42c5-9bb2-4eb718eab1b8_large.jpg?v=1606928299"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f42cde0c-c8e3-47b8-b594-ccd7c87a71a3_large.jpg?v=1606928300"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_52e571ec-a3bf-4506-9164-ba7112bac807_large.jpg?v=1606928301"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_ca58daae-b19d-4708-a217-26f943e07460_large.jpg?v=1606928302"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_bdd3f6c1-75da-4417-9428-b984a4bef899_large.jpg?v=1606928303"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7f29448b-6061-465a-b2d7-ceb147c32a99_large.jpg?v=1606928304"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1b65a371-dcf9-4823-89f9-8f35abce90de_large.jpg?v=1606928305"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_29b9ed09-28c5-47a7-9f94-a30129b49964_large.jpg?v=1606928306"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_cdf9e70b-29fe-4638-856e-ffc5417bfb6c_large.jpg?v=1606928307"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_aeb8b359-844c-48d5-9e50-a5e0f937a3aa_large.jpg?v=1606928309"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f3b6b056-aba7-4c51-9422-cbe0a4535327_large.jpg?v=1606928310"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_ebed015f-7171-4264-9628-d73daccf6b41_large.jpg?v=1606928311"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_4e619695-4484-4b85-83d7-3f9066f008fe_large.jpg?v=1606928312"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_fd31c2db-7b0a-44dc-bfd0-b6cb271befdf_large.jpg?v=1606928313"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_9bcf4e02-1f88-43b1-87c7-2e91ff7ba0df_large.jpg?v=1606928314"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_e28b215f-edd7-4f30-ac8b-2fa8185769d7_large.jpg?v=1606928315"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3e63a5b9-1d46-4911-b009-80b5b82f5230_large.jpg?v=1606928316"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3ee3864a-c0ec-4eb0-b4da-454904a4b66d_large.jpg?v=1606928317"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_d280e76b-77cf-4e58-9c20-4b789810d869_large.jpg?v=1606928319"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b78a788b-6018-4244-942a-02ed8a6972bc_large.jpg?v=1606928320"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_76e27f9d-91dd-4c0d-a955-40a4285df65e_large.jpg?v=1606928321"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_aa552aa6-90b2-423d-aec0-11d0ad38c15e_large.jpg?v=1606928322"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b41b239e-0487-4699-ae8e-99d3b1edbc63_large.jpg?v=1606928323"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1668d323-5773-4b31-806a-836083318bb5_large.jpg?v=1606928324"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f24e48de-0e68-4c33-8802-93d347bc5834_large.jpg?v=1606928325"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f7ca95e0-79de-4c4c-9c52-aa9cae26d688_large.jpg?v=1606928326"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_28d8cffd-cf9d-459e-ae43-146dd92eff87_large.jpg?v=1606928327"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_123c6428-67ca-4330-9fc4-0be0d90292e3_large.jpg?v=1606928328"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f61a1ca9-306c-4b49-a8db-df5bd6b8d45b_large.jpg?v=1606928329"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_faa29fde-1921-4ab6-8b46-7854bbf6360e_large.jpg?v=1606928330"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_f1e5b2d9-6cb8-4577-8a76-c5715f868801_large.jpg?v=1606928332"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_fed95d60-9118-4cb4-9e1b-4be0863f39a2_large.jpg?v=1606928333"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_6148145a-1ee9-4faf-9dc1-96448322aa3d_large.jpg?v=1606928334"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_9c48dcb2-6e52-4702-88d4-60a61d5d906c_large.jpg?v=1606928335"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_73d24c0f-976e-4e25-933e-95cab0e465f8_large.jpg?v=1606928336"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_fd1bd888-3f21-4f15-a9ae-4f93600346de_large.jpg?v=1606928337"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_715e418c-e8e3-4b02-8f7d-da2112ff35c0_large.jpg?v=1606928338"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_88ea8ec6-6cbd-41f5-b99f-4a8264f2aa40_large.jpg?v=1606928340"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_98075b61-784c-4fbe-b967-bd86db552a39_large.jpg?v=1606928341"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_ceacc17c-eb3c-4650-a2f9-ef06ce57cbb6_large.jpg?v=1606928342"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_8879067b-0e7d-4f72-a615-2b73c13a2fa5_large.jpg?v=1606928343"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_a908b4eb-d93d-4b45-bb97-1f8f1481fdfd_large.jpg?v=1606928344"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_74b094af-f75e-41f0-a1ea-b3e32c7c6708_large.jpg?v=1606928345"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_27a8cf9b-53a1-4b4b-b621-9a929feb88a8_large.jpg?v=1606928346"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_809bc7a8-27bd-468d-9b69-bf4fcc8c4710_large.jpg?v=1606928347"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_63efa858-99db-4b2d-8b39-154a8f5534d5_large.jpg?v=1606928349"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_77b4cddf-a9a3-4608-a660-c54dc0935626_large.jpg?v=1606928350"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_9bb8a416-9eb8-4787-b416-07d4c759ac22_large.jpg?v=1606928351"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_072527ed-3104-4b24-be19-bc4a8ee445d4_large.jpg?v=1606928352"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_029968df-a25e-4601-a779-e3e0dcf99170_large.jpg?v=1606928353"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3fac7df5-0243-4503-81d7-a5f04824777b_large.jpg?v=1606928354"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_17697a73-7dd3-474a-aea4-d8d7514a50d4_large.jpg?v=1606928355"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c0a8b259-2070-42d0-ab67-2ebda17f76c1_large.jpg?v=1606928356"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_4bdb613b-eb66-4504-a4a3-277fac47ad95_large.jpg?v=1606928357"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_4900a54c-3a2b-4743-a6fe-552d44068ccb_large.jpg?v=1606928359"
     ],
     "inStock": true,
     "specs": [],
@@ -3724,7 +3724,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_5310f359-fd10-4a30-8ab9-1f50bce6fa12_large.jpg?v=1606928360"
     ],
     "inStock": true,
     "specs": [],
@@ -3742,7 +3742,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_cf05793c-033a-40a8-96ff-3e20b8a98e0f_large.jpg?v=1606928361"
     ],
     "inStock": true,
     "specs": [],
@@ -3760,7 +3760,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3ddd817e-b874-4ff8-93ba-4a802c6bbf67_large.jpg?v=1606928362"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_0bfc7b9a-537c-4a13-9290-d65d2b21d45a_large.jpg?v=1606928363"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c609f065-96a1-4bdf-8efc-5dbe6a9e13e6_large.jpg?v=1606928364"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3d4f77f2-8357-4772-be5e-fb9e6f346231_large.jpg?v=1606928366"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_66bedaf6-5ba0-49a5-9ed2-07a7a2c1e100_large.jpg?v=1606928367"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_ea9aba3e-23b7-4ea6-bc15-57f73cd48305_large.jpg?v=1606928368"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3e6fe6e3-549f-4360-9281-12db10a30c6c_large.jpg?v=1606928369"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3b0292cb-bf9d-4cf2-8720-186422dbc31f_large.jpg?v=1606928370"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7d1916fc-f1b3-429c-a980-45d411cb59cd_large.jpg?v=1606928371"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b0ac5fe7-9c1c-43ef-8202-3247b2ba2e2e_large.jpg?v=1606928372"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b47b868d-d114-4d44-83c1-48c89dc16273_large.jpg?v=1606928373"
     ],
     "inStock": true,
     "specs": [],
@@ -3958,7 +3958,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1ff3b670-98c5-419e-8c9c-b0120454880b_large.jpg?v=1606928374"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_9c3e8990-f748-43a6-9842-9c32ec3690ec_large.jpg?v=1606928375"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c7a6cb30-4bb3-4c79-a283-259eef357242_large.jpg?v=1606928376"
     ],
     "inStock": true,
     "specs": [],
@@ -4012,7 +4012,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_7773687b-01d5-444b-b5ab-d931de712db1_large.jpg?v=1606928377"
     ],
     "inStock": true,
     "specs": [],
@@ -4030,7 +4030,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_c97cd857-f9b9-40f7-a2fc-03095e01411f_large.jpg?v=1606928379"
     ],
     "inStock": true,
     "specs": [],
@@ -4048,7 +4048,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b7f654f2-af8a-49b2-803f-975102def8be_large.jpg?v=1606928380"
     ],
     "inStock": true,
     "specs": [],
@@ -4066,7 +4066,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_25b16129-6c4a-4c7e-bd84-bf478301b85b_large.jpg?v=1606928381"
     ],
     "inStock": true,
     "specs": [],
@@ -4084,7 +4084,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b0c370f1-a484-4642-999a-0c48da2d822a_large.jpg?v=1606928382"
     ],
     "inStock": true,
     "specs": [],
@@ -4102,7 +4102,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_1420a192-a318-46c5-af61-1b2daaac4434_large.jpg?v=1606928383"
     ],
     "inStock": true,
     "specs": [],
@@ -4120,7 +4120,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_8cdce898-409b-4130-9c7b-0d3a1db7b4a8_large.jpg?v=1606928384"
     ],
     "inStock": true,
     "specs": [],
@@ -4138,7 +4138,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_29ece73c-bf5b-4703-96af-721414415309_large.jpg?v=1606928385"
     ],
     "inStock": true,
     "specs": [],
@@ -4156,7 +4156,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b7f0ffef-2e59-4105-9a2d-56099aa8b347_large.jpg?v=1606928386"
     ],
     "inStock": true,
     "specs": [],
@@ -4174,7 +4174,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_37ba8d9d-09c8-45a0-8776-13063ea7464d_large.jpg?v=1606928387"
     ],
     "inStock": true,
     "specs": [],
@@ -4192,7 +4192,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_a41e0886-f0f6-4564-9525-33836d74bf2c_large.jpg?v=1606928388"
     ],
     "inStock": true,
     "specs": [],
@@ -4210,7 +4210,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_498ec425-0818-4f41-b5fc-cbcc7f54cf6b_large.jpg?v=1606928390"
     ],
     "inStock": true,
     "specs": [],
@@ -4228,7 +4228,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_26146160-d975-4915-ac1b-1d9082ef3296_large.jpg?v=1606928391"
     ],
     "inStock": true,
     "specs": [],
@@ -4246,7 +4246,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_68331929-5c9d-4a47-8ff9-c85e20893988_large.jpg?v=1606928392"
     ],
     "inStock": true,
     "specs": [],
@@ -4264,7 +4264,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_8c491b9d-4886-4192-bf40-1680c15eac9a_large.jpg?v=1606928393"
     ],
     "inStock": true,
     "specs": [],
@@ -4282,7 +4282,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_003544d0-7019-49f0-9de0-c826a821f6c6_large.jpg?v=1606928394"
     ],
     "inStock": true,
     "specs": [],
@@ -4300,7 +4300,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_d3104074-45ec-4af7-a3d3-4cb1ab89624e_large.jpg?v=1606928395"
     ],
     "inStock": true,
     "specs": [],
@@ -4318,7 +4318,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_a31f7cc6-5e25-4ee3-b0dc-5a01424a5f0a_large.jpg?v=1606928396"
     ],
     "inStock": true,
     "specs": [],
@@ -4336,7 +4336,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b56bda3b-2b9d-40b4-b4b0-20a837b27883_large.jpg?v=1606928397"
     ],
     "inStock": true,
     "specs": [],
@@ -4354,7 +4354,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_fbc8a5d4-9e57-4f8f-afe5-7b7b5c8b649e_large.jpg?v=1606928398"
     ],
     "inStock": true,
     "specs": [],
@@ -4372,7 +4372,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_51308a90-ee98-41f4-a0e3-1f9a1e5c8606_large.jpg?v=1606928399"
     ],
     "inStock": true,
     "specs": [],
@@ -4390,7 +4390,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_46e80d2a-4d63-4e4c-902d-df7e4f4221bb_large.jpg?v=1606928401"
     ],
     "inStock": true,
     "specs": [],
@@ -4408,7 +4408,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_0262e5b5-ae18-4083-879b-0aea39f168d6_large.jpg?v=1606928402"
     ],
     "inStock": true,
     "specs": [],
@@ -4426,7 +4426,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_3841d9c6-9ba7-4526-988a-7f95fe43abe0_large.jpg?v=1606928403"
     ],
     "inStock": true,
     "specs": [],
@@ -4444,7 +4444,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_17675ea5-3be0-40dc-92ee-70a9b3ced0ed_large.jpg?v=1606928404"
     ],
     "inStock": true,
     "specs": [],
@@ -4462,7 +4462,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_5a537fd0-5638-4f9a-b1b7-6985c18d6aed_large.jpg?v=1606928405"
     ],
     "inStock": true,
     "specs": [],
@@ -4480,7 +4480,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_5a5d5c75-7940-4f12-a0d8-1a588b9101c8_large.jpg?v=1606928406"
     ],
     "inStock": true,
     "specs": [],
@@ -4498,7 +4498,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_26d8861d-31ff-4298-9aaa-3df87bd402e8_large.jpg?v=1606928407"
     ],
     "inStock": true,
     "specs": [],
@@ -4516,7 +4516,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_efdc8b0e-17fb-4915-8107-d6f842e2e05b_large.jpg?v=1606928408"
     ],
     "inStock": true,
     "specs": [],
@@ -4534,7 +4534,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_2dc14649-aa3e-4efa-aa07-b1f474097043_large.jpg?v=1606928409"
     ],
     "inStock": true,
     "specs": [],
@@ -4552,7 +4552,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_aabd95fe-f049-47e7-aff4-bb16c1d7ef7d_large.jpg?v=1606928410"
     ],
     "inStock": true,
     "specs": [],
@@ -4570,7 +4570,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_b9a438a9-6bb6-4a1a-8e49-331b022b826c_large.jpg?v=1606928411"
     ],
     "inStock": true,
     "specs": [],
@@ -4588,7 +4588,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UTS1200_300dfcc5-28e4-4e79-9220-8fae75a05288_large.jpg?v=1606928412"
     ],
     "inStock": true,
     "specs": [],
@@ -4606,7 +4606,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4624,7 +4624,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4642,7 +4642,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4660,7 +4660,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4678,7 +4678,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4696,7 +4696,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4714,7 +4714,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4840,7 +4840,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4858,7 +4858,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4876,7 +4876,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4894,7 +4894,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4912,7 +4912,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4930,7 +4930,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4948,7 +4948,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4966,7 +4966,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4984,7 +4984,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5002,7 +5002,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5020,7 +5020,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5038,7 +5038,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5056,7 +5056,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5074,7 +5074,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5092,7 +5092,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5110,7 +5110,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5128,7 +5128,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5146,7 +5146,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5164,7 +5164,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5182,7 +5182,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5200,7 +5200,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5398,7 +5398,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5416,7 +5416,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5434,7 +5434,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5452,7 +5452,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5470,7 +5470,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5488,7 +5488,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5506,7 +5506,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5524,7 +5524,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5542,7 +5542,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5560,7 +5560,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5578,7 +5578,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5596,7 +5596,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5614,7 +5614,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5632,7 +5632,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5650,7 +5650,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5668,7 +5668,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5686,7 +5686,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5704,7 +5704,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5722,7 +5722,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5740,7 +5740,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5758,7 +5758,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5776,7 +5776,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5794,7 +5794,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5812,7 +5812,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5830,7 +5830,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5848,7 +5848,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5866,7 +5866,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5884,7 +5884,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5902,7 +5902,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5920,7 +5920,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5938,7 +5938,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5956,7 +5956,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5974,7 +5974,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5992,7 +5992,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6010,7 +6010,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6028,7 +6028,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6046,7 +6046,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6064,7 +6064,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6082,7 +6082,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6100,7 +6100,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6118,7 +6118,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6136,7 +6136,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6154,7 +6154,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6172,7 +6172,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6190,7 +6190,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6208,7 +6208,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6226,7 +6226,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6244,7 +6244,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6262,7 +6262,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6280,7 +6280,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6298,7 +6298,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6316,7 +6316,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6334,7 +6334,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6352,7 +6352,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6370,7 +6370,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6388,7 +6388,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6406,7 +6406,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6424,7 +6424,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6442,7 +6442,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6460,7 +6460,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6478,7 +6478,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6496,7 +6496,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6514,7 +6514,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6532,7 +6532,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6550,7 +6550,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6568,7 +6568,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6586,7 +6586,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6604,7 +6604,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6622,7 +6622,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6640,7 +6640,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6658,7 +6658,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6676,7 +6676,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6694,7 +6694,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6712,7 +6712,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6730,7 +6730,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6748,7 +6748,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6766,7 +6766,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6784,7 +6784,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6802,7 +6802,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6820,7 +6820,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6838,7 +6838,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6856,7 +6856,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6874,7 +6874,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6892,7 +6892,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6910,7 +6910,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6928,7 +6928,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6946,7 +6946,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6964,7 +6964,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6982,7 +6982,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7000,7 +7000,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7018,7 +7018,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7036,7 +7036,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7054,7 +7054,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7072,7 +7072,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7090,7 +7090,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7108,7 +7108,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7126,7 +7126,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7144,7 +7144,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7162,7 +7162,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7180,7 +7180,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7198,7 +7198,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7216,7 +7216,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7234,7 +7234,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7252,7 +7252,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7270,7 +7270,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7288,7 +7288,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7306,7 +7306,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7324,7 +7324,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7342,7 +7342,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7360,7 +7360,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7378,7 +7378,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7396,7 +7396,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7414,7 +7414,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7432,7 +7432,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7450,7 +7450,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7468,7 +7468,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7486,7 +7486,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7504,7 +7504,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7522,7 +7522,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7540,7 +7540,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7558,7 +7558,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7576,7 +7576,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7594,7 +7594,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7612,7 +7612,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7630,7 +7630,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7648,7 +7648,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7666,7 +7666,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7684,7 +7684,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7702,7 +7702,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7720,7 +7720,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7738,7 +7738,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7756,7 +7756,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7774,7 +7774,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7792,7 +7792,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7810,7 +7810,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7828,7 +7828,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7846,7 +7846,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7864,7 +7864,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7882,7 +7882,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7900,7 +7900,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7918,7 +7918,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7936,7 +7936,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7954,7 +7954,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7972,7 +7972,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7990,7 +7990,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8008,7 +8008,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8026,7 +8026,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8044,7 +8044,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8062,7 +8062,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8080,7 +8080,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8098,7 +8098,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8116,7 +8116,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8134,7 +8134,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8152,7 +8152,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8170,7 +8170,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8188,7 +8188,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8206,7 +8206,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8224,7 +8224,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8242,7 +8242,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8260,7 +8260,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8278,7 +8278,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8296,7 +8296,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8314,7 +8314,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8332,7 +8332,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8350,7 +8350,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8368,7 +8368,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8386,7 +8386,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8404,7 +8404,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8422,7 +8422,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8440,7 +8440,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8458,7 +8458,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8476,7 +8476,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8494,7 +8494,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8512,7 +8512,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8530,7 +8530,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8548,7 +8548,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8566,7 +8566,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8584,7 +8584,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8602,7 +8602,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8620,7 +8620,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8638,7 +8638,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8656,7 +8656,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8674,7 +8674,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8692,7 +8692,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8710,7 +8710,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8728,7 +8728,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8746,7 +8746,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8764,7 +8764,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8782,7 +8782,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8800,7 +8800,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8818,7 +8818,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8836,7 +8836,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8854,7 +8854,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8872,7 +8872,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8890,7 +8890,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8908,7 +8908,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8926,7 +8926,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8944,7 +8944,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8962,7 +8962,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8980,7 +8980,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8998,7 +8998,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9016,7 +9016,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9034,7 +9034,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9052,7 +9052,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9070,7 +9070,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9088,7 +9088,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9106,7 +9106,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9124,7 +9124,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9142,7 +9142,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9160,7 +9160,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9178,7 +9178,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9196,7 +9196,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9214,7 +9214,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9232,7 +9232,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9250,7 +9250,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9268,7 +9268,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9286,7 +9286,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9304,7 +9304,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9322,7 +9322,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9340,7 +9340,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9358,7 +9358,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9376,7 +9376,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9394,7 +9394,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9412,7 +9412,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9430,7 +9430,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9448,7 +9448,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9466,7 +9466,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9484,7 +9484,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9502,7 +9502,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9520,7 +9520,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9538,7 +9538,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9556,7 +9556,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9574,7 +9574,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9592,7 +9592,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9610,7 +9610,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9628,7 +9628,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9646,7 +9646,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9664,7 +9664,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9682,7 +9682,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9700,7 +9700,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9718,7 +9718,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9736,7 +9736,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9754,7 +9754,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9772,7 +9772,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9790,7 +9790,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9808,7 +9808,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9826,7 +9826,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9844,7 +9844,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9862,7 +9862,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9880,7 +9880,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9898,7 +9898,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9916,7 +9916,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9934,7 +9934,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9952,7 +9952,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9970,7 +9970,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9988,7 +9988,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10006,7 +10006,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10024,7 +10024,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10042,7 +10042,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10060,7 +10060,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10078,7 +10078,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10096,7 +10096,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10114,7 +10114,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10132,7 +10132,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10150,7 +10150,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10168,7 +10168,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10186,7 +10186,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10204,7 +10204,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10222,7 +10222,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10240,7 +10240,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10258,7 +10258,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10276,7 +10276,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10294,7 +10294,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10312,7 +10312,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10330,7 +10330,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10348,7 +10348,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10366,7 +10366,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10384,7 +10384,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10402,7 +10402,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10420,7 +10420,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10438,7 +10438,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10456,7 +10456,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10474,7 +10474,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10492,7 +10492,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10510,7 +10510,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10528,7 +10528,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10546,7 +10546,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10564,7 +10564,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10582,7 +10582,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10600,7 +10600,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10618,7 +10618,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10636,7 +10636,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10654,7 +10654,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10672,7 +10672,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10690,7 +10690,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10708,7 +10708,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10726,7 +10726,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10744,7 +10744,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10762,7 +10762,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10780,7 +10780,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10798,7 +10798,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10816,7 +10816,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10834,7 +10834,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10852,7 +10852,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10870,7 +10870,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10888,7 +10888,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10906,7 +10906,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10924,7 +10924,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10942,7 +10942,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10960,7 +10960,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10978,7 +10978,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10996,7 +10996,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11014,7 +11014,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11032,7 +11032,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11050,7 +11050,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11068,7 +11068,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11086,7 +11086,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11104,7 +11104,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11122,7 +11122,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11140,7 +11140,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11158,7 +11158,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11176,7 +11176,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11194,7 +11194,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11212,7 +11212,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11230,7 +11230,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11248,7 +11248,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11266,7 +11266,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11284,7 +11284,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11302,7 +11302,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11320,7 +11320,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11338,7 +11338,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11356,7 +11356,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11374,7 +11374,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11392,7 +11392,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11410,7 +11410,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11428,7 +11428,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11446,7 +11446,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11464,7 +11464,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11482,7 +11482,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11500,7 +11500,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11518,7 +11518,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11536,7 +11536,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11554,7 +11554,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11572,7 +11572,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11590,7 +11590,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11608,7 +11608,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11626,7 +11626,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11644,7 +11644,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11662,7 +11662,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11680,7 +11680,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11698,7 +11698,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11716,7 +11716,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11734,7 +11734,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11752,7 +11752,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11770,7 +11770,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11788,7 +11788,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11806,7 +11806,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11824,7 +11824,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11842,7 +11842,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11860,7 +11860,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11878,7 +11878,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11896,7 +11896,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11914,7 +11914,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11932,7 +11932,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11950,7 +11950,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11968,7 +11968,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11986,7 +11986,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12004,7 +12004,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12022,7 +12022,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12040,7 +12040,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12058,7 +12058,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12076,7 +12076,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12094,7 +12094,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12112,7 +12112,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12130,7 +12130,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12148,7 +12148,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12166,7 +12166,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12184,7 +12184,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12202,7 +12202,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12220,7 +12220,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12238,7 +12238,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12256,7 +12256,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12274,7 +12274,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12292,7 +12292,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12310,7 +12310,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12328,7 +12328,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12346,7 +12346,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12364,7 +12364,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12382,7 +12382,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12400,7 +12400,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12418,7 +12418,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12436,7 +12436,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12454,7 +12454,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12472,7 +12472,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12490,7 +12490,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12508,7 +12508,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12526,7 +12526,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12544,7 +12544,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12562,7 +12562,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12580,7 +12580,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12598,7 +12598,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12616,7 +12616,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12634,7 +12634,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12652,7 +12652,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12670,7 +12670,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12688,7 +12688,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12706,7 +12706,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12724,7 +12724,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12742,7 +12742,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12760,7 +12760,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12778,7 +12778,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12796,7 +12796,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12814,7 +12814,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12832,7 +12832,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12850,7 +12850,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12868,7 +12868,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12886,7 +12886,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12904,7 +12904,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12922,7 +12922,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12940,7 +12940,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12958,7 +12958,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12976,7 +12976,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12994,7 +12994,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13012,7 +13012,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13030,7 +13030,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13048,7 +13048,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13066,7 +13066,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13084,7 +13084,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13102,7 +13102,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13120,7 +13120,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13138,7 +13138,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13156,7 +13156,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13174,7 +13174,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13192,7 +13192,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13210,7 +13210,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13228,7 +13228,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13246,7 +13246,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13264,7 +13264,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13282,7 +13282,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13300,7 +13300,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13318,7 +13318,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13336,7 +13336,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13354,7 +13354,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13372,7 +13372,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13390,7 +13390,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13408,7 +13408,7 @@ export const datalogiccircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

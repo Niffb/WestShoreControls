@@ -16,7 +16,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSBracketTH_large.jpg?v=1604837695"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABS-APPAluminiumProfile_large.jpg?v=1604837895"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_large.jpg?v=1604836057"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_ae0e4678-6df1-497d-8528-fa28cbee130c_large.jpg?v=1604836110"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CABSAluminumProfileUL_6d90bae0-c481-4847-96b9-643004f6e273_large.jpg?v=1604836104"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ReinforcedCompactBusbarSupportwithNeutralCircuit_6c7f5629-fa3e-444e-b1bc-52f425cc0a3f_large.jpg?v=1604838599"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CompactBusbarSupportwithNeutralCircuit_large.jpg?v=1604838596"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownplcsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

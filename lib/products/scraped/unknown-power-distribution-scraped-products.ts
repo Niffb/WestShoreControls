@@ -16,7 +16,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_2046c47c-91b9-4079-b432-4226eb2151fa_large.jpg?v=1604826554"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_05487176-bde7-4c9a-8331-b1cc94e9a1da_large.jpg?v=1604826551"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_69920bab-b701-4557-892f-882c941da3f8_large.jpg?v=1604839984"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_ed374816-42a8-4a1d-9227-cd0a7526a621_large.jpg?v=1604839983"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_f622d5ad-6be9-4d6c-8f4c-2a6e1e34baeb_large.jpg?v=1604815561"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_4af0c2bb-f6be-48c7-89bd-d3f06518bc99_large.jpg?v=1604815556"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_fd40c304-f7b5-481e-9b12-d745c3739467_large.jpg?v=1604815551"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_b973f5a5-a7ac-4fd5-9809-0720f0eb8a64_large.jpg?v=1604815552"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_8a50aeb6-3548-4730-bf09-e14ab43fdf09_large.jpg?v=1604815541"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_46d541fa-ca8a-4b08-bd62-f7ba04f1b58b_large.jpg?v=1604815539"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_228b6dbe-d25f-44f8-9bff-ba151a46a520_large.jpg?v=1604815539"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_0b924763-8963-46a8-b053-9a9817804e5d_large.jpg?v=1604815529"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_bb3becd4-3abb-4dd8-8a65-7c5aa47c3b3c_large.jpg?v=1604815523"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_ddc208c9-a57e-47fe-a669-b1e3048cb516_large.jpg?v=1604815527"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_24720bf5-03f6-40e7-9f0d-e2567efb0761_large.jpg?v=1604815517"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_9ce0cb69-79f1-4dba-8ad6-89c115403b04_large.jpg?v=1604815514"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_058269db-79b7-4c22-8c87-e8b19ba8bbaf_large.jpg?v=1604815512"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_0d923917-c4f3-4d32-a200-22a2241073e5_large.jpg?v=1604815507"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_4e89c626-4713-4f9a-9a4f-778ffa2da8ef_large.jpg?v=1604815504"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_5f4bfd9e-c27a-4fc0-8c1c-73b7649d8e16_large.jpg?v=1604815498"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_9646a958-588d-4789-af04-e3a7f6ed6eeb_large.jpg?v=1604815494"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_e8ff6322-84ba-4aab-bb24-96d9e83f6c12_large.jpg?v=1604815492"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_0e945de9-1b50-49b1-9a81-0cf81792b7f9_large.jpg?v=1604815492"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_c396b5a9-4c4f-41ed-b03c-157e542d757a_large.jpg?v=1604815478"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_45ba26c0-ef60-4e4d-ae9f-48db713acfc9_large.jpg?v=1604815403"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_7515f656-f72c-4ebb-b6d3-aa05545bc71a_large.jpg?v=1604815406"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_ee17e848-2190-45a5-93e6-9a56ca91ef68_large.jpg?v=1604815397"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_66fafa3e-95b3-43d3-97c6-717022842410_large.jpg?v=1604815392"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_45c0e157-d4d5-421a-8f32-40464f76c573_large.jpg?v=1604815395"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_4a5940b4-bea2-42f6-ab16-75f2ba582e37_large.jpg?v=1604815388"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_dd9da6a0-4104-43f8-97cf-4f8742243cbd_large.jpg?v=1604815383"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_847a94e8-eab8-4d10-8d64-4e1b9486f234_large.jpg?v=1604815382"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_09211045-3a17-4e15-8a04-b586806a62a3_large.jpg?v=1604815377"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_758d5b84-7f38-41de-9a42-3cd9b251dee5_large.jpg?v=1604815377"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PCBPlainCopperBusbar_1_3e0e2d9a-e61a-48d2-9de8-83f1a00a63cb_large.jpg?v=1604815372"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_13fd9ceb-6ae2-4c2f-b083-08b9b01a5e38_large.jpg?v=1605085178"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_7dac8800-956d-41a0-9881-f4fa5193fc19_large.jpg?v=1605085169"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_78058203-ab2e-4f31-bcb5-1fe947beb09f_large.jpg?v=1605085164"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_de916f1b-274f-4ce2-bf88-4d955186a89e_large.jpg?v=1605085078"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_9efd2b46-d7b9-4d38-b62d-9adec0146548_large.jpg?v=1605085078"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_5dfac678-eb86-4058-b06c-26357471a269_large.jpg?v=1605085063"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_c641d538-fb2c-4936-86a0-1bde4b0de127_large.jpg?v=1605085058"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_bf6ea1a8-098c-49d4-9825-3dacb11aa08e_large.jpg?v=1605085055"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_232be8ac-397c-4067-aedc-2215457f72cb_large.jpg?v=1605085049"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_6655e730-22a5-450a-81d4-f0f51bc37e56_large.jpg?v=1605085051"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_large.jpg?v=1605085043"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_8446f481-22df-4b4c-b084-826a949863d0_large.jpg?v=1605106251"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_dd9a2934-adff-421d-989f-bb82d36df26b_large.jpg?v=1605106253"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_027ad921-84be-4913-ae8e-89fc18b7e8bd_large.jpg?v=1605106065"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_dfe69799-3c62-4db8-9911-05179b880a5c_large.jpg?v=1605106067"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_large.jpg?v=1605106064"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_large.jpg?v=1605074348"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_582897e4-afed-4b51-827c-780400136ffd_large.jpg?v=1605074349"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_b10efed0-dd49-4409-8d34-e64d2c2617ef_large.jpg?v=1605074350"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_4d2232e7-3b94-462e-9531-122e48d01e04_large.jpg?v=1605074351"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_5e419d1d-b532-49d2-87b9-1fe15b6d3fd4_large.jpg?v=1605074352"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_ac365547-0ddd-4044-8530-2fcfcd5f0229_large.jpg?v=1605074353"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_48600ce4-fd1c-466e-9a4d-d5c58b8ad07e_large.jpg?v=1605074354"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_c08e7fbf-36dd-4465-bf35-55fec2c3e3ee_large.jpg?v=1605074355"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_87a2c58b-bf3c-4b98-b224-719eb6c1c6ca_large.jpg?v=1605074356"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_64746a0b-5e59-41e3-9314-9f32c42c7493_large.jpg?v=1605074358"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_d9e9d099-ab67-4dc1-976c-b021fa224be9_large.jpg?v=1605074359"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_3b9e3d4c-de4e-428e-a6b8-1d4c395ee9ca_large.jpg?v=1605074360"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_b81b4cfc-dd7c-4d8e-889d-658a1d96793e_large.jpg?v=1605074361"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PBC_Braided_Power_Shunt_eb888201-99ca-460d-a92a-d7a84aa7b1c8_large.jpg?v=1605074362"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_16e58c61-34a7-4331-8fc6-e0aa453a40ed_large.jpg?v=1604843613"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_2531bc36-92ac-4808-a115-a0da70fa9c11_large.jpg?v=1604843609"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_cbac6a61-3369-4c81-9634-58115cfeab83_large.jpg?v=1604843603"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_094777e7-5fd8-4ad1-bc7c-121a7344b03e_large.jpg?v=1604843605"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_54f421e7-8986-4538-beff-0aea39b7d236_large.jpg?v=1604843597"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_627f938d-b806-4dfb-a6bb-843a01b6622a_large.jpg?v=1604843597"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_edf2ee99-825c-476c-99d0-d17f2c883513_large.jpg?v=1604843594"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLT-800Lug-to-TunnelPowerTerminal_9c22911a-29b3-45e6-82fd-daa184c7fa1b_large.jpg?v=1605109232"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLT-800Lug-to-TunnelPowerTerminal_large.jpg?v=1605109180"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBWThreadedBusbar_large.jpg?v=1604824473"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/AdjustableFlatBusbarSupportInsulator_8fcd6639-0e7a-4cb6-b084-fea9e5bbb200_large.jpg?v=1604831790"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/AdjustableFlatBusbarSupportInsulator_8b917745-e2d0-4dfb-a244-69426b0c6390_large.jpg?v=1604831790"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/AdjustableFlatBusbarSupportInsulator_large.jpg?v=1604831783"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_a610691d-cc86-426e-bbe8-ce8b7d785cd4_large.jpg?v=1604823942"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_d493fb24-8602-4f06-bb73-46c1315d1306_large.jpg?v=1604823939"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_5ec3ae62-2752-4fba-8d86-4afffe0db859_large.jpg?v=1604823937"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbar_large.jpg?v=1604823934"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_9f3fa2cd-ab11-4024-be2c-5889892556ef_large.jpg?v=1605019838"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_aadea9dc-5e40-4eea-9aca-48bd8fd61cd6_large.jpg?v=1605019842"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_faa61257-221b-4908-ba01-9957a3e5d02b_large.jpg?v=1605019817"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_d386f8f5-67da-4d9d-bd7b-9f4bbdaa686e_large.jpg?v=1605019791"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_efa7f922-be18-44d3-8ca4-5eb795614388_large.jpg?v=1605019942"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_1f55e13c-c569-4dec-ad5d-34e866a06dc9_large.jpg?v=1605019718"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ac737667-941a-4263-8c10-cf51888572df_large.jpg?v=1605019632"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ebf6a5f0-4027-430c-8b58-bf224552ea1e_large.jpg?v=1605019528"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainSinglecopperbusbar_large.jpg?v=1604816365"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_90c50fe8-feee-4ba9-8503-6611798f34e8_large.jpg?v=1604816840"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_e66eafff-1fdd-4aee-860d-d01601bf4203_large.jpg?v=1604816843"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_42dfd1c8-b68f-4a5a-bfc4-f5bc9b38d336_large.jpg?v=1604816836"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_cc69a3f5-71ee-4815-b6c2-2127c76c2b27_large.jpg?v=1604816828"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_64aeac03-f17c-44fc-8f07-fa283fc3cab7_large.jpg?v=1604816827"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_7b35ceec-9f31-4e6d-b2c1-6216d16b4ff0_large.jpg?v=1604816827"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_53a6fd97-15b3-4549-8e6a-12b522cb7a77_large.jpg?v=1604816794"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_19a8df2b-82b3-4fc9-95c9-91c0410b94f9_large.jpg?v=1604816819"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_bca8de08-1773-47c4-9f34-e719760fd698_large.jpg?v=1604816797"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DPCBPunchedplainDoublecopperbusbar_1_47afa41a-fe8e-4def-83ad-64a22d8c920e_large.jpg?v=1604816784"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_f46336c5-b198-44c2-93f1-2f9f2131bba7_large.jpg?v=1604824109"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_63759416-7ce5-4783-8b1d-d7b70f73a9c7_large.jpg?v=1604824105"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_65c8f6b3-8168-43d0-a405-a439cceaf53a_large.jpg?v=1604824099"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_4e2870e7-e879-4919-ad38-7bf3f1e97ca6_large.jpg?v=1604824093"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_8f95469c-14ea-4653-820a-d8a58435be20_large.jpg?v=1604824087"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_e21d2f5b-ce6b-49e2-bd31-94ffba297873_large.jpg?v=1604824084"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_aef741c5-2aa0-4af2-b14e-b64c437de77c_large.jpg?v=1604824080"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingHole_large.jpg?v=1604824078"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingSlot_ebe1d412-4464-4a56-88ea-5de2228b7a9e_large.jpg?v=1604824391"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/TCBThreadedBusbarWithFixingSlot_large.jpg?v=1604824388"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Disconnectable_PEN_System_1b4f503a-98b0-48c5-9a84-18dd5e2ed908_large.jpg?v=1605084489"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Disconnectable_PEN_System_dc43606a-c72c-46b3-88f9-e1a1323d5a8b_large.jpg?v=1605084488"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Disconnectable_PEN_System_large.jpg?v=1605084487"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_7cba78f7-169a-4062-b0b0-954f20e94b92_large.jpg?v=1605070593"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_41ea18b6-a0a6-48a7-a6de-f183be0a64ce_large.jpg?v=1605070584"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_00b61022-0b1e-46a6-bb28-b15e6c9a5954_large.jpg?v=1605070568"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/collections/ERIFLEX_Hydraulic_Tools_large.jpg?v=1651899122"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_1bb154d0-76c0-46f9-9de9-f512165dfc6a_large.jpg?v=1604842913"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_large.jpg?v=1604842906"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DR_Symmetric_Profile_c9741c0d-e171-49bc-bed4-28faff70e50c_large.jpg?v=1605155950"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_e27c4059-a8b3-4932-9351-54104f2f127e_large.jpg?v=1604763215"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_68c44966-da5f-432e-8158-80b24936dc11_large.jpg?v=1604763217"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_941f5a84-9eec-4450-8680-a41f0f641c58_large.jpg?v=1604763208"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_24347e79-da16-4ae4-9984-6bdba725199f_large.jpg?v=1604763202"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_a5728cb2-3154-4de4-98f9-203681f58922_large.jpg?v=1604763201"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_5c97729a-0544-45ec-b9f1-6bc0379e20e5_large.jpg?v=1604763196"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_bed88b81-f838-42c3-865d-10c625720c52_large.jpg?v=1604763194"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_52c31489-c11b-4022-b296-8e25c7923527_large.jpg?v=1604763189"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_7c3acbf2-f31c-43fe-927e-91c3958c3a1f_large.jpg?v=1604763184"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_10469be0-38fd-485e-94f9-3d1870f6ed7a_large.jpg?v=1604763182"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_16c7fd52-c5b7-49bd-ab00-269f2905ccc5_large.jpg?v=1604763178"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_526102d0-4b40-44b9-9563-8ee69271dd1f_large.jpg?v=1604763173"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_279446c2-0fe5-4d09-bd19-181e313f1a5f_large.jpg?v=1604763171"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_04d3b148-0ee9-4b03-bd0c-450b3ab130d4_large.jpg?v=1604763167"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_39e9c01c-3b39-4e87-9557-61b531ceae41_large.jpg?v=1604763158"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_0c308c75-6373-48dc-bf70-bf7d4c33b235_large.jpg?v=1604763161"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_e0fbd958-494a-441c-9e06-4ecad333b166_large.jpg?v=1604763153"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_1aa21f00-91d6-4845-ba4d-32fe91153535_large.jpg?v=1604763149"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_a83bf96d-1e6c-42cc-89e0-dfbac757a440_large.jpg?v=1604763146"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_8f2ee1d5-511c-4245-b397-2554c080591f_large.jpg?v=1604763140"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_1ba9d575-b081-4431-a0d2-2c366c523b58_large.jpg?v=1604763130"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_b4412f2b-736f-474a-9ca7-497741b6d270_large.jpg?v=1604763130"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_00223442-e63b-489a-b7a5-e25c57141ff0_large.jpg?v=1604763123"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_ff792fa4-3ab4-4b43-a617-2420312716f6_large.jpg?v=1604763123"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_4f294575-0a51-461e-88b1-7aea7adda362_large.jpg?v=1604763120"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_10acd0d8-8935-4ca0-8953-d4f97191c163_large.jpg?v=1604763111"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_39fe8ac9-db6b-4592-98f1-a3097c0e8338_large.jpg?v=1604763114"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_951c4ec3-c944-4bd5-996e-01e8797bf778_large.jpg?v=1604763114"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_8cd80f4e-ff05-4daa-8c81-87ed7ca34061_large.jpg?v=1604763098"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_3d658024-b4a1-4057-ac33-08359df09836_large.jpg?v=1604763105"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_99e133b0-2ff2-4739-ac22-b045a2df877b_large.jpg?v=1604763096"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_6e5f1cd5-ec4c-4073-8e74-c0c56487f403_large.jpg?v=1604763079"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_aa261151-8f0a-4f1c-ad78-2213301cfdb5_large.jpg?v=1604763092"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_119341ad-0058-4ac7-ae0a-a9659cc80f1d_large.jpg?v=1604763069"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_ac28a7d2-8058-4158-a7e1-c9c68d9b959c_large.jpg?v=1604763041"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_567657bc-f63d-42e0-996a-541af642d687_large.jpg?v=1604763053"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_a1f7748f-8fbc-4e4f-b334-c3b1fdaa38cd_large.jpg?v=1604762997"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_d29d572c-9d2c-4467-a5da-b213bb15ec6f_large.jpg?v=1604762994"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_d25cebb5-3f85-44f9-b6ee-d57657c79d67_large.jpg?v=1604762994"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_d83ca518-0b74-41e7-af2d-cfc0c7e76ac2_large.jpg?v=1604762981"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_d3105300-eba3-4e0f-8f2d-079dbc6b3544_large.jpg?v=1604762962"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_7db1a819-9433-4a01-8817-bcb09a06038c_large.jpg?v=1604762930"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_ea385b83-2110-4840-864b-31169cfd755a_large.jpg?v=1604762791"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_abe652b0-5b25-400b-9e2b-bb5de2d01571_large.jpg?v=1604762483"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_16236d5d-136f-4055-be51-32732266f0ab_large.jpg?v=1604762500"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_60297cff-c5bd-412d-9354-c7cb5558f17f_large.jpg?v=1604762468"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_92064c55-a6a4-484a-bc3e-b7ab53afad1b_large.jpg?v=1604762452"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_0a6a0851-8805-43a2-9675-a5ec4af0cb32_large.jpg?v=1604762439"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_2acf3e78-6c22-4873-a498-ab7f15e31998_large.jpg?v=1604762386"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_bac70462-8dfd-48f6-b2a1-4e2e9904edaa_large.jpg?v=1604762306"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_e6496226-5213-4e79-a072-915d6087bfe0_large.jpg?v=1604762289"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_37ca39f5-490b-4f8c-b630-e9a4305b1eb8_large.jpg?v=1604762270"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_large.jpg?v=1604762259"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_a300e36e-f504-43c6-a706-93f5e9116157_large.jpg?v=1605156639"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a0c731db-1ccf-4f84-8d80-d69a8d498f61_large.jpg?v=1605079037"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_7c1a2eb2-82be-404d-b22d-6d8568b879ef_large.jpg?v=1605079033"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_6b040f08-854a-406f-8727-dada864ddb6a_large.jpg?v=1605079033"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_00cd4cc2-b55a-4869-b5a6-3ec52f689da0_large.jpg?v=1605079030"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_709685bd-1c28-455f-885f-46e23e4c70d1_large.jpg?v=1605079021"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e28507b5-b764-439f-9810-869cf99ed4c4_large.jpg?v=1605079018"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e5c33282-c21d-4c92-89dc-cf571e27ac67_large.jpg?v=1605079013"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_0ba4042c-8c92-4db8-a537-d459a583c460_large.jpg?v=1605079007"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_cbabd538-057c-4ea1-ae14-511cff4a4061_large.jpg?v=1605079010"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_78ae23a4-404a-4c96-851d-ed4ffd3c5a84_large.jpg?v=1605078999"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_944795e5-bb02-42f0-a96a-5a279cb6d65f_large.jpg?v=1605078996"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_d2819c16-2985-4756-a117-ddfbd7c463d0_large.jpg?v=1605078993"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_0db97250-951b-4631-bca0-f8455c4a8cd7_large.jpg?v=1605078989"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_fc7a5bbf-02fe-4608-b94c-272483793c7b_large.jpg?v=1605078984"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_4e95c79f-27dc-43b4-9902-a457fe555da9_large.jpg?v=1605079111"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_5a7a0bd1-469b-4bc4-8cfd-0bcd19d575be_large.jpg?v=1605078983"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_b0544f6f-0904-4874-880d-2bfb9b615635_large.jpg?v=1605078978"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_1ecae594-98b5-4575-a110-2269b2ff3a85_large.jpg?v=1605078972"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_37dc047e-61eb-4bc8-ba88-45ef7900e112_large.jpg?v=1605078969"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_103b1063-172e-4889-a4d4-575f6eb2a278_large.jpg?v=1605078965"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_27c43dec-e0e0-42ca-9236-9bcbd3436d33_large.jpg?v=1605078962"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_b6ea0ea4-c2a4-437a-a45c-f150910f5088_large.jpg?v=1605078959"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_c9cd774f-d450-42ec-8d8f-1c416b68bcfb_large.jpg?v=1605078953"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_dbe42926-0359-4ec2-b987-2d7458c7da63_large.jpg?v=1605078946"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_ba46bd07-eb98-427a-8270-72bfbbdf9645_large.jpg?v=1605078943"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_cf4956ef-fa6b-43c5-9923-ba6250a13bbd_large.jpg?v=1605078940"
     ],
     "inStock": true,
     "specs": [],
@@ -3724,7 +3724,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_f9ecbc7c-3cfa-4dc7-95ef-0d8fa6db3c20_large.jpg?v=1605078938"
     ],
     "inStock": true,
     "specs": [],
@@ -3742,7 +3742,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_bb7175d1-d63b-420a-9294-ced82f8aa880_large.jpg?v=1605078932"
     ],
     "inStock": true,
     "specs": [],
@@ -3760,7 +3760,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_4f39a2c2-ae67-4a4a-bb04-4db267a06a84_large.jpg?v=1605078904"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e56bc66f-2eec-408e-9fcd-a90edfe532b7_large.jpg?v=1605078897"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_3b8813b8-206c-45ea-be9f-be8396b15847_large.jpg?v=1605078863"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_bbce6387-97fb-45d1-a1e7-eb2829862ea9_large.jpg?v=1605078863"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_32d6d64b-d62d-47a3-a926-51705c8bdde0_large.jpg?v=1605078857"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_dbe0b5f6-aa54-4958-80a9-35a5112acd8c_large.jpg?v=1605078858"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_6d1bc60c-7ea8-4d6f-9571-a752d4325d14_large.jpg?v=1605078851"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a50bd3b9-62b5-4922-a4af-b641a62837b4_large.jpg?v=1605078841"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_d3f264ea-6747-4720-b2d4-56fd67ef89fb_large.jpg?v=1605078848"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_3b572bc9-41be-4bee-a1c9-f66458de4892_large.jpg?v=1605078836"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_e4b4911e-817d-43b8-9822-0e44caac833f_large.jpg?v=1605078833"
     ],
     "inStock": true,
     "specs": [],
@@ -3958,7 +3958,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_8712daf8-4b8a-4167-a0d5-2419997c58dc_large.jpg?v=1605078830"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_1538a0e1-2381-4b5d-8857-0ba8238a5198_large.jpg?v=1605078824"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_f43155c1-d47b-41c7-9ab7-34465f81d56f_large.jpg?v=1605078820"
     ],
     "inStock": true,
     "specs": [],
@@ -4012,7 +4012,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_70df2539-48ac-4be1-935b-efe34c47f071_large.jpg?v=1605078815"
     ],
     "inStock": true,
     "specs": [],
@@ -4030,7 +4030,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_95f16536-a629-4f10-b8ce-79d35753c857_large.jpg?v=1605078809"
     ],
     "inStock": true,
     "specs": [],
@@ -4048,7 +4048,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9a3b7fcb-a860-49be-9fb3-a6a59431841c_large.jpg?v=1605078806"
     ],
     "inStock": true,
     "specs": [],
@@ -4066,7 +4066,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_468dc2d3-5c80-42cf-909f-9c6e49a51ef8_large.jpg?v=1605078803"
     ],
     "inStock": true,
     "specs": [],
@@ -4084,7 +4084,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_58d73f8f-25c8-4f6d-a7e5-d2da734a229c_large.jpg?v=1605078796"
     ],
     "inStock": true,
     "specs": [],
@@ -4102,7 +4102,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_79bc6dbd-9fe4-4cae-864d-43b72c086de2_large.jpg?v=1605078797"
     ],
     "inStock": true,
     "specs": [],
@@ -4120,7 +4120,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_35877ffa-a8b0-4a7d-88f2-9a166143b961_large.jpg?v=1605078790"
     ],
     "inStock": true,
     "specs": [],
@@ -4138,7 +4138,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_59790ad6-c71b-4d6d-ab4d-f4e0f1465ce6_large.jpg?v=1605078767"
     ],
     "inStock": true,
     "specs": [],
@@ -4156,7 +4156,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_3b61596f-8234-4317-a64d-16f4090f619b_large.jpg?v=1605078766"
     ],
     "inStock": true,
     "specs": [],
@@ -4174,7 +4174,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9388ab4d-b6b6-40c0-bc53-15a2a6320f62_large.jpg?v=1605078760"
     ],
     "inStock": true,
     "specs": [],
@@ -4192,7 +4192,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_42d4b644-3128-4928-a86b-0ea5993dc1eb_large.jpg?v=1605078761"
     ],
     "inStock": true,
     "specs": [],
@@ -4210,7 +4210,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_60416a97-5875-47a3-a99d-4ce7973c8de0_large.jpg?v=1605078750"
     ],
     "inStock": true,
     "specs": [],
@@ -4228,7 +4228,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_dd8e37f2-57bf-4381-8739-90835efc404e_large.jpg?v=1605078746"
     ],
     "inStock": true,
     "specs": [],
@@ -4246,7 +4246,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_large.jpg?v=1605078740"
     ],
     "inStock": true,
     "specs": [],
@@ -4264,7 +4264,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_large.jpg?v=1605080313"
     ],
     "inStock": true,
     "specs": [],
@@ -4282,7 +4282,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_b6864117-c745-41cb-a371-fbbf5a636d64_large.jpg?v=1605080315"
     ],
     "inStock": true,
     "specs": [],
@@ -4300,7 +4300,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_e0d5c1b6-1e37-40d1-9352-c8bc1047fbe9_large.jpg?v=1605080314"
     ],
     "inStock": true,
     "specs": [],
@@ -4318,7 +4318,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_1169f129-8bd8-4066-a104-05346be1a112_large.jpg?v=1605080316"
     ],
     "inStock": true,
     "specs": [],
@@ -4336,7 +4336,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_9ee6dd11-0076-413a-b859-4d0c521a72f4_large.jpg?v=1605080317"
     ],
     "inStock": true,
     "specs": [],
@@ -4354,7 +4354,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_9e622d4a-b06e-44de-b340-dcdb0e6c431e_large.jpg?v=1605080318"
     ],
     "inStock": true,
     "specs": [],
@@ -4372,7 +4372,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_0bb43f02-3adf-46bf-871d-2f296dc934bb_large.jpg?v=1605080319"
     ],
     "inStock": true,
     "specs": [],
@@ -4390,7 +4390,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_05081de3-cbac-46d4-9e52-c29c5cd7901c_large.jpg?v=1605080319"
     ],
     "inStock": true,
     "specs": [],
@@ -4408,7 +4408,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_1d715bfc-19f7-4219-b893-ce823379fd3d_large.jpg?v=1605080320"
     ],
     "inStock": true,
     "specs": [],
@@ -4426,7 +4426,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_e1effce8-87d4-47cc-b3f6-7581f8b3d144_large.jpg?v=1605080321"
     ],
     "inStock": true,
     "specs": [],
@@ -4444,7 +4444,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_13fd78fe-c972-4afd-93b8-ff2a721f2b10_large.jpg?v=1605080322"
     ],
     "inStock": true,
     "specs": [],
@@ -4462,7 +4462,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_97cf8f37-214a-472e-aed1-203e573aa227_large.jpg?v=1605080323"
     ],
     "inStock": true,
     "specs": [],
@@ -4480,7 +4480,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_ad16535f-2d5c-4936-bd0a-29bd93b9c209_large.jpg?v=1605080324"
     ],
     "inStock": true,
     "specs": [],
@@ -4498,7 +4498,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_0af0d056-ed1f-447e-9d84-e30ca6067bd2_large.jpg?v=1605080325"
     ],
     "inStock": true,
     "specs": [],
@@ -4516,7 +4516,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_e8adc41f-7b23-40cb-bd52-3f138cd77862_large.jpg?v=1605080326"
     ],
     "inStock": true,
     "specs": [],
@@ -4534,7 +4534,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_5e049198-20b0-423f-b0ed-62d0779a9988_large.jpg?v=1605080327"
     ],
     "inStock": true,
     "specs": [],
@@ -4552,7 +4552,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_e81c27b6-7cc6-474a-8cd6-43a5150ff568_large.jpg?v=1605080328"
     ],
     "inStock": true,
     "specs": [],
@@ -4570,7 +4570,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_56273db9-3a19-4a41-8a2d-d57c5ec82d83_large.jpg?v=1605080329"
     ],
     "inStock": true,
     "specs": [],
@@ -4588,7 +4588,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_197bfe66-0c59-4acd-bc29-15a3db1d6d1d_large.jpg?v=1605080330"
     ],
     "inStock": true,
     "specs": [],
@@ -4606,7 +4606,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_143c55c2-98c5-43a3-8269-dd45fa4ac2b3_large.jpg?v=1605080331"
     ],
     "inStock": true,
     "specs": [],
@@ -4624,7 +4624,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_20c54861-6537-47f3-a3dd-04a15bc1520c_large.jpg?v=1605080331"
     ],
     "inStock": true,
     "specs": [],
@@ -4642,7 +4642,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_1bff2306-175d-4785-bf25-e2dea8676284_large.jpg?v=1605080332"
     ],
     "inStock": true,
     "specs": [],
@@ -4660,7 +4660,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_57c879bc-677a-492b-9b6f-f104933b8d38_large.jpg?v=1605080333"
     ],
     "inStock": true,
     "specs": [],
@@ -4678,7 +4678,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_d8b96a03-c3cb-49f6-bd8a-acc8692f5cb8_large.jpg?v=1605080334"
     ],
     "inStock": true,
     "specs": [],
@@ -4696,7 +4696,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_6cae941f-f336-4645-97a5-4e5ddeb34139_large.jpg?v=1605080335"
     ],
     "inStock": true,
     "specs": [],
@@ -4714,7 +4714,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_4042495c-847d-4926-a152-94dc21f869d9_large.jpg?v=1605080336"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_50e07d74-e1f0-4e98-b7b5-f9b0a19b1d58_large.jpg?v=1605080337"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_fa401c98-83ab-4d63-9d96-6c6745d12522_large.jpg?v=1605080338"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_a1126ae2-f3cb-4dfe-a9e8-f595fa456875_large.jpg?v=1605080339"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_b5dcfeb6-a948-4943-9c3f-d073a5f06123_large.jpg?v=1605080340"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_43f553ce-e211-47ee-87a0-b03094cb80ec_large.jpg?v=1605080341"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPI_Grounding_and_Bonding_Braid_74f516ef-25a4-4579-9aca-c5390c073da1_large.jpg?v=1605080342"
     ],
     "inStock": true,
     "specs": [],
@@ -4840,7 +4840,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_large.jpg?v=1605161664"
     ],
     "inStock": true,
     "specs": [],
@@ -4858,7 +4858,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FGBS_Fiberglass_Braided_Sleeve_81e3e27f-8187-4bce-b510-f4793d54ad0a_large.jpg?v=1605161665"
     ],
     "inStock": true,
     "specs": [],
@@ -4876,7 +4876,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_1c9831e0-4480-4e44-9957-9c87b7f9706f_large.jpg?v=1605161740"
     ],
     "inStock": true,
     "specs": [],
@@ -4894,7 +4894,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_d268fd4a-acd5-412d-81e4-2f7d4fc21b80_large.jpg?v=1605161741"
     ],
     "inStock": true,
     "specs": [],
@@ -4912,7 +4912,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_d5166c4c-c464-415d-ad34-999795efe1ca_large.jpg?v=1605161742"
     ],
     "inStock": true,
     "specs": [],
@@ -4930,7 +4930,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_3ae18182-74ed-4013-aa20-1825b6574038_large.jpg?v=1605161743"
     ],
     "inStock": true,
     "specs": [],
@@ -4948,7 +4948,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_c5d292b6-169b-4c05-9e47-6fc3d7a39cb6_large.jpg?v=1605161744"
     ],
     "inStock": true,
     "specs": [],
@@ -4966,7 +4966,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_10ce8dcd-0509-4213-bbd8-9b2e5637cacb_large.jpg?v=1605161745"
     ],
     "inStock": true,
     "specs": [],
@@ -4984,7 +4984,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_72e1b6ba-0f1b-4d62-a939-c39a1b85a48c_large.jpg?v=1605161746"
     ],
     "inStock": true,
     "specs": [],
@@ -5002,7 +5002,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_3aa0bedc-ce78-4bda-9616-8b4d47548858_large.jpg?v=1605161747"
     ],
     "inStock": true,
     "specs": [],
@@ -5020,7 +5020,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_d2711568-5d44-43b9-a452-f78a8b70e644_large.jpg?v=1605069124"
     ],
     "inStock": true,
     "specs": [],
@@ -5038,7 +5038,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_d2711568-5d44-43b9-a452-f78a8b70e644_large.jpg?v=1605069124"
     ],
     "inStock": true,
     "specs": [],
@@ -5056,7 +5056,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_27985984-1dd9-405d-89e8-69e269ca1d81_large.jpg?v=1605069086"
     ],
     "inStock": true,
     "specs": [],
@@ -5074,7 +5074,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_0e46683b-92b3-45c2-8a39-482b654e9a67_large.jpg?v=1605069080"
     ],
     "inStock": true,
     "specs": [],
@@ -5092,7 +5092,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_large.jpg?v=1605069056"
     ],
     "inStock": true,
     "specs": [],
@@ -5110,7 +5110,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UFSERIFLEXIBSBSupportKit_large.jpg?v=1604814391"
     ],
     "inStock": true,
     "specs": [],
@@ -5128,7 +5128,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_8225d2fb-c99f-4e31-b75c-5eaacf030182_large.jpg?v=1605070562"
     ],
     "inStock": true,
     "specs": [],
@@ -5146,7 +5146,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_ab95cc44-81c5-41a2-b8c2-80c258f2772e_large.jpg?v=1605070556"
     ],
     "inStock": true,
     "specs": [],
@@ -5164,7 +5164,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_28a0309d-136b-4594-b08c-eb4970d0b6fd_large.jpg?v=1605070549"
     ],
     "inStock": true,
     "specs": [],
@@ -5182,7 +5182,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_0b9dfee6-de0b-4f7d-b186-df1c31396fb1_large.jpg?v=1605070537"
     ],
     "inStock": true,
     "specs": [],
@@ -5200,7 +5200,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_65fd9270-9e50-4cb1-bbb2-fa09c78e0606_large.jpg?v=1605070524"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const unknownpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

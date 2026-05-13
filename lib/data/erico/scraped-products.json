@@ -8,7 +8,7 @@
     "features": [
       "Tinned copper conductor",
       "Vinyl compound insulation",
-      "Working temperature -25°C to 105°C",
+      "Working temperature -25\u00b0C to 105\u00b0C",
       "370% elongation",
       "CE and UL approved",
       "RoHS compliant"
@@ -16,13 +16,15 @@
     "specs": [
       "Conductor: Cu-ETP (Electrolytic Copper)",
       "Insulation: High-resistance vinyl compound",
-      "Temperature Range: -25°C to 105°C",
+      "Temperature Range: -25\u00b0C to 105\u00b0C",
       "Elongation: 370%",
       "Certifications: CE, UL, RoHS"
     ],
     "id": 3100,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.762355659273743,
@@ -51,7 +53,9 @@
     ],
     "id": 3101,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/ERICO_FLEXIBAR_Accessories_end-cover-300x300_d74d7a0a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.91075527145078,
@@ -80,7 +84,9 @@
     ],
     "id": 3102,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/ERICO_FLEXIBAR_Accessories_end-cover-300x300_d74d7a0a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.809817209626504,
@@ -109,7 +115,9 @@
     ],
     "id": 3103,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/ABS_adjustable_busbar_supports_ABS_adjustable_busb_ABS-300x300_59de8ae0.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.906671136249337,
@@ -133,12 +141,14 @@
       "Conductor: Tinned copper braid",
       "Insulation: Halogen-free",
       "Profile: Round",
-      "Temperature: -40°C to +125°C",
+      "Temperature: -40\u00b0C to +125\u00b0C",
       "Flexibility: Very high"
     ],
     "id": 3104,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/insulated_braided_conductor_featured_insulated-bra_insulated-braided-conductor-featured_52596ecd.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.9398078562137915,
@@ -167,7 +177,9 @@
     ],
     "id": 3105,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/IBS_Flat_Insulated_Braided_Conductor_IBS-conductor_IBS-conductor_ec75339b.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.914631717661896,
@@ -196,7 +208,9 @@
     ],
     "id": 3106,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/FTCBI_flat_tinned_copper_braid_insulated_FTCBI_fla_FTCBI-flat-tinned-copper-braid-insulated-350x360_8bb01200.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.783518929783083,
@@ -225,7 +239,9 @@
     ],
     "id": 3107,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/PBC_braided_power_shunt_PBC_braided_power_shunt_PBC-350x360_ec62c5e6.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.875874425715866,
@@ -254,7 +270,9 @@
     ],
     "id": 3108,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/PPS_presswelded_power_shunt_PPS_presswelded_power__PPS-presswelded-power-shunt-350x360_30aa4b20.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.922886028009602,
@@ -283,7 +301,9 @@
     ],
     "id": 3109,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.901929576920342,
@@ -312,7 +332,9 @@
     ],
     "id": 3110,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.938572127725578,
@@ -341,7 +363,9 @@
     ],
     "id": 3111,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/UBS_Universal_Busbar_Supports_UBS_Universal_Busbar_UBS-300x300_3b919330.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.753771448469152,
@@ -370,7 +394,9 @@
     ],
     "id": 3112,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/HCBC_high_current_busbar_clamp_HCBC_high_current_b_HCBC_high_current_busbar_clamp-350x360_31999a54.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.801069371452974,
@@ -399,7 +425,9 @@
     ],
     "id": 3113,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.897534406038608,
@@ -428,7 +456,9 @@
     ],
     "id": 3114,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Flexible_Conductors_flexible-conductor_98144139.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.940342064250333,
@@ -457,7 +487,9 @@
     ],
     "id": 3115,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/BD-40A_BD-40A_BD-40A-300x300_36e975cb.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.713193973083536,
@@ -486,7 +518,9 @@
     ],
     "id": 3116,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/UD-80A_distribution_blocks_UD-80A_distribution_blo_UD-80A-300x300_559cda7a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.860325803546496,
@@ -515,7 +549,9 @@
     ],
     "id": 3117,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/UD-400A_UD-400A_UD-400A-300x300_6234bd05.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.786102443891182,
@@ -544,7 +580,9 @@
     ],
     "id": 3118,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/SB-power-terminals_SB-power-terminals_SB-power-terminals-300x300_81ee0a3c.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.765770793203094,
@@ -573,7 +611,9 @@
     ],
     "id": 3119,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Disconnectable_PEN_System_PEN-system-300x300_f128ef7a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.7199478956195895,
@@ -602,7 +642,9 @@
     ],
     "id": 3120,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/CPI_grounding_bonding_braid_stainless_steel_CPI_gr_CPI-grounding-bonding-braid-stainless-steel-350x360_b337dc8a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.640975225771744,
@@ -613,9 +655,9 @@
     "model": "MBJ",
     "category": "Grounding Braids",
     "subcategory": "MBJ Tinned Copper",
-    "description": "Tinned copper grounding and bonding braid. Complete range from 6-100mm² cross section and 100-500mm lengths.",
+    "description": "Tinned copper grounding and bonding braid. Complete range from 6-100mm\u00b2 cross section and 100-500mm lengths.",
     "features": [
-      "6-100mm² cross sections",
+      "6-100mm\u00b2 cross sections",
       "100-500mm lengths",
       "Tinned copper",
       "With/without lugs",
@@ -624,14 +666,16 @@
     ],
     "specs": [
       "Material: Tinned Copper",
-      "Cross Section: 6-100mm²",
+      "Cross Section: 6-100mm\u00b2",
       "Length: 100-500mm",
       "Terminations: Optional lugs",
       "Flexibility: Very high"
     ],
     "id": 3121,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/MBJ_grounding_bonding_braids_erico_MBJ_grounding_b_MBJ-grounding-bonding-braids-350x360_80fa7804.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.724453822892045,
@@ -660,7 +704,9 @@
     ],
     "id": 3122,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/FTCB_flat_tinned_copper_braids_FTCB_flat_tinned_co_FTCB-flat-tinned-copper-braids-350x360_e792609d.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.791334860295006,
@@ -689,7 +735,9 @@
     ],
     "id": 3123,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/BJ_round_braid_with_crimped_lugs_BJ_round_braid_wi_BJ-round-braid-crimped-lugs-350x360_3e8fa2ee.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.646998055655747,
@@ -718,7 +766,9 @@
     ],
     "id": 3124,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/FRCB_15_flat_plain_copper_braids_FRCB_15_flat_plai_FRCB-15-flat-plain-copper-braids-350x360_a5352ba3.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.762791335209251,
@@ -747,7 +797,9 @@
     ],
     "id": 3125,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.631604997764211,
@@ -776,7 +828,9 @@
     ],
     "id": 3126,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.776641639964893,
@@ -805,7 +859,9 @@
     ],
     "id": 3127,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/ISO-TP_low_voltage_metric_insulators_ISO-TP_low_vo_ISO-TP-insulators-300x300_f859f294.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.963229760172027,
@@ -834,7 +890,9 @@
     ],
     "id": 3128,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Insulators_insulator-300x300_01841cbd.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.618045245434149,
@@ -863,7 +921,9 @@
     ],
     "id": 3129,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/insulators_erico_insulators_erico_insulators-erico1-300x300_1db24161.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.794127383644822,
@@ -892,7 +952,9 @@
     ],
     "id": 3130,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Universal_Connecting_Bar_universal_connecting_bar-350x360_ba724680.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.89889482283801,
@@ -921,7 +983,9 @@
     ],
     "id": 3131,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Universal_Connecting_Bar_universal_connecting_bar-350x360_ba724680.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.761853194930459,
@@ -950,7 +1014,9 @@
     ],
     "id": 3132,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Grounding_Parts_EB-20_earthing_neutral_busbar-350x360_8b101f66.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.610644973408745,
@@ -979,7 +1045,9 @@
     ],
     "id": 3133,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Grounding_Parts_EB-20_earthing_neutral_busbar-350x360_8b101f66.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.892800251015615,
@@ -1008,7 +1076,9 @@
     ],
     "id": 3134,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Grounding_Parts_EB-20_earthing_neutral_busbar-350x360_8b101f66.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.773496780220578,
@@ -1037,7 +1107,9 @@
     ],
     "id": 3135,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Grounding_Parts_EB-20_earthing_neutral_busbar-350x360_8b101f66.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.705296335075302,
@@ -1066,7 +1138,9 @@
     ],
     "id": 3136,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Grounding_Parts_EB-20_earthing_neutral_busbar-350x360_8b101f66.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.955254407175641,
@@ -1095,7 +1169,9 @@
     ],
     "id": 3137,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Grounding_Parts_EB-20_earthing_neutral_busbar-350x360_8b101f66.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.8758771323624615,
@@ -1124,7 +1200,9 @@
     ],
     "id": 3138,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/PCB_plain_copper_busbar_PCB_plain_copper_busbar_PBC_plain_busbar-350x360_b933d97c.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.927884787248724,
@@ -1153,7 +1231,9 @@
     ],
     "id": 3139,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/DPCB_punched_plain_copper_busbar_double_DPCB_punch_DPCB_double_punched_busbar-350x360_feeee51d.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.645347355208746,
@@ -1182,7 +1262,9 @@
     ],
     "id": 3140,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/DPCB_punched_plain_copper_busbar_double_DPCB_punch_DPCB_double_punched_busbar-350x360_feeee51d.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.861049550595387,
@@ -1211,7 +1293,9 @@
     ],
     "id": 3141,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/TCB_threaded_busbar_TCB_threaded_busbar_TCB_threaded_busbar-350x360_52c7809c.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.899533620697017,
@@ -1240,7 +1324,9 @@
     ],
     "id": 3142,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/TCB_threaded_busbar_with_fixing_hole_TCB_threaded__TCB_threaded_busbar_with_fixing_hole-350x360_211e081e.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.603284065239701,
@@ -1269,7 +1355,9 @@
     ],
     "id": 3143,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/TCB_threaded_busbar_with_fixing_slot_TCB_threaded__TCB_threaded_busbar_fixing_slot-350x360_d6eaa6ed.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.707781933539625,
@@ -1298,7 +1386,9 @@
     ],
     "id": 3144,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/TCBW_threaded_busbar_TCBW_threaded_busbar_TCBW_threaded_busbar-350x360_ac477da4.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.673604754694512,
@@ -1327,7 +1417,9 @@
     ],
     "id": 3145,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/BMS_bimetal_plate_BMS_bimetal_plate_BMS_bimetal_plate-350x360_295f2ee7.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.9242432854777505,
@@ -1356,7 +1448,9 @@
     ],
     "id": 3146,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/XM5_threaded_busbar_connector_XM5_threaded_busbar__XM5_connector-350x360_80d380c4.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.959093606768863,
@@ -1385,7 +1479,9 @@
     ],
     "id": 3147,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/ABS_adjustable_busbar_supports_ABS_adjustable_busb_ABS-300x300_59de8ae0.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.9181297550712895,
@@ -1414,7 +1510,9 @@
     ],
     "id": 3148,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/adjustable_busbar_supports_adjustable_busbar_suppo_adjustable-busbar-supports-300x300_152ba74f.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.682757730473307,
@@ -1443,7 +1541,9 @@
     ],
     "id": 3149,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Compact_and_Adjustable_Busbar_Support_Compact_and__CABS-300x300_ceb023d5.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.968758831330417,
@@ -1472,7 +1572,9 @@
     ],
     "id": 3150,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/compact_reinforced_busbar_supports_compact_reinfor_compact-reinforced-busbar-supports-300x300_44abd210.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.616030879509628,
@@ -1501,7 +1603,9 @@
     ],
     "id": 3151,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Busbar_Supports_solutions-for-electrical-power-category-img-300x300_8f79b7f0.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.935243669714948,
@@ -1530,7 +1634,9 @@
     ],
     "id": 3152,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/4-pole-insulating-supports_4-pole-insulating-suppo_4-pole-insulating-supports-300x300_5a2ec0f4.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.993261197402395,
@@ -1559,7 +1665,9 @@
     ],
     "id": 3153,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/UBS_Universal_Busbar_Supports_UBS_Universal_Busbar_UBS-300x300_3b919330.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.619969168788746,
@@ -1588,7 +1696,9 @@
     ],
     "id": 3154,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/BC_ribbed_steel_busbar_clamp_BC_ribbed_steel_busba_BC_ribbed_steel_busbar_clamp-350x360_d4b6d2c9.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.872228716132139,
@@ -1617,7 +1727,9 @@
     ],
     "id": 3155,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/CONT_KIT_metal_nuts_bolts_contact_kit_CONT_KIT_met_CONT_KIT_metal_nuts_bolts_contact_kit-350x360_25c8ae81.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.972603198591157,
@@ -1646,7 +1758,9 @@
     ],
     "id": 3156,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/FBC_connectors_for_connecting_without_drilling_FBC_FBC_connectors_without_drilling-350x360_fe8d240e.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.62526198468469,
@@ -1675,7 +1789,9 @@
     ],
     "id": 3157,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/FC_erico_flexibar_clamp_FC_erico_flexibar_clamp_FC_erico_flexibar_clamp-350x360_8175290c.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.696470884245245,
@@ -1704,7 +1820,9 @@
     ],
     "id": 3158,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/HCBC_high_current_busbar_clamp_HCBC_high_current_b_HCBC_high_current_busbar_clamp-350x360_31999a54.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.9910302262593405,
@@ -1733,7 +1851,9 @@
     ],
     "id": 3159,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/QCC_clamps_eriflex_flexibar_QCC_clamps_eriflex_fle_QCC_clamp_eriflex_flexibar-350x360_d1ce38fb.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.870643788837533,
@@ -1762,7 +1882,9 @@
     ],
     "id": 3160,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/steel_profiles_image_steel_profiles_image_steel-profiles-img-300x300_be479359.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.901683301919441,
@@ -1791,7 +1913,9 @@
     ],
     "id": 3161,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/steel_profiles_image_steel_profiles_image_steel-profiles-img-300x300_be479359.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.85749278433209,
@@ -1820,7 +1944,9 @@
     ],
     "id": 3162,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Profiles_profiles-300x300_1794dc9f.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.991902716110387,
@@ -1849,7 +1975,9 @@
     ],
     "id": 3163,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/steel_profiles_image_steel_profiles_image_steel-profiles-img-300x300_be479359.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.886199710196038,
@@ -1878,7 +2006,9 @@
     ],
     "id": 3164,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/steel_profiles_image_steel_profiles_image_steel-profiles-img-300x300_be479359.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.971443013823169,
@@ -1907,7 +2037,9 @@
     ],
     "id": 3165,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/adjustable_busbar_supports_adjustable_busbar_suppo_adjustable-busbar-supports-300x300_152ba74f.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.93137787553874,
@@ -1918,25 +2050,27 @@
     "model": "FGBS",
     "category": "Cable Management",
     "subcategory": "FGBS Fiberglass",
-    "description": "Fiberglass braided sleeve for high-temperature cable protection. Temperature range up to 400°C.",
+    "description": "Fiberglass braided sleeve for high-temperature cable protection. Temperature range up to 400\u00b0C.",
     "features": [
       "Fiberglass material",
       "High temperature",
-      "Up to 400°C",
+      "Up to 400\u00b0C",
       "Flexible",
       "Easy installation",
       "Cut to length"
     ],
     "specs": [
       "Material: Fiberglass",
-      "Temperature: Up to 400°C",
+      "Temperature: Up to 400\u00b0C",
       "Type: Braided sleeve",
       "Flexibility: Good",
       "Diameters: Various"
     ],
     "id": 3166,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/FGBS_FGBS_FGBS-300x300_2cd174d2.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.6846247755951005,
@@ -1947,25 +2081,27 @@
     "model": "PDBS",
     "category": "Cable Management",
     "subcategory": "PDBS Polyamide",
-    "description": "Polyamide 6/6 braided sleeve. Highly expandable, provides coverage up to Ø80mm. Halogen-free and UL approved.",
+    "description": "Polyamide 6/6 braided sleeve. Highly expandable, provides coverage up to \u00d880mm. Halogen-free and UL approved.",
     "features": [
       "Polyamide 6/6",
       "Highly expandable",
-      "Up to Ø80mm",
+      "Up to \u00d880mm",
       "Halogen-free",
       "UL approved",
       "Grey or black"
     ],
     "specs": [
       "Material: Polyamide 6/6",
-      "Expansion: Up to Ø80mm",
+      "Expansion: Up to \u00d880mm",
       "Halogen: Free",
       "Colors: Grey, Black",
       "Certification: UL"
     ],
     "id": 3167,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/PDBS_cabling_sleeves_PDBS_cabling_sleeves_PDBS-cabling-sleeves-300x300_551b6613.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.894403650597318,
@@ -1994,7 +2130,9 @@
     ],
     "id": 3168,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Sleeves_sleeves-category-300x300_a43dd9de.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.609223427665182,
@@ -2023,7 +2161,9 @@
     ],
     "id": 3169,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Sleeves_sleeves-category-300x300_a43dd9de.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.769755865527123,
@@ -2052,7 +2192,9 @@
     ],
     "id": 3170,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/Sleeves_sleeves-category-300x300_a43dd9de.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.901139256598019,
@@ -2081,7 +2223,9 @@
     ],
     "id": 3171,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/torque_calculation_torque_calculation_torque-calculation-300x300_03ef145a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.637124645264186,
@@ -2110,7 +2254,9 @@
     ],
     "id": 3172,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/torque_calculation_torque_calculation_torque-calculation-300x300_03ef145a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.672412337737961,
@@ -2139,7 +2285,9 @@
     ],
     "id": 3173,
     "brand": "ERICO",
-    "images": [],
+    "images": [
+      "/assets/images/products/erico/torque_calculation_torque_calculation_torque-calculation-300x300_03ef145a.jpg"
+    ],
     "url": "https://www.nvent.com/en-gb/eriflex",
     "inStock": true,
     "rating": 4.833125018806728,

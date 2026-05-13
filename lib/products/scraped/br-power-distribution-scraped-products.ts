@@ -16,7 +16,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_cd2b2314-445a-433e-9b4b-e3a2fe1108b3_large.jpg?v=1605070455"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_fce42829-9cbd-46e5-9144-797ff32c565b_large.jpg?v=1605070453"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_bd90b682-88ce-4c97-ada2-c8025b372822_large.jpg?v=1605070438"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_10b6eac4-8a25-4f54-b454-38da01a3d983_large.jpg?v=1605070432"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_52250819-5de5-4979-a14f-728abd1bcd4b_large.jpg?v=1604762628"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_35f37b26-dd05-4087-8ce2-e59a43374355_large.jpg?v=1604762593"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_1785b537-bf49-43f0-8c5b-253868b5aa98_large.jpg?v=1604762556"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_1658c1de-0ebb-4f9d-9460-13505039abaf_large.jpg?v=1604762581"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_cff0452f-80bf-42c9-860d-a3b06701326b_large.jpg?v=1604762519"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const brpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVentERIFLEXFlexibarAdvanced_f05ae480-3fb4-4994-90aa-79935fcfa271_large.jpg?v=1604762540"
     ],
     "inStock": true,
     "specs": [],

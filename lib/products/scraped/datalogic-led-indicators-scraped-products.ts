@@ -16,7 +16,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const datalogicled_indicatorsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

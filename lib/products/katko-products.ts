@@ -57,7 +57,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "IEC 60947-3 standards",
       installation: "Compatible with handles LK10 and LK11"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches.png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 45,
@@ -90,7 +90,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "IEC 60947-3 standards",
       installation: "Requires handle (LKX50, LKX50YR, LK10RT, or LK10RTYR)"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches (1).png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 32,
@@ -126,7 +126,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "IEC 60947-3",
       installation: "Handles LK10, LK11 (load break) and LK12 (change-over); Shafts L=100/200/300 AD11 and AD11/VT"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches (2).png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.7,
     reviews: 58,
@@ -160,7 +160,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "IEC 60947-3",
       installation: "Handles LK10, LK11 (3&4 poles), LK12 (6&8 poles), LK12CO102 (change-over)"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches KU 160.png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.6,
     reviews: 41,
@@ -195,7 +195,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "Icw 690V (1s) 8kA, R.M.S value 100 kA",
       installation: "Handle LKX 100, Shaft L=200 AD12/T6"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches (3).png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 29,
@@ -230,7 +230,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "Icw 690V (1s) 13.5kA, R.M.S value 100 kA",
       installation: "Handle LKX 150, Shaft LVK=228"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches (4).png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 18,
@@ -265,7 +265,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "Icw 690V (1s) 28kA, R.M.S value 100kA",
       installation: "Handle LKX 150, Shaft LVK=228"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches KU 800.png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 5.0,
     reviews: 12,
@@ -299,7 +299,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "IEC 60947-3",
       installation: "Handle LK12 and shaft L=228 AD12/T6 included"
     },
-    images: ["/images/products/katko/load-break-switches/LoadSafe Product Image.png"],
+    images: ["/assets/images/products/katko/VKA-series_VKA-series_VKA-series-300x300_ad38d19f.jpg"],
     inStock: true,
     rating: 4.7,
     reviews: 24,
@@ -333,7 +333,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "IEC 60947-3",
       installation: "Optional three-phase section rail adapter"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches 1024x1024.png"],
+    images: ["/assets/images/products/katko/KUE-series_KUE-series_KUE-series-300x300_92977345.jpg"],
     inStock: true,
     rating: 4.5,
     reviews: 37,
@@ -368,7 +368,7 @@ export const katkoLoadBreakSwitches: KatkoProduct[] = [
       testing: "IEC 60947-3",
       installation: "Terminal covers (LS/VS) and phase barriers available"
     },
-    images: ["/images/products/katko/load-break-switches/Load Break Switches EVA.png"],
+    images: ["/assets/images/products/katko/KUE-series_KUE-series_KUE-series-300x300_92977345.jpg"],
     inStock: true,
     rating: 4.6,
     reviews: 21,
@@ -404,7 +404,7 @@ export const katkoSwitchFuses: KatkoProduct[] = [
       testing: "IEC 60269",
       installation: "Handles LK10, LK11; Shafts L=100/200/300 AD11 and AD11/VT"
     },
-    images: ["/images/products/katko/switch-fuses/Switch Fuses.png"],
+    images: ["/assets/images/products/katko/KKV-switch-fuse_KKV-switch-fuse_KKV-switch-fuse-300x300_ab2c00d7.jpg"],
     inStock: true,
     rating: 4.7,
     reviews: 33,
@@ -439,7 +439,7 @@ export const katkoSwitchFuses: KatkoProduct[] = [
       testing: "IEC 60269",
       installation: "Handle LK10 and shaft L=180 mm included"
     },
-    images: ["/images/products/katko/switch-fuses/Switch Fuses 600x600.png"],
+    images: ["/assets/images/products/katko/KKV-switch-fuse_KKV-switch-fuse_KKV-switch-fuse-300x300_ab2c00d7.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 28,
@@ -476,7 +476,7 @@ export const katkoSwitchFuses: KatkoProduct[] = [
       testing: "IEC 60269",
       installation: "Handle LK12 and shaft L=220 AD12/T included"
     },
-    images: ["/images/products/katko/switch-fuses/FuseSafe Product Image.png"],
+    images: ["/assets/images/products/katko/KKV-switch-fuse_KKV-switch-fuse_KKV-switch-fuse-300x300_ab2c00d7.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 19,
@@ -513,7 +513,7 @@ export const katkoSwitchFuses: KatkoProduct[] = [
       testing: "IEC 60269",
       installation: "Handle LK14 and shaft LVK=228 included"
     },
-    images: ["/images/products/katko/switch-fuses/Switch Fuses.png"],
+    images: ["/assets/images/products/katko/KKV-switch-fuse_KKV-switch-fuse_KKV-switch-fuse-300x300_ab2c00d7.jpg"],
     inStock: true,
     rating: 5.0,
     reviews: 14,
@@ -550,7 +550,7 @@ export const katkoULCSAListed: KatkoProduct[] = [
       testing: "UL 508, CSA C22.2 No.14",
       installation: "Compatible with UL accessories and handles"
     },
-    images: ["/images/products/katko/ul-csa-listed/UL KU80 Katko.png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 42,
@@ -585,7 +585,7 @@ export const katkoULCSAListed: KatkoProduct[] = [
       testing: "UL 508, CSA C22.2 No.14",
       installation: "Class CC fuse holders, UL listed accessories"
     },
-    images: ["/images/products/katko/ul-csa-listed/UL KKV 768x768.png"],
+    images: ["/assets/images/products/katko/KKV-switch-fuse_KKV-switch-fuse_KKV-switch-fuse-300x300_ab2c00d7.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 38,
@@ -620,7 +620,7 @@ export const katkoULCSAListed: KatkoProduct[] = [
       testing: "UL 508, CSA C22.2 No.14",
       installation: "UL listed handles and shafts required"
     },
-    images: ["/images/products/katko/ul-csa-listed/UL KU RT Range.png"],
+    images: ["/assets/images/products/katko/KU-series_KU-series_KU-series-300x300_fd4d2973.jpg"],
     inStock: true,
     rating: 4.7,
     reviews: 29,
@@ -655,7 +655,7 @@ export const katkoULCSAListed: KatkoProduct[] = [
       testing: "UL Type 4X, CSA equivalent",
       installation: "UL listed conduits and fittings"
     },
-    images: ["/images/products/katko/ul-csa-listed/ISF Range Small.png"],
+    images: ["/assets/images/products/katko/MMC-polycarbonate_MMC-polycarbonate_MMC-polycarbonate-300x300_d244af43.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 31,
@@ -690,7 +690,7 @@ export const katkoULCSAListed: KatkoProduct[] = [
       testing: "UL 508, CSA, EMC standards",
       installation: "EMC glands and shielded cables required"
     },
-    images: ["/images/products/katko/ul-csa-listed/Katko EMC Product Range.png"],
+    images: ["/assets/images/products/katko/VKA-series_VKA-series_VKA-series-300x300_ad38d19f.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 24,
@@ -725,7 +725,7 @@ export const katkoULCSAListed: KatkoProduct[] = [
       testing: "UL 508, CSA C22.2 No.14",
       installation: "Complete installation kit included"
     },
-    images: ["/images/products/katko/ul-csa-listed/UL Accessories.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.6,
     reviews: 18,
@@ -762,7 +762,7 @@ export const katkoConnectors: KatkoProduct[] = [
       testing: "IEC 60947-7-1",
       installation: "Tool-free wire insertion"
     },
-    images: ["/images/products/katko/connectors/Connectors KKL 768x768.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.7,
     reviews: 35,
@@ -797,7 +797,7 @@ export const katkoConnectors: KatkoProduct[] = [
       testing: "IEC 60947-7-1, UL Listed",
       installation: "Spring-loaded terminals"
     },
-    images: ["/images/products/katko/connectors/Connectors KLH 768x768.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 42,
@@ -832,7 +832,7 @@ export const katkoConnectors: KatkoProduct[] = [
       testing: "IEC 60947-1",
       installation: "M4 bolt connection"
     },
-    images: ["/images/products/katko/connectors/KLM1x50 M4 Connector.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.6,
     reviews: 28,
@@ -867,7 +867,7 @@ export const katkoConnectors: KatkoProduct[] = [
       testing: "Full IEC compliance",
       installation: "Complete system with accessories"
     },
-    images: ["/images/products/katko/connectors/ConnectSafe Product Image.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 56,
@@ -902,7 +902,7 @@ export const katkoConnectors: KatkoProduct[] = [
       testing: "IEC 60947-7-1",
       installation: "Multiple connection methods"
     },
-    images: ["/images/products/katko/connectors/ConnectSafe Terminal Blocks.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.7,
     reviews: 73,
@@ -943,7 +943,7 @@ export const katkoInstallationEnclosures: KatkoProduct[] = [
       testing: "IP65/IP66, IEC 60439-1",
       installation: "Complete mounting and wiring systems"
     },
-    images: ["/images/products/katko/installation-enclosures/KATKO Product Range.png"],
+    images: ["/assets/images/products/katko/MMC-polycarbonate_MMC-polycarbonate_MMC-polycarbonate-300x300_d244af43.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 89,
@@ -980,7 +980,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "IEC 60947-3",
       installation: "Tool-free installation"
     },
-    images: ["/images/products/katko/accessories/Handles Accessories 768x768.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 67,
@@ -1015,7 +1015,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "IP65/IP66 protection",
       installation: "Quick-fit design"
     },
-    images: ["/images/products/katko/accessories/Accessories Cover 768x768.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.7,
     reviews: 89,
@@ -1050,7 +1050,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "Mechanical load testing",
       installation: "Professional mounting hardware"
     },
-    images: ["/images/products/katko/accessories/Accessories Fixing 768x768.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 134,
@@ -1085,7 +1085,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "Door load testing",
       installation: "Complete mounting kit"
     },
-    images: ["/images/products/katko/accessories/Door Mounting Accessories.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 92,
@@ -1120,7 +1120,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "IEC 60947-3",
       installation: "Complete change over kit"
     },
-    images: ["/images/products/katko/accessories/Change Over Kit.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.6,
     reviews: 43,
@@ -1155,7 +1155,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "Mechanical strength testing",
       installation: "Professional metal accessories"
     },
-    images: ["/images/products/katko/accessories/Metal Accessory.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.9,
     reviews: 78,
@@ -1190,7 +1190,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "Electrical insulation testing",
       installation: "Easy-fit plastic accessories"
     },
-    images: ["/images/products/katko/accessories/Plastic Accessory.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.5,
     reviews: 56,
@@ -1225,7 +1225,7 @@ export const katkoAccessories: KatkoProduct[] = [
       testing: "Full compliance testing",
       installation: "Complete accessory solution"
     },
-    images: ["/images/products/katko/accessories/KATKO Accessories.png"],
+    images: ["/assets/images/products/katko/accessories_accessories_accessories1-300x300_29258c31.jpg"],
     inStock: true,
     rating: 4.8,
     reviews: 145,

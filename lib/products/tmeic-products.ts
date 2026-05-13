@@ -14,7 +14,7 @@ export const tmeicProducts: Product[] = [
     price: 3200,
     rating: 5.0,
     reviews: 89,
-    images: ["images/tmeic/TMdrive-10/TMdrive-10-angle.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Popular",
     specs: [
@@ -42,7 +42,7 @@ export const tmeicProducts: Product[] = [
     price: 3800,
     rating: 4.9,
     reviews: 67,
-    images: ["images/tmeic/TMdrive-10e2/product-tmdrive-10e2-doors-open.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "Enhanced Performance",
@@ -69,7 +69,7 @@ export const tmeicProducts: Product[] = [
     price: 8500,
     rating: 4.8,
     reviews: 45,
-    images: ["images/tmeic/TMdrive-30/TMdrive-30-angle.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Industrial",
     specs: [
@@ -97,7 +97,7 @@ export const tmeicProducts: Product[] = [
     price: 12500,
     rating: 4.9,
     reviews: 38,
-    images: ["images/tmeic/TMdrive-50/TMdrive-50-angle.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "High Performance",
@@ -124,7 +124,7 @@ export const tmeicProducts: Product[] = [
     price: 18500,
     rating: 4.9,
     reviews: 32,
-    images: ["images/tmeic/TMdrive-70/TMdrive-70-angle.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "High Power",
     specs: [
@@ -154,7 +154,7 @@ export const tmeicProducts: Product[] = [
     price: 21000,
     rating: 4.9,
     reviews: 28,
-    images: ["images/tmeic/TMdrive-70e2/TMdrive-70e2-angle.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "Enhanced Performance",
@@ -181,7 +181,7 @@ export const tmeicProducts: Product[] = [
     price: 15800,
     rating: 5.0,
     reviews: 62,
-    images: ["images/tmeic/TMdrive-MVe2/Product-MVe2-2.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Featured",
     specs: [
@@ -209,7 +209,7 @@ export const tmeicProducts: Product[] = [
     price: 16500,
     rating: 4.8,
     reviews: 34,
-    images: ["images/tmeic/TMdrive-MVG/TMdrive-MVG2-angle.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "Grid-Friendly",
@@ -236,7 +236,7 @@ export const tmeicProducts: Product[] = [
     price: 19200,
     rating: 4.9,
     reviews: 28,
-    images: ["images/tmeic/TMdrive-MVG2/product-mvdrive-TMdrive-MVG2.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Next Gen",
     specs: [
@@ -264,7 +264,7 @@ export const tmeicProducts: Product[] = [
     price: 25000,
     rating: 4.9,
     reviews: 22,
-    images: ["images/tmeic/TMdrive-XL55/product-mvdrive-TMdrive-XL55_0.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "High Power",
     specs: [
@@ -292,7 +292,7 @@ export const tmeicProducts: Product[] = [
     price: 32000,
     rating: 5.0,
     reviews: 18,
-    images: ["images/tmeic/TMdrive-XL75/product-mvdrive-TMdrive-XL75_0.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Ultra Power",
     specs: [
@@ -320,7 +320,7 @@ export const tmeicProducts: Product[] = [
     price: 38000,
     rating: 5.0,
     reviews: 15,
-    images: ["images/tmeic/TMdrive-XL80/product-mvdrives-tmdirve-xl80.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Top Tier",
     specs: [
@@ -348,7 +348,7 @@ export const tmeicProducts: Product[] = [
     price: 42000,
     rating: 5.0,
     reviews: 12,
-    images: ["images/tmeic/TMdrive-XL85/XL85-no-bg.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Premium",
     specs: [
@@ -377,7 +377,7 @@ export const tmeicProducts: Product[] = [
     price: 8900,
     rating: 4.8,
     reviews: 54,
-    images: ["images/tmeic/TMdrive-DC/product-dcdrives-tmdc.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "DC Drive System",
@@ -404,7 +404,7 @@ export const tmeicProducts: Product[] = [
     price: 11200,
     rating: 4.9,
     reviews: 41,
-    images: ["images/tmeic/TMdrive-DCe2/product-dcdrives-tmdc.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Enhanced",
     specs: [
@@ -433,7 +433,7 @@ export const tmeicProducts: Product[] = [
     price: 8500,
     rating: 4.7,
     reviews: 89,
-    images: ["images/tmeic/SOLAR_WARE_100/product-solar-ware-100.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "100kW Capacity",
@@ -460,7 +460,7 @@ export const tmeicProducts: Product[] = [
     price: 12000,
     rating: 4.8,
     reviews: 76,
-    images: ["images/tmeic/SOLAR_WARE_175/product-solar-ware-250-175.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "175kW Capacity",
@@ -487,7 +487,7 @@ export const tmeicProducts: Product[] = [
     price: 16500,
     rating: 4.9,
     reviews: 64,
-    images: ["images/tmeic/SOLAR_WARE_250/product-solar-ware-250-175.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Commercial",
     specs: [
@@ -515,7 +515,7 @@ export const tmeicProducts: Product[] = [
     price: 24000,
     rating: 4.8,
     reviews: 52,
-    images: ["images/tmeic/SOLAR_WARE_490/product-solar-ware-750-675-665-630-500-490.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Utility Scale",
     specs: [
@@ -543,7 +543,7 @@ export const tmeicProducts: Product[] = [
     price: 25000,
     rating: 4.9,
     reviews: 48,
-    images: ["images/tmeic/SOLAR_WARE_500/product-solar-ware-750-675-665-630-500-490.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "500kW Capacity",
@@ -570,7 +570,7 @@ export const tmeicProducts: Product[] = [
     price: 85000,
     rating: 5.0,
     reviews: 34,
-    images: ["images/tmeic/SOLAR_WARE_2220/pv-inverter-2550-2220-solar-ware.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "High Efficiency",
     specs: [
@@ -600,7 +600,7 @@ export const tmeicProducts: Product[] = [
     price: 95000,
     rating: 5.0,
     reviews: 28,
-    images: ["images/tmeic/SOLAR_WARE_2500/solar-ware-2700-and-2500_1500v.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Largest 1500V",
     specs: [
@@ -628,7 +628,7 @@ export const tmeicProducts: Product[] = [
     price: 98000,
     rating: 5.0,
     reviews: 26,
-    images: ["images/tmeic/SOLAR_WARE_2550/pv-inverter-2550-2220-solar-ware.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Premium",
     specs: [
@@ -658,7 +658,7 @@ export const tmeicProducts: Product[] = [
     price: 125000,
     rating: 4.9,
     reviews: 22,
-    images: ["images/tmeic/SOLAR_WARE_STATION/solar-ware-station-ac-station-2_22mw-lrg.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Complete Solution",
     specs: [
@@ -688,7 +688,7 @@ export const tmeicProducts: Product[] = [
     price: 150000,
     rating: 4.8,
     reviews: 18,
-    images: ["images/tmeic/Energy_Storage/solarware_universal_pcs.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Advanced",
     specs: [
@@ -718,7 +718,7 @@ export const tmeicProducts: Product[] = [
     price: 8500,
     rating: 5.0,
     reviews: 56,
-    images: ["images/tmeic/21-FII_Series_Motors/product-motor-21-FII_1.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "300-6500 kW",
@@ -745,7 +745,7 @@ export const tmeicProducts: Product[] = [
     price: 7200,
     rating: 4.8,
     reviews: 43,
-    images: ["images/tmeic/21-G_Series_Motors/product-motor-TM21G_0.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "Three-Phase Induction",
@@ -772,7 +772,7 @@ export const tmeicProducts: Product[] = [
     price: 9800,
     rating: 4.9,
     reviews: 38,
-    images: ["images/tmeic/21-H_Series_Motors/product-motor-TM21-H.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Heavy Duty",
     specs: [
@@ -800,7 +800,7 @@ export const tmeicProducts: Product[] = [
     price: 15000,
     rating: 5.0,
     reviews: 24,
-    images: ["images/tmeic/Motors_for_Metal_Rolling_Mills/product-motor-metals-rolling-mills.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Specialized",
     specs: [
@@ -829,7 +829,7 @@ export const tmeicProducts: Product[] = [
     price: 6800,
     rating: 5.0,
     reviews: 42,
-    images: ["images/tmeic/Innovation_Series_Controller/product-controller-innovation-series.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Featured",
     specs: [
@@ -857,7 +857,7 @@ export const tmeicProducts: Product[] = [
     price: 5200,
     rating: 4.8,
     reviews: 36,
-    images: ["images/tmeic/nv_Series_Controller/product-nvseries-controller-220px.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "Enhanced Processing",
@@ -884,7 +884,7 @@ export const tmeicProducts: Product[] = [
     price: 4800,
     rating: 4.7,
     reviews: 48,
-    images: ["images/tmeic/V_Series_Controller/product-vseries-controller.jpg"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "Versatile Design",
@@ -912,7 +912,7 @@ export const tmeicProducts: Product[] = [
     price: 2500,
     rating: 5.0,
     reviews: 67,
-    images: ["images/tmeic/TMdrive-Navigator/product-software-tmdrive-navigator.png"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     badge: "Software Tool",
     specs: [
@@ -940,7 +940,7 @@ export const tmeicProducts: Product[] = [
     price: 1800,
     rating: 4.7,
     reviews: 52,
-    images: ["images/tmeic/uTool/product-software-utool-animated.gif"],
+    images: ["/assets/images/brands/TMEIC_logo.png"],
     inStock: true,
     specs: [
       "Universal Tool",

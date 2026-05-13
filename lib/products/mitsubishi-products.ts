@@ -68,7 +68,7 @@ export const mitsubishiProducts: Product[] = [
     price: 3850,
     rating: 4.9,
     reviews: 156,
-    images: [getImageUrl("mitsubishi/controllers/melsec-iq-r-series.png")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-A800_Series_02422e5e.png"],
     inStock: true,
     badge: "Featured",
     specs: [
@@ -103,7 +103,7 @@ export const mitsubishiProducts: Product[] = [
     price: 2850,
     rating: 4.8,
     reviews: 142,
-    images: [getImageUrl("mitsubishi/controllers/melsec-q-series.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-A800_Series_02422e5e.png"],
     inStock: true,
     badge: "Popular",
     specs: [
@@ -131,7 +131,7 @@ export const mitsubishiProducts: Product[] = [
     price: 1450,
     rating: 4.7,
     reviews: 98,
-    images: [getImageUrl("mitsubishi/controllers/melsec-l-series.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-E_Series_b6caf4c6.png"],
     inStock: true,
     specs: [
       "Compact PLC design",
@@ -158,7 +158,7 @@ export const mitsubishiProducts: Product[] = [
     price: 950,
     rating: 4.6,
     reviews: 134,
-    images: [getImageUrl("mitsubishi/controllers/melsec-iq-f-series.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-E_Series_b6caf4c6.png"],
     inStock: true,
     specs: [
       "Modular PLC design",
@@ -197,7 +197,7 @@ export const mitsubishiProducts: Product[] = [
     price: 1250,
     rating: 4.5,
     reviews: 95,
-    images: [getImageUrl("mitsubishi/controllers/melsec-a-series.png")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-D_Series_36840095.png"],
     inStock: true,
     specs: [
       "Compact design",
@@ -232,7 +232,7 @@ export const mitsubishiProducts: Product[] = [
     price: 485,
     rating: 4.5,
     reviews: 87,
-    images: [getImageUrl("mitsubishi/controllers/alpha2-controller.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-E_Series_b6caf4c6.png"],
     inStock: true,
     specs: [
       "Easy installation and use",
@@ -260,7 +260,7 @@ export const mitsubishiProducts: Product[] = [
     price: 3200,
     rating: 4.9,
     reviews: 76,
-    images: [getImageUrl("mitsubishi/controllers/motion-controller-sscnet.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-A800_Series_02422e5e.png"],
     inStock: true,
     badge: "Professional",
     specs: [
@@ -698,7 +698,7 @@ export const mitsubishiProducts: Product[] = [
     price: 25000,
     rating: 4.8,
     reviews: 67,
-    images: [getImageUrl("mitsubishi/robots/melfa-industrial-robot.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-A800_Series_02422e5e.png"],
     inStock: true,
     badge: "Professional",
     specs: [
@@ -727,7 +727,7 @@ export const mitsubishiProducts: Product[] = [
     price: 4500,
     rating: 4.7,
     reviews: 89,
-    images: [getImageUrl("mitsubishi/computing/melipc-industrial-computer.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-A800_Series_02422e5e.png"],
     inStock: true,
     specs: [
       "Edge computing capabilities",
@@ -755,7 +755,7 @@ export const mitsubishiProducts: Product[] = [
     price: 1200,
     rating: 4.6,
     reviews: 124,
-    images: [getImageUrl("mitsubishi/hmi/got-hmi-system.webp")],
+    images: ["/assets/images/products/mitsubishi/FREQROLFR-A800_Series_02422e5e.png"],
     inStock: true,
     specs: [
       "Touch screen interface",

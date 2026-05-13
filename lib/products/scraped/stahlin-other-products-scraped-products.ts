@@ -16,7 +16,7 @@ export const stahlinother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const stahlinother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

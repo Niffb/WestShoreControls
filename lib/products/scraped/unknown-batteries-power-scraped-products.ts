@@ -16,7 +16,7 @@ export const unknownbatteries_powerScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknownbatteries_powerScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const unknownbatteries_powerScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

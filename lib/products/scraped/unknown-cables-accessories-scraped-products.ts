@@ -16,7 +16,7 @@ export const unknowncables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const unknowncables_accessoriesScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

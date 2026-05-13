@@ -16,7 +16,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const datalogicother_productsScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

@@ -16,7 +16,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_2a4e5962-b557-44db-a44e-953aa51a74c9_large.jpg?v=1757165957"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5812a3d7-724c-4cf6-ad86-e7b7032878c8_large.jpg?v=1757166060"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d16320b5-780c-444d-8cce-9f717e5bf2fa_large.jpg?v=1757166093"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_28f7b023-266e-470e-93f8-4cfa299507e2_large.jpg?v=1757166105"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a54773b1-5d1a-436d-af94-10a2c90ae79f_large.jpg?v=1757165961"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_477e4a7f-643b-41e3-8137-02f4d7ef8241_large.jpg?v=1757165955"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5b78347b-07b4-4cc5-bf95-f24de3b4b9d7_large.jpg?v=1757166025"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ea63d95e-3356-49fe-994b-4e1c59116b5a_large.jpg?v=1757165954"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_95a7e306-e1fe-4c43-a877-c68e05c2e30b_large.jpg?v=1757166044"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_e266a412-860e-4578-9f8d-0758322287a1_large.jpg?v=1757165952"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_56ba41b0-23a8-4298-8ec3-fa7665c3c994_large.jpg?v=1757166031"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_22971690-1d21-4954-a80a-1ed5f6b0234f_large.jpg?v=1757166040"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_906573e3-ac56-4ad7-90c2-c3d1a22a67b0_large.jpg?v=1757166032"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_01114fa8-dab7-47a9-8567-162deb327096_large.jpg?v=1757166029"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_10a8e2e3-ece6-4c94-9da0-18942a89506c_large.jpg?v=1757165958"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_7996581b-f096-4176-ae32-b5cecaf033d2_large.jpg?v=1757166127"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_75fd9324-368d-4382-956b-b98881f48e0c_large.jpg?v=1757165959"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a553b019-98cb-4803-8c6e-1e8a7cc73a44_large.jpg?v=1757166050"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_7996581b-f096-4176-ae32-b5cecaf033d2_large.jpg?v=1757166127"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_38480ec6-d2e4-4f69-a438-d1ecdd7d3acf_large.jpg?v=1757166039"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_38465384-65fd-4a89-b95f-3105eee04fbb_large.jpg?v=1757166146"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5b78347b-07b4-4cc5-bf95-f24de3b4b9d7_large.jpg?v=1757166025"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_e4f30648-56e4-4a13-aab5-bcbe634bdc08_large.jpg?v=1757166034"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a85904e8-2490-4149-886e-4da011b3634f_large.jpg?v=1757166145"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_9c9aad34-3655-4410-8ef5-4d0927826874_large.jpg?v=1757166045"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_16af93e8-f515-4560-aaf4-11d8cfb7db60_large.jpg?v=1757166051"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ee89c18a-fcd9-42f6-bc32-855e7e39e204_large.jpg?v=1757166133"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_33eff7ca-06fb-4e03-9d26-4b44dc4f68b1_large.jpg?v=1757166036"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_576009ce-6fa7-4ffc-b126-f99d4ce06a5d_large.jpg?v=1757166143"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_efee6bbc-487c-4164-96cf-0ce701080ebd_large.jpg?v=1757166048"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_dc2e4904-d5e9-4cae-9c2a-b18eb3c8d221_large.jpg?v=1757166137"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ba81329f-462c-4864-8fe2-2adbd226b404_large.jpg?v=1757166056"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_2abbd170-81b8-4479-b73f-1d0b869ac78d_large.jpg?v=1757166042"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b1157696-6e51-42a1-8864-f9cdc4891b32_large.jpg?v=1757166142"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_bf16a170-ba2f-4d7d-bfb3-e2655d6e5368_large.jpg?v=1757166150"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ce4c1fe7-2e0c-4c0e-b195-9c906d9e3b92_large.jpg?v=1757166154"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_65a607a6-83d8-47e8-bf05-50d2b86b3cfc_large.jpg?v=1757166028"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_0bf8d9f5-903f-4f99-825c-895b542f1092_large.jpg?v=1757166037"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1d3615b9-144c-4105-9984-0f7780d55c70_large.jpg?v=1757166233"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_96ea442f-4081-475e-901c-3f690f9283dc_large.jpg?v=1757166152"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_99280454-27b4-49a1-a440-3c44db801974_large.jpg?v=1757166149"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d81d8df0-a0e7-4bce-9d0f-57bb8431feef_large.jpg?v=1757166054"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_547bd2ea-95b2-4463-b423-674ee1ca8386_large.jpg?v=1757166047"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_57748113-90b5-47f0-a01e-c9049287fdf4_large.jpg?v=1757166258"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_3831838e-93d6-40dc-94b2-2ba605c4e083_large.jpg?v=1757166136"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b7cad116-8bc8-4c7f-87c9-514ab9bde6f7_large.jpg?v=1757166140"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_42d7315c-9c35-4669-9cfb-3a172da57f6e_large.jpg?v=1757166238"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_0a20ddf4-d324-42f2-a251-11297f003266_large.jpg?v=1757166157"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_6e66232f-aaab-4c65-842b-c0dbef9b7879_large.jpg?v=1757166246"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_3d8a686f-1932-4434-bdca-b1ca1d272f16_large.jpg?v=1757166131"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_e4b8c318-a1bb-4d68-b796-9a4aa7ad2153_large.jpg?v=1757166148"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_0a15eeb7-b71c-4b32-9681-3cf86f3d2882_large.jpg?v=1757165990"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_f8d76926-4e92-4f3f-a3c7-a157250ebc0b_large.jpg?v=1757166130"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5547ebe6-de90-41ac-b071-a9adedcd6167_large.jpg?v=1757165962"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_491a2a83-9c4e-4aa9-b419-c4b10b78619b_large.jpg?v=1757165972"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_fa741f70-8ff4-47a8-8b0d-01a13110df7b_large.jpg?v=1757165986"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_af8942c1-1155-4fb3-8f1f-82c2e3fdb0d9_large.jpg?v=1757166139"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_00b3468d-e654-49bc-b8d5-01013a776969_large.jpg?v=1757165976"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_6c103b9c-8b35-4d15-9d85-a46f9177447e_large.jpg?v=1757166155"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a05dc7bd-e5eb-462d-9d59-a2aa80115844_large.jpg?v=1757165968"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d0d9f215-f288-4ddd-8f8e-67fedee1fe53_large.jpg?v=1757166134"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_9071c7a4-1945-4807-b029-ac247fb004f2_large.jpg?v=1757165966"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_8f083879-bdae-499c-bc5b-5f57b497f265_large.jpg?v=1757166229"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a07238a1-26f8-4038-9de6-226e03035434_large.jpg?v=1757165973"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_e82fdd3d-05f7-4b64-992a-d093364e2f69_large.jpg?v=1757165969"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_81410d28-c8b8-43b0-8fb2-d058a09a870a_large.jpg?v=1757165979"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1a45e6fa-9382-427b-992c-533e6cc2e50f_large.jpg?v=1757166242"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_8f083879-bdae-499c-bc5b-5f57b497f265_large.jpg?v=1757166229"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_3d5ddf11-8f31-49b8-b431-b7b4494b9ae4_large.jpg?v=1757166248"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1049c76a-1dec-4e2a-a468-016fa2f74500_large.jpg?v=1757166239"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_11ee2fda-a39b-4380-b7c0-ccb6bb07f633_large.jpg?v=1757166232"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_346cfbbf-1a20-46f9-8300-2e4a3604e675_large.jpg?v=1757166254"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_52ebc06f-f217-40b3-8734-4d72ee601ad1_large.jpg?v=1757166236"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d051e033-13d4-48c4-b60d-77702b885cbd_large.jpg?v=1757166251"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_21604b6d-ce07-483b-b471-4264f4fcb88d_large.jpg?v=1757166234"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ed0d4efd-92f1-41c5-9601-a655de9c4a3a_large.jpg?v=1757166057"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_21a991f0-9b68-4949-a9f9-7a389b897d4a_large.jpg?v=1757166080"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_c3e427cd-a630-444b-8a22-e198b8e26467_large.jpg?v=1757166240"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_80e6ea2c-3676-4c08-a79a-b36ddc5c76a2_large.jpg?v=1757166256"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_fcbee5c5-bc29-4b14-b3ee-569c433a74c1_large.jpg?v=1757166243"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_479748cf-8352-436a-a55c-c2d8c670625f_large.jpg?v=1757166252"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d900b232-4699-41cb-a3cb-576d71c253b6_large.jpg?v=1757165987"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_880ed8c7-27c2-4281-a07a-c631cb3c0669_large.jpg?v=1757166245"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_01e9ffff-765e-4502-aefa-a5dba860e1cf_large.jpg?v=1757165971"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_67875137-76ed-4ec4-98fe-cebd944e21f6_large.jpg?v=1757165988"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ac262007-c79d-4d10-b98c-3445ed6c4941_large.jpg?v=1757166077"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_2eca3e61-fa80-4b93-9bdf-9bed3c149326_large.jpg?v=1757166249"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_40f51c23-4478-404b-9271-926908801461_large.jpg?v=1757166255"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5547ebe6-de90-41ac-b071-a9adedcd6167_large.jpg?v=1757165962"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1c0a0585-1d7c-4c1b-b515-9edccf4bcd17_large.jpg?v=1757165975"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_03bcb07d-45f2-4bed-8446-ea41fe41047b_large.jpg?v=1757166074"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_c4df2dd2-a073-4ad2-b26e-08a5d680720c_large.jpg?v=1757165978"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a1ecb738-6961-404b-857f-362e79e53ec1_large.jpg?v=1757165980"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_0e96c931-c302-490f-a1a5-c5da3e68c078_large.jpg?v=1757166063"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1207c449-506d-4f0c-ae71-59ebbd800319_large.jpg?v=1757166072"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_cdb4abb4-c0c1-46b1-8be1-f94affda0a01_large.jpg?v=1757165983"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b242b4f8-ba05-4791-8167-7176cb495035_large.jpg?v=1757165965"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_53fadab8-7dac-4562-b564-759b2b89495c_large.jpg?v=1757166079"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_16f69ef3-b41b-4e16-8d2a-e14e27dd248f_large.jpg?v=1757166088"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b40d2f91-a5da-4a10-abe1-c6006eb33e2b_large.jpg?v=1757166082"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_0422d23e-fd23-40e6-b8e5-03d322cdd271_large.jpg?v=1757165984"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_0254965e-6e73-49cf-b775-c5ef7cd0f4a5_large.jpg?v=1757166164"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d5336d6f-6ea8-4af7-9e2c-bf3ab282d5ba_large.jpg?v=1757166181"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_31ad17c8-5d43-4c33-8776-4eb4bd5427fb_large.jpg?v=1757166192"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_039b7c3a-89db-425e-af3b-46fdba195d9b_large.jpg?v=1757166170"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_e623139a-23c0-483b-9b57-945302b3026c_large.jpg?v=1757166083"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_01f6be9d-514c-4082-a205-0e054aed0f97_large.jpg?v=1757165982"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_c608608d-3a39-4eaf-aef7-040670ffedbd_large.jpg?v=1757166066"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_dbfaa630-d06f-4804-ac96-2627994bd6e1_large.jpg?v=1757166071"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ed0d4efd-92f1-41c5-9601-a655de9c4a3a_large.jpg?v=1757166057"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1bdeb05f-148d-4b09-8662-17ef8fae7200_large.jpg?v=1757166166"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_4c9e2000-d6cc-49f0-9f3f-6981098c40c9_large.jpg?v=1757166177"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_2369e54b-ef0d-431d-ad2c-a06d53ce8e87_large.jpg?v=1757166076"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_f9677bcd-92bf-4df0-8b1c-a28aa47ab633_large.jpg?v=1757166190"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_7a49c630-8a9b-4282-b4e9-365c7b3f641a_large.jpg?v=1757166062"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a2242a9f-d152-4a59-9cc4-2e8c1907a926_large.jpg?v=1757166069"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1828d511-3f49-4f76-94ef-cd259d9aeb51_large.jpg?v=1757166065"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_f33072ad-b2c4-44d6-b33f-7875bb74c8be_large.jpg?v=1757166068"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_511925ff-a0a0-410c-9178-9cee6e5d7714_large.jpg?v=1757166284"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_871f9d72-4416-4b6f-b8fc-25febb403878_large.jpg?v=1757166086"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_31e2fba1-3249-4579-a9c0-cb2e73bc653d_large.jpg?v=1757166285"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ac1ae6c0-5676-4053-b68b-1a6ea7f73b70_large.jpg?v=1757166282"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5db0d22b-3b20-4814-840a-29f4d22bc21e_large.jpg?v=1757166159"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_6db54e92-f4d6-49c8-8ca3-a08155bfa599_large.jpg?v=1757166265"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_3cb65cc1-7165-41be-8369-a123780d90cf_large.jpg?v=1757166287"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_0e5e8fff-2291-4709-8736-fde5db736eb3_large.jpg?v=1757166264"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b092196c-e4c4-4475-9a96-812fa4059219_large.jpg?v=1757166281"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ae1850e1-6406-4ffc-9b22-8306f110df7d_large.jpg?v=1757166272"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_8c177ff3-0154-4b5a-8f86-c6659a18004e_large.jpg?v=1757166085"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ca1c021a-aeca-4aa1-88dc-d7f9364bf803_large.jpg?v=1757166187"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_6517f597-9bbb-420a-a682-39b7b3a4d201_large.jpg?v=1757166176"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_8096b761-a2d9-4286-8a4b-56a972ab918d_large.jpg?v=1757166262"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_26398eda-cb2c-4b89-bcd0-243ed097bc43_large.jpg?v=1757166259"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5db0d22b-3b20-4814-840a-29f4d22bc21e_large.jpg?v=1757166159"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a345ecf6-1a9c-4400-a95a-f8e389a5a57f_large.jpg?v=1757166266"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ad8d92d4-69c3-45f1-8de2-cf4f101cccf8_large.jpg?v=1757166162"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_6967cb15-718d-4862-ae73-8002c765cfbf_large.jpg?v=1757166268"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_70ae8352-e040-4259-bd47-72be9155a443_large.jpg?v=1757165991"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5bbdc6fa-de2c-4f3d-9795-bf3458994ee8_large.jpg?v=1757166274"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_c1308b2b-1547-4f6a-9be9-9c6fc1cc8f60_large.jpg?v=1757166184"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_3e524953-a054-4c35-89a0-0672b08cde29_large.jpg?v=1757166278"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d86e92ca-79ca-4e25-ad7d-6d21bf168d96_large.jpg?v=1757166279"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_44835e49-b3f1-4167-a2ab-231deb024c3b_large.jpg?v=1757166275"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_c736cfd3-fd61-4322-bf4f-6ecebb3904ab_large.jpg?v=1757165999"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_808ee9ec-0be9-49ce-9949-ca71f8aaf5c7_large.jpg?v=1757166277"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_669f1988-2300-4761-aebf-87e597296b8f_large.jpg?v=1757166173"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_6542f810-2d89-4c7d-86a3-52a359ead5f2_large.jpg?v=1757166189"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_6ccfbc6e-5791-49b4-8a96-7dc7df264e1a_large.jpg?v=1757166168"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_89c0a02c-7475-42af-87d9-938cf6d087d6_large.jpg?v=1757166178"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5c17e061-df1f-4e82-b3c1-a3656b40e283_large.jpg?v=1757166174"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_02d50a21-b634-4378-a592-f96c03a88771_large.jpg?v=1757166180"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_abe0745d-6229-4c10-8ceb-3b713c6f024a_large.jpg?v=1757166183"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_26398eda-cb2c-4b89-bcd0-243ed097bc43_large.jpg?v=1757166259"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_33c5528f-7605-4577-9f3a-581222a5d746_large.jpg?v=1757166186"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_861e4fea-b7cd-4d13-a6bd-a694b7799f98_large.jpg?v=1757166288"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b5a1835c-8b01-40a5-b1d1-dc2bf35c4ce6_large.jpg?v=1757166269"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_70ae8352-e040-4259-bd47-72be9155a443_large.jpg?v=1757165991"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_f05d6c8f-1751-4545-8d8e-15b6e4ae0a2c_large.jpg?v=1757166004"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_c8d53bed-ca76-4b1a-8672-16c9f0f06173_large.jpg?v=1757166271"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_026b42d3-f478-4b55-bd32-394f73e5f7e9_large.jpg?v=1757166016"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_ce66036f-42c7-4968-8cfd-37540d1e959d_large.jpg?v=1757166010"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1f36c94a-e705-4989-ab30-50a95c20cb6a_large.jpg?v=1757166109"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_5f343120-045d-4337-93ce-66f6a9f99672_large.jpg?v=1757165994"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_4a8259e0-b505-4e24-962c-2f65707bfe38_large.jpg?v=1757166015"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_17ec7eea-a007-40c8-abfc-50f5eda05332_large.jpg?v=1757166121"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_053a52e9-2282-4d39-8caf-2984d7eb8cea_large.jpg?v=1757166009"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_1186c25a-aa41-4f83-b650-884eb81fddf0_large.jpg?v=1757166012"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_cefb339e-2a58-4ed8-af89-39d9750210f4_large.jpg?v=1757166019"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_7a1585b3-e4f0-4fcf-ab8e-44b83499362e_large.jpg?v=1757166094"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_4925a057-dca2-4c8e-9b9b-83e908d90607_large.jpg?v=1757166100"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_22fe9f4f-102d-472b-aafd-f41f5980ab74_large.jpg?v=1757165998"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b9951909-1b47-42ef-95f9-18d6eaf33b56_large.jpg?v=1757166001"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_a51c1356-f6aa-4f4d-85f4-39ee7380a1a8_large.jpg?v=1757165997"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_4da2bb71-c46b-4839-8273-39d6b084ece3_large.jpg?v=1757165995"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_72a83f83-e5a3-4acf-a70b-eb6721b709cf_large.jpg?v=1757166005"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_10958935-0a55-4fa4-b7f9-1af8d7d724c8_large.jpg?v=1757166002"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_38858857-ffca-4db7-a94b-ca7e279e1235_large.jpg?v=1757166089"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_b88db791-45a2-44a2-8fb5-5173a17cad9b_large.jpg?v=1757166017"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_cd1215d6-9515-4f9d-b7cd-1033c94a39ec_large.jpg?v=1757166111"
     ],
     "inStock": true,
     "specs": [],
@@ -3724,7 +3724,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_293cc3f4-6a61-42ee-b8ce-7d25e16bc746_large.jpg?v=1757166193"
     ],
     "inStock": true,
     "specs": [],
@@ -3742,7 +3742,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_e42b1f78-68ed-44d4-b763-9d1f81cdc1c3_large.jpg?v=1757166013"
     ],
     "inStock": true,
     "specs": [],
@@ -3760,7 +3760,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_38858857-ffca-4db7-a94b-ca7e279e1235_large.jpg?v=1757166089"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_01cd7e37-7004-43fd-aaaf-b9bcb9e7e65b_large.jpg?v=1757166008"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_3c090209-0811-4177-935f-feaa6d016b09_large.jpg?v=1757166114"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_d7feb87f-c66e-4534-9fef-057773e41aa4_large.jpg?v=1757166118"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1E_-_Mini_Circuit_Breaker_c4acab9e-4c7c-4ca8-9332-2d230b0fbb8f_large.jpg?v=1757166006"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3958,7 +3958,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4012,7 +4012,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4030,7 +4030,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4048,7 +4048,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4066,7 +4066,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4084,7 +4084,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4102,7 +4102,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4120,7 +4120,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4138,7 +4138,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4156,7 +4156,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4174,7 +4174,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4192,7 +4192,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4210,7 +4210,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4228,7 +4228,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4246,7 +4246,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4264,7 +4264,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4282,7 +4282,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4300,7 +4300,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4318,7 +4318,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4336,7 +4336,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4354,7 +4354,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4372,7 +4372,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4390,7 +4390,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4408,7 +4408,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4426,7 +4426,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4444,7 +4444,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4462,7 +4462,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4480,7 +4480,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4498,7 +4498,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4516,7 +4516,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4534,7 +4534,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4552,7 +4552,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4570,7 +4570,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4588,7 +4588,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4606,7 +4606,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4624,7 +4624,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4642,7 +4642,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4660,7 +4660,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4678,7 +4678,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4696,7 +4696,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4714,7 +4714,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4840,7 +4840,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4858,7 +4858,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4876,7 +4876,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4894,7 +4894,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4912,7 +4912,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4930,7 +4930,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4948,7 +4948,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 142,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4966,7 +4966,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -4984,7 +4984,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5002,7 +5002,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5020,7 +5020,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5038,7 +5038,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5056,7 +5056,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5074,7 +5074,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5092,7 +5092,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5110,7 +5110,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5128,7 +5128,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5146,7 +5146,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5164,7 +5164,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5182,7 +5182,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_c299f212-24a6-4afc-8b78-4cc68af8d42a_large.jpg?v=1757168080"
     ],
     "inStock": true,
     "specs": [],
@@ -5200,7 +5200,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_6e7f894e-916e-4eaf-b525-39efc1519b3b_large.jpg?v=1757168078"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_c299f212-24a6-4afc-8b78-4cc68af8d42a_large.jpg?v=1757168080"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_02ad6e9d-6907-4077-a9cf-da117fee4140_large.jpg?v=1757168083"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_9ddbc2e2-3b44-485d-b225-3ec682fcd9cf_large.jpg?v=1757168092"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_204c8f4e-0554-4717-95b7-e1e87d5f965c_large.jpg?v=1757168136"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_eed71e18-d270-4603-9804-2117b49865c5_large.jpg?v=1757168084"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_827fad96-e7e4-443e-acfa-c46c2b79c7c1_large.jpg?v=1757168138"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_018edf8b-fff8-418d-a658-55e500fa17d6_large.jpg?v=1757168086"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_44e446f5-33e7-423b-acf9-5a5a4c18ae6e_large.jpg?v=1757168139"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_b6b79af2-fa72-4467-a4f3-97cbf9ae0d13_large.jpg?v=1757168090"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_b112f647-a3f9-4dad-a895-60a15beec3f3_large.jpg?v=1757168091"
     ],
     "inStock": true,
     "specs": [],
@@ -5398,7 +5398,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_50ce82d2-3120-45d3-ab60-69b2a58f7805_large.jpg?v=1757168088"
     ],
     "inStock": true,
     "specs": [],
@@ -5416,7 +5416,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_8ff51c45-695c-44fb-af81-6d8ff3f7994f_large.jpg?v=1757168085"
     ],
     "inStock": true,
     "specs": [],
@@ -5434,7 +5434,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_0e33c493-964b-41bd-aa3d-ebfb6bc083b8_large.jpg?v=1757168082"
     ],
     "inStock": true,
     "specs": [],
@@ -5452,7 +5452,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_251fbc8e-034c-4bd7-b8f4-e355e5f097ec_large.jpg?v=1757168094"
     ],
     "inStock": true,
     "specs": [],
@@ -5470,7 +5470,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_7076717c-a8da-44b7-9e46-0dccfb4cc65f_large.jpg?v=1757168081"
     ],
     "inStock": true,
     "specs": [],
@@ -5488,7 +5488,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_49b60f51-210a-4c0b-a252-f973ced44c51_large.jpg?v=1757168203"
     ],
     "inStock": true,
     "specs": [],
@@ -5506,7 +5506,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_cda7fac2-e371-49ae-abad-2e61de587316_large.jpg?v=1757168135"
     ],
     "inStock": true,
     "specs": [],
@@ -5524,7 +5524,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_71cc3ecf-ba21-4008-bc73-091a23977dd3_large.jpg?v=1757168071"
     ],
     "inStock": true,
     "specs": [],
@@ -5542,7 +5542,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_641d0189-07b6-400b-89ec-379c0e10cf92_large.jpg?v=1757168142"
     ],
     "inStock": true,
     "specs": [],
@@ -5560,7 +5560,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_60d10b66-15c8-418b-8141-443e33cbc895_large.jpg?v=1757168147"
     ],
     "inStock": true,
     "specs": [],
@@ -5578,7 +5578,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_32e0ec3f-f8be-454f-88cf-03cf30c139f8_large.jpg?v=1757168205"
     ],
     "inStock": true,
     "specs": [],
@@ -5596,7 +5596,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_204c8f4e-0554-4717-95b7-e1e87d5f965c_large.jpg?v=1757168136"
     ],
     "inStock": true,
     "specs": [],
@@ -5614,7 +5614,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_daccb492-726d-4650-9693-847f9238d7e8_large.jpg?v=1757168145"
     ],
     "inStock": true,
     "specs": [],
@@ -5632,7 +5632,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_b8f43d0c-8eb6-4e9e-9808-9b011fdd29ac_large.jpg?v=1757168148"
     ],
     "inStock": true,
     "specs": [],
@@ -5650,7 +5650,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_143d75d6-cb9e-4b62-bf89-a51e438d6c29_large.jpg?v=1757168150"
     ],
     "inStock": true,
     "specs": [],
@@ -5668,7 +5668,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_bf11ebbd-a956-4acb-b262-8925f79d7ab0_large.jpg?v=1757168149"
     ],
     "inStock": true,
     "specs": [],
@@ -5686,7 +5686,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_1c5ea1c6-7658-4eb4-a4c7-ebb8ef25671e_large.jpg?v=1757168152"
     ],
     "inStock": true,
     "specs": [],
@@ -5704,7 +5704,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_a328d454-2f24-41d6-9e83-f2503921b322_large.jpg?v=1757168141"
     ],
     "inStock": true,
     "specs": [],
@@ -5722,7 +5722,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_11466b31-d5e8-4900-91d5-8d9f7233a3f1_large.jpg?v=1757168072"
     ],
     "inStock": true,
     "specs": [],
@@ -5740,7 +5740,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_19a4d0cc-7462-4e67-b0bf-49c5e69665eb_large.jpg?v=1757168181"
     ],
     "inStock": true,
     "specs": [],
@@ -5758,7 +5758,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_fb266575-de0a-4530-87ef-4f2a95848193_large.jpg?v=1757168129"
     ],
     "inStock": true,
     "specs": [],
@@ -5776,7 +5776,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_e8b1fb0b-0d52-492e-9336-ea7e71d49ed9_large.jpg?v=1757168140"
     ],
     "inStock": true,
     "specs": [],
@@ -5794,7 +5794,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_a8d5286c-d803-4eda-b952-643eee57225f_large.jpg?v=1757168086"
     ],
     "inStock": true,
     "specs": [],
@@ -5812,7 +5812,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f0c93a84-213e-4683-8115-a9cf9e6eefc9_large.jpg?v=1757168088"
     ],
     "inStock": true,
     "specs": [],
@@ -5830,7 +5830,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_cf54cf97-fbf3-4616-a391-3716831e107a_large.jpg?v=1757168089"
     ],
     "inStock": true,
     "specs": [],
@@ -5848,7 +5848,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_a768e814-57ce-4a52-be80-705186e06716_large.jpg?v=1757168107"
     ],
     "inStock": true,
     "specs": [],
@@ -5866,7 +5866,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_d49b76cb-bd34-4415-84e7-333adc746208_large.jpg?v=1757168193"
     ],
     "inStock": true,
     "specs": [],
@@ -5884,7 +5884,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_cf8ef07b-4756-4492-86e4-8642148a9968_large.jpg?v=1757168162"
     ],
     "inStock": true,
     "specs": [],
@@ -5902,7 +5902,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_bf0d9dd5-d098-4d60-95bb-95886da51d22_large.jpg?v=1757168143"
     ],
     "inStock": true,
     "specs": [],
@@ -5920,7 +5920,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_77c4c766-4e2d-448c-8aa9-ba7f5772e9e3_large.jpg?v=1757168164"
     ],
     "inStock": true,
     "specs": [],
@@ -5938,7 +5938,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_35057349-c193-4dc0-ab4e-679bb82ec986_large.jpg?v=1757168206"
     ],
     "inStock": true,
     "specs": [],
@@ -5956,7 +5956,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_326bfb52-7aa8-4294-9f06-2c3bbc62006d_large.jpg?v=1757168222"
     ],
     "inStock": true,
     "specs": [],
@@ -5974,7 +5974,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_5f90e5d1-dc23-4a8a-96cc-ad5dc031505e_large.jpg?v=1757168146"
     ],
     "inStock": true,
     "specs": [],
@@ -5992,7 +5992,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_3c574285-96c9-42ef-840a-e6846bf4f101_large.jpg?v=1757168144"
     ],
     "inStock": true,
     "specs": [],
@@ -6010,7 +6010,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_6c64ba8e-4f19-429f-9436-af2927775654_large.jpg?v=1757168184"
     ],
     "inStock": true,
     "specs": [],
@@ -6028,7 +6028,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_6fd31ef2-6585-4750-9b7e-074975ac430f_large.jpg?v=1757168204"
     ],
     "inStock": true,
     "specs": [],
@@ -6046,7 +6046,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_66d2e551-d803-415c-91cb-5b1521ba7e7a_large.jpg?v=1757168209"
     ],
     "inStock": true,
     "specs": [],
@@ -6064,7 +6064,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_decad90e-d9d1-4793-873c-968d5bbd3514_large.jpg?v=1757168197"
     ],
     "inStock": true,
     "specs": [],
@@ -6082,7 +6082,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_eaa20921-fe49-4ef8-85e8-668f90b5b155_large.jpg?v=1757168207"
     ],
     "inStock": true,
     "specs": [],
@@ -6100,7 +6100,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_57c72e8a-977d-425e-8683-7381005eaae3_large.jpg?v=1757168073"
     ],
     "inStock": true,
     "specs": [],
@@ -6118,7 +6118,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_27b0be7d-c83a-4130-bba3-de1d96f43c1b_large.jpg?v=1757168198"
     ],
     "inStock": true,
     "specs": [],
@@ -6136,7 +6136,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_1114a866-fe6a-458e-8d50-e0ee3f02b09e_large.jpg?v=1757168195"
     ],
     "inStock": true,
     "specs": [],
@@ -6154,7 +6154,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_95cfdad4-0ad8-4e49-962d-01bfe6b2c08d_large.jpg?v=1757168201"
     ],
     "inStock": true,
     "specs": [],
@@ -6172,7 +6172,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_99c104a7-05bf-40d8-814f-135b0956fb63_large.jpg?v=1757168210"
     ],
     "inStock": true,
     "specs": [],
@@ -6190,7 +6190,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_3714d74d-9bf8-4e1c-8050-35693eb97e26_large.jpg?v=1757168128"
     ],
     "inStock": true,
     "specs": [],
@@ -6208,7 +6208,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_453a3a54-9e15-47ac-9926-105de018ce45_large.jpg?v=1757168211"
     ],
     "inStock": true,
     "specs": [],
@@ -6226,7 +6226,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_a19b7914-57e1-4981-bba6-c1b058472191_large.jpg?v=1757168126"
     ],
     "inStock": true,
     "specs": [],
@@ -6244,7 +6244,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_5ed43e03-f2f8-42f4-ab7a-bc23df31370f_large.jpg?v=1757168183"
     ],
     "inStock": true,
     "specs": [],
@@ -6262,7 +6262,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_cb597fae-fb7e-4a18-bd42-873b4b80232f_large.jpg?v=1757168106"
     ],
     "inStock": true,
     "specs": [],
@@ -6280,7 +6280,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_dfc16cd2-2978-46c8-a4d6-bcb843478b15_large.jpg?v=1757168104"
     ],
     "inStock": true,
     "specs": [],
@@ -6298,7 +6298,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6316,7 +6316,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_daa67f3a-2c2e-4aa5-b398-ffcf05cdc169_large.jpg?v=1757168201"
     ],
     "inStock": true,
     "specs": [],
@@ -6334,7 +6334,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_0144a12d-41e2-4a91-a09f-525563e085dc_large.jpg?v=1757168224"
     ],
     "inStock": true,
     "specs": [],
@@ -6352,7 +6352,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_78656eaf-44db-48fe-a4e2-19f1430e4a47_large.jpg?v=1757168165"
     ],
     "inStock": true,
     "specs": [],
@@ -6370,7 +6370,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_262f9f7c-9fb0-4f12-a918-a60678467e98_large.jpg?v=1757168225"
     ],
     "inStock": true,
     "specs": [],
@@ -6388,7 +6388,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_1114a866-fe6a-458e-8d50-e0ee3f02b09e_large.jpg?v=1757168195"
     ],
     "inStock": true,
     "specs": [],
@@ -6406,7 +6406,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6424,7 +6424,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6442,7 +6442,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6460,7 +6460,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_204c8f4e-0554-4717-95b7-e1e87d5f965c_large.jpg?v=1757168136"
     ],
     "inStock": true,
     "specs": [],
@@ -6478,7 +6478,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_96923d09-2b68-4544-9310-a5afa764474f_large.jpg?v=1757168199"
     ],
     "inStock": true,
     "specs": [],
@@ -6496,7 +6496,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6514,7 +6514,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6532,7 +6532,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6550,7 +6550,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6568,7 +6568,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_65d3e030-f544-40eb-a2e6-f965a1305ece_large.jpg?v=1757168202"
     ],
     "inStock": true,
     "specs": [],
@@ -6586,7 +6586,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6604,7 +6604,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_c299f212-24a6-4afc-8b78-4cc68af8d42a_large.jpg?v=1757168080"
     ],
     "inStock": true,
     "specs": [],
@@ -6622,7 +6622,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6640,7 +6640,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6658,7 +6658,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6676,7 +6676,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6694,7 +6694,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_1114a866-fe6a-458e-8d50-e0ee3f02b09e_large.jpg?v=1757168195"
     ],
     "inStock": true,
     "specs": [],
@@ -6712,7 +6712,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6730,7 +6730,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6748,7 +6748,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6766,7 +6766,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6784,7 +6784,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6802,7 +6802,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6820,7 +6820,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6838,7 +6838,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6856,7 +6856,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6874,7 +6874,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6892,7 +6892,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6910,7 +6910,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6928,7 +6928,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6946,7 +6946,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -6964,7 +6964,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_38a233f9-d179-4ff0-b118-1f4b03065c01_large.jpg?v=1757168108"
     ],
     "inStock": true,
     "specs": [],
@@ -6982,7 +6982,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7000,7 +7000,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f8e122e3-ce00-4b57-b46b-bdb5627cc1c5_large.jpg?v=1757168096"
     ],
     "inStock": true,
     "specs": [],
@@ -7018,7 +7018,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_23f11e61-98c0-4981-8d40-9590204ea6f2_large.jpg?v=1757168102"
     ],
     "inStock": true,
     "specs": [],
@@ -7036,7 +7036,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f8e122e3-ce00-4b57-b46b-bdb5627cc1c5_large.jpg?v=1757168096"
     ],
     "inStock": true,
     "specs": [],
@@ -7054,7 +7054,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7072,7 +7072,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7090,7 +7090,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f99d491f-170d-4a4d-a0f9-8180fe02c2c8_large.jpg?v=1757168108"
     ],
     "inStock": true,
     "specs": [],
@@ -7108,7 +7108,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7126,7 +7126,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7144,7 +7144,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7162,7 +7162,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7180,7 +7180,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7198,7 +7198,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_9966f840-d947-4344-af94-21497aa6b4c7_large.jpg?v=1757168101"
     ],
     "inStock": true,
     "specs": [],
@@ -7216,7 +7216,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_36bc5266-90c2-4614-9b1d-54f944e91ada_large.jpg?v=1757168153"
     ],
     "inStock": true,
     "specs": [],
@@ -7234,7 +7234,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_ef6bb4ac-2237-4ee8-beb6-c01559899b2c_large.jpg?v=1757168111"
     ],
     "inStock": true,
     "specs": [],
@@ -7252,7 +7252,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_89a78826-9251-4c65-ae88-0e6205d34323_large.jpg?v=1757168103"
     ],
     "inStock": true,
     "specs": [],
@@ -7270,7 +7270,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_fbff16d6-e250-444a-9fb9-7f7f08a0423a_large.jpg?v=1757168110"
     ],
     "inStock": true,
     "specs": [],
@@ -7288,7 +7288,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7306,7 +7306,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_e4d085c2-8002-4701-8cb3-fffc4a912c8c_large.jpg?v=1757168099"
     ],
     "inStock": true,
     "specs": [],
@@ -7324,7 +7324,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7342,7 +7342,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7360,7 +7360,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7378,7 +7378,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_008351fb-afa0-44c1-9e37-a353e4c3fd59_large.jpg?v=1757168095"
     ],
     "inStock": true,
     "specs": [],
@@ -7396,7 +7396,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_1d2bfaa0-3488-41dd-a158-c76bd87ad12b_large.jpg?v=1757168154"
     ],
     "inStock": true,
     "specs": [],
@@ -7414,7 +7414,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_8d15c502-4c80-4b09-8500-817830b5ade1_large.jpg?v=1757168104"
     ],
     "inStock": true,
     "specs": [],
@@ -7432,7 +7432,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_5f33c8c0-c9b7-4577-9e7d-33bd5266d80c_large.jpg?v=1757168166"
     ],
     "inStock": true,
     "specs": [],
@@ -7450,7 +7450,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_483b1981-7f11-4b80-bc82-ecc91f362011_large.jpg?v=1757168156"
     ],
     "inStock": true,
     "specs": [],
@@ -7468,7 +7468,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_8ec9d66b-f184-4b9b-88b8-7f3247099c5c_large.jpg?v=1757168170"
     ],
     "inStock": true,
     "specs": [],
@@ -7486,7 +7486,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_33f57138-16b1-4f0c-a3ff-0059f80c71d3_large.jpg?v=1757168098"
     ],
     "inStock": true,
     "specs": [],
@@ -7504,7 +7504,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_66ad8e1a-73dc-444d-8694-a41e9b61b043_large.jpg?v=1757168100"
     ],
     "inStock": true,
     "specs": [],
@@ -7522,7 +7522,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_ae4e2578-e8b0-4d70-80ca-0e13598434b0_large.jpg?v=1757168227"
     ],
     "inStock": true,
     "specs": [],
@@ -7540,7 +7540,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_bd755e83-2261-4853-b906-97260b8983f0_large.jpg?v=1757168160"
     ],
     "inStock": true,
     "specs": [],
@@ -7558,7 +7558,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_1d2bfaa0-3488-41dd-a158-c76bd87ad12b_large.jpg?v=1757168154"
     ],
     "inStock": true,
     "specs": [],
@@ -7576,7 +7576,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_90fbf8bf-bc57-4170-9851-22e01a0bb7f8_large.jpg?v=1757168220"
     ],
     "inStock": true,
     "specs": [],
@@ -7594,7 +7594,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_4df13020-5cc6-4974-b541-7c18218909ed_large.jpg?v=1757168223"
     ],
     "inStock": true,
     "specs": [],
@@ -7612,7 +7612,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_edb04e95-f225-47d4-8b95-fee266b7d7c6_large.jpg?v=1757168167"
     ],
     "inStock": true,
     "specs": [],
@@ -7630,7 +7630,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_5836d00b-fd22-4c58-ab53-54202260f10b_large.jpg?v=1757168218"
     ],
     "inStock": true,
     "specs": [],
@@ -7648,7 +7648,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7666,7 +7666,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f1bbcf29-6be5-4f94-bd8c-5d1920efa8be_large.jpg?v=1757168163"
     ],
     "inStock": true,
     "specs": [],
@@ -7684,7 +7684,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f3959ba4-57c1-42ec-9a98-2897f4022397_large.jpg?v=1757168221"
     ],
     "inStock": true,
     "specs": [],
@@ -7702,7 +7702,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_6dc672a7-a982-4b03-b8e0-4fe9787a530d_large.jpg?v=1757168219"
     ],
     "inStock": true,
     "specs": [],
@@ -7720,7 +7720,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_16f988ff-1ebb-451f-8acd-8846d8e94636_large.jpg?v=1757168168"
     ],
     "inStock": true,
     "specs": [],
@@ -7738,7 +7738,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_b2b2a12c-5e40-4a7f-adb1-a27d0166aaa6_large.jpg?v=1757168157"
     ],
     "inStock": true,
     "specs": [],
@@ -7756,7 +7756,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_4bfaef41-37b6-4dd7-aeb9-d80ace21ec3b_large.jpg?v=1757168157"
     ],
     "inStock": true,
     "specs": [],
@@ -7774,7 +7774,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_17c95bb8-f64e-4d0d-ac92-74913ede0b69_large.jpg?v=1757168159"
     ],
     "inStock": true,
     "specs": [],
@@ -7792,7 +7792,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_0004d2fb-1cf3-49e7-bbdd-6ca46627408d_large.jpg?v=1757168161"
     ],
     "inStock": true,
     "specs": [],
@@ -7810,7 +7810,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7828,7 +7828,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7846,7 +7846,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -7864,7 +7864,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_726d83a6-721e-45d2-87d5-3e342ee43ebb_large.jpg?v=1757168212"
     ],
     "inStock": true,
     "specs": [],
@@ -7882,7 +7882,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_0fda8774-2d96-4d1f-8e1d-1abff26b31bb_large.jpg?v=1757168213"
     ],
     "inStock": true,
     "specs": [],
@@ -7900,7 +7900,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_0fda8774-2d96-4d1f-8e1d-1abff26b31bb_large.jpg?v=1757168213"
     ],
     "inStock": true,
     "specs": [],
@@ -7918,7 +7918,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_fc25f8c7-e3bc-4a89-934f-b944a689f457_large.jpg?v=1757168226"
     ],
     "inStock": true,
     "specs": [],
@@ -7936,7 +7936,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_e932e4af-db7b-432f-b0a5-b451dd0a730e_large.jpg?v=1757168231"
     ],
     "inStock": true,
     "specs": [],
@@ -7954,7 +7954,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f98be293-d82a-442d-9feb-f213778d264c_large.jpg?v=1757168228"
     ],
     "inStock": true,
     "specs": [],
@@ -7972,7 +7972,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_80444129-0bb7-4bf8-856d-3f8152fde2fe_large.jpg?v=1757168216"
     ],
     "inStock": true,
     "specs": [],
@@ -7990,7 +7990,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8008,7 +8008,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_4e24b649-6c79-4866-b346-4c7b12bee50a_large.jpg?v=1757168217"
     ],
     "inStock": true,
     "specs": [],
@@ -8026,7 +8026,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8044,7 +8044,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8062,7 +8062,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8080,7 +8080,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_f8e122e3-ce00-4b57-b46b-bdb5627cc1c5_large.jpg?v=1757168096"
     ],
     "inStock": true,
     "specs": [],
@@ -8098,7 +8098,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8116,7 +8116,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8134,7 +8134,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8152,7 +8152,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8170,7 +8170,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8188,7 +8188,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8206,7 +8206,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8224,7 +8224,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8242,7 +8242,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8260,7 +8260,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8278,7 +8278,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8296,7 +8296,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_1d2bfaa0-3488-41dd-a158-c76bd87ad12b_large.jpg?v=1757168154"
     ],
     "inStock": true,
     "specs": [],
@@ -8314,7 +8314,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8332,7 +8332,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8350,7 +8350,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8368,7 +8368,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8386,7 +8386,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8404,7 +8404,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8422,7 +8422,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8440,7 +8440,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8458,7 +8458,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8476,7 +8476,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8494,7 +8494,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8512,7 +8512,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8530,7 +8530,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8548,7 +8548,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8566,7 +8566,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8584,7 +8584,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8602,7 +8602,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1H_-_Mini_Circuit_Breaker_0fda8774-2d96-4d1f-8e1d-1abff26b31bb_large.jpg?v=1757168213"
     ],
     "inStock": true,
     "specs": [],
@@ -8620,7 +8620,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8638,7 +8638,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8656,7 +8656,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8674,7 +8674,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8692,7 +8692,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8710,7 +8710,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8728,7 +8728,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8746,7 +8746,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8764,7 +8764,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8782,7 +8782,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8800,7 +8800,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8818,7 +8818,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8836,7 +8836,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8854,7 +8854,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8872,7 +8872,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8890,7 +8890,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8908,7 +8908,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8926,7 +8926,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8944,7 +8944,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8962,7 +8962,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8980,7 +8980,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -8998,7 +8998,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9016,7 +9016,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9034,7 +9034,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9052,7 +9052,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9070,7 +9070,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9088,7 +9088,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9106,7 +9106,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9124,7 +9124,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9142,7 +9142,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9160,7 +9160,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9178,7 +9178,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9196,7 +9196,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9214,7 +9214,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9232,7 +9232,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9250,7 +9250,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9268,7 +9268,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9286,7 +9286,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9304,7 +9304,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9322,7 +9322,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9340,7 +9340,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9358,7 +9358,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9376,7 +9376,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9394,7 +9394,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9412,7 +9412,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9430,7 +9430,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9448,7 +9448,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9466,7 +9466,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9484,7 +9484,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9502,7 +9502,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9520,7 +9520,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9538,7 +9538,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9556,7 +9556,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9574,7 +9574,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9592,7 +9592,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9610,7 +9610,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9628,7 +9628,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9646,7 +9646,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9664,7 +9664,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9682,7 +9682,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9700,7 +9700,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9718,7 +9718,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9736,7 +9736,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9754,7 +9754,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9772,7 +9772,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9790,7 +9790,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9808,7 +9808,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9826,7 +9826,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9844,7 +9844,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9862,7 +9862,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -9880,7 +9880,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -9898,7 +9898,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_A25_Series_Power_Circuit_Breaker_cb2ae306-c151-485f-a559-c357784432b7_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -9916,7 +9916,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -9934,7 +9934,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -9952,7 +9952,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -9970,7 +9970,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_A25_Series_Power_Circuit_Breaker_cb2ae306-c151-485f-a559-c357784432b7_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -9988,7 +9988,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10006,7 +10006,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10024,7 +10024,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10042,7 +10042,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10060,7 +10060,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_A25_Series_Power_Circuit_Breaker_cb2ae306-c151-485f-a559-c357784432b7_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10078,7 +10078,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10096,7 +10096,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10114,7 +10114,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10132,7 +10132,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10150,7 +10150,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10168,7 +10168,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10186,7 +10186,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10204,7 +10204,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 86,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10222,7 +10222,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10240,7 +10240,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10258,7 +10258,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10276,7 +10276,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10294,7 +10294,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10312,7 +10312,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10330,7 +10330,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10348,7 +10348,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10366,7 +10366,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10384,7 +10384,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10402,7 +10402,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 135,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10420,7 +10420,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10438,7 +10438,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10456,7 +10456,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10474,7 +10474,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10492,7 +10492,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 167,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10510,7 +10510,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10528,7 +10528,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10546,7 +10546,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10564,7 +10564,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10582,7 +10582,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10600,7 +10600,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10618,7 +10618,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10636,7 +10636,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/assets/images/products/noark/Noark_MCCB_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -10654,7 +10654,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10672,7 +10672,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10690,7 +10690,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -10708,7 +10708,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_1ee00456-4a45-4cec-a84c-3b8ea9390f22_large.jpg?v=1757168411"
     ],
     "inStock": true,
     "specs": [],
@@ -10726,7 +10726,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_a8956bf6-3e69-4d88-8f5e-b7398ee3511a_large.jpg?v=1757168366"
     ],
     "inStock": true,
     "specs": [],
@@ -10744,7 +10744,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_bae7789e-f7ee-4835-87ba-23e77946d552_large.jpg?v=1757168333"
     ],
     "inStock": true,
     "specs": [],
@@ -10762,7 +10762,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_7de6c735-edf2-47d5-af1a-34b92450b0b0_large.jpg?v=1757168337"
     ],
     "inStock": true,
     "specs": [],
@@ -10780,7 +10780,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_3db74fce-aa57-4b4a-aa97-0de7868c49ad_large.jpg?v=1757168348"
     ],
     "inStock": true,
     "specs": [],
@@ -10798,7 +10798,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_a6e6ba79-7325-47b2-a18d-c2f2cf32f3fc_large.jpg?v=1757168435"
     ],
     "inStock": true,
     "specs": [],
@@ -10816,7 +10816,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_6c71d85a-919a-4739-b88b-61864111f7b8_large.jpg?v=1757168331"
     ],
     "inStock": true,
     "specs": [],
@@ -10834,7 +10834,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_35c57f70-c96b-459a-8c7c-7487ca8c0276_large.jpg?v=1757168331"
     ],
     "inStock": true,
     "specs": [],
@@ -10852,7 +10852,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_6c71d85a-919a-4739-b88b-61864111f7b8_large.jpg?v=1757168331"
     ],
     "inStock": true,
     "specs": [],
@@ -10870,7 +10870,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_c6cd4dd3-761c-4790-9aa9-5712ebd6ffb9_large.jpg?v=1757168356"
     ],
     "inStock": true,
     "specs": [],
@@ -10888,7 +10888,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_383c5304-e82b-4a4a-9559-dfe2b9809f0e_large.jpg?v=1757168351"
     ],
     "inStock": true,
     "specs": [],
@@ -10906,7 +10906,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_01190b12-efd4-4f87-903e-0c74c9f68943_large.jpg?v=1757168338"
     ],
     "inStock": true,
     "specs": [],
@@ -10924,7 +10924,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_4f2e96ea-3ed7-4547-83c4-244fa64b3467_large.jpg?v=1757168341"
     ],
     "inStock": true,
     "specs": [],
@@ -10942,7 +10942,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_f75e7f6d-aa15-430f-84b7-f0f8c95c1939_large.jpg?v=1757168335"
     ],
     "inStock": true,
     "specs": [],
@@ -10960,7 +10960,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5a0faa90-98ae-4e76-8719-fbd24c396a4d_large.jpg?v=1757168340"
     ],
     "inStock": true,
     "specs": [],
@@ -10978,7 +10978,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_3301c259-2a0a-42f1-b145-ee1135f6512e_large.jpg?v=1757168409"
     ],
     "inStock": true,
     "specs": [],
@@ -10996,7 +10996,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_2ac8f4b3-fcce-4254-ba67-8e769f291637_large.jpg?v=1757168343"
     ],
     "inStock": true,
     "specs": [],
@@ -11014,7 +11014,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_382faed4-1642-4625-a755-d29c92424937_large.jpg?v=1757168404"
     ],
     "inStock": true,
     "specs": [],
@@ -11032,7 +11032,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_4616b12d-dff0-47a2-8e7a-e19ce73ff2ac_large.jpg?v=1757168402"
     ],
     "inStock": true,
     "specs": [],
@@ -11050,7 +11050,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_382faed4-1642-4625-a755-d29c92424937_large.jpg?v=1757168404"
     ],
     "inStock": true,
     "specs": [],
@@ -11068,7 +11068,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_ab2d3721-daae-4f6e-ace2-778df16a34f8_large.jpg?v=1757168346"
     ],
     "inStock": true,
     "specs": [],
@@ -11086,7 +11086,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_61efab04-23b1-4879-a5f3-3ed55bc0d737_large.jpg?v=1757168354"
     ],
     "inStock": true,
     "specs": [],
@@ -11104,7 +11104,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_6c223ead-6f15-4ccb-bb5a-9041fa628f2a_large.jpg?v=1757168345"
     ],
     "inStock": true,
     "specs": [],
@@ -11122,7 +11122,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_a40d9872-e936-4763-8235-d4a369997e85_large.jpg?v=1757168416"
     ],
     "inStock": true,
     "specs": [],
@@ -11140,7 +11140,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_1bafc344-258a-4ff7-bea4-2672c856073d_large.jpg?v=1757168334"
     ],
     "inStock": true,
     "specs": [],
@@ -11158,7 +11158,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_4c15338c-d8f2-4c36-9096-397038ddbbac_large.jpg?v=1757168418"
     ],
     "inStock": true,
     "specs": [],
@@ -11176,7 +11176,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_b3da48d2-27c6-4d92-8b8b-0b06a8b8f61e_large.jpg?v=1757168336"
     ],
     "inStock": true,
     "specs": [],
@@ -11194,7 +11194,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_9551a656-9f68-4ef8-88e6-dd8d42ed7de7_large.jpg?v=1757168339"
     ],
     "inStock": true,
     "specs": [],
@@ -11212,7 +11212,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_86633825-6ecd-4a8e-9a95-c72d2cc91903_large.jpg?v=1757168413"
     ],
     "inStock": true,
     "specs": [],
@@ -11230,7 +11230,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_10f45383-07c9-4b1a-82bf-3a25b4d8339a_large.jpg?v=1757168466"
     ],
     "inStock": true,
     "specs": [],
@@ -11248,7 +11248,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_b5763849-65a8-4d2a-8e79-4354252fa9ef_large.jpg?v=1757168411"
     ],
     "inStock": true,
     "specs": [],
@@ -11266,7 +11266,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_a60afb57-8af9-4eb5-8d83-0a7d796ce9dc_large.jpg?v=1757168420"
     ],
     "inStock": true,
     "specs": [],
@@ -11284,7 +11284,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_683b545e-0972-4eec-a2d0-1c6b290833c9_large.jpg?v=1757168421"
     ],
     "inStock": true,
     "specs": [],
@@ -11302,7 +11302,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_930411b0-a4f1-4dfd-bfcb-228f8dd256ef_large.jpg?v=1757168465"
     ],
     "inStock": true,
     "specs": [],
@@ -11320,7 +11320,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_10f45383-07c9-4b1a-82bf-3a25b4d8339a_large.jpg?v=1757168466"
     ],
     "inStock": true,
     "specs": [],
@@ -11338,7 +11338,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_bc0b4105-d8fa-4979-a1bb-fb84da7a28bd_large.jpg?v=1757168350"
     ],
     "inStock": true,
     "specs": [],
@@ -11356,7 +11356,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_c3ba76d1-4f8a-4daf-87a9-f3e27bf12dfe_large.jpg?v=1757168342"
     ],
     "inStock": true,
     "specs": [],
@@ -11374,7 +11374,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_1e0f5f56-a61a-4198-97c5-b05e9d31d72a_large.jpg?v=1757168417"
     ],
     "inStock": true,
     "specs": [],
@@ -11392,7 +11392,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_0dbb0d67-e5f7-4a40-ae60-024b8a6dc547_large.jpg?v=1757168353"
     ],
     "inStock": true,
     "specs": [],
@@ -11410,7 +11410,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_8b29d2e9-a8a2-4422-9d25-13976c0ff1a2_large.jpg?v=1757168473"
     ],
     "inStock": true,
     "specs": [],
@@ -11428,7 +11428,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_f6fce6f7-db80-4282-af94-1c121a4131b6_large.jpg?v=1757168405"
     ],
     "inStock": true,
     "specs": [],
@@ -11446,7 +11446,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_53f4cc50-dc75-4179-9b03-9f3ea1d619ab_large.jpg?v=1757168468"
     ],
     "inStock": true,
     "specs": [],
@@ -11464,7 +11464,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_2ae64e80-9d83-4d76-8ad3-c9744790b9dd_large.jpg?v=1757168413"
     ],
     "inStock": true,
     "specs": [],
@@ -11482,7 +11482,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_2f73eeca-c004-4c1d-88cd-687486f6d350_large.jpg?v=1757168483"
     ],
     "inStock": true,
     "specs": [],
@@ -11500,7 +11500,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_a8035e8c-d4e7-4fdb-906b-e8ff015e7a64_large.jpg?v=1757168480"
     ],
     "inStock": true,
     "specs": [],
@@ -11518,7 +11518,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_2adbd987-1208-4a45-8844-341f7a0a5ef5_large.jpg?v=1757168468"
     ],
     "inStock": true,
     "specs": [],
@@ -11536,7 +11536,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_b2d392b8-5e98-4dc3-a047-6c137ab4ef54_large.jpg?v=1757168470"
     ],
     "inStock": true,
     "specs": [],
@@ -11554,7 +11554,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_21360561-78c3-4efe-9913-d7b8500c33f5_large.jpg?v=1757168420"
     ],
     "inStock": true,
     "specs": [],
@@ -11572,7 +11572,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_e2a00826-f315-491b-9194-558ff734fc2b_large.jpg?v=1757168424"
     ],
     "inStock": true,
     "specs": [],
@@ -11590,7 +11590,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_59cfdb71-e844-4bea-b0ee-0b1de0c45eb9_large.jpg?v=1757168469"
     ],
     "inStock": true,
     "specs": [],
@@ -11608,7 +11608,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_724b8941-899e-4931-a573-ea79a404ab91_large.jpg?v=1757168407"
     ],
     "inStock": true,
     "specs": [],
@@ -11626,7 +11626,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_9d8420ad-1ddd-4ed7-a29b-997acc5f720e_large.jpg?v=1757168406"
     ],
     "inStock": true,
     "specs": [],
@@ -11644,7 +11644,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_a5455897-1ff7-4398-9fdc-75be59c7105f_large.jpg?v=1757168408"
     ],
     "inStock": true,
     "specs": [],
@@ -11662,7 +11662,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_36c13f28-9069-4e85-9a86-4323f6827478_large.jpg?v=1757168476"
     ],
     "inStock": true,
     "specs": [],
@@ -11680,7 +11680,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_6c7a5e21-e817-4e37-b74f-a2488aaf6050_large.jpg?v=1757168414"
     ],
     "inStock": true,
     "specs": [],
@@ -11698,7 +11698,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_9b920c41-4dc4-41b2-a457-c993370c9d99_large.jpg?v=1757168415"
     ],
     "inStock": true,
     "specs": [],
@@ -11716,7 +11716,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_6b39c3be-4ee7-4246-aa7c-0d5cc5af383c_large.jpg?v=1757168474"
     ],
     "inStock": true,
     "specs": [],
@@ -11734,7 +11734,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_1f07c4f2-779a-4f6e-af89-3271f15d615f_large.jpg?v=1757168419"
     ],
     "inStock": true,
     "specs": [],
@@ -11752,7 +11752,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11770,7 +11770,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11788,7 +11788,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11806,7 +11806,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_ebd580c9-1c10-4b6b-883b-7ab71df84fdd_large.jpg?v=1757168471"
     ],
     "inStock": true,
     "specs": [],
@@ -11824,7 +11824,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5d81f015-fa3a-447d-b7fa-4ccbe0a0b872_large.jpg?v=1757168476"
     ],
     "inStock": true,
     "specs": [],
@@ -11842,7 +11842,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11860,7 +11860,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_3b6bf917-daaf-46f2-80cf-6b4dbdf46762_large.jpg?v=1757168472"
     ],
     "inStock": true,
     "specs": [],
@@ -11878,7 +11878,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_b1d456f4-9c53-480d-a653-15eae48955d6_large.jpg?v=1757168478"
     ],
     "inStock": true,
     "specs": [],
@@ -11896,7 +11896,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11914,7 +11914,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11932,7 +11932,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -11950,7 +11950,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_482f9140-044b-4f30-a288-3c922eaf1070_large.jpg?v=1757168472"
     ],
     "inStock": true,
     "specs": [],
@@ -11968,7 +11968,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_7045ada2-9548-49c3-bcaa-bbc3efa02226_large.jpg?v=1757168479"
     ],
     "inStock": true,
     "specs": [],
@@ -11986,7 +11986,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_20e160ca-db7d-4248-8ee7-65b16faaac78_large.jpg?v=1757168475"
     ],
     "inStock": true,
     "specs": [],
@@ -12004,7 +12004,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_7512270d-02d8-4842-845a-bfd43d958627_large.jpg?v=1757168482"
     ],
     "inStock": true,
     "specs": [],
@@ -12022,7 +12022,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12040,7 +12040,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_65a7ed3d-1bcd-4469-9d72-1cd25cbff434_large.jpg?v=1757168481"
     ],
     "inStock": true,
     "specs": [],
@@ -12058,7 +12058,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12076,7 +12076,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12094,7 +12094,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_69a52f93-2d71-4cf9-978b-c17b031d2a1d_large.jpg?v=1757168477"
     ],
     "inStock": true,
     "specs": [],
@@ -12112,7 +12112,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12130,7 +12130,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12148,7 +12148,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_6c71d85a-919a-4739-b88b-61864111f7b8_large.jpg?v=1757168331"
     ],
     "inStock": true,
     "specs": [],
@@ -12166,7 +12166,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12184,7 +12184,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12202,7 +12202,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12220,7 +12220,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12238,7 +12238,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12256,7 +12256,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12274,7 +12274,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12292,7 +12292,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12310,7 +12310,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12328,7 +12328,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12346,7 +12346,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12364,7 +12364,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12382,7 +12382,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12400,7 +12400,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12418,7 +12418,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12436,7 +12436,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12454,7 +12454,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12472,7 +12472,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_382faed4-1642-4625-a755-d29c92424937_large.jpg?v=1757168404"
     ],
     "inStock": true,
     "specs": [],
@@ -12490,7 +12490,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12508,7 +12508,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12526,7 +12526,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12544,7 +12544,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12562,7 +12562,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12580,7 +12580,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12598,7 +12598,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12616,7 +12616,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12634,7 +12634,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12652,7 +12652,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12670,7 +12670,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12688,7 +12688,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12706,7 +12706,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12724,7 +12724,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12742,7 +12742,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12760,7 +12760,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12778,7 +12778,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12796,7 +12796,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_10f45383-07c9-4b1a-82bf-3a25b4d8339a_large.jpg?v=1757168466"
     ],
     "inStock": true,
     "specs": [],
@@ -12814,7 +12814,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_8a281322-cf30-41e0-a65f-012cb5219240_large.jpg?v=1757168359"
     ],
     "inStock": true,
     "specs": [],
@@ -12832,7 +12832,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_aef49743-6bf9-48cc-b7e8-5ecd8413d655_large.jpg?v=1757168373"
     ],
     "inStock": true,
     "specs": [],
@@ -12850,7 +12850,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12868,7 +12868,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12886,7 +12886,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_4b4b9dcc-d1f8-4a64-9791-c6d9a0560981_large.jpg?v=1757168357"
     ],
     "inStock": true,
     "specs": [],
@@ -12904,7 +12904,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_9ce2d056-45e7-4459-a930-ab66c4e8d1cc_large.jpg?v=1757168360"
     ],
     "inStock": true,
     "specs": [],
@@ -12922,7 +12922,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_762b8271-b967-4c82-893a-47c5c13a0920_large.jpg?v=1757168361"
     ],
     "inStock": true,
     "specs": [],
@@ -12940,7 +12940,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12958,7 +12958,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 208,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_1f755e2e-8402-4167-98b4-0d86c038470b_large.jpg?v=1757168363"
     ],
     "inStock": true,
     "specs": [],
@@ -12976,7 +12976,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -12994,7 +12994,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13012,7 +13012,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_485cda75-3283-4303-9927-64c671f0c79b_large.jpg?v=1757168364"
     ],
     "inStock": true,
     "specs": [],
@@ -13030,7 +13030,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13048,7 +13048,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_00bc5aeb-6f1c-4786-a507-a8314ad31f9a_large.jpg?v=1757168370"
     ],
     "inStock": true,
     "specs": [],
@@ -13066,7 +13066,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_447830de-a5a0-4237-a101-b02b0c82d8bd_large.jpg?v=1757168374"
     ],
     "inStock": true,
     "specs": [],
@@ -13084,7 +13084,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_8fdf6fc7-abc2-41ca-b7a8-203bbabb9e57_large.jpg?v=1757168367"
     ],
     "inStock": true,
     "specs": [],
@@ -13102,7 +13102,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13120,7 +13120,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13138,7 +13138,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_00f37018-e702-4dd1-8dc8-0f1f32db1543_large.jpg?v=1757168357"
     ],
     "inStock": true,
     "specs": [],
@@ -13156,7 +13156,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_feb8f70f-3d12-46ef-a938-7a57a1533f33_large.jpg?v=1757168425"
     ],
     "inStock": true,
     "specs": [],
@@ -13174,7 +13174,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_43bb2a46-bbf1-48d1-a6d2-6ddda60f59c2_large.jpg?v=1757168439"
     ],
     "inStock": true,
     "specs": [],
@@ -13192,7 +13192,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5041eff1-caa3-49b2-85e1-c23d3852aaf9_large.jpg?v=1757168431"
     ],
     "inStock": true,
     "specs": [],
@@ -13210,7 +13210,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_28be0c7f-1b66-4341-a4a1-e28e8e7c44f2_large.jpg?v=1757168441"
     ],
     "inStock": true,
     "specs": [],
@@ -13228,7 +13228,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 67,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_feb8f70f-3d12-46ef-a938-7a57a1533f33_large.jpg?v=1757168425"
     ],
     "inStock": true,
     "specs": [],
@@ -13246,7 +13246,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5f0fcdf7-d728-4813-af4b-a908899d3d66_large.jpg?v=1757168377"
     ],
     "inStock": true,
     "specs": [],
@@ -13264,7 +13264,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_262baaba-5338-4617-8d18-3ea9a63e864c_large.jpg?v=1757168371"
     ],
     "inStock": true,
     "specs": [],
@@ -13282,7 +13282,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_30f0c0c5-287e-4bd6-bd73-5f425ea92318_large.jpg?v=1757168429"
     ],
     "inStock": true,
     "specs": [],
@@ -13300,7 +13300,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_23735299-6a74-4b4c-a698-36239bac07bd_large.jpg?v=1757168427"
     ],
     "inStock": true,
     "specs": [],
@@ -13318,7 +13318,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_bb1f013c-e4a6-4c45-aa18-99a413f66155_large.jpg?v=1757168369"
     ],
     "inStock": true,
     "specs": [],
@@ -13336,7 +13336,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_90de1d34-b3ec-45e1-a98a-2203a0836297_large.jpg?v=1757168428"
     ],
     "inStock": true,
     "specs": [],
@@ -13354,7 +13354,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_4b4b9dcc-d1f8-4a64-9791-c6d9a0560981_large.jpg?v=1757168357"
     ],
     "inStock": true,
     "specs": [],
@@ -13372,7 +13372,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_fb61c36b-eb4a-41b2-9ef4-0176c654483b_large.jpg?v=1757168430"
     ],
     "inStock": true,
     "specs": [],
@@ -13390,7 +13390,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5e679cbb-ed69-46bf-82fb-fca99dcd6fb3_large.jpg?v=1757168362"
     ],
     "inStock": true,
     "specs": [],
@@ -13408,7 +13408,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_cb508e30-69e6-4c72-87f8-ba68fc7b654e_large.jpg?v=1757168365"
     ],
     "inStock": true,
     "specs": [],
@@ -13426,7 +13426,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5da775fc-09a2-4e8e-bdfe-ae3e72a42d65_large.jpg?v=1757168368"
     ],
     "inStock": true,
     "specs": [],
@@ -13444,7 +13444,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_3964ef10-3408-4b94-8ccb-33376354aef3_large.jpg?v=1757168368"
     ],
     "inStock": true,
     "specs": [],
@@ -13462,7 +13462,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_77e11aa4-62db-4aa3-81df-1aad189745fd_large.jpg?v=1757168375"
     ],
     "inStock": true,
     "specs": [],
@@ -13480,7 +13480,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_8b67da91-a79c-44f7-9c09-6a65bbfbdadb_large.jpg?v=1757168372"
     ],
     "inStock": true,
     "specs": [],
@@ -13498,7 +13498,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_65acfb04-a859-47e4-8e50-5974628b5a99_large.jpg?v=1757168501"
     ],
     "inStock": true,
     "specs": [],
@@ -13516,7 +13516,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_143f13f3-d9c0-4287-b9cd-b722b52ff7f8_large.jpg?v=1757168498"
     ],
     "inStock": true,
     "specs": [],
@@ -13534,7 +13534,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5f4a3766-cd29-44e6-a177-83ab0ebd3707_large.jpg?v=1757168503"
     ],
     "inStock": true,
     "specs": [],
@@ -13552,7 +13552,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_ec0bf931-47b4-40a8-a34d-9afffa6fab0e_large.jpg?v=1757168485"
     ],
     "inStock": true,
     "specs": [],
@@ -13570,7 +13570,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_dea2b2b0-9b16-4012-970c-56a5c7b2f01a_large.jpg?v=1757168493"
     ],
     "inStock": true,
     "specs": [],
@@ -13588,7 +13588,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_c90993af-4016-4913-931f-2751a303c34e_large.jpg?v=1757168490"
     ],
     "inStock": true,
     "specs": [],
@@ -13606,7 +13606,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_7883688f-e84d-437a-9a1f-587b81131970_large.jpg?v=1757168424"
     ],
     "inStock": true,
     "specs": [],
@@ -13624,7 +13624,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_f21ede67-391e-44f4-8f6e-10b2673b19c8_large.jpg?v=1757168434"
     ],
     "inStock": true,
     "specs": [],
@@ -13642,7 +13642,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_158b2bd4-1ebd-4ac8-9b6c-b30006f37e42_large.jpg?v=1757168437"
     ],
     "inStock": true,
     "specs": [],
@@ -13660,7 +13660,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_38587d89-4780-42ab-a9d7-a1bb24bfe402_large.jpg?v=1757168488"
     ],
     "inStock": true,
     "specs": [],
@@ -13678,7 +13678,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_18555e3a-8fb0-4d41-b9f7-8fc85f6c08b7_large.jpg?v=1757168488"
     ],
     "inStock": true,
     "specs": [],
@@ -13696,7 +13696,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_db63e398-d7c1-4145-b5d6-3915e04cb873_large.jpg?v=1757168495"
     ],
     "inStock": true,
     "specs": [],
@@ -13714,7 +13714,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_4c54983e-48d0-463b-9472-f1ac31c978c6_large.jpg?v=1757168445"
     ],
     "inStock": true,
     "specs": [],
@@ -13732,7 +13732,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_0ccc61ca-443d-4315-a9b9-48981513cef7_large.jpg?v=1757168506"
     ],
     "inStock": true,
     "specs": [],
@@ -13750,7 +13750,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_d3937080-af7a-42b3-a7e5-3c2567272615_large.jpg?v=1757168433"
     ],
     "inStock": true,
     "specs": [],
@@ -13768,7 +13768,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_532b0195-ffb7-4d9e-b35f-66370e95c31d_large.jpg?v=1757168432"
     ],
     "inStock": true,
     "specs": [],
@@ -13786,7 +13786,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_22608798-ed27-4685-a283-f248d359422d_large.jpg?v=1757168436"
     ],
     "inStock": true,
     "specs": [],
@@ -13804,7 +13804,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_d7ffb822-a156-445d-ac91-9b25855aca27_large.jpg?v=1757168437"
     ],
     "inStock": true,
     "specs": [],
@@ -13822,7 +13822,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_d47f1061-817b-4361-b4e3-e0c197f836e7_large.jpg?v=1757168439"
     ],
     "inStock": true,
     "specs": [],
@@ -13840,7 +13840,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -13858,7 +13858,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_98a9cedd-f231-4811-9910-81e4b160f612_large.jpg?v=1757168442"
     ],
     "inStock": true,
     "specs": [],
@@ -13876,7 +13876,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_9c651c44-d073-4943-9c6d-275feea4469d_large.jpg?v=1757168443"
     ],
     "inStock": true,
     "specs": [],
@@ -13894,7 +13894,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_0c567b60-7e22-484f-8352-c43a21c646a1_large.jpg?v=1757168500"
     ],
     "inStock": true,
     "specs": [],
@@ -13912,7 +13912,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_921807b9-fc77-40cf-a100-0e3795652278_large.jpg?v=1757168504"
     ],
     "inStock": true,
     "specs": [],
@@ -13930,7 +13930,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_5d28e0a7-01c9-42f8-b38f-6d8c00b64ddc_large.jpg?v=1757168502"
     ],
     "inStock": true,
     "specs": [],
@@ -13948,7 +13948,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_b285c84a-f644-4e4e-904e-ba54563c05b3_large.jpg?v=1757168440"
     ],
     "inStock": true,
     "specs": [],
@@ -13966,7 +13966,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_20358d8d-1720-442d-ad5f-0a1832c8f7e2_large.jpg?v=1757168505"
     ],
     "inStock": true,
     "specs": [],
@@ -13984,7 +13984,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14002,7 +14002,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_ec0bf931-47b4-40a8-a34d-9afffa6fab0e_large.jpg?v=1757168485"
     ],
     "inStock": true,
     "specs": [],
@@ -14020,7 +14020,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_4b4b9dcc-d1f8-4a64-9791-c6d9a0560981_large.jpg?v=1757168357"
     ],
     "inStock": true,
     "specs": [],
@@ -14038,7 +14038,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_aa9b5a5c-5d7d-414a-9b56-0853c0bf26eb_large.jpg?v=1757168484"
     ],
     "inStock": true,
     "specs": [],
@@ -14056,7 +14056,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14074,7 +14074,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_25c78547-7d77-4cb2-b603-c5d6619efff5_large.jpg?v=1757168487"
     ],
     "inStock": true,
     "specs": [],
@@ -14092,7 +14092,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14110,7 +14110,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14128,7 +14128,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_e42527da-47d5-4f43-97f2-e40d6f33f6e9_large.jpg?v=1757168492"
     ],
     "inStock": true,
     "specs": [],
@@ -14146,7 +14146,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_bc5d47ee-4382-4d5b-839f-c49102b64bc8_large.jpg?v=1757168494"
     ],
     "inStock": true,
     "specs": [],
@@ -14164,7 +14164,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 64,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_b10e120f-a961-464e-a200-fd88b97dbb09_large.jpg?v=1757168491"
     ],
     "inStock": true,
     "specs": [],
@@ -14182,7 +14182,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_cd01b5a7-b8ee-48f7-beca-b43cad80fbac_large.jpg?v=1757168489"
     ],
     "inStock": true,
     "specs": [],
@@ -14200,7 +14200,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/files/Noark_B1N_-_Mini_Circuit_Breaker_79ccccd4-9b78-4b74-a8b4-a31fff25902a_large.jpg?v=1757168497"
     ],
     "inStock": true,
     "specs": [],
@@ -14218,7 +14218,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14236,7 +14236,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14254,7 +14254,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14272,7 +14272,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14290,7 +14290,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14308,7 +14308,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14326,7 +14326,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14344,7 +14344,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14362,7 +14362,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14380,7 +14380,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14398,7 +14398,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14416,7 +14416,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14434,7 +14434,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14452,7 +14452,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14470,7 +14470,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14488,7 +14488,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14506,7 +14506,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14524,7 +14524,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14542,7 +14542,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14560,7 +14560,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14578,7 +14578,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14596,7 +14596,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 97,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14614,7 +14614,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14632,7 +14632,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14650,7 +14650,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14668,7 +14668,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14686,7 +14686,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14704,7 +14704,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14722,7 +14722,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14740,7 +14740,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14758,7 +14758,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14776,7 +14776,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14794,7 +14794,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14812,7 +14812,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14830,7 +14830,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14848,7 +14848,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14866,7 +14866,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14884,7 +14884,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14902,7 +14902,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14920,7 +14920,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14938,7 +14938,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14956,7 +14956,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14974,7 +14974,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -14992,7 +14992,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15010,7 +15010,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15028,7 +15028,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15046,7 +15046,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15064,7 +15064,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15082,7 +15082,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15100,7 +15100,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15118,7 +15118,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15136,7 +15136,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15154,7 +15154,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15172,7 +15172,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15190,7 +15190,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15208,7 +15208,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15226,7 +15226,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15244,7 +15244,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15262,7 +15262,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15280,7 +15280,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15298,7 +15298,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15316,7 +15316,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15334,7 +15334,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15352,7 +15352,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15370,7 +15370,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15388,7 +15388,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15406,7 +15406,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15424,7 +15424,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15442,7 +15442,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15460,7 +15460,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15478,7 +15478,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15496,7 +15496,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15514,7 +15514,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15532,7 +15532,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15550,7 +15550,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15568,7 +15568,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15586,7 +15586,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15604,7 +15604,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15622,7 +15622,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15640,7 +15640,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15658,7 +15658,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15676,7 +15676,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15694,7 +15694,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15712,7 +15712,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15730,7 +15730,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15748,7 +15748,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15766,7 +15766,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15784,7 +15784,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15802,7 +15802,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15820,7 +15820,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15838,7 +15838,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15856,7 +15856,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15874,7 +15874,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15892,7 +15892,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15910,7 +15910,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15928,7 +15928,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15946,7 +15946,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 48,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15964,7 +15964,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -15982,7 +15982,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16000,7 +16000,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16018,7 +16018,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16036,7 +16036,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16054,7 +16054,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16072,7 +16072,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16090,7 +16090,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 80,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16108,7 +16108,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 29,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16126,7 +16126,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16144,7 +16144,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16162,7 +16162,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 88,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16180,7 +16180,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16198,7 +16198,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 84,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16216,7 +16216,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16234,7 +16234,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 159,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16252,7 +16252,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16270,7 +16270,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16288,7 +16288,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16306,7 +16306,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16324,7 +16324,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16342,7 +16342,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16360,7 +16360,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16378,7 +16378,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16396,7 +16396,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16414,7 +16414,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16432,7 +16432,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16450,7 +16450,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16468,7 +16468,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 50,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16486,7 +16486,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16504,7 +16504,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16522,7 +16522,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16540,7 +16540,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16558,7 +16558,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16576,7 +16576,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16594,7 +16594,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16612,7 +16612,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16630,7 +16630,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16648,7 +16648,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16666,7 +16666,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16684,7 +16684,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16702,7 +16702,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16720,7 +16720,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16738,7 +16738,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16756,7 +16756,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16774,7 +16774,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16792,7 +16792,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 63,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16810,7 +16810,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16828,7 +16828,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16846,7 +16846,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16864,7 +16864,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -16882,7 +16882,7 @@ export const noarkcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

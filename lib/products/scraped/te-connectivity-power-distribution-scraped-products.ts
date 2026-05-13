@@ -16,7 +16,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_3e1f5414-4c6a-4415-b054-aa2352561715_large.jpg?v=1604843584"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_c49749dd-516d-434d-b339-a3abc502b78a_large.jpg?v=1604843575"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_0c94c2b6-0f86-45e5-88a6-1c50afffad9c_large.jpg?v=1604843557"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_f1d47ca8-ec75-4cbe-adab-e78a52824bc5_large.jpg?v=1604843569"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/UniversalBusbarSupportwithNeutralCircuit_large.jpg?v=1604843554"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_ad263c3c-99ef-4217-8cdb-d40edff8b65d_large.jpg?v=1604846930"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_259ede01-0b8d-42e5-b6ee-fce095bfdd2e_large.jpg?v=1604846928"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_a5ce5fd7-68a9-4011-995d-5321362a4556_large.jpg?v=1604846897"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_3b3e494e-8100-4a20-92b7-47200ba60a13_large.jpg?v=1604846890"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_810cf106-e70d-4966-866d-477dbeb0fa38_large.jpg?v=1604846881"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BCRibbedSteelBusbarClamp_large.jpg?v=1604846862"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_709f9cdc-5311-4b5c-b814-c906e5da5a4a_large.jpg?v=1605081843"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_c93e2ed4-31c3-4ab3-8b4d-2a82bbb9fc12_large.jpg?v=1605081844"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_8fa080b7-eeeb-4499-831f-af2673176fb4_large.jpg?v=1605069281"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 17,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6388f289-2ff2-459d-9f11-603a9c3ee90f_large.jpg?v=1605069268"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_6cc6e09b-9c33-40dd-b70d-fa72ebf9a98e_large.jpg?v=1605069277"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_a49e20a0-d236-4a6d-9698-cea6f4a7af32_large.jpg?v=1605081333"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_38475ba5-6970-434a-9fe5-ec1c5d6d5be6_large.jpg?v=1605081358"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e13a06ae-f449-4fd8-8e58-2f178e979e2f_large.jpg?v=1605081357"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_0fbe7cb5-8109-4039-afab-3295e210b44c_large.jpg?v=1605081360"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_4eec2ca9-9778-4f58-8f22-3a48dce0f51e_large.jpg?v=1605081361"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_1b01dc2a-e79e-4801-8614-72d05e03381e_large.jpg?v=1605081362"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e76bd0e8-8b43-40fd-ab6b-7548cba72bf4_large.jpg?v=1605081363"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_dac9597f-69af-4cb8-9e73-fa4994eefd87_large.jpg?v=1605081369"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_9b0f0a40-384e-49e3-977e-431318f006d5_large.jpg?v=1605081370"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_adab75cb-dd9a-476c-b6e9-bd4858fe64e6_large.jpg?v=1605081371"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_bd35d85f-132d-4037-8925-f511052e3cee_large.jpg?v=1605081373"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_9e91716a-ce20-4006-9d6e-b9f88b716f0f_large.jpg?v=1605081376"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_618f7fe1-ad31-48b5-8bd3-ff6f985355f4_large.jpg?v=1605081377"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_1d99f9e8-75f3-4a0c-af69-a7187b584b3b_large.jpg?v=1605081377"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_5f0caeb7-bfdc-40e3-b6fc-22902d46c51f_large.jpg?v=1605081378"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8219021b-3b07-4895-932d-11622802202d_large.jpg?v=1605081379"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8831cba2-9a4b-40c7-ad0e-393425ce6bc5_large.jpg?v=1605081380"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_fdfa3a27-4469-4194-8408-7a844508d934_large.jpg?v=1605081382"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 126,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8b6e75e4-7347-4e66-b6ab-4443c6c62de1_large.jpg?v=1605081381"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_7880e1bf-8a8e-4f7b-8937-366ba090e72b_large.jpg?v=1605081382"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const teconnectivitypower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_d3a57adc-b5d3-4a1a-99b4-2f2b5302c75b_large.jpg?v=1605081385"
     ],
     "inStock": true,
     "specs": [],

@@ -16,7 +16,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const hartingcircuit_breakersScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

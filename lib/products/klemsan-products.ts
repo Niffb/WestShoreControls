@@ -9,9 +9,9 @@ export const klemsanProducts = [
     rating: 4.7,
     reviews: 23,
     images: [
-      "products/klemsan/product_images/AVK_2,5_Red_304124.webp",
-      "products/klemsan/product_images/AVK_4_Grey_304130.webp", 
-      "products/klemsan/product_images/AVK_6_Blue_304141.webp"
+      "/assets/images/categories/klemsan/screw-terminals.webp",
+      "/assets/images/categories/klemsan/screw-terminals.webp", 
+      "/assets/images/categories/klemsan/screw-terminals.webp"
     ],
     inStock: true,
     specs: ["2.5 mm²", "800 V", "24 A", "UL / CE"],
@@ -26,9 +26,9 @@ export const klemsanProducts = [
     rating: 4.6,
     reviews: 17,
     images: [
-      "products/klemsan/product_images/PYK_4E_Beige_307220.webp",
-      "products/klemsan/product_images/PYK_1,5_307009.webp",
-      "products/klemsan/product_images/PYK_4CT_336610.webp"
+      "/assets/images/categories/klemsan/quick-release.webp",
+      "/assets/images/categories/klemsan/quick-release.webp",
+      "/assets/images/categories/klemsan/quick-release.webp"
     ],
     inStock: true,
     specs: ["4 mm²", "800 V", "32 A", "Push-in"],
@@ -43,9 +43,9 @@ export const klemsanProducts = [
     rating: 4.8,
     reviews: 31,
     images: [
-      "products/klemsan/YKB_94_(2,4X94)_Black_532094S.webp",
-      "products/klemsan/YKB_94_(2,5X100)_White_532100B.webp",
-      "products/klemsan/product_images/YKB_100_(2,5X100)_Black_532100S.webp"
+      "/assets/images/products/klemsan/YKB_94_(2,4X94)_Black_532094S.webp",
+      "/assets/images/categories/klemsan/spring-terminals.webp",
+      "/assets/images/products/klemsan/YKB_94_(2,4X94)_Black_532094S.webp"
     ],
     inStock: true,
     specs: ["2.5 mm²", "800 V", "24 A", "IEC 60947-7-2"],
@@ -60,9 +60,9 @@ export const klemsanProducts = [
     rating: 4.7,
     reviews: 12,
     images: [
-      "products/klemsan/product_images/CTP_2,5_Gri_310129.webp",
-      "products/klemsan/product_images/CTP_2,5E_Grey_310139.webp",
-      "products/klemsan/product_images/CTP_2,5T_Grey_337070.webp"
+      "/assets/images/categories/klemsan/plug-terminals.webp",
+      "/assets/images/categories/klemsan/plug-terminals.webp",
+      "/assets/images/categories/klemsan/plug-terminals.webp"
     ],
     inStock: true,
     specs: ["4 Pole", "6 mm²", "800 V"],
@@ -76,7 +76,7 @@ export const klemsanProducts = [
     description: "Assorted terminal pack including disconnect, fuse and ground terminals for panel assembly.",
     rating: 4.5,
     reviews: 8,
-    images: ["products/klemsan/product_images/SRD_2,5-2FK_Grey_311519.webp"],
+    images: ["/assets/images/categories/klemsan/other-terminals.webp"],
     inStock: true,
     specs: ["Assorted", "DIN-rail"],
     models: ["PSK 1/2", "PSK 1/12", "PSK 2/2", "PSK 2/10", "SK 1", "SK 2", "SK 3", "SK 4", "UC02", "UC03", "UC05", "BIK 1", "BIK 2", "BIK 3", "BIK 4", "BIK 5", "SBK16/5", "SBK16/10", "SBK35/5", "SBK35/10", "SBK50/5", "SBK50/10", "BK 4", "BK 10", "BK 35", "IBK 4", "IBK 10", "IBK 35", "BKN 4", "BKN 16", "BKN 35", "IBKN 4", "IBKN 16", "IBKN 35"],
@@ -89,7 +89,7 @@ export const klemsanProducts = [
     description: "Robust PA end-bracket ensuring tight fixation of terminal blocks on DIN rails.",
     rating: 4.9,
     reviews: 44,
-    images: ["products/klemsan/product_images/D_NS_5x6_810300.jpg"],
+    images: ["/assets/images/categories/klemsan/end-stops.webp"],
     inStock: true,
     specs: ["PA66", "35 mm DIN"],
     models: ["KD3", "KD4", "KD5", "KD6", "KD6A", "KD 7", "KD 8", "ATCS 6", "ME 1-1", "ME 1-2", "ME 2-2", "ME 3", "GE 4"],
@@ -103,9 +103,9 @@ export const klemsanProducts = [
     rating: 4.6,
     reviews: 29,
     images: [
-      "products/klemsan/KLP-10-24_261003.webp",
-      "products/klemsan/KLP-5-5_261001.webp",
-      "products/klemsan/KLP-10-12_261002.jpg"
+      "/assets/images/products/klemsan/KLP-10-24_261003.webp",
+      "/assets/images/products/klemsan/KLP-5-5_261001.webp",
+      "/assets/images/products/klemsan/KLP-10-12_261002.webp"
     ],
     inStock: true,
     specs: ["120 W", "24 V DC", "UL 508"],
@@ -120,9 +120,9 @@ export const klemsanProducts = [
     rating: 4.7,
     reviews: 19,
     images: [
-      "products/klemsan/REL_24V_DC_SLIM_TIP_6A250VAC_095041.jpg",
-      "products/klemsan/REL_12V_DC_SLIM_TIP_6A250VAC_095042.jpg",
-      "products/klemsan/REL_60V_DC_SLIM_TIP_6A250VAC_095040.jpg"
+      "/assets/images/products/klemsan/REL_24V_DC_SLIM_TIP_6A250VAC_095041.webp",
+      "/assets/images/products/klemsan/REL_12V_DC_SLIM_TIP_6A250VAC_095042.webp",
+      "/assets/images/products/klemsan/REL_60V_DC_SLIM_TIP_6A250VAC_095040.webp"
     ],
     inStock: true,
     specs: ["8 Pin", "10 A", "230 VAC Coil"],
@@ -137,9 +137,9 @@ export const klemsanProducts = [
     rating: 4.5,
     reviews: 14,
     images: [
-      "products/klemsan/REMOTE_IO__260001.webp",
-      "products/klemsan/Z1T-M5_216018.webp",
-      "products/klemsan/Z1T-SD_216021.webp"
+      "/assets/images/products/klemsan/REMOTE_IO__260001.webp",
+      "/assets/images/products/klemsan/Z1T-M5_216018.webp",
+      "/assets/images/products/klemsan/Z1T-SD_216021.webp"
     ],
     inStock: true,
     specs: ["16 DI", "MODBUS TCP", "24 V DC"],
@@ -154,9 +154,9 @@ export const klemsanProducts = [
     rating: 4.4,
     reviews: 11,
     images: [
-      "products/klemsan/product_images/145-0W-O1_606360.webp",
-      "products/klemsan/product_images/C100-1M-V2_606801.webp",
-      "products/klemsan/product_images/B100-0W-O1_606812.webp"
+      "/assets/images/categories/klemsan/climate.webp",
+      "/assets/images/categories/klemsan/climate.webp",
+      "/assets/images/categories/klemsan/climate.webp"
     ],
     inStock: true,
     specs: ["230 VAC", "IP54", "Metal Grill"],
@@ -171,9 +171,9 @@ export const klemsanProducts = [
     rating: 4.6,
     reviews: 15,
     images: [
-      "products/klemsan/product_images/KYK-1206_590035.webp",
-      "products/klemsan/product_images/KYK-806_590033.webp",
-      "products/klemsan/product_images/KYK-1002_590025.webp"
+      "/assets/images/categories/klemsan/cam-switches.webp",
+      "/assets/images/categories/klemsan/cam-switches.webp",
+      "/assets/images/categories/klemsan/cam-switches.webp"
     ],
     inStock: true,
     specs: ["3-Pole", "40 A", "IP65"],
@@ -187,7 +187,7 @@ export const klemsanProducts = [
     description: "Illuminated push-button actuator, 22 mm mounting, LED 24 V DC, colour green.",
     rating: 4.7,
     reviews: 20,
-    images: ["products/klemsan/product_images/SG-L2_Black_469015.webp"],
+    images: ["/assets/images/categories/klemsan/control-buttons.webp"],
     inStock: true,
     specs: ["LED", "IP65", "1 NO"],
     models: ["DYB - B/W", "DYB - K/R", "DYB - M/B", "DYB - S/Y", "DYB - Y/G", "DYB - S/B", "CYB - B/W", "CYB - K/R", "CYB - M/B", "CYB - S/Y", "CYB - Y/G", "CYB - S/B", "K2", "KA", "LIND24 - B/W", "LIND24 - K/R", "LIND24 - M/B", "LIND24 - S/", "LIND24 - Y/G"],
@@ -201,8 +201,8 @@ export const klemsanProducts = [
     rating: 4.5,
     reviews: 9,
     images: [
-      "products/klemsan/product_images/KIOBOX-75_BOX_PC_607404.webp",
-      "products/klemsan/product_images/KIOBOX-10-I_BOX_PC_607403.webp"
+      "/assets/images/categories/klemsan/junction-boxes.webp",
+      "/assets/images/categories/klemsan/junction-boxes.webp"
     ],
     inStock: true,
     specs: ["IP66", "ABS", "Grey RAL 7035"],
@@ -217,9 +217,9 @@ export const klemsanProducts = [
     rating: 4.6,
     reviews: 18,
     images: [
-      "products/klemsan/KLEMARK_RIBON_30mm_x_300m__1020010.jpg",
-      "products/klemsan/KLEMARK_RIBON_50mm_x_300m__1020011.jpg",
-      "products/klemsan/SLF-P1_W_11,2mm_x_15m__1020100.jpg"
+      "/assets/images/products/klemsan/KLEMARK_RIBON_30mm_x_300m__1020010.webp",
+      "/assets/images/products/klemsan/KLEMARK_RIBON_50mm_x_300m__1020011.webp",
+      "/assets/images/products/klemsan/SLF-P1_W_11,2mm_x_15m__1020100.jpg"
     ],
     inStock: true,
     specs: ["300 dpi", "USB / Ethernet"],
@@ -233,7 +233,7 @@ export const klemsanProducts = [
     description: "Slotted cable duct providing organized wiring in control panels, halogen-free PVC.",
     rating: 4.3,
     reviews: 7,
-    images: ["products/klemsan/product_images/KKC_1540_USNS_551080USNS.webp"],
+    images: ["/assets/images/categories/klemsan/cable-channels.webp"],
     inStock: true,
     specs: ["2 m Length", "Halogen Free", "UL 94-V0"],
     models: ["KKC 1518", "KKC 1530", "KKC 1540", "KKC 1560", "KKD 2530", "KKD 2540", "KHF 2530", "KHF 2540", "KHF 6080", "KKK 60", "KKK 25", "KKK 40", "KKT 4040", "KKT 6080"],
@@ -246,7 +246,7 @@ export const klemsanProducts = [
     description: "Professional insulated screwdriver set optimized for Klemsan terminal block installation.",
     rating: 4.8,
     reviews: 32,
-    images: ["products/klemsan/YKB_914_(9X914)_BEYAZ_539914B.webp"],
+    images: ["/assets/images/products/klemsan/YKB_914_(9X914)_BEYAZ_539914B.webp"],
     inStock: true,
     specs: ["VDE 1000 V", "6 pcs"],
     models: ["CRIMPER 6", "CRIMPER F 10 L", "CRIMPER N 50", "CUTTER 16", "KMK 1002", "KT 1", "KT 2", "IKT 1", "IKT 2", "YKB 94", "YKB 100", "YKB 250", "KLM-11", "KLI-1S", "KLM-EN-1S"],

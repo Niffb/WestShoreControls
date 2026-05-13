@@ -16,7 +16,7 @@ export const hartingcontactorsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

@@ -16,7 +16,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_c3060a2f-7978-48c3-be2f-659e85cdede8_large.png?v=1604684074"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_cd27a9e2-8a45-4fcb-bf76-ba1fa6710b17_large.png?v=1604684073"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_222ca7a7-e164-48d3-a899-f055631a2b19_large.png?v=1604684075"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_674b7140-1b51-456b-bc04-f150371d8df2_large.png?v=1604684076"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_dbac8c7b-71e2-481d-bcfd-c44ef316ba12_large.png?v=1604684078"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_38c854ca-bc82-4eac-83c4-3145b9ce95f6_large.png?v=1604684077"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_276e25d1-65ff-4370-94bc-ecff751899d2_large.png?v=1604684080"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_9ae92d38-b619-4625-8272-35b80cfc1f6e_large.png?v=1604684079"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_5a6350a7-fb5e-4040-bdb5-e31498444be4_large.png?v=1604684085"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 127,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_54c46ac9-f6d2-49d3-9bc0-6f0ad712fbe1_large.png?v=1604684086"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_fa275b4f-1150-4eed-84fb-d017d8881708_large.png?v=1604684087"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_740f6858-a097-4b2f-b708-2986f4a2c409_large.png?v=1604684088"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_96a9c06e-ccff-44c6-bd22-66dc7c2ac353_large.png?v=1604684090"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_6b4f15e7-f587-4a46-8a77-14e89acf310b_large.png?v=1604684091"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_5c627e17-fa10-447a-95d8-b4bc115fafb7_large.png?v=1604684092"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 197,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_2e0e6d79-c8f2-473f-9f99-f9a9970e5801_large.png?v=1604684093"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_d1d712e6-b2d8-4c2a-9de6-7d021aa00269_large.png?v=1604684094"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_27bf33bf-8257-44e4-8220-8e850495a632_large.png?v=1604684095"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_4452a8cf-e3a9-47e9-98f7-c2960705451e_large.png?v=1604684096"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_9335a670-8eba-4018-aa5b-8978a9770093_large.png?v=1604684098"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_457a60f8-98bd-4bfb-9c99-0212364892ac_large.png?v=1604684099"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 124,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_9e97e616-d63b-4847-b32e-2daca8cbbffe_large.png?v=1604684100"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_165b6938-55da-4d22-b2a0-0347cd76ea71_large.png?v=1604684103"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a41a9a8b-7d27-4914-a656-8f55f508b717_large.png?v=1604684102"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_46b88221-1b64-4200-a5e3-75d0368300a2_large.png?v=1604684101"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_9c5d9dba-0be3-4d31-a5b3-61a2385e0a21_large.png?v=1604684104"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 169,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_880eab59-9e99-41ea-95bc-8a611436a90d_large.png?v=1604684105"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_21527363-f7da-429a-b39c-7d459cda5404_large.png?v=1604684108"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a52a172e-d5bf-482f-b00e-b15fd4e5700a_large.png?v=1604684107"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_3cfddf00-92a3-4291-814e-f7f100960573_large.png?v=1604684110"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_b98fd64b-ba5e-4f4e-a191-65b4b6e7caec_large.png?v=1604684109"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_091d1e6a-9112-4330-9e7c-14f45490c8f5_large.png?v=1604684111"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 170,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_d630174b-f743-424d-9044-acab86527b70_large.png?v=1604684113"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_0f658aea-148f-4a35-8840-63d5c5694180_large.png?v=1604684114"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_65114709-c8d7-4f50-a5da-d8098d768e89_large.png?v=1604684115"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_4beb9863-7b90-4875-ba70-582c2919b6af_large.png?v=1604684117"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_f9ea2e33-bfaf-489f-a63d-0f4e68ad788f_large.png?v=1604684119"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_e414f8d2-2e55-4b09-9ed6-9ef0c8433dbd_large.png?v=1604684118"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_03c6d036-8b27-454b-8c86-f94bcac397aa_large.png?v=1604684123"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_6b603a36-589a-4713-a0b4-259c5773f8f7_large.png?v=1604684121"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_ec21d374-575e-4620-8c6b-25bce2326f6b_large.png?v=1604684124"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_bb94c688-40af-4be6-bd8f-fdb9b2ee30cd_large.png?v=1604684126"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_5a9b4242-b7f2-4e8d-bcfc-4e845121d642_large.png?v=1604684128"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_8f0dbb11-377f-4dea-9193-38d79174af88_large.png?v=1604684129"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 172,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_4dd595fb-90b8-4c7e-8abe-a436f8dcca68_large.png?v=1604684127"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a3f6e525-e49b-4231-8b66-5b5d5a5197ac_large.png?v=1604684132"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_7d48a8b0-c323-4fa2-a9d0-6f11997849e3_large.png?v=1604684131"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_1c6b233e-6fc7-4221-a954-ea64734d94e8_large.png?v=1604684134"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_9d236011-bde7-40ea-8ba0-09e0bba65a62_large.png?v=1604684133"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_347a63b1-5897-4ba4-9e91-1fe8987bdd05_large.png?v=1604684135"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_3919e80d-af6e-44c5-99ab-f7971e85fd03_large.png?v=1604684136"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_1fa1953c-1d44-418e-bf32-0bbd37d0aaec_large.png?v=1604684138"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_5a0ad062-edf7-4cdd-9c0d-2cb7d3d571d3_large.png?v=1604684137"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_6a75d3cf-22f2-4dec-b0d5-883806a93cfa_large.png?v=1604684140"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_d148adf3-7634-4d4b-9fd3-ab7f8eb09639_large.png?v=1604684139"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a8968133-28a1-4989-b3a7-cdf4e8b840b0_large.png?v=1604684141"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 109,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_36a3a4e5-727b-4a46-9b51-1f58dcee0715_large.png?v=1604684144"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 91,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a8968133-28a1-4989-b3a7-cdf4e8b840b0_large.png?v=1604684141"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_36a3a4e5-727b-4a46-9b51-1f58dcee0715_large.png?v=1604684144"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_9244092b-98ad-41c5-91c2-81280923735b_large.png?v=1604684146"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a63bb580-6723-4d39-be7f-d1a54aef2347_large.png?v=1604684147"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_48d525dc-21bc-4b37-96b8-db8a208f39ce_large.png?v=1604684148"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_0c9a1ab9-16a0-4859-a732-f62721203664_large.png?v=1604684150"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_c30e9253-636a-4042-979c-fc5f7cad8e98_large.png?v=1604684149"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_e7378224-a8d8-4395-9491-02dd7df62ccd_large.png?v=1604684152"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_1ff68b4d-dbe4-4934-8cf0-7656e6ff4288_large.png?v=1604684153"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a4ee136a-8a46-4762-a9ca-1f2943930600_large.png?v=1604684154"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_c8cd11a0-d302-456c-8fb3-87ae20549e2c_large.png?v=1604684155"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_810b296c-5e8e-42b2-b6a6-3fda90bf05c6_large.png?v=1604684156"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 15,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_b8bcc311-bcd4-4408-b1ef-8d865663c0c0_large.png?v=1604684157"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_61da38e0-64e1-48e8-87d8-3857638b5dd4_large.png?v=1604684158"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_00c9c891-7286-4bbc-be03-f0b0f04cd7a9_large.png?v=1604684159"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_f6ca3cac-4f1f-48a1-8b5b-ed724a81613f_large.png?v=1604684160"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a0f62bfe-39bf-46e9-b850-d87d89e2f725_large.png?v=1604684161"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_10ba6378-4bb0-4397-9259-8091d6944da6_large.png?v=1604684162"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_8f180215-c88e-4114-877a-e0a7fed1302b_large.png?v=1604684164"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_0a0c3877-69d0-4f24-9d1b-9a9bf3f2c5f0_large.png?v=1604684163"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_0dba020f-f303-43e6-89a4-51e96d867214_large.png?v=1604684165"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_c183e145-b518-45aa-add2-a360de37cb16_large.png?v=1604684167"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_7ae5a3d0-f22d-4834-be47-c5e97a0c7c16_large.png?v=1604684168"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_551f4d73-5420-4b37-ab8e-7c809415029b_large.png?v=1604684169"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_1807de2c-3742-490d-95a8-ed193287be00_large.png?v=1604684170"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_28711fa0-ca33-4281-b9c8-ba7d0345d8fa_large.png?v=1604684171"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_65dabfe3-2d45-49fc-9dfb-8d04f60791a1_large.png?v=1604684063"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_4e3b3e51-2f60-421b-b65d-cccd5978ea81_large.png?v=1604684065"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_ec1573c9-c3a4-4a23-86dc-9a15f94ef752_large.png?v=1604684064"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_dd945a24-9f87-4d20-833b-4206b39455a3_large.png?v=1604684067"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_large.png?v=1604684066"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_9c9f5b11-6619-4882-8f69-44c17f4bf859_large.png?v=1604684070"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_3e305190-e6e8-463a-852f-d83c0eaa5207_large.png?v=1604684069"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_a185be81-38ba-432b-8158-1972f184f7c0_large.png?v=1604684071"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Noark_Overload_Relay_Accessories_Ex9R_Series_399e2341-c67e-4545-8100-881959627a0e_large.png?v=1604684072"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 35,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 125,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 89,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 30,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const noarkoverload_relaysScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

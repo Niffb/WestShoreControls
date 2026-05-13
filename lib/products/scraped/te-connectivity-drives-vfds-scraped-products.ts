@@ -16,7 +16,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const teconnectivitydrives_vfdsScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/Mitsubishi_E700_1-Phase_100_120VAC_Input___3-Phase_200_240VAC_Output_medium.avif"
     ],
     "inStock": true,
     "specs": [],

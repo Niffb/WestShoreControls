@@ -13,7 +13,7 @@ export const allenbradleyScrapedProducts: Product[] = [
     "rating": 3.9,
     "reviews": 23,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],

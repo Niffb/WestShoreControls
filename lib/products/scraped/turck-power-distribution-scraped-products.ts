@@ -16,7 +16,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 205,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_f7a09bdf-9134-4931-985d-bbc27cc4275a_large.jpg?v=1605078925"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_236f6827-078d-46a0-91c9-7ef026289d0b_large.jpg?v=1605078919"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_1dfe993c-c13e-4182-88d6-06778f249e0d_large.jpg?v=1605078916"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 176,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_56f7fffd-fe0a-474e-bf3b-617fb7671960_large.jpg?v=1605078894"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 39,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_80beb451-88d9-4e26-a3e3-2780d110d2a0_large.jpg?v=1605078891"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 178,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_ef4d79d9-eb6a-4f8e-9ae3-dfb0cd99a916_large.jpg?v=1605078887"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9b4b8457-3508-473f-9a02-7794103ac7ff_large.jpg?v=1605078878"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_5d56d7c7-1291-4c9b-940d-95b73162cdf0_large.jpg?v=1605078887"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a88f28c5-1b63-4180-872d-553dd30d5c03_large.jpg?v=1605078873"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const turckpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 82,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_501b46fd-778b-4348-9e48-1f0b11df7c9b_large.jpg?v=1605078872"
     ],
     "inStock": true,
     "specs": [],

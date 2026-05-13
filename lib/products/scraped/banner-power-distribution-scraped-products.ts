@@ -16,7 +16,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 163,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_fafcb38d-c766-4c21-b142-cff4cc77b13d_large.jpg?v=1604763894"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_8fbdc3ba-79cb-4c42-b7f0-42d7a52661e7_large.jpg?v=1604764118"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 185,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_a11d990c-26bb-496a-b34b-c406562131a2_large.jpg?v=1604763880"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_150ae916-5d20-498d-bb99-549d81431fe4_large.jpg?v=1604763875"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_17eac65d-841d-4751-81f8-92e681985047_large.jpg?v=1604763906"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_93c183cc-0227-467c-8fdd-e22ec624542f_large.jpg?v=1604763856"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_a38641e6-d882-4735-87dd-4416fe8c837f_large.jpg?v=1604763850"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_1a38a5b1-be78-409e-bd75-060bc9480d38_large.jpg?v=1604763854"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_dbef0b31-93d5-43d2-ab14-8751d34aaed1_large.jpg?v=1604763846"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_348ba56d-b9ec-4b05-b7f0-8d7f248b5735_large.jpg?v=1604763828"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_d6738855-d450-4157-91d7-bd2be6e7142f_large.jpg?v=1604763819"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_a9c792d3-cdd3-4aa6-8abb-92d7ff4d738d_large.jpg?v=1604763812"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_0917bd16-703b-4d2f-86e5-ec4ca6cb29ff_large.jpg?v=1604763804"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_4d03471a-b098-4c99-a315-dba32ee95002_large.jpg?v=1604763811"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_f08690fb-5d95-40f7-84b7-f3d591738b5d_large.jpg?v=1604763795"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_6cd5c5bd-6990-487c-a402-8a04aa0550fc_large.jpg?v=1604763786"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 157,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_59aa3d17-1e08-4bb9-af47-3649f8d66d52_large.jpg?v=1604763786"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 41,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_e5b60416-e3c9-4774-aee6-ad95e75a42ae_large.jpg?v=1604763767"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_2f8789ce-efb7-4417-823f-61183345564c_large.jpg?v=1604763905"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const bannerpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PH1977m_large.jpg?v=1604763757"
     ],
     "inStock": true,
     "specs": [],

@@ -16,7 +16,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_595d1a70-9236-4f7c-8ac0-a86473a9f6aa_large.jpg?v=1604826548"
     ],
     "inStock": true,
     "specs": [],
@@ -34,7 +34,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_019251ca-c408-4534-9c12-fa7482d2575f_large.jpg?v=1604826544"
     ],
     "inStock": true,
     "specs": [],
@@ -52,7 +52,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_02af96e2-aec6-48da-8f9e-cd03642773e5_large.jpg?v=1604826544"
     ],
     "inStock": true,
     "specs": [],
@@ -70,7 +70,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_ca0ba865-e49b-439e-b30c-8d8d801b1ba8_large.jpg?v=1604826538"
     ],
     "inStock": true,
     "specs": [],
@@ -88,7 +88,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_4c55af78-4dee-46ec-ab68-858d50d71df5_large.jpg?v=1604826536"
     ],
     "inStock": true,
     "specs": [],
@@ -106,7 +106,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_0fe2d1d5-e7d0-42d5-aea9-f0b3373f5d1b_large.jpg?v=1604826529"
     ],
     "inStock": true,
     "specs": [],
@@ -124,7 +124,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_ca623f8d-90bd-462e-ab9e-3e79c144a117_large.jpg?v=1604826535"
     ],
     "inStock": true,
     "specs": [],
@@ -142,7 +142,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/ABSAdjustableBusbarSupportHighAmpacityKit_large.jpg?v=1604826525"
     ],
     "inStock": true,
     "specs": [],
@@ -160,7 +160,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_65445a27-d28a-4897-8779-e3eb788ea882_large.jpg?v=1604839976"
     ],
     "inStock": true,
     "specs": [],
@@ -178,7 +178,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 141,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_b74e1b8b-3042-421c-9acd-a30b3bc87695_large.jpg?v=1604839975"
     ],
     "inStock": true,
     "specs": [],
@@ -196,7 +196,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_252a56b4-fe91-4eb1-a7a6-5e5cebbb051d_large.jpg?v=1604839970"
     ],
     "inStock": true,
     "specs": [],
@@ -214,7 +214,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_e3a3cb95-14eb-439d-9e28-d65b0e019b1c_large.jpg?v=1604839968"
     ],
     "inStock": true,
     "specs": [],
@@ -232,7 +232,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CFBSFlatBusbarSupportClip_large.jpg?v=1604839959"
     ],
     "inStock": true,
     "specs": [],
@@ -250,7 +250,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_ed2e1da5-a76a-44c7-ae05-c39fa549f431_large.jpg?v=1605085246"
     ],
     "inStock": true,
     "specs": [],
@@ -268,7 +268,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_62822c5c-0361-45d9-93b3-224a9e51c2e6_large.jpg?v=1605085249"
     ],
     "inStock": true,
     "specs": [],
@@ -286,7 +286,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_3d448cd0-0c78-48c7-9e12-6277135464e0_large.jpg?v=1605085229"
     ],
     "inStock": true,
     "specs": [],
@@ -304,7 +304,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_025bbdf6-6bb3-4a72-b972-d55faf30adfb_large.jpg?v=1605085238"
     ],
     "inStock": true,
     "specs": [],
@@ -322,7 +322,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_ab5f9cbf-4388-4775-9a40-f911ba5b96a1_large.jpg?v=1605085225"
     ],
     "inStock": true,
     "specs": [],
@@ -340,7 +340,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_5515f94e-75fd-4814-a2fa-f1557c72ac44_large.jpg?v=1605085226"
     ],
     "inStock": true,
     "specs": [],
@@ -358,7 +358,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_9a92b4dd-bd65-4cdf-b3eb-b6b6fcd218c9_large.jpg?v=1605085217"
     ],
     "inStock": true,
     "specs": [],
@@ -376,7 +376,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_3163d3a5-daeb-4c18-80ca-5cb63a470f4f_large.jpg?v=1605085216"
     ],
     "inStock": true,
     "specs": [],
@@ -394,7 +394,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_36225f34-5a29-4f9f-b968-0ec73366e033_large.jpg?v=1605085206"
     ],
     "inStock": true,
     "specs": [],
@@ -412,7 +412,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 154,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_c294b858-384c-459c-b9ec-89243afbb5d4_large.jpg?v=1605085213"
     ],
     "inStock": true,
     "specs": [],
@@ -430,7 +430,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_f650b813-5c0d-4315-a125-4a8e0b7fbb2a_large.jpg?v=1605085204"
     ],
     "inStock": true,
     "specs": [],
@@ -448,7 +448,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_258e333c-b1d1-4164-9393-dc0c189ac4b4_large.jpg?v=1605085198"
     ],
     "inStock": true,
     "specs": [],
@@ -466,7 +466,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_b54ba708-bb10-4251-9183-863526fb288a_large.jpg?v=1605085185"
     ],
     "inStock": true,
     "specs": [],
@@ -484,7 +484,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_9d2bf824-6b46-4507-9d0d-af02918c5c3e_large.jpg?v=1605085359"
     ],
     "inStock": true,
     "specs": [],
@@ -502,7 +502,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_dbc10b61-ac96-4efe-a941-51e769cb797f_large.jpg?v=1605085179"
     ],
     "inStock": true,
     "specs": [],
@@ -520,7 +520,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_2a5625f2-5914-41a8-bb5f-1b5bd643188f_large.jpg?v=1605085176"
     ],
     "inStock": true,
     "specs": [],
@@ -538,7 +538,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_480f99f1-573c-4ea6-8a9b-765849b4075e_large.jpg?v=1605085158"
     ],
     "inStock": true,
     "specs": [],
@@ -556,7 +556,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_6bfa9846-10b5-49ff-8c8d-869b09b0e21c_large.jpg?v=1605085163"
     ],
     "inStock": true,
     "specs": [],
@@ -574,7 +574,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_dde37eed-2bf2-4ac3-a655-e9658ec3094d_large.jpg?v=1605085151"
     ],
     "inStock": true,
     "specs": [],
@@ -592,7 +592,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 22,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_4b9e176a-0978-43e4-a446-e06702c63471_large.jpg?v=1605085148"
     ],
     "inStock": true,
     "specs": [],
@@ -610,7 +610,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_2777f394-a70b-45e5-b85f-e2a03c74471d_large.jpg?v=1605085141"
     ],
     "inStock": true,
     "specs": [],
@@ -628,7 +628,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 151,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_f9cb2323-e002-4d17-9453-d117dd0d699f_large.jpg?v=1605085137"
     ],
     "inStock": true,
     "specs": [],
@@ -646,7 +646,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_f01e32e8-ef6d-4e65-8623-5e3d3dfafec4_large.jpg?v=1605085128"
     ],
     "inStock": true,
     "specs": [],
@@ -664,7 +664,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 59,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_14b06b89-c11f-49c4-acd2-443c494141e2_large.jpg?v=1605085133"
     ],
     "inStock": true,
     "specs": [],
@@ -682,7 +682,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_e49610f5-96d0-4518-8336-c72e802d3910_large.jpg?v=1605085121"
     ],
     "inStock": true,
     "specs": [],
@@ -700,7 +700,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_2696b415-ee01-462d-9505-5002b521707d_large.jpg?v=1605085113"
     ],
     "inStock": true,
     "specs": [],
@@ -718,7 +718,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_ed164580-d251-4aad-8554-c1bfe85d4e6e_large.jpg?v=1605085104"
     ],
     "inStock": true,
     "specs": [],
@@ -736,7 +736,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 179,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_62f6850b-6b04-4a30-ac3e-7f6b36857182_large.jpg?v=1605085106"
     ],
     "inStock": true,
     "specs": [],
@@ -754,7 +754,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 78,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_b1e6b97c-19e6-44da-920c-ae8aeca666c8_large.jpg?v=1605085094"
     ],
     "inStock": true,
     "specs": [],
@@ -772,7 +772,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 200,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_64d2bd2c-748d-46b4-8de0-12d3170225f3_large.jpg?v=1605085099"
     ],
     "inStock": true,
     "specs": [],
@@ -790,7 +790,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 45,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_6fda17ff-ab90-4a1b-b0a0-0524c36f3170_large.jpg?v=1605085085"
     ],
     "inStock": true,
     "specs": [],
@@ -808,7 +808,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 196,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_fb01ddb1-6ef5-48db-ae4e-6536d0dd02e9_large.jpg?v=1605085088"
     ],
     "inStock": true,
     "specs": [],
@@ -826,7 +826,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 214,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_c360de4c-a1cc-4181-8fe7-8b00b47669a6_large.jpg?v=1605085083"
     ],
     "inStock": true,
     "specs": [],
@@ -844,7 +844,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDTwoPoleDistributionBlock_100_125A_1bb5788f-afbb-4217-a826-950ee63434d2_large.jpg?v=1605085316"
     ],
     "inStock": true,
     "specs": [],
@@ -862,7 +862,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_383becdc-80bb-4c16-a224-7dd5ef0ac4dd_large.jpg?v=1605106353"
     ],
     "inStock": true,
     "specs": [],
@@ -880,7 +880,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_95c96da8-1853-4151-aab8-2019e085c2ea_large.jpg?v=1605106340"
     ],
     "inStock": true,
     "specs": [],
@@ -898,7 +898,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_87d6343e-e089-4ab4-a4b9-12819d02f39c_large.jpg?v=1605106330"
     ],
     "inStock": true,
     "specs": [],
@@ -916,7 +916,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 111,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_baf59ee3-dd66-4ac4-8e63-73d47828ea2e_large.jpg?v=1605106320"
     ],
     "inStock": true,
     "specs": [],
@@ -934,7 +934,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_450a67cb-1378-4ecc-bddd-7b846237f7df_large.jpg?v=1605106312"
     ],
     "inStock": true,
     "specs": [],
@@ -952,7 +952,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 152,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_b29de92b-4f3b-4f76-a4c0-03ee7c7e672c_large.jpg?v=1605106285"
     ],
     "inStock": true,
     "specs": [],
@@ -970,7 +970,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_3a24391f-fcfd-42c6-9a8a-b3bac8b0a964_large.jpg?v=1605106270"
     ],
     "inStock": true,
     "specs": [],
@@ -988,7 +988,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_b545e3d5-ea2a-47b1-9915-08044f43b116_large.jpg?v=1605106261"
     ],
     "inStock": true,
     "specs": [],
@@ -1006,7 +1006,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_88ff0e1c-8b37-44a0-a1fc-0c9fc8d31a20_large.jpg?v=1605106243"
     ],
     "inStock": true,
     "specs": [],
@@ -1024,7 +1024,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 183,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_53f8287b-4421-4998-a7b8-67d55448db77_large.jpg?v=1605106245"
     ],
     "inStock": true,
     "specs": [],
@@ -1042,7 +1042,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 209,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_8b56675a-bcf0-4218-9e0e-b628604c15e1_large.jpg?v=1605106227"
     ],
     "inStock": true,
     "specs": [],
@@ -1060,7 +1060,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_f9215c93-a2d7-4f21-b497-123ff912ce24_large.jpg?v=1605106229"
     ],
     "inStock": true,
     "specs": [],
@@ -1078,7 +1078,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_2f18bfbe-b604-4123-aee5-e9f2dc8ca631_large.jpg?v=1605106221"
     ],
     "inStock": true,
     "specs": [],
@@ -1096,7 +1096,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_cb448035-303f-49a2-bfac-037be32b36bb_large.jpg?v=1605106225"
     ],
     "inStock": true,
     "specs": [],
@@ -1114,7 +1114,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_14ef00b2-6f55-4ccb-a355-d39387342003_large.jpg?v=1605106207"
     ],
     "inStock": true,
     "specs": [],
@@ -1132,7 +1132,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_0a252e74-1d7e-42f8-82e8-f1c429b99cea_large.jpg?v=1605106103"
     ],
     "inStock": true,
     "specs": [],
@@ -1150,7 +1150,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_e33b295f-6edc-4321-9aa2-1fb47f32f3a0_large.jpg?v=1605106096"
     ],
     "inStock": true,
     "specs": [],
@@ -1168,7 +1168,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_29e07685-9912-4b64-9515-1085276e7ec4_large.jpg?v=1605106090"
     ],
     "inStock": true,
     "specs": [],
@@ -1186,7 +1186,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_7748050b-74f7-49a8-a4b7-f2fd2db5ebfd_large.jpg?v=1605106094"
     ],
     "inStock": true,
     "specs": [],
@@ -1204,7 +1204,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 161,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_1756d9f9-b323-4740-8e72-4023544431e2_large.jpg?v=1605106086"
     ],
     "inStock": true,
     "specs": [],
@@ -1222,7 +1222,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 211,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_0cfb9ae3-f543-43da-80e6-2f8f49be7aee_large.jpg?v=1605106084"
     ],
     "inStock": true,
     "specs": [],
@@ -1240,7 +1240,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_33023fa8-981f-4f1d-a1c2-47ed16dcdf17_large.jpg?v=1605106081"
     ],
     "inStock": true,
     "specs": [],
@@ -1258,7 +1258,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PowerBlock_315d3b7a-04f0-41f7-a61a-9a355f59cb58_large.jpg?v=1605106069"
     ],
     "inStock": true,
     "specs": [],
@@ -1276,7 +1276,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1294,7 +1294,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 70,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1312,7 +1312,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1330,7 +1330,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_fed1914c-02ab-4a2a-a77f-65b2b87ad4e3_large.jpg?v=1604685219"
     ],
     "inStock": true,
     "specs": [],
@@ -1348,7 +1348,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 207,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_1b5c5479-49e8-43a5-9ed3-8518c0d36cf8_large.jpg?v=1604685220"
     ],
     "inStock": true,
     "specs": [],
@@ -1366,7 +1366,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/LS_Overload_Relays_bfb0742c-ee3f-4953-9c8a-554bef3dba59_large.jpg?v=1604685220"
     ],
     "inStock": true,
     "specs": [],
@@ -1384,7 +1384,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1402,7 +1402,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1420,7 +1420,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 194,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1438,7 +1438,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 177,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1456,7 +1456,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1474,7 +1474,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -1492,7 +1492,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 107,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/HCBCHighCurrentBusbarClamp_large.jpg?v=1605018012"
     ],
     "inStock": true,
     "specs": [],
@@ -1510,7 +1510,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 166,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_c0897705-2361-47bf-bca2-083a5614d6f2_large.jpg?v=1604847783"
     ],
     "inStock": true,
     "specs": [],
@@ -1528,7 +1528,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_1bcda660-e1fe-4c43-bfe8-5562ee81eed9_large.jpg?v=1604847727"
     ],
     "inStock": true,
     "specs": [],
@@ -1546,7 +1546,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 119,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_d961b44e-58b3-4046-9234-031b4844d08c_large.jpg?v=1604847716"
     ],
     "inStock": true,
     "specs": [],
@@ -1564,7 +1564,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_740194e0-018e-409f-a47b-9f7bc7e23144_large.jpg?v=1604847705"
     ],
     "inStock": true,
     "specs": [],
@@ -1582,7 +1582,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_b3393c28-99ef-46a2-ab20-d1bb1971bffb_large.jpg?v=1604847684"
     ],
     "inStock": true,
     "specs": [],
@@ -1600,7 +1600,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 130,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_a3df91bc-c37c-4ffc-890f-f2e1b11e148b_large.jpg?v=1604847694"
     ],
     "inStock": true,
     "specs": [],
@@ -1618,7 +1618,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_1a6d4f4b-4d1f-4148-aa27-c7f85af0867a_large.jpg?v=1604847659"
     ],
     "inStock": true,
     "specs": [],
@@ -1636,7 +1636,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 52,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_0d5c37d8-c873-4853-b893-69d3c2db86f9_large.jpg?v=1604847672"
     ],
     "inStock": true,
     "specs": [],
@@ -1654,7 +1654,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_d9354805-65af-4e63-8662-8b99f8afcc0a_large.jpg?v=1604847636"
     ],
     "inStock": true,
     "specs": [],
@@ -1672,7 +1672,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FBCFlexibar_large.jpg?v=1604847639"
     ],
     "inStock": true,
     "specs": [],
@@ -1690,7 +1690,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 96,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLL-250Lug-to-LugPowerTerminal_large.jpg?v=1605109305"
     ],
     "inStock": true,
     "specs": [],
@@ -1708,7 +1708,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 168,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLL-800Lug-to-LugPowerTerminal_large.jpg?v=1605109296"
     ],
     "inStock": true,
     "specs": [],
@@ -1726,7 +1726,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLL-500Lug-to-LugPowerTerminal_large.jpg?v=1605109303"
     ],
     "inStock": true,
     "specs": [],
@@ -1744,7 +1744,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLT-250Lug-to-TunnelPowerTerminal_large.jpg?v=1605109283"
     ],
     "inStock": true,
     "specs": [],
@@ -1762,7 +1762,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLT-350Lug-to-TunnelPowerTerminal_large.jpg?v=1605109280"
     ],
     "inStock": true,
     "specs": [],
@@ -1780,7 +1780,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLT-500Lug-to-TunnelPowerTerminal_large.jpg?v=1605109254"
     ],
     "inStock": true,
     "specs": [],
@@ -1798,7 +1798,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBTT-250Tunnel-to-TunnelPowerTerminal_large.jpg?v=1605109222"
     ],
     "inStock": true,
     "specs": [],
@@ -1816,7 +1816,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBTT-350Tunnel-to-TunnelPowerTerminal_large.jpg?v=1605109205"
     ],
     "inStock": true,
     "specs": [],
@@ -1834,7 +1834,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBTT-500Tunnel-to-TunnelPowerTerminal_large.jpg?v=1605109191"
     ],
     "inStock": true,
     "specs": [],
@@ -1852,7 +1852,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 53,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBLECPowerTerminalsFixingAccessory_large.jpg?v=1605109159"
     ],
     "inStock": true,
     "specs": [],
@@ -1870,7 +1870,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 21,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_3dab24dc-41ae-44b0-8b54-9cc4c1e17f7a_large.jpg?v=1605017091"
     ],
     "inStock": true,
     "specs": [],
@@ -1888,7 +1888,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 187,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_92b11bc7-4d2d-4fef-ac81-0508688f827d_large.jpg?v=1605017090"
     ],
     "inStock": true,
     "specs": [],
@@ -1906,7 +1906,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_2d6b7f5a-41b9-4785-8d59-aee9cdb94fde_large.jpg?v=1605017078"
     ],
     "inStock": true,
     "specs": [],
@@ -1924,7 +1924,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 190,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_7af67782-067b-41c1-9210-8ffa5531c39c_large.jpg?v=1605017084"
     ],
     "inStock": true,
     "specs": [],
@@ -1942,7 +1942,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_08bf0836-a378-4b4b-9f31-d96385c0c7bd_large.jpg?v=1605017069"
     ],
     "inStock": true,
     "specs": [],
@@ -1960,7 +1960,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 146,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_c000e610-9c2a-4b30-afc9-3082be474e29_large.jpg?v=1605017062"
     ],
     "inStock": true,
     "specs": [],
@@ -1978,7 +1978,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_c1e430eb-127b-454a-93fe-f2a873e0db37_large.jpg?v=1605017062"
     ],
     "inStock": true,
     "specs": [],
@@ -1996,7 +1996,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FCFlexibartoBusbarClamp_large.jpg?v=1605017047"
     ],
     "inStock": true,
     "specs": [],
@@ -2014,7 +2014,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/Power_Block_Spacer_large.jpg?v=1605104841"
     ],
     "inStock": true,
     "specs": [],
@@ -2032,7 +2032,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_a640d497-1b93-4e5d-9840-acd89d20d2cd_large.jpg?v=1605019862"
     ],
     "inStock": true,
     "specs": [],
@@ -2050,7 +2050,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_3c04593b-9340-47a9-8ab6-e46e8f42c1b6_large.jpg?v=1605019866"
     ],
     "inStock": true,
     "specs": [],
@@ -2068,7 +2068,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 158,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_00ffd9fa-9169-49fd-8529-2aef2998aea1_large.jpg?v=1605019860"
     ],
     "inStock": true,
     "specs": [],
@@ -2086,7 +2086,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_6baa6fbd-417e-4b04-8e26-40ba22d94d2a_large.jpg?v=1605019828"
     ],
     "inStock": true,
     "specs": [],
@@ -2104,7 +2104,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_50d840aa-2ac3-4e4e-90ac-e111a8d67f75_large.jpg?v=1605019815"
     ],
     "inStock": true,
     "specs": [],
@@ -2122,7 +2122,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 149,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_8d0f0f88-a24c-4f95-a323-ccb87274470f_large.jpg?v=1605019837"
     ],
     "inStock": true,
     "specs": [],
@@ -2140,7 +2140,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_1d14cdae-decc-4f69-8bae-01b2fc398ed0_large.jpg?v=1605019772"
     ],
     "inStock": true,
     "specs": [],
@@ -2158,7 +2158,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 103,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_98bbb90e-0245-4e29-867f-a9334be38be0_large.jpg?v=1605019770"
     ],
     "inStock": true,
     "specs": [],
@@ -2176,7 +2176,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 51,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ade72323-0820-427f-beab-0cc92d494095_large.jpg?v=1605019757"
     ],
     "inStock": true,
     "specs": [],
@@ -2194,7 +2194,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_fb748654-99b9-4657-94e0-0e5efa75a510_large.jpg?v=1605019745"
     ],
     "inStock": true,
     "specs": [],
@@ -2212,7 +2212,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_292acafc-2a9c-4d12-b5f2-fd7ca9e4848d_large.jpg?v=1605019840"
     ],
     "inStock": true,
     "specs": [],
@@ -2230,7 +2230,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_292acafc-2a9c-4d12-b5f2-fd7ca9e4848d_large.jpg?v=1605019840"
     ],
     "inStock": true,
     "specs": [],
@@ -2248,7 +2248,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_292acafc-2a9c-4d12-b5f2-fd7ca9e4848d_large.jpg?v=1605019840"
     ],
     "inStock": true,
     "specs": [],
@@ -2266,7 +2266,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_cc4c257d-c867-44d7-824e-6c8d4590d6d9_large.jpg?v=1605019712"
     ],
     "inStock": true,
     "specs": [],
@@ -2284,7 +2284,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 122,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_0c750306-2854-4d9e-9239-749dcb66e245_large.jpg?v=1605019706"
     ],
     "inStock": true,
     "specs": [],
@@ -2302,7 +2302,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_3e8a02c1-fa0f-4064-bfde-25395ef2be85_large.jpg?v=1605019694"
     ],
     "inStock": true,
     "specs": [],
@@ -2320,7 +2320,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_03926466-1c25-445f-a62c-89ee83b6d849_large.jpg?v=1605019699"
     ],
     "inStock": true,
     "specs": [],
@@ -2338,7 +2338,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_02dfe6e7-915e-4447-b558-f8572065ca5b_large.jpg?v=1605019676"
     ],
     "inStock": true,
     "specs": [],
@@ -2356,7 +2356,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_e190ca59-7d4a-4494-8ea0-6d185ffba45c_large.jpg?v=1605019676"
     ],
     "inStock": true,
     "specs": [],
@@ -2374,7 +2374,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 204,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_1dad3de0-59e9-4781-9ada-2a3954f3c856_large.jpg?v=1605019670"
     ],
     "inStock": true,
     "specs": [],
@@ -2392,7 +2392,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 181,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_7206eb31-90a5-4c60-99cb-b61591ddb8af_large.jpg?v=1605019657"
     ],
     "inStock": true,
     "specs": [],
@@ -2410,7 +2410,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_bda88d44-6a1e-4aff-a918-596d327087a1_large.jpg?v=1605019714"
     ],
     "inStock": true,
     "specs": [],
@@ -2428,7 +2428,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_ffc6d4f1-bdbd-45ec-ba39-7cf84cce26ed_large.jpg?v=1605019648"
     ],
     "inStock": true,
     "specs": [],
@@ -2446,7 +2446,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 79,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_501fb0df-9995-47e7-91ff-95dd0033f450_large.jpg?v=1605019656"
     ],
     "inStock": true,
     "specs": [],
@@ -2464,7 +2464,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 74,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_3487cbc1-f9c0-442b-abfd-6ccb1bc05490_large.jpg?v=1605019628"
     ],
     "inStock": true,
     "specs": [],
@@ -2482,7 +2482,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_e8bfde79-08e5-4022-9087-87f678263758_large.jpg?v=1605019625"
     ],
     "inStock": true,
     "specs": [],
@@ -2500,7 +2500,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 116,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_73afa4b5-33aa-4576-88ba-01a58d24a055_large.jpg?v=1605019619"
     ],
     "inStock": true,
     "specs": [],
@@ -2518,7 +2518,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_2de9b92e-8fd6-4c87-954f-2455a9f96e16_large.jpg?v=1605019613"
     ],
     "inStock": true,
     "specs": [],
@@ -2536,7 +2536,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_6657f984-f001-48bd-baed-0b8193bd7d34_large.jpg?v=1605019614"
     ],
     "inStock": true,
     "specs": [],
@@ -2554,7 +2554,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_c8ff4d6d-c856-4644-96b4-f191d67bc28b_large.jpg?v=1605019603"
     ],
     "inStock": true,
     "specs": [],
@@ -2572,7 +2572,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 106,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_34941838-abf9-4bdd-a2a8-a48eba92f63e_large.jpg?v=1605019595"
     ],
     "inStock": true,
     "specs": [],
@@ -2590,7 +2590,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_854289e3-7d89-405b-afa3-c195845b0922_large.jpg?v=1605019556"
     ],
     "inStock": true,
     "specs": [],
@@ -2608,7 +2608,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 31,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_6657e610-5aa2-46d7-aa66-45ef58d9edb9_large.jpg?v=1605019536"
     ],
     "inStock": true,
     "specs": [],
@@ -2626,7 +2626,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 47,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_64a77e36-3754-4d8a-a30d-d96862826ac2_large.jpg?v=1605019522"
     ],
     "inStock": true,
     "specs": [],
@@ -2644,7 +2644,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_56dbf636-4b26-48ad-9948-c5cffe153b22_large.jpg?v=1605019519"
     ],
     "inStock": true,
     "specs": [],
@@ -2662,7 +2662,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 148,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_e93c5d02-7f3c-479b-a777-70d3d5b9bf5b_large.jpg?v=1605019506"
     ],
     "inStock": true,
     "specs": [],
@@ -2680,7 +2680,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_d4ef8ba6-f675-47a4-badf-9d7f8a6c88b8_large.jpg?v=1605019501"
     ],
     "inStock": true,
     "specs": [],
@@ -2698,7 +2698,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_c7ad2b8a-efb2-41e9-ba62-fbada1bf5e76_large.jpg?v=1605019496"
     ],
     "inStock": true,
     "specs": [],
@@ -2716,7 +2716,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_large.jpg?v=1605019483"
     ],
     "inStock": true,
     "specs": [],
@@ -2734,7 +2734,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 150,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CBConnectingBar_49fd808d-d533-4ed3-b63f-1a6559ed7790_large.jpg?v=1605019521"
     ],
     "inStock": true,
     "specs": [],
@@ -2752,7 +2752,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_eb88a0bf-73c5-440f-b39e-288afea374e6_large.jpg?v=1605070555"
     ],
     "inStock": true,
     "specs": [],
@@ -2770,7 +2770,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 60,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -2788,7 +2788,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 118,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_4b49ecf4-b976-4382-926a-f07dd40688ee_large.jpg?v=1604842920"
     ],
     "inStock": true,
     "specs": [],
@@ -2806,7 +2806,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 99,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BS-125AFourPoleInsulatingSupport_dec8fa7f-57b2-4cc3-99fc-556b60f18584_large.jpg?v=1604842912"
     ],
     "inStock": true,
     "specs": [],
@@ -2824,7 +2824,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 133,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DR_Symmetric_Profile_large.jpg?v=1605155948"
     ],
     "inStock": true,
     "specs": [],
@@ -2842,7 +2842,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DR_Symmetric_Profile_d58c199b-e782-4a1d-9388-7b4787500daa_large.jpg?v=1605155949"
     ],
     "inStock": true,
     "specs": [],
@@ -2860,7 +2860,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_large.jpg?v=1605156637"
     ],
     "inStock": true,
     "specs": [],
@@ -2878,7 +2878,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 36,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_b2d699ac-6b2e-486c-8d6d-b61a17ac4efe_large.jpg?v=1605156638"
     ],
     "inStock": true,
     "specs": [],
@@ -2896,7 +2896,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 186,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDR_Perforated_Symmetric_Profile_691c947f-8489-4869-9ae9-0520e31206a5_large.jpg?v=1605156638"
     ],
     "inStock": true,
     "specs": [],
@@ -2914,7 +2914,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EndCovers_1_abb9a3eb-464b-4cb5-8ebb-0e732fd45abf_large.jpg?v=1604814155"
     ],
     "inStock": true,
     "specs": [],
@@ -2932,7 +2932,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 165,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EndCovers_1_12c43dda-efa8-4a05-9977-76984b4d88bf_large.jpg?v=1604814155"
     ],
     "inStock": true,
     "specs": [],
@@ -2950,7 +2950,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/EndCovers_1_large.jpg?v=1604814153"
     ],
     "inStock": true,
     "specs": [],
@@ -2968,7 +2968,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 117,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DR-CLIPClipNutforSymmetricDINRail_large.jpg?v=1605155257"
     ],
     "inStock": true,
     "specs": [],
@@ -2986,7 +2986,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 83,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DR-CLIPClipNutforSymmetricDINRail_330176cb-e958-4381-a0c4-81b21f4cb3b1_large.jpg?v=1605155302"
     ],
     "inStock": true,
     "specs": [],
@@ -3004,7 +3004,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 76,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDRG_Perforated_Asymmetric_Profile_large.jpg?v=1605159157"
     ],
     "inStock": true,
     "specs": [],
@@ -3022,7 +3022,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BJ_Round_Braid_with_Crimped_Lugs_large.jpg?v=1605078019"
     ],
     "inStock": true,
     "specs": [],
@@ -3040,7 +3040,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 191,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BJ_Round_Braid_with_Crimped_Lugs_e98b5375-205c-46f1-bc1f-f0ae474ade0f_large.jpg?v=1605078020"
     ],
     "inStock": true,
     "specs": [],
@@ -3058,7 +3058,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BJ_Round_Braid_with_Crimped_Lugs_b8dfb5ed-091d-4600-b4d1-9e4b4a8f9921_large.jpg?v=1605078021"
     ],
     "inStock": true,
     "specs": [],
@@ -3076,7 +3076,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 26,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_a2198de6-9122-45ac-9b90-619ff1aa5e5b_large.jpg?v=1605079104"
     ],
     "inStock": true,
     "specs": [],
@@ -3094,7 +3094,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_4ce54c62-07a0-477e-993d-27d2310e0c14_large.jpg?v=1605079100"
     ],
     "inStock": true,
     "specs": [],
@@ -3112,7 +3112,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 160,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_10864d7a-8036-452f-8121-c417a81bbd8f_large.jpg?v=1605078914"
     ],
     "inStock": true,
     "specs": [],
@@ -3130,7 +3130,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 40,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_2306a965-fca3-4438-bba4-f94512aec4fa_large.jpg?v=1605078824"
     ],
     "inStock": true,
     "specs": [],
@@ -3148,7 +3148,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_9ced5de6-391b-4652-acb5-ec6d322eb029_large.jpg?v=1605078788"
     ],
     "inStock": true,
     "specs": [],
@@ -3166,7 +3166,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 112,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/FRCBFlatBraidinCoil_0c9bc035-f481-4892-b2fe-70bfeeb12177_large.jpg?v=1605078775"
     ],
     "inStock": true,
     "specs": [],
@@ -3184,7 +3184,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 90,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/SBS_Isolating_Silicone_Sleeve_large.jpg?v=1605161739"
     ],
     "inStock": true,
     "specs": [],
@@ -3202,7 +3202,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/DRG_Asymmetric_Profile_large.jpg?v=1605156289"
     ],
     "inStock": true,
     "specs": [],
@@ -3220,7 +3220,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Spirflex_Spiral_Sleeve_large.jpg?v=1605161770"
     ],
     "inStock": true,
     "specs": [],
@@ -3238,7 +3238,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Spirflex_Spiral_Sleeve_4813bc9e-7760-4e0a-b08b-4aa194c30fa9_large.jpg?v=1605161771"
     ],
     "inStock": true,
     "specs": [],
@@ -3256,7 +3256,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Spirflex_Spiral_Sleeve_7acbbf62-0ff5-476f-8094-bb37215e908e_large.jpg?v=1605161772"
     ],
     "inStock": true,
     "specs": [],
@@ -3274,7 +3274,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Spirflex_Spiral_Sleeve_25242c2a-1e50-43c4-b98d-5437a8e58b68_large.jpg?v=1605161773"
     ],
     "inStock": true,
     "specs": [],
@@ -3292,7 +3292,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 61,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Spirflex_Spiral_Sleeve_1162bdd2-2f31-4363-bc2e-ac4b1d919074_large.jpg?v=1605161774"
     ],
     "inStock": true,
     "specs": [],
@@ -3310,7 +3310,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 102,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/nVent_ERIFLEX_Spirflex_Spiral_Sleeve_11de03fe-2203-4151-8ec4-fd23874ee4fc_large.jpg?v=1605161775"
     ],
     "inStock": true,
     "specs": [],
@@ -3328,7 +3328,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 189,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_55dcc25e-2e54-41db-a1b7-c7648a93c580_large.jpg?v=1605081840"
     ],
     "inStock": true,
     "specs": [],
@@ -3346,7 +3346,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_77daf1e4-ea0f-4a7d-90f9-7c509c148cd4_large.jpg?v=1605081838"
     ],
     "inStock": true,
     "specs": [],
@@ -3364,7 +3364,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 65,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_9dc578a2-ed33-4be6-8bff-09ea8537cc95_large.jpg?v=1605081839"
     ],
     "inStock": true,
     "specs": [],
@@ -3382,7 +3382,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 120,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_ac6ede23-f164-493d-9fd8-63fae8db2dcf_large.jpg?v=1605081837"
     ],
     "inStock": true,
     "specs": [],
@@ -3400,7 +3400,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_0ceee643-c51a-4a37-9bd4-b5efa472fc60_large.jpg?v=1605081834"
     ],
     "inStock": true,
     "specs": [],
@@ -3418,7 +3418,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_95261ccb-1839-467c-ac57-59bf5290583a_large.jpg?v=1605081835"
     ],
     "inStock": true,
     "specs": [],
@@ -3436,7 +3436,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 193,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_0e77d8e1-3515-4c51-94e2-0b7ab2398c49_large.jpg?v=1605081828"
     ],
     "inStock": true,
     "specs": [],
@@ -3454,7 +3454,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 75,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_b944e512-6b65-4e3a-805f-084a5cc1e8c7_large.jpg?v=1605081825"
     ],
     "inStock": true,
     "specs": [],
@@ -3472,7 +3472,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_d9d5a297-d707-40c5-a95f-ea61d8f2484b_large.jpg?v=1605081823"
     ],
     "inStock": true,
     "specs": [],
@@ -3490,7 +3490,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_478750e7-5bb3-4783-b300-de21880d6ca6_large.jpg?v=1605081841"
     ],
     "inStock": true,
     "specs": [],
@@ -3508,7 +3508,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_af52d346-b96b-4c30-b797-0f9d4803e092_large.jpg?v=1605081832"
     ],
     "inStock": true,
     "specs": [],
@@ -3526,7 +3526,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_7e6bb6fd-ddbb-44b6-8602-5f2dd2a66527_large.jpg?v=1605081836"
     ],
     "inStock": true,
     "specs": [],
@@ -3544,7 +3544,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 18,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_97767856-f2c2-42bb-bb57-ccda14beeb32_large.jpg?v=1605081831"
     ],
     "inStock": true,
     "specs": [],
@@ -3562,7 +3562,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 46,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_d8ea0859-9fcb-4fd2-b061-89f1071cb9fc_large.jpg?v=1605081830"
     ],
     "inStock": true,
     "specs": [],
@@ -3580,7 +3580,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_7d416d8a-defb-4d6f-b044-feb5196693e6_large.jpg?v=1605081827"
     ],
     "inStock": true,
     "specs": [],
@@ -3598,7 +3598,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 128,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_f1de01b3-ae2f-4fbd-9316-f340c3551555_large.jpg?v=1605081824"
     ],
     "inStock": true,
     "specs": [],
@@ -3616,7 +3616,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 201,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_ea62ae5d-6fbf-4398-b438-5cf499495f0a_large.jpg?v=1605081826"
     ],
     "inStock": true,
     "specs": [],
@@ -3634,7 +3634,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJYG_Grounding_and_Bonding_Braid_large.jpg?v=1605081822"
     ],
     "inStock": true,
     "specs": [],
@@ -3652,7 +3652,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_large.jpg?v=1605080876"
     ],
     "inStock": true,
     "specs": [],
@@ -3670,7 +3670,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 54,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_16ead613-3728-46bf-96b4-6bc6dc848e7a_large.jpg?v=1605080877"
     ],
     "inStock": true,
     "specs": [],
@@ -3688,7 +3688,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_fe4a792c-de2e-47df-8405-c3298e62921b_large.jpg?v=1605080878"
     ],
     "inStock": true,
     "specs": [],
@@ -3706,7 +3706,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 171,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_fcf3c350-422c-40b7-8545-992c21a04e3c_large.jpg?v=1605080879"
     ],
     "inStock": true,
     "specs": [],
@@ -3724,7 +3724,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 188,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_8be1f509-1a96-4b1d-89d0-0974e7c5968e_large.jpg?v=1605080880"
     ],
     "inStock": true,
     "specs": [],
@@ -3742,7 +3742,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 212,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_20391c01-3ed9-4016-8692-574ece2f1df6_large.jpg?v=1605080881"
     ],
     "inStock": true,
     "specs": [],
@@ -3760,7 +3760,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 71,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_773e696a-a0bc-4a7b-98be-01e2077194f1_large.jpg?v=1605080882"
     ],
     "inStock": true,
     "specs": [],
@@ -3778,7 +3778,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_8ecbda47-bad4-4961-a9c9-93738d84b180_large.jpg?v=1605080883"
     ],
     "inStock": true,
     "specs": [],
@@ -3796,7 +3796,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 137,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_cccac02b-cdb9-4de2-981e-8bea99461c9a_large.jpg?v=1605080884"
     ],
     "inStock": true,
     "specs": [],
@@ -3814,7 +3814,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 44,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_95bdf4f7-596c-45a0-99c3-39871f54e68d_large.jpg?v=1605080884"
     ],
     "inStock": true,
     "specs": [],
@@ -3832,7 +3832,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_beb8efd2-af68-4100-99ad-abe08f4d7d1c_large.jpg?v=1605080885"
     ],
     "inStock": true,
     "specs": [],
@@ -3850,7 +3850,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_553ed2e6-5841-437d-8d65-764dc52355c6_large.jpg?v=1605080886"
     ],
     "inStock": true,
     "specs": [],
@@ -3868,7 +3868,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 134,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_767bf06d-7e80-45b1-bdeb-73e4e1a17b28_large.jpg?v=1605080888"
     ],
     "inStock": true,
     "specs": [],
@@ -3886,7 +3886,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_0ddf743f-1f25-4238-be8c-5025b357574e_large.jpg?v=1605080889"
     ],
     "inStock": true,
     "specs": [],
@@ -3904,7 +3904,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 145,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_9d1a8b32-2f1a-40df-a5a7-6ec284fa3d1c_large.jpg?v=1605080890"
     ],
     "inStock": true,
     "specs": [],
@@ -3922,7 +3922,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 173,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_7422a138-a51c-48f6-bcce-add2e7ccc73e_large.jpg?v=1605080891"
     ],
     "inStock": true,
     "specs": [],
@@ -3940,7 +3940,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 58,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_b6acea44-8825-4572-a9ba-6cd5e49b4aae_large.jpg?v=1605080892"
     ],
     "inStock": true,
     "specs": [],
@@ -3958,7 +3958,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 24,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_f7ff04e3-fdc0-4043-8508-86d3a7d414d8_large.jpg?v=1605080893"
     ],
     "inStock": true,
     "specs": [],
@@ -3976,7 +3976,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_47b5821d-2802-42b2-98ab-6ca66c35aef3_large.jpg?v=1605080894"
     ],
     "inStock": true,
     "specs": [],
@@ -3994,7 +3994,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_f215cf48-06f4-421b-b4d9-23fb0cc5932d_large.jpg?v=1605080895"
     ],
     "inStock": true,
     "specs": [],
@@ -4012,7 +4012,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 87,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_4885014a-3d45-4a3d-8470-04adc9fb4ced_large.jpg?v=1605080895"
     ],
     "inStock": true,
     "specs": [],
@@ -4030,7 +4030,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 37,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_a8f69b0f-6bb7-4e05-a05f-57bd48ec0ad2_large.jpg?v=1605080896"
     ],
     "inStock": true,
     "specs": [],
@@ -4048,7 +4048,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 121,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_aeaafd9a-c218-4290-a4ed-e7a1b5719660_large.jpg?v=1605080897"
     ],
     "inStock": true,
     "specs": [],
@@ -4066,7 +4066,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 66,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_19e23bae-3a4f-4c9a-aabb-0bf244ba0586_large.jpg?v=1605080898"
     ],
     "inStock": true,
     "specs": [],
@@ -4084,7 +4084,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 198,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_b9ac2a1d-a5a6-4d8c-a5aa-08d19d5f91fc_large.jpg?v=1605080899"
     ],
     "inStock": true,
     "specs": [],
@@ -4102,7 +4102,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 81,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_bce522bb-9aa1-45d2-9ea0-a81b6c5ae00e_large.jpg?v=1605080900"
     ],
     "inStock": true,
     "specs": [],
@@ -4120,7 +4120,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 73,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_8905b841-239b-4807-89dd-b8832c9a0ce0_large.jpg?v=1605080901"
     ],
     "inStock": true,
     "specs": [],
@@ -4138,7 +4138,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_6aa34050-511d-4a37-8bac-35bb5c79e141_large.jpg?v=1605080902"
     ],
     "inStock": true,
     "specs": [],
@@ -4156,7 +4156,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 93,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_e1939ecd-35ee-4812-aaeb-f18704ff2e65_large.jpg?v=1605080903"
     ],
     "inStock": true,
     "specs": [],
@@ -4174,7 +4174,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 162,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/CPIW_Grounding_and_Bonding_Braid_869b37c6-ddf2-4ede-91e0-fe2ddb873bdb_large.jpg?v=1605080904"
     ],
     "inStock": true,
     "specs": [],
@@ -4192,7 +4192,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 85,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_3fc96ed8-98c7-40fd-9040-9a24c6177d97_large.jpg?v=1605069133"
     ],
     "inStock": true,
     "specs": [],
@@ -4210,7 +4210,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 42,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BDCrimpandDrillTool_c6265973-596b-43b9-ab71-cc13cf13cc83_large.jpg?v=1605069130"
     ],
     "inStock": true,
     "specs": [],
@@ -4228,7 +4228,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 153,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_d47ad9fe-7458-41de-bb02-ded088c577d6_large.jpg?v=1605070541"
     ],
     "inStock": true,
     "specs": [],
@@ -4246,7 +4246,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 19,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/BraidCrimpingToolKit_4ce4aabe-ce85-47d3-a2f1-b5638eaf1e6c_large.jpg?v=1605070543"
     ],
     "inStock": true,
     "specs": [],
@@ -4264,7 +4264,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 101,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_large.jpg?v=1605161692"
     ],
     "inStock": true,
     "specs": [],
@@ -4282,7 +4282,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_ce483ca6-f8d8-4e9c-8927-fad6e1318a42_large.jpg?v=1605161693"
     ],
     "inStock": true,
     "specs": [],
@@ -4300,7 +4300,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 180,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_5c0471d1-bdbb-40de-8386-50ba333c7d18_large.jpg?v=1605161696"
     ],
     "inStock": true,
     "specs": [],
@@ -4318,7 +4318,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 62,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_6374b95b-1ff6-445e-97d6-3c567f418edb_large.jpg?v=1605161701"
     ],
     "inStock": true,
     "specs": [],
@@ -4336,7 +4336,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 110,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_0ea92811-2253-4d16-95fc-e4b6bab76258_large.jpg?v=1605161702"
     ],
     "inStock": true,
     "specs": [],
@@ -4354,7 +4354,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/PDBS_Polyamide_Braided_Sleeve_fd757752-c27b-45ab-b795-c4115746ff7a_large.jpg?v=1605161705"
     ],
     "inStock": true,
     "specs": [],
@@ -4372,7 +4372,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 104,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_large.jpg?v=1605081333"
     ],
     "inStock": true,
     "specs": [],
@@ -4390,7 +4390,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 25,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_3f906090-2ea1-423b-aab8-3bdff1150c2d_large.jpg?v=1605081334"
     ],
     "inStock": true,
     "specs": [],
@@ -4408,7 +4408,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 164,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_d2eec205-0773-4c90-a1a4-9c87486494fc_large.jpg?v=1605081335"
     ],
     "inStock": true,
     "specs": [],
@@ -4426,7 +4426,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 123,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_93f9a539-f55e-480b-934a-5a8fce99861e_large.jpg?v=1605081336"
     ],
     "inStock": true,
     "specs": [],
@@ -4444,7 +4444,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 49,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_4ca7e4c2-b4de-4993-bce7-ad563782d8ad_large.jpg?v=1605081337"
     ],
     "inStock": true,
     "specs": [],
@@ -4462,7 +4462,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_a546be62-0dbf-4f65-85e7-22c8313af90d_large.jpg?v=1605081338"
     ],
     "inStock": true,
     "specs": [],
@@ -4480,7 +4480,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 20,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_dae162e6-465c-4d04-bdd0-eb53af68c164_large.jpg?v=1605081339"
     ],
     "inStock": true,
     "specs": [],
@@ -4498,7 +4498,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_7eceeff0-b581-4cc9-b12a-6598fc5d884e_large.jpg?v=1605081341"
     ],
     "inStock": true,
     "specs": [],
@@ -4516,7 +4516,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 213,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e469d2fc-9c67-4409-9407-cf62e9acbac2_large.jpg?v=1605081340"
     ],
     "inStock": true,
     "specs": [],
@@ -4534,7 +4534,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_34e712ae-06a6-439f-bd71-288ac4a139b8_large.jpg?v=1605081341"
     ],
     "inStock": true,
     "specs": [],
@@ -4552,7 +4552,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 132,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_fcc6b32e-f01c-4132-953f-66c83bee4e09_large.jpg?v=1605081342"
     ],
     "inStock": true,
     "specs": [],
@@ -4570,7 +4570,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 140,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_5381f303-c006-4ee2-89a7-55a6d56f7d4b_large.jpg?v=1605081343"
     ],
     "inStock": true,
     "specs": [],
@@ -4588,7 +4588,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 94,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_8e50d1fe-a2f3-4509-b46e-9b962c2ec60f_large.jpg?v=1605081344"
     ],
     "inStock": true,
     "specs": [],
@@ -4606,7 +4606,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 143,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_49790863-3f59-4cf8-893a-893ed3d825f4_large.jpg?v=1605081345"
     ],
     "inStock": true,
     "specs": [],
@@ -4624,7 +4624,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 113,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_16427763-f3fa-4dd1-92c1-c0149685473d_large.jpg?v=1605081346"
     ],
     "inStock": true,
     "specs": [],
@@ -4642,7 +4642,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 144,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_577c0134-2716-4482-a77b-38d8d60f039a_large.jpg?v=1605081347"
     ],
     "inStock": true,
     "specs": [],
@@ -4660,7 +4660,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 56,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_75ee943f-1cc1-458a-8fa4-2039388dfe12_large.jpg?v=1605081348"
     ],
     "inStock": true,
     "specs": [],
@@ -4678,7 +4678,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 28,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_15c3854d-d976-4a54-a613-06ef214089dc_large.jpg?v=1605081349"
     ],
     "inStock": true,
     "specs": [],
@@ -4696,7 +4696,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 114,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_73e2a374-d8d9-4489-9a8c-ad1603c0302d_large.jpg?v=1605081350"
     ],
     "inStock": true,
     "specs": [],
@@ -4714,7 +4714,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 95,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_f495c475-c900-4698-a690-16d790ca6bbd_large.jpg?v=1605081351"
     ],
     "inStock": true,
     "specs": [],
@@ -4732,7 +4732,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 136,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_dc0853fc-02c7-4e06-8314-72a6d8bd912f_large.jpg?v=1605081351"
     ],
     "inStock": true,
     "specs": [],
@@ -4750,7 +4750,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_94f15dbe-32a8-4eb6-82c7-27dfb359ff61_large.jpg?v=1605081352"
     ],
     "inStock": true,
     "specs": [],
@@ -4768,7 +4768,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 43,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_b4a2001f-e737-42cd-b5ac-5720807a5582_large.jpg?v=1605081353"
     ],
     "inStock": true,
     "specs": [],
@@ -4786,7 +4786,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 57,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_ea88fd28-3461-42af-92ae-6d3789045735_large.jpg?v=1605081354"
     ],
     "inStock": true,
     "specs": [],
@@ -4804,7 +4804,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 203,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_b73d0ed6-6203-4180-89b9-8e9ce8aadc53_large.jpg?v=1605081355"
     ],
     "inStock": true,
     "specs": [],
@@ -4822,7 +4822,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 32,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_321f50ca-5cff-43f8-a17d-415c707edc5e_large.jpg?v=1605081356"
     ],
     "inStock": true,
     "specs": [],
@@ -4840,7 +4840,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 139,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_b89ab445-f0e8-4c62-a42e-5c631b8d94f5_large.jpg?v=1605081358"
     ],
     "inStock": true,
     "specs": [],
@@ -4858,7 +4858,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 69,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_e8d2bd27-b09d-4d21-82d3-3e6993330849_large.jpg?v=1605081359"
     ],
     "inStock": true,
     "specs": [],
@@ -4876,7 +4876,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 129,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_89cdfcaa-1751-47a0-a79a-5722cd10e60e_large.jpg?v=1605081364"
     ],
     "inStock": true,
     "specs": [],
@@ -4894,7 +4894,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_4ea57ac3-1593-4c5b-ad02-85f96310803a_large.jpg?v=1605081365"
     ],
     "inStock": true,
     "specs": [],
@@ -4912,7 +4912,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 175,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_6208b82f-e152-46af-a2e7-76873c55aa5a_large.jpg?v=1605081367"
     ],
     "inStock": true,
     "specs": [],
@@ -4930,7 +4930,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 16,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_fef58ddf-196c-4d3b-9b62-c42790fa36f7_large.jpg?v=1605081366"
     ],
     "inStock": true,
     "specs": [],
@@ -4948,7 +4948,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 98,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_614d5a9e-51ef-400c-b554-df5c84d4b2df_large.jpg?v=1605081367"
     ],
     "inStock": true,
     "specs": [],
@@ -4966,7 +4966,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.5,
     "reviews": 192,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_3d77979d-9fc5-4374-80c9-f6fd79ae02f8_large.jpg?v=1605081368"
     ],
     "inStock": true,
     "specs": [],
@@ -4984,7 +4984,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 147,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_5562b267-1765-4493-a744-618063285cda_large.jpg?v=1605081372"
     ],
     "inStock": true,
     "specs": [],
@@ -5002,7 +5002,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 202,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_1683cf50-5b8e-4722-9b2a-8802d64c3c08_large.jpg?v=1605081374"
     ],
     "inStock": true,
     "specs": [],
@@ -5020,7 +5020,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 55,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_ef02f0bd-fde9-43b5-ae85-f2a83a0dd9ee_large.jpg?v=1605081375"
     ],
     "inStock": true,
     "specs": [],
@@ -5038,7 +5038,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_9d2401b2-1922-467d-81d8-30cf9cb59a7f_large.jpg?v=1605081383"
     ],
     "inStock": true,
     "specs": [],
@@ -5056,7 +5056,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 100,
     "images": [
-      "placeholder.jpg"
+      "https://lowcostcontrols.com/cdn/shop/products/MBJ_Grounding_and_Bonding_Braid_55b023e0-5ca9-49ae-9818-195a28a47593_large.jpg?v=1605081384"
     ],
     "inStock": true,
     "specs": [],
@@ -5074,7 +5074,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 77,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -5092,7 +5092,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.8,
     "reviews": 33,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -5110,7 +5110,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 68,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -5128,7 +5128,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 115,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -5146,7 +5146,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 155,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -5164,7 +5164,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 27,
     "images": [
-      "placeholder.jpg"
+      "/Products/VFDs/Images/LS_Starvert_iG5A_Single_Phase_VFDs_medium.avif"
     ],
     "inStock": true,
     "specs": [],
@@ -5182,7 +5182,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.8,
     "reviews": 38,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5200,7 +5200,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 206,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5218,7 +5218,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.2,
     "reviews": 138,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5236,7 +5236,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 92,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5254,7 +5254,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 195,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5272,7 +5272,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 210,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5290,7 +5290,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 184,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5308,7 +5308,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 199,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5326,7 +5326,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 34,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5344,7 +5344,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 3.5,
     "reviews": 182,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5362,7 +5362,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 156,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5380,7 +5380,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.7,
     "reviews": 105,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5398,7 +5398,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 131,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5416,7 +5416,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 5,
     "reviews": 108,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5434,7 +5434,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4,
     "reviews": 72,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
@@ -5452,7 +5452,7 @@ export const generalelectricpower_distributionScrapedProducts: Product[] = [
     "rating": 4.9,
     "reviews": 174,
     "images": [
-      "placeholder.jpg"
+      "/placeholder.jpg"
     ],
     "inStock": true,
     "specs": [],
