@@ -15,16 +15,7 @@ const convertB1NQDataToProduct = (data: any, index: number): Product => {
   const name = `${model} - ${ratedCurrent}A ${poles} ${tripCurve}-Curve MCB`;
   
   // Determine the image path based on poles
-  let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1NQ Series Breakers.avif';
-  
-  // Use specific images for B1NQ products based on pole count
-  if (poles === '1P') {
-    imagePath = '/noark 1 pole.jpg';
-  } else if (poles === '2P') {
-    imagePath = '/noark 2 pole.jpg';
-  } else if (poles === '3P') {
-    imagePath = '/noark 3 pole.jpg';
-  }
+  let imagePath = '/assets/images/products/noark/B1NQ_miniature_circuit_breakers_UL_489_120240_Vac__B1NQ-300x300_8caa1a92.webp';
   
   // Extract description details
   const descriptionParts = data.description.split(' - ');

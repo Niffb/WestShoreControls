@@ -1,19 +1,19 @@
 // Category images for different brands
 export const noarkCategoryImages: Record<string, string> = {
-  'Circuit Breakers': 'categories/Noark/Circuit Breakers.avif',
-  'Contactors': 'categories/Noark/Contactors.avif',
-  'Overload Relays': 'categories/Noark/Overload Relays.avif',
-  'Manual Motor Starters': 'categories/Noark/Manual Motor Starters.avif',
-  'Push Buttons': 'categories/Noark/Push Buttons.avif',
-  'LED Indicators': 'categories/Noark/LED Indicators.avif',
-  'Power Distribution': 'categories/Noark/Power Distribution.avif',
-  'Other Products': 'categories/Noark/Other Products.avif',
-  'Miniature Circuit Breakers': 'categories/Noark/Miniature Circuit Breakers.avif',
-  'Molded Case Circuit Breakers (MCCBs)': 'categories/Noark/Molded Case Circuit Breakers (MCCBs).avif',
-  'Motor-Circuit Protectors (MCPs)': 'categories/Noark/Motor-Circuit Protectors (MCPs).avif',
-  'Enclosed Breakers': 'categories/Noark/Enclosed Breakers.avif',
-  'DIN Rail Fuse Holders and Fuses': 'categories/Noark/DIN Rail Fuse Holders and Fuses.avif',
-  'Surge Protective Device': 'categories/Noark/Surge Protective Device.avif',
+  'Circuit Breakers': 'assets/images/products/noark/Molded_Case_Circuit_Breakers_MCCB-category-300x300_ce635280.jpg',
+  'Contactors': 'assets/images/products/noark/Contactors_and_Relays_featured_category2-350x360_09bb35b4.webp',
+  'Overload Relays': 'assets/images/products/noark/Thermal_Overload_Relays_Ex9R_thermal-overload-300x300_55bf0712.webp',
+  'Manual Motor Starters': 'assets/images/products/noark/Manual_Motor_Starters_Ex9SN_manual-motor-starters-Ex9SN-300x300_fe10d581.webp',
+  'Push Buttons': 'assets/images/products/noark/22_mm_Pushbuttons_Ex9PB_pushbuttons-category-300x300_12540e52.webp',
+  'LED Indicators': 'assets/images/products/noark/22_mm_Pilot_Devices_indicator-lights-category-300x300_3bdf9523.jpg',
+  'Power Distribution': 'assets/images/products/noark/Noark_A25_Series_Power_Circuit_Breaker_cb2ae306-c151-485f-a559-c357784432b7_medium.avif',
+  'Other Products': 'assets/images/products/noark/Noark_Motor-Circuit_Protectors_ab2b216e-53fa-489b-8312-9bacdd49945c_medium.avif',
+  'Miniature Circuit Breakers': 'assets/images/products/noark/Miniature_Circuit_Breakers_UL_489_UL_489A_mini-circuit-breakers_category-300x300_99142b28.webp',
+  'Molded Case Circuit Breakers (MCCBs)': 'assets/images/products/noark/Molded_Case_Circuit_Breakers_MCCB-category-300x300_ce635280.webp',
+  'Motor-Circuit Protectors (MCPs)': 'assets/images/products/noark/Noark_Motor-Circuit_Protectors_ab2b216e-53fa-489b-8312-9bacdd49945c_medium.avif',
+  'Enclosed Breakers': 'assets/images/products/noark/Noark_Enclosed_Breaker_b7fecc23-d7fd-41d9-b40c-f45d6d63810f_medium.avif',
+  'DIN Rail Fuse Holders and Fuses': 'assets/images/products/noark/Noark_DIN_Rail_Fuse_Holders_17a4a3b8-7881-42e9-8965-4d7456a8b697_medium.avif',
+  'Surge Protective Device': 'assets/images/products/noark/Noark_Surge_Protective_Devices_7119b927-c410-4e80-b782-6c446bf22eb9_medium.avif',
 }
 
 export const klemsanCategoryImages: Record<string, string> = {

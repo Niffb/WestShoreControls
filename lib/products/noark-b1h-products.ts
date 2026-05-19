@@ -6,15 +6,7 @@ const convertB1HDataToProduct = (item: any, index: number): Product => {
   const model = item.model;
   const name = `${model} - ${item.rated_current} ${item.poles} ${item.trip_curve} MCB`;
   
-  let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1H Series Breakers.avif';
-  
-  if (item.poles.includes('1-pole') || item.poles.includes('1P')) {
-    imagePath = 'assets/images/products/noark/circuit_breakers/Noark_MCB_medium.avif';
-  } else if (item.poles.includes('2-pole') || item.poles.includes('2P')) {
-    imagePath = 'assets/images/products/noark/circuit_breakers/Noark_MCB_e0490812-66e8-43f8-b876-7742ba3fae49_medium.avif';
-  } else if (item.poles.includes('3-pole') || item.poles.includes('3P')) {
-    imagePath = 'assets/images/products/noark/circuit_breakers/Noark_MCB_medium.avif';
-  }
+  let imagePath = '/assets/images/products/noark/B1H_miniature_circuit_breakers_UL_489_480Y277_Vac__B1H-300x300_61a1ffe1.webp';
 
   return {
     id,

@@ -6,15 +6,7 @@ const convertB1EDataToProduct = (item: any, index: number): Product => {
   const model = item.model;
   const name = `${model} - ${item.rated_current} ${item.poles} ${item.curve} MCB`;
 
-  let imagePath = '/assets/images/categories/Miniature Circuit Breakers/B1E Series Breakers.avif';
-  
-  if (item.poles.includes('1-pole') || item.poles.includes('1P')) {
-    imagePath = '/noark 1 pole.jpg';
-  } else if (item.poles.includes('2-pole') || item.poles.includes('2P')) {
-    imagePath = '/noark 2 pole.jpg';
-  } else if (item.poles.includes('3-pole') || item.poles.includes('3P')) {
-    imagePath = '/noark 3 pole.jpg';
-  }
+  let imagePath = '/assets/images/products/noark/B1E_UL1077_supplementary_protectors_B1E_UL1077_sup_B1E-300x300_35a141dc.webp';
 
   return {
     id,
