@@ -15,6 +15,7 @@ const GENERIC_IMAGE_PATTERNS = [
   'U4-Surge-Protective-Devices.jpg',
   'NOARK-ECB-Page.jpg',
   'productgroupweb',
+  'ElectronicM3.png',
 ];
 
 function isGenericImage(url) {

@@ -1,934 +1,1089 @@
 {
-    "products": [
-      {
-        "product_number": "M3S250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100366",
-        "price": "$980.47",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S250T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 250A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100316",
-        "price": "$833.40",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100371",
-        "price": "$1,077.44",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N250T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 250A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100321",
-        "price": "$915.82",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101723",
-        "price": "$1,400.09",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H250T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3H series) - 2-poles (2P) - Rated current 250A - Interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1102693",
-        "price": "$1,189.86",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101958",
-        "price": "$774.18",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S250T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 250A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102343",
-        "price": "$410.80",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101959",
-        "price": "$909.38",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N250T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102357",
-        "price": "$620.88",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N250T1L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 250A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102329",
-        "price": "$375.44",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2H250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101960",
-        "price": "$1,136.68",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GS250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 250A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102632",
-        "price": "$960.75",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GN250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 250A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102639",
-        "price": "$1,128.75",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GH250T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 250A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102646",
-        "price": "$1,408.05",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 3-poles (3P) - Rated current 225A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100365",
-        "price": "$980.47",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S225T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 225A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100315",
-        "price": "$833.40",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 3-poles (3P) - Rated current 225A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100370",
-        "price": "$1,077.44",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N225T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 225A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100320",
-        "price": "$915.82",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101722",
-        "price": "$1,400.09",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H225T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3H series) - 2-poles (2P) - Rated current 225A - Interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1102692",
-        "price": "$1,189.86",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100226",
-        "price": "$671.01",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S225T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 225A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102342",
-        "price": "$357.05",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100232",
-        "price": "$727.08",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N225T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102356",
-        "price": "$497.79",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N225T1L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 225A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102328",
-        "price": "$300.98",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2H225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101650",
-        "price": "$945.94",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GS225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 225A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102631",
-        "price": "$829.50",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GN225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 225A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102638",
-        "price": "$899.85",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GH225T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 225A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102645",
-        "price": "$1,169.70",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S200T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100225",
-        "price": "$671.01",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S200T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 200A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102341",
-        "price": "$357.05",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N200T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100231",
-        "price": "$727.08",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N200T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102355",
-        "price": "$497.79",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N200T1L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 200A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102327",
-        "price": "$300.98",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2H200T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101649",
-        "price": "$945.94",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GS200T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 200A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102630",
-        "price": "$829.50",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GN200T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 200A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102637",
-        "price": "$899.85",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GH200T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 200A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102644",
-        "price": "$1,169.70",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S175T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100224",
-        "price": "$671.01",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2S175T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 175A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102340",
-        "price": "$357.05",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N175T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100230",
-        "price": "$727.08",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N175T22L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102354",
-        "price": "$497.79",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2N175T1L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 175A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102326",
-        "price": "$300.98",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2H175T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2H series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101648",
-        "price": "$945.94",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GS175T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 175A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102629",
-        "price": "$829.50",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GN175T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 175A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102636",
-        "price": "$899.85",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M2GH175T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 175A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102643",
-        "price": "$1,169.70",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4S400T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100411",
-        "price": "$2,289.96",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4S400T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4S series) - 2-poles (2P) - Rated current 400A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100435",
-        "price": "$1,683.76",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4N400T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100414",
-        "price": "$2,490.22",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4N400T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100438",
-        "price": "$1,991.60",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4H400T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101750",
-        "price": "$3,237.52",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S400T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100369",
-        "price": "$980.47",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S400T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100319",
-        "price": "$833.40",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N400T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100374",
-        "price": "$1,078.15",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N400T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100324",
-        "price": "$915.82",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H400T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101726",
-        "price": "$1,400.09",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H400T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101696",
-        "price": "$1,189.86",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S350T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100368",
-        "price": "$980.47",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S350T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 350A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100318",
-        "price": "$833.40",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N350T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100373",
-        "price": "$1,077.44",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N350T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 350A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100323",
-        "price": "$915.82",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H350T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101725",
-        "price": "$1,400.09",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H350T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 350A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101695",
-        "price": "$1,189.86",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S300T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100367",
-        "price": "$980.47",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3S300T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 300A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100317",
-        "price": "$833.40",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N300T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100372",
-        "price": "$1,077.44",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3N300T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 300A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100322",
-        "price": "$915.82",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H300T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101724",
-        "price": "$1,400.09",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M3H300T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 300A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101694",
-        "price": "$1,189.86",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S600T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - 100% neutral - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102064",
-        "price": "$5,250.62",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S600T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102046",
-        "price": "$4,725.56",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S600T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102028",
-        "price": "$4,253.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S600T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102010",
-        "price": "$3,614.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N600T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - 100% neutral - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102067",
-        "price": "$6,177.78",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N600T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102049",
-        "price": "$5,560.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N600T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102031",
-        "price": "$5,004.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N600T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102013",
-        "price": "$4,253.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H600T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - 100% neutral - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102070",
-        "price": "$7,102.47",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H600T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102052",
-        "price": "$6,392.22",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H600T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102034",
-        "price": "$5,753.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H600T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102016",
-        "price": "$4,891.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4S600T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100413",
-        "price": "$2,289.96",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4S600T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100437",
-        "price": "$1,684.55",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4N600T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100416",
-        "price": "$2,490.22",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4N600T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4N series) - 2-poles (2P) - Rated current 600A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100440",
-        "price": "$2,105.18",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4H600T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101752",
-        "price": "$3,237.81",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4H600T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4H series) - 2-poles (2P) - Rated current 600A - High interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1101764",
-        "price": "$2,589.60",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4S500T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100412",
-        "price": "$2,289.96",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4S500T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 500A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100436",
-        "price": "$1,684.55",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4N500T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100415",
-        "price": "$2,490.22",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4N500T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100439",
-        "price": "$1,991.60",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4H500T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101757",
-        "price": "$3,237.52",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M4H500T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4H series) - 2-poles (2P) - Rated current 500A - High interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1101763",
-        "price": "$2,589.60",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S800E4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101913",
-        "price": "$6,315.16",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S800E4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101853",
-        "price": "$5,683.64",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S800E3W4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103197",
-        "price": "$5,936.25",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S800E3W4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103037",
-        "price": "$5,342.62",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S800E3W4F",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103043",
-        "price": "$5,936.25",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S800E3W4",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103031",
-        "price": "$5,342.62",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N800E4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101916",
-        "price": "$7,429.60",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N800E4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101856",
-        "price": "$6,315.16",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N800E3W4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103200",
-        "price": "$6,983.82",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N800E3W4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103040",
-        "price": "$5,936.25",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N800E3W4F",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103194",
-        "price": "$6,983.82",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N800E3W4",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103034",
-        "price": "$5,936.25",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S800T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - 100% neutral - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102066",
-        "price": "$5,817.28",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S800T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102048",
-        "price": "$5,235.56",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S800T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102030",
-        "price": "$4,712.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S800T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102012",
-        "price": "$4,005.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N800T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - 100% neutral - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102069",
-        "price": "$6,844.44",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N800T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102051",
-        "price": "$6,160.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N800T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102033",
-        "price": "$5,544.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N800T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102015",
-        "price": "$4,712.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H800T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - 100% neutral - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102072",
-        "price": "$7,870.37",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H800T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102054",
-        "price": "$7,083.33",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H800T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102036",
-        "price": "$6,375.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H800T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102018",
-        "price": "$5,419.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S700T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - 100% neutral - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102065",
-        "price": "$5,527.16",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S700T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102047",
-        "price": "$4,974.44",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S700T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102029",
-        "price": "$4,477.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5S700T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102011",
-        "price": "$3,805.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N700T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - 100% neutral - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102068",
-        "price": "$6,501.23",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N700T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102050",
-        "price": "$5,851.11",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N700T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102032",
-        "price": "$5,266.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5N700T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102014",
-        "price": "$4,477.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H700T4LC",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - 100% neutral - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102071",
-        "price": "$7,476.54",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H700T4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102053",
-        "price": "$6,728.89",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H700T3L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102035",
-        "price": "$6,056.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M5H700T2L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102017",
-        "price": "$5,148.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1200E4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101915",
-        "price": "$7,796.49",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1200E4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101855",
-        "price": "$7,016.84",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1200E3W4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103199",
-        "price": "$7,328.70",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1200E3W4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103039",
-        "price": "$6,595.83",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1200E3W4F",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103193",
-        "price": "$7,328.70",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1200E3W4",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103033",
-        "price": "$6,595.83",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1200E4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101918",
-        "price": "$9,172.34",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1200E4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101858",
-        "price": "$7,796.49",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1200E3W4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103202",
-        "price": "$8,622.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1200E3W4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103042",
-        "price": "$7,328.70",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1200E3W4F",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103196",
-        "price": "$8,622.00",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1200E3W4",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103036",
-        "price": "$7,328.70",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1000E4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101914",
-        "price": "$7,016.84",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1000E4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101854",
-        "price": "$6,315.16",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1000E3W4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103198",
-        "price": "$6,595.83",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1000E3W4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103038",
-        "price": "$5,936.25",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1000E3W4F",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103044",
-        "price": "$6,595.83",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6S1000E3W4",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103032",
-        "price": "$5,936.25",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1000E4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1102661",
-        "price": "$8,255.11",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1000E4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1102660",
-        "price": "$7,016.84",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1000E3W4LF",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103201",
-        "price": "$7,759.80",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1000E3W4L",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103041",
-        "price": "$6,595.83",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1000E3W4F",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103195",
-        "price": "$7,759.80",
-        "stock_status": "In Stock"
-      },
-      {
-        "product_number": "M6N1000E3W4",
-        "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103035",
-        "price": "$6,595.83",
-        "stock_status": "In Stock"
-      }
-    ]
-  }
+  "products": [
+    {
+      "product_number": "M3S250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100366",
+      "price": "$980.47",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_5d623817-3325-4ea1-b325-21e2797ea5ef.png?v=1757229395"
+    },
+    {
+      "product_number": "M3S250T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 250A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100316",
+      "price": "$833.40",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_9fc4fa64-8ddb-4980-b7d6-d5d51928315f.png?v=1757229394"
+    },
+    {
+      "product_number": "M3N250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100371",
+      "price": "$1,077.44",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_a9c5f611-c2a9-4ed0-91d7-dde08ba66b3b.png?v=1757229393"
+    },
+    {
+      "product_number": "M3N250T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 250A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100321",
+      "price": "$915.82",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_2f18f161-2df0-422c-8618-31ba0705ff79.png?v=1757229392"
+    },
+    {
+      "product_number": "M3H250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101723",
+      "price": "$1,400.09",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_1f507a72-5251-4c5c-81b3-88fd9437107c.png?v=1757229391"
+    },
+    {
+      "product_number": "M3H250T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3H series) - 2-poles (2P) - Rated current 250A - Interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1102693",
+      "price": "$1,189.86",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d3c96ba0-d11e-4a53-bc55-0821c1a8b368.png?v=1757229390"
+    },
+    {
+      "product_number": "M2S250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101958",
+      "price": "$774.18",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e7ea4e30-4ee4-48e9-8671-a7d57fadc3f5.png?v=1757229389"
+    },
+    {
+      "product_number": "M2S250T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 250A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102343",
+      "price": "$410.80",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d027cebe-a865-4f0d-a607-1989db0cfda2.png?v=1757229388"
+    },
+    {
+      "product_number": "M2N250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101959",
+      "price": "$909.38",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_12a9fd07-4d7b-434b-8805-ed349ca5c1cc.png?v=1757229387"
+    },
+    {
+      "product_number": "M2N250T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 250A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102357",
+      "price": "$620.88",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d4295ffc-8a7f-43f3-aeec-241e5e650545.png?v=1757229386"
+    },
+    {
+      "product_number": "M2N250T1L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 250A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102329",
+      "price": "$375.44",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d2507bac-47e6-4696-9414-b4c919059b83.png?v=1757229385"
+    },
+    {
+      "product_number": "M2H250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 250A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101960",
+      "price": "$1,136.68",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_05a0018a-7e7f-4987-b8f1-733ee19d2d38.png?v=1757229384"
+    },
+    {
+      "product_number": "M2GS250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 250A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102632",
+      "price": "$960.75",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_9d641c73-bbaa-41bc-82ac-d98863de7cec.png?v=1757229383"
+    },
+    {
+      "product_number": "M2GN250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 250A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102639",
+      "price": "$1,128.75",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_21b32079-7b4c-474b-afb4-4533d9f297b7.png?v=1757229382"
+    },
+    {
+      "product_number": "M2GH250T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 250A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102646",
+      "price": "$1,408.05",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_a26d805f-58bd-4699-bd7d-c4b006f200a2.png?v=1757229381"
+    },
+    {
+      "product_number": "M3S225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 3-poles (3P) - Rated current 225A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100365",
+      "price": "$980.47",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d71b4ac0-eb14-4398-81fb-3f3c11974bb0.png?v=1757229380"
+    },
+    {
+      "product_number": "M3S225T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 225A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100315",
+      "price": "$833.40",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_aad44164-13f3-4d24-82e3-828e8c7a66b3.png?v=1757229380"
+    },
+    {
+      "product_number": "M3N225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 3-poles (3P) - Rated current 225A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100370",
+      "price": "$1,077.44",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3dbfcf79-94fc-4890-ac54-66426184a5bc.png?v=1757229379"
+    },
+    {
+      "product_number": "M3N225T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 225A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100320",
+      "price": "$915.82",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d0cbb74a-442e-4526-85ef-f34c3e9da4c3.png?v=1757229378"
+    },
+    {
+      "product_number": "M3H225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101722",
+      "price": "$1,400.09",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_c6662386-9159-4faa-9b91-75f7e970542c.png?v=1757229377"
+    },
+    {
+      "product_number": "M3H225T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3H series) - 2-poles (2P) - Rated current 225A - Interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1102692",
+      "price": "$1,189.86",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_5a4fd60d-4de1-433d-84e5-38d5c8e31ef8.png?v=1757229376"
+    },
+    {
+      "product_number": "M2S225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100226",
+      "price": "$671.01",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f75455db-2d13-4fd8-9fc1-bfc8533cf8d9.png?v=1757229375"
+    },
+    {
+      "product_number": "M2S225T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 225A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102342",
+      "price": "$357.05",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_cb1e53d2-2f19-429e-8b71-b7cfa84db6e4.png?v=1757229374"
+    },
+    {
+      "product_number": "M2N225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100232",
+      "price": "$727.08",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_91bec0ea-15cb-42c7-b33e-4df488faf37f.png?v=1757229373"
+    },
+    {
+      "product_number": "M2N225T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 225A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102356",
+      "price": "$497.79",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_6ec21aa9-92cf-458a-9dde-4a8da748611e.png?v=1757229372"
+    },
+    {
+      "product_number": "M2N225T1L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 225A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102328",
+      "price": "$300.98",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e8f16645-4d25-48ea-a23f-a729d5914672.png?v=1757229371"
+    },
+    {
+      "product_number": "M2H225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 225A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101650",
+      "price": "$945.94",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ae3c0433-61f0-4a63-a616-ff7a2c59f053.png?v=1757229370"
+    },
+    {
+      "product_number": "M2GS225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 225A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102631",
+      "price": "$829.50",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_8946e166-6c25-4b22-8c88-010274213131.png?v=1757229369"
+    },
+    {
+      "product_number": "M2GN225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 225A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102638",
+      "price": "$899.85",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e3d4ca8c-de80-48f7-8c26-eb9cdbe813d7.png?v=1757229368"
+    },
+    {
+      "product_number": "M2GH225T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 225A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102645",
+      "price": "$1,169.70",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f3c28348-c20f-46ef-bc1f-6b24d5fe63f3.png?v=1757229367"
+    },
+    {
+      "product_number": "M2S200T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100225",
+      "price": "$671.01",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_9963b62c-47db-454c-89b8-37c49af9689f.png?v=1757229366"
+    },
+    {
+      "product_number": "M2S200T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 200A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102341",
+      "price": "$357.05",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_95b67eb5-1d66-4adf-9b7b-c543e3fbde7a.png?v=1757229365"
+    },
+    {
+      "product_number": "M2N200T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100231",
+      "price": "$727.08",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_87b6cce7-f698-419c-8c05-f860f1ce6db6.png?v=1757229365"
+    },
+    {
+      "product_number": "M2N200T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 200A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102355",
+      "price": "$497.79",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_79b5db11-59ab-4397-b140-81efc0318fec.png?v=1757229364"
+    },
+    {
+      "product_number": "M2N200T1L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 200A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102327",
+      "price": "$300.98",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_184a76f3-3aa0-4997-af8c-d3983d6676aa.png?v=1757229363"
+    },
+    {
+      "product_number": "M2H200T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 200A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101649",
+      "price": "$945.94",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_6ca1176e-5358-4e96-b607-cfaedfc929e0.png?v=1757229362"
+    },
+    {
+      "product_number": "M2GS200T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 200A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102630",
+      "price": "$829.50",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_2bc351e8-ca0f-4ad0-951c-729a90308c4e.png?v=1757229361"
+    },
+    {
+      "product_number": "M2GN200T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 200A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102637",
+      "price": "$899.85",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_7a35d5ee-399f-4384-887d-fd8218901888.png?v=1757229360"
+    },
+    {
+      "product_number": "M2GH200T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 200A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102644",
+      "price": "$1,169.70",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_465d0c0a-4068-4dfe-bc01-7068c3da1802.png?v=1757229359"
+    },
+    {
+      "product_number": "M2S175T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100224",
+      "price": "$671.01",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_993a0f09-33cc-4b25-a8cb-6661dca49c69.png?v=1757229358"
+    },
+    {
+      "product_number": "M2S175T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 175A - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102340",
+      "price": "$357.05",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b02e8c62-b2f8-4525-931a-92ad95a15f50.png?v=1757229357"
+    },
+    {
+      "product_number": "M2N175T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100230",
+      "price": "$727.08",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_37ef3b4a-9535-4c2a-87c9-bdb92d32fe9c.png?v=1757229356"
+    },
+    {
+      "product_number": "M2N175T22L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 2-poles (2P2d) - Rated current 175A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102354",
+      "price": "$497.79",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b8096f52-a391-4fd8-a649-65a2fcce42f6.png?v=1757229355"
+    },
+    {
+      "product_number": "M2N175T1L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2 series) - 1-pole (1P1d) - Rated current 175A - Interrupting capacity 10kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (fixed) (FT/FM (Fixed Thermal / Fixed Magnetic)) trip unit - equivalent to 1102326",
+      "price": "$300.98",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_953ee3c7-5cb2-4597-8698-bee59d67b69d.png?v=1757229354"
+    },
+    {
+      "product_number": "M2H175T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M2H series) - 3-poles (3P3d) - Rated current 175A - Interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101648",
+      "price": "$945.94",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b71b4fce-9aff-46e5-8c0f-cea3d02d87b9.png?v=1757229354"
+    },
+    {
+      "product_number": "M2GS175T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 175A - Ground fault protection - Interrupting capacity 14kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102629",
+      "price": "$829.50",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_833876fe-5aca-4753-b182-a8e624f7589d.png?v=1757229352"
+    },
+    {
+      "product_number": "M2GN175T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 175A - Ground fault protection - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102636",
+      "price": "$899.85",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_4182d354-15f7-49d4-9f96-7a7f067113f0.png?v=1757229351"
+    },
+    {
+      "product_number": "M2GH175T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) with built-in ground fault protection - UL489 listed - NOARK (Ex9M2G series) - 3-poles (3P3d) - Rated current 175A - Ground fault protection - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102643",
+      "price": "$1,169.70",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_6c96e1d1-3e30-4a40-8d4a-6277dfff4d58.png?v=1757229350"
+    },
+    {
+      "product_number": "M4S400T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100411",
+      "price": "$2,289.96",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_db65f983-8836-4984-be5d-652becdac476.png?v=1756624876"
+    },
+    {
+      "product_number": "M4S400T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4S series) - 2-poles (2P) - Rated current 400A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100435",
+      "price": "$1,683.76",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0ab06cfc-804c-4b8d-9459-85449748a03f.png?v=1756624874"
+    },
+    {
+      "product_number": "M4N400T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100414",
+      "price": "$2,490.22",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_61814339-6b86-4c86-9c12-aa9ffba08bb8.png?v=1756624872"
+    },
+    {
+      "product_number": "M4N400T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100438",
+      "price": "$1,991.60",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_af503c1d-2ee6-4da5-814e-6557301543f5.png?v=1756624872"
+    },
+    {
+      "product_number": "M4H400T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101750",
+      "price": "$3,237.52",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ecebd081-52aa-4c43-8a3e-3835a74674ed.png?v=1756624870"
+    },
+    {
+      "product_number": "M3S400T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100369",
+      "price": "$980.47",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_dd47594d-f5ef-4f3e-a289-5210c0dfb437.png?v=1756624869"
+    },
+    {
+      "product_number": "M3S400T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100319",
+      "price": "$833.40",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_1663555a-3b8d-4dcf-a82e-350e37e12d4f.png?v=1756624868"
+    },
+    {
+      "product_number": "M3N400T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100374",
+      "price": "$1,078.15",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ce5bf02d-2a2f-4854-981d-95ccbe05cd85.png?v=1756624867"
+    },
+    {
+      "product_number": "M3N400T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 20kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100324",
+      "price": "$915.82",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e41b29f7-6b33-468a-bb32-57aa9638d879.png?v=1756624866"
+    },
+    {
+      "product_number": "M3H400T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101726",
+      "price": "$1,400.09",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_391b7607-a9ef-446e-8871-cc117674aa41.png?v=1756624865"
+    },
+    {
+      "product_number": "M3H400T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 400A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101696",
+      "price": "$1,189.86",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e5c2ebf8-ab45-426a-b9ff-a15a63299918.png?v=1756624864"
+    },
+    {
+      "product_number": "M3S350T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100368",
+      "price": "$980.47",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_5bf05e30-2bed-4839-862e-20a5ad621961.png?v=1756624863"
+    },
+    {
+      "product_number": "M3S350T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 350A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100318",
+      "price": "$833.40",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_4b731f7d-2280-44a1-b7ec-bdec966e335a.png?v=1756624863"
+    },
+    {
+      "product_number": "M3N350T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100373",
+      "price": "$1,077.44",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_90098db5-2f9e-48cb-8ec1-6a3a34c06111.png?v=1756624861"
+    },
+    {
+      "product_number": "M3N350T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 350A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100323",
+      "price": "$915.82",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_da2167c7-e6ad-4238-98c4-ead5ed80f617.png?v=1756624860"
+    },
+    {
+      "product_number": "M3H350T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 350A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101725",
+      "price": "$1,400.09",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_6cec3180-18a2-4494-8ff8-2fd4e8cb328f.png?v=1756624859"
+    },
+    {
+      "product_number": "M3H350T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 350A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101695",
+      "price": "$1,189.86",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_9a4daa00-2dae-4582-b906-2acc54683b56.png?v=1756624858"
+    },
+    {
+      "product_number": "M3S300T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100367",
+      "price": "$980.47",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_aae424b4-cd9b-447c-bb44-7d8657c48be4.png?v=1756624857"
+    },
+    {
+      "product_number": "M3S300T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 300A - Interrupting capacity 18kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100317",
+      "price": "$833.40",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_a5f8f787-9173-4df3-8c74-7cc493452349.png?v=1756624856"
+    },
+    {
+      "product_number": "M3N300T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 25kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100372",
+      "price": "$1,077.44",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_fac98b26-361e-4d02-b9fa-d985724db68e.png?v=1756624855"
+    },
+    {
+      "product_number": "M3N300T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3N series) - 2-poles (2P) - Rated current 300A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100322",
+      "price": "$915.82",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ee2328b9-e651-4af6-8fa8-bd3efefa9a65.png?v=1756624854"
+    },
+    {
+      "product_number": "M3H300T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 3-poles (3P3d) - Rated current 300A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101724",
+      "price": "$1,400.09",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_c030255f-c5fd-45dd-bee8-0441883636c5.png?v=1756624853"
+    },
+    {
+      "product_number": "M3H300T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M3 series) - 2-poles in 3-poles case (3P2d) - Rated current 300A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101694",
+      "price": "$1,189.86",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_76ca3846-53e8-4c1a-88e9-53175d9c3ee0.png?v=1756624853"
+    },
+    {
+      "product_number": "M5S600T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - 100% neutral - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102064",
+      "price": "$5,250.62",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_691b1a97-c0e2-4b25-b95b-d16c848cba3d.png?v=1757165258"
+    },
+    {
+      "product_number": "M5S600T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102046",
+      "price": "$4,725.56",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e437f524-71dd-4f8d-941f-2fe602703cce.png?v=1757165257"
+    },
+    {
+      "product_number": "M5S600T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102028",
+      "price": "$4,253.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_489aeca1-d077-48d9-a181-ab5165ab5a11.png?v=1757165255"
+    },
+    {
+      "product_number": "M5S600T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102010",
+      "price": "$3,614.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_10f3d1cd-c528-4419-be37-20ae4e3aee1b.png?v=1757165254"
+    },
+    {
+      "product_number": "M5N600T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - 100% neutral - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102067",
+      "price": "$6,177.78",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_55fbd723-dfce-4e5c-98a6-8cf5c4469f54.png?v=1757165253"
+    },
+    {
+      "product_number": "M5N600T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102049",
+      "price": "$5,560.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_c37baa6a-f252-4bdf-b04c-b0baab558c6d.png?v=1757165251"
+    },
+    {
+      "product_number": "M5N600T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102031",
+      "price": "$5,004.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_cec3ec6a-7f75-466f-9811-46ffaa881b3c.png?v=1757165250"
+    },
+    {
+      "product_number": "M5N600T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102013",
+      "price": "$4,253.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0941d3ac-79eb-473c-967b-7faa23502344.png?v=1757165248"
+    },
+    {
+      "product_number": "M5H600T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - 100% neutral - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102070",
+      "price": "$7,102.47",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0abc7b85-f2fa-4740-a0ea-533b5c9f684b.png?v=1757165247"
+    },
+    {
+      "product_number": "M5H600T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 600A - Neutral pole without protection - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102052",
+      "price": "$6,392.22",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_02a57dcd-a2db-4d8e-a17a-24af79f2bdf8.png?v=1757165245"
+    },
+    {
+      "product_number": "M5H600T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102034",
+      "price": "$5,753.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_1b0cc88b-6dbf-4129-96b4-a54d57cad5a3.png?v=1757165244"
+    },
+    {
+      "product_number": "M5H600T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102016",
+      "price": "$4,891.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_a3fba49b-31bf-44c2-94f0-8bb140ed4f61.png?v=1757165243"
+    },
+    {
+      "product_number": "M4S600T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100413",
+      "price": "$2,289.96",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f7657fc9-bffc-41c8-a6a8-221d18176d31.png?v=1757165241"
+    },
+    {
+      "product_number": "M4S600T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 600A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100437",
+      "price": "$1,684.55",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f04f5ada-fa73-4b03-aacc-d10f015a0fcf.png?v=1757165240"
+    },
+    {
+      "product_number": "M4N600T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100416",
+      "price": "$2,490.22",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_9a30670e-5e5b-47a4-95cd-51718510a928.png?v=1757165238"
+    },
+    {
+      "product_number": "M4N600T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4N series) - 2-poles (2P) - Rated current 600A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1100440",
+      "price": "$2,105.18",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e9acb175-ff64-4df5-8c05-0ab55a3570f4.png?v=1757165237"
+    },
+    {
+      "product_number": "M4H600T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 600A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101752",
+      "price": "$3,237.81",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3bfc13f9-b1c1-4d07-b070-3d01607c5dce.png?v=1757165235"
+    },
+    {
+      "product_number": "M4H600T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4H series) - 2-poles (2P) - Rated current 600A - High interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1101764",
+      "price": "$2,589.60",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_6b09868a-6b32-4ef1-a573-e6382a6c52ec.png?v=1757165234"
+    },
+    {
+      "product_number": "M4S500T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100412",
+      "price": "$2,289.96",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_beae940c-b2e3-4815-91ee-1c9cb596a791.png?v=1757165232"
+    },
+    {
+      "product_number": "M4S500T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 500A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100436",
+      "price": "$1,684.55",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d982fedf-44e8-4aaa-822b-25f1deb893ea.png?v=1757165231"
+    },
+    {
+      "product_number": "M4N500T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100415",
+      "price": "$2,490.22",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_dad4bd04-2aa3-403b-8a62-6855f2db1549.png?v=1757165229"
+    },
+    {
+      "product_number": "M4N500T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 2-poles in 3-poles case (3P2d) - Rated current 500A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1100439",
+      "price": "$1,991.60",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_178a3869-54f3-4910-892e-b86a8873b086.png?v=1757165228"
+    },
+    {
+      "product_number": "M4H500T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4 series) - 3-poles (3P3d) - Rated current 500A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1101757",
+      "price": "$3,237.52",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_1fb0727b-1f87-4c1e-b4b3-fc1d92f4f7cc.png?v=1757165227"
+    },
+    {
+      "product_number": "M4H500T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M4H series) - 2-poles (2P) - Rated current 500A - High interrupting capacity 100kA (480Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM: Adjustable Thermal / Adjustable Magnetic) trip unit - equivalent to 1101763",
+      "price": "$2,589.60",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f26bf036-e09d-4a66-94c8-4d798aa3dba5.png?v=1757165225"
+    },
+    {
+      "product_number": "M6S800E4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101913",
+      "price": "$6,315.16",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_8f6ba5f1-fa7a-4b0d-b124-c9eb74e743c5.png?v=1757164817"
+    },
+    {
+      "product_number": "M6S800E4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101853",
+      "price": "$5,683.64",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_bacb1dcf-c953-4d62-9541-5ab562817935.png?v=1757164816"
+    },
+    {
+      "product_number": "M6S800E3W4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103197",
+      "price": "$5,936.25",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_7b9f30fb-f2b6-4749-a565-e07ac40de605.png?v=1757164815"
+    },
+    {
+      "product_number": "M6S800E3W4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103037",
+      "price": "$5,342.62",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_47407e07-cc6c-496b-90b6-e3203f97f46b.png?v=1757164814"
+    },
+    {
+      "product_number": "M6S800E3W4F",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103043",
+      "price": "$5,936.25",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e1595062-c0ef-4e07-b59b-2610387abca9.png?v=1757164813"
+    },
+    {
+      "product_number": "M6S800E3W4",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103031",
+      "price": "$5,342.62",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_08fd2dfa-c8e0-47be-840b-6f22cccafa3f.png?v=1757164812"
+    },
+    {
+      "product_number": "M6N800E4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101916",
+      "price": "$7,429.60",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_0cfd1c4a-741a-4333-b22d-421c789312e4.png?v=1757164811"
+    },
+    {
+      "product_number": "M6N800E4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101856",
+      "price": "$6,315.16",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_6d9884d4-df16-4461-a9e8-18ce0cafe65f.png?v=1757164810"
+    },
+    {
+      "product_number": "M6N800E3W4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103200",
+      "price": "$6,983.82",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_8fa36c5c-8b0a-468c-a73c-efa6990d4c1f.png?v=1757164810"
+    },
+    {
+      "product_number": "M6N800E3W4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103040",
+      "price": "$5,936.25",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_75898c4d-b11f-42e3-89f9-bfcec70ba245.png?v=1757164809"
+    },
+    {
+      "product_number": "M6N800E3W4F",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103194",
+      "price": "$6,983.82",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b5788eb9-940a-4675-b6ae-199e7a9cca07.png?v=1757164808"
+    },
+    {
+      "product_number": "M6N800E3W4",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 800A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103034",
+      "price": "$5,936.25",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_2bf67e45-ed9c-4e51-a134-cff80e4b9aad.png?v=1757164807"
+    },
+    {
+      "product_number": "M5S800T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - 100% neutral - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102066",
+      "price": "$5,817.28",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_575a237b-cecc-4112-bd31-a8d5c947154c.png?v=1757164806"
+    },
+    {
+      "product_number": "M5S800T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102048",
+      "price": "$5,235.56",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_fb4b541b-a5e3-4c04-9a42-248a9f33c1ad.png?v=1757164805"
+    },
+    {
+      "product_number": "M5S800T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102030",
+      "price": "$4,712.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_aecd1b73-cfdd-491b-9dad-22909bdeafa5.png?v=1757164804"
+    },
+    {
+      "product_number": "M5S800T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102012",
+      "price": "$4,005.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f0d63f14-a1e2-4086-bb7a-826fa531660a.png?v=1757164803"
+    },
+    {
+      "product_number": "M5N800T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - 100% neutral - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102069",
+      "price": "$6,844.44",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_4fdb2363-6e2c-4594-a717-3292b33b441c.png?v=1757164802"
+    },
+    {
+      "product_number": "M5N800T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102051",
+      "price": "$6,160.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_2bea0837-03ee-44f5-9b0b-8066673b9ebf.png?v=1757164802"
+    },
+    {
+      "product_number": "M5N800T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102033",
+      "price": "$5,544.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e2fe302a-7b75-464c-a046-43acdedc4b9a.png?v=1757164800"
+    },
+    {
+      "product_number": "M5N800T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102015",
+      "price": "$4,712.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_53c1e5c9-4954-4559-b4cc-82a06d678870.png?v=1757164799"
+    },
+    {
+      "product_number": "M5H800T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - 100% neutral - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102072",
+      "price": "$7,870.37",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f300ae28-9cba-4c93-ad9d-d9664a6dcf48.png?v=1757164799"
+    },
+    {
+      "product_number": "M5H800T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 800A - Neutral pole without protection - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102054",
+      "price": "$7,083.33",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d60c34a3-2154-4016-91ec-c337ad8ca0a6.png?v=1757164798"
+    },
+    {
+      "product_number": "M5H800T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 800A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102036",
+      "price": "$6,375.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3fcab4a6-3d27-43b1-a306-83471f9ea4e8.png?v=1757164797"
+    },
+    {
+      "product_number": "M5H800T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 800A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102018",
+      "price": "$5,419.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_fb8cf499-f71d-4f8b-98f4-90fad767e29b.png?v=1757164796"
+    },
+    {
+      "product_number": "M5S700T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - 100% neutral - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102065",
+      "price": "$5,527.16",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_15a0cf7c-f0f8-41c6-9517-dad0c9e4f5cc.png?v=1757164795"
+    },
+    {
+      "product_number": "M5S700T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102047",
+      "price": "$4,974.44",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_1acb3048-5b23-407d-84dd-7072884f8a9a.png?v=1757164795"
+    },
+    {
+      "product_number": "M5S700T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102029",
+      "price": "$4,477.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_8bf468bd-db0c-4381-b0d9-397fd32f6e7f.png?v=1757164793"
+    },
+    {
+      "product_number": "M5S700T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 22kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102011",
+      "price": "$3,805.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_56a1da9c-ba88-4945-aa0e-9c36aef9f582.png?v=1757164791"
+    },
+    {
+      "product_number": "M5N700T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - 100% neutral - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102068",
+      "price": "$6,501.23",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b426dceb-9059-4671-bf70-75af4ef18959.png?v=1757164790"
+    },
+    {
+      "product_number": "M5N700T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102050",
+      "price": "$5,851.11",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_441f933b-6ea1-4fd8-942e-3fc699b1051f.png?v=1757164788"
+    },
+    {
+      "product_number": "M5N700T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102032",
+      "price": "$5,266.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3a476aa5-1817-4042-be8e-66100dcfcbf1.png?v=1757164786"
+    },
+    {
+      "product_number": "M5N700T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 30kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102014",
+      "price": "$4,477.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3e077c77-8af7-4857-a9b6-521e25b3e0a5.png?v=1757164785"
+    },
+    {
+      "product_number": "M5H700T4LC",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - 100% neutral - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102071",
+      "price": "$7,476.54",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_230dd22e-e515-4aa4-a2af-a021fd123770.png?v=1757164783"
+    },
+    {
+      "product_number": "M5H700T4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 4-poles (4P4d) - Rated current 700A - Neutral pole without protection - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102053",
+      "price": "$6,728.89",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_de648d7a-baf4-40b5-9901-1623eb1a6682.png?v=1757164782"
+    },
+    {
+      "product_number": "M5H700T3L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 3-poles (3P3d) - Rated current 700A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102035",
+      "price": "$6,056.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_293cf4c1-e4c3-4876-9b7a-6e8d9592555e.png?v=1757164781"
+    },
+    {
+      "product_number": "M5H700T2L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M5 series) - 2-poles in 3-poles case (3P2d) - Rated current 700A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Thermal-Magnetic (adjustable) (AT/AM (Adjustable Thermal / Adjustable Magnetic)) trip unit - equivalent to 1102017",
+      "price": "$5,148.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d69a638c-f0c3-451e-9133-661a228ffaf4.png?v=1757164780"
+    },
+    {
+      "product_number": "M6S1200E4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101915",
+      "price": "$7,796.49",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_62611e81-288c-42a3-9247-f3108babd9c6.png?v=1757164709"
+    },
+    {
+      "product_number": "M6S1200E4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101855",
+      "price": "$7,016.84",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d384cb98-99f9-490d-8b52-db8c785dabf1.png?v=1757164708"
+    },
+    {
+      "product_number": "M6S1200E3W4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103199",
+      "price": "$7,328.70",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_e5c0b002-8298-4ba0-ad24-c69edf0ade7b.png?v=1757164706"
+    },
+    {
+      "product_number": "M6S1200E3W4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103039",
+      "price": "$6,595.83",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_275616a2-94b3-4258-a335-df28c466c6cf.png?v=1757164705"
+    },
+    {
+      "product_number": "M6S1200E3W4F",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103193",
+      "price": "$7,328.70",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_d6f39a56-99da-4d9d-b0b0-15cd633bc629.png?v=1757164703"
+    },
+    {
+      "product_number": "M6S1200E3W4",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103033",
+      "price": "$6,595.83",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_b63e99fa-aa59-497e-b32b-e46c5f89fee3.png?v=1757164702"
+    },
+    {
+      "product_number": "M6N1200E4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101918",
+      "price": "$9,172.34",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_36f002a8-5f7f-41b8-a8a4-f8aea6fa5815.png?v=1757164700"
+    },
+    {
+      "product_number": "M6N1200E4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101858",
+      "price": "$7,796.49",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_bcff11f6-4b9f-4de7-8636-a1efb01e5695.png?v=1757164699"
+    },
+    {
+      "product_number": "M6N1200E3W4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103202",
+      "price": "$8,622.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_a2f1c4e6-e454-44e7-8d9b-2291fc64ddde.png?v=1757164697"
+    },
+    {
+      "product_number": "M6N1200E3W4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103042",
+      "price": "$7,328.70",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_cf261413-f13b-43ed-b21c-8ca5851fe078.png?v=1757164696"
+    },
+    {
+      "product_number": "M6N1200E3W4F",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103196",
+      "price": "$8,622.00",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_50e3fe3b-6165-4a22-b84b-75ce4ab3c418.png?v=1757164694"
+    },
+    {
+      "product_number": "M6N1200E3W4",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1200A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103036",
+      "price": "$7,328.70",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_aebfd73e-ef6f-4bac-9207-e09f3d8c03e7.png?v=1757164693"
+    },
+    {
+      "product_number": "M6S1000E4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1101914",
+      "price": "$7,016.84",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_40e82f61-f532-4cd3-bc6a-f0f22990ae63.png?v=1757164691"
+    },
+    {
+      "product_number": "M6S1000E4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6S series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1101854",
+      "price": "$6,315.16",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f3428b53-f5d9-40b7-a35c-e7b306602a0f.png?v=1757164690"
+    },
+    {
+      "product_number": "M6S1000E3W4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103198",
+      "price": "$6,595.83",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_cb491646-703d-4ec0-9e5f-2ba21558aa96.png?v=1757164688"
+    },
+    {
+      "product_number": "M6S1000E3W4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103038",
+      "price": "$5,936.25",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_19eb96ac-cb2b-4bf4-b703-128545c77816.png?v=1757164687"
+    },
+    {
+      "product_number": "M6S1000E3W4F",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103044",
+      "price": "$6,595.83",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_c41f79e7-4759-4650-9950-23dbaf61575c.png?v=1757164685"
+    },
+    {
+      "product_number": "M6S1000E3W4",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 42kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103032",
+      "price": "$5,936.25",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f0f4cfce-cc80-466a-9a3f-0b1682521680.png?v=1757164684"
+    },
+    {
+      "product_number": "M6N1000E4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - includes adjustable neutral protection (F = full protection on 4th pole) - equivalent to 1102661",
+      "price": "$8,255.11",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_7ce1f3c4-243d-42b5-959e-6e823809d547.png?v=1757164682"
+    },
+    {
+      "product_number": "M6N1000E4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - UL489 listed - NOARK (Ex9M6N series) - 4-poles (4P) - Rated current 1000A - Interrupting capacity 50kA (600Vac) - Lugs on both load and line sides - Electronic trip unit (ETU) - Fixed settings - equivalent to 1102660",
+      "price": "$7,016.84",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_be19c9b9-3381-4fb0-b6bb-89c9fecc53f2.png?v=1757164679"
+    },
+    {
+      "product_number": "M6N1000E3W4LF",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103201",
+      "price": "$7,759.80",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_3e816e66-f1db-4c2c-bbbd-873422da6725.png?v=1757164677"
+    },
+    {
+      "product_number": "M6N1000E3W4L",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - Lugs on both load and line sides - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103041",
+      "price": "$6,595.83",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_de468e1b-be5e-45ca-b19e-0e96349be478.png?v=1757164675"
+    },
+    {
+      "product_number": "M6N1000E3W4F",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 100% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103195",
+      "price": "$7,759.80",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_ae19223a-a686-4027-9641-a70c01e34bac.png?v=1757164673"
+    },
+    {
+      "product_number": "M6N1000E3W4",
+      "product_details": "Moulded Case Circuit Breaker (MCCB) - 80% rated - UL489 listed - NOARK (Ex9M6 3P4W series) - 4-wire 3-phase (3P4W) / 3-poles (3P3d) - Rated current 1000A - Interrupting capacity 65kA (480Vac) - busb. connections - Electronic (Series 4.0 (LSIG)) trip unit - equivalent to 1103035",
+      "price": "$6,595.83",
+      "stock_status": "In Stock",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/2319/files/Noark_MCCB_f310cfb8-a778-45e4-b59c-dbabcb366c3f.png?v=1757164671"
+    }
+  ]
+}
